@@ -8,11 +8,11 @@
     <xsl:variable name="fieldMap">
         <map v3="id" v4="id"/>
         <map v3="author_facet" v4="author_tsearchf_stored" />
-        <map v3="composition_era_facet" v4="composition_era_f" />
+        <map v3="composition_era_facet" v4="composition_era_tsearchf_stored" />
         <map v3="date_text" v4="published_display_tsearch_stored" />
-        <map v3="digital_collection_facet" v4="digital_collection_f_stored" />
-        <map v3="format_facet" v4="format_f" />
-        <map v3="language_facet" v4="language_f" />
+        <map v3="digital_collection_facet" v4="digital_collection_tsearchf_stored" />
+        <map v3="format_facet" v4="format_tsearchf_stored" />
+        <map v3="language_facet" v4="language_tsearchf_stored" />
         <map v3="language_facet" v4="language_note_a" />
         <map v3="shadowed_location_facet" v4="shadowed_location_f"/>
         <map v3="subject_facet" v4="subject_tsearchf_stored"/>
@@ -22,9 +22,7 @@
     
     <xsl:output method="xml" indent="yes" omit-xml-declaration="yes"/>
     <xsl:template match="add">
-        <add>
-            <xsl:apply-templates select="*"/>
-        </add>
+        <xsl:apply-templates select="*"/>
     </xsl:template>
     
     <xsl:template match="doc">
