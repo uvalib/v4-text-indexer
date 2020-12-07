@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1900's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2006_07/uvaGenText/tei/bov_19071015.xml</field>
+      <field name="date_indexed_facet">201909240344</field>
+      <field name="date_text">October 15, 1907</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:302033</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. October 15, 1907</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  October 15, 1907</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  October 15, 1907</field>
+      <field name="year_display">October 15, 1907</field>
+      <field name="year_facet">1907-10-15</field>
+      <field name="year_multisort_i">1907</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:302033&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:302033&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. October 15, 1907&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;October 15, 1907&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1907-10-15&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;October 15, 1907&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Public minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;0 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information. Access to minutes containing salary information will be granted only under the procedures of the Virginia Freedom of Information Act (Code of Virginia-2.1-340 ff.) or if permission is granted by the Secretary of the Board. Researchers interested in obtaining access to these records should direct a request in writing to the Office of the Legal Adviser, Madison Hall, University of Virginia. These public minutes have had salary information deleted and bear no restrictions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1907-10-15&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 11 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">University of Virginia, October 15th, 1907. At a called meeting of the Board of Visitors on above date, in the President's Office, East Lawn, Present: The Rector, and Visitors Buchanan, Craddock, Harmon, Hunton, Moore, and Norton, and the President, The Board was called to order by the Rector at 2 30 P. M., and the following adopted. Resolved That the Board of Visitors accept with gratitude the gift by and from John Armstrong Chanler, of his property, situate in Albemarle County, Virginia, known as "Merrie Mills", and that the thanks of the Board be conveyed to the generous donor. Resolved: That Dr. James Carroll Flippin be appointed Adjunct Professor of Therapeutics for the session of 1907-'08 at a salary of $500.00 This amount to be paid out of excess from appropriation for Dr. Barringer's Salary. Resolved: That the salary of Dr. Bruce R. Payne, Professor of Secondary Education and Psychology, be increased from $250.00 to $500.00 per annum. This sum is in addition to the $2500.00 donated by the General Education Board for salary of Dr. Payne. Resolved: That the Chair of Economic Geology, recently established at this University be designated the "William Barton Rogers Chair of Economic Geology," in recognition of the eminent and devoted services of William Barton Rogers to the University of Virginia. Resolved: That the sum of $500.00 be appropriated to cover expenditures in repairing and repainting the interior of the Administration Building of the University Hospital, out of the residue of the Hospital "Building Fund." Resolved: That in addition to the salary of $3000.00 per annum, paid, and to be paid Dr. C. H. Bunting, Professor of Pathology, he be allowed a commutation of rent of $300.00 Resolved: That the thanks of the Board of Visitors be conveyed to Dr. J. Ackerman Coles, for his generous gift of a life-size bronze bust of Thomas Jefferson to the University. Resolved: (The Trustees of the Miller Fund concurring), that the three Miller Scholarships now given, with a value in each case of over $250.00 a year, be declared teaching scholarships, and that it be made a condition of their tenure, beginning with session of 1908-'09, that the incumbent shall in each case give, not to exceed, one-third of his time, as may be required, to service as an Assistant in the Biological Laboratory. Resolved: That the petitions of Prof. Bruce R. Payne and others with regard to lease of University grounds for building purposes, be referred to the previously appointed Committee on Fraternity Houses, with power to act. Resolved, that Dr. R. M. Bird, Collegiate Professor of Chemistry, be paid full salary from August 1, 1907, that Dr. Thomas L. Watson, Professor of Economic Geology, be paid full salary from July 1, 1907, and that the amount budgeted for the securing of an Adjunct Professor of Surgery be increased from $1250.00 to $1500.00 per annum, and the amount budgeted for the securing of an Instructor in Public Speaking and Expression be increased from $800.00 to $900.00 Resolved: That the resolution adopted at the June meeting in 1907, relating to the employment of an Attorney for the University be rescinded, and that a committee of three be appointed to consider and report to the Board upon the expediency of the employment of such attorney at a fixed salary, and if such appointment be deemed expedient by said committee, that they define the duties of such attorney and recommend the amount of salary. To serve on this committee, Visitors Harmon, Craddock, and Norton, and the President. Resolved: That the Rector be authorized to transmit to the Second Auditor, the Financial Report of the President of the University as the Report of the Visitors required by law. Resolved: That a committee of three be appointed by the Rector to consider and report to the Board the propriety of making an annual appropriation to be used by the President of the University in such necessary entertainment of distinguished visitors to the University, and in such necessary local entertaining, as may be considered helpful to the best interests of the University" To serve on this Committee, Visitors Hunton, Craddock, Harmon &amp; Rector. The Board, having received the communication of H. Noreck, addressed to the President, has determined that the subject does not call for further consideration; and the Secretary is requested to forward him a copy of this resolution. On motion, the Board adjourned, to meet at 8:00 P. M., Dec. 2nd. I. K. Moran, Secretary. Armistead C. Gordon Rector</field>
+   </doc>
+</add>

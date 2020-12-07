@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Mitford, Mary Russell, 1787-1855</field>
+      <field name="author_facet">Mitford, Mary Russell, 1787-1855</field>
+      <field name="author_sort_facet">mitford mary russell 1787 1855</field>
+      <field name="author_text">Mitford, Mary Russell, 1787-1855</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1820's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V3.0067.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1827</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460505</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Painter's Daughter</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Painter's Daughter</field>
+      <field name="title_facet">painters daughter</field>
+      <field name="title_sort_facet">painters daughter</field>
+      <field name="title_text">The Painter's Daughter</field>
+      <field name="year_display">1827</field>
+      <field name="year_facet">1827</field>
+      <field name="year_multisort_i">1827</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460505&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460505&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Mitford, Mary Russell, 1787-1855&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;mitford mary russell 1787 1855&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Painter's Daughter&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;painters daughter&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1827&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1827&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Mitford, Mary Russell&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1787&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1855&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Painter's Daughter&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Geo. B. Whittaker&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1827&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872851-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv30067&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Painter's Daughter&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 35 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only verse drama included&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Dedication included with Cunigunda's Vow&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The painter's daughter.</field>
+      <field name="desc_meta_file_display">Genre: Drama.</field>
+      <field name="desc_meta_file_display">Date first published: 1827.</field>
+      <field name="desc_meta_file_display">Date first performed: Unknown.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE PAINTER'S DAUGHTER. A DRAMATIC SCENE.</field>
+      <field name="fulltext">CHARACTERS. Colantonio del Fiore. Angelo Solario. Laura. Lisabetta.</field>
+      <field name="fulltext">Scene—An Artist's Painting-Room—Flower-pieces finished and unfinished on the walls and the easel— a large picture covered with a veil in the front.</field>
+      <field name="fulltext">Colantonio, and Lisabetta. Colantonio. Good Lisabetta, know'st thou of my daughter, Madonna Laura? I have sought in vain Her chamber and her garden bower. Lisabetta. She's still At vespers, Signor. Colantonio. Aye, I might have guess'd— My fair and pensive nun! She flies the light And vain companionship of this gay city; Shunning alike woman her gossip, man Her vassal; coy, demure, retiring, shy, Living in Naples here as if the world Were all made up of the still garden where My flowers grow, and this cool quiet room Where my old hand, not yet deprived by age Of its accustom'd skill, lends them new life On canvas. But to seek the lonely church, Where, closely veil'd, at vesper-hour she steals To muse and pray, my gentle daughter ne'er Forsakes her home. Lisabetta. In truth, she is too sad. But, good padronè, 'tis thy fault. A maid So fair, so rich, should have been match'd long since With some gay cavalier. That vow of thine, That save a painter, a great painter, none Should wed Madonna Laura, may perchance Keep the Madonna Laura long a maid. For of rare artists some are old, and some Are wedded, and some love their single state More than a fair young bride. 'Tis certain none Hath wooed her to thy heart's content;—and she— Alas, poor child!—likes none of them. Colantonio. Sage nurse, Dost love a secret? Lisabetta. Aye. Colantonio. A secret too That thou may'st tell? Lisabetta. Canst thou doubt that? Colantonio. Then listen! Haste to the jewellers and merchants, furnish A wardrobe for a princess;—to the cooks, Confectioners, and spice-men; let us have A banquet fit for kings;—send round the city To bid my friends and kindred;—for the morrow Is Laura's bridal. Lisabetta. And her husband? Colantonio. One Whose name hath darted into fame, as the star Of evening springs to light. Lisabetta. Hast seen him? Colantonio. No. But I have seen the master-work by which He wooes her;—yonder curtain'd—hark! She comes. No word of this to her. Enter Laura. My Laura! Laura. Take My veil, good nurse; the heat is stifling. [Exit Lisabetta. Father, What would'st thou of me? Julio says, that twice Thou call'dst for Laura. Colantonio. I would say to thee— Sit here by me, thy hand in mine:—this hand So soft and warm, yet trembling as it knew Its destiny, is claim'd, my Laura. Laura. Claim'd? Colantonio. Aye, by a lover, dearest. Laura. Lover! Colantonio. Say A husband, sweet one, if it please thee better. Laura. By whom? Colantonio. A painter who hath come from Rome To seek thy love. Laura. Love! Do I know him? Colantonio. No. Laura. Doth he know me? Colantonio. He says that he has seen My beauteous daughter—here's his letter!—Surely I think he loves thee. Laura. Loves me! If he did, I love not him! And wherefore must I wed? Art weary of me, father? Colantonio. Sweet one, no! Laura. Am I a burthen in thy house? Colantonio. The joy! The pride! the sunshine! Laura. Prythee, let me bide In this dear home, and wear away my days In ministering to thee. I have been No thriftless housewife. Trust me, thou would'st miss Thine own poor Laura, when some menial hand Shook up thy pillow, when some menial tread Broke rudely on thy slumbers—thou would'st miss The soft light touch of love,—and at thy meals, Thy solitary meals, and the sweet hour Of morning meeting, and the tenderer time That blends a blessing with good-night!—Oh father, Why would'st thou send me from thee? Colantonio. Didst thou think I could part from thee? Go to! we are rich In worldly pelf; thy spouse shall dwell with us Here in the home thou lov'st. Thou shalt not quit Thy pretty garden bower, thy myrtle shade For winter, or the summer walk, where grapes Hang through the trellis arch amidst their rich And clustering leaves. Thou shalt dwell here, as now, In thine own pleasant home, thine old fond father Blessing thee still at morn and eve. But wed, Wed, my own Laura! Thou art mine only child, The child of mine old age, and I would fain Live thy fair childhood o'er again, would see Thy beauty multiplied, would taste that fondest And tenderest ecstasy, a grandsire's love. Besides, thou know'st my vow. Kings have ere now, If chronicles say sooth, offer'd their heirs The prize of valor, of brute strength; I held thee At higher price, my Laura, when I swore None but a victor in the noble field Of Art should win thee, save a painter none Should call thee wife. Laura. Alas! Colantonio. And I have quell'd The father's natural longing to extend His race; and, marvelling at thy coldness, joy'd To see thee turn from the proud cavaliers Of the gay city, with a gentle scorn That waved away their wooings as the hand Fans off the flies in summer time,—have joy'd To see my virgin flower hang in the shade From year to year, fresh, dewy, beautiful, As when it burst the bud— Laura. Oh flatterer, fie! Colantonio. Nestling within its bower, so that no soil Of the rude world came near it, scarcely kiss'd By the hot breath of the sun. But now, my Laura, (uncovering the picture,) Look on that picture; needs no practised eye To scan its beauty. Art sits triumphing Like nature there, with daylight, life and youth. Almost the vital breath hangs on those lips Of parted coral; almost the warm blood Glows in the modest cheek, and tender thought Dwells in the fair broad forehead. 'Tis a young Madonna. Look at the soft downcast eye, The head bent downward! Look! Hast thou ne'er seen Such features? Laura (to herself). 'Tis myself! Younger and fairer— But such as love—And so my braided locks I wore disparted; so the silken hood, Intensely blue, lay on my hair. Fool! Fool! The very puppet of a dream! He was A soldier, a brave soldier! Colantonio. He who painted That picture loves thee, claims thee, the rich guerdon Of excellence in art; with noble pride He wooes as Theseus erst Hippolyta, Conquering his lovelier bride. Laura. Hast seen him? Colantonio. No. Laura. His name? Colantonio. Zingaro. Laura (to herself). Fool! fool! fool! to think Because a dream, or some strange trick of the sense, Of memory, or fancy, some sweet sound Passing along the air—I had been sitting Within the bower he loved, entranced in thought, Fond dreamy thought of him, through the hot noon, And then I heard the nightingale afar Or distant viol from the bay, and straight Deem'd 'twas his fav'rite air—Fool! fool! His hand Wielded the sword and shield, and deftly rein'd The manèged steed! Little he reck'd of brush Or palette;—then the time!—long, long ere now, Hath he forgotten his poor Laura! Man Loves on till hope be dead, then love dies too; 'Tis only woman lays her silly heart In hope's cold urn, and in that fun'ral nest Broods o'er her love. Colantonio. Well! hast thou gazed thy fill? It likes me, dearest, that with quivering lips, And mutter'd words, and cheeks with passion pale, Thou look'st on yonder picture. It hath thaw'd Thy maiden coldness. I will send forthwith To summon this Zingaro. Laura. Father, stay! Listen! I am about to tell a tale Too long unutter'd. Listen! Thou hast talk'd Of maiden coldness. I have loved, I love With all the ardour that our burning sun Strikes into woman's heart. Nay, start not, father, Nor put me from thee thus! I'll tell thee all. Thou hast no cause to blush for me; I loved Deeply and fervidly, but chastely, father, As ever priestess of old Rome adored Her god Apollo. Colantonio. Whom? Laura. Dost thou remember Young Angelo Solario, the son Of our rich neighbour? Colantonio. He! Why he hath left Naples these ten years! Laura. And for ten long years Dwelt in my heart. Colantonio. Aye, I remember now. The Count Solario once proposed to join Our children's hands. Laura. Oh good old man! Colantonio. It wrought in me Some marvel that he would abase his son To wed a painter's daughter. Laura. Kind old man! Colantonio. But I had vow'd thee ev'n before thy birth To my great art; its votary, if a boy; If a weak girl, its guerdon. Thus I said To Count Solario: “Pluck from thy hot son The sword he loves o'erwell, and bid him wield The peaceful pencil; then, if Heaven have given The painter's eye, the painter's hand, and (rarest And needfullest of all) that inward beam, Genius, of painter and of poet bright And glorious heritage!—Then when, matured By time and patient toil, he shall achieve Some master-work of art, then bid him come, And he shall woo my daughter.” The old man Laugh'd; and the gallant—I bethink me now That Angelo was there—curl'd his proud lip, And fix'd his flashing eye, and tightlier grasp'd His jewell'd sword. Laura. Spake he? Colantonio. No word. He went Forth to the wars that very week; and then The father died;—Why, Laura mine, thou wast A girl when he departed! Laura. Old enough To love. The day he said, Farewell, I wrote Sixteen in my short book of life. Ten years This very day! Oh old enough for love! Colantonio. For fancy, flickering fancy; such as girls Waste on a momentary toy, a flower, A linnet, an embroider'd robe. Laura. For love. Woman's intense and passionate love. I've seen Ten times the changing seasons wax and fade, Have seen the spring-tide of my youth pass by In absence, hopelessness, despair, and still The thought within my heart, the voice that lived Within mine ear, the image in mine eye, Was Angelo. His loved idea hath been My sole reality. All waking things, The common pageants of this work-day world, Pass'd by me as a dream, confused, unmark'd, Forgotten! Then I lived, then my soul woke, When in the myrtle arbour, where erewhile We spent our childish hours, I could sit Alone up-coiled into myself, and muse On him, till memory would conjure back The very image of his sparkling youth Before mine eyes; the light elastic form Whose every motion was a bound, whose walk A gay curvet as springy as the pace Of his own Barbary steed; the face as dark Even as a Moor's, but brightened by a smile Vivid as noonday sunshine, eyes that flash'd An insupportable light, and close black curls Beneath the plumed cap,—I saw them all! And in mine ear the very sound would dwell Of that farewell which was a vow, that voice Which in a tone of prophecy would cry, “Laura, I'll wed thee yet!” Colantonio. This is a phrensy. Laura. Oh, father, it is love! Colantonio. Laura, my sweet one, The fault is mine. Thou hast been left o'erlong Lonely and uncompanion'd, till vain dreams, And thoughts vainer than dreams, have overborne Thy better reason. Ten years, and thou hear'st Nothing of Angelo! or he is dead, Or thou forgotten. Laura. Father, listen, father! Last night—I should have said there was an air, A rich, yet simple strain, whose burthen well Became our summer seas, joyous or sad As the deft singer in his varying mood Hurried or stayed the measure, always sweet, Most exquisitely sweet! That air from boyhood Angelo loved; would carol as he walk'd Along the streets; sing whilst his plashing oar Kept time; and ever and anon a snatch Of the familiar strain might travellers list, Crossing the sharp sound of his horse's tread. That strain by constant and peculiar use Became his very own, belonged to him As her sweet music to the nightingale, Unmatched of any. From a little child I knew those notes; for so would Angelo Summon his fairy playmate;—'twas the lure Of gamesome innocence, the call of love, For ten years past unsounded,—till last night Ling'ring in pensive musings in my bower, I heard once more the strain. Colantonio. A dream! a dream! Laura. Sure as I live, the sound was there. 'Twas not The vision which at pleasure fancy calls Or chases. I arose, I walked; yet still That air in its old sweetness, each division Musical as a mermaid's song, was borne Upon the breeze, though faintlier heard and faintlier As I receded. It was Angelo, Or of those noises of the air which oft Wait round the living, when the parting soul Of the beloved-one seeks its Heaven,—the knell Which the Death-angel rings. (Music without.) Hark! Colantonio. I hear nothing. (Music without and nearer.) Aye now! Laura. My Angelo, alive or dead, I will be thine, thine only! (Music again without.) Hark again! Colantonio. I shame to have hearkened to this tale. My Laura, I tell thee thou art vow'd and dedicate To genius, to Zingaro. (Angelo Solario enters behind, unperceived by either speaker.) Laura. I will never Wed other man than Angelo. Thy vow Is sacrilegious, father, and unblest As his, the judge of Israel, his, the king Of men, whose sacrificial knife drank deep The innocent blood in Aulis. I have wept When I have heard the tale of Jephthah's daughter Or poor Iphigenia: yet their lot, Measured with mine was blessedness. They died. But I should linger out a martyrdom Of loveless life. There is no law of earth Or Heaven that vests thee with a power to barter Thy living child for yon vain shadow. Give Thy ducats to Zingaro. Stay me not! I'll to a nunnery—hold me not! Unless To list my vow that nor by force or fraud Will I e'er wed— Angelo (advancing). Oh fairest constancy! Oh miracle of woman's faith; Laura. 'Tis he! His very self! This hand that presses mine, These eyes that gaze on me—Just so he looked, Just so he spake.—Oh surely I have dreamt This ten years' absence! It was yesterday We parted! Angelo. Loveliest, most beloved, I come To claim thee. Colantonio. She is promised. Angelo. To Zingaro? Colantonio. Even so, good signor. Laura. Never! Never! Angelo. Sweetest, Make no rash vows. If thou would crown my love, Thou'lt wed Zingaro. Nay, snatch not away This struggling hand!—the hand Zingaro won For Angelo! Hast thou not read me yet? Must I needs tell thee— Laura. Oh no, no, no, no! Thou art he! Ye are one! And thou for me hast laid Thy state aside, hast flung away thy sword, Hast toil'd in silence and in secresy, For me! for me! Father, speak to him! Father, Speak to him! Colantonio. Calm thee, mine own Laura. Signor, Thou hear'st her: says she sooth? Art thou indeed The famed Zingaro? Is this master-work Of painting thine? Angelo. Oh now I see that work, That master-work of nature, whose rare beauty I strove to copy, faint and feeble seems My portraiture! Such as it is, the piece Is mine. Colantonio. My son! Angelo. My father! Colantonio. Wherefore change Thy name? and why not say— Angelo. Sir! When I left Thy presence, even when thou bad'st me wield The peaceful pencil, and by toil and time Climb the high steep of art, or ere I wooed Thy daughter, even as thou spak'st, my soul Was fix'd to its great purpose, and almost Had I flung at thy feet my sword, and vow'd To win the prize or die; yet fear and shame Master'd my speech, and I went forth resolved And silent. Colantonio. Whither didst thou go? Angelo. To Rome, The shrine of art, on love's own pilgrimage. My friends and kinsmen deem'd me at the camp; None save my father guess'd—and, when he died, I was of all forgotten. Laura. Not of all. Angelo. Of all, save one the faithfullest. Meantime, A nameless student, day and night I toil'd For that dear faithful one. From my swart skin My laughing comrades called me oft in jest Zingaro Gipsy.—The groundwork of the foregoing scene will be found in Mr. Mills' very interesting “Travels of Theodore Ducas.” I have only taken the liberty to change the name of my hero from Antonio to Angelo. A similar anecdote has been related of several painters, especially of Quintin Matsys, the celebrated blacksmith of Antwerp —though I have for obvious reasons preferred the Italian version of the story. What could one do with a blacksmith and a Dutchman, and a man who painted misers counting their gold?, till at last the name of scorn Was crown'd by fame. Oh very dear to me The name that won thee, Laura! Colantonio. Will she wed Zingaro? Laura. Will I!—Father, was my love A frenzy? Colantonio. Sweet one, love and constancy Have wrought this blessedness. Receive thy bride, Thy twice-won bride, Zingaro! Laura. He but gives My hand. My heart is Angelo's. Angelo. Mine! Mine! Both mine!</field>
+   </doc>
+</add>

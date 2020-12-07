@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Goldsmith, Oliver, 1730-1774</field>
+      <field name="author_facet">Goldsmith, Oliver, 1730-1774</field>
+      <field name="author_sort_facet">goldsmith oliver 1730 1774</field>
+      <field name="author_text">Goldsmith, Oliver, 1730-1774</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1960's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V2.0480.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1969</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460155</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Captivity ; an Oratorio</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 20th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 20th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Captivity ; an Oratorio</field>
+      <field name="title_facet">captivity</field>
+      <field name="title_sort_facet">captivity</field>
+      <field name="title_text">The Captivity ; an Oratorio</field>
+      <field name="year_display">1969</field>
+      <field name="year_facet">1969</field>
+      <field name="year_multisort_i">1969</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460155&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460155&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Goldsmith, Oliver, 1730?-1774&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;goldsmith oliver 1730 1774&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Captivity ; an Oratorio&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;captivity&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1969&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1969&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Goldsmith, Oliver&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1730&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1774&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Captivity&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;an Oratorio&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Longmans, Green and Company&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1969&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872483-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv20480&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Captivity&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;an Oratorio&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 26 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;(c) 1994 Chadwyck-Healey. Do not export or print from this database without checking the Copyright Conditions to see what is permitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only The Captivity: an Oratorio included&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Copyright (c) 1969, Longman Group Ltd.</field>
+      <field name="desc_meta_file_display">This text may not be reproduced, except for fair</field>
+      <field name="desc_meta_file_display">dealing purposes, without the permission of Chadwyck-Healey Ltd.</field>
+      <field name="desc_meta_file_display">and the copyright holder.</field>
+      <field name="desc_meta_file_display">&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The captivity.</field>
+      <field name="desc_meta_file_display">Genre: Opera.</field>
+      <field name="desc_meta_file_display">Date first published: 1820.</field>
+      <field name="desc_meta_file_display">Date first performed: 1728–1744.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">The Captivity: an Oratorio</field>
+      <field name="fulltext">ACT I Scene I Israelites sitting on the Banks of the Euphrates FIRST PROPHET Recitative Ye captive tribes, that hourly work and weep Where flows Euphrates murmuring to the deep, Suspend awhile the task, the tear suspend, And turn to God, your father and your friend. Insulted, chained, and all the world a foe, Our God alone is all we boast below. CHORUS OF ISRAELITES Our God is all we boast below, To him we turn our eyes; And every added weight of woe Shall make our homage rise. And though no temple richly dressed Nor sacrifice is here, We'll make his temple in our breast, And offer up a tear. SECOND PROPHET Recitative That strain once more; it bids remembrance rise, And calls my long-lost country to mine eyes. Ye fields of Sharon, dressed in flowery pride, Ye plains where Jordan rolls its glassy tide, Ye hills of Lebanon with cedars crowned, Ye Gilead groves that fling perfumes around, These hills how sweet! those plains how wondrous fair, But sweeter still, when Heaven was with us there! Air O memory, thou fond deceiver, Still importunate and vain; To former joys recurring ever, And turning all the past to pain; Hence, deceiver, most distressing, Seek the happy and the free: They who want each other blessing, Ever want a friend in thee. FIRST PROPHET Recitative Yet, why repine? What, though by bonds confined, Should bonds enslave the vigour of the mind? Have we not cause for triumph when we see Ourselves alone from idol-worship free? Are not this very day those rites begun, Where prostrate error hails the rising sun? Do not our tyrant lords this day ordain For superstition's rites and mirth profane? And should we mourn? should coward virtue fly, When impious folly rears her front on high? No; rather let us triumph still the more, And as our fortune sinks, our wishes soar. Air The triumphs that on vice attend Shall ever in confusion end; The good man suffers but to gain, And every virtue springs from pain: As aromatic plants bestow No spicy fragrance while they grow; But crushed, or trodden to the ground, Diffuse their balmy sweets around. SECOND PROPHET Recitative But hush, my sons, our tyrant lords are near; The sound of barbarous mirth offends mine ear; Triumphant music floats along the vale; Near, nearer still, it gathers on the gale; The growing note their near approach declares; Desist, my sons, nor mix the strain with theirs. Enter Chaldean Priests attended FIRST PRIEST Air Come on, my companions, the triumph display; Let rapture the minutes employ; The sun calls us out on this festival day, And our monarch partakes of our joy. Like the sun, our great monarch all pleasure supplies, Both similar blessings bestow; The sun with his splendour illumines the skies, And our monarch enlivens below. CHALDEAN WOMAN Air Haste, ye sprightly sons of pleasure; Love presents its brightest treasure, Leave all other sports for me. CHALDEAN ATTENDANT Or rather, love's delights despising, Haste to raptures ever rising: Wine shall bless the brave and free. SECOND PRIEST Wine and beauty thus inviting, Each to different joys exciting, Whither shall my choice incline? FIRST PRIEST I'll waste no longer thought in choosing; But, neither love nor wine refusing, I'll make them both together mine. Recitative But whence, when joy should brighten o'er the land, This sullen gloom in Judah's captive band? Ye sons of Judah, why the lute unstrung? Or why those harps on yonder willows hung? Come, leave your griefs and join our warbling choir, For who like you can wake the sleeping lyre? SECOND PROPHET Bowed down with chains, the scorn of all mankind, To want, to toil and every ill consigned, Is this a time to bid us raise the strain, And mix in rites that Heaven regards with pain? No, never! May this hand forget each art That speeds the powers of music to the heart, Ere I forget the land that gave me birth, Or join with sounds profane its sacred mirth. FIRST PRIEST Insulting slaves! if gentler methods fail, The whips and angry tortures shall prevail. [Exeunt Chaldeans FIRST PROPHET Why, let them come, one good remains to cheer; We fear the Lord, and know no other fear. CHORUS Can whips or tortures hurt the mind On God's supporting breast reclined? Stand fast, and let our tyrants see That fortitude is victory. End of the First Act</field>
+      <field name="fulltext">ACT II Scene as before CHORUS OF ISRAELITES O Peace of mind, thou lovely guest, Thou softest soother of the breast, Dispense thy balmy store. Wing all our thoughts to reach the skies, Till earth, diminished to our eyes, Shall vanish as we soar. FIRST PRIEST Recitative No more. Too long has justice been delayed, The king's commands must fully be obeyed; Compliance with his will your peace secures, Praise but our gods and every good is yours. But if, rebellious to his high command, You spurn the favours offered from his hand, Think, timely think, what ills remain behind; Reflect, nor tempt to rage the royal mind. SECOND PRIEST Air Fierce is the whirlwind howling O'er Afric's sandy plain, And fierce the tempest rolling Along the furrowed main: But storms that fly To rend the sky, Every ill presaging, Less dreadful show To worlds below Than angry monarchs raging. ISRAELITISH WOMAN Recitative Ah, me! what angry terrors round us grow; How shrinks my soul to meet the threatened blow! Ye prophets, skilled in Heaven's eternal truth, Forgive my sex's fears, forgive my youth! If, shrinking thus, when frowning power appears, I wish for life and yield me to my fears. Let us one hour, one little hour obey; Tomorrow's tears may wash our stains away. Air To the last moment of his breath On hope the wretch relies; And even the pang preceding death Bids expectation rise. Hope, like the gleaming taper's light, Adorns and cheers our way; And still, as darker grows the night, Emits a brighter ray. SECOND PRIEST Recitative Why this delay? at length for joy prepare; I read your looks and see compliance there. Come raise the strain and grasp the full-toned lyre: The time, the theme, the place and all conspire. CHALDEAN WOMAN Air See the ruddy morning smiling, Hear the grove to bliss beguiling; Zephyrs through the valley playing, Streams along the meadow straying. FIRST PRIEST While these a constant revel keep, Shall reason only bid me weep? Hence, intruder! we'll pursue Nature, a better guide than you. SECOND PRIEST Air Every moment, as it flows, Some peculiar pleasure owes; Then let us, providently wise, Seize the debtor as it flies. Think not tomorrow can repay The pleasures that we lose today; Tomorrow's most unbounded store Can but pay its proper score. FIRST PRIEST Recitative But hush! see, foremost of the captive choir, The master-prophet grasps his full-toned lyre. Mark where he sits, with executing art, Feels for each tone and speeds it to the heart. See, inspiration fills his rising form, Awful as clouds that nurse the growing storm; And now his voice, accordant to the string, Prepares our monarch's victories to sing. FIRST PROPHET Air From north, from south, from east, from west, Conspiring foes shall come; Tremble, thou vice-polluted breast; Blasphemers, all be dumb. The tempest gathers all around, On Babylon it lies; Down with her! down, down to the ground; She sinks, she groans, she dies. SECOND PROPHET Down with her, Lord, to lick the dust, Ere yonder setting sun; Serve her as she hath served the just. 'Tis fixed-it shall be done. FIRST PRIEST Recitative Enough! when slaves thus insolent presume, The king himself shall judge and fix their doom. Short-sighted wretches, have not you, and all, Beheld our power in Zedekiah's fall? To yonder gloomy dungeon turn your eyes; See where dethroned your captive monarch lies. Deprived of sight and rankling in his chain, He calls on death to terminate his pain. Yet know, ye slaves, that still remain behind More ponderous chains and dungeons more confined. CHORUS Arise, all-potent Ruler, rise, And vindicate the people's cause; Till every tongue in every land Shall offer up unfeigned applause. End of the Second Act</field>
+      <field name="fulltext">ACT III Scene as before FIRST PRIEST Recitative Yes, my companions, Heaven's decrees are past, And our fixed empire shall for ever last; In vain the maddening prophet threatens woe, In vain rebellion aims her secret blow; Still shall our fame and growing power be spread, And still our vengeance crush the guilty's head. Air Coeval with man Our empire began, And never shall fall Till ruin shakes all; With the ruin of all Shall Babylon fall. SECOND PROPHET Recitative 'Tis thus that pride triumphant rears the head: A little while and all her power is fled. But ha! what means yon sadly plaintive train, That this way slowly bends along the plain? And now, methinks, a pallid corse they bear To yonder bank, and rest the body there. Alas! too well mine eyes observant trace The last remains of Judah's royal race: Our monarch falls and now our fears are o'er: The wretched Zedekiah is no more! Air Ye wretches who, by fortune's hate, In want and sorrow groan, Come ponder his severer fate, And learn to bless your own. Ye sons, from fortune's lap supplied, Awhile the bliss suspend; Like yours his life began in pride, Like his your lives may end. SECOND PROPHET Behold his squalid corse with sorrow worn, His wretched limbs with ponderous fetters torn; Those eyeless orbs that shock with ghastly glare, Those ill-becoming robes and matted hair. And shall not Heaven for this its terrors show, And deal its angry vengeance on the foe? How long, how long, Almighty Lord of all, Shall wrath vindictive threaten ere it fall? ISRAELITISH WOMAN Air As panting flies the hunted hind, Where brooks refreshing stray, And rivers through the valley wind, That stop the hunter's way: Thus we, O Lord, alike distressed, For streams of mercy long; Those streams which cheer the sore oppressed, And overwhelm the strong. FIRST PROPHET Recitative But whence that shout? Good Heavens! amazement all! See yonder tower just nodding to the fall: See where an army covers all the ground, Saps the strong wall and pours destruction round. The ruin smokes, destruction pours along; How low the great, how feeble are the strong! The foe prevails, the lofty walls recline: O God of hosts, the victory is thine! CHORUS OF ISRAELITES Down with her, Lord, to lick the dust; Let vengeance be begun: Serve her as she hath served the just, And let thy will be done. FIRST PRIEST All, all is lost. The Syrian army fails; Cyrus, the conqueror of the world, prevails. Save us, O Lord! to thee, though late, we pray, And give repentance but an hour's delay. Air Thrice happy, who in happy hour To Heaven their praise bestow, And own his all-consuming power Before they feel the blow! FIRST PROPHET Recitative Now, now's our time! ye wretches bold and blind, Brave but to God and cowards to mankind, Too late you seek that power unsought before, Your wealth, your pride, your empire, are no more. Air O Lucifer, thou son of morn, Alike of Heaven and man the foe; Heaven, men and all Now press thy fall, And sink thee lowest of the low. SECOND PRIEST O Babylon, how art thou fallen, Thy fall more dreadful from delay! Thy streets forlorn To wilds shall turn, Where toads shall pant and vultures prey. FIRST PROPHET Recitative Such be her fate. But listen, from afar The clarion's note proclaims the finished war! Cyrus, our great restorer, is at hand, And this way leads his formidable band. Now, give your songs of Sion to the wind, And hail the benefactor of mankind: He comes pursuant to divine decree, To chain the strong and set the captive free. CHORUS OF YOUTHS Rise to raptures past expressing, Sweeter from remembered woes; Cyrus comes, our wrongs redressing, Comes to give the world repose. CHORUS OF VIRGINS Cyrus comes, the world redressing, Love and pleasure in his train; Comes to heighten every blessing, Comes to soften every pain. CHORUS OF YOUTHS AND VIRGINS Hail to him with mercy reigning, Skilled in every peaceful art, Who from bonds our limbs unchaining, Only binds the willing heart. LAST CHORUS But chief to Thee, our God, our father, friend, Let praise be given to all eternity; O Thou, without beginning, without end, Let us, and all, begin and end in Thee! FINIS</field>
+   </doc>
+</add>

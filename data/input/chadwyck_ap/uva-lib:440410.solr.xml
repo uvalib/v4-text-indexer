@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Piatt, John James, 1835-1917</field>
+      <field name="author_facet">Piatt, John James, 1835-1917</field>
+      <field name="author_sort_facet">piatt john james 1835 1917</field>
+      <field name="author_text">Piatt, John James, 1835-1917</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1870's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ap/uvaGenText/tei/chap_AM0981.xml</field>
+      <field name="date_indexed_facet">201909240350</field>
+      <field name="date_text">1879</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey American Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey American Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:440410</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Poems of house and home</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">American poetry -- 19th century</field>
+      <field name="subject_text">American poetry -- 19th century</field>
+      <field name="title_display">Poems of house and home</field>
+      <field name="title_facet">poems of house and home</field>
+      <field name="title_sort_facet">poems of house and home</field>
+      <field name="title_text">Poems of house and home</field>
+      <field name="year_display">1879</field>
+      <field name="year_facet">1879</field>
+      <field name="year_multisort_i">1879</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:440410&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:440410&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Piatt, John James, 1835-1917&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;piatt john james 1835 1917&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Poems of house and home&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;poems of house and home&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1879&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1879&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Piatt, John James&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1835&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1917&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Poems of house and home&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Boston&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Houghton, Osgood and Company&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;The Riverside Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1879&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3865580-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;cham0981&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;American poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Poems of house and home&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Alexandria, VA&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Inc.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 24 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted ; verse reproduced elsewhere in American</field>
+      <field name="desc_meta_file_display">Poetry omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-AmPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">I give this Book with sacred gratitude, Dear One, to you, so gentle, gracious, good, Whose high and delicate genius breathes but part Of your pure spirit, sweet person, tender heart.</field>
+      <field name="fulltext">POEMS OF HOUSE AND HOME. COUNTERPARTS. A LOVER'S CONCEIT. I send, Sweet, my yearning Half-kisses to thee; Oh, send thy returning Half-kisses to me. When our half-kisses meet, love, What marvels have birth!— All fair things, and sweet, love; New Heaven, new Earth! SONG. Give me a home, thy heart, For Love to lie in: The world is wide—oh, let The lost dove fly in. Give me a home, thy heart, For Song to light in, For dreary hours to dream And waken bright in. Give me a home, thy heart, For Love to see in, For Earth to look like Heaven, And Heaven to be in! FOUR HAPPY WALLS. PRAYER AT HOUSE-WARMING. Four happy walls to shut the dark away, Four happy walls to keep the light secure: These we call ours—oh, make them yours, we pray, Kind gods of the hearth, domestic guardians sure. Four walls shall close our sphere of love complete, Though all the world within our love we fold;— Oh, bless our threshold, make our hearth your seat: Our home your heaven, your home our heaven hold! A SONG OF CONTENT. The eagle nestles near the sun; The dove's low nest for me!— The eagle's on the crag: sweet One, The dove's in our green tree. For hearts that beat like thine and mine, Heaven blesses humble earth; The angels of our Heaven shall shine The angels of our hearth! THE HOUSE'S DARLING. O sweet, shy girl, with roses in her heart And love-light in her face, like those up-grown; Full of still dreams and thoughts that, dream-like, start From fits of solitude when not alone! Gay dancer over thresholds of bright days, Tears quick to her eyes as laughter to her lips!— A game of hide-and-seek with Time she plays, Time hiding his eyes from her in blithe eclipse. O gentle-souled!—how dear and good she is, Blessed by soft dews of happiness and love; Cradled in tenderest arms! Her mother's kiss Seals all her good-night prayers. Her father's smile Brightens her mornings. Through the Earth shall move Her child-sweet soul, not far from Heaven the while! HOMEWARD ON THE TRAIN. On seeing a laden coffin one winter night taken on board a railway train. What homes are waiting now With doors ajar, with quickening hearts,—the smile Of firelit quiet touching lip and brow— For us, far off the while! Tidings have gone before— Swift messengers, that traverse without fear Darkness as day, whispering through many a door Whose threshold knows us near! For some, perchance, the years Have traveled with their faces, that to-night Return—ah, yes, from change, and Time, and tears!— Where breathed their morning light. And some but yesterday Kissed parting lips, then smiling dared to part, Trusting to-morrow, with its constant ray, Should light heart back to heart. .... But who is he?—what door Is open now for him?—What mother stands, Yearning to fold her wanderer safe once more From the world's restless sands? What faithful one beside Hope's gentle watch-fire waits for Love's new bliss?— What children, playing in Time's crawling tide, Hold lips for father's kiss? One silent passenger, In the quick press of eager tongue and brain! Whither? I know not, nor who waits him there. He travels on the train! Ah me! if some glad door, To-morrow, reaches longing arms for him, Joyous come home! (He has gone home before.) There bright eyes must grow dim! Travelers, near or far! Remember, loosening hands (ah, clasp again!) The silent passenger in yonder car,— Death travels on every train! HER DREAM OF LOSS. In a dark cavern is a frail flower sown, The orphan of a beam In some fair garden of the Sun. Alone, In darkness and in dream, It grows and gropes for the far light above, Whose sweet tradition old Haunts its pure-lifted face. An imaged dove Nestling, its wings doth fold In the blind flower's white core. ... My heart I know That sunless flower to be. Oh! dear lost face, Earth's cavern far below Prisons my love for thee! THE TRUNDLE-BED. Do you remember, Will?—long, long ago! .... Yet there thou liest, though all the sweet Past lies dead, That nestled in thee, old, old trundle-bed! Nest of delicious fancies, dreams that grow No more!—quick magic-car to Fairyland! Ghosts walked the earth then (in our garret too: For Madge, the housemaid, told us—and she knew!) In thee we saw them near, how near us, stand! Stars then looked out of Heaven; to Heaven, light Prayers clothed like angels from our lips arose, Though from the heart of her who bent so close, Hushing us like fixed flowers that feel the night. .... Fresh morn, poor little dreamers lost or dead, No more shall rouse them from their lowly bed. NOONING AT THE HALF-WAY HOUSE. A BIRTHDAY. Here at the Half-way House, a one-hour's guest, I see far back, in yon bright valley deep, A tender mother rock her child asleep In the warm cradle of her happy breast; And, forward, where the path I go must lead— Downward how far I cannot guess nor know— In thick, blind mist, a house secure, but low, Where I shall rest to-night, and shall not heed The fierce, sharp tempest on the beaten wold Nor the close darkness. ... I will journey on (Short is the steep descent, the old guides have told), In trust that when the anxious day is gone, My sleep shall be the same—how soft and mild!— As, on my mother's breast, yon new-born child. A SCATTERED FAMILY. We have been all together on the earth; But now the band that bound our gentle sheaf Is loosed—the powerful magic bond of birth; Our hearts no longer turn one golden leaf Each day; no more, through every winter night, Brightening within though skies without may frown, We all are gathered close about one light, With loving wreaths the warm quick hours to crown: For the one word of “Home,” which we had worn, From the soul's lips, to worldly language clear, Returns an alien answer to its sound, From other firesides, winter-lighted, borne..... “Home!”—'t was a word of Heaven homeless here, Whose wandering echo in our hearts we found! THE LAND OF MEMORY. Deep in some far enchanted sunshine closed, (We sigh and dream but pass forever on,) Shines a fair Land. The glad young Morning there Comes up as rosily from the lighted East As over the green walls of Paradise; There noonday gathers only blissful calm; There twilight nestles, a still bird of Heaven, With purple wings o'er soft delicious vales. Oh, you may know the beauty of that Land By those that travel hither from its bounds— Through the cold faces, through the shapes malign That gather round us, through the dreary toils That bar us like a prison, lo! they come, By sweet enchantment opening doors of air! It is no silent Land!—the joyous birds, That filled lost hours so full with singing, sing From sunlit bough to bough, shaking the leaves Among the dancing blossoms of the rain In sunshine, while the rainbow clings above; And dear blithe brooks leap on, forever, laughing, Prattling their silver fancies everywhere, Like children lost whom all things know and love. Ah, 't is no silent Land, for they are there, Kind words, there never dead, from voices kind, That feed the longing of the soul with love. Transplanted deep in that enchanted earth, Nothing grows old, leaves fall not, nor flowers die; The plow of change goes over no old graves In the dear face and in the loving heart. O loveliest Land in all the sphere of Time!— Far green oasis girt by restless sand, Circling with barren sky our empty life, While with tired limbs and thirsty lips we yearn For its bright fountains glittering to our eyes, Only returning to returning dreams!— O ever-blossoming Land of Memory! BLUE SKY. When dreary rains have veiled the day For many darkling hours, Till birds forget their singing May And bees their honey-flowers: How quickens all the earth anew If, 'mong the clouds alone, A single break of happy blue By the dark heaven is shown! “Blue sky! blue sky!” we cheerily cry; Our pulses waken new; Our hearts, uplifted, blithe and high, Sing, lark-like, in the blue! Blue sky! blue sky! An open door, Though small, may hold the sun, And through it watchful Hope once more Sees her Bright Day begun!</field>
+      <field name="fulltext">OTHER POEMS. HOME-LONGING. I long for thee, O native Western Land! I long for thy full rivers, moving slow In their old dream, that changes not, but takes The ever-changing vision of the air; I long for these, the kinsmen of my youth, And thy vast woodlands, murmuring weirdly still Lost Indian legends, and thy prairies where The bison's thunder, sinking far and vague, Grows loud and near, and is the hurrying train. Washington, D. C. A VOICE IN OHIO. Read at the “Atlantic Dinner” in Boston in honor of the seventieth anniversary of John G. Whittier's birthday. DECEMBER 17, 1877. By my quick firelight rapt and still, High on this black Ohio hill, I think of him who crossed to-day The snow-roofed boundary of our way (His book upon my table lies, Look from my wall his grave, sweet eyes), The poet, who, in many a song, Quickening unnumbered hearts so long, Has breathed New England's spirit forth From East to West, through South and North— Not the witch-burning bigot's rage, That soiled her first heroic page, But that, sweet, tender, warm and good, Confirming human brotherhood; Religious with diviner scope; Wide-armed with charity and hope; Lighter of household fires that bless The fast-withdrawing wilderness (Keeping old home-stars burning clear In Memory's holy atmosphere); Sowing the waste with seeds of light; Righteous with wrath at wrongful might: Such is thy better spirit, known Wherever Whittier's songs have flown;— Thy greater, larger, nobler air, New England, thus is everywhere! What though no kith or kin of mine Came with the Mayflower o'er the brine, (I know not—the dear Lord only knows: No wide-branched family record shows!) Grudge me not local pride—aye much— In him, New England! French and Dutch (We also fled for conscience' sake, From zealot sword, revival stake), Was I not taught by thy wise rule In the great Western Yankee school? Was I not shaped by thine and thee In almost all that now makes me? So, while my pulses warm and stir, I truly am a New Englander! Blessings be with him—praise, less worth; Why ask long-added hours of earth? Grateful, if given, these shall come. Birds, sing to the reaper going home, Singing himself—his work well-done. Shine on him, slow, soft-setting sun! North Bend, Ohio. BREVIA. I. A CERTAIN CONSERVATIVE. He holds a chrysalis aloft, infirm, Forgetting wings have borne away the worm. III. A STATUE OF JUPITER, BY PHIDIAS. (Version from the Greek Anthology.) Either Jove came to earth from heaven to show His very self to thee, Or, Phidias, thou from earth to heaven didst go, The god himself to see. VII. A MOTH. Poor moth, that fluttering through my candle-flame, Die of your sudden passion for the light, From the great outer gulf of night you came, Then pass into utter night! VIII. INFLUENCE OF BOOKS. Within the book-world rests the noiseless lever That moves the noisy throngéd world forever. IX. WITH A GIFT. Accept, I beg, this little shining stone, Not for its worth—a friend's good-will alone. Worn on your breast, I pray that it may show Long where that friend rests safe and warm below. X. HOLY WORD. God has unrolled His Bible in thy heart;— To all the Holy Word of God impart. THE POET'S BIRD. “Many a little song there flutters From my breast on sunlit wings: In the world's wide sky it singeth— From my heart its echo sings.” Far away it flieth, singing Through the Mays of many Springs (He was laid in lost Decembers):— From all hearts its echo sings!</field>
+   </doc>
+</add>

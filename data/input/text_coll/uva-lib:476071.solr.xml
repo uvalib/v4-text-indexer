@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Edward Heart</field>
+      <field name="author_facet">Edward Heart</field>
+      <field name="author_sort_facet">edward heart</field>
+      <field name="author_text">Edward Heart</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1900's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/HeaFlus.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">1901</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476071</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Flushing Remonstrance</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">Flushing Remonstrance</field>
+      <field name="title_facet">flushing remonstrance</field>
+      <field name="title_sort_facet">flushing remonstrance</field>
+      <field name="title_text">Flushing Remonstrance</field>
+      <field name="year_display">1901</field>
+      <field name="year_facet">1901</field>
+      <field name="year_multisort_i">1901</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476071&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476071&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Edward Heart&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;edward heart&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Flushing Remonstrance&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;flushing remonstrance&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1901&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1901&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Edward Heart&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Flushing Remonstrance&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1657&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Albany&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;State of New York&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1901&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="callNo"&gt;Source copy consulted: University of Virginia, Alderman Library, BR 555.N7A3 1901&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;2 pp.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Flushing Remonstrance (1657)&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2002&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2002 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 7 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Flushing Remonstrance (1657) December 27, 1657 Right Honorable, You have been pleased to send up unto us a certain prohibition or command that we should not receive or entertain any of those people called Quakers because they are supposed to be by some, seducers of the people. For our part we cannot condemn them in this case, neither can we stretch out our hands against them, to punish, banish or persecute them for out of Christ God is a consuming fire, and it is a fearful thing to fall into the hands of the living God. We desire therefore in this case not to judge least we be judged, neither to condemn least we be condemned, but rather let every man stand and fall to his own Master. Wee are bounde by the Law to Doe good unto all men, especially to those of the household of faith. And though for the present we seem to be unsensible of the law and the Law giver, yet when death and the Law assault us, if we have our advocate to seeke, who shall plead for us in this case of conscience betwixt God and our own souls; the powers of this world can neither attack us, neither excuse us, for if God justifye who can condemn and if God condemn there is none can justify. And for those jealousies and suspicions which some have of them, that they are destructive unto Magistracy and Minssereye, that can not bee, for the magistrate hath the sword in his hand and the minister hath the sword in his hand, as witnesse those two great examples which all magistrates and ministers are to follow, Moses and Christ, whom God raised up maintained and defended against all the enemies both of flesh and spirit; and therefore that which is of God will stand, and that which is of man will come to nothing. And as the Lord hath taught Moses or the civil power to give an outward liberty in the state by the law written in his heart designed for the good of all, and can truly judge who is good, who is civil, who is true and who is false, and can pass definite sentence of life or death against that man which rises up against the fundamental law of the States General; soe he hath made his ministers a savor of life unto life, and a savor of death unto death. The law of love, peace and liberty in the states extending to Jews, Turks, and Egyptians, as they are considered the sonnes of Adam, which is the glory of the outward state of Holland, soe love, peace and liberty, extending to all in Christ Jesus, condemns hatred, war and bondage. And because our Saviour saith it is impossible but that offenses will come, but woe unto him by whom they cometh, our desire is not to offend one of his little ones, in whatsoever form, name or title he appears in, whether Presbyterian, Independent, Baptist or Quaker, but shall be glad to see anything of God in any of them, desiring to doe unto all men as we desire all men should doe unto us, which is the true law both of Church and State; for our Savior saith this is the law and the prophets. Therefore, if any of these said persons come in love unto us, wee cannot in conscience lay violent hands upon them, but give them free egresse and regresse unto our Town, and houses, as God shall persuade our consciences. And in this we are true subjects both of Church and State, for we are bounde by the law of God and man to doe good unto all men and evil to noe man. And this is according to the patent and charter of our Towne, given unto us in the name of the States General, which we are not willing to infringe, and violate, but shall houlde to our patent and shall remaine, your humble subjects, the inhabitants of Vlishing. Written this 27th day of December, in the year 1657, by mee Edward Heart, Clericus</field>
+   </doc>
+</add>

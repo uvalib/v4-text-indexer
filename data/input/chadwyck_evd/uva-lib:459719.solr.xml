@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Clarendon Press</field>
+      <field name="author_facet">Clarendon Press</field>
+      <field name="author_sort_facet">clarendon press</field>
+      <field name="author_text">Clarendon Press</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.1090.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1885</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459719</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Barbours ; XXI. The Baptism of Jesus</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Barbours ; XXI. The Baptism of Jesus</field>
+      <field name="title_facet">barbours</field>
+      <field name="title_sort_facet">barbours</field>
+      <field name="title_text">The Barbours ; XXI. The Baptism of Jesus</field>
+      <field name="year_display">1885</field>
+      <field name="year_facet">1885</field>
+      <field name="year_multisort_i">1885</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459719&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459719&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Barbours ; XXI. The Baptism of Jesus&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;barbours&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1885&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1885&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Barbours&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;XXI. The Baptism of Jesus&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Oxford&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Clarendon Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1885&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873524-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv11090&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Barbours&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;XXI. The Baptism of Jesus&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 21 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and editorial matter including introduction and glossary omitted.&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Source texts incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The barbours.</field>
+      <field name="desc_meta_file_display">Genre: English mystery and miracle plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1475 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1352–1376 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">XXI. THE BARBOURS. The Baptism of Jesus. Square brackets represent sections of text unclear or absent in the original and supplied by the current editor</field>
+      <field name="fulltext">[PERSONS OF THE PLAY. Johannes [the Baptist]. Jesus. Primus Angelus. Secundus Angelus.]</field>
+      <field name="fulltext">[Scene, by the river Jordan.] 1. Joh. Almighty god and lord verray, Full woundyrfull is mannys lesyng, For yf I preche tham day be day, And telle tham, lorde, of thy comyng, Þat all has wrought, Men are so dull þat my preching Serues of noght. 2. When I haue, lord, in the name of the Baptiste þe folke in watir clere, Þan haue I saide þat aftir me Shall he come þat has more powere þan I to taste, He schall giffe baptyme more entire in fire and gaste. 3. Þus am I comen in message right, And be fore-reyner in certayne, In witnesse-bering of þat light, Þe wiche schall light in ilka a man þat is comand In-to this worlde; nowe whoso can may vndirstande. 4. The? folke had farly of my fare, And what I was full faste þei spied, They askid yf I a prophete ware, And I saide ‘nay’; but sone I wreyede high aperte. I saide I was a voyce that cryede here in deserte. 5. ‘Loke þou make þe redy,’ ay saide I, ‘Vn-to oure lord god most of myght, Þat is þat þou be clene haly, In worde, in werke, ay redy dight Agayns oure lord, With parfite liffe þat ilke a wight be well restored. 6. For if we be clene in levyng, Oure bodis are goddis tempyll þan In the whilke he will make his dwellyng, Ther-fore be clene, bothe wiffe and man. þis is my reed; God will make in yowe haly þan his wonnyng-steed. 7. And if ?e sette all youre delyte In luste and lykyng of þis liff, Than will he turne fro yow als tyte By-cause of synne, boyth of man &amp; wiffe, And fro ?ou flee, For w[i]th whome þat synne is riffe Will god noght be.’ 8. Ang. Þou John, take tente what I schall saye, I brynge þe tythandis wondir gode, My lorde Jesus schall come þis day, Fro Galylee vn-to þis flode ?e Jourdane call, Baptyme to take myldely with mode þis day he schall. 9. John, of his sande ther-fore be gladde, And thanke hym hartely, both lowde and still. Joh. I thanke hym euere, but I am radde! I am no?t abill to full-fill þis dede certayne. ii Ang. John, þe aught with harte and will To be full bayne 10. To do his bidding, all by-dene. Bot in his baptyme, John, take tente, Þe heuenes schalle be oppen sene, The holy gost schalle doune be sente To se in sight, The fadirs voyce with grete talent be herde full ri?t, 11. Þat schall saie þus to hym for-thy 12. Joh. With wordes fewne I will be subgett nyght &amp; day as me well awe, To serue my lord Jesu to paye in dede &amp; sawe. 13. Bot wele I wote, baptyme is tane To wasshe and clense man of synne, And wele I wotte þat synne is none In hym, with-oute ne with-inne. What nedis hym than For to be baptiste more or myne als synfull man? 14. Jesus. John, kynde of man is freele To þe whilke þat I haue me knytte, But I shall shewe þe skyllis twa, Þat þou schallt knawe by kyndly witte By-cause why I haue ordand swa; and ane is þis, Mankynde may no?t vn-baptymde go to endless blys. 15. And sithen my selffe haue taken mankynde For men schall me þer myrroure make, I haue my doyng in ther mynde, And also I do þe baptyme take. I will for-thy My selfe be baptiste, for ther sake, full oppynly. 16. Anodir skill I schall þe tell, My wille is þis, þat fro þis day Þe vertue of my baptyme dwelle In baptyme-watir euere and ay, Mankynde to taste, Thurgh my grace þerto to take alway þe haly gaste. 17. Joh. All myghtfull lorde, grete is þi grace, I thanke þe of þi grete fordede. Jesus. Cum, baptise me, John, in þis place. Joh. Lorde! saue thy grace þat I for-bede Þat itt soo be; For lorde, me thynketh it wer more nede Þou baptised me. 18. Þat place þat I yarne moste of all, Fro thens come þou, lorde, as I gesse, How schulde I þan, þat is a thrall, Giffe þe baptyme, þat rightwis is, And has ben euere? For þou arte roote of rightwissenesse, Þat forfette neuere. 19. What riche man gose from dore to dore To begge at hym þat has right noght? Lorde, þou arte riche and I am full poure, Þou may blisse all, sen þou all wrought. Fro heuen come all Þat helpes in erthe, yf soth be sought, fro erthe but small. 20. Jesus. Thou sais full wele, John, certaynly, But suffre nowe for heuenly mede, Þat rightwisnesse be no?t oonlye Fullfillid in worde, but also in dede, thrughe baptyme clere. Cum, baptise me in my manhed Appertly here. 21. Fyrst schall I take, sen schall I preche, For so be-hovis mankynde fulfille All right-wissenesse, als werray leche. Joh. Lord, I am redy at þi will, And will be ay. Thy subgett lord, both lowde and still, in þat I may. 22. A! lorde, I trymble þer I stande, So am I arow to do þat dede, But saue me lord, þat all ordand, For the to touche haue I grete drede, for doyngs dark. Now helpe me lorde, thurgh þi godhede, to do þis werke. 23. Jesu, my lord of myghtis most, I baptise þe here in þe name Of the fadir and of the sone and holy gost! But in þis dede, lorde, right no blame Þis day by me. And bryngis all thase to thy home þat trowes in þe. Tunc cantabant duo angeli Veni creator spiritus. 24. Jesus. John, for mannys prophyte, wit þou wele, Take I þis baptyme, certaynely, The dragons poure ilk a dele Thurgh my baptyme distroyed haue I; Þis is certayne; And saued mankynde, saule and body, fro endles payne. 25. What man þat trowis and baptised be Schall saued be and come to blisse, Who-so trowes no?t, to payne endles He schalbe dampned sone, trowe wele þis. But wende we nowe Wher most is nede þe folke to wisse, both I &amp; ?ou. 26. Joh. I loue þe lorde, as souereyne leche, That come to salue men of þare sore, As þou comaundis I schall gar preche, And lere to euery man þat lare, That are was thrall. [To the audience.] Now sirs, þat barne þat marie bare, be with ?ou all.</field>
+   </doc>
+</add>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Bayly, Thomas Haynes, 1797-1839</field>
+      <field name="author_facet">Bayly, Thomas Haynes, 1797-1839</field>
+      <field name="author_sort_facet">bayly thomas haynes 1797 1839</field>
+      <field name="author_text">Bayly, Thomas Haynes, 1797-1839</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1820's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_3.0938.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1829</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:466483</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Fifty lyrical ballads ; By Thomas Haynes Bayly</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">Fifty lyrical ballads ; By Thomas Haynes Bayly</field>
+      <field name="title_facet">fifty lyrical ballads</field>
+      <field name="title_sort_facet">fifty lyrical ballads</field>
+      <field name="title_text">Fifty lyrical ballads ; By Thomas Haynes Bayly</field>
+      <field name="year_display">1829</field>
+      <field name="year_facet">1829</field>
+      <field name="year_multisort_i">1829</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:466483&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:466483&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Bayly, Thomas Haynes, 1797-1839&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;bayly thomas haynes 1797 1839&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Fifty lyrical ballads ; By Thomas Haynes Bayly&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;fifty lyrical ballads&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1829&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1829&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Bayly, Thomas Haynes&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1797&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1839&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Fifty lyrical ballads&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;By Thomas Haynes Bayly&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Bath&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed by Mary Meyler&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1829&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp0316&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;78 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Fifty lyrical ballads&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;By Thomas Haynes Bayly&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 21 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;[With acknowledgements to Bath Central Library for help in acquiring this text.] Preliminaries and introductory matter omitted; verse reproduced elsewhere in The English Poetry Full-text Database omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">TO THE EARL OF STAMFORD AND WARRINGTON These Songs are all published with Music, but being the Property of various Persons, the Author has not the power of publishing them collectively. This Volume has therefore been printed for private circulation. MY HARP OF SIGHS. Alas I am not what I was When last I sang to thee, The playful song that won thy smile, Is not the song for me: My harp of smiles upon the earth Unstrung, and broken lies; And well I know that one so young Will scorn my harp of sighs. I have no song of youth and hope That does not close in care, I have no tale of woman's love That ends not in despair; I only breathe the name of joy To tell how soon it dies, I only sing the songs that suit My dear—dear harp of sighs. I could not—if I would—be gay, For when I touch the chords I throw a shade of sadness o'er The melody, and words: Grief thro' her darkened glass, discerns No sunshine in the skies, The voice must mourn that mingles with Thy notes, my harp of sighs! I HAVE LOVED THEE. I have loved thee in the brightness of thy beauty and thy bloom, I have loved thee in the shadow of thy sickness and thy gloom; I have loved thee for thy sweet smile, when thy heart was light and gay; Yet I loved thee even better when the smile had pass'd away: Alas! I never loved thee with the common love of earth, The love that boasts it's proud success in revelry and mirth; My love was nursed in secret, like a blossom that has furl'd All it's sweet leaves from the notice and the sunshine of the world. THE HEART OF A SOLDIER. The heart of a soldier Surrenders to thee; The Champion of Freedom No longer is free: He decks with his laurels Thy sylvan retreat, And the spoils of the conquer'd, He lays at thy feet. But say, were I summon'd Again to the field, Would'st thou bring my helmet, My sword and my shield? And scorning the softness Of tearful delay, Would'st thou urge me forward, To horse, and away? Yes! such is the duty, And such is the pride, Of her whom a Soldier Hath chosen his bride: She shares and she sweetens His peaceful repose, And she smiles when to battle And glory he goes. HAND IN HAND, LOVE. Who would snatch from anxious lovers Hopes, though they be link'd with fears? Who would raise the mist that hovers O'er our fate in future years? Oh! not I! though clouds hang o'er us, Sunbeams dwell beyond them still; We'll pass o'er the path before us, Hand in hand, Love, come what will. No magician's art I covet, To unfold my future lot; Dark or light, no spell can move it, Then 'tis best to know it not. In the noon of summer weather, I'll not dread December's chill; Through the world we'll rove together, Hand in hand, Love, come what will. E'en the gloomy now and then shall Own our smiling system right; Joy, when shared, grows more substantial, Grief, when shared, becomes more light. While from Nature's purest flowers Nought but poison some distil, We'll seek honey in her bowers, Hand, in hand, Love, come what will. 'TWAS A FRIEND OF MY EARLY YOUTH. 'Twas a Friend of my early youth That I met in a foreign land, I knew him not—but thought I touch'd A passing stranger's hand! But the spell of the voice can never end; He spoke—and I knew my early friend. Oh! that voice did revive again All the feelings of other years, The smile of welcome died away— The word—was lost in tears; He spoke—'twas a voice from my home I hear'd, And it struck my heart's most sensitive chord. THE BEACON LIGHT. Why nightly burns a Beacon light In yon secluded bay? Who keeps the little taper bright Until the dawn of day? Oh it hath been for many years A lonely woman's care; Her form is chang'd by time and tears, Yet still the light is there! 'Twas kindled by an anxious Bride, One evening wild and dark; She hoped to guide across the tide Her sailor's fragile bark: At sunset it was just in sight— But storm-clouds fill'd the air! And all that long, long dreadful night, The Beacon light was there. Morn came at last,—the sail was gone! She never saw it more! Year after year she lives alone Upon that fatal shore: Unconscious of her faded form, She braids her snow-white hair; To guide her bridegroom thro' the storm, The Beacon light is there! FLAG OF THE WRECK. Under the white cliff Moulders the wreck, See, the huge top-mast Lies on the deck; Ne'er shall its white wings Hover again, Like a wild sea-bird Over the main. Torn is the banner Blood-red and blue;— Where is the captain? Where are the crew? Hush'd are their passions, Calm is their sleep, Under the billows Five fathom deep. Desperate beings, Reckless as brave! Ocean—your war-field, Now is your grave! Tempests have riven Topmast and deck, Sea-weed flaunts o'er them, Flag of the Wreck! BE A BUTTERFLY THEN. Be a Butterfly then!—be the wildest, the worst, Of the Insects that flutter Life's summer away; Fly from bower to bower, as if thou wer't nurst For no end upon Earth but to trifle and play; Leave the labour of life to the Ant and the Bee, While the world is so bright, what is labour to thee? Be a Butterfly then!—a mere summer day's toy, To and fro flitting ever from smiles to repose; Turn away from all shadows, and fancy it joy To ramble in sunshine, or sleep in a rose: Leave the labour of life to the Ant and the Bee, While the world is so bright, what is labour to thee? Be a Butterfly then!—but the summer is brief, And a season of tempest too soon will arrive; When the garden has lost every blossom and leaf, Thou wilt sigh for the sweets of the sheltering hive: Though the winter has joy for the Ant and the Bee, When the world is so cold, what is pleasure to thee? THOUGH THE SUMMER MAY HAVE ROSES. Though the Summer may have roses That outshine the buds of spring, Deeper shadows in the forest, Blither birds upon the wing: When I see a bright spring morning After long—long days of gloom; Summer seems to sport around me In his infancy of bloom! Oh 'tis sad to see the splendor Of the Summer pass away; When the night is always stealing Precious moments from the day: But in Spring each lengthen'd evening Tempts us farther off from home; And if Summer has more beauty, All that beauty is to come! OH! LEAVE ME TO MY SORROW. Oh! leave me to my sorrow, For my heart is oppress'd to-day; Oh! leave me,—and to-morrow Dark shadows may pass away: There's a time when all that grieves us Is felt with a deeper gloom; There's a time when Hope deceives us, And we dream of bright days to come. In winter, from the mountain The stream in a torrent flows; In summer, the same fountain Is calm as a child's repose: Thus, in grief, the first pangs wound us, And tears of despair gush on; Time brings forth new flowers around us, And the tide of our grief is gone! Then heed not my pensive hours, Nor bid me be cheerful now; Can sunshine raise the flowers That droop on a blighted bough? The lake in the tempest wears not The brightness it's slumber wore; The heart of the mourner cares not For joys that were dear before. BENEDICITE DAUGHTER. The Lady Abbess was gone to her rest, And the Nuns in their cells were sleeping, Save one who sick of so dull a nest, Was over the battlement peeping; And under the convent wall she spied, A boat on the dimpling water, And in it a youth who fondly cried— “Come down—Benedicite Daughter!” She threw him one end of a silken thread, And she kept fast hold of the other, “Be silent—be silent”—she trembling said, “Or you'll wake our Lady Mother!” She drew up a ladder of ropes, and soon The youth in his stout arms caught her; “Away!” he cried, “by the light of the moon, “Away! Benedicite Daughter!” The Lady Abbess awoke—and she heard A noise at the midnight hour; She counted her brood, and missing a Bird, She sought it in hall and tower: The ladder she spied—and down it she hied— —But she tumbled into the water! The boat sail'd off, and the Lovers cried “Farewell! Benedicite Daughter!” I'VE SONGS TO SELL. I've songs to sell, I've songs to sell, Will you buy? will you buy? Come cash my notes, I never yet Have pitch'd my price too high. Come, Lovers, I have lays for you, All sentiment, and sighs; And similes—not over new, And vows—not over wise: I've Serenades that ought to move The most obdurate Fair; I've transports for triumphant Love, And dolefuls for Despair. I've Ballads, Lady, if you make Such simple things your choice; Oh sing, and let my verse partake The sweetness of your voice: While They who simple lays despise, Preferring flights sublime, Will find that I can sacrifice My reason to my rhyme! I've songs for those with spirits high, Who mingle laugh and jest; For Mothers I've a lullaby To soothe a Babe to rest: Come one and all and buy my lays, Let none refuse to sing, For I have loyal songs, in praise Of England, and her King! I've songs to sell, I've songs to sell, Will you buy? will you buy? Come cash my notes, I never yet Have pitch'd my price too high.</field>
+   </doc>
+</add>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Cornwall, Barry, 1787-1874</field>
+      <field name="author_facet">Cornwall, Barry, 1787-1874</field>
+      <field name="author_sort_facet">cornwall barry 1787 1874</field>
+      <field name="author_text">Cornwall, Barry, 1787-1874</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1850's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V3.0457.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1857</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460808</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Ludovico Sforza</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Ludovico Sforza</field>
+      <field name="title_facet">ludovico sforza</field>
+      <field name="title_sort_facet">ludovico sforza</field>
+      <field name="title_text">Ludovico Sforza</field>
+      <field name="year_display">1857</field>
+      <field name="year_facet">1857</field>
+      <field name="year_multisort_i">1857</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460808&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460808&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Cornwall, Barry, 1787-1874&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;cornwall barry 1787 1874&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Ludovico Sforza&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;ludovico sforza&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1857&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1857&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Cornwall, Barry&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1787&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1874&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Ludovico Sforza&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chapman and Hall&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1857&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872942-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv30457&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Ludovico Sforza&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 25 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted&lt;lb/&gt;The following plays have been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Ludovico Sforza.</field>
+      <field name="desc_meta_file_display">Genre: Dramatic poem.</field>
+      <field name="desc_meta_file_display">Date first published: 1819.</field>
+      <field name="desc_meta_file_display">Date first performed: Unknown.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">LUDOVICO SFORZA.</field>
+      <field name="fulltext">I'll close mine eyes, And in a melancholy thought I'll frame Her figure 'fore me. Now I have it—how strong Imagination works! how she can frame Things which are not! methinks she stands afore me. Webster—The White Devil, Act III.</field>
+      <field name="fulltext">Evad. Stay, sir, stay: You are too hot, and I have brought you physic To temper your high veins. King. Thou dost not mean this; 'tis impossible: Thou art too sweet and gentle. Evad. No, I am not. Beaumont and Fletcher—The Maid's Tragedy, Act V.</field>
+      <field name="fulltext">[This scene is founded partly on a fact in Italian history. Ludovico Sforza, uncle of the young Duke of Milan, was present at his marriage with Isabella, grand-daughter of the King of Naples. Sforza was much struck with the beauty of Isabella; and it was supposed that he caused his nephew, Galeazzo, to be poisoned. The last scene, which occurs after the lapse of a year, is imaginary.]</field>
+      <field name="fulltext">SCENE I. —A Street. Duke of Milan. Ludovico Sforza. DUKE. And this proud lady, was she chaste as fair? SFORZA. Pure as the flame that burnt on Dian's altar, And lovely as the morning. Oh! she shone Like one of those bright shapes of fabling Greece, (Born of the elements,) which, as men tell, Wooed mortals to their arms. A form more beautiful, Houri or child o' the air, ne'er glanced upon A poet's dream, nor in Arabian story Gave promise of their vaunted paradise. Then, her voice was sweet And tuned to music, bearing with it a charm, Like numbers floating from the breathed flute, Caught afar off,—and which the idle winds Of June, through wantonness at evening, fling O'er banks and beds of flowers. DUKE. And she is dead? [Isabella appears at a window. SFORZA. Dead, dead! No; what is this? quick, tell me, sir. Yon vision? DUKE. Uncle, look upon her,—there. SFORZA. I see: the grave gives up its habitant. It is herself,—her shadow. Can the eye Resume its lustre, after death has drawn His filmy veil around it? Look! DUKE. My lord? SFORZA. She's vanished. [Isabella leaves the window. DUKE. 'Tis Isabella, sir; my bride. SFORZA. Your bride? She's very fair. I have seen the face before; Dreamed of it—somewhere: where? I know not where. I'll dream no more, but think; and act,—perhaps. Enter Isabella attended; Piero de Medici, and others. DUKE. My Isabella! you have rested well, After your journey? well? Fatigue seems loth To harm you; and your eyes are spared, I see, For many a Milan conquest. ISABELLA. There's but one My duty bids me look to. DUKE. And your heart? ISABELLA. And—and my heart. DUKE. Come hither! a few words— [They talk aside. DE MEDICI. My lord, my lord! SFORZA. Ha! my De Medici! welcome. DE MEDICI. Thanks, dear Sforza; Are you so wrapped in dreams you miss your friends? SFORZA. No, 'tis my nephew, in a fairy dream, Forgets me. DUKE. My dear uncle, pardon, pardon. This is my guardian, dearest Isabel: My father, I should say: I pray you love him. SFORZA. Ludovico Sforza, lady, and your knight; If you will own so poor a one. ISABELLA. Thanks, sir. DUKE. Look! Those are the Alps, my love. SFORZA. Ay; turn your eyes Here, madam. Look! methinks their snowy crowns Shine radiantly as they had seen the sun. DUKE. The very hills give welcome to my love; And everything seems happy now, but most The heart of Milan. ISABELLA. You will spoil me, sir. SFORZA. This day looks like The holiday of Nature, madam, and you The queen of't. ISABELLA. Pray, no more. DUKE. No more then. Come! The heat will mar you: let us seek the shade. SFORZA. I'll follow. [Exeunt. She's gone—and it is night. What! shall I in age Sink into folly? and this puny boy To cheat his tutor! It may please him now To reign in Milan: no, no, that's my care. Oh! what an eye she has: It is not likely She will live quiet here: her look forbids it. She will be Duke: And I— Now had I been The same Ludovico Sforza who did win, Some twenty years ago, the prize at Florence, Perhaps she might have loved me. Love?—that I Might conquer; or my ambition. Ah, but here Both spur me on: my path is traced,—but where? That's hid in the mist of time. I'll think upon't. [Exit.</field>
+      <field name="fulltext">SCENE II. —A Room, with a Banquet. [A year has passed.] ISABELLA. Time lags, and slights his duty. I remember The days when he would fly. How sweet they were! Then I rebuked his speed, and now—and now I drench his wing with tears. How heavily The minutes pass! Can he avoid me? No. I hear a step come sounding through the hall. It is the murderer, Sforza. Now, my heart! Rise up in thy full strength, and do the act Of justice bravely. So, he's here. Enter Sforza. SFORZA. My love! O my delight, my deity! I am come To thank you for being gracious. I am late? ISABELLA. No: in the best of times, sir. SFORZA. Yet you look Not gay, my Isabella. Nought has happened To shake your promise? ISABELLA. Be assured of that. Doubt not, nor chide, my lord. My heart, you know, Falls faint at times. To-night I'll do my best To entertain you as you merit. SFORZA. Better, I hope, my Isabel. ISABELLA. Your grace May challenge any thing; from me the most. Although a widow, not divested quite Of all her sorrows, I am here to smile Like tearful April on you: but you'll grow To vanity, sir, unless some stop be put To your amorous conquests. I must do't. SFORZA. You shall, You shall, my Isabella. ISABELLA. Sir, I will. You shall be wholly mine, till—death shall part us. I have been full of miseries: they have swelled My heart to bursting. You shall soothe me. SFORZA. How? ISABELLA. We'll find a way: nay, not so free, my lord; I must be won with words, (though hollow;) smiles, And vows, (although you mean them not,) kind looks And excellent flattery. Come, my lord, what say you? I'm all impatience. SFORZA. Oh! what can I say? Thou art so lovely, that all words must fail. They of whom poets sing men say were shadows; Thus will they swear of thee. ISABELLA. Alas! my lord, I have no laureate here to lie in rhyme; So must remain unsung. SFORZA. But I will have Your name recorded in the sweetest verse; And sculptors shall do honour to themselves And their delicious art by fashioning thee; And painters shall devise for us a story, Where thou and I, love, shall be seen reclining, Thou on my arm— ISABELLA. A happy thought! SFORZA. And in The guise of the throned Juno; I as Jove, In his diviner moments, languishing Beneath thy look. ISABELLA. She was a shrew, my lord, That queen o' the heavens, and I— SFORZA. Then thou shalt be drawn Like her who, in old inimitable tales, Was pictured gathering flowers in Sicily, And raised to Pluto's throne: methinks she was A beautiful prophecy of thee; and there Mountains shall rise, and grassy valleys lie Asleep i' the sun, and blue Sicilian streams Shall wander, and green woods, (just touched with light,) Shall yield their foreheads to some western wind And bend to bright Apollo as he comes Smiling from out the east. What more? Why you Shall kneel and pluck the flowers, and look aside Hearkening for me; and—I will be there, (a god,) Rushing tow'rds thee, my sweet Proserpina. ISABELLA. An ugly story! SFORZA. How, sweet? ISABELLA. You would take me To—Hell then? but forgive me: I am ill; Distract at times: we'll now forget it all. Come, you will taste my poor repast? SFORZA. Oh, surely. ISABELLA. We'll be alone. SFORZA. 'Tis better. Yet I have [They feast. No relish for common viands. Shall I drink To thee, my queen? ISABELLA. To me, sir. This (look on't) Is a curious wine; and like those precious drops Sought by philosophers, (the life elixir,) Will make you immortal. SFORZA. Give it me, my love. May you ne'er know an hour of sorrow. ISABELLA. Ha! Stay, stay: soft, put it down. SFORZA. Why, how is this? ISABELLA. Would—would you drink without me? Shame upon you! Look at this fruit: a sea-worn captain, one Who had sailed all 'round the world, brought it for me From the Indian isles; the natives there, men say, Worship it. This. SFORZA. It has a luscious taste. My nephew, when he lived, loved such a fruit. ISABELLA. Thanks, spirits of vengeance! [Aside. Now you shall taste the immortal wine, my lord, And drink a health to Cupid. SFORZA. Cupid, then. He was a cunning god: he dimmed men's eyes, 'Tis prettily said i' the fable. But my eyes (Yet how I love!) are clear as though I were A stoic. Ah! ISABELLA. What ails my lord? SFORZA. The wine is cold. ISABELLA. You'll find it warmer, shortly. It is its nature, as I'm told, to heat The heart. My lord, I read but yesterday Of an old man, a Grecian poet, who Devoted all his life to wine, and died O' the grape. Methinks 'twas just. SFORZA. 'Twas so. This wine— ISABELLA. And stories have been told of men whose lives Were infamous, and so their end. I mean That the red murderer has himself been murdered; The traitor struck with treason: He who let The orphan perish, came himself to want: Thus justice and great God have ordered it! So that the scene of evil has been turned Against the actor; pain paid back with pain; And—poison given for poison. SFORZA. O my heart! ISABELLA. Is the wine still so cold, sir? SFORZA. I am burning. Some water: I burn with thirst. Oh! what is this? ISABELLA. You're pale: I'll call for help. Here! Servants enter. ISABELLA. Bind that man To his seat. SFORZA. Ah! traitress. ISABELLA. Leave us now,—alone. [Servants exeunt. My lord! I'll not deceive you: you have drank Your last draught in this world. SFORZA. My heart, my heart! Traitress! I faint—faint: ah! ISABELLA. I would have done Some act of justice in a milder shape: But it could not be. I felt that you must die; For my sake, for my boy, for Milan. You Murdered my lord husband. Stare not thus: 'Tis melancholy truth. You have usurped The first place in the dukedom; have swept down My child's rights to the dust. What say you, sir? Do you impeach my story? While you've time, Give answer. [He dies. You are silent? then, are you Condemned for ever. I could grieve, almost, To see his ghastly stare. His eye is vague; Is motionless. How like those shapes he grows, That sit in stony whiteness over tombs, Memorials of their cold inhabitants. Speak! are you sunk to stone? What can you say In your defence, sir? Turn your eyes away. How dare you look at me, so steadily? You shall be amorous no more. Must I Rouse you? How idly his arms hang. Turn your eyes Aside. I dare not touch him; yet I must. Ha! he is dead—dead; slain by me! Great Heaven! Forgive me; I'm a widow broken-hearted. A mother too; 'twas for my child I struck. Yon bloody man did press so hardly on us: He would have torn my pretty bird from me: I had but one: what could I do to save it? There was no other way!</field>
+   </doc>
+</add>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Kegan Paul, Trench, Trübner &amp; Co.</field>
+      <field name="author_facet">Kegan Paul, Trench, Trübner &amp; Co.</field>
+      <field name="author_sort_facet">kegan paul trench trbner  co</field>
+      <field name="author_text">Kegan Paul, Trench, Trübner &amp; Co.</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.1035.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1885</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459664</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Cesar Augustus</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Cesar Augustus</field>
+      <field name="title_facet">cesar augustus</field>
+      <field name="title_sort_facet">cesar augustus</field>
+      <field name="title_text">Cesar Augustus</field>
+      <field name="year_display">1885</field>
+      <field name="year_facet">1885</field>
+      <field name="year_multisort_i">1885</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459664&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459664&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Cesar Augustus&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;cesar augustus&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1885&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1885&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Cesar Augustus&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Kegan Paul, Trench, Trübner &amp;amp; Co.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1885&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873540-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv11035&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Cesar Augustus&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 24 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries, introductory and editorial matter including introduction and notes omitted.&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Dedication included with The Creation&lt;lb/&gt;Source texts incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Copyright (c) 1995 Boydell &amp;amp; Brewer Ltd. This text may not be reproduced, except for fair dealing purposes, without the express permission of Chadwyck-Healey and the copyright holder.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Cesar Augustus.</field>
+      <field name="desc_meta_file_display">Genre: English mystery and miracle plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1450 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1390–1410 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">[Cesar Augustus] Incipit Cesar Augustus. Square brackets represent sections of text unclear or absent in the original and supplied by the current editor</field>
+      <field name="fulltext">[Dramatis Personae. Imperator. Primus Consultus. Secundus Consultus. Nuncius. (Lyghtfote.) Sirinus.]</field>
+      <field name="fulltext">(1) Imperator. Be styll, beshers, I commawnd yow, That no man speke a word here now Bot I my self alon; And if ye do, I make a vow, Thys brand abowte youre nekys shall bow, ffor thy be styll as ston: (2) And looke ye grefe me noght, ffor if ye do it shall be boght, I swere you by mahowne; I wote well if ye knew me oght, To slo you all how lytyll I roght, Ston styll ye wold syt downe. (3) ffor all is myn that vp standys, Castels, towers, townys, and landys, To me homage thay bryng; ffor I may bynd and lowse of band, Euery thyng bowys vnto my hand, I want none erthly thyng. (4) I am lord and syr ouer all, All bowys to me, both grete and small, As lord of euery land; Is none so comly on to call, Whoso this agane says, fowll shall be fall, And therto here my hand. (5) ffor I am he that myghty is, And hardely all hathennes Is redy at my wyll; Both ryche, and poore, more &amp; les, At my lykyng for to redres, whether I wyll saue or spyll. (6) Cesar august I am cald, A fayrer cors for to behald, Is not of bloode &amp; bone; Ryche ne poore, yong ne old, Sych an othere, as I am told, In all thys warld is none. (7) Bot oone thyng doys me full mych care, I trow my land wyll sone mysfare ffor defawte of counsell lele; My counsellars so wyse of lare, help to comforth me of care, No wyt from me ye fele. (8) As I am man moost of renowne, I shall you gyf youre waryson To help me if ye may. primus Consultus. To counsell you, lord, we ar bowne, And for no man that lyfys in towne wyll we not let, perfay; (9) youre messyngere I reede ye call, ffor any thyng that may befall, Byd hym go hastely, Thrugh out youre landys ouer all, Amang youre folk, both grete and small youre gyrth &amp; peasse to cry; (10) ffor to commaunde both yong &amp; old, None be so hardy ne so bold, To hold of none bot you; And who so doth, put them in hold, And loke ye payn theym many fold. Imperator. I shall, I make a vowe; (11) Of thys counsell well payde am I, It shall be done full hastely, wyth outen any respytt. Secundus Consultus. My Lord abyde awyle, for why? A word to you I wold cleryfy. Imperator. Go on, then, tell me tytt. (12) Secundus Consultus. All redy, lord, now permafay, Thys haue I herd syn many day, ffolk in the contre tell; That in this land shuld dwell a may, The which sall bere a chylde, thay say, That shall youre force downe fell. (13) Imperator. Downe fell? dwyll! what may this be? Out, harow, full wo is me! I am full wyll of reede! A, fy, and dewyls! whens cam he That thus shuld reyfe me my pawste? Ere shuld I be his dede. (14) ffor certys, then were my worshyp lorne, If sych a swayn, a snoke horne, Shuld thus be my suffrane; may I wyt when that boy is borne, In certan, had the dwyll hit sworne, that gadlyng shuld agane. (15) Primus Consultus. Do way, lord, greyf you not so, youre messyngere ye cause furth go Aftyr youre cosyn dere, To speke with you a word or two, The best counsell that lad to slo, fful soyn he can you lere; (16) ffor a wyse man that knyght men know. Imperator. Now I assent vnto thi saw, of witt art thou the well; ffor all the best men of hym blowys; he shall neuer dystroy my lawes, were he the dwyll of hell. (17) Com lyghtfote, lad, loke thou be yare On my message furth to fare, go tytt to sir syryn; Say sorow takys me full sare, pray hym to comforth me of care, As myn awne dere cosyn; (18) And bot if thou com agane to nyght, look I se the neuer in syght, neuer where in my land. Nuncius. yis, certys, lord, I am full lyght, or noyn of the day, I dar you hyght, to bryng hym by the hand. (19) Imperator. yai, boy, and as thou luffys me dere, Luke that thou spy, both far and nere, Ouer all in ych place; If thou here any saghes sere, Of any carpyng, far and nere, Of that lad where that thou gase. (20) Nuncius. All redy, lord, I am full bowne, To spyr and spy in euery towne, After that wykkyd queyd; If I here any runk or rowne, I shall fownd to crak thare crowne, Ouer all, in ylk a stede; (21) And therfor, lord, haue now good day. Imperator. Mahowne he wyse the on thi way, That weldys water and wynde; And specyally, here I the pray, To spede the as fast as thou may. Nuncius. yis, lord, that shall ye fynde. [To Sirinus.] (22) Mahowne the saue and se, sir syryne! Cesar, my lord, and youre cosyn, he gretys you well by me. Sirinus. Thou art welcom to me and myn; Com nere and tell me tythandys thyn, Tyte, what thay may be. (23) Nuncius. My lord prays you, as ye luf hym dere, To com to hym, if youre wyll were, To speke with hym awhyle. Sirinus. Go grete hym well, thou messyngere, say hym I com, and that right nere, Behynd the not a myle. (24) Nuncius. All redy, lord, at youre byddyng. [To Cesar.] Mahowne the menske, my lord kyng, And save the by see and sand. Imperator. Welcom, bewshere, say what tythyng, Do tell me tyte, for any thyng, What herd thou in my land? (25) Nuncius. I herd no thyng, lord, bot goode; Syr syryn, that I after yode, he wyll be here this nyght. Imperator. I thank the by mahownes bloode; Thise tythyngys mekyll amendys my mode; Go rest, thou worthy wyght. (26) Sirinus. Mahowne so semely on to call, he saue the, lord of lordis all, Syttyng with thi meneye. Imperator. Welcom, sir syrynne, to this hall, Besyde my self here sytt thou shall, Com vp belyf to me. (27) Sirinus. yis, lord, I am at youre talent. Imperator. Wherfor, sir, I after the sent, I shall the say full right; And therfor take to me intent, I am in poynt for to be shent. Sirinus. how so, for mahownes myght? (28) Imperator. syr, I am done to vnderstand, That a qweyn here, in this land, shall bere a chyld I wene, That shall be crowned kyng lyfand, And all shall bow vnto his hand; Thise tythyngys doth me teyne. (29) he shall commaunde both ying and old, None be so hardy ne so bold To gyf seruyce to me; Then wold my hart be cold If sich a beggere shold My kyngdom thus reyf me; (30) And therfor, sir, I wold the pray, Thy best counsell thou wold me say, To do what I am best; ffor securly, if that I may, If he be fonden I shall hym slay, Aythere by eest or west. (31) Syrinus. Now wote ye, lord, what that I reede; I counsell you, as ete I brede, what best therof may be; Gar serche youre land in euery stede, And byd that boy be done to dede, who the fyrst may hym see; (32) And also I rede that ye gar cry, To fleme wyth all that belamy, That shuld be kyng with crowne; Byd ych man com to you holly, And bryng to you a heede penny, That dwellys in towere or towne; (33) That this be done by the thyrde day, Then may none of his freyndys say, Bot he has mayde homage. If ye do thus, sir, permafay, youre worship shall ye wyn for ay, If thay make you trowage. (34) Imperator. I thank you, sir, as myght I the, ffor thyse tythyngys that thou tellys me, Thy counsell shall avayll; lord and syre of this cowntre, wythouten ende here make I the, ffor thy good counsell; (35) My messyngere, loke thou be bowne, And weynd belyf from towne to towne, And be my nobyll swane; I pray the, as thou luffys mahowne, And also for thy waryson, That thou com tytt agane. (36) Commaunde the folk holly ichon, Ryche ne poore forgett thou none, To hold holly on me, And lowtt me as thare lord alone; And who wyll not thay shall be slone, This brand thare bayll shal be. (37) Therfor thou byd both old and ying, That ich man know me for his kyng, ffor drede that I thaym spyll, That I am lord, and in tokynyng, Byd ich man a penny bryng, And make homage me tyll. (38) To my statutys who wyll not stand, ffast for to fle outt of my land, Byd thaym, withouten lyte; Now by mahowne, god all weldand, Thou shall be mayde knyght with my hand, And therfor hye the tyte. (39) Nuncius. All redy, lord, it shall be done; Bot I wote well I com not sone, And therfor be not wroth; I swere you, sir, by son and moyne, I com not here by fore eft none, wheder ye be leyfe or loth; (40) Bot hafe good day, now wyll I weynd, ffor longer here may I not leynd, Bot grathe me furth my gate. Imperator. Mahowne that is curtes and heynd, he bryng thi Iornay well to eynd, And wysh the that all wate. Explicit Cesar Augustus.</field>
+   </doc>
+</add>

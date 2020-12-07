@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia</field>
+      <field name="author_facet">University of Virginia</field>
+      <field name="author_sort_facet">university of virginia</field>
+      <field name="author_text">University of Virginia</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1920's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2005_Q2_2/uvaBook/tei/z000000298.xml</field>
+      <field name="date_indexed_facet">201909240342</field>
+      <field name="date_text">July 15, 1923</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:117124</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The University of Virginia record. New Series Vol. IX, No. 10, July 15, 1923</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia -- Periodicals</field>
+      <field name="subject_text">University of Virginia -- Periodicals</field>
+      <field name="title_display">The University of Virginia record.  New Series Vol. IX, No. 10, July 15, 1923</field>
+      <field name="title_facet">university of virginia record</field>
+      <field name="title_sort_facet">university of virginia record</field>
+      <field name="title_text">The University of Virginia record.  New Series Vol. IX, No. 10, July 15, 1923</field>
+      <field name="year_display">July 15, 1923</field>
+      <field name="year_facet">1923-09-15</field>
+      <field name="year_multisort_i">1923</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:117124&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:117124&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The University of Virginia record. New Series Vol. IX, No. 10, July 15, 1923&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;university of virginia record&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;July 15, 1923&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1923-09-15&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The University of Virginia record&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="volume"&gt;New Series Vol. IX&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="issue"&gt;No. 10&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;July 15, 1923&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Va.&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="LC call number"&gt;LD5667 .A43&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;LD5667.2&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;X002579617&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;o07560180&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;5 p. ; 23 cm.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia -- Periodicals&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The University of Virginia Record&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="volume"&gt;New Series, 9&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="issue"&gt;10&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1923-07-15&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2005&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2005 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 14 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">PRELIMINARY ANNOUNCEMENT OF Courses in Public Welfare Beginning with the session of 1923-24, the University of Virginia will offer courses for professional training in public welfare and local government. The purpose of these courses is to meet the need expressed in the following resolution, which was adopted by the Virginia Conference on Social Work, April 24, 1923: Resolved—That this conference hereby expresses its approval of the beginning that has been made to enable the State University to give its rightful aid to welfare work in this Commonwealth by providing for the instruction of social workers and especially for the training of the new superintendents of public welfare, who rightly look to our great University to give them professional equipment for their work of infinite importance to all the people of Virginia; and that we express the hope that the president and visitors of the University will greatly and promptly extend this department of its instruction to meet the emergency created by our new laws. Nature of the Work Offered.—The courses of instruction will cover a period of two years. The first year will be devoted to a study of the fundamental sciences which are essential to an understanding of the principles underlying social work. The second year will involve a practical study of the various concrete forms of social work now undertaken by public and private agencies in the field. Completion of the courses will thus insure both theoretical and practical instruction and training. The following courses, which will be offered next session, constitute the work of the first year: The Principles of Economics: A survey of the principles of economics, followed by a consideration of the bearing of these principles upon present American conditions. (3 session-hours.) Associate Professor Snavely, Mr. Starnes and Mr. Pinchbeck. Constitutional Government: A description and comparison of the principles and essential features of the governments of the United States, England, France, Germany and Switzerland, with especial emphasis on the characteristics of the American constitutional system and the operation of congressional government. (3 session-hours.) Associate Professor Williams and Mr. Lewis. General Psychology: A survey of the main principles of psychology, either as part of a liberal education or as preparation for professional study. (3 session-hours.) Professor Ferguson. Educational Sociology: The principles of sociology, followed by a consideration of the bearing of these principles upon education. (3 session-hours.) Professor Smithey. Rural Sociology and Economics: A study of social and economic forces as they apply to the life of the rural community. Emphasis is placed upon a proper coordination of these in rural progress. (3 session-hours.) Professor Gee. The work planned for the second year is subject to such changes as may seem desirable in view of expected additions to the faculty and to the equipment available for practical instruction. But the following is a summary of the courses now proposed for the second year, although they will not be offered until the session of 1924-25: Family Case Work and Standards of Child Welfare. (3 session-hours.) Social Pathology; Social Aspects of Crime; Poverty and Dependency. (3 session-hours.) Community Problems and Organization. (3 session-hours.) State, County and Municipal Government; Legal Aspects of Public Welfare. (3 session-hours.) Field Work and Community Surveys; Public Health. (3 session-hours.) Practical Work in Cooperation with State Board of Public Welfare.—The State Board of Public Welfare will place its resources at the disposal of students for practical instruction under the direction of officials of the Board and professors of the University. This will insure first-hand contact with the various aspects of welfare work, and will enable students to exercise a wiser choice as to the positions which they will occupy after completion of their training. Field work, to be undertaken as a part of the regular course of instruction, will be required for graduation. Entrance Requirements and Degrees.—The course of study outlined above constitutes the equivalent of the third and fourth years of an undergraduate college course, and when preceded by two years of college work taken in conformity with the degree requirements of the University, it will lead to a baccalaureate degree. Men may enter the University upon graduation from a high school or preparatory school and complete two years of college work before undertaking the public welfare course. They will thus spend four years in obtaining a degree, specializing in public welfare in the last two years. Women must be at least twenty years old to enter the University, and must show by proper certificate that they have completed two full years of work in a standard college after graduation from a high school or preparatory school. When these requirements are met, women may obtain a degree in two years by completing the public welfare course. Expenses.—The necessary expenses of a Virginia student taking public welfare courses may be estimated at $320 a year upward, according to the mode of living; for students from other states, expenses may be estimated at $510 a year upward. It is generally possible for a student to obtain employment in the University community which will help defray his expenses. And a number of scholarships and loan funds are available for well prepared students of promise. Work in the Summer Quarter.—The summer quarter is an integral part of the University year, and it is planned to offer courses in welfare work in the summer quarter of 1924. These courses will be open to regular students who desire to shorten the time required for their degrees and to men and women interested in social work who can not attend the regular sessions of the University.</field>
+   </doc>
+</add>

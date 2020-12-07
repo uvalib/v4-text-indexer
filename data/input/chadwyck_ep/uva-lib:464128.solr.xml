@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Cleveland, John, 1613-1658</field>
+      <field name="author_facet">Cleveland, John, 1613-1658</field>
+      <field name="author_sort_facet">cleveland john 1613 1658</field>
+      <field name="author_text">Cleveland, John, 1613-1658</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.1593.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1677</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464128</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Genuine Poems</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">Genuine Poems</field>
+      <field name="title_facet">genuine poems</field>
+      <field name="title_sort_facet">genuine poems</field>
+      <field name="title_text">Genuine Poems</field>
+      <field name="year_display">1677</field>
+      <field name="year_facet">1677</field>
+      <field name="year_multisort_i">1677</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464128&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464128&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Cleveland, John, 1613-1658&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;cleveland john 1613 1658&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Genuine Poems&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;genuine poems&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1677&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1677&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Cleveland, John&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1613&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1658&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Genuine Poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for Nath. Brooke [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1677&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp0774&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;23 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Genuine Poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 20 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Majority of verse reproduced elsewhere in The English Poetry Full-text Database; only unique items attributed to Cleveland included; Latin verse omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">TO THE Right Worshipful And Reverend Francis Turner D. D. Master of St. John's Colledge in Cambridge, and to the Worthy Fellows of the same Colledge.</field>
+      <field name="fulltext">[Hail venerable Reliques! unto whom] 1. Hail venerable Reliques! unto whom Old and new Idolatrous Rome Might pay devotion Free from superstition. Your sacred Oracles found the Sibyl's fate, Equally divine, alike unfortunate. Injurious time did both disperse, Like Pompey's Ruines, through an Universe. Whose leaves (like these) scattered were, The burthen of the swelling Air, Though faln, yet like their Laurels flourishing and fair. Those sacrific'd to Tarquin's Fame, Deriv'd their splendour from their flame. These from Charls his name Illustrious became. 2. Hail Mercury's and Apollo's Son! If not by Nature, sure by Adoption. By whose joint gift thou dost inherit Cicero's tongue, and Virgil's spirit. Worthy thou enshrin'd to rest In a sacred Vatican, Or learned Tusculan, Worthy of Mecœnas breast. Justly the Muses stil'd, and Cæsar's Laureate, Since in the State Thy pen did the sword's business anticipate. Thy quill the Roman Eagles did outfly, And conquering taught the Rebell Scot fidelity; The noblest triumph, and the happiest victory. The Caledonian Satyre scarce thine withstood; Unto thy Laurel stoop'd the glory of his wood, From thee Montross had learn'd to write in wounds and blood. 3. Thou Cæsar like, for sword and book renown'd, Both in the Muses camp, and Martial crown'd; (As if thy sacred wreath was meant Both wits and lightnings flashes to prevent, Both for security and ornament) Thy no less flourishing praise Deserves Minerva's double bayes Who sang so sweet in troublesom, and Halcyon days; Trent's dying Swans we see o'rcome with thy Mantuan lays. Both ready to resign that breath With which you sing your own, and Countreys death. Of Newark's, and your own sad story, The equal grief and glory. 4. Hail cœlestial Urn! Whose ashes like the neighbouring stars do shine &amp; burn And liberally dispense To the Poetick world wit's benevolence; Whose greater Orb the less doth influence. Hail Reverend Bard! whose name in British story Shall raise new Monuments of glory, Whereon thou sublim'd shalt sit The Genius of wit. The winged Pegasus mounts so high, As if to the wind the Gennet ow'd his Progeny. The lofty Pindar stops his flight, Avd only gazeth at, not emulates thy height. Whom at that distance plac'd we see, There's no parallel for thy Degree, But thine own Climax, or Hyperbole, Which out soars Dedalus his pitch, without his destiny. L. T. On Mr. Clieveland and his Poems. Clieveland again his sacred head doth raise Ev'n in the dust crown'd with immortal Bays, Again with Verses arm'd, that once did fright Lycambes's Daughters from the hated light, Sets his bold foot on Reformations neck, And triumphs o'r the vanquish'd Monster Smeck, That Hydra whose proud heads did so encrease That it deserv'd no less an Hercules. This, this is he who in Poetick rage With Scorpions lash'd the madness of the Age, Who durst the fashions of the Times despise And be a Wit when all mankind grew Wise, When formal Beards at twenty one were seen And Men grew Old almost as soon as Men, Who in those days when Reason, Wit, and Sense Were by the Zealots grave Impertinence Ycleped Folly, and in Ve-ri-ty Did savour rankly of Carnality, When each notch'd Prentice might a Poet prove For warbling through the Nose a Hymn of Love, When Sage George Withers and Grave William Pryn Himself might for a Poets share put in, Yet then could write with so much art &amp; skill That Rome might envy his Satyrick Quill, And crabbed Persius his hard lines give o'r, And in disdain beat his brown Desk no more. How I admire thee, Clieveland! when I weigh Thy close wrought sense, and every line survey? They are not like those things which some compose Who in a Maze of words the wandring sense do loose, Who spin one thought into so long a thread, And beat their Wit too thin to make it spread; Till 'tis too fine for our weak eyes to find And dwindles into nothing in the end. No; they're above the Genius of this Age Each word of thine swells pregnant with a Page. Then why do some Mens nicer Ears complain Of the uneven harshness of thy strain? Preferring to the Vigour of thy Muse Some smooth, weak Rhymer, that so gently flows, That Ladies may his easie strains admire And melt like Wax before the softning fire. Let such to Women write, you write to Men; We study Thee, when we but Play with Them. By A. B. Cleveland's Poems Digested in Order. SECT. II. Containing Poems which relate to State-Affairs. Upon The King's Return from Scotland. Return'd; I'l ne'r believ't; first prove him hence, Kings travel by their Beams and Influence. Who says the Soul gives out her Gests, or goes A flitting Progress 'twixt the Head and Toes? She rules by Omnipresence; and shall we Deny a Prince the same Ubiquity? Or grant he went, and 'cause the knot was slack Girt both the Nations with his Zodiack; Yet as the Tree at once both upward shoots, And just as much grows downward to the Roots; So at the same time that he posted thither By Counter-Stages he rebounded hither. Hither, and hence at once; thus every Sphere Doth by a double motion interfere, And when his Native form inclines him East. By the first Mover he is ravish'd West: Have you not seen how the divided Dam Runs to the summons of her hungry Lamb; But when the Twin cries halves, she quits the first, Nature's Commendum must be likewise nurst? So were his Journeys like the Spider spun Out of his Bowels of Compassion. Two Realms, like Cacus, so his steps transpose, His feet still contradict him as he goes. England's return'd, that was a banish'd Soil, The Bullet flying makes the Gun recoil. Death's but a Separation, though indors'd With Spade and Javelin, we were thus divorc'd. Our Soul hath taken wing, while we express The Corps returning to their Principles. But the Crab-Tropick must not now prevail, Islands go back, but when you're under sail: So his Retreat hath rectified that wrong; Backward is forward in the Hebrew Tongue. Now the Church Militant in plenty rests, Nor fears, like th' Amazon, to lose her Breasts. Her means are safe, not squeez'd, until the blood Mix with the Milk, and choak the tender Brood. She that hath been the floating Ark, is that She, that's now seated on Mount Ararat. Quits Charles; our Souls did guard him Northward thus, Now he the Counterpart comes South to us. The General Eclipse.The attribution of this poem is questionable. Ladies that guild the glittering Noon, And by Reflection mend his Ray, Whose Beauty makes the sprightly Sun To dance, as upon Easter-day; What are you now the Queen's away? Courageous Eagles, who have whet Your Eyes upon Majestick Light, And thence deriv'd such Martial heat, That still your Looks maintain the Fight; What are you since the King's Goodnight? Cavalier-buds, whom Nature teems, As a Reserve for England's Throne, Spirits whose double edge redeems The last Age, and adorns your own; What are you now the Prince is gone? As an obstructed Fountain's head Cuts the Intail off from the Streams, And Brooks are disinherited; Honour and Beauty are mere Dreams, Since Charles and Mary lost their Beams. Criminal Valors! who commit Your Gallantry, whose Pœan brings A Psalm of Mercy after it; In this sad Solstice of the King's, Your Victory hath mew'd her wings. See how your Souldier wears his Cage Of Iron, like the Captive Turk, And as the Guerdon of his Rage! See how your glimmering Peers do lurk, Or at the best work Journey-work! Thus 'tis a General Eclipse, And the whole World is al-a-mort; Only the House of Commons trips The Stage in a Triumphant sort, Now e'n John Lilburn take 'em for't.</field>
+   </doc>
+</add>

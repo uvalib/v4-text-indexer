@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Murray, David, Sir, 1567-1629</field>
+      <field name="author_facet">Murray, David, Sir, 1567-1629</field>
+      <field name="author_sort_facet">murray david sir 1567 1629</field>
+      <field name="author_text">Murray, David, Sir, 1567-1629</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.1566.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1615</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464109</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">A paraphrase of the CIV. psalme ; By David Mvrray</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">A paraphrase of the CIV. psalme ; By David Mvrray</field>
+      <field name="title_facet">paraphrase of the civ psalme</field>
+      <field name="title_sort_facet">paraphrase of the civ psalme</field>
+      <field name="title_text">A paraphrase of the CIV. psalme ; By David Mvrray</field>
+      <field name="year_display">1615</field>
+      <field name="year_facet">1615</field>
+      <field name="year_multisort_i">1615</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464109&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464109&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Murray, David, Sir, 1567-1629&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;murray david sir 1567 1629&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A paraphrase of the CIV. psalme ; By David Mvrray&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;paraphrase of the civ psalme&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1615&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1615&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Murray, David, Sir&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1567&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1629&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A paraphrase of the CIV. psalme&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;By David Mvrray&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Edinburgh&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed by Andro Hart&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1615&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp2774&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;[12] p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A paraphrase of the CIV. psalme&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;By David Mvrray&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 13 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">To his sacred Maiestie. That princely Prophet whose celestiall Vaine, In sweetest Measures, &amp; soule-charming Layes, To his deare Harpe so fealingly bewrayes Mans perfect Way to Pleasure and to Paine: Bequeath'd the Skill of his Skie-fostered Braine, (Whilst he himselfe crownd with immortall Rayes, Of endlesse Glory rests, not fading Bayes) Here Phœnix like to be renewd againe. And as from that Arabian Birds sweet Ashe One still proceedes of like admired Wing: The sacred Furie of best Israels King To Britanes Monarch doth so fully passe, By which inflam'd He sings, that Heauens Decree, None worthy Davids Muse, &amp; Harpe but He. Your Maiesties humble seruant, Dauid Murray. A PARAPHRASE of the CIV. PSALME. My Soule praise thou Iehouahs holie Name, For he is great, and of exceeding Might, Who cloth'd with Glorie, maiestie, and Fame, And couered with the garments of the light, The azure Heauen doth like a Courtaine spred, And in the depths his chalmer beames hath layd. The Clouds he makes his chariot to be, On them he wheeles the christall Skies about, And on the wings of Æolus, doth Hee At pleasour walke; and sends his Angels out, Swift Heraulds that doe execute his will, His words the heauens with firie lightnings fill. The Earths foundation he did firmelie place, And layd it so that it should neuer slyde, He made the Depths her round about embrace, And like a Robe her naked shores to hide, Whose waters would o'rflow the Mountains high But that they backe at his rebuke doe flie. At the dread voice of his consuming thunder, As these retire, the mountaines in the Skie Doe raise their tops, like Pyramids of wonder, And at their feet the pleasant valleys lie, And to the floods he doth prescribe a Bound, That they Earths beautie may no more confound. The fertile Plaines he doth refresh and cheare With pleasant Streames which from the Mountaines fall, To which (to quench their Thirst) all Beastes draw neare, Euen to the Asse whom neuer Yoake did thrall: And on the Trees by euery chrystall Spring, Heauens Quiristers doe sweetly bill and sing, The thirstie Tops of Skie-menacing Hils He from the Clouds refresheth with his Raine, And with the Goodnes of his Grace he fills The Earth, with all that doth therein remaine, He causeth her both Man and Beast to feede The wholesome Herbes, and tender Grasse to breede. The fruitfull Yuie strict-embracing Vine, To glad Mans Heart he hath ordaind and made, And giues him oyle to make his Face to shine, And to encrease his Strength, and Courage breede, The mighty Trees are nourishd by his hand, The Cedars tall in Lebanon that stand. On whose wide-spreading, high and bushie Tops, The flightering Birds may build their Nests in peace, And in the Firre that pitchie Teares foorth drops, He hath preparde the Storke a dwelling Place. The Mountaines are vnto the Goates refuge, And in the Rockes the Porcupines doe lodge. He hath appointed Seasons for the Moone, To fade, to grow, whiles faire to looke, whiles wane, And makes bright Phœbus when the Day is done, In Thetis Lappe to diue his head againe: He clowdes the Skies, and doth in Darknes pight, Ou'r all the Earth the Courtaines of the Night. Then all the beastes from out the forrest creepe, To seeke his pray the Lyon loudlie roares, The Serpents hisse, the Crocodile doth weepe, As if she wold bewaile them she deuoures, And when the Sunne returnes they all retire, And in their Dennes doe couch them selues for feare. And then doth man in safetie freelie goe, To ply his worke with diligence till Night, Thy wondrous wonders who, O Lord, can show? The earth is filled with thy Glory bright, And thou hast stor'd the Deepe-wyd Ocean Sea, With Fish, Beasts, Monsters, nomberles that be. There doe the Winged Wooden Forts forth goe, To climbe the glassie mountaines with their Keeles, There Liuiathan wanders to and fro, And through the waltring Billows tumbling reeles, Who in that Liquid Labyrinth enclos'd Doth play and sport as thou him hast dispos'd. All liuing things, O Lord, doe wait on thee That in due season thou mayst giue them food, And thou vnfolds thy liberall hands most free And giues them euerie thing may doe them good: Thy blessings thou so plenteouslie distills, That their aboundance all things breathing fills. But if thy face thou doe withdraw in wrath, Thy creatures all then languish, grieue, and murne, Or if thou angrie take away their breath, They perish straight and into dust returne: But when thy Sprite thou sends them to renew, All fresh doth flowrish, Earth regaines her hue. In his most glorious workes let God reioyce, Who makes the Earth to tremble with a looke, Let men admire and Angels with their voice Extoll his Name whose touch makes Mountaines smooke; To this thought-passing speech-expreslesse, Lord, While Breath extends will I still praise afford. He will receiue my humble sute in loue, And in his fauour I shall euer joye, The wicked from the Earth he will remoue, And whollie heauen-dispising wormes destroy. But whilst they buried lie in endlesse shame, My Soule praise thou Iehouahs holy Name. D. M. FINIS.</field>
+   </doc>
+</add>

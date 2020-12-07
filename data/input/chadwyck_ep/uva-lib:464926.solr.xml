@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Cobb, Samuel, 1675-1713</field>
+      <field name="author_facet">Cobb, Samuel, 1675-1713</field>
+      <field name="author_sort_facet">cobb samuel 1675 1713</field>
+      <field name="author_text">Cobb, Samuel, 1675-1713</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1710's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.0405.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">1714</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464926</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Greek, Modern (1453- )</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">News from both Universities ; Containing I. Mr. Cobb's Tripos Speech at Cambridge, with a Complete key inserted. II. The Brawny Priest: Or, the Captivity of the Nose. A Poem</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 18th century</field>
+      <field name="subject_text">English poetry -- 18th century</field>
+      <field name="title_display">News from both Universities ; Containing I. Mr. Cobb's Tripos Speech at Cambridge, with a Complete key inserted. II. The Brawny Priest: Or, the Captivity of the Nose. A Poem</field>
+      <field name="title_facet">news from both universities</field>
+      <field name="title_sort_facet">news from both universities</field>
+      <field name="title_text">News from both Universities ; Containing I. Mr. Cobb's Tripos Speech at Cambridge, with a Complete key inserted. II. The Brawny Priest: Or, the Captivity of the Nose. A Poem</field>
+      <field name="year_display">1714</field>
+      <field name="year_facet">1714</field>
+      <field name="year_multisort_i">1714</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464926&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464926&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Cobb, Samuel, 1675-1713&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;cobb samuel 1675 1713&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;News from both Universities ; Containing I. Mr. Cobb's Tripos Speech at Cambridge, with a Complete key inserted. II. The Brawny Priest: Or, the Captivity of the Nose. A Poem&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;news from both universities&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1714&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1714&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Cobb, Samuel&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1675&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1713&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;News from both Universities&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Containing I. Mr. Cobb's Tripos Speech at Cambridge, with a Complete key inserted. II. The Brawny Priest: Or, the Captivity of the Nose. A Poem&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for J. Roberts [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1714&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp0788&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;gre&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;20 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;News from both Universities&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Containing I. Mr. Cobb's Tripos Speech at Cambridge, with a Complete key inserted. II. The Brawny Priest: Or, the Captivity of the Nose. A Poem&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 24 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only verse included; Latin verse omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">TRIPOS CANTABRIGIENSIS. 19 Feb. 1701/2. The verse has been extracted from Mr. Cobb's Tripos speech delivered in Latin. 'Twas well, when our Forefathers did agree, That the grave Doctors should sit there and see Their Follies banter'd by a Knave like me. And wisely manag'd to begin their Lent With one who swears he'll make you all repent; Who ne'ertheless intends not to displease ye, He'll mortify, but make the Pennance easy. He'll touch the Wound with a most cautious Art, And for a Cure he'll play the Surgeon's part, With Lady's Hand, but with a Lion's Heart. Nor shall I think my Labour lost about ye, If I perceive you mend, tho' I much doubt ye. Nor need you fear that I shall e'er disclose The Secrets that are whisper'd inter Nos. For we all know it breaks a General Rule Of Decency, to tell Tales out of School. Tho' some well-meaning Men report the Jeer Will prove malicious, barbarous, severe. Sure you don't think me born of Tygers Race. Is ought so frightful in this harmless Face? Tho' still if I prove partial, I'm mistaken, I'll take you as you are, of your own making, Nor shall one Iohnian Doctor save his Bacon. A thing inseparable from Derision, As Accidents of Logical Inhesion. So much for Prologue. And upon occasion I hope you'll say there's no Man in the Nation, Was e'er so tender of your Reputation. How will it please me, when you cry, That's he Who gently purg'd the University, And softly did reprove the sensless Doctors In the Reign of Jack Cooper and Awbery the Proctors. And now, ye roaring Roysters all, Who loud as at Bear-garden bawl, Know here the Doctors sit at stake, And I'm halloo'd my Neck to break, Unless you save your Favourite when he fall. But e'er we do begin to roam Abroad, 'tis fit we look at home. So much Pains has he took to reform a bad Age, And, what Collier could never do, ruin'd the Stage; With Wit and Reproving, the other began, And rally'd and rail'd like a well-meaning Man. But our Doctor had found a more fortunate Hit, He knew Axes and Hatchets were sharper than Wit. So the young Son of Philip, when he could not pretend T' untie the Knot, cut it, and there was an end. As fleet as any Spanish Jennet, When Boreas blows Conception in it. So have I seen Grimalkin play, And sporting paw on Looking-glass, With wond'rous Gravity and Grace, 'Till she perceiv'd her Comrade steal away, Then jumps behind to see her Face. A Man by his Regalians known For He was very much given to the Study of Architecture. Timber measuring and Stone; For they must needs be Architects, Who are so us'd to eating 'Tis a Custom at Kings College, when a Lad comes in after Prayers to Dinner, to lay a Brick on his Trencher. Bricks. The LETTER. To the Paragon of all Beauty, my dear Chloe, the Corner-stone of my Affections, the Buttress of my Hopes, and the only Comfort of a despairing Lover, These. What's the Device? Oh (I perceive the Maggot) 'Tis Hudibras's Seal, a Burning Faggot. That Rascal Cupid is the Occasion Of my continual Lamentation, And will (unless you give me Hope) Drive me to Dagger or a Rope. You'll kill me, as I told you often; Nay, I've already bought my Coffin, Where I will lay my Bones secure From those hard Evils I endure. When I consider my hard Luck, I think some Tygress gave you suck, Or thou were't born (hard-hearted Honey) In Flintshire, or in Stratford Stoney. For none but Heart of rocky Stone. Cou'd e'er resist my constant Moan, Or Love as chast as Hymen's Taper, Or bright as Candle wrapt in Paper. If you're resolv'd on my undoing, And unavoided is my Ruin, Yet I shall find you out, and know ye In Shades Elysian, cruel Chloe! Nothing but Scorn shall be between us, Like Dido to the Son of Venus. I'll die, if you'll not be my Wife, So! ends my Letter, and my Life. This is the Fellow of whom there went a Story about Ball's throwing him.When first you stride your merry Brute, Observe the Saddle and the Boot. Rise on your Left Side, never fail, Your Face else will be towards the Tail: And, when you would your Steed restrain, Your Bridle's better than the Main. Have a care of a Fall, nor be too severe; Never stick in both Spurs to stop his Career. One who's in constant motion, always ambling, Whose Head is like his Heels, for both are rambling. No Corner or College is free, but he's in it, At the The two most distant Places in the Town. Castle and The two most distant Places in the Town. Spittle-house End in a Minute. He seems like Juglers Tricks where-e'er he goes: Hey Jingo, Sirs, Where is he? At the Rose; Presto, begon! he's at the Market-cross. If you'd allow him Scholarship, then he May well be call'd a walking Library, So much his Head doth with vast Learning swell, Full as an Egg, and of as thin a Shell. But enough; for we never should have done talking, If we were no more weary than he is of walking. I wonder and I fain wou'd know Why he forbad a Puppet Show. The Wise will say 'twas done with reason, For Punch was Jackish, and talk'd Treason. And Fortune's likely to decline us, When such short Rascals undermine us. Who knows how far he might advance? Perhaps the Rogue was brib'd by France. However he disguise his Part, I know there's Malice in his Heart. But who can any Harm acquire From a small Gentleman in Wire? And what can e'er proceed that's odd From tiny things like Master A very little Man of Trinity College. Modd? Thus to his Sophs Wallero said, Knight-Errant of the shaking Head One that always swings his Head about from one Shoulder to the other.; Tho' he might with Don Quixot fight, For he's both Windwill, and the Knight. A thing design'd for nought but Show, A whining Lover, and a Beaux: As fine as a Peacock, as gay as a Fly, Like a Parrot he talks, and as pert as a Pye; With a finical Grace, if his Hat he but cocks, Up it flies like the Lid of a Tobacco-box. But pray, Sir Tripos, be n't a Critick, The Man, they say, is Paralytick, Or else a Fop, and who can find Cures for Diseases of the Mind? A Doctor, as the Story goes, Caught an odd Fancy by the Nose, And would an Almanack compose. He knew the Outside of a Star, But thought it hung too high and far For mortal Eyes to judge or know When it should rain, or when't should snow. At last a Thought came very pat, Strait in a Rage he threw away His Ptolomey, cry'd, ??????, And found the Secret in his Cat. Partridge and Dove were Fools; for there When it should rain, it oft prov'd fair. A Weathercock was vain, for he could find No certainty in things that chang'd with every Wind. He knew when Thunder was a brewing, And Storms were hatch'd, by Puss's mewing; Could tell you when the Weather suits For Riding, if 'twould wet your Boots. For what then must this Doctor pass, If Puss become a Weather-glass? Who, tho', alas! of late she's dead, Is now a Constellation made, And rises with the Dog, to show Above, the Weather, as she did below. Regulæ Auctiones sunt hæ. He that bids very high's the Buyer, Unless another Man bids higher. They're perfect all, for ought I know, Else you may look 'em over now. Then first to begin with my worthy proposing, Who'll buy any Doctors, fourteen to the Dozen? I'll assure you they're fine ones, Come what say you, Brother? 1 Broth. I'll give you two Groats. 2 Br. And I'll give another. You both bid like Chapmen, then since you're so willing. E'en take 'em, 'tis more than they're worth by a Shilling, But, I think, I have two or three Duplicates more, You'll ne'er find the like, tho' you look the World o'er. At three Pence, once, twice, thrice, do ye think it too much? I'll send 'em beyond Sea, they'll pass with the Dutch. [Mr. Tripos pulls a Halter out of his Pocket.] Now if I must suspended be, I'll die in merry Company; For tho' we weep at Friends in String, Yet you'll all laugh to see me swing. The Doctors knew it would be my turn To hang, since Tripos hangs at Tyburn; But, e'er I fall, I'll make Confession, I have been in a vile Transgression. I told you all whatever I knew; You heard me, and you knew 'twas true. The walking Doctor I did worry, I beg his Pardon, and am sorry, And since 'tis Custom, e'er we die, To leave our Friend's a Legacy, My Wit I leave, 'tis small, I grant it, To Doctors, and to those that want it; And to the Beaus, as 'tis my Duty, I'll leave my Dressing and my Beauty. But now I hear my fatal Knell, And so I take my last Farewell. The EPILOGUE. Now after all the various Sports of Wit, I yield to You, who like the Senate sit In Robes demurely grave, as when the Gaul, Fierce Brennus, did besiege the Capitol. Tho' me more Human than the Gaul you've found; I bow'd with Reverence, but gave no Wound. To the Vice-Chancellor.And now, Great Sir, to you I make address; That I've been honest, you must needs confess. You've heard with how much Innocence I spoke, No scurril Satire, or ill-natur'd Joke; How from Obscenity I could decline, Which always grates a Doctor's Ears and mine; How nothing tended to malicious Ends. Then let us all shake Hands, and so part Friends. NASUS PREHENSUS. Imitated in English. Oxon. Jan. 20. 1713/4 Fat Buphalus, his o'er-fed Paunch to ease, And cure his burthensome Disease, A Clyster-pipe he does prepare To force the Way, and the stopt Passage clear. The stately Collups of his Triple Chin Majestick on his Breast did lean. He was an Abbot you may guess, By these sure Signs you cannot judge him less. Naked he on his Bed-side prostrate lay, And did his monstrous Loins display; His Friends with Wonder all beheld The mighty Breadth, resembling a huge Shield. The Servant in one Hand the Engine brought; The Bag was with warm Liquor fraught. With th' other Hand he strove, in vain, The double Mountain huge to part in twain. For as he pull'd the Right-side Cheek away, The Left bore down with heavy Sway; With vain Efforts he lab'ring strove, The mighty Hills still close together clove. Two Brethren strait are summon'd to the Place, The poor laborious Slave to ease, And to assist with pious Care, To ope the fleshy Doors, which still adhere. No sooner call'd, but see they both appear, With Strength united both prepare To assist; then each Man takes a Cheek; They part, and shew a Hole profoundly deep. I'th' midst the Man apply'd his Instrument, And his Face still nearer bent, To view the vast Profundity. (Things yet were carried well enough we see.) When lo! a sudden Laughter seiz'd the Holy Pair, (At such a Jest who could forbear?) Each Man let go his slipp'ry Hold, And with Elastick Force the Doors upfold. While the poor careful Servant there applies His Instrument with busy Eyes, His Nose was caught, and stuck so fast, That 'twas with much ado got out at last.</field>
+   </doc>
+</add>

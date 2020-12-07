@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Jonson, Ben, 1573-1637</field>
+      <field name="author_facet">Jonson, Ben, 1573-1637</field>
+      <field name="author_sort_facet">jonson ben 1573 1637</field>
+      <field name="author_text">Jonson, Ben, 1573-1637</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.0031.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1616</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:458803</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">A Private Entertainment of the King and Qveene, on May-day in the Morning At Sir William Cornvvalleis his house, at High-gate. 1604</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 17th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 17th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">A Private Entertainment of the King and Qveene, on May-day in the Morning At Sir William Cornvvalleis his house, at High-gate. 1604</field>
+      <field name="title_facet">private entertainment of the king and qveene on may day in the morning at sir william cornvvalleis his house at high gate 1604</field>
+      <field name="title_sort_facet">private entertainment of the king and qveene on may day in the morning at sir william cornvvalleis his house at high gate 1604</field>
+      <field name="title_text">A Private Entertainment of the King and Qveene, on May-day in the Morning At Sir William Cornvvalleis his house, at High-gate. 1604</field>
+      <field name="year_display">1616</field>
+      <field name="year_facet">1616</field>
+      <field name="year_multisort_i">1616</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:458803&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:458803&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Jonson, Ben, 1573?-1637&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;jonson ben 1573 1637&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A Private Entertainment of the King and Qveene, on May-day in the Morning At Sir William Cornvvalleis his house, at High-gate. 1604&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;private entertainment of the king and qveene, on may day in the morning at sir william cornvvalleis his house at high gate 1604&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1616&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1616&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Jonson, Ben&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1573&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1637&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Private Entertainment of the King and Qveene, on May-day in the Morning At Sir William Cornvvalleis his house, at High-gate. 1604&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Imprinted ... by Will. Stansby&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1616&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3871466-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv10031&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 17th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;17th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Private Entertainment of the King and Qveene, on May-day in the Morning At Sir William Cornvvalleis his house, at High-gate. 1604&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 27 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only verse drama included&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;English commendatory poems and Latin epigraph included with Seianus his Fall. A Tragœdie&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Entertainment at High-gate.</field>
+      <field name="desc_meta_file_display">Genre: Entertainment.</field>
+      <field name="desc_meta_file_display">Date first published: 1616.</field>
+      <field name="desc_meta_file_display">Date first performed: 1 May 1604.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">A PRIVATE ENTERTAINMENT of the King and Qveene, on Mayday in the Morning At Sir William Cornvvalleis his house, at High-gate. 1604. By the same Author.</field>
+      <field name="fulltext">The king, and queene being entred in at the gate, the Penates, or household-gods receiued them, attir'd after the antique manner, with iauelines in their hands, standing on each side of the porch, with this speech. Penates. 1. Leape light hearts in euery brest, Ioy is now the fittest passion; Double maiestie hath blest All the place, with that high grace, Exceedeth admiration! 2. Welcome, monarch of this Isle, Europes enuie, and her merror; Great in each part of thy stile: Englands wish, and Scotlands blisse, Both France, and Irelands terror. 1. Welcome, are you; and no lesse, Your admired queene: the glory Both of state, and comelinesse. Euery line of her diuine Forme, is a beautious storie. 2. High in fortune, as in blood, So are both; and blood renowned By oft falls, that make a flood In your veines: yet, all these streines Are in your vertues drowned. 1. House, be proud; For of earth's store These two, onely, are the wonder: In them shee's rich, and in no more. Zeale is bound their prayse to sound As loud as fame, or thunder. 2. Note, but how the ayre, the spring Concurre in their deuotions; Payres of Turtles sit, and sing On each tree, ore-ioy'd to see In them like loue, like motions. 1. Enter sir, this longing dore, Whose glad lord nought could haue blessed Equally; (I'am sure not more) Then this sight: saue of your right, When you were first possessed. 2. That, indeed, transcended this. Since which houre, wherein you gayn'd it. For this grace, both he and his, Euery day, haue learn'd to pray, And, now, they haue obtayn'd it. Here the Penates lead them in, through the house, into the garden, where Mercvry, with a second speech, receiued them, walking before them. Mer. Retyre, you houshold-gods, and leaue these excellent creatures to be entertayned by a more eminent deitie. Hayle King, and Queen of the Islands, call'd truely fortunate, and by you made so; To tell you, who I am, and weare all these notable, and speaking ensignes about me, were to challenge you of most impossible ignorance, and accuse my selfe of as palpable glorie: It is inough that you know me here, and come with the licence of my father Iove, who is the bountie of heauen, to giue you early welcome to the bower of my mother Maia, no lesse the goodnesse of earth. And may it please you to walke, I will tell you no wonderfull storie. This place, whereon you are now aduanced (by the mightie power of Poetrie, and the helpe of a faith, that can remoue mountaynes) is the Arcadian hill Cyllene, the place, where my selfe was both begot, and borne; and of which I am frequently call'd Cyllenivs: Vnder yond purslane tree stood sometime my cradle. Where, now, behold my mother Maia, sitting in the pride of her plentie, gladding the aire with her breath, and cheering the spring with her smiles. At her feet, the blushing Avrora, who, with her rosie hand, casteth her honie dewes on those sweeter herbs, accompanied with that gentle winde, Favonivs, whose subtile spirit, in the breathing forth, Flora makes into flowers, and sticks them in the grasse, as if shee contended to haue the imbroyderie of the earth, richer then the cope of the skie. Here, for her moneth, the yeerely delicate May keepes state; and from this Mount, takes pleasure to display these valleyes, yon'd lesser hills, those statelier edifices, and towers, that seeme enamour'd so farre off, and are rear'd on end, to behold her, as if their vtmost obiect were her beauties. Hither the Dryads of the valley, and Nymphs of the great riuer come euery morning, to taste of her fauors; and depart away with laps fill'd with her bounties. But, see! vpon your approch their pleasures are instantly remitted. The birds are hush'd, Zephyre is still, the Morne forbeares her office, Flora is dumbe, and herselfe amazed, to behold two such maruailes, that doe more adorne place, then shee can time; Pardon, your Maiestie, the fault, for it is that hath caus'd it; and till they can collect their spirits, thinke silence, and wonder the best adoration. Here, Avrora, Zephyrvs, and Flora, began this song in three parts. Song. See, see, ô see, who here is come a Maying! The master of the Ocean; And his beautious Orian: Why left we off our playing? To gaze, to gaze, On them, that gods no lesse then men amaze. Vp Nightingale, and sing Iug, jug, jug, jug, &amp;c. Raise Larke thy note, and wing, All birds their musique bring, Sweet Robin, Linet, Thrush, Record, from euery bush, The welcome of the King; And Queene: Whose like were neuer seene, For good, for faire. Nor can be; though fresh May, Should euery day Inuite a seuerall paire, No, though shee should inuite a seuerall paire. Which ended: Maia (seated in her bower, with all those personages about her, as before describ'd) began to raise her selfe, and, then declining, spake. Mai. If all the pleasures were distill'd Of eu'ry flower, in euery field, And all that Hiela hiues do yeild Were into one broad mazor fild; If, thereto, added all the gummes, And spice, that from Panchaia comes, The odour, that hydaspes lends Or Phœnix proues, before she ends; If all the Ayre, my Flora drew, Or spirit, that Zephyre euer blew; Were put therein; and and all the dew That euer rosy Morning knew; Yet, all diffus'd vpon this bower, To make one sweet detayning houre, Were much too little for the grace, And honor, you vouchsafe the place. But, if you please to come againe, We vow, we will not then, with vaine, And empty passe-times entertayne, Your so desir'd, though grieued payne. For, we will haue the wanton fawnes, That frisking skip, about the lawnes, The Paniskes, and the Siluanes rude, Satyres, and all that multitude, To daunce their wilder rounds about, And cleaue the ayre, with many a shout, As they would hunt poore Echo out Of yonder valley, who doth flout Their rusticke noyse. To visite whome You shall behold whole beuies come Of gaudy Nymphes, who tender calls Well tun'd (vnto the many falls Of sweete, and seuerall sliding rills, That streame from tops of those lesse hills) Sound like so many siluer quills When Zephyre them with musique fills. For these, Favonivs here shall blow New flowers, which you shall see to grow, Of which, each hand a part shall take, And, for your heads, fresh garlands make. Wherewith, whilst they your temples round, An ayre of seuerall birds shall sound An Iöpæan, that shall drowne The acclamations, at your crowne. All this, and more then I haue gift of saying, May vowes, so you will oft come here a Maying. Mer. And Mercvry, her sonne, shall venture the displeasure of his father, with the whole bench of Heauen, that day, but he will doe his mothers intents all seruiceable assistance. Till then, and euer, liue high and happy, you, and your other you; both enuied for your fortunes, lou'd for your graces, and admired for your vertues. This was the mornings entertaynments; after dinner, the King, and Queene comming againe into the garden, Mercvry the second time accosted them. Mer. Againe, great payre, I salute you; and with leaue of all the gods: whose high pleasure it is, that Mercvry make this your holy-day. May all the blessings both of earth, and heauen, concurre to thanke you: For till this dayes sunne, I haue faintly inioy'd a minutes rest to my creation. Now, I do, and acknowledge it you sole, and no lesse the diuine benefit. If my desire to delight you, might not diuert to your trouble, I would intreat your eyes to a new, and strange spectacle; a certaine sonne of mine, whom the Arcadians call a god, howsoeuer the rest of the world receiue him: It is the horned Pan, whom in the translated figure of a goate I begot on the faire Spartan Penelope; May, let both your eares, and lookes forgiue it: These are but the lightest escapes of our Deities. And, it is better in me, to preuent his rusticke impudence, by my blushing acknowledgement, then, anon, by his rude, and not insolent clayme, be enforced to confesse him. Yonder hee keepes, and with him the wood Nymphes, whose leader he is in rounds, and daunces, to this Syluane musique. The place, about which they skip, is the fount of laughter, or Bacchvs spring; whose statue is aduanced on the top; and from whose pipes, at an obseru'd howre of the day, there flowes a lustie liquor, that hath the present vertue to expell sadnesse; and within certaine minutes after it is tasted, force all the myrth of the spleene into the face. Of this is Pan the Guardian. Loe! the fountain begins to run, but the Nymphes at your sight are fled. Pan, and his Satyres wildly stand at gaze. I will approach, and question him: vouchsafe your care, and forgiue his behauiour, which (euen to me, that am his parent) will no doubt be rude ynough, though otherwise full of salt, which, except my presence did temper, might turne to be gall, and bitternesse; but that shall charme him. Pan. O, it is Mercvry! Hollow 'hem, agen, What be all these, father? gods, or men? Mer. All humane. Onely, these two are deities on earth, but such, as the greatest powers of heauen may resigne to. Pan. Why did our Nymphes run away? can you tell? Here be sweet beauties loue Mercvry well? I see by their lookes. How say you? great master? Will you please to heere? Shall I be your taster? Mer. Pan, you are too rude. Pan. It is but a glasse, By my beard, and my hornes, tis a health, and shall passe. Were he a king, and his mistresse a queene This draught shall make him a petulant spleene. But, trow, is he loose, or costiue of laughter? I'ld know, to fill him his glasse, thereafter, Sure, either my skill, or my sight doth mock, Or this lordings looke should not care for the smock; And yet he should loue both a horse and a hound, And not rest till he saw his game on the ground: Well, looke to him, Dame; beshrow me were I 'Mongst these bonny-bells, you should need a good eye. Here mistresse; all out. Since a god is your skinker: By my hand, I beleeue you were borne a good drinker. They are things of no spirit, their blood is asleepe, That, when it is offred 'hem do not drinke deepe. Come, who is next? Our liquour here cooles. Ladies, I'am sure, you all ha' not fooles At home to laugh at. A little of this, Tane downe here in priuate, were not amisse. Beleeue it, she drinkes like a wench, that had store Of lord for her laughter, will you haue more? What answere you, lordings? will you any, or none? Laugh, and be fat, sir, your penance is knowne. They that loue mirth, let 'hem heartily drinke, 'Tis the only receipt, to make sorrow sinke. The yong Nymph, that's troubled with an old man, Let her laugh him away, as fast as he can. Nay drinke, and not pause, as who would say must you? But laugh at the wench, that next doth trust you. To you, sweet beauty; nay, pray you come hether: E're you sit out, yow'le laugh at a fether. Ile neuer feare you, for being too wittie, You sip, so like a forsooth of the citie. Lords, for your selues, your owne cups crowne, The ladies, ifaith, else will laugh you downe. Goe to, little blushet, for this, anan, Yow'le steale forth a laugh in the shade of your fan. This, and another thing, I can tell you, Will breed a laughter, as low was your belly Of such sullen pieces, Iove send vs not many, They must be tickled, before they will any. What haue we done? They that want, let 'hem call, Gallants, of both sides, you see here is all. Pan's entertaynment: Looke for no more. Only, good faces, I reed you, make store Of your amorous Knights, and Squiers hereafter, They are excellent sponges, to drinke vp your laughter. Farewell, I must seeke out my Nymphs, that you frighted; Thanke Hermes, my father, if ought'haue delighted. Mer. I am sure, thy last rudenesse cannot; for it makes me seriously asham'd. I will not labor his excuse, since I know you more readie to pardon, then he to trespasse: but, for your singular patience, tender you all aboundance of thankes; and, mixing with the Master of the place, in his wishes, make them my diuinations: That your loues be euer flourishing as May, and your house as fruitfull: That your acts exceed the best, and your yeares the longest of your predecessors: That no bad fortune touch you, nor good change you. But still, that you triumph, in this facilitie, ouer the ridiculous pride of other Princes; and for euer liue safe in the loue, rather, then the feare of your subiects. And thus it ended. Ben. Ionson.</field>
+   </doc>
+</add>

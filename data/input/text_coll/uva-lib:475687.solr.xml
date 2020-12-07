@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Crane review: Anonymous</field>
+      <field name="author_facet">Crane review: Anonymous</field>
+      <field name="author_sort_facet">crane review anonymous</field>
+      <field name="author_text">Crane review: Anonymous</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1900's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/AnoLast.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">1900</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:475687</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Last of Stephen Crane</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">The Last of Stephen Crane</field>
+      <field name="title_facet">last of stephen crane</field>
+      <field name="title_sort_facet">last of stephen crane</field>
+      <field name="title_text">The Last of Stephen Crane</field>
+      <field name="year_display">1900</field>
+      <field name="year_facet">1900</field>
+      <field name="year_multisort_i">1900</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:475687&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:475687&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Crane review: Anonymous&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;crane review anonymous&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Last of Stephen Crane&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;last of stephen crane&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1900&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1900&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Crane review: Anonymous&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Last of Stephen Crane.&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;1st Edition.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1900&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Funk &amp;amp; Wagnalls Company&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1900&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Last of Stephen Crane.&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 9 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE LAST OF STEPHEN CRANE. THE collection of stories about the Spanish-American war upon which Mr. Crane was engaged at the time of his death, has lately appeared in book form under the title "Wounds in the Rain." The St. James's Gazette (London, September 27) thinks that in a few of the stories he rises almost, tho not quite, to the level of his masterpiece, "The Red Badge of Courage." It says: "The stories are shorter, there is not the same irresistible sequence of things, nor the pauseless, violent sweep of thought and deed which made 'The Red Badge' wonderful. Yet, just as in that book, there are some sentences which only Mr. Crane would, or perhaps could, have written. Take this from 'The Clan of No-Name.' Eight men fire a volley at a Spanish blockhouse: 'Then they laughed and yelled insulting language, for they knew that, as far as the Spaniards were concerned, the surprise was as much as having a diamond bracelet turn to soap.' In some other of his books, Mr. Crane wrote once of a soldier's knees 'turning to bread.' Take another instance: 'On the way he passed many things: bleeding men carried by comrades; others making their way grimly, with encrimsoned arms; then the little settlement of the hospital squad; men on the ground everywhere, many in the path; one young captain dying, with great gasps, his body pale blue and glistening, like the inside of a rabbit's skin.' "That is a trick, or call it a habit, of Mr. Crane; a few commonplace sentences, with perhaps a word like 'encrimsoned' gleaming in them; more commonplace words, dull and short; and then the horror of some homely comparison which does its work cleanly and quickly, yet leaves the wound of a queer weapon behind it. Perhaps owing to the fact that Mr. Crane writes of what he saw, not what he imagined, there is less of this kind of work in 'Wounds in the Rain' than in the 'Red Badge of Courage.' But there is the same humor, the same power of making the behavior of his fighting soldiers subjective doings of his own, and the same picturesque language and pithy slang as Mr. Crane set down in so masterly a fashion in his first war story. Here and there he hits his reader too hard. He wishes to insist on the fact that a red-headed Spanish corpse lay near the enemy's trenches. He therefore uses the words 'red-headed' nine times in thirty-three lines. Or he wishes to point out that promotion in the army comes slowly: 'I knew the kind. First lieutenants at forty years of age, captains at fifty, majors at 102, lieutenant-colonels at 620, full colonels at 1,000, and brigadiers at 9,768,295 plus. A man had to live two billion years to gain eminent rank in the regular army at that time.' "But of Mr. Crane's other manner, in which, on the whole, he is at his best, is not this excellent? Now Gates had a singular adventure on the second morning after his arrival at Atlanta to take his post as a major in the 307th. He was in his tent, writing, when suddenly the flap was flung away and a tall young private stepped inside. "Well, Maje," said the newcomer, genially, "how goes it?" The major's head flashed up, but he spoke without heat. "Come to attention and salute." "Huh!" said the private. "Come to attention and salute." The private looked at him in resentful amazement, and then inquired: "Ye ain't mad, are ye? Ain't nothin' to get huffy about, is there?" "I—. Come to attention and salute." "Well," drawled the private, as he stared, "seein' as ye are so darn perticular, I don't care if I do—if it'll make yer meals set on yer stomick any better." Drawing a long breath and grinning ironically, he lazily pulled his heels together and saluted with a flourish. "There," he said, with a return to his earlier genial manner. "How's that suit ye, Maje?" There was a silence which to an impartial observer would have seemed pregnant with dynamite and bloody death. Then the major cleared his throat and coldly said: "And now, what is your business?" "Who—me?" asked the private. "Oh, I just sorter dropped in." With a deeper meaning he added: "Sorter dropped in in a friendly way, thinkin' ye was mebbe a different kind of a feller from what ye be." The inference was clearly marked. It was now Gates's turn to stare, and stare he unfeignedly did. "Go back to your quarters," he said at length. The volunteer became very angry. "Oh, ye needn't be so up-in-th'-air, need ye? Don't know's I'm dead anxious to inflict my company on yer since I've had a good look at ye. There may be men in this here battalion what's had just as much edjewcation as you have, and I'm damned if they ain't got better manners. Good-mornin'," he said, with dignity; and, passing out of the tent, he flung the flap back in place with an air of slamming it as if it had been a door. "Mr. Crane wrote little that is, in its own way, better than that. The pity is that of all kinds of work which he did we shall see nothing new again."</field>
+   </doc>
+</add>

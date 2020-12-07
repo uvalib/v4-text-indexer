@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Colman, George, 1732-1794</field>
+      <field name="author_facet">Colman, George, 1732-1794</field>
+      <field name="author_sort_facet">colman george 1732 1794</field>
+      <field name="author_text">Colman, George, 1732-1794</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1770's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V2.0394.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1771</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460096</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Fairy Prince ; A Masque</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 18th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 18th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Fairy Prince ; A Masque</field>
+      <field name="title_facet">fairy prince</field>
+      <field name="title_sort_facet">fairy prince</field>
+      <field name="title_text">The Fairy Prince ; A Masque</field>
+      <field name="year_display">1771</field>
+      <field name="year_facet">1771</field>
+      <field name="year_multisort_i">1771</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460096&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460096&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Colman, George, 1732-1794&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;colman george 1732 1794&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Fairy Prince ; A Masque&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;fairy prince&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1771&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1771&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Colman, George&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1732&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1794&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Fairy Prince&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Masque&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for T. Becket [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1771&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872420-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv20394&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Fairy Prince&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Masque&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 34 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The fairy prince.</field>
+      <field name="desc_meta_file_display">Genre: Masque.</field>
+      <field name="desc_meta_file_display">Date first published: 1771.</field>
+      <field name="desc_meta_file_display">Date first performed: 12 Feb 1771.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE FAIRY PRINCE: A MASQUE.</field>
+      <field name="fulltext">ADVERTISEMENT. The greater part of this Masque is borrowed, with some variation, from Ben Jonson. The same liberty has been taken with a few passages of Shakespeare, and a Chorus of the late Gilbert West, Esq. The final Chorus is from Dryden. The Editor humbly submits the whole to the Publick; hoping that it will not appear unworthy of the occasion to which it is adapted; and that they will receive with their usual candour this effort to entertain them by the combined powers of the most eminent proficients in the Arts of Musick, Painting, and Poetry.</field>
+      <field name="fulltext">CHARACTERS. Silenus, Mr. Reinhold. First Satyr, Mr. Mattocks. Second Satyr and Echo, Mr. Du Bellamy. Third Satyr, Mr. Phillips. Fourth Satyr, Mr. Baker. Fifth Satyr, Mr. Fox. Sylvan, Mr. Owenson. Principal Fairies, Two Children, being their first Appearance on any Stage. Nymphs, Mrs. Baker AND A Gentlewoman.</field>
+      <field name="fulltext">Dance of Nymphs and Satyrs, by Messrs. Fishar, Aldridge, Mad. Manesiere, &amp;c. &amp;c. The Music composed by Dr. Arne. The Scenes painted by Messrs. Cipriani, Dall, and Richards.</field>
+      <field name="fulltext">PART I. A wild country; the whole Scene dark, 'till at one corner, the Moon rising, a Satyr is seen (by her light) to come forth and call. RECITATIVE. FIRST SATYR. Chromis, Mnasil! none appear? See you not who riseth here? You were carousing late, I fear: I'll prove if this can reach your ear. [He winds his Cornet, and thinks himself answer'd, but is deceiv'd by the Echo.] AIR. O, you wake, then: come away; Times be short, are made for play! The hum'rous Moon too will not stay. RECITATIVE. What doth make you thus delay? Hath the tankard touch'd your brain? Sure, they're fall'n asleep again! Or I doubt it was the vain Echo, did me entertain. Prove again. [Winds a second time] I thought 'twas she. AIR. Idle Nymph, I pray thee be Modest, and not follow me; I not love myself, nor thee. [Winds the third time, and is answer'd by another Satyr.] RECITATIVE. Ay, this sound I better know: Wou'd their faces they might shew! [At this, other Satyrs come forth severally, and amongst them a Silenus. SECOND SATYR. Thank us, and we shall do so. THIRD SATYR. Ay, our number soon will grow. SECOND SATYR. See Silenus! THIRD SATYR. Cercops too! FOURTH SATYR. Yes; what is there now to do? FIFTH SATYR. Are there any Nymphs to woo? FOURTH SATYR. If there be, let me have two. SILENUS. Chaster language! These are nights Solemn to the shining rites Of the Fairy Prince, and Knights; While the Moon their orgies lights. SECOND SATYR. Will they come abroad, anon? THIRD SATYR. Shall we see Young Oberon? FOURTH SATYR. Is he such a princely one As you spake him long agone? AIR AND CHORUS. SILENUS. Satyrs, he doth fill with grace Every season, every place; Beauty dwells but in his face: He's the height of all our race! Our Pan's father, God of tongue, Bacchus, though he still be young, Phœbus, when he crowned sung, Nor Mars, when first his armour rung, Might with him be nam'd that day: Lovelier than the Spring in May. CHORUS. O! that he would come away! RECITATIVE. THIRD SATYR. Farewel, Bacchus! we will serve Young Oberon. SILENUS. And he'll deserve, All you can, and more, my Boys. FOURTH SATYR. Will he give us pretty toys, To beguile the girls withal? THIRD SATYR. And to make 'em quickly fall! SILENUS. Peace, my Wantons! he will do More than you can aim unto. FIRST SATYR. Will he gild our cloven feet? THIRD SATYR. Strew our heads with powders sweet? FIRST SATYR. Bind our crooked legs in hoops, Made of shells, with silver loops? SECOND SATYR. Tie about our tawny wrists Bracelets of the Fairy twists? FOURTH SATYR. And, to spite the coy Nymphs scorns, Hang upon our stubbed horns Garlands, ribbands, and fine posies; THIRD SATYR. Fresh as when the Flower discloses? AIR AND CHORUS. SECOND SATYR. And to answer all things else, Trap our shaggy thighs with bells; FOURTH SATYR. That as we do strike a time, In our dance, shall make a chime, THIRD SATYR. Louder than the rattling pipes Of the Wood-Gods; FIRST SATYR. Or the stripes Of the timbrel; when we carry Bacchus up, his pomp to vary. CHORUS. O, that he so long doth tarry! RECITATIVE. SILENUS. Peace! the Rock will quickly ope: Soon you shall enjoy your hope. [Rock opens, and discovers the West Front of St. George's Chapel, at Windsor, with brilliant decorations; before the Gates two Sylvans, armed with their Clubs, and drest in leaves, asleep. At this the Satyrs wondering, Silenus proceeds. Mark, my Satyrs, what a show! Look! does not this Temple glow Like another sky of lights? Yonder sit the crested Knights, Once the noblest of the earth, Quicken'd by a second birth; Who, for Prowess, and for Truth, There are crown'd with lasting youth; And now hold, by Fate's command, Seats of Bliss in Fairy Land. But their Guards! strange watch they keep! Rouze 'em, Satyrs, from their sleep! THIRD SATYR. Holla, Sylvans! Sure they're caves Which Sleep inhabits— FIRST SATYR. Else they're graves. SECOND SATYR. Shall we cramp 'em? SILENUS. Satyrs, no. THIRD SATYR. Would we had Boreas here, to blow! FOURTH SATYR. Shall we steal away their beards— THIRD SATYR. For Pan's Goat, that leads the Herds? FIRST SATYR. Let's try, whether is more dead, One Sylvan's Club—or t'other's head. SECOND SATYR. Let us to some river take them; Plump—and see if that will wake them. FIRST SATYR. Let them down the Hill be roll'd! SILENUS. Wags, no more! you grow too bold. SECOND SATYR. There's no motion yet appears. SILENUS. Strike a charm into their ears. CATCH, BY THE SATYRS. Buz, quoth the blue flie, Hum, quoth the bee: Buz and hum they cry, And so do we. In his ear, in his nose, Thus do you see? He eat the Dormouse, Else it was he! [The two Sylvans start up amazed, and betake themselves to their Arms. RECITATIVE. SILENUS. How now, Sylvans! can you wake? I commend the care you take. FOURTH SATYR. Who is yonder up aloof? FIRST SATYR. Be your eyes as yet moon-proof? SYLVAN. Satyrs, leave your petulance, And go frisk about, and dance; Or else rail upon the Moon; Your expectance is too soon. For before the second cock, Know, the gates will not unlock. FIRST SATYR. Say you so? Then let us fall To a Song, or to a brawl! Shall we, Grandsire? Let us sport, And make expectation short. SILENUS. Do, my Wantons, what you please; I'll lie down, and take mine ease. [Exit. FIRST SATYR. Brothers, sing then, and upbraid (As we use) yond' seeming maid.— But hold! The Woodland Nymphs, my Boys, Appear, and promise greater joys! Enter WOOD-NYMPHS. FIRST NYMPH. Sylvans, Fauns, and Satyrs rude, Pan's Train, and all that multitude, Now dance in wilder rounds about, And cleave the air with many a shout! AIR. See, see, O see, who here is come a-maying; The master of the Ocean With his darling Orian: Why left we our playing? To gaze, to gaze, On them that all amaze, Whose like were never seen. Up, Nightingale, and sing Jug, jug, jug, jug, &amp;c. Raise, Lark, thy note and wing; All birds their Musick bring; Sweet Robin, Linnet, Thrush, Record from every bush The welcome of the King, The King and Queen! RECITATIVE. SECOND NYMPH. Now, now, prepare to set; And when your hands are met, Begin with nimble feet The happy ground to beat. [A Dance till they are interrupted by Silenus. SILENUS. Stay! the chearful Chanticleer Tells you that the time is near; See, the Gates already spread! Nymphs and Satyrs, bow the head! See St. George's Fane! where now Lives Knighthood with a crowned brow. Scene opens, and discovers a Vision of the inside of St. George's Chapel, at Windsor, with the original Knights in their several Stalls. CHORUS. Hail, fair Knighthood; let our Lays Vindicate thy antient Praise! Thou too, Windsor, shalt be sung; Mansion of Princes, haunt of Gods, Who shall quit their bright abodes, To view thy walls with trophies hung; Walls by Arthur first renown'd, Seat of Chivalry and Fame! By Edward with new Honours crown'd; His BIRTH, his GARTER, and his NAME. RECITATIVE. SECOND NYMPH. Let our shews be new as strange, Ever hastening to their change; Let them oft and sweetly vary, That beholders may not tarry! Long to wait the pleasing sight, Takes away from the delight. AIR. Let us play, and dance, and sing! Let us frolick, let us sport, Turning the delights of Spring To the graces of a Court. From air, from cloud, from dreams and toys, To sounds, to sense, to love, and joys! DUET AND CHORUS. Whilst all the air shall ring, And every trembling string, With every varied voice, In union sweet rejoice, To sound and sing, LONG LIVE THE KING! Curtain drops, and closes the First Part.</field>
+      <field name="fulltext">PART II. The Lower Court of Windsor Castle, with a View of the Round Tower, the outside of St. George's Chapel, &amp;c. A TROOP OF FAIRIES. RECITATIVE, ACCOMPANIED. FIRST FAIRY. Well were the solemn rites begun; And tho' but lighted by the Moon, They shew'd as rich as if the Sun Had made the Night his Noon. Wonder none they were so bright! The Moon then borrow'd from a greater light. Then, Princely Oberon, Go on! Such is not every Night. AIR. Tho' the Moon be gone to bed, Fairies must not hide the head; But sing, dance, and revel on, In honour of Young Oberon. RECITATIVE. SECOND FAIRY. And sweet Osnaphil his Brother, Arthur hails him such another; Edward too enjoins the rites, To rank him with the listed Knights: Worthy each alike to spring From the Fairy Queen and King. FIRST FAIRY. Now then, blythe Elves, in tunes express The Sovereign and his Emperess, While all confess the proper Heir Assign'd to Arthur's Crowns and Chair. DUET. [First Fairy., Second Fairy.] Seek you Majesty to strike? Bid the World produce their like. Seek you Glory to amaze? Here let Nations stand at gaze! Seek you Wisdom to inspire? Touch then at no other Fire! Seek you Piety to lead? In their footsteps only tread. Every grace of Queen and King, And of all, in them, we sing. RECITATIVE. FIRST FAIRY. Now, Faies and Elves, your tasks about; The Castle search within and out: SECOND FAIRY. Strew good luck on every room, Fix'd till the perpetual doom; FIRST FAIRY. The several chairs of Order scour, With juice of ev'ry precious flower; SECOND FAIRY. Each fair instalment-coat, and crest, With loyal blazon still be blest; AIR. And ever, ever, in a ring, Like to the Garter's circle, sing. RECITATIVE. “In em'rald tufts the motto write, “Of flow'rs purple, blue, and white; “Like saphire, pearl, embroidery, “Buckled below fair Knighthood's knee.” The lines within inverted commas are omitted in the representation. Away, disperse; the white plum'd Train Begin their march along the plain, In solemn Pomp from yonder Hall; Vanish, and attend my call! [Exeunt Fairies. Manent the Two principal Fairies. AIR. SECOND FAIRY. Melt earth to sea, sea flow to air, And air fly into fire, While we in songs to Arthur's chair Bear Oberon's desire! [Exeunt. THE PROCESSION TO St. George's Chapel, OF THE SOVEREIGN, KNIGHTS COMPANIONS, KNIGHTS ELECT, &amp;c. &amp;c. &amp;c. Which closes the Second Part.</field>
+      <field name="fulltext">PART III. Windsor Park, with a View of the Castle. RECITATIVE. Enter FAIRIES. FIRST FAIRY. Nor yet, my Faies, in this day blest, Must you think or hope to rest. SECOND FAIRY. Let the coarse and Country Fairy, That doth haunt the hearth or dairy; Let Ghosts, wand'ring here and there, Shun Aurora's harbinger; FIRST FAIRY. And banish'd from the chearful light, Hold company with black-brow'd Night! SECOND FAIRY. We're Spirits of another sort, And with the jolly, jolly day make sport. DUET. [First Fairy., Second Fairy.] Nay, nay, You must not stay, Nor be weary yet: This is no time to cast away; Or for Fairies to forget Their nimble, nimble, feet. Knotty joints, and limbs of clay Seek for ease, or love delay. Merrily, merrily, we should fare, Whose being's a shadow, whose bodies are air. A DANCE OF FAIRIES. After the Fairies are vanish'd, the Scene changes to the inside of St. George's Hall, with the Throne, Tables, &amp;c. as at the Installation. The Knights-Companions enter in Procession, and range themselves on the outside of their Table; they uncover and bow as the Sovereign passes. Ceremony of the Dinner, &amp;c. with proper Musick. The whole to conclude with this GRAND CHORUS. Renown, assume thy Trumpet, From Pole to Pole resounding Great GEORGE's name! Great GEORGE's name Shall be the Theme of Fame. Record the GARTER's Glory! A badge for Heroes, and for Kings to bear; For Kings to bear! And swell th' immortal story With Songs of Gods, and fit for Gods to hear; For Gods to hear! FINIS.</field>
+   </doc>
+</add>

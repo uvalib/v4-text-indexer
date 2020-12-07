@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Tennyson, Frederick, 1807-1898</field>
+      <field name="author_facet">Tennyson, Frederick, 1807-1898</field>
+      <field name="author_sort_facet">tennyson frederick 1807 1898</field>
+      <field name="author_text">Tennyson, Frederick, 1807-1898</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1890's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_3.1776.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">1895</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:467022</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Poems of the day and year</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">Poems of the day and year</field>
+      <field name="title_facet">poems of the day and year</field>
+      <field name="title_sort_facet">poems of the day and year</field>
+      <field name="title_text">Poems of the day and year</field>
+      <field name="year_display">1895</field>
+      <field name="year_facet">1895</field>
+      <field name="year_multisort_i">1895</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:467022&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:467022&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Tennyson, Frederick, 1807-1898&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;tennyson frederick 1807 1898&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Poems of the day and year&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;poems of the day and year&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1895&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1895&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Tennyson, Frederick&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1807&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1898&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Poems of the day and year&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Chicago&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;John Lane: The Bodley Head&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Stone and Kimball&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1895&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp3880&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;163 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Poems of the day and year&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 28 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Majority of verse reproduced elsewhere in The English Poetry Full-text Database; only unique items included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">TO THE REDBREAST Redbreast, that fliest from the starved wood, Thy homeless misery scorning to complain, That speaking eye is not to be withstood, Thy patience pleads not to my heart in vain; The wind is whirling and the snows descend; Friend, come to me and I will be thy friend. Lone bird, altho' thou hast no songs of joy To glad me when the nightingale's are dumb, No golden plumage to enchant mine eye, Thou comest to me when no others come: 'Tis Hope that makes thee at my casement stand, 'Tis Faith that bids thee fly into my hand. Thou lookest in my face with eyes of cheer That win me in affliction not to weep; A voice in thy mute sympathy I hear— ‘Hope is not dead, tho' Joy is fallen asleep’: Ah! would to Heaven that in my days of ill My winged heart, like thine, were fearless still! It saith, ‘Tho' friends forsake thee, there is one, Tho' penury cling unto thee, do not fear; Tho' days be darkling, they must be outrun, And thou and I shall see another year’: Thou hast my heart, kind bird; oh! give me thine, That I may neither sorrow nor repine! It saith, ‘When glories from the world depart, And youth is past, oh! linger not alone’: It saith, ‘When shadows thicken round thy heart Fly forth, and look on ills beyond thine own; And Age shall not behold his thin, grey hairs, And Sorrow shall forget his daily cares.’ It saith, ‘When days are burning to their end, And the mind flutters, and the limbs are chill, There is an inner thought that cannot bend Before the dread reality of ill’: Nature's great soul is shadowed forth in thee, Life under ashes of mortality! THE FOUNTAIN Fair fount, that singest in the air, And spinnest in the sun Raiment for River Gods to wear, From dawn till day be done; Oh! could I learn thy magic art, and share Thy sympathetic sense, that moulds thee forms So sweet in calm, so glorious in storms; Could beauty sway my speech, as thee the air! Fair fount, thy music swift and strange, Thy lightnings in mine eyes, Weave me with every sunny change Such pleasant phantasies, That I, methinks, could dream away my years Peacefully gazing, as thy silver dews Make harmonies of lovely sounds and hues, In answer to the soft wind as it veers. Image of joy and flowing song, And fancy without measure, Thy tongue is tuneful all day long, Thy heart leaps up with pleasure: Thine is the glorious youth where jocund mind Weaves tears with laughter, and regrets with hopes, Whose careless moments, like thy sunny drops, Are fancy-wooed, as they are by the wind. But when the months have chained thy heart, And sealed thy tongue with frost, An emblem of that day thou art When all we loved is lost: The heart of Age is but a frozen thing; The eyes of Age see but a wintry mist, By no sweet visions like thy sunbows kissed, Whence smiles have fled, and tears have ceased to spring. FOLLOW NOW I One morning of the breezy spring, With jocund hearts and free, We met old Time a-wandering By the shores of the Great Sea; The waters dashed before the wind, Onwards he still did fare: He seemed a beggar old and blind, With neither joy nor care. We knew not our Arch-enemy, For we were heedless boys; So we called to join our revelry The Lord of tears and sighs; ‘Father,’ our wanton voices sung, ‘With us thou shalt abide; Upon the shoulders of the young Full swiftly shalt thou ride.’ He sped not for our merriment, He sped not for our laughter; With frolic steps we forward went Old Time he laboured after; At last a voice like broken thunder Came rolling on the wind; Still we stood 'twixt fear and wonder— He spake—his words were kind. ‘Children, my pace is old and slow, My blood is thin and cold; Have pity on me—haste not so— Have mercy on the old; My songs and tales ye cannot hear If ye leave me here behind’— But we laughed and fled when he came near, And his voice went down the wind. ‘Know ye not I have magic charms Hid in my wallet here? Wizard spells to save from harms, And spoils of every year? Rare essences, green leaves of truth, Elixirs, gems, and gold? Odours and balmy drops for youth, And balsams for the old?’ The image of the rising sun Fled o'er the glittering sands, And running seemed to bid us run, And catch him in our hands; It seemed the very fire of joy, Wherewith our hearts ran o'er, Made visible unto the eye, And dancing on before. ‘Come, father, come and make us game,’ We shouted, nought afraid; And, thinking he was blind and lame, Snares in his path we laid; Onward he stept, and took no harm From any ills we planned, But he seized us with his mighty arm And flung us on the sand. A wild rose chain, in frolic freak, With linked woodbines tied, We wove, and cast it o'er his neck, The blind old man to guide; We pulled him on with all our might; The flower links snapt in twain; The roses scattered left and right, But we joined the links again. All day the giant made us merry; And at the set of day Still joyous all were we, nor weary For all our sunny play: Lightly we coursed, and from the brow Of a primrose-covered hill We shouted, ‘Father, follow now!’ But his steps were slower still. II Again we met, but it was noon— And now the unruffled sea Basked in the full midsummer sun, And proud as noon were we; The dewy ripples to the sand In pleasant murmurs rolled; One came, and took us by the hand, A traveller blithe and bold. He said, ‘When last ye walked with me, In the springtime long ago, As swift as antelopes were ye, While I was faint and slow; I have thrown by my crutched staff, And ye have gat ye strength, So I can run and leap and laugh, And race with ye at length. We cried, ‘Art thou that blind old man We met beside this sea, Who couldst not follow when we ran, Or make us walk with thee? Oh! thou art changed!’ ‘Not I,’ he said, ‘Who am for ever strong; Ye thought me old in infancy, In youth ye think me young.’ He seemed as one 'twixt youth and age; Cheeks dark with toil, but bright; His eyes, his brow, a mystic page, His limbs of knotty might: His locks were rich as autumn trees, But touched with frosts of ill; Lips smiling with accustomed ease, Or locked with iron will. ‘My life is not as yours,’ he said, ‘My growth is not the same— Ye see my wrinkled hoary head, Ye hear my hollow name; Ye think that I am ever old, An idle, useless hack; But thus it is—when ye go on, My children, I go back!’ And then he bade us race with him, As we had bade him once, When our young limbs were light and slim And his but weary bones: But he kept pace with us, and ran Along that well-known shore; ‘O friend,’ we cried, ‘O mighty man, We cannot mock thee more! ‘Forgive us; we outran thee then— But tell us, whence hast thou Gat thee this strength and speed, and when Those dark locks on thy brow?’ ‘When ye were babes ye thought me old: Farewell again,’ he said; ‘I shall return; farewell!’ behold He waved his hand and fled! III And now the summer afternoon Flamed in the golden west; The dying airs were soft and boon, Like sighings for their rest; Our feet were slow upon the shore Where we so oft had run; And now the day had little more Before the setting sun. And one came bounding from the hills, A bugle in his hand; Shouting he leapt the little rills, And stood upon the strand. He blew his horn, he called his hounds, Less wearied he than they; His dark curls hid his forehead round, But ours were fleckt with grey. ‘Hail, friends, young friends of mine, I ween! What have ye done this day? Among the mountains I have been, And marked the eaglets play; And yet I bid you to a race Again on these smooth shores And ye shall weary of my pace As once I did of yours!’ ‘Boast not!’ we said, for we were tried To anger by his taunt; ‘Thou hast not beaten yet,’ we cried; ‘Let who shall vanquish vaunt:’ And stretching on with struggling might We gained a step or two; But he came up as swift as light, And shouted ‘Follow now!’ IV The sun was sunk, the day was done: Th'horizon far away In mighty rivers seemed to run Heart's blood of dying day: A star or two shone over all— The full moon, like a wraith, Rose ghastly on the mountain wall; I felt its icy breath. I saw my image shadowed there Upon the moonlit sands, My sunken brows, my snowy hair, My lean and trembling hands: And then I thought upon that morn, Midday, and afternoon, Ere those dear friends were from me borne Whom I shall follow soon. I sighed, and near me stood a child, Like me, on that fair day When we with merriment beguiled The pilgrim old and grey: I looked—oh! was it magic art That showed me that young elf? The form alike in every part To that was once myself? The roses on the lip, the gold Upon the flowing hair, The supple limbs of gracious mould? All, all were living there: The silver tongue, the truthful face, The artless, early words Stirred me, like echoes in the bass Of a harp's treble chords. And with a quaint smile he began: ‘Old man, wilt run with me, As once ye bade that ancient man Ye met beside the sea?’ ‘And who art thou?’ I asked in fear, ‘Who seest thro' my heart? Thou wert not born when he was here; Oh! tell me who thou art?’ And still his words they were the same— ‘Old man, wilt run with me? Come, father, come and make me game, As once he did to thee! ‘My child,’ I said, ‘my pace is slow, My blood is thin and cold; Have pity on me, haste not so— Have mercy on the old!’ He laughed a moment; then he stood As one prepared for flight; His aspect took an awful mood, His frame a giant's might: He spread forth wings, I saw his eyes, Like starlight throb and glow— And, as he rose into the skies, He thundered ‘Follow now!’ THE COMING DAY On Sinai's steep I saw the morning cloud, Shattered with light, roll off on either hand, And on the topmost peak an Angel stand, That lifted up his arms, and cried aloud, And shook the sea and land. The Night is ended, and the Morning nears: Awake, look up! I hear the gathering sound Of coming cycles, like an ocean round; I see the glory of a thousand years Lightening from bound to bound. Woe, woe! the earth is faint; its heart is old, And none look upward. Where is one who saith, ‘Forgive my sins by reason of my faith?’ Where is one truthful bard, one prophet bold, One heart that listeneth? One holy soul that prayeth night and morn, One kindly hermit, or one lowly sage, One adamantine warrior, who can wage A steadfast war, without the arms of scorn, Against a scornful Age? Where is the promise of the world's great youth, The sunrise of the soul, when God's own eye Scattered the darkness of futurity, And kings bowed down, and caught the light of truth Directly from on High? The hour is come again; the world-wide voice Of God shall cry unto the ears of time: Scorners shall seek, and saints shall welcome Him, And know the ancient Presence, and rejoice, As in the days of prime. And they that dwell apart shall know each other; And they that hymn their solemn songs alone Shall hear far voices mingling with their own, And understand the utterance of a brother In every tongue and tone. And countless tongues upon a note of praise Shall hang, until, like thunder in the hills Redoubled and redoubled, it fulfils The earth, and heaven, and everlasting days, And drowns the noise of ills. That note shall soar from every living heart; That endless note shall never die away: God, only God, to-day as yesterday! Thou wert from everlasting, and thou art For ever and for aye! THE ELEVENTH OF SEPTEMBER Sister, the Daystar, that hath brought me hither, Once more thy birthday, shines on me and thee, And by its welcome light I seem to see The many years that we have sped together, Winter and summer, still the selfsame weather. Tho' mountains sunder, and the wild sea flings Its desert 'twixt our hearts—and on the wind Thy voice is still, so musical and kind; Tho' world-wide tumults drown, and Time's grey wings Shadow the past, thy spirit to me sings! Thou art mine own self with a softer frame, A clearer brow, and eyes more full of thought; Thou art myself into an angel wrought, Thy heart an altar, whence the purest flame, Of hope ascends, for ever and the same. Thou art my dearest and my first of kin: The thoughts of man are riddles, but my heart Tells me in all most truly what thou art: Thou hast a secret loadstar deep within, Whereto I thrill in spite of care and sin. When cruel passion tore me I could see Thy pleading eyes, and hear thy tuneful tongue; When crafty counsels flattered me to wrong, Justice and Truth with voices clear and low Spoke to me from the temple of thy brow. To thy pure, simple songs I loved to lend My ear; at thy soft pity's healing word My spirit sheathed at once its angry sword; And to thy blessed meekness I could bend A heart which many tyrants could not rend. The wise world looked, and, seeing dark and bright, Deemed that in spirit we remained apart: But we were but as adverse stars, that dart Their beams into each other, and unite Aspects of different omen in one light. Thy beauty is the shrine where Mercy dwells; Thy tongue Love's tender oracle below, Whence his immortal inspirations flow; Thine eyes the lightnings, whose soft glory quells Pride that disdains, and Anger that rebels. As the sun-colour and the crystalline Mingle together in the summer green— Nature that shall be and hath ever been, My heart's quick motions, and the peace of thine Make one pure love eternal and divine!</field>
+   </doc>
+</add>

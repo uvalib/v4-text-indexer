@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Rands, William Brighty, 1823-1882</field>
+      <field name="author_facet">Rands, William Brighty, 1823-1882</field>
+      <field name="author_sort_facet">rands william brighty 1823 1882</field>
+      <field name="author_text">Rands, William Brighty, 1823-1882</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1870's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V3.0644.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1871</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460973</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The White Princess</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The White Princess</field>
+      <field name="title_facet">white princess</field>
+      <field name="title_sort_facet">white princess</field>
+      <field name="title_text">The White Princess</field>
+      <field name="year_display">1871</field>
+      <field name="year_facet">1871</field>
+      <field name="year_multisort_i">1871</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460973&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460973&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Rands, William Brighty, 1823-1882&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;rands william brighty 1823 1882&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The White Princess&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;white princess&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1871&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1871&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Rands, William Brighty&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1823&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1882&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The White Princess&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;George Routledge&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1871&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873316-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv30644&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The White Princess&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 22 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted&lt;lb/&gt;The following plays have been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The white princess.</field>
+      <field name="desc_meta_file_display">Genre: Extravaganza.</field>
+      <field name="desc_meta_file_display">Date first published: 1871.</field>
+      <field name="desc_meta_file_display">Date first performed: Unknown.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE WHITE PRINCESS.</field>
+      <field name="fulltext">CHARACTERS. Jack. Tom. The Giant Grindbones. The Great Black Cat. The White Princess.</field>
+      <field name="fulltext">I. [Two rooms separated by a compartment, with some kind of practicable door; Jack in one, Tom in the other. Each of them listening for any sound in the next room, and with a big book open on his knee. Music, “Partant pour la Syrie,” or any tune that suggests adventure. Any hints of this kind are mere hints. These trifles are meant for very young children; are much more play than plays; and all is supposed to be as easy and simple as possible: fighting, however, ought to be well done, and so ought the Black Cat, or anything of that kind; nor is it difficult. Jack. This is a magic book, that tells you where To seek the White Princess, with the shining hair, Who gives to such as find her in her place A silver lily for a spell of grace. Come, let us read. Hark! there is no one near: Poor Tom! we must not let him overhear: I must be secret till the deed is done— “To find the White Princess:” page ninety-one: “To the left, and to the right, Where the ruinous castle white, All in ivy for a hood, Nestles glooming nigh the wood; Turn aslant, and then go straight, Till you reach the twofold gate: When before the gate you stand—” [Reads the rest to himself in a murmur. While he is doing so, Tom in the other room begins to speak. Tom. This is a magic book, that tells you how To seek the White Princess, with the shining brow, Who gives to him that finds her on her throne The reddest rose within her garden grown; Which is a strong, sweet spell. Come, let us see: When I have won, how startled Jack will be To learn that on this quest I was a rover! “To find the White Princess”—ah, ah! “Turn over:” “To the right, and to the left, Where the roads cross, warp and weft, Where the grey-green willow cool Trails into the meadow-pool, By the narrow path go on Till the twofold gate is won; When before the gate you stand—” [Reads the rest to himself in a murmur. At the same moment, Tom taps at the door on one side, and Jack on the other. Tom opens it. Each stands at guard, hiding the big book behind him. Jack. How curious that we both of us should knock! Tom. Very. How are you? Jack. Very. What's o'clock? Tom. You have been listening! [Gaily; making a thrust at Jack's ribs. Jack drops the book. Jack (at the same moment). You have overheard! [Making a lunge at Tom, who drops his book. Each tries to clutch the other's volume. Tom, Jack (in a breath). Let me read that! Tom, Jack (in a breath). No; not a single word! [They fight with the books. The Cat (in the distance). Miaew! Miaew! Miaew! Jack (timidly). Tom, what was that? Tom (timidly). I think—I feel it must have been the cat. Jack. Ay, but what cat? That was no common sound; I thought the noise was somewhere underground! Tom. What nonsense, John! Come, let me see the book. Jack. No, never, Thomas, shall you on it look! [They fight again. A loud, long caterwaul in the distance. Exeunt both in a fright, dropping the books on the floor. March music at pleasure.</field>
+      <field name="fulltext">II. [A tall screen, for which a clothes-horse will do. Behind it a high curtained table. On the table sits the Great Black Cat on her haunches, ready to gesticulate with her fore-paws. Enter Tom and Jack, each with a drawn sword; at first not seeing each other. Discords at pleasure, on the piano, violin, or toothcomb and flute; or all of them. Tom (stealthily). So, thus far all is well. The magic screen. Now for the spell-song. Lucky have I been! Come, let me try and call the words to mind. [Pauses reflectively. Jack (softly). This is the place. The book was right, I find. Now for the invocation. The Princess Must listen and appear; she can no less. [Here Tom and Jack, neither seeing the other, begin to sing loudly at the same moment; one to the tune of “In my cottage near a wood,” the other, “Ah, vous dirai-je, maman?” or any two discordant tunes that will suit. INVOCATION. Tom. White Princess, with the red, red rose, Which within your garden grows— Jack (at the same moment). White Princess, with the lily of light, Growing in your garden bright— [They cease singing, and recognise each other. Jack. What, Tom! in search, too, of the White Ladie! Tom. What, Jack! and bound on the same quest with me! Jack. I started first. Tom. No, I did. Jack. So did I. Tom. I began singing first, then. Jack. So did I. Tom. Then you shall die first. Jack. So shall you. Come, try! [They fight, and in the struggle knock down the screen. The Great Black Cat is discovered gesticulating. Cat. I am the Cat of cats. I am The Everlasting Cat. Miaew! Jack., Tom. Miaew? (interrogatively.) Cat. Cunning, and old, and sleek as jam, The Everlasting Cat. Miaew! Jack., Tom. Miaew? (interrogatively and impatiently.) Cat. I hunt the vermin in the night— The Everlasting Cat. Miaew! Jack., Tom. Miaew? (more impatiently still.) Cat. For I see best without the light— The Everlasting Cat. Miaew! Jack., Tom. Miaew? (stamping and threatening with their swords.) Cat. You did not come for me, I know— The Everlasting Cat. Miaew! Tom., Jack. Miaew! (making a rush at her.) Cat. But you will rue before you go— Jack., Tom. You Everlasting Cat! All three. Miaew! Enter the Giant Grindbones, with a sword in each hand. Giant (fiercely). Ha, ha, my friends, I know your errand here! Dozens like you I slaughter every year; Look there—and there—you see their piled-up bones, Ribs, shanks, and arms, and skulls, as white as stones. It was the White Princess, I know, you sought, And then, like others, you set to and fought; And so you have seen instead, my ancient friend— Cat. Miaew! Giant (flourishing both swords wildly). The Cat of Cats, the Cat Without an End! Now, I shall kill and eat you both. Tom. But, sir, Did no one ever fight you? Giant. Lucifer! No one, as yet. The good folk fight each other. Cat. Miaew! (Spits quarrelsomely.) Jack (to Tom). Suppose we fight him, Tom? Tom. Amen, my brother! [Grand triangular-quadrangular combat, the Giant fighting with both hands. Jack falls, and Tom helps him up. Then vice versâ. March music. Of course the Giant falls. The Cat slinks off, with a low, mournful whine. Tom (putting up his sword). There, that is over. Now, shall we go home? Without the blood-red rose that made us come? Jack. You mean a silver lily, not a rose— The flower that in the fairy garden blows. Tom. I say a rose, and mean it. Jack. And I say A lily, and mean it. Tom. A rose! Jack. A Lily! [They are on the point of drawing swords again, when enter from between the divisible curtain of the table, the White Princess, with a Rose in her hair on one side, and a Lily on the other. Princess. Stay! You (to Tom) want the red, but you must take the white; You cannot always choose your own delight, When you are greedy, and fall out, and fight. [Tom sinks on one knee and receives the Lily. You (to Jack) want the white, but you must take the other, And miss your choice, because you fought your brother. [Jack receives, kneeling, the Rose. You fought that Giant, and you made him fall, Or else you would have had no flower at all; Yet, if you take your lot with a good grace— Tom., Jack. We will! Princess. You do! I see it in your face— Your fortune may not yet be at an end, And I am half inclined to be your friend. Tom (watching his lily). I think my lily is reddening to a rose. Jack (watching his rose). I think my red bud to a white cup grows! Cat (in the distance). Miaew! Tom. The Cat again! Jack. The Everlasting Cat! Princess. Oh, let her mock! Why should you care for that? [Making magical passes with her hands. Take the red Rose, willy-nilly You who sought her sister fair; Take the silver-shining Lily, You who sought the rose to wear. Do not fear your choice to miss, For you yet may find your bliss; White be red, and red be white, Lily and Rose for heart's delight! [Soft music, at pleasure.</field>
+   </doc>
+</add>

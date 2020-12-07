@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Oxford University Press</field>
+      <field name="author_facet">Oxford University Press</field>
+      <field name="author_sort_facet">oxford university press</field>
+      <field name="author_text">Oxford University Press</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1970's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.0921.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1974</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459551</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Offerings of the Three Kings ; - The Mercers</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 20th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 20th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Offerings of the Three Kings ; - The Mercers</field>
+      <field name="title_facet">offerings of the three kings</field>
+      <field name="title_sort_facet">offerings of the three kings</field>
+      <field name="title_text">The Offerings of the Three Kings ; - The Mercers</field>
+      <field name="year_display">1974</field>
+      <field name="year_facet">1974</field>
+      <field name="year_multisort_i">1974</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459551&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459551&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Offerings of the Three Kings ; - The Mercers&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;offerings of the three kings&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1974&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1974&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Offerings of the Three Kings&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;- The Mercers&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York, Toronto&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Oxford University Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1974&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873630-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv10921&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Offerings of the Three Kings&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;- The Mercers&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 21 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries, introductory and editorial matter omitted&lt;lb/&gt;The following plays have been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Copyright (c) 1974 Early English Text Society. This text may not be reproduced, except for fair dealing purposes, without the express permission of Chadwyck-Healey and the copyright holder.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The offerings of the three kings.</field>
+      <field name="desc_meta_file_display">Genre: English mystery and miracle plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1475 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1377–1382 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Square brackets represent sections of text which have been deleted or added at different stages in the evolution of the manuscript.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE MERRCERS PLAYE Pagina Nona: De Oblatione Trium Regum</field>
+      <field name="fulltext">PRIMUS REX Myghtie God and moste of mayne, to honour thee wee may bee fayne: the starre I see yt common agayne that was owt of our sight. SECUNDUS REX Thy lordshippe to us thou ney layne, that for mankynde would suffer payne. Thou send us grace, if thou be gayne, to come to thee tonight. TERTIUS REX A, lord, honored be thou aye, for nowe we shall knowe well the waye. I will followe yt in good faye, my forward to fullfill. [PRIMUS REX] I hope withowt dreade todaye to see that childe and his araye. But methinkes, lordes, by my faye, the starre yt standeth still. SECUNDUS REX That is a signe wee be neare, but high hall see I non here. To a child of such powere this howsinge standeth lowe. TERTIUS REX Nowe wott I well, withouten were, without pryde hee will apere to make men meeke, in such manere an example us to shewe. PRIMUS REX The starre yonder over the stable is. I wotte wee be not gonne amys, for yt hath sterred ever or this and nowe there yt is glent. SECUNDUS REX I wotte hee wonnes here, iwysse, and this simple house is his. Ordeyne we nowe that kinge of blys appertly our present. TERTIUS REX What present best will for him fall cast we here amongest us all; for though hee lye in an oxe stall, his might is never the lesse. PRIMUS REX ‘Kinge of Jewes’ wee shall him call; therfore of mee have hee shall— that am his subjecte and his thrall— gould, or I passe. For in our land is the manere to approache noe kinge neare but dayntye giftes rich and deare after his dignitie. And for a kinge gould cleane and cleare is moste commendable. Therfore nowe here hee shall have that of mee. Alsoe yt seemes by this place that little treasure his mother hasse. Therfore to helpe hir in this case gould shall be my present. SECUNDUS REX And I will offer through Godes grace incense that noble savoure hasse. Stynke of the stable yt shall wast, theras they be lent. TERTIUS REX And myrre is best my offeringe to bee: to anoynte him, as thinkes mee, the childes members—head and knee, and other lymmes all. Thus shall we honour him all three with thinges that falles to his degree, towchinge manhoode and deitie. These giftes will well befall. PRIMUS REX You saye well, lordes, witterlye. As towchinge gould, prove maye I, yt should be given him dewlye because of temporalitye. Syth hee shall be kinge most mightye, trybute hee must have trulye; and gould therfore witterlye is beste, as thinkes me. SECUNDUS REX And syth hee hath in him godhead, methinkes best—as eate I bread— incense to give him through my reade in name of sacrifice, for that may noe waye be lead. Syth hee of Holy Church is head, more dewe giftes, yf I should be dead, I cannot devise. TERTIUS REX You saye full well, syrs, both two. And myrre is good, methinkes alsoe. Syth hee for man will suffer woo and dye on roode—tree, myrre—that puttes sinne him fro and saves man from rowtinge woo; for yt is best to balme him thoo, that shall hee have of mee. PRIMUS REX By these giftes three of good araye three thinges understand I maye: a kinges powere, sooth to saye, by gould here in my hand; and for his godhead lastlye aye incense wee must give him todaye; and bodely death alsoe in good faye by myrre I understande. SECUNDUS REX Gould love alsoe may signifye, for yt men given not commonlye but these they loven hartfullye— this chyld as wee donne all; and incense tokeneth, leeve I, orysons and prayers done devoutlye; myrre death that man hath bodelye. And all these him shall fall. TERTIUS REX By gould that wee to bringe are bowne, that rychest mettall of renowne, skyllfullye understand wee mon most pretiouse godhead; and incense may well be sayd a roote of great devotyon; by myrre, that waves corruptyon, cleane flesh both quicke and dead. And sycerlye this knowen wee: hee wantes non of these three; for full godhead in him hasse hee, as gould maye signifie. And sowle devout in him must bee to come owt of the Trynitie; and cleane flesh we hopen to see in him full hastelye. PRIMUS REX Nowe we have proved yt here these giftes to him bee most deare, goe wee forth in good manere and make we our present. SECUNDUS REX The starre yt shines fayre and cleare over this stable aye entyre. Here is his wonninge withowten were, and herein is hee lent. TERTIUS REX A fayre mayden yonder I see, an ould man sittinge at hir knee, a child alsoe; as thinkes mee, three persons therin are. PRIMUS REX I saye in certayne this is hee that we have sought in farre countree. Therfore now with all honestye honour I will that baron. Tunc appariet sciatuum cum auro. PRIMUS REX Hayle be thou, lord, Christe and messie, that from God art common kindly, mankynd of bale for to forbye and into blys bringe. We knowe well by prophecye— of Moyses, Davyd, and Esaye, and Balaam of our auncetrye— of Jewes thou shalt bee kinge. Therfore, as falleth for thy crowne, gould I have here readye bowne to honour thee with greate renowne after thy royaltye. Take here, lord, my intentyon that I doe with devotyon, and give mee here thy benesoun ere that I goe from thee. SECUNDUS REX Hayle be Christe Emanuell! Thou common art for mans heale and for to wynne agayne that wayle that Adam put awaye. Prophets of thee every one saye, both Esaye and Ezechiell; and Abraham might not conceale the sooth of thee to saye. Bushoppe I wotte thou must bee; therfore now, as thinkes mee, incense will fall best for thee; and that nowe here I bringe in tokninge of thy dignitie and that office of spiritualtye. Receave here, lord, at mee devoutly my offeringe. TERTIUS REX Hayle, conquerour of all mankynd! To doe mercye thou hasse mynde, the devills band to unbynd and releive all thyne. A full fayre waye thou can fynd to haunce us and put him behind, though thy Passyon to unbynd thy people that be in pyne; for thou shalt mend us throgh thy might, dye and ryse the thyrd night, to recover agayne our right and breake the devills bande. Myrre to thee here have I dight to balme thy bodye fayre and bright. Receive my present, sweete wight, and blesse mee with thy hand. MARIA You royall kinges in rych araye, the high Father of heavon I praye to yeeld you your good deede todaye, for his micle might; and give you will now and alwaye to yerne the liefe that lasteth aye, and never to fall out of the faye that in your hartes is pight. And leeves, lordes, withouten were, that to my sonne you shall be deare, that him todaye hath honored here and me alsoe for his sake. When tyme is come entyre to prove his strenght and his powere, to him you shall bee leeffe and deare— that darre I undertake. JOSEPHE You kynges all comely of kynd, full faythfully you shall yt fynd— this menskie that God will have in mynd and quyte you well your meede. And leeves well: of noe mans strynde ys hee, not gotten by leefe of kynde; that soe beleevon are full blynde, for I knowe yt in deede. This mayden was betaken mee when I had lost my jollitie, and fayled might and postie sinne for to assaye. But for God would in chastitie that we should together bee, keeper of her virginitie I have binne manye a daye. Therfore I wott, forsooth iwys, cleane mayden that shee ys and with man did never amysse; and therof be you bould. But of the Holye Ghost this ys for to bringe mankynde to blys. And this child is verey his; soe Gabriell me tould. ANGELUS I warne you comely kynges three, my lord would you not spilled bee. Therfore hee sendes you word by mee to torne another waye. Herodes felowshippe you shall flee; for you, harme ordayne hasse hee. Therfore goes not through his countree, ne the gate you come todaye. PRIMUS REX A, high lord that wee honour here, that warnes us in thys manere— elles had we wend without were to him that would us spill. SECUNDUS REX Yea, lord, as thou can us lere, we will doe to our powere. TERTIUS REX Goe we hethen all in fere, and his byddinge fullfill. PRIMUS REX Farewell, syr Jasper, brother, to you, kinge of Tharsis most worthye. Farewell, syr Balthasar; to you I bowe. I thanke you of your companye. Hee that made us to meete on playne and offered to Marye in her jesayne, send us saffe and sound agayne to the land we came froo. SECUNDUS REX You kinges, I saye you verament: syth God of his grace you hyther sent, wee will doe his commandement whatsoever may befall. Therfore stand we not in doubt for to walke our land about, and of his byrth that wee maye moote both to great and smale. TERTIUS REX Farewell, syr kynges, both in fere; I thanke you both of your good chere. But yett my witt in a were lest Herode make us some trayne. Hee that shoope both sea and sand, send us saffe into our land. Kynges to, give me your hand; farewell and have good daye! Finis</field>
+   </doc>
+</add>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Pack, Richardson, 1682-1728</field>
+      <field name="author_facet">Pack, Richardson, 1682-1728</field>
+      <field name="author_sort_facet">pack richardson 1682 1728</field>
+      <field name="author_text">Pack, Richardson, 1682-1728</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1720's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.0758.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1720</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:465120</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">Religion and Philosophy ; A Tale. With Five other Pieces. By Major Pack</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 18th century</field>
+      <field name="subject_text">English poetry -- 18th century</field>
+      <field name="title_display">Religion and Philosophy ; A Tale. With Five other Pieces. By Major Pack</field>
+      <field name="title_facet">religion and philosophy</field>
+      <field name="title_sort_facet">religion and philosophy</field>
+      <field name="title_text">Religion and Philosophy ; A Tale. With Five other Pieces. By Major Pack</field>
+      <field name="year_display">1720</field>
+      <field name="year_facet">1720</field>
+      <field name="year_multisort_i">1720</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:465120&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:465120&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Pack, Richardson, 1682-1728&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;pack richardson 1682 1728&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Religion and Philosophy ; A Tale. With Five other Pieces. By Major Pack&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;religion and philosophy&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1720&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1720&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Pack, Richardson&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1682&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1728&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Religion and Philosophy&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Tale. With Five other Pieces. By Major Pack&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for E. Curll [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1720&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp2929&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;iii, 19, [16] p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Religion and Philosophy&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Tale. With Five other Pieces. By Major Pack&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 21 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">RELIGION AND PHILOSOPHY. A Tale. Iris, a tender soft believing Maid, By too much Easiness to Vice betray'd, Lamenting now the fleeting Pleasure lost, Her Beauty faded, and her Wishes crost; With Shame reflects on all her Wand'rings past, And fain would fix in Virtue's Seat at last: Abjures the World; and, in her sable Veil, Learns to look solemn, and devoutly rail: But, finding still strong Conflicts in her Heart, From Nature struggling with the Pow'r of Art, Lives an odd Mixture of Coquet and Prude, Awkardly Pious, and Demurely Lewd. HER perjur'd Rover, whom Ambition fir'd, (Glory the Swain, and Love the Nymph inspir'd) The Gay Philautus, had forsook the Plain, Seduc'd by Hopes of Honour and of Gain; Proud to be thought a Wretched Tool of State, Indulg'd his Vanity, and urg'd his Fate; Till seeing Chance, not Worth, decide the Prize, Just Patriots fall, and artful Villains rise, He flies the Court, and all its gilded Snares; And seeks some humble Spot, remote from Cares: Yet, whilst he meditates this wise Retreat, Envies, I know not how, those Fools The Great; And, under all his self-denying Grace, Still feels a secret Passion for a Place. Dull are our Maxims! False our grave Pretence! Reason, at last, will prove the Dupe of Sense. Our Age is influenc'd as our Youth inclin'd, And the same Byass always rules the Mind. To His GRACE the Duke of GREENWICH, UPON Reading the following Lines in his PATENT. Cum Viri illius, cui novos hisce Literis Patentibus Titulos decernimus, &amp; egregia in Nos Patriamque suam merita, &amp; illustre Genus, &amp; Majorum res gestæ, Historiarum monumentis celebratæ, satis inclaruerint, (quibus rationibus adducti sumus eum summo inter Proceres honore dignari) nil opus est pluribus recensere: ergo, &amp;c. Mindless of Fate in these low vile Abodes, Madmen have oft usurp'd the Style of Gods. But, that the Mortal might be thought Divine, The Herald strait new-modell'd all the Line; Or venal Priest, with well-dissembled Lye, Præambled to the Croud the Mimick Deity. Not so Great Saturn's Son, Imperial Jove, He reigns unquestion'd in the Realms above. No Title from Descent He need infer; His Red Right-Arm proclaims the Thunderer. Such justly be thy Pride, Illustrious Peer! Alike, You shine unrival'd in your Sphere: All Merit but your own You may disdain; And Kings have been Your Ancestors in vain. SONG: Set to MUSICK By Mr. Rosengraefe. I Tell me, tender Youths, who languish For some Fair Disdainful She, If you feel the cruel Anguish, That afflicts and tortures Me. II Are your Sighs in Tempests rising? Do your Tears in Torrents flow? Doth the Nymph, your Grief despising, Falsely smile, to mock your Woe? III Lo on raging Billows tossing, Just in Prospect of the Coast, Hidden Rocks my Passage crossing, Me poor shipwreck'd Lover lost! FRAGMENT OF A LETTER. When Glory doth the Hero's Bosom fire, How sweet is Hope! how gay is young Desire! Of all those Instincts which to Man are given, Ambition seems the loudest Call of Heaven. Indulge then, Friend, thy noble Thirst of Fame, Nor let vain Fears thy gen'rous Ardour tame. Who would live always dully on the Shore, That might the Wonders of the Deep explore? Down the strong Current let us swiftly glide; Spread all our Sails, and aid the swelling Tide! If Rocks appear, or sudden Tempests rise, With Pilot Reason gravely we'll advise; By her Directions steer the doubtful Course; Here use our Skill, or there employ our Force. Yet ne'er Despair, though every Planet lour, But trust to Fortune for some smiling Hour. Each bold Advent'rer will a Season find When that Coy Mistress of the World is Kind. The faint Addresses of the Bashful fail, But the Home-pusher always will prevail. Thus, oft repuls'd, a Youth who long had born With humble Awe his haughty Fair-One's Scorn, At length with Lust and Indignation fir'd, Resolv'd to gain by Force what He desir'd; And rushing on with Fury to her Arms, In wild Disorder rifled all her Charms. The Nymph was pleas'd; the Lover was restor'd; And from her Slave in time became her Lord. EPILOGUE TO Mr. Southern's Spartan Dame: Spoken by Mr. Wilks. Our Author's Muse a numerous Issue boasts; And many of the Daughters have been Toasts. She who now last appears upon the Stage, (The Hopes and Joy of his declining Age) With modest Fears, a cens'ring World to shun, Retir'd a while, and liv'd conceal'd a Nun: At length, releas'd from that Restraint, the Dame Trusts to the Town her Fortune and her Fame. Absence and Time have lost her many Friends, But this bright Circle makes her large Amends. To You, Fair Judges, She submits her Cause; Nor doubts, if You approve, the Mens Applause. Some sullen formal Rogue perhaps may lour, (Rebel to Female, as to Royal Power) But all the Gay, the Gallant, and the Great, On Beauty's Standard with Ambition wait. Glory is vain, where Love has had no part: The Post of Honour is a Woman's Heart. Ev'n Chains are Ornaments, that You bestow; The more your Slaves, the Prouder still we grow. Man, a rough Creature, savage-form'd and rude, By You to gentler Manners is subdu'd: In the sweet Habitude we grow refin'd, And polish Strength with Elegance of Mind. Our Sex may represent the bolder Powers; The Graces, Muses, and the Virtues, Yours. BUT ah! 'tis pity, that for want of Care, Madmen and Fops your Bounty sometimes share; Wretches in Wit's despight and Nature's born, Beneath your Favour, nay, below your Scorn. May poor Celona's Wrongs a Warning prove, And teach the Fair with Dignity to Love. Let Wealth ne'er tempt you to abandon Sense; Nor Knaves seduce you with their grave Pretence. Be vile Profaneness ever in disgrace; And Vice abhor'd, as Treacherous and Base. Revere Yourselves; and, conscious of your Charms, Receive no Dæmon to an Angel's Arms. Success can then alone your Vows attend, When Worth's the Motive, Constancy the End. AN EXPOSTULATION WITH AN ACQUAINTANCE, Who was going to Marry an Old Rich PARSON. And hath my Lovely Perjur'd Cloe swore, That I must never, never meet her more? Is there no kind Propension in your Heart, That stirs to take your injur'd Strephon's part? Yes, yes, Methinks, thro' all This forc'd Disguise I see your Soul debating in your Eyes. Prudence in vain would Inclination hide: When Love lies Panting underneath your Pride. Wedlock, you say, will all This Conflict end— And, for a Husband could You quit a Friend? Cold are the Comforts of That Marriage-Bed Where Interest only Tempts the Bride to Wed. Canst Thou, now Youth doth every Sense invite To Flow'ry Paths of daily-new Delight, Renounce at once the Court, the Park, and Play; The Pleasures of the Night, and Scandal of the Day? With tedious Sermons have thy Patience vext, While your Head rambles on another Text? Or, when soft Harmony might Charm thy Ear, Sternhold's vile Psalms in viler Consorts hear? Live thus Unknown to Most, Despis'd by Some, Abroad Unpity'd, and Distress'd at Home? No, no, You'd soon Lament your alter'd State, Wish a fresh Change, but Wish perhaps too late. Think then Betimes, e'er yet You are Undone; Nor put these Matrimonial Fetters on. But if, howe'er, Your Parents have Decreed, To join You with this Rev'rend Invalid, Nature may still Co-operate with Grace, And some sound Curate fill the Rector's Place. FINIS.</field>
+   </doc>
+</add>

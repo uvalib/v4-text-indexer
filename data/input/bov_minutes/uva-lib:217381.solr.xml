@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1810's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2006_04/uvaGenText/tei/bov_18190329.xml</field>
+      <field name="date_indexed_facet">201909240343</field>
+      <field name="date_text">March 29, 1819</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:217381</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. March 29, 1819</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  March 29, 1819</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  March 29, 1819</field>
+      <field name="year_display">March 29, 1819</field>
+      <field name="year_facet">1819-03-29</field>
+      <field name="year_multisort_i">1819</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:217381&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:217381&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. March 29, 1819&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;March 29, 1819&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1819-03-29&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;March 29, 1819&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Public minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;6 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information. Access to minutes containing salary information will be granted only under the procedures of the Virginia Freedom of Information Act (Code of Virginia-2.1-340 ff.) or if permission is granted by the Secretary of the Board. Researchers interested in obtaining access to these records should direct a request in writing to the Office of the Legal Adviser, Madison Hall, University of Virginia. These public minutes have had salary information deleted and bear no restrictions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1819-03-29&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 15 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">At a meeting of the Visitors of the University of Virginia at the said University on Monday the 29th. day of March 1819. being the day prescribed by the Governor for their first meeting, James Madison, Joseph C. Cabell, Chapman Johnson, James Breckenridge, Robert Taylor, John H. Cocke and Thomas Jefferson attended. The board proceeding to the duties prescribed to them by the act of the General assembly, intituled `an Act establishing an University' appointed Thomas Jefferson their Rector, &amp; Peter Minor their Secretary. Resolved that Alexander Garrett be appointed Bursar of the University and that he be allowed as a compensation for the duties of his sd office the sum of two hundred &amp; fifty Dollars a year: and that the Committee of Superintendance hereafter to be named, be authorised to engage Arthur Brockenbrough as Proctor of the University, with an allowance not exceeding 2000.D. a year, or if he cannot be engaged, then any other person on such terms as they find necessary. Resolved that the acting Proctor be instructed to examine into the state of the property real and personal (monies and credits excepted) formerly appertaining to the Central College, &amp; conveyed to the President &amp; Directors of the Literary fund, that he make an inventory of the same, as it stands at this day, specifying the items whereof it consists, &amp; noticing the buildings &amp; other improvements already made, and those which are in progress. and that the late treasurer of the college, now the Bursar, be instructed to make a statement of the funds in money and credits which appertained to the sd College, &amp; were conveyed to the sd President &amp; Directors; specifying how much of the sd monies have been received, how much have been paid away, to whom, &amp; for what purposes; what debts, to whom, &amp; for what purposes, are due on settled accounts; to whom &amp; for what purposes debts are due on unsettled accounts; what part of the annual donation by the commonwealth has been received, and how much thereof has been paid away, to whom, and for what purposes; all referring to the present date; and that the sd inventory &amp; statement be returned to this board to be preserved among it's records. Resolved that the Proctor be required to provide a common seal for the University, in the field of which shall be engraved a Minerva enrobed in her Peplum and characteristic habiliments. as inventress and protectress of the arts, and that the Exergue be `University of Virginia' &amp; at bottom the date of `1819' It is the opinion of the board that each of the Professors of the University be allowed a standing salary of 1500.D. a year, &amp; to recieve also 30.D. annually from every student attending him for instruction in any or all the branches of science which constitute the department of which he is Professor; and that he be allowed for his accomodation the use of one of the pavilions built, or to be built, clear of rent: it being understood that a Professor of one department, holding temporarily another, may recieve tuition fees from students attending him in each department, but only one salary, unless it be otherwise specially provided. That the Dormitories be rented to the students at a rent of 20.D. a year, for each dormitory, to be paid by the occupant or occupants; not more than two being permitted to lodge in the same Dormitory. Resolved that a committee of advice, superintendance &amp; controul be appointed to direct the proceedings of the several agents of the board during the intervals of it's sessions, and to call a special meeting of the board whenever in their opinion, the good of the institution indispensably requires it. That notice of such call be addressed by the committee themselves, or by the Secretary, on their order, to each member of the board, and be forwarded to their respective residences by mail, and be also published in the Richmond Enquirer, at least fifteen days before the time appointed for such meeting. The board hereby authorise their Bursar, with the advice of a member of the committee of superintendance, to draw on the President &amp; Directors of the Literary fund, for the whole, or any part, of the public donation charged on that fund, either for immediate payment to those to whom monies may be due, or to deposit the same in the bank of Virginia, &amp; hence, with the same advice, countersigned by a member of the Commee to draw it occasionally as may be requisite Resolved that the board concurs in the opinion of the Visitors of the Central College expressed in their resolution of Feb. 26, that it is expedient that the funds of the University be diverted as little as possible to the general engagement of the Professors required for the institution, until provision be made of buildings for their accomodation, &amp; for dieting &amp; lodging the students; and that the measures adopted by them for the buildings of the present year be approved &amp; pursued. That Dr. Thomas Cooper of Philadelphia, heretofore appointed Professor of Chemistry and of law for the Central College, be confirmed and appointed for the University, as Professor of Chemistry, Mineralogy, &amp; Natural Philosophy, and as Professor of Law also, until the advance of the Institution, and increase of the number of Students, shall render necessary a separate appointment to the Professorship of Law; that in addition to his permenent salary of 1500.D. he shall recieve such sum during the 1st. and 2d. years as, with his salary, and his tuition fees shall amount in the whole to not less than 3500.D. a year, to commence on the first Monday of April of the ensuing year 1820, or so soon after as he shall arrive at the University. That the expence of removing his philosophical apparatus, his library and collection of Minerals to the University be reimbursed to him: that until he shall have 50. students of Chemistry, the expence in articles consumed necessarily in the courses of Chemical lectures be defrayed by the University, not exceeding 250.D. in any course. That the offer of his philosophical apparatus, at the price it cost him, be accepted, &amp; that also of 2500. specimens of his collection of minerals, labelled &amp; arranged in pasteboard cases, to be selected from his whole collection, for the use of the University, at the price of 50. cents each, by John Vaughan, Professor Patterson, &amp; Zaccheus Collins: with a suspension of payment however of the principal of these purchases until the more urgent provisions for the accomodation of the Professors and students shall enable the schools of the University to be opened generally, and with the payment in the mean time of interest at the rate of 6. per centum per annum on their amount. Considering the importance, and the difficulty also at this time, of procuring American citizens, of the first order of science in their respective lines to be Professors in the University, the Committee of superintendance are hereby jointly instructed and authorised, should any such offer, not to lose the opportunity of securing them to the University, by any provisional arrangements, they can make within the limits of the salary and tuition fees before stated, and even with such reasonable accomodations as the case may require, suspending however their actual engagement until a meeting of the Visitors, and reserving to them the right of approval or rejection. Resolved that the sd Committee be jointly authorised to purchase at a fair valuation or reasonable price, of John Perry, if a fit occasion occur such portion of his land lying between the two parcels heretofore purchased of him, as may conveniently unite the whole in one body; provided the payment be deferred until it can be recieved of the 4th. instalment of subscriptions, or of the public endowment for the 3d. year of the institution. The board proceeded to the appointment of the committee of superintendance, and John H. Cocke and Thos. Jefferson were appointed, with authority jointly or severally to direct the proceedings of the agents of the institution, but jointly only to call a special meeting of the board. Resolved that the course of authenticating the proceedings of the board be by the signature of the Secretary, &amp; countersignature of the Rector, or if there be no secretary, or not present, then by that of the Rector alone. And the board adjourned. TH: JEFFERSON, Rector. Mar. 29. 1819.</field>
+   </doc>
+</add>

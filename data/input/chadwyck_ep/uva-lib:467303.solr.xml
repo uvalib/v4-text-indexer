@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Rose, William Stewart, 1775-1843</field>
+      <field name="author_facet">Rose, William Stewart, 1775-1843</field>
+      <field name="author_sort_facet">rose william stewart 1775 1843</field>
+      <field name="author_text">Rose, William Stewart, 1775-1843</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1810's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_3.2205.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1810</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:467303</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Crusade of St. Lewis ; And King Edward the martyr. By William Stewart Rose</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">The Crusade of St. Lewis ; And King Edward the martyr. By William Stewart Rose</field>
+      <field name="title_facet">crusade of st lewis</field>
+      <field name="title_sort_facet">crusade of st lewis</field>
+      <field name="title_text">The Crusade of St. Lewis ; And King Edward the martyr. By William Stewart Rose</field>
+      <field name="year_display">1810</field>
+      <field name="year_facet">1810</field>
+      <field name="year_multisort_i">1810</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:467303&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:467303&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Rose, William Stewart, 1775-1843&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;rose william stewart 1775 1843&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Crusade of St. Lewis ; And King Edward the martyr. By William Stewart Rose&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;crusade of st lewis&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1810&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1810&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Rose, William Stewart&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1775&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1843&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Crusade of St. Lewis&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;And King Edward the martyr. By William Stewart Rose&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed For Longman, Hurst, Rees, and Orme [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1810&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp3387&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;31 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Crusade of St. Lewis&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;And King Edward the martyr. By William Stewart Rose&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 27 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">ST. LEWIS. See king Lewis standard streaming! See, the Christian fleet unmoors! Pike, and spear, and faulchion gleaming, Hark the frequent dash of oars! —Did a chieftain's banner rattle?— Knight and serf beneath it trod, Who had bown'd them for the battle, Soldiers of the living God, Where a scorching sun doth hinder Life and growth, in nature's shame; Where the burning soil is cinder; Where the passing wind is flame. Lightly fenc'd with targe of wicker, Mounted on a nimble steed, Ambush'd there, the Moorish pricker Brandishes his pointed reed. Swift the host, in sand half buried, Hears the fatal lelies sound; This, which is a running together of the words La illah Allah, is the profession of faith, and the war-cry of the Saracens. Whizzing flies the fatal jerrid; The jerrid is the dart with which the Eastern cavalry is usually armed. Horse and horseman bite the ground. One while pillars, in swift motion For these, see Bruce's account of his journey home across the desert; a narrative full of interest, which gives a lively impression of the wonders which he had witnessed, and the dangers he had escaped. These moving columns are by land what water-spouts are by sea. The action of the wind on sand and water is the same, and has been satisfactorily described and explained by Dr. Franklin. Hurtling, menace sudden death, Whirl'd across that pathless ocean By the Sirocc's angry breath: Thro' their shafts of sand the lustre Of the sun burns ruby-red; Now their spires appear to cluster; Parting now, they seem to spread. Hope from every breast was banish'd, When, like some illusive spell, Lo! the dreadful pageant vanish'd As the sultry Sirocc fell. Now their squadrons, thinn'd with slaughter, Sink beneath a burning sun— Hark the joyful cry of “Water,” Thro' the ranks in thunder run! Glad relief, when least expected! How each sinking bosom leaps!— “'Tis a lake! at-length reflected, On its face the palm-tree sleeps.” The Mirhage, or appearance of water, where none exists. So perfect is the resemblance, that repeated disappointments scarcely suffice to secure strangers from being again deceived by the illusion. Objects are as perfectly reflected on it as on water itself. —'Twas a phantom vain and hollow Which deceiv'd the Christians' eyes; As their thirsty squadrons follow, Lo! the false illusion flies. He who least at peril blenches, Yet the fearful tale may rue, How strange fire, which nothing quenches, The feu gregois, or Greek Fire. Oft the Turkish foe-man threw. How that gallant army hasted Every moment to decay, Whom the sword or sorrow wasted, It were long, and sad to say. Circled with a fierce horizon, Whence no friendly zephyr blew, Whom the pestilence or poison Of the deadly Samiel slew. Lewis held his bold assurance, Under battle, toil and pain, Nor, till vanquish'd and in durance, Gave the glorious strife for vain. Then he cried; “'Twas not the glory Of a crown in Eastern land, Nor to build a name in story, Arm'd, O God, this feeble hand. “But I challeng'd death and danger For thine honor's pure increase, And that I and every stranger Might approach thy tomb in peace. “But for this, their kings and sophys, Safe for me, their state might keep; Lion-Richard with his trophies Haunted not my peaceful sleep: “Nor who Egypt's towns invested, Ere his beard was razor-ripe, Edward the First, king of England. And well nigh his sceptre wrested From the Soldan's forceful gripe. “Victor in the strife, or worsted In the battle's doubtful shock, Ne'er for Schiraz' wines I thirsted, Or the snows of Haffner's rock. “Less I thought to quite my labor With the wanton's practis'd glance, When the spirit-stirring tabor Wakes the loose Egyptian dance. “—Gracious God, when I have panted To behold the crescent's fall,— —To behold thy red-cross planted On thy chosen city's wall, “That divine desire was singled, Winnow'd from each baser scope; Never worldly passion mingled With that great and glorious hope.” EDWARD THE MARTYR. From matin-prime to even-song King Edward stray'd the woods among: He rode in sorry case; Nor path, nor print of horse's hoof Amid those branching trees, star-proof, East, west, or north, could trace. When now he spies a narrow glade, Where copse-wood form'd a summer-shade, Close-cradled over-head: Scant might he force a passage thro', So close the tangled alley grew, Nigh waste for lack of tread. But soon the lattic'd roof was rent, And all one way the branches bent, The brush-wood grew less stiff: Now pricking light o'er stobb and gorse, He gave the bridle to his horse, And wan St. Aldhem's cliff. Such is generally the transition to be observed in woods on approaching the sea towards the south-west; indeed whatever there is of description in the following stanzas is copied from places not far removed from where the scene is laid. St. Aldhem has been metamorphosed into St. Aldan, but more commonly St. Alban. There is a chapel dedicated to him on the cliff, and this part of it is called St. Alban's head. Off this runs a race, similar in its nature to that of Portland, but of much less danger. St. Aldhem was an Anglo-Saxon bishop, who wrote a book on Latin prosody. The sun was in his western walk, And crimson'd Durlstone's rocks of chalk; The Needles' triple spire, The Needles no longer deserve this descriptive name. The spire of the last fell in the year 1775. With dusky vapor overhung, So far the parting blaze was flung, Seem'd pyramids of fire. The Solent slept a troubled sleep; The Solent sea, is the old name for the water between the Isle of Wight and the Main Land. Scarce might you mark his billows creep To land, whereso the stream was deep; (What time, now blowing hard, Now in light flaws, with sudden change, The quick and restless wind did range About the shipman's card) But where they met the rugged mound, The battled rocks, which girdle round That grim sea frontier, iron-bound, Iron-bound is a nautical phrase, denoting an inhospitable and inaccessible shore. The language of mariners like the language of nations of hunters and fishers, and from the same cause, is highly figurative. A seaman will talk of the sky being big with something, of the wind coming in spiteful puffs, of the sun setting red and angry. If he would convey to you that the violence of a gale has abated, he will say that the heart of it is broke; he talks of pulling against a heart-breaking tide, &amp;c. &amp;c. It is singular that Falconer, in his Shipwreck, should not have availed himself of so poetical a phraseology: but we are apt to think little of that with which we are most familiarized. High furrowing in a ridge, They foam'd and froth'd with hollow roar, And broke, in thunder, on the shore, From Peverel to The Bridge. King Edward well the signs did note; He twitch'd the mantle to his throat, And rode by cape or wharf; Now, inland, prick'd o'er hill and mead, And stay'd at last his weary steed Before the gates of Corfe. Though Corfe Castle is commonly supposed to have been the scene of Edward's murder, it was, in fact, perpetrated before a house called Corfe, belonging to Elfrida, on the site of the present castle. This indeed is an Anglo-Norman fortress. And there his bugle horn he wound; His step-dame Elfrid knew the sound Which rang through keep and court; And to her bow'r-woman 'gan say; “The deer we've hunted many a day, E'en now the quarry is at bay; I hear the merry mort!” The blast sounded at the death of the deer. Then forth she came, with vassal band, Her young son Eldred in her hand; He is indifferently called Ethelred, Eilred, and Eldred. And sore she griev'd apart, To see the greeting and the cheer, Which pass'd between those brothers dear, In singleness of heart. The return which Ethelred made to the affection of Edward was a great source of discontent to Elfrida. She is said to have beat him with tapers, having nothing else at hand, on his expressing grief at the death of his brother. But with that simple-seeming dame, Anger was but a smoldering flame, Until its sparks took air: She, hatching deep and deadly sin, Could cloak the wickedness within Beneath a semblance fair. “Sweet son and king,” she cried, “alight, And feed within my tow'rs, this night, On Purbeck's fallow deer; 'Tis said, where cost and care is least, Large love and welcome make a feast; Then taste our forest cheer.” “I may not stay,” king Edward said, —“The scud flies swiftly overhead, The south-west wind is up.— Yet will I, stepdame, in despite Of wind and weather, do you right, In one free loving cup.” The Lord and Lady Mayoress still drink a welcome to their guests in what is termed a loving cup. A silver stoop Elfrida bore, With ruby liquor foaming o'er, Old Bourdeaux' rich increase; She laid her lip unto the brink, —And, “Wassal, son,” she said, “and drink.”— And gave the kiss of peace. The king, unweeting of her craft, Had drain'd the goblet at a draught;— But she her vantage spied, And, at her sign, a stalwart groom, Who stood beside his horse, thrust home A dagger in his side. As spouts the wine from started skin, The heart's-blood from the wound did spin, When he drew back the knife; And Edward, as the stream outbrake, Let go the wassal-bowl, and strake His horse, and rode for life. Still, as he rode, the life-blood ran His visage fell, his cheek grew wan —He reels—the bridle drops— 'Tis o'er; fast by a neighbouring well, He hurtles headlong from the sell, And short the courser stops. The beldame fear'd her stroke might fail, And slipt her blood-hounds on the trail: They stay'd upon the king; The ruffians saw life's font was dried, And, neck and heels, the carcase tied, And cast it in the spring. The livelong night, upon that well A bickering flame of fire did dwell; The burgher and the swain, Sore trembling for their town and tillage, Dream'd that the beacon told of pillage, Wrought by the murderous Dane. —The corpse, by that strange token found, The lords will tomb in holy ground; And, more the rite to hallow, E'en she who wrought the sinful deed, —That bold, bad woman, on her steed, The mourning train will follow. Now red the kindled torches glare, And swells upon the midnight air The dirge's doleful sound: Forth pace the bearers with the corse, The nobles next; but Elfrid's horse Stands rooted to the ground. Nor voice, nor aid, nor wand, nor spur The palfrey from his trance can stir; She lights, and now will tread, Behind the bier, a pilgrim poor; But (as her courser fared before) Her feet became as lead. She stands as she were made of stone: The train moves on, she's left alone; Nor till the funeral hymn Was heard no more, and, by degrees, The lights went out in Kizwood trees, Could lift one icy limb. Thenceforth strange tales were bruited round, How still she heard a bugle sound, At fall of twilight hoar; And ever, when she rais'd the piece To drink, the wine-press' pure increase Would change to human gore. Of spirit proud, to do or bear, She strove to wrestle down despair. 'Twas vain:—with holier thought, She gave the fruitless struggle up, And in religion's healing cup Her last-left comfort sought. Then built she Ambresbury's pile, And after Worwell's cloister'd aisle Rose at her hest; She founded the nunneries of Ambresbury in Wiltshire and Worwell in Hampshire. I have in some instances abridged (as I hinted in the Introduction), and in others, made some trifling additions to the list of prodigies which wrought the conversion of Elfrida. and there, She, ever with herself at strife, Wore out the remnant of her life In penitence and pray'r. But these are past away: their stones Now fence the lowly peasant's bones, Or piece some ruin'd grange; Nor less, O Purbeck, on thine hills, Time, which all earthly wonder spills, Hath wrought portentous change. Thy marble wastes, whose rocks among, Tall oak, and tufted chesnut sprung From many a rifted seam, The grey marble, so frequent in our old cathedrals, was taken from Purbeck. These quarries are no longer worked; the stone of the island is well known. It was formerly, like most parts of England, extremely well wooded. Thy wavy forests, round in-isled, Holt upon holt sublimely piled, The sylvan lawn, the covert wild Sound like a poet's dream. Thy russet lawns impaled with rocks, And speckl'd o'er with straggling flocks, Are open to the storm; And, Corfe, down toppled are thy towers, And in thy roofless hall and bowers The hare and coney fourm. —Yet not, the double curse and guilt Of king, captived Edward the Second. or foully spilt, Hath cast thy stones on earth; The cause in which thy tow'rs did fall Had brought a blessing on thy wall, Did fortune follow worth. Then when you raised, mid sap and siege, The banners of your rightful liege, At your she-captain's call; Who—miracle of womankind!— Lent mettle to the meanest hind, That mann'd her castle-wall. What time the banded zealots swore, Long foil'd thy battled tow'rs before, (Their fearful entrance made) To raze thy stones with plough and harrow; —Yet thrice the wild sow cast her farrow, And well the boar was bay'd, Ere on thy dungeon-keep advanc'd, In the west-wind their colours danc'd.— Long Corfe the day shall rue, When on her walls their spite was wroke, When loud the prison'd thunder broke, And in a fountain-stream of smoke Heaven-high their fragments flew. The Parliamentary forces used mines in the demolition of this feudal fortress. The effect of these explosions is very like a magnificent jet of water, or rather like the hot springs in Iceland, which throw up large stones mixed with the water. THE END.</field>
+   </doc>
+</add>

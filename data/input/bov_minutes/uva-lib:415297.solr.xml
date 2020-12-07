@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1930's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2007_03/uvaGenText/tei/bov_19331123.xml</field>
+      <field name="date_indexed_facet">201909240347</field>
+      <field name="date_text">November 23, 1933</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:415297</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. November 23, 1933</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  November 23, 1933</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  November 23, 1933</field>
+      <field name="year_display">November 23, 1933</field>
+      <field name="year_facet">1933-11-23</field>
+      <field name="year_multisort_i">1933</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:415297&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:415297&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. November 23, 1933&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;November 23, 1933&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1933-11-23&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;November 23, 1933&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Official minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;2 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1933-11-23&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 13 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">November 23, 1933 A called meeting of the Rector and Visitors was held on this date with the Rector, Fred W. Scott, and Visitors Garnett, Rinehart, Walker, L. C. Williams and R. Gray Williams, and President Newcomb present. The President announced the total enrollment for the winter session to date 2338, which was a decrease of 150 for the same date of the previous session. He further announced the total enrollment for all departments, as follows: Regular session (1933-34) 2,338 Summer session (1933) net 1,163 Extension Division 878 Nurses Training School 151 Total 4,530 The following gifts were announced: From the late Edward Dean Richmond, an alumnus, in his will $ 60,000 From the Estate of Jonathan Bryan, (previously reported to the Board, but money actually received on November 1, 1933) 20,000 From the Carnegie Corporation, a set of Music Study Equipment, valued at 2,500 From the National Research Council, for the establishment of the Mallinckrodt Fellowship for research in Alkaloid Chemistry 1,000 From Yale University, a portfolio of twenty etchings, - scenes from the life George Washington, valued at 500 (This was made possible by a gift to Yale University by a generous friend of that Institution.) From Dr. Malvern B. Clopton, of St. Louis, for the development of the personnel in the Surgical Department of the University of Virginia 500 From Dr. William A. Lambeth, to the School of Italian, one Fifteenth Century Italian Mirror, one Sixteenth Century Italian Console, two Italian lamp stands, one della Robbia flower pot, and two brass urns, valued at 275 $ 84,775 On recommendation of the President, the following leaves of absence were granted: To Lancelot L. M. Dent, Assistant Professor of Philosophy, by reason of his continued ill health, for the session of 1933-34, without pay. To Dr. Scott M. Buchanan, Professor of Philosophy, from January 1, 1934 to June 14, 1934, for the purpose of doing special work at Johns Hopkins University. Dr. Buchanan's work will be carried on here by Professor F. S. C. Northrup, of Yale University, who was elected Visiting Professor of Philosophy for the term January 1, to June 15, 1934, at a salary of $2,500 to be paid from the salary now appropriated to Professor Buchanan. The President announced that during the summer he had appointed Frederick T. Morse as Acting Assistant Professor of Mechanical Engineering for the session of 1933-34, at a base salary of $3,200 - reduced 20% - an actual salary for the nine months of $2,560. The appointment was ratified. Upon the recommendation of the President, the following were adopted: RESOLVED, by the Rector and Visitors of the University of Virginia, That Mr. Walter Sheldon Rodman, Professor of Electrical Engineering and Acting Dean of Engineering at the University be and he is hereby elected Dean of Engineering at a salary of $400. RESOLVED, by the Rector and Visitors of the University of Virginia, That Pavilion IX, on West Lawn, be awarded to Dean J. C. Flippin as soon as it is vacated by Dr. Newcomb, at an annual rental of $500. In connection with the application of the University of Virginia for a loan and grant from the Federal Emergency Administration of Public Works for the erection of an Engineering Building, the President stated that he had received from Governor Pollard a form of resolution desired to be adopted by the Rector and Visitors. The proposed resolution was considered, amended, and adopted, as follows: 1. That no request will be made for an appropriation from the State of Virginia for the payment of any expenses incurred in equipping or maintaining the said project, or in providing the funds required for liquidating the indebtedness incurred for the erection or equipment thereof. 2. That such additional fees shall be assessed against the students at the University of Virginia, and such other persons or agencies as may be served by the proposed project when completed, as may be found necessary to provide sufficient funds for the equipment and maintenance of said project, and for the erection and equipment thereof, should the income available for this purpose be found inadequate therefor. 3. That all fees, rents and charges derived from the operation of the project in excess of annual interest and sinking fund or bond redemption requirements will, upon receipt thereof be paid into the state treasury to the credit of the University of Virginia, for expenditure for the aforesaid purposes. 4. That the fees, rents and charges derived from the project and allocated to the payment of interest and sinking fund or bond redemption requirements thereon, shall, provided the said Federal Emergency Administration of Public Works agrees thereto, be paid into the state treasury, to the credit of the University of Virginia, for expenditure for the aforesaid purposes. 5. That any fees, rents and charges coming from the Engineering Department not necessary each year to pay interest and sinking fund or bond requirements on the project shall be available for the expenses of the University. President Newcomb stated that some study had been given to the question of making application to the Federal Emergency Administration of Public Works for a grant and gift for erecting a private ward to the University Hospital, but that the committee was not ready to report its findings for action by the Board at this meeting, and requested that the Rector appoint a Special Committee of the Board to consider the project and report to a special meeting to be held on December 4th. The Rector appointed the following Special Committee to study and report upon the project: Rinehart, L. C. Williams and R. Gray Williams. The President reported to the Board the continued illness of Dean J. M. Page and explained that he would be eligible for retirement on the Carnegie Foundation on March 4, 1934, when he would be seventy years old, and asked with respect to continuing his salary, whereupon the following was adopted: RESOLVED, That Dr. J. M. Page's salary payments as Professor of Mathematics and as Dean of the College be continued to March 4, 1934, when he will become seventy years of age and eligible for retirement on the Carnegie Foundation. The meeting then adjourned to December 4th, at 11 o'clock. C. Harding Walker Rector. E. I. Carruthers Secretary.</field>
+   </doc>
+</add>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Fields, James Thomas, 1817-1881</field>
+      <field name="author_facet">Fields, James Thomas, 1817-1881</field>
+      <field name="author_sort_facet">fields james thomas 1817 1881</field>
+      <field name="author_text">Fields, James Thomas, 1817-1881</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1850's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ap/uvaGenText/tei/chap_AM1018.xml</field>
+      <field name="date_indexed_facet">201909240350</field>
+      <field name="date_text">1850</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey American Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey American Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:440444</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">[Poem by Fields in] Festival of the Sons of New Hampshire</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">American poetry -- 1783-1850</field>
+      <field name="subject_text">American poetry -- 1783-1850</field>
+      <field name="title_display">[Poem by Fields in] Festival of the Sons of New Hampshire</field>
+      <field name="title_facet">poem by fields in festival of the sons of new hampshire</field>
+      <field name="title_sort_facet">poem by fields in festival of the sons of new hampshire</field>
+      <field name="title_text">[Poem by Fields in] Festival of the Sons of New Hampshire</field>
+      <field name="year_display">1850</field>
+      <field name="year_facet">1850</field>
+      <field name="year_multisort_i">1850</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:440444&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:440444&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Fields, James Thomas, 1817-1881&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;fields james thomas 1817 1881&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;[Poem by Fields in] Festival of the Sons of New Hampshire&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;poem by fields in festival of the sons of new hampshire&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1850&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1850&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Fields, James Thomas&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1817&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1881&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;[Poem by Fields in] Festival of the Sons of New Hampshire&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Boston&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;James French&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1850&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3866039-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;cham1018&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;American poetry -- 1783-1850&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1783&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1850&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;[Poem by Fields in] Festival of the Sons of New Hampshire&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Alexandria, VA&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Inc.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 12 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only poem by Fields included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-AmPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">POEM BY JAMES T. FIELDS. Mr. President— I must beg an excuse, Sir, from making a speech; As to handing round toasts, that 's quite out of my reach; A slight knack at rhyming, a few hints of verse, That were picked up in boyhood, (I might have done worse,) Have served me on other occasions to shirk, As we say in New Hampshire, the much heavier work; So, if you'll release me and not call it treason, I'll pay you in rhyme what I should pay in reason. I was hunting last night, as I sat down to play With the shuttle of verse, the right theme for to-day: And as I was musing in almost despair, I felt a sharp tug at the roots of my hair,— When a bright little figure sprang into the air, Shook his wings for an instant, then circled around, And alighted at once snug, and tight, on the ground. Oh, could you have seen him, his eyes and his nose, “The rings on his fingers, the bells on his toes,” His little red breeches, the wig on his head, And the corpulent shape that endorsed him well fed, I think you 'd have stared, and requested like me A reply from the sprite what his business might be. “Kind Sir,” I began, “I must sure owe you one, Your face ne'er before have I seen 'neath the sun, And a quainter old chap, take you now all in all, Has not honored my roof since the flood with a call.” “Hold your tongue,” cried my visitor, winking his eyes, “I don't come to Boston to show off my size; I am here, Sir, on business, know what I'm about, And my mother's apprized that her offspring is out: So if you'll just listen, and not be so green, I'll be brief as the ride now to Concord or Keene; I will not be so long, nay, not half of the time, As up my friend Wilson, the sun takes to climb; I am straight from New Hampshire, her children to meet, Who run up in our parts, by the acre, not feet; And your notable Boston boys never will grow, Till they sprout near the hills where the tall rivers flow. Who am I, you ask? and you do not know me? Turn me round, I'm the ‘man in the moon’ as you see; I got off at Mount Washington, none of your jokes, To attend the great meeting of New Hampshire folks; I've come down to Boston to join in the fun, And I can't get a ticket because I'm no ‘Son.’ I've long loved your valleys, I know all your rills, I've travelled whole nights o'er the tops of your hills, I've bathed in the Basin, I've sailed down the Flume, I've run up the Cascade, and I've retipped its plume; I've dwelt in the Notch, I've explored every fountain, And my brother himself is the Old Man of the Mountain; And now when I beg for a chance at your dinner, You call me ‘outsider’ and vote me a sinner; 'T is a case clear as moonlight that I ought to go, For I've lived near New Hampshire long ages or so.” “It is no use to talk then,” I quickly exclaimed, “If the soil you were born on is not the far-famed; Vermonters by dozens stand by to declare That they drew their first breath in our New Hampshire air; While Maine sends her hundreds to call for a place, Which only belongs to the White Mountain face; No! for States near or distant we ‘do n't care a pin,’ Allow me to say, Sir, you cannot come in.” Then the little old gentleman wiped off a tear, And his mouth opened wide like a gash from each ear, And he said, with a sigh, as he looked rather blue, “Here's a song I 'd have sung if I'd gone in with you; 'Tis in praise of the maidens you left far away, In the homes of your childhood, the haunts of your play: 'T is a song of your mothers, whose hearts linger here, Though their children forget them, they always are dear;” So listen, kind friends, to the verses he gave, As he swept from my sight like the foam on the wave. See how yon smiling sisters stand To greet the sons who roam; Each daughter waves her snowy hand To give the “welcome home!” See how they form, with lips and eyes, Hope's radiant band of pearls; Match if you can beneath the skies, Our dear New Hampshire girls! What though the autumn rain drops freeze, Where those we love were born? They win their beauty from the breeze, Their vigor from the morn! The tempest round their dwellings shout, And howls November's storm,— For us their fires are never out, Whose hearts are always warm. Go forth, poor exiled youth, away, Where other maidens dwell! Come back, when all your locks are gray, To those you loved so well! Come back, though Time has left you poor, And all your sands have run,— There stands your mother at the door, To clasp her darling son. God bless the troop whose nightly prayers Rise up for those who roam! God bles bless them, 'mid their daily cares,— Those guardian saints of home! Forget not then to mingle here, With wit and song your pearls,— And give the swelling heart's full cheer For our New Hampshire girls!</field>
+   </doc>
+</add>

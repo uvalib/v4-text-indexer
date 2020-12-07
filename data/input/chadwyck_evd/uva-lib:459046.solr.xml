@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">D'Avenant, William, Sir, 1606-1668</field>
+      <field name="author_facet">D'Avenant, William, Sir, 1606-1668</field>
+      <field name="author_sort_facet">davenant william sir 1606 1668</field>
+      <field name="author_text">D'Avenant, William, Sir, 1606-1668</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.0298.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1635</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459046</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Triumphs of the Prince D'Amour ; A Masque</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 17th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 17th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Triumphs of the Prince D'Amour ; A Masque</field>
+      <field name="title_facet">triumphs of the prince damour</field>
+      <field name="title_sort_facet">triumphs of the prince damour</field>
+      <field name="title_text">The Triumphs of the Prince D'Amour ; A Masque</field>
+      <field name="year_display">1635</field>
+      <field name="year_facet">1635</field>
+      <field name="year_multisort_i">1635</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459046&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459046&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;D'Avenant, William, Sir, 1606-1668&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;davenant william sir 1606 1668&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Triumphs of the Prince D'Amour ; A Masque&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;triumphs of the prince damour&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1635&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1635&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;D'Avenant, William, Sir&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1606&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1668&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Triumphs of the Prince D'Amour&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Masque&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for Richard Meighen [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1635&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3871720-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv10298&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 17th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;17th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Triumphs of the Prince D'Amour&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Masque&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 31 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The triumphs of the Prince D'Amour.</field>
+      <field name="desc_meta_file_display">Genre: Masque.</field>
+      <field name="desc_meta_file_display">Date first published: 1636.</field>
+      <field name="desc_meta_file_display">Date first performed: 23 Feb 1636–24 Feb 1636.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE TRIUMPHS OF THE PRINCE D'AMOVR. A Masque</field>
+      <field name="fulltext">Before the Scene was discovered, the Princes being prepar'd under the state at the upper end of the Hall; the Master of Ceremonies to the Prince D'amovr, receives an Imployment by a whisper from his Master, then moves to the Prince Elector (to whom this Entertainment was onely directed) and speakes this. [Master of Ceremonies.] Sir, this short journey from my Princes Throne, Is meant in Embassie to You alone; To You, whom he receives not as his Ghest, For You are both his Ornament and Feast. Although his Greatnesse is not taught to bow, His Subjects feare, he will doe homage now, Which he esteemes no less'ning to his State, Since 'tis his Love decrees it, not his Fate. Nay more, his Message moves so low, I feare, What sounds like tender Courtship in your eare, His Iealous Barons will dislike, and cry, I am perverted to disloyaltie; Vrge my Commission false, then taxe me for An easie Traytor, no Embassadour; As if my words would pull his Empire downe, Shorten his Scepter, and contract his Crowne; Thus whisper'd by my feares, J must impart For Ceremony now, what is his heart, Though with content of Truth, J may report You haue a num'rous Faction in his Court. This Pallace where, by sword, then law maintain'd His few, but mighty Ancestors have raign'd, Is consecrated yours; which he doth give, Not in regard he hath short time to live; For so, since his Successor is unknowne, You take what is his Subjects, not his owne, And what is a surrender now, would be Receiv'd to morrow as a Legacie: If more of his free love, I should relate, They'd stile it homage in our Iealous state. At the upper end, opposite to the state, was a stage of six foot high: and there was presented to sight a Front of Architecture with two Pillasters at each side, and in the middle of the Coronich a Compartement, with this inscription in an Ovall. Les Triumphes du Prince d' Amour. The Curtaine flying up, on the sudden the Scene was discovered with a Village consisting of Alehouses and Tobacco shops, each fronted with a red Lettice, on which blacke Indian Boyes sate bestriding Roles of Tobacco, and in the place of Signes, Globes hung up, stucke up full of broken Pipes. Before each dore were seene old Loggs, and Trunkes of hollow Trees, on them sate the Persons of the first Antimasque drinking, and making to each other such ridiculous salutes, as did intimate a joy of meeting, and acquaintance. This continued a while, and then they prepar'd for their first entry. The first Anti-Masque. Two, whose habits presented them, for swaggering Souldiers, and of the cheaper quallity, such as are said to roare, not fight, their Beards mishapen, with long whiskers of the Stilletto cut. Two Dutch Sea Officers, a Gunner and a Boatswaine. An old over-growne debaush'd Cavalier, that seem'd unwieldy with his weight, his Riots had so inlarg'd him. A Begging Souldier, with a Knapsack hanging at his backe. A Suttlers wife, denoted by her dresse of the Campe, her head being bound with a Saddle girth, instead of Phylliting. These after their Entry was perform'd, retire. On the sudden, the Scene wholly changing, appeares a Campe of Tents, distinguished by their severall Colours: And in the middst was discover'd the Temple of Mars, the forme being square, and of the Dorick Order, with Trophies of Armes on the Front. Within the middle of the Temple stood the Statue of Mars, of Copper, upon a Pedestall. This having continu'd a while in prospect, the Priests of Mars came out of the Temple, cloath'd in Crimson robes, of the Antick shape, girt in the wast and being tuck'd up, fall in a fold; on their heads, Miters of a Helmet forme, with a Poniard advanc'd on the top, and they sing this by way of Preparation. (1) Come shut our Temple and away, Our bold seditious God shall stay; Wee'l serve no sacrifice to day, Our humor is to Feast, not Pray. (2) The Battell which our Knights have won, Did last untill th'amazed Sun For feare, did mend his usuall pace, And set betimes to hide his face. (3) And now the story of their fight Is universall, as his light, Which Fame upon her swifter wing Hath early brought for us to sing. This Song ended, with a slow pace they descend (playing on their Instruments) and being advanc'd neere the State, sing this to signifie some Battell lately fought. [Priests of Mars.] (1) Heark! heark! the trouble of the day draws neere, And now the Drum doth teach the heart to beat, Whilst Trumpets cherish not, but wound the eare Of such, who are ordain'd for a defeat. Chorus. Heark! Heark! some groane, and curse uncertaine Fate, Which vs for blood and ruine, doth create. (2) Charge! charge! cries ev'ry bold ambitious knight, Whilst artificiall darknesse hid their way, The lightning of their Swords was all their light, For dust, &amp; sulphrous clouds had chok'd the day. Chorus. Heark! Heark! some groane, and curse uncertaine Fate, Which vs for blood and ruine, doth create. (3) Burn, burn, was straight the noyse in ev'ry Tent, Whilst some mis-led by their disorder'd feare, Did helpe to kindle what they should prevent, And scap'd the Van to perish in the Reere. Chorus. Heark! Heark! some groane, and curse uncertaine Fate, Which vs for blood and ruine, doth create. (4) Fly, fly, cryes then the tame dejected Foe; Each wondring at the terror which he feeles, And in the hurry of their overthrow, Forsook their Arms, and trusted to their heels. Chorus. Heark! Heark! some groane, and curse uncertaine Fate, Which vs for blood and ruine, doth create. (5) Stand! stand! was now the word our Knights did give, For weary of pursuit, they had no will To grace with death, who basely sought to live, As if unworthy of their paines to kill. Chorus. Heark! Heark! some groane, and curse uncertaine Fate, Which vs for blood and ruine, doth create. The Priests of Mars retire, and strait the Masquers appeare as coming out of severall Tents, their habits being Martiall and richly imbroder'd, inclining neere the old Romane shape; their Helmets Triumphantly plum'd, whiles the Bevir falling ore the face, serv'd for a disguise, and supply'd to each the office of a Vizard. These by their appearance and demeanour were devis'd to intimate those heroique Knights Templers, to which the Pallace of the Prince D' Amour was anciently Dedicated. They descend with a Majestique pace, and dance their first entry, then retire towards the Scene: whilst with amazement they discover Cupid descending in a bright cloud, who at their interview sings this. (1) Whither so gladly, and so fast, As if you knew all danger past Of Combat, and of War? As you believ'd my armes were bound, Or when J shoot, still ev'ry wound J make, is but a scar. (2) Arme now your brests with shields of steele, And plates of Brasse, yet you shall feele My arrowes are so keene, Like lightning that not hurts the skin, Yet melts the solid parts within, They'l wound, although unseene. (3) My Mother taught mee long agoe To ayme my shafts, and draw my Bow When Mars shee did subdue. And now you must resigne to Love, Your warlike hearts, that shee may prove Those antick Stories true. This being sung, Cupid having dispersed his darts amongst them, which charmes them from designes of warre to inclinations of love, they all retire. The Scene wholly changing, there appeares a square Piazza, resembling that of Venice, and 'tis compos'd of Pallaces, and lesser Fabricks, with Courtizans looking out of windows, and Balconees, fantastically adorn'd, some in Italian, others in a Turkish dresse, and this prospect, prepares the second Anti-masque, who strait are discovered walking in the Piazza. The second Anti-masque. The first A grave formall Spanish Lover, who addressing himselfe to some Courtizan, in a Balconee, salutes her often with congies tedious and low. The second A jealous Italian Lover, who fixing his eyes on another Mistresse at her window, dinotes the vexation of his humour, by desperate sighes, beating on his breast, and sometimes a melancholly posture, standing with his Armes wreath'd. The third. A giddy Fantasticke French Lover, who being likewise addressed to some beauty, gazing at her windore, his humour is discern'd by strange ridiculous cringes, and frisks in his salutes, with which hee seemes to invite her acquaintance: having divers notes of Levitie in his habit, and wearing his Mistresse Fanne ty'd with a Ribband in his eare. The Fourth A dull Dutch Lover, personating some Yonker of Vtrecht, who gazing upwards too, doth often apply his Handkerchiefe to his eyes, as if the griefe of his dispaire did make him weepe. The Fifth A furious debaush'd English Lover, who in his habit striving to imitate his Neighbour (the Monsier) still outdoes his vanitie, which his accoutrement doth severally expresse, and he hangs in the right eare his Mistresses Muffe, in the left her Shooe with a Chapeen. He is not fix'd to one Balconee, but directs himselfe to all, offers to draw his Sword, and seemes to threaten with his fist, as he would rather breake their windowes, then desire them opned, that hee might gaine a looke from his Lady. These severall humors being a while artificially expressed, they descend, and dance their second entry, and retire. The Scene wholly changing againe: There was observ'd in a Grove of Cypresse intermingled with Mirtle Trees, the Temple of Venus, being an eight square of the Corinthian order: within the Temple her Satue of Siluer, standing in an Neech, with Cupid by her, to whom she seemes to deliver an Arrow; the Pilasters, and Ornaments were heightned with Siluer. From this Temple the Priests of Venus are discern'd to come in loose white Robes, their heads adorn'd with Coronets of Flowres, and playing on their Instruments, they descend and sing this. (1) Unarme, unarme! no more your fights Must cause the virgins teares, But such as in the silent nights, Spring rather from their feares. (2) Such diff'rence as when Doves do bill, Must now be all your strife: For all the blood that you shall spill, Will usher in a life. (3) And when your Ladies falsly coy Shall timerous appeare, Believe, they then would faine enjoy What they pretend to feare. (4) Breath then each others breath, and kisse Your soules to union: And whilst they shall injoy this blisse, Your bodies too, are one. (5) Too morrow will the hasty Sun Be fear'd more of each Lover, For hindring to repeat what's done, Than what it may discover. The Priests of Venus retire, and the Masquers appeare in the Scene, their vests altered to a more soft and Courtly change; with severall adornements, that might present them to every understanding for a Troope of noble Lovers. Their second entry being daunc'd, they retire into the Temple. The Scene wholly changing, strait was perceiv'd in a Grove of Lawrell Trees, the Temple of Apollo, being round, and transparent, of the order of Composita, the Columnes and Ornamants, being heightned with gold, his statue of gold standing in the middle of the Temple, upon a round Pedestall: behind and betweene the Columnes did appeare a prospect of Landskap. The Priests of Apollo approach from severall parts of the Temple, cloath'd in Carnation Robes, with wreathes of Laurell on their heads, they sing this when they descend. (1) Make roome for our God too, make roome, For now surpriz'd, and ravish'd with delight, Apollo is from Delphos come, T'inspire, and breath himself in every Knight. (2) His God-head is inclin'd to prove How justly proud, and happy you will be, When with the powers of War and Love, Hee shall unite his wiser Deity. (3) Then still, as if not made of Earth, Expresse your thankfulnesse in active pleasure. Whilst you designe your hearts to Mirth, Your eares to numbers, &amp; your feet to measure. This ended, the Priests of Apollo retire to make way for a new discovery of certaine persons in the Scene, which seeme halfe hidden behind the Trees: Then invite them to descend by singing this. (1) Behold, how this conjunction thrives! His radiant beames Apollo strives So much to strengthen and increase, As growth and verdure nere should cease. (2) Come you industrious slaves of plenty, bring All that is hop'd for in an Eastern Spring: Or all that Autumne yields, when she doth pay Those promis'd hopes where 'tis perpetuall day. (3) Come strew this ground (delay us not with slowth) Strew till we walke on sweet Cecillian Flowres, To prove how Seeds have hastned in their growth, Drop Indian fruits, as thick as Aprill showres. Now descending from the Scene, appeares twelve men, wildly habited, Wastcotes of flesh color made them shew naked to the middle, their heads cover'd with greene leaves, their wastes girt with the like, and a greene Basis fring'd, reach'd to their knees, which did declare them Labourers on a Fruitfull Soyle; and what they carryed did demonstrate a Fruitfull Season. For moving downe in order towards the State, each supported in his Armes, a small square frame, the wood hidden with greene Boughes, and on that bore a Charger full of precious fruits, and cover'd with blossom'd twigs and flowers: Which being fix'd neere to the State, were so joyn'd together, that there was straight discovered a Table richly furnish'd with a Banquet, that look'd as it were hidden in a Grove: And whilst the Princes accepted of this entertainment, the Priests belonging to the three severall Deities sung this. The song of Valediction, after the Banquet. Priests of Mars. The furious Steed, the Phyph and Drum Invite you still to Triumphs of the War, Till you as glorious shall become On Earth as Mars, in Heaven as bright a Star. Priests of Venus. The Balmes rich swet, the Myrrhs sweet teares Perfume your breath when you would Passion move: And may her heart, that you indeeres, The center be, her Eye the sphære of Love! Priests of Apollo. And may your Language be of force To body winds, and animate the Trees, So full of wonder your discourse, Till all your guesses shall be Prophecies. Chorus of all. May our three Gods so long conjoyne, To raise your soule, and rarefie your sense, Till you are render'd so Divine, 'Twill be no Sin t'implore your Influence. Thus, as all Pleasures and Triumphs are full of haste, and aptest to decay, this had an end; yet may live mention'd a while, if the envie of such as were absent do not rebuke the courteous memory of those who vouchsaf'd to enjoy it.</field>
+      <field name="fulltext">The Masquers Names, According as they were rank'd by their Antiquity, in that Noble Society. Tho: Maunsell. Will: Morgan. Will: Wheeler. Mich: Hutchenson. Laur: Hyde. Tho: Bourke. Edw: Smyth. Edw: Turnor. Tho: Way. Tho: Trenchard. Geo: Probert. Those in the first Anti-masque. Phillip Morgan. Iohn Freman. Iohn Bramston. Ed: Smyth. Clement Spillman. Iohn Norden. Will: Lysle. Those in the second Anti-masque. Iohn Stepkin. Charles Adderly. Iohn Ratcliffe. Rich: May. Giles Hungerford. The Musick of the Songs and Symphanies were excellently compos'd by Mr. Henry, and Mr. William Laws, his Majesties Servants. FINIS.</field>
+   </doc>
+</add>

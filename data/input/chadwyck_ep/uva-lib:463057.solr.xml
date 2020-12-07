@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Churchyard, Thomas, 1520-1604</field>
+      <field name="author_facet">Churchyard, Thomas, 1520-1604</field>
+      <field name="author_sort_facet">churchyard thomas 1520 1604</field>
+      <field name="author_text">Churchyard, Thomas, 1520-1604</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.0123.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">1602</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:463057</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The wonders of the ayre ; the trembling of the earth, And the warnings of the world before the Iudgement day. Written by Thomas Churchyard</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">The wonders of the ayre ; the trembling of the earth, And the warnings of the world before the Iudgement day. Written by Thomas Churchyard</field>
+      <field name="title_facet">wonders of the ayre</field>
+      <field name="title_sort_facet">wonders of the ayre</field>
+      <field name="title_text">The wonders of the ayre ; the trembling of the earth, And the warnings of the world before the Iudgement day. Written by Thomas Churchyard</field>
+      <field name="year_display">1602</field>
+      <field name="year_facet">1602</field>
+      <field name="year_multisort_i">1602</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:463057&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:463057&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Churchyard, Thomas, 1520?-1604&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;churchyard thomas 1520 1604&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The wonders of the ayre ; the trembling of the earth, And the warnings of the world before the Iudgement day. Written by Thomas Churchyard&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;wonders of the ayre&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1602&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1602&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Churchyard, Thomas&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1520&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1604&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The wonders of the ayre&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;the trembling of the earth, And the warnings of the world before the Iudgement day. Written by Thomas Churchyard&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Imprinted ... by Thomas Dawson&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1602&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp0761&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;[21] p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The wonders of the ayre&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;the trembling of the earth, And the warnings of the world before the Iudgement day. Written by Thomas Churchyard&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 17 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only verse included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">To the right woorshipfull M. D. Sezar master of the requests, master of S. Katherns, and iudge of the Admiraltie, Thomas Churchyard wisheth great worship, wisedome, and wealth, with the fauour of Prince, and good people, ioyned to fuch such a vertuous life as alwayes waites for heauenly fælicity. The generall Epistle to the Readers. Come gazing world whose restles mind wold see &amp; read each thing And mark what wonders wit may find, that in this booke I bring, Note now howe nature is beguild, and God the nature takes Of euery wonder vnder Sunne, and thereof triumple makes: Come searching heads that finely shifts, the grosest bran from flowre, Who knows (through suttel sleights of world) no more th? naturs pour And marke what maruels mighty God, with maiestie doth shoe Our simple age and carelesse time, where lewde like learned goe: Come you that liues like Epicures, and likes no world but this And thinks when your bad life is gone, there is no other blisse, And note another kind of cause, that can constraine vs all In prostrate maner humble wise, with face on floure to fall. Come proudest peacoks in your plumes, with ruffling painted robes Come you that lookes when starres will fall, &amp; staers on goodly globes And veiw how starrs and planets falls, and earthly causes too If God when nature is at worst, strange things himselfe will doo. Come stubborne men that will not stoupe, at fearfull signes and shoes Nor care for trembling of the earth, which wonders comes and goes, By course of nature as some say, but therein make a pause Though kind commands amasse of things, there is a greater cause That moues the earth, &amp; shakes the world, wel worldlings come &amp; see What wonders God hath wrought for men, that wise and thankful be, And see what warnings God hath sent, to those he meanes to stricke Preserues the good wher fauour leads, &amp; plagues wher growes mislike. You stout stifnecked people proud, the stands on reasons ground, Come heere how farre past reasons earth, in learned eares doth sound, Make faith a proofe of your hard harts, and so let nature guide And you shall see who shootes aright, and when your shafts are wide: If natures law and reasons rules, might run with right away, No place were left for God that rules, to rule and beare the swaie. O wily wits and babling tonges, yeeld vp your reasons lore And folllow our great captaines steps, that marcheth still before: Who leaues them lagging far behind, that lookes not after grace, And in their owne opinions dwell, with bold and shamelesse face. Come all the flocke of new found sects, that swarmes to much this day, And you shall see what glory great, Gods goodnes doth bewray. Come Deitists and Athists all, bring brabling bookes and wordes That you in bitter sorte let fall, sometime with iests and bords, And see his mighty workes aboue, that rules all at his will, Who makes earth ayre and waters moue, to make men muse on still. Come cunning brains whose quick conceits, are ripe and in their prime Come read strange things that wonders are, bestow therein some time. Come souldiers that loues sword &amp; fire, &amp; mark what wars God makes With kings and kingdomes in his ire, when he the quarrell takes, Come see the fall of mighty men, that many battayls won, Yet dropt downe headlong now and then, as fatall chances run. Come you that thinke you sit so sast, you can ne slip nor slide And thinke by gesse of wonders past, what you may iudge this tide: Come hither high aspiring mind, that hopes the cloudes to clime, And by these warnings heere you find, reforme your selues in time: Come you that please I say no more, my verses so I ende And craue that you with patience read, that I with paines haue pend. The Lords prayer and creede in verse, with the ten Commandements. Ovr Father which art in persons three, Thy mighty name most hollowed be: Thy kingdome come, done be thy will, As well on earth, as ti's in heauen still: Giue vs this day, our daily bread, (With which our bodies, and soules are fedde:) Forgiue vs our trespasse euery way, As we forgiue them that seeke our decay: And lead vs not into temptation, (But for Christs sake our onely saluation:) Deliuer vs from euils all, That makes vs from thy fauour fall: For kingdom glory and al is thine, For euer and euer (by powr diuine.) The Creede. I beleeue in God the Father of all might, Made heauen and earth, sent darkenes and light: And in Iesus Christ, his sonne and our Lord, Conceiued by the holy Ghost (as scriptures doe record:) Of the virgine Mary this babe was borne, To redeeme man that else had beene forlorne: Suffred vnder Ponce Pilate, crucified and layd in graue, Descended into hell (the elect soules to saue:) Rose the third day, such hope I haue, Was seene aliue here, ascended into heauen than, Sits on Gods right hand a mediatour for man: From thence shall he come, to iudge both quicke and dead, Amyd the cloudes to shew his great Godhead: I beleeue in the infinite holy Ghost, The Catholike Church that honors God most: The communion of Saintes, the forgiuenes of sinnes, The resurrection of the body, where gladnes begins: And in the life euerlasting I trust, To rise at the last day with Iob out of dust. The ten Commandements. God spake these words, the Lord thy God I am, That brought thee home, when thou from Egypt came: I set thee free from bondage euery way, Because thou shalt my holy will obay. Thou shalt not haue any other Gods but me, Thou shalt not serue strange Gods in any degree: Vnto thy selfe, no grauen image make, Like any thing, that is in heauen aboue, Nor earth belowe, thy pleasure so to take: Nor vnderneath the earth, my wrath to mooue: Nor worship them by any kind of meane, For I thy God loues people pure and cleane. Thou shalt not bowe downe to any image wrought, Thy onely Lord a iealous God he is, That plagues the sinnes of people vaine and nought: Yea to the third, and fourth generation, note well this, I visite the Sonnes, and Fathers of them all, That doe hate me, or to idolatry fall: And mercies shewes, to thousands when I will, That loues me, and keepes my commandements still. Thou shalt not take, thy great Gods name in vaine, He gilty is, that will mine honour staine. The sabboth day, looke that thou keepe in feare, Sixe dayes thou hast, to worke, to trudge, and toyle, The seuenth is the Sabboth euery where: Than thou shalt not thy hands with labour foyle, Thou and thy sonne, thy daughter, mayd, and man, That serueth thee, shall doe no labour than: Thy cattell and, the stranger in thy gate, Shall doe no worke, that day early nor late: For in sixe dayes, thy Lord that all hath blest, Made heauen and earth, and in the seuenth did rest. Thou shalt honour, thy father and mother well, (That long aliue, on earth safe thou maist dwell.) Thou shalt not kill, for bloud craues bloud, or vengeance still. Thou shalt not breake, true wedlockes band no way. That knot and staffe, is an honourable stay. Thou shalt not steale, for theeues robe Prince and common weale. Thou shalt not beare, false witnes in any sorte, For that may take, from iustice good report. Thou shalt not wish, thy neighbors house nor wife, His man seruant, nor mayden for thy life, His Oxe, his Asse, nor nothing that is his, Liue with thine owne, as the Lords pleasure is. Verses fitte for euery one to knowe and confesse. To bed I goe from you, God knowes when I shall rise, Nights darknes bids the day adue, till morning glads the skies: The bed presents the graue, in shrowding sheetes we lie, The flattring boulster that we haue, is stuft to please the eye: The blankets are greene grasse, that growes when we are gone, The pillowes with sun beames do passe, for pilgrimes to looke on: The couerlet is care, that clothes vs whilst we liue, The bed staues gentill scourges are, that doth vs warnings giue: The bedstocke and the tycke, and all belongs to bed, Is but vaine pleasures that we like, to please wanton head: Sleepe is of death the shape, to shewe mans substance small, As earth doth for the body gape, so death will haue vs all: Then liue as thou shouldst die, when God shall please to stricke, The graue wherein our bodies lie, and bed are both alike: But sure when sences steepe, from labour toyle and paine, The soule for feare doe wayle and weepe, till man awake againe: Death waites so hard at hand, when soundest sleepe we haue, That all our state doth doubtfull stand, till body be in graue: Man shortens his owne dayes, and so doth weare and wast, By wilfull steps and wicked wayes, that cuts of life in hast: Sleepe is a steppe to death, and time that weares full fast, Life waites no longer on the breath, then bloud and health doth last: When candell waxeth dimme, or neere the socket drawes, Mans goodly glistring glory trimme, declines by kindly cause: Then aged syres like me, small tarrying haue you heere, When faulters shall examind be, they buy their folly deere: In bed that brings no rest, those strange euents we find, When roling vp and downe the brest, sad thoughts lodes heauy mind: The bed breedes dreames and toyes, that idell fancie brings, More vaine than rash are earthly ioyes, that hinders heauenly things: The soundest sleepe of all, in Abrahams bosome is, Heere ioy is mixt with bitter gall, and there gall turnes to blisse: To bed goe in these bounds, as babes in cloutes are layd, To rise with Christ (when trumpet sounds) who hath our ransome paid. FINIS.</field>
+   </doc>
+</add>

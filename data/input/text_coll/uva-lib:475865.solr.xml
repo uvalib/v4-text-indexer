@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Davis, Rebecca Harding</field>
+      <field name="author_facet">Davis, Rebecca Harding</field>
+      <field name="author_sort_facet">davis rebecca harding</field>
+      <field name="author_text">Davis, Rebecca Harding</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1900's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/DavTime.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">1908</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:475865</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">"An Old-Time Love Story</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">"An Old-Time Love Story</field>
+      <field name="title_facet">an old time love story</field>
+      <field name="title_sort_facet">old time love story</field>
+      <field name="title_text">"An Old-Time Love Story</field>
+      <field name="year_display">1908</field>
+      <field name="year_facet">1908</field>
+      <field name="year_multisort_i">1908</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:475865&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:475865&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Davis, Rebecca Harding&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;davis rebecca harding&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;"An Old-Time Love Story&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;an old time love story&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1908&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1908&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Davis, Rebecca Harding&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;"An Old-Time Love Story"&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1908&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1908&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;An Old-Time Love Story&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 13 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Davis, Rebecca Harding. "An Old-Time Love Story." Century Magazine 77 (Dec. 1908): 219-221. Author of Silhouettes of American Life," "Bits of Gossip," etc. ON the shelves of the libraries of our historical societies are many privately printed volumes, the histories of American families whose ancestors settled here in early days. They usually are dull reading enough, but we sometimes find in them fragments of real life more strange and tragic than any fiction. Here are one or two incidents picked out of these dusty unpublished volumes. They are facts, and give us a glimpse of the ideas which our forefathers had of love and honor. After the stories of modern marriages and divorce to which we are accustomed lately, they have to me a queer and welcome flavor, something like an Arab meal of figs and bread and water after a dinner at a Paris cafe. THESE old records show that of all the immigrants who sought homes in this country, none came with higher purposes than the Swedes. "I will open in the wilderness," said Gustavus Adolphus, in his edict, "a home where every man can earn his bread, and worship God as he chooses." His promise was kept after he was gone. The Swedes who first came here were for the most part laborers, though free-born. Some convicts who arrived were sent back again, "lest the souls of the heathen should be corrupted by them." Many of the new-comers lived in caves and well-nigh starved. Their desperate efforts were watched at home with prayers and high hopes. Even the wild little Queen Christina kept her far-off subjects in mind and tried to help them. She built churches for them, some of which are still standing on the Delaware. She sent out gospelers to this mysterious continent on the other side of the globe to rescue the souls of the savages. These holy men were regarded with awe in Sweden as messengers of Christ, going out to martyrdom for Him. One whose name was Snorr, a man from the inland, stayed in Gothenburg several months, waiting for a ship. He was a lean, gray, hungry-looking man, who spoke seldom. People feared to approach him, feeling that his soul dwelt apart with God. When the young queen expressed her wish that the missionaries should marry before they went out to New Sweden, the pastors of the churches in Gothenburg consulted and found a wife for Dr. Snorr in a healthy girl named Aggie Kyn, the niece of a farmer living near the town. She was a plump, fair-skinned, good-tempered young woman who never had given any thought to lovers. When they told her that she was chosen to help the doctor in his holy work, she cried a good deal, being sure that the cannibals would cook and eat her. She begged them at least to wait until her cousin Peter Kalm would come home and give them his opinion. But the case was immediate, and Peter was in Norway, and probably would not be back for months. He had gone to hunt for the eggs of an insect which was killing the grain. Most people thought it was a fool, half-witted thing just fit for Peter to do. He had been thrown out of the classes in Latin and arithmetic when he was a boy, being too dull to learn. He was a man now, and knew nothing of books. Being a rich farmer's son, that mattered little. He used to live in the woods and grub incessantly in the earth, and there was not a plant above ground, nor a worm nor beetle under it, that he did not know as an old friend, with all its habits and ways. Peter himself was a big, clean, blue-eyed man, much liked by everybody; for, if he knew nothing of Latin or arithmetic, he understood and had a joke and kind word for every man or dog in Gothenburg. As for women, the word meant nothing but Aggie to him. They had been nursed together at his mother's breast, they had slept in the same cradle, had thumped each other when they were angry, and kissed to make friends. She knitted his stockings and made his shirts for him, and he chose her a new gown every year at the fair. From dawn until night he was the concern of her thoughts, and she was to him the only woman in the world. It never occurred to him, indeed, that there was any other. He had not told her that he loved her, for that never had occurred to him either. When he came back late that summer, with his eggs in a tin box, Aggie did not run down the road to meet him. At the house they told him that she had married a strange old man and sailed to the other side of the world to teach the cannibals of Christ. Those of us who are women can guess how it had gone with Aggie. She knew that the town looked on her with awe and envy when she was chosen; the lean old man she believed to be a kind of angel; and the unseen, awful majesty of the queen and, back of her, God Himself, were urging her to go. She had gone. After that I find no mention of Peter except a brief note that the degree of professor of natural history was conferred on him by the University of Stockholm. He became the highest authority on insects and moths then in the world, living much in the woods. But apparently he never found out that there was another woman in God's universe. There are, however, more frequent mentions of Dr. Snorr. He landed with his wife at Philadelphia, and at once, like the other immigrants, dug a cave in the hillside for a home. Aggie helped to dig it, being, in fact, stronger than he. The cave was big enough to hold a bed and a table. There were logs for a floor. When the doctor went out to preach to the poor Swedes who were hungry for the word of God, Aggie worked day after day, trying to make the place like a home. But on rainy days the mud would ooze up from the ground, and worms and even snakes crawled out of the walls. The soul of the old man was on fire with the Holy Spirit; but Aggie's heart grew more sodden and cold every day. In a few months all the money which they had brought from Sweden was gone. The people in the settlement were as poor as themselves. Many died of ague, others starved to death. The minister toiled for them night and day; he was always kind to his wife, but his heart was in his work. In the spring, Aggie worked in the field for a month or two to get food for them. Then her baby came, and soon the fever attacked her husband. She took care of them both. The neighbors were sorry for the white-faced, weak woman, but they themselves were sick and starving, and could not help her. When, in the autumn, the ship Key of Calmar made its voyage to Gothenburg, Peter found in the records it brought a black-lined notice, "Died of fever on May 10, Jacob Snorr, Pastor and Doctor." And below, under other black lines, were the words, "Died on May 20, Agnes Snorr, of fever. After that, for a year or two, the people of Gothenburg talked of the holy minister and his wife with awe. They were martyrs; they had given their lives to preach Christ to the heathen; they were with him now in glory. It was a favorite subject when they gathered around the fire. But whenever Peter came in, they talked of other things. It was known that in all this time he never once had spoken Aggie's name. There was a dull suspicion that he blamed the zealous good folk who had sent her out to her death; and when in the second year it was known that the professor was going out to study the plants and insects of New Sweden, every woman knew that his errand was to find the place where she lay. One thing was plain: he had grown lean and silent. He was not the man he had been. Peter's voyage was long and dreary. The passengers were a gay crowd, noisy with their hopes and plans; but all that he cared for in the vast new continent was a grave. The ship came into port late at night. By dawn the leading citizens, led by Governor Bezelius, boarded her to welcome the famous professor, and brought him to shore with great rejoicings. When he was alone with the governor in his house, he said: "I should like to go alone to the grave of Dr. Snorr." "Surely, surely," said Bezelius. "The God's Acre is near by. He lies there, with his child beside him." Peter stood up. He staggered, and tried to speak, but was dumb for a minute. "His wife—lies beside him," he said at length. "Not at all," said the old man, cheerfully; "not at all. Frau Snorr is with us still. There is her hut under that oak-tree— Why—" as his guest, white and trembling, made for the door. "Hola! Is that so? Well, God be praised!" He ran to the window and watched the professor go down the road. Out of the hut came a lean, bent woman, carrying a basket. She did not raise her eyes until the man came up to her and took it out of her hands. "I'll carry your load," he said; "I'll go with you—to the end, Aggie." He did not know what he said. There was a wedding that very day at the governor's house. We find in the records, years later, notices of journeys made through all the settlements by the professor in search of insects and plants. He was always accompanied by his wife. They ventured among the reputed cannibals of Florida to bring back alligators' eggs, and penetrated far into Canada in search of a certain butterfly. After one or two years there are allusions to the advent of a plump, blue-eyed baby. Soon after its appearance I note that Professor Kalm returned home and settled down to collegiate work in Sweden. How many men in every generation have dismounted from Pegasus at middle age and taken to plowing with some dull hack, slaves for the rest of their lives to the needs of their children! Hereafter, history is silent about Kalm and his wife. But Linnaeus, who was his nearest friend, gave his name to the American laurel, and so to-day, as soon as June comes, he being dead, that most beautiful of flowers calls his memory to life in every valley and on every peak of our mountains.</field>
+   </doc>
+</add>

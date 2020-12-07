@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Hayne, Paul Hamilton, 1830-1886</field>
+      <field name="author_facet">Hayne, Paul Hamilton, 1830-1886</field>
+      <field name="author_sort_facet">hayne paul hamilton 1830 1886</field>
+      <field name="author_text">Hayne, Paul Hamilton, 1830-1886</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1860's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ap/uvaGenText/tei/chap_AM0369.xml</field>
+      <field name="date_indexed_facet">201909240350</field>
+      <field name="date_text">1869</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey American Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey American Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:439815</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">[Poems by Hayne in] The Southern Amaranth</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">American poetry -- 19th century</field>
+      <field name="subject_text">American poetry -- 19th century</field>
+      <field name="title_display">[Poems by Hayne in] The Southern Amaranth</field>
+      <field name="title_facet">poems by hayne in the southern amaranth</field>
+      <field name="title_sort_facet">poems by hayne in the southern amaranth</field>
+      <field name="title_text">[Poems by Hayne in] The Southern Amaranth</field>
+      <field name="year_display">1869</field>
+      <field name="year_facet">1869</field>
+      <field name="year_multisort_i">1869</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:439815&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:439815&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Hayne, Paul Hamilton, 1830-1886&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;hayne paul hamilton 1830 1886&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;[Poems by Hayne in] The Southern Amaranth&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;poems by hayne in the southern amaranth&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1869&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1869&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Hayne, Paul Hamilton&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1830&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1886&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;[Poems by Hayne in] The Southern Amaranth&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;George S. Wilcox&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1869&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3865422-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;cham0369&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;American poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;[Poems by Hayne in] The Southern Amaranth&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Alexandria, VA&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Inc.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 20 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only unique items by Hayne included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-AmPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Scenes. Oh, God! if gifted with an angel's flight, And somewhat of an angel's mystic sight, 'Twere ours to pass this bleeding country over What visions would those piercing orbs discover! What horrors branded on the shrinking brain Would burn and burn like purgatorial pain, Thrilling throughout our consciousness to rise In nightmare terror on our sleeping eyes! Nay! though our flight be fancy's—and our view But owns the magic of an insight true, We well may pause and tremble as we see Revived, in all their shame and infamy, The cruel orgies of that later day Of Rome, which knew the Borgia's cruel sway Ere Rome sunk to perdition—! But with these Are mingled tenderer scenes and images, Mournful as any Shakspeare pitying wrought On the dim canvas of pathetic thought. Farewells, whereat no scorching tears are shed, Mute claspings of the brave, untimely dead, Calm hero bearings, though the heart be broke And the soul withered at the lightning's stroke Of supreme grief! unconscious children playing Despite a father's curse, a mother's praying; Fair maidens, smiling on despair, to make A lover's death-bed softer for love's sake, And all home's fragrant ministries that bring Full blosoms and odors (like a sudden spring Born in mid winter) to the sufferer's room, Wafting both light and sweetness through the gloom Yet o'er it all, fierce tumult and false calm, Unseen, but sovereign, rules the dread “I Am!” His prescience guides the complex threads of Fate, His mercy will not leave us desolate, For in our blood, our tears, and pain and sorrow, Rest the rich germs of some sublime to-morrow! Southern Illustrated News. The Southern Lyre. It was not possible, in accordance with the scope and design of this poem, to introduce the many gifted female poets of the South. Such an introduction would have extended the piece to an unreasonable length. No longer shall the darksome cloud Of Northern Hate and Envy shroud The radiance of our Poets proud. They come, a glorious band, to claim The guerdon of their poet-fame— Their brows with heavenly light aflame! That Mystic Bard whose “Raven” broods, Broods sternly, o'er his solemn moods, His weird, funereal solitudes;— Whose genius lives in realms of Blight, Yet oft towards the Infinite Essays to rise on wings, of might:— Who sought the nether gulfs profound, Deep as Thought's daring plummet's sound— A lurid spirit, wildly crowned With bays of supernatural bloom— Yet, flashing from his wizard tomb An Angel's glory through the gloom! Allston! o'er whose illustrious way Two Muses shed their separate ray, Each struggling for the regal sway:— Painting and Poesy!—he won From both, ere yet his race was run, The plaudit of a deep “well done!” Here Pinckney! with his lyric glow, His delicate nature's happy flow Of fancies, whiter than the snow, But warm as sunshine; lilies sweet, And roses, in a wreath complete, Above his genial forehead meet! And He, whose rugged presence shows A soul whereon the tempest blows, Have left at last a stern repose;— Whose songs, with weightiest meanings fraught, And trenchant measures, strongly wrought In strains of olden English thought, Please not our fancy's lighter hour, But fair with health, and rife with power, Rain round us in a fruitful shower! “Poet of Woodlands!” men will see More clearly what they owned in Thee When thou, oh Bard! hast ceased to be! And Wilde! his polished numbers glide Serenely; on that roseate tide, A hundred charmed Fancies ride, Like golden shallops o'er a stream Of fairy-land; how gently seem Affection's moon-like rays to gleam Across his manly brow, who sung “My Father,” with a trembling tongue, And tears from heart-deep memories wrung! And Pike! whose Muse—a sylvan maid— Thro' all the woodland haunts hath strayed, Fair Dian of the Western glade! And Grayson! with his vein clear-hued, Chaste, purely classic, and imbued With those rare graces that bedewed The style of Goldsmith!—his mild brow, Whereon such temperate lustres glow, Seems shrinking from the laurel bough. We fain would place— ???—Crafts! the gay, Glad genius, in whose sparkling lay His soul burst outward, like a day Of earliest spring-time. Meek! who dwells Far in the misty forest dells And, at the somewhat turbid wells Of Indian lore, his fancy slakes With Simons, whose fresh measure wakes Boldest by tropic streams and brakes! But lo! our younger Minstrels rise, High-browed, with kindling mien and eyes, Bathed in the bliss of Earth and Skies! Not dead to us, but fair as when He charmed the listening ears of men With music from his mountain glen; Soft threnodies from soul and brain Pierced by an inward thorn of pain— Most touching in his “Florence Vane,” Cooke and his Poet-Brother pass, Musing amid the autumn grass, Of rich Virginia woods; alas, That they—twin Minstrels, bold and true— Have given the waiting world so few Of those rare songs, mixed fire and dew! But stay! what subtle notes are these, Borne on the fragrant Southern breeze From out the Palms?—strange witcheries Of purest Art to Genius wed, Float sweetly, grandly, overhead; Most willingly our souls are led Thro' paths of fancy, and delight, Whereon the sunshine streaming bright, Seems mingled tenderness and might! Oh, golden lays! no common lyre Outpours those strains of love or ire, All instinct with the sacred fire! The “Call to Arms,” in thrilling tone, Rings like a silver trumpet blown, For Knights to guard their Sovereign's Throne! And “Carolina,” like a wail, First strikes the dubious spirit pale— Then, as a keen sword smiting mail Of proof, extorts an answer clear, 'Twere well the sullen Foe should hear, With echoings of a stern “Beware!” Here, Randall! with his harp that flings Fair, spray-like notes from out its strings, Blended with gentlest murmurings Of love, both sensuous and divine, Gleams with his spirit pure and fine, Like star-light thro' the Poet-line! But, fired at need by impulse high, His tender Muse can cease to sigh, Soaring in Patriot ecstasy! There, Thompson! with his scholar's mien, His front so graceful and serene, Walks calmly o'er the fairy scene; He owns—whate'er his Muse's part— Ease, learning, tenderness and art— Bright fusion of the mind and heart! And Hope! whose complex measure teems, With gorgeous images, and dreams, Dreamt by the haunted sunset streams! With Requier! on whose presence shines A splendor from Thought's inner shrines, The eye of kindred taste divines! And Flash! the ardent and the bold, Whose youthful Muse is never cold, Where'er her purpling wings unfold. But hark! what stirring strain is born, Clear as a warrior's bugle horn, Resounding thro' the hills at morn, To rouse his vassals from their sleep? That burning lyric, grand and deep, Comes from the Foeman's “donjon keep,” In black Fort Warren! Freemen start To hear that call, and camp and mart Greet it with fiery leaps of heart! And now, the Poet-throng from view Slowly recedes; their music true Melts gently up the Heavenly Blue!— But not in empty air to die, Poet and Song have passed us by, With all their varied harmony! Still must we make our music heard; These genuine numbers, long deferred Full audience, shall not leave unstirred, In callous scorn, the hearts of those Who, pondering in a cold repose, Have watched our strife with ruffian foes! The storm must break—the spring-time come! No longer drowned by trump or drum, Truth's voice shall waken Christendom! Then, with the war-cloud rolled afar, And all undimmed our natal star, Mankind SHALL know us—AS WE ARE!— A people, liberal, noble, brave, And courteous to the feeblest slave, Trembling at fourscore o'er his grave! Unmoved 'mid battle's wild alarms— Supreme in will—sublime in arms— Yet cultured, open to the charms Of Beauty, from whose genial Lyre Hath poured full oft a strain of fire, To rise in future ages higher, Unshackled by the Northman's rule, Freed from the Bigot's canting school, The maxims of the knave and fool, The genius of this youthful Land, Like some rare blossom will expand, Upflowering to the Fair and Grand! Then Art will build her stately Fane, And Song resound from Height to Plain, Re-echoing to the Heights again! Till, in the ripened time, shall rise, With deep, divinely-thoughtful eyes, And brow whereon the Destinies Placed even at birth, a shadowy crown, The Poet whose august renown Will smite the haughtiest natures down To homage!—from whose “golden mouth,” (Fit well-spring for a World in drouth,) Outspeaks the Shakspeare of the South! Sonnet. ON THE PRESENT CONDITION OF THE SOUTH. She lies before thee a pale, pulseless Land; No more her great eyes burn with hopeful lights; About her worn and helmless droop her Knights, A shattered weapon in each dead right hand: The trumpets that aroused that warrior band To pluck fresh honor from an hundred fights, Seem distant now as echoes up the heights Of fabulous Legend borne to realms unscanned; Yet fearest thou this Queen Titan from her rest May start whilst thou art slumbering?—sound again Her ringing battle-cry o'er mount and plain, With Conquest blazing on her fiery crest? Aye! SUCH thy dread! hence to all Earth's disdain, Thy ruthless sword still gores her prostrate breast!</field>
+   </doc>
+</add>

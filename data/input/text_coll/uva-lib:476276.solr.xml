@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Henry Oyen</field>
+      <field name="author_facet">Henry Oyen</field>
+      <field name="author_sort_facet">henry oyen</field>
+      <field name="author_text">Henry Oyen</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1900's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/OyeManw.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">July 1902</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476276</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Man Who Would Not Be Saved</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">The Man Who Would Not Be Saved</field>
+      <field name="title_facet">man who would not be saved</field>
+      <field name="title_sort_facet">man who would not be saved</field>
+      <field name="title_text">The Man Who Would Not Be Saved</field>
+      <field name="year_display">July 1902</field>
+      <field name="year_facet">1902-07</field>
+      <field name="year_multisort_i">1902</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476276&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476276&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Henry Oyen&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;henry oyen&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Man Who Would Not Be Saved&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;man who would not be saved&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;July 1902&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1902-07&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Henry Oyen&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Man Who Would Not Be Saved&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Volume 40&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1902&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;San Francisco&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;California Pub. Co.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;July 1902&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;24-26.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Man Who Would Not Be Saved&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 15 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">The Man Who Would Not Be Saved BY HENRY OYEN AN almost dismantled, forsaken, adobe house stood alone near the edge of the sand-plain in the midst of a world of sand, sun and mountains. To the east a range of squalid black rocks rose into a precipitous mountain range, striving with their dark and foreboding presence to subdue the exuberant gladness of the brilliant sunshine. To the west the monotonous yellow level stretched out like a tawny carpet, to where a slight rise in the land caused it to meet the sky as sharp and distinct as a placid lake meets the sandy beach. On the side of the shack nearest to the mountain side stood a new freshly-painted army ambulance; a note of modernity interluded in a world-old symphony of sand, rocks, and atmosphere. Crosswise on the tongue of the vehicle, limp as a half-filled grain bag, lay the form of a man clad in the stripeless trousers of a private soldier, and near him, in a tangle of gear and harness, lay a pair of the mule team that he had but recently driven. At first glance it was easily discernible that man and mules were but recently dead from gunshot wounds, and here and there a bullet had torn its way through the sides of the ambulance, ripping off splinters and exposing the white wood beneath the dark paint. On every hand were unmistakable signs of strife. Within the adobe house Second Lieutenant Horton, recently Cadet Horton of West Point, now stationed at Fort Pratt, was hurriedly making preparations to resist the band of Apaches who swarmed amongst the black rocks and took occasional pot shots at the house, until the officers at Fort Pratt would become alarmed at the non-appearance of the ambulance, and send a force over the trail and rescue him and the girl who was with him. The devoted Mescaleros who squatted behind the rocks were in no haste to rush in and finish the game which they had so securely trapped. They had two mute witnesses up there among the rocks, two who were just as dead as the private who lay across the ambulance tongue, to testify to the marksmanship of the man in the house, and the rest were in no frame of mind to risk their lives by exposing themselves to his fire. There was much time. There was but one man in the house—and a woman. Long before the troop had arrived from Fort Pratt they could have easily disposed of the man, looted the ambulance, and scattered out over their almost untraceable trails among the mountains. And the woman? Well, Suilateau, their chief, would probably accept her as his share of the loot and add her to his already generous list of wives. So they crouched closely down behind their shelters, and leisurely satisfied their instincts for long-range shooting. Horton, quite well aware that the trait of self-preservation—the terrible dislike to be the "first through the breach"—was exceptionally well-developed in the race to which those among the rocks belonged, hoping that by giving them an exhibition of his shooting he might cause them to delay their attack at close quarters until the dark afforded them a cloak, and by that time—well, if the men from Fort Pratt had not put in appearance before then, there would be a vacancy in the line of Second Lieutenants. So Horton carefully directed the girl to a corner where the walls appeared strongest and hastily began to cut loopholes, and organized himself into a garrison of one to fight a score. The bright sunlight which caused every speck on the mountain side to stand out wonderfully vivid, materially aided him, and after he had found the correct range he managed by carefully shooting at every exposed redskin to force a very wholesome fear into the soul of the enemy. The girl, entirely inefficient to render any aid, sat silently watching with a wonderful kind of interest the boy who was doing all that man could do to save his life and her own. Occasionally a bullet bored through the mud walls and sent the dry mud flying in their faces, but the range was great and the walls stopped the majority of the bullets. The hours seemed to come and go, to them; a dozen times Horton had momentarily ceased his fire to listen for the welcome thud of hoofs, and as often was disappointed. It was in reality but an hour before he suddenly discovered that his supply of rifle ammunition had been expended, and that the six charges in his pistol were his only remaining articles of defense. The girl saw this as he discarded the rifle and drew the pistol, and felt her heart sink as she realized the situation. She saw him as he gazed searchingly out over the plain in an effort to discern a bit of friendly blue, and saw the despair which no man can hope to conceal, come into his face and snuff out the bit of hope and dignity brought there by the joy of well fought combat. Horton carefully examined each precious charge in the pistol, striving to force himself to think calmly; and all the time an unknown voice repeatedly asserted that further resistance was entirely useless. Still, possessed by that wonderful Anglo-Saxon courage which grows more and more rebelliously firm as the fight goes more and more to the enemy, he quietly informed the girl that he had only begun to fight, and by his demeanor attempted to live the lie. Instinct, however, told the girl that his cheerfulness was entirely assumed, but by neither word nor look did she betray this knowledge. Silent, not voicing vain regrets, nor weak vindictives, they stood, living for the moments that reeled off with fearful regularity, each fraught with the question of life or death. Occasionally Horton, from force of habit, glanced at his timepiece, and each time he slightly shook his head. The wary Apaches, noting that the white man's terrible rifle was stilled, had stolen down to the last fringe of rocks that offered them protection, and were making visible preparations for a rush. Still, they knew that the blue-shirted cavalryman had an uncomfortable habit of shooting terribly fast and accurate at short range, with the pistol, and so they still hesitated. Horton closely watching their every move and carefully weighing every circumstance, reluctantly decided that the time had come to make the girl aware of the hopelessness of their situation. "It's all up with us now, I'm afraid, Miss Jordan," he said quietly. "They're getting ready for a rush out there, I see, and when they try that, I'm afraid I won't be able to hold them off. I'll only have time to fire probably a couple of shots, then they'll—" "I know," she said quickly, as if the privilege of speech was a relief after the long pulseless wait. "We'll be killed. Well, you'll find that I'm not afraid to die." The boy became visibly embarrassed. "'Tisn't that," he said, drooping his eyes to the floor. "They won't kill you, you know, Miss Jordan; 'tisn't their style with white women. They'll—they'll let you live; you understand, don't you, Miss Jordan?" For a moment she did not comprehend, then when the revelation dawned upon her all her composure and self-possession gave way. "My God, they don't really do that, do they?" she cried. The boy nodded. "Oh, it can't be," she said, clasping her hands as the fearfulness of the boy's disclosures grew upon her. "I'd sooner die a hundred times." She stopped suddenly, for her eyes, roaming furtively, had fallen upon the pistol in the boy's hand, the only lethal weapon remaining to them. Her gaze rose steadily to his frank eyes, and for a moment they gazed at each other, each fully cognizant of the other's thoughts. The boy grew sick at heart, for there was a world of pleading in the girl's eyes. "You will, won't you?" she said abruptly. "You'll surely spare me the fate of falling into their hands alive." It was a weak little plea, a plea which told of all hope for life departed, and only a wish remaining for decent death. Horton walked to a loop-hole and scanned the plain in an effort to find one clue upon which to hang a single thread of hope. But nothing new appeared to disturb the never-ending monotony of the landscape. Then the hope died in his breast. "It shall be as you wish, Miss Jordan," he said simply. "Thank you," she said. He stooped and reverently placed her hand to his lips. He would have also spoken, for they had come to be very close to each other in this short moment of awful trial, but an unknown odor of sanctity held him in reserve. He held her hand for a moment, then dropped it and turned to the door. It was a pathetically heroic tableau they presented as they stood there, subdued by the calmness of despair, awaiting the end. The afternoon sun came slantingly in through the rude windows and cast strange, golden lights and dark shadows upon them. Outside the sun shone on the yellow sand and the black rocks as it had shone from the beginning, and a breath of sun laden breeze coming into the room mocked them with the song that the world was still good to live in. The girl stood with clasped hands, gazing straight towards from where the fatal bullet would come, perfectly resigned and fearless to meet her God; the boy with bowed head, subdued by the duty imposed upon him, stood facing the door, idly rolling the cylinder of the revolver between his thumb and finger, waiting, waiting. When the first naked braves bounded up to the door with rifles held at ready, he fired twice, quickly, at the foremost, then as more came forward to take the fallen's places, he turned and skillfully shot her through the heart. When he turned to meet his fate Horton feared for a moment that his senses had left him. The foremost Apache fell a wriggling heap in the doorway as if struck down by a swift and powerful hand, and almost simultaneously one more fell likewise. It was some seconds afterwards that the rifle reports coming up from the mountain pass where Lieutenant Thompson and his troop— traveling towards Fort Pratt—were firing, dismounted, told Horton that he was saved. For a moment the new lease on life fairly exhilarated him. Then his eyes fell upon the form of the girl, as she, a white, still heap upon the mud floor, lay beside him. After all, Thompson and his men were too late. He was not to be saved. The girl was dead, and he had no right— The first trooper to enter was a lightly-mounted private, and he found them lying almost side by side. Lieutenant Thompson, when he saw them, remarked that there would be two more scores for Horton's company to even up when it came their day to reckon face to face with Suilateau's Mescaleros.</field>
+   </doc>
+</add>

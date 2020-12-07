@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">How, William Walsham, 1823-1897</field>
+      <field name="author_facet">How, William Walsham, 1823-1897</field>
+      <field name="author_sort_facet">how william walsham 1823 1897</field>
+      <field name="author_text">How, William Walsham, 1823-1897</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_3.2101.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">[1886]</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:467229</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Was Lost and is Found ; A Tale of the London Mission of 1874. By the Right Rev. W. Walsham How</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">Was Lost and is Found ; A Tale of the London Mission of 1874. By the Right Rev. W. Walsham How</field>
+      <field name="title_facet">was lost and is found</field>
+      <field name="title_sort_facet">was lost and is found</field>
+      <field name="title_text">Was Lost and is Found ; A Tale of the London Mission of 1874. By the Right Rev. W. Walsham How</field>
+      <field name="year_display">[1886]</field>
+      <field name="year_facet">1886</field>
+      <field name="year_multisort_i">1886</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:467229&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:467229&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;How, William Walsham, 1823-1897&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;how william walsham 1823 1897&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Was Lost and is Found ; A Tale of the London Mission of 1874. By the Right Rev. W. Walsham How&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;was lost and is found&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;[1886]&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1886&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;How, William Walsham&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1823&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1897&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Was Lost and is Found&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Tale of the London Mission of 1874. By the Right Rev. W. Walsham How&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Wells Gardner, Darton, &amp;amp; Co.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;[1886]&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp1845&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;29 p.; ill.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Was Lost and is Found&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Tale of the London Mission of 1874. By the Right Rev. W. Walsham How&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 13 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">“Was Lost and is Found.” “Come in! Come in!” the lady said—the door stood open wide— The church was bright, and young and old were ranging side by side; The lady's look was soft and grave, her voice was low and sweet; The girl half stopped and turned—and then went faster down the street. One moment, and a gentle hand upon her arm was pressed: “Oh, won't you stay?” the kind voice said; “Come in, come in and rest; “The missioner will preach to-night, and all the Church is free: You won't refuse me now, my child; come in, and sit by me.” “No, no,” she said, yet stopped and looked (it was not hard to trace The conflict passing like a cloud across that fair young face),— Then hastily, as though she feared her heart at last might fail, Passed in and sat beside the door, so weary, sad, and pale. The preacher spoke of God's great love, and how the Saviour blest Called weary souls to come to Him that He might give them rest. He spoke no grand or learned words, he used no studied art, He simply spoke as one who tried to reach his brother's heart. It was the old old story, that can never pall or tire When the lips with grace are fervent and the heart with love on fire. And the lady marked how, one by one, the tear-drops grew and fell, While eagerly those wistful eyes were fixed as by a spell. And then a hymn rose all around—no cultured choir's display, For every voice and every heart seemed moved to sing that day; And faster, faster, rained the tears, for with the well-known air Came back her childhood's happy days, her childhood's home so fair. She sees her father's thin white locks, her mother's loving eyes— This night she cannot put aside the memory, if she tries: She sees—she cannot help but see—the little sister sweet; She hears upon the broad old stairs the little pattering feet; They laid her in the old churchyard, beneath the sombre yew:— And “Oh! my God!” the poor girl sobs, “that I were laid there too!” And now the preacher stands and waits, and bids who will to stay, For he is yearning for their souls, and he has more to say. The lady still is kneeling there, but kneeling all alone; She lifts her head—alas! the girl has left the church and gone. She had so yearned to take her hand and help her, and she sighs To think of that poor suffering face, those eager tearful eyes. The pleading voice has ceased, yet still a scattered few are there, As one by one the missioner kneels by their side in prayer; And one by one they pass away, with hearts that throb to feel They have been very near to One whose touch hath power to heal. Oh! had that poor child only stayed and told her tale of grief, The lady thinks, perchance she too had found the blest relief! And now from out the silent church she with a friend departs; Their words are few, but fewest words speak best from fullest hearts. They part at last; and there, behold! half eager and half shy, The girl with those poor tear-stained cheeks, that sad beseeching eye. “Oh! it was long to wait,” she said, “I thought it ne'er would end; And then I could not speak to you, for you were with your friend; Oh, help me, help me, if you can!” The lady gently smiled— “I will,” she said; “but God is love, and He will help His child.” “Oh, no! oh, no!” the poor girl cried, despair in every tone, “You cannot know how far away from His true fold I've gone. I'm not as one who never knew, time was I used to pray, “I tried to do the right, but oh, I've sinned His love away! Five years have passed since I wrote home, and now I cannot tell Whether my parents are alive; they don't know where I dwell. And all that time I never once have crossed the church's door Until this night; and now, O God! there's hope for me no more!” “Nay, nay, that can't be true, my child” (and oh! like gentle rain The words fell on that withered heart, and softened it again); “Why did God let me come to you? Why did He let you stay, “Unless He had some word of hope to speak to you to-day? Oh, offer Him this very night that worthiest sacrifice— The broken and the contrite heart, which He will not despise: We both have need of pardoning grace; yes, sister, we will lay Our sin-stained souls before His feet, and for His mercy pray: And promise me one thing—this night, before aught else you do, That you will to your mother write, and ask her pardon too.” “I will,” she sobbed; and then her hand the lady kindly took, And bade her read the blessed words of peace in God's own Book “I have no Bible now,” she said: the lady sadly smiled; “That must not be,” she said, “take mine; and now good-night, my child.” Next morning at a hospital the lady needs must call: Ah! little dreamt she of the tale that on her ears would fall! Why runs the nurse to meet her there ere she can speak a word? “Oh, is it not most strange and sad! Nay, surely you have heard? A girl has been brought in to-day, but only just to die; By some rough driver in the street struck down and left to lie. We know her not, but you may know; for strange as it may sound, A Bible with your name in it was all the clue we found.” “Oh, let me see,” the lady said, “I think I know too well— Yes, it is she—but tell me, nurse, whate'er there is to tell.” “Not much,” she said, “but once she spoke, before she passed away; We thought she gasped, ‘Thank God, thank God, this was not yesterday!’” Next day there stood before the gate, with hearts too full to speak, A father with his thin white locks, a mother grave and meek. The kind folk at the lodging-house had guessed their errand well, And sent them on, but had not heart the thing they knew to tell. The lady sees them standing there; she knows who it must be; No need to ask them who they are, or whom they come to see. She runs to meet them—“Yes,” she cries, “I know what you would say; Your child is here; my poor, poor friends, it happened yesterday. “Come in, come in: God comfort you, and make you firm and brave, For oh! your child has gone to Him, and found Him strong to save.” And then she took them by the hand, like little children weak; They went with her, scarce knowing aught, too stunned to think or speak. And then she told them all the tale, in loving words and slow:— Ah me! they came to find their child—and they have found her so! She lay there white and beautiful, no trace of conflict now, No lines that told of sin and shame upon that marble brow: The aged pair they knelt beside the bed where she was laid, And “Not our will but Thine be done!” amid their sobs they prayed. What though the flower of childhood's grace no more be blooming there, His snow-white lily Death has laid upon that form so fair. “Blest are the pure in heart”—so once the Friend of sinners cried:— Yet not unblest, methinks, are those whom He has purified!</field>
+   </doc>
+</add>

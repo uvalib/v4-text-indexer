@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Dodsley, Robert, 1703-1764</field>
+      <field name="author_facet">Dodsley, Robert, 1703-1764</field>
+      <field name="author_sort_facet">dodsley robert 1703 1764</field>
+      <field name="author_text">Dodsley, Robert, 1703-1764</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1740's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V2.0229.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1745</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459947</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Rex et Pontifex</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 18th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 18th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Rex et Pontifex</field>
+      <field name="title_facet">rex et pontifex</field>
+      <field name="title_sort_facet">rex et pontifex</field>
+      <field name="title_text">Rex et Pontifex</field>
+      <field name="year_display">1745</field>
+      <field name="year_facet">1745</field>
+      <field name="year_multisort_i">1745</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459947&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459947&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Dodsley, Robert, 1703-1764&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;dodsley robert 1703 1764&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Rex et Pontifex&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;rex et pontifex&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1745&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1745&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Dodsley, Robert&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1703&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1764&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Rex et Pontifex&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for M. Cooper [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1745&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872283-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv20229&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Rex et Pontifex&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 17 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Rex et Pontifex.</field>
+      <field name="desc_meta_file_display">Genre: Pantomime.</field>
+      <field name="desc_meta_file_display">Date first published: 1745.</field>
+      <field name="desc_meta_file_display">Date first performed: Unknown.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">REX ET PONTIFEX:</field>
+      <field name="fulltext">PERSONS. Pagan, Jewish, Roman, and Mahometan Priests properly habited. Tyranny, in a Coat of Mail, a Gothic Crown on his Head, and Chains in his Hand. Imposture, a Phantom dress'd up by the Priests with a Cloak, Mask, &amp;c. Truth, a beautiful Woman drest in White, with great Plainness and Simplicity. Liberty, drest in her Hair, with a flowing Robe, a Wand, &amp;c. Zeal, has a Fool's Cap on his Head painted with Flames, a Book in his Hand which he seems to read now and then, casting up his Eyes to Heaven, and beating his Breast with great Violence. Persecution has an Axe in one Hand and a lighted Fireband in the other. Ambition is magnificently drest with Stars, Ribbons, Coronets and other Ensigns of Civil Honour, eying them often. Corruption has a large Bag of Money in one Hand, and a Serpent in the other. Philosophers in Grecian Habits. The Arts and the Muses from Antiquity.</field>
+      <field name="fulltext">The Curtain rises to solemn Musick, but something harsh and dissonant, and discovers a magnificent Temple; where a Cabal of Egyptian Priests, Jewish Rabbins, Mahometan Mufti's, a Pope, a Cardinal, Jesuit, and Capuchin seem in close Combination, and are all earnestly employed in dressing up the Figure of Imposture. After a while they-seem by their whispering, nodding, winking and sneering amongst themselves, to have adjusted Matters very much to their own Satisfaction. A large Cloak is thrown over the Shoulders of the Figure to hide its Deformities; a Mask of a fine compos'd grave Air is clapt upon its ugly Visage; and several others, curiously delineated for all Occasions, are cunningly disposed of beneath the Cloak: which done, the Priests withdraw. Then enters a Band of ancient Philosophers, properly habited; who, examining the Figure of Imposture with great Care, seem to debate amongst themselves with Calmness and Moderation; and at length, having pull'd off its Cloak and Mask, and discover'd and expos'd its strange Features and monstrous Deformities, they are just upon the point of demolishing the Figure, when the Priests re-enter, leading in Tyranny, with all the Ensigns and Officers of Civil Power attending him: by the Assistance of whom, the Philosophers are driven off the Stage, and Imposture is again invested with its Cloak and Mask. The Priests, making Obeisance to the Civil Power, seem to beg the Continuance of his Protection, and the chief of them addresses himself to Tyranny in the following Manner. RECITATIVE. [Priest.] Thou, Regal Power! Vicegerent of the Skies! Supreme on Earth! and Substitute of Heav'n! O stretch thy powerful Arm, protect and save Its sacred Ministers! nor let bold Man, With his presumptuous Reason, dare to mock Our holy Myst'ries, or dispute our Rights. AIR. Kings the Rights of Priests defending, More securely hold their own; Priests to Kings Assistance lending, Merit Succour from the Throne: Then give Us supreme Dominion Over Conscience and the Soul; You shall Rule (by our Opinion) Lives and Goods without controul. RECITATIVE. Tyranny. Most Reverend Fathers! Delegates to Man From Heaven's high King! Ambassadors divine! Be it as you have said. Teach you Mankind That Power unlimited belongs to Kings, That Subjects have no Rights but to obey; Then shall the Arm of Civil Power protect Your highest Claims of Reverence; and enforce Assent to every Tenet you shall judge Conducive to establish Priestly Rule O'er Mind and Conscience. AIR. Thus in Fetters doubly binding; Souls enslaving, Bodies grinding, We the stupid Herd shall sway; And, supreme in Wealth and Grandeur, Silence every bold Withstander That shall dare to disobey. Priest. But in this grand Affair, this high Attempt, To blind, enslave and fleece a bubbled World; What Instruments, what Tools shall we employ? Tyranny. Ambition and Corruption be my Tools. Priest. Be mine blind Zeal and furious Persecution. Enter to the Priests, at one Door, Zeal and Persecution; and to the Civil Power, at the other, Ambition and Corruption, properly distinguish'd. Tyranny. Go forth, ye Instruments of our high Aims, And in our Cause possess the Sons of Men. Cramp and intimidate th'enquiring Mind; With base Affections taint the human Heart; And tame the generous Spirit that breathes in Man, And prompts him to resist and brave Oppression: So shall that head-strong Beast, the Multitude, Yield to the Bit, and crouch beneath its Burthen. Zeal, leading Persecution, goes out one way; and Corruption, leading Ambition, the other. Then enter the Muses and the Liberal Arts, with proper Habits and Ensigns, who seem to beg Protection of the Priests and the Civil Power; but being commanded to fall down and worship the Figure of Imposture, they refuse; upon which they are immediately chain'd and fetter'd, and cast down bound before it. And now the Civil and Ecclesiastical Powers seem perfectly secure; they shake Hands, they embrace, and after a formal solemn Dance, in which they alternately bow and reverence each other, they are walking off the Stage, when they meet with the Goddess of Liberty, who leads in the Philosophers, walks boldly up to the Figure of Imposture, and striking it with her Wand, speaks as follows. [Liberty.] Hence, Delusion, hence, away; Nor in Britain dare to stay: To some foreign Land retire, Where dull Ign'rance may admire: Here, amongst the Brave and Free, Truth shall rise, and dwell with Me. Then waving her Wand, Imposture immediately sinks; and the Goddess of Truth, array'd in Robes of White, yet drest with the greatest Plainness and Simplicity, arises in its Room, whom Liberty addresses in the following AIR. Fairest Daughter of the Skies, Hither turn thy radiant Eyes, Thou hast Lovers here shall trace, Every Charm and every Grace. Sons of Wisdom, who admire, Sons of Freedom, all on Fire; Hither, Goddess, hither turn; Britons for thy Beauties burn. And now the Arts and Muses seem rejoic'd, they rise gradually upon their Feet, their Chains are taken off by Liberty, who leads up a Dance, in which the Philosophers join with the Muses, all of them in the Dance making frequent Obeisance to the Goddess of Truth. During all this, the Powers of Tyranny and Priestcraft are in great Dread and Confusion. Tyranny threatens with his Sword, and the Priest wields a Thunderbolt; but ineffectual and in vain: for at the end of the Dance, Truth and Liberty advancing fearless to their Opposites, they drop their Weapons and submit. After which, Liberty, addressing herself to them, speaks as follows. O why, ye Powers that rule the Race of Man, And you that should instruct him to be wife And good; why will ye join, O why, in League Unnatural, to blind and to enslave? When to reform his Morals, and protect His native Rights, are your sole Provinces, From which perform'd, your Safety, Glory, all That make Kings great, and Priests rever'd, arise. AIR. He whose Heart with social Fire Burns to do what Good he can; Sure, by the celestial Sire, Will be deem'd the worthiest Man: So the Patriot warmly prest In his Country's sacred Cause, Of all Subjects is the best, Best deserves his King's applause. Truth. Princes, give Ear; give Ear, ye reverend Seers; And let the Words of Truth make deep Impression, Man was not made for Kings, but Kings for Man. And that proud Tyrant who invades the Rights His Hand was scepter'd to defend, becomes A Sovereign Rebel. As that Priest, who for The Oracles of Heaven gives human Creeds, And, and wrapt in Mysteries, sneering Moral Worth, Delights to puzzle and confound the Mind, Which 'tis his sacred Office to enlighten, Falls from Heav'n's Minister to that of Hell; And, from Man's Teacher under God, becomes, Under the Devil, Deputy Seducer. AIR. Yet how sacred! how divine! Kings and Priests have Power to be! At the Throne, or at the Shrine, Man might bow, and still be free: Let the Prelate Virtue bring, Let the Prince with Goodness sway; To the Priest, and to the King, All will due Obedience pay. CHORUS. Power and Goodness, when they join, Make Kings sacred, Priests divine. FINIS.</field>
+   </doc>
+</add>

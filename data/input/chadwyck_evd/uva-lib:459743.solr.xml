@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Clarendon Press</field>
+      <field name="author_facet">Clarendon Press</field>
+      <field name="author_sort_facet">clarendon press</field>
+      <field name="author_text">Clarendon Press</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.1114.xml</field>
+      <field name="date_indexed_facet">201909240355</field>
+      <field name="date_text">1885</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459743</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Draperes ; XLV. The Death of Mary</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Draperes ; XLV. The Death of Mary</field>
+      <field name="title_facet">draperes</field>
+      <field name="title_sort_facet">draperes</field>
+      <field name="title_text">The Draperes ; XLV. The Death of Mary</field>
+      <field name="year_display">1885</field>
+      <field name="year_facet">1885</field>
+      <field name="year_multisort_i">1885</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459743&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459743&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Draperes ; XLV. The Death of Mary&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;draperes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1885&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1885&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Draperes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;XLV. The Death of Mary&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Oxford&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Clarendon Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1885&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873571-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv11114&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Draperes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;XLV. The Death of Mary&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 26 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and editorial matter including introduction and glossary omitted.&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Source texts incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The draperes.</field>
+      <field name="desc_meta_file_display">Genre: English mystery and miracle plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1475 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1352–1376 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">XLV. THE DRAPERES. The Death of Mary. Square brackets represent sections of text unclear or absent in the original and supplied by the current editor</field>
+      <field name="fulltext">[PERSONS OF THE PLAY. Gabriell. Maria. Johannes. Petrus. Jesus. Vnus Diabolus. Jacobus. Andreas. Prima et secunda Ancilla. Primus et secundus Judaeus. 1, 2, 3, 4 Angelus.]</field>
+      <field name="fulltext">[Scene I] Mary's dwelling-place. 1. Gab. HAYLE! myghfull Marie, Godis modir so mylde! Hayle! be þou roote of all reste, hayle be þou ryall, Hayle! floure and frewte no?t fadid nor filyd, Haile! salue to all synnefull; nowe saie þe I schall, Thy sone to þi selue me has sente, His sande, and sothly he saies, No lenger þan þer thre dayes Here lefte þe þis liffe þat is lente. 2. And þerfore he biddis þe loke þat þou blithe be, For to þat bigly blisse þat berde will þe bring, There to sitte with hym-selue, all solas to see, And to be crowned for his quene and he hym-selue kyng. In mirthe þat euere schall be newe, He sendis to þe worþely, i-wis, Þis palme oute of Paradise, In tokenyng þat it schall be trewe. 3. Mar. I thanke my sone semely of all his sandis sere, Vn-to hym lastandly be ay louyng, Þat me þus worþely wolde menske on þis manere, And to his bigly blisse my bones for to bringe. But gode sir, neuenes me þi name? Gab. Gabriell, þat baynely ganne bringe Þe boodworde of his bering, For sothe, lady, I ame þe same. 4. Mar. Nowe Gabriell, þat sothly is fro my sone sent, I thanke þe þer tythyngis þou tellis me vntill, And loued be þat lorde of the lane þat has me lente, And dere sone, I beseke þe, Grete God, þou graunte me þi grace, Thyne appostelis to haue in þis place, Þat þei at my bering may be. 5. Gab. Nowe foode faireste of face, most faithfull and fre, Þyne askyng þi sone has graunte of his grace; And saies all same in sight ?e schall see All his appostelis appere in þis place, To wirke all þi will at þi wending, And sone schall þi peynes be paste, And þou to be in liffe þat schall laste Euermore with-outen any ending. [Enter John.] 6. Joh. Marie, my modir, þat mylde is and meke, And cheffe chosen for chaste, nowe telle me, what chere? Mar. John, sone, I say þe forsothe I am seke, Mi swete sone sonde I hete, right nowe it was here, And douteles he saies I schall dye, Within thre daies i-wis, I schall be belded in blisse, And come to his awne company. 7. Joh. A! with þi leue, lady, þou neuene it me noght, Ne telle me no tydingis to twynne vs in two! For be þou, blissid birde, vnto bere broght, Euermore whils I wonne in þis worlde will me be full woo. Therfore lete it stynte, and be still. Mar. Nay, John sone, my selue nowe I see, Atte Goddis will moste it nedis be, Þer-fore be it wroght at his will. 8. Joh. A! worthy, when þou art wente will me be full woo! But God giffe þe appostelis wiste of þi wending. Mar. ?is, John sone, for certayne schall it be so, All schall þei hardely be here at myne ending. The sonde of my sone saide me þus, Þat sone schall my penaunce be paste, And I to be in liffe þat euere schall laste, Than baynly to belde in þat blisse. [Enter Peter, James, and Andrew, suddenly.] 9. Pet. O God! omnipotent, þe giffer of all grace, Benedicite dominus, a clowde now full clere Vmbelappid me in Jude prechand as I was, And I haue mekill meruayle how þat I come here. Jac. A! sesse, of þis assemelyng can I no?t saie Howe and in what wise þat we are here mette, For sodenly in sight here sone was I sette, Owthir myrþe or of mornyng mene wele it maye. 10. And. A! bredir, be my wetand and i-wisse so wer we, In diuerse landes lely I wotte we were lente, And how we are semelid þus can I no?t see, But as God of his sande has vs same sente. Joh. A! felawes, late be youre fare, For as God will it moste nedis be, Þat pereles is of poste His my?t is to do mekill mare 11. For Marie, þat worthy, schall wende nowe, I wene, Vnto þat bigly blisse þat high barne baynly vs boght, þat we in hir sight all same myght be sene, Or sche disseuer vs froo, hir sone sche be-soght. And þus has he wroght atte hir will, Whanne sche shalbe broght on a bere, That we may be neghand hir nere This tyme for to tente hir vn-till. 12. Mar. Jesu, my darlyng þat ding is, and dere, I thanke þe my dere sone of þi grete grace, Þat I all þis faire felawschip atte hande nowe has here, Þat þei me some comforte may kythe in þis case. Þis sikenes it sittis me full sare, My maidens, take kepe nowe on me! And caste some watir vppon me, I faynte! so febill I fare. [She faints. 13. i Ancilla. Allas! for my lady þat lemed so light, That euere I leued in þis lede þus longe for to lende, That I on þis semely schulde se such a sight. ii Ancilla. Allas! helpe! sche dyes in oure hende. A! Marie, of me haue þou mynde, Some comforte vs two for to kythe, Þou knowes we are comen of þi kynde. 14. Mar. What ayles yow women, for wo þus wynly to wepe? Yhe do me dere with youre dynne, fo[r] me muste nedis dye. Yhe schulde, whenne ?e saw me so slippe and slepe, Haue lefte all youre late and lette me lye. John! cosyne, garre þame stynte and be still. Joh. A! Marie, þat mylde is of mode, When þi sone was raised on a rode, To tente þe he toke me þe till, 15. And þerfore at þi bidding full bayne will I be. Iff þer be oght, modir, þat I amende may, I pray þe, myldest of mode, meue þe to me; And I schall, dere-worþi dame, do it ilke a daye. Mar. A! John sone, þat þis peyne were ouere paste! With goode harte ?e alle þat are here Praies for me faithfully in feere, For I mon wende fro you as faste. 16. i Judeus. A! foode fairest of face, most faithfull to fynde, Þou mayden and modir þat mylde is and meke, As þou arte curtaise and comen of oure kynde, All our synnes for to sesse þi sone þou be-seke, With mercy to mende vs of mys. ii Judeus. Sen þou lady come of oure kynne, Þou helpe vs nowe, þou veray virginne, Þat we may be broght vnto blisse. 17. Mar. Jesu, my sone, for my sake beseke I þe þis, As þou arte gracious and grete God, þou graunte me my grace! Þei þat is comen of my kynde and amende will þere mys, Nowe specially þou þame spede and spare þame a space, And be þer belde, if þi willis be. And dere sone, whane I schall dye, I pray þe þan, for þi mercy, Þe fende þou latte me no?t see. 18. And also my blissid barne, if þi will be, I sadly beseke þe, my sone, for my sake, Men þat are stedde stiffely in stormes or in see, And are in will wittirly my worschippe to awake, And þanne nevenes my name in þat nede, Þou late þame not perissh nor spille; Of þis bone, my sone, at þi will, Þou graunte me specially to spede! 19. Also, my bliste barne, þou graunte me my bone, All þat are in newe or in nede and nevenes me be name, I praie þe sone, for my sake, þou socoure þame sone, In alle þer schoures þat are scharpe þou shelde þame fro schame. And women also in þere chylding, Nowe speciall þou þame spede, And if so be þei die in þat drede, To þi blisse þane baynly þou þame bringe. [Jesus appears. 20. Jesus. Marie, my modir, thurgh þe myght nowe of me, For to make þe in mynde with mirthe to be mending, Þyne asking all haly here heete I nowe þe. But modir, þe fende muste be nedis at þyne endyng, In figoure full foule for to fere þe; Myne aungelis schall þan be a-boute þe. And þerfore, dere dame, þou thar no?t doute þe, For douteles þi dede schall no?t dere þe; 21. And þerfore, my modir, come myldely to me, For aftir þe sonne my sande will I sende, And to sitte with my selfe all solas to se, In ay lastand liffe in likyng to lende. In þis blisse schall be þi bilding, Of mirth shall þou neuere haue missing, But euermore abide in my blissing. All þis schall þou haue at þi welding. 22. Mar. I thanke þe my swete sone, for certis I am seke, I may no?t now meve me, for mercie,—almoste,— To þe, sone myne þat made me, þi maiden so meke, Here thurgh þi grace, god sone, I giffe þe my goste. Mi sely saule I þe sende To heuene þat is highest on heghte, To þe, sone myne, þat moste is of myght, Ressayue it here in-to þyne hande. [Dies.</field>
+      <field name="fulltext">[Scene II] Heaven. 23. Jesus. Myne aungellis louely of late, lighter þan þe levene, In-to þe erþe wightly I will þat ?e wende, And bringe me my modir to þe highest of heuene, With mirthe and with melody hir mode for to mende. For here schall hir blisse neuer be blynnande, My modir schall myldely be me Sitte nexte þe high Trinite, And neuere in two to be twynnand. 24. i Ang. Lorde! atte þi bidding full bayne will I be, Þat floure þat neuere was fadid full fayne will we fette. ii Ang. And atte þi will, gode lorde, wirke will we With solace in ilke side þat semely vmsitte. iii Ang. Latte vs fonde to hir faste fors hir to deffende, Þat birde for to bringe vnto þis blis bright, Body and sawle we schall hir assende, To regne in þis regally, be regentte full right. iv Ang. To bliss þat birde for to bringe, Nowe Gabriell, late vs wightly be wendand; This maiden mirthe to be mendand, A semely song latte vs sing. Cum vno diabolo. Et cantant antiphona scilicet Aue regina celorum.</field>
+   </doc>
+</add>

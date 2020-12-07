@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University Press</field>
+      <field name="author_facet">University Press</field>
+      <field name="author_sort_facet">university press</field>
+      <field name="author_text">University Press</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1910's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.0560.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1911-1956</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459277</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Robin Hood and the Sheriff of Nottingham ; a dramatic fragment</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 20th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 20th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Robin Hood and the Sheriff of Nottingham ; a dramatic fragment</field>
+      <field name="title_facet">robin hood and the sheriff of nottingham</field>
+      <field name="title_sort_facet">robin hood and the sheriff of nottingham</field>
+      <field name="title_text">Robin Hood and the Sheriff of Nottingham ; a dramatic fragment</field>
+      <field name="year_display">1911-1956</field>
+      <field name="year_facet">1911</field>
+      <field name="year_multisort_i">1911</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459277&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459277&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Robin Hood and the Sheriff of Nottingham ; a dramatic fragment&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;robin hood and the sheriff of nottingham&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1911-1956&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1911&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Robin Hood and the Sheriff of Nottingham&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;a dramatic fragment&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Oxford&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1911-1956&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873456-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv10560&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Robin Hood and the Sheriff of Nottingham&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;a dramatic fragment&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 10 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Moralities.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries, introductory and editorial matter omitted&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Source texts incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Copyright (c) 1911 The Malone Society. This text may not be reproduced, except for fair dealing purposes, without the express permission of Chadwyck-Healey and the copyright holder.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Robin Hood and the Sheriff of Nottingham.</field>
+      <field name="desc_meta_file_display">Genre: Folk drama.</field>
+      <field name="desc_meta_file_display">Date first published: 1475 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1473 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Source text incomplete&lt;lb/&gt;Square brackets represent sections of the text unclear or absent in</field>
+      <field name="desc_meta_file_display">the original and supplied by the current editor&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">[Robin Hood and the Sheriff of Nottingham]</field>
+      <field name="fulltext">Scene I. Enter Sir Guy and the Sheriff of Nottingham. Guy. Syr Sheryffe, for thy sake Robyn Hode wull Y take. Sheriff. I wyll the gyffe golde and fee This be-heste thou holde me. The Sheriff goes out and Robin Hood enters meeting Sir Guy. Guy. Robyn Hode, ffayre and fre, Vndre this lynde shote we. Robin. With the shote Y wyll Alle thy lustes to full-fyll. Guy. Have at the pryke! Robin. And Y cleue the styke. Guy. Late vs caste the stone. Robin. I graunte well, be Seynt Iohn! Robin wins. Guy. Late vs caste the exaltre. Robin. Have a foote be-fore the! Wins again. They wrestle. Syr Knyght, ye haue a falle. Guy. And I the, Robyn, qwyte shall: Owte on the! I blowe myn horne. Robin. Hit ware better be vn-borne. Lat vs fyght at ottraunce. Guy. He that fleth, God gyfe hym myschaunce! They fight; Sir Guy is slain. Robin. Now I haue the maystry here: Off I smyte this sory swyre. This knyghtys clothis wolle I were, And in my hode his hede woll bere. Disguises himself.</field>
+      <field name="fulltext">Scene II. Meanwhile the Sheriff has attacked Robin's men. Little John, hurrying towards the scene of the conflict, meets Scarlet in flight. Little John. Welle mete, felowe myn, What herst thou of gode Robyn? Scarlet. Robyn Hode and his menye With the Sheryffe takyn be. Little John. Sette on foote with gode wyll, And the Sheryffe wull we kyll. They watch the fight going on in the distance. Scarlet. Be-holde wele Frere Tuke Howe he dothe his bowe pluke! The Sheriff and his men enter with Friar Tuck and other outlaws as prisoners. Sheriff. ?eld yow, syrs, to the Sheryffe, Or elles shall your bowes clyffe. Takes them prisoner. Little John. Now we be bownden alle in same: Frere [T]uke this is no game. Sheriff. Co[m]e thou forth, thou fals outlawe; Thou shall [be] hangyde and y-drawe. Friar Tuck. Now[e], allas, what shall we doo? We [m]oste to the prysone goo. Sheriff. Opy[n] the yatis faste anon, An[d la]te theis thevys ynne gon. In the sequel Robin follows and rescues his men.</field>
+   </doc>
+</add>

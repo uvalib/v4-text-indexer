@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Chaloner, Thomas, Sir, 1521-1565</field>
+      <field name="author_facet">Chaloner, Thomas, Sir, 1521-1565</field>
+      <field name="author_sort_facet">chaloner thomas sir 1521 1565</field>
+      <field name="author_text">Chaloner, Thomas, Sir, 1521-1565</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1800's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.0128.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1804</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:463061</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">Helen to Paris</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">Helen to Paris</field>
+      <field name="title_facet">helen to paris</field>
+      <field name="title_sort_facet">helen to paris</field>
+      <field name="title_text">Helen to Paris</field>
+      <field name="year_display">1804</field>
+      <field name="year_facet">1804</field>
+      <field name="year_multisort_i">1804</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:463061&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:463061&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Chaloner, Thomas, Sir, 1521-1565&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;chaloner thomas sir 1521 1565&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Helen to Paris&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;helen to paris&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1804&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1804&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chaloner, Thomas, Sir&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1521&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1565&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Helen to Paris&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed by J. Wright ... for Vernor and Hood, Poultry, and Cuthell and Martin [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1804&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp0691&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;2 v.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Helen to Paris&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 32 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only poem by Chaloner included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">VOL. II. We ought to judge of the editions of books as we judge of men;—none are perfect, and the best are good only by comparison. Church. HELEN TO PARIS. Translated from Ovid's Epistolæ Heroidum; Ep. xvii. By Sir Thomas Chaloner, Knt. Now that myn eyes, thy pistle red, Alredy have suffred stayn, Small prayse my pen shold wyn From answer to refrayn. Thou shamest nought (a straunger here) All honest custom broke, Agaynst her wedlocke vowe Thyne hostes to provoke. Was that the cause thy weried ship, Long tost with wind and wether, Of purpose (as thou saydest) Her course dyrected hyther? Or herefore did our palaice gates Unfolded to the stand, A gest unknowen to us, Of unaquaynted land; To th'end that for our gentlenes We shold be wronged so; Whan thou didest entre wyth this mynd Was thow our frend or foe? It may be for my wryting thus, Thow wilt me symple call, As if I had no cause To playn for this at all. Ye, symple let me still remayn, So not forgettyng shame, As long as no new blot My wonted chastnes blame. Thoughe in my face no fayned chere Doth counterfeat the sad, With frownyng browes to seem As if no myrth I had; Yet hetherto for deed or thought My fame hath ben untouched, Of none adulterer may My spouse-breache well be vouched. I muse the more what confydens Impelleth the hereto, Or what sign geves the hope I newly shold mysdoo. If Theseus dyd once afore By force of rape possesse me, Woldest thow, therefore, of right The second tyme distresse me? Myne wer the fault if willingly I had agreed therto; But tane ageynst my will, What could I therwyth doo? Yet gote he not for all his payn The frute of me he sought, (The fear I had except) At hym I ayled nought. A sory kissse or twayn, perhaps, Wyth strugling he bereft me, (Save that) a virgin pure So as he found he left me. Wold Paris wyth no further gayn Have ben content as he, God sheld me from all such, He was not lyke to the. A mayden to restore me home It lessened half his cryme, Youth playd his part, but yet Repentaunce cam in tyme. Did Theseus repent hym than For Paris to succeede, That in the peples mouthes My name agayn shold spreed?— But thinke not I am angry now, For who wold not be loved, In case the love thou shewest Unfaynedly be moved. Yet stand I halfe in doubt thereof, Not for I nede to fear, As yf I wyst not well What shap and face I bear: But seyng our credulytie Us ladyes doth undoo, So hardely may your wordes Wyth othes be trusted to. Yet others synne and matrones chast Ben rare thou sayst to see, What lettes among those rare My name enrold to be? For where thou thynkst my mothers dede Myght serve me, as it were, A president whereby What I shold do to lear: Mystaking was her giltes excuse, Where Jove (his godhed hid) In lykenes of a swan, His pleasure on her dyd. But if I synne, I can not say Unwittingly to do it, No errour in this case Can serve for shadow to it. Happy was she to synne so well, Through th'autour of the same, But where have I a Jove To honor for my shame? Thou bostest eke thyne auncestry Wyth royall names ysett. As yf we dyd our house From baser titles fett: All Pelops lyne, with Tyndarus And Jove to overpasse, Thoughe to my husbandes syre Gret graund father he was; My mother geaves me names ynough, Jove's daughter that I am, Who, under semblaunt fauls, Transfourmed to her cam. Now go, and boste thy Trojan stocke, Of famous rote to growe, With Priam take good heed, Laomedon thou show; Whom I esteme but thus, thou seest, That Jove at fifth degree Suche glory to thy blode, Is but the first from me. I graunt the sceptres of thy Troy Ben great as thou dost say, Yet do I not suppose These here for lesse than they. Nombre of goodes and men, perchaunce, Thy land hath more than myne, Yet may I say, it is Not barbarous as thyn. Soche promyses of presentes great Thy golden lynes do make me, As well through them myght move The goddesses to take the. But sure and yf that any thing Myght move me to relent, Thyselfe sholdest be more cause T'enforse me to consent. Eyther I will preserve my name Unspotted as it stode, Or rather shall I yeld To Paris, than his good? Yet do I not contempn thy gyftes For gyfts ar had in store, Suche as the gevers sake Comendeth, twyse the more; But more do I commend thy love, That am the same for whome Thy travayled ship hath cut The trustles salt see fome: And though I fayn to marke it nought, Yet do I marke right well, At table when we sit, Thy countenaunce every deal. Somtyme thyn eyes behold me fast, Wyth long attractyve looke Whose stedfast percyng rayes Myn eyes can scarsly brooke. Then doost thou sighe, or take the cup Where I afore did sipp, Forgetting nought whiche syde I turned to my lypp. How often have I marked eke Signes wyth thy fingers made, How often with thy browes, Whiche well nere speking had So farfurth as I feared least My husband shuld help ye, And blusshed at som things Not handled covertly. Not ones or twyse then wordes I sayd, Wyth murmor long or low, Is he no whit ashamd! Whyche nowe I prove ryght so:— I noted eke about the borde Where my name set above, Thy finger dipt in wyne, Subscribed had—I love! Whiche natheles, I beheld with eyes Renouncyng it was so, But now, alas! suche signes For wordes may serve I know: Those dalyaunces, if ought could cause, Shuld sonest cause my synne, Those were the rediest traynes To make me fall therein. Thy face therto, I do confesse, Is rare, and suche as may Move any womans wisshe Wyth such a lord to play; But rather let som others hap Be happy, voyd of cryme, Than I my wyfely trouth In straungers love to lyme. Lerne then, by me, these beaulties fayr To can want and refrayn, A vertu it is from weal Desyred to abstain. That thow dost wysh hath ben the wyshe Of yongmen more then one, What than, to judge aright Hath Paris eies alone? Nay, sure thou seest no more than they, But more thou rashly darest, They know as moch as thou, But lesse for shame thou sparest. Then, lo! I would wyth hasted ship Thou hyther haddest ben brought, When me, a mayden yet, A thousand woers sought; A thousand if I had yet seen Had gon wythout thy gayn, My husband shall in this Forgeve my judgement playn. But now to com for pleasures past And joies enjoyed, I say Thy hope was overslacke, An other hath got thy pray; Nat so unleef, that I shold wysh To be thy Trojan wyfe, Wyth Menelay I lead No such displeasant lyf. Do way, therefore, wyth fawnyng wordes My tendre hart to presse; And do not brew her hurt Whose love thou dost professe. But suffer me to broke at leest In worth my fortunes will, To shamefull were thy spoyles, My shamefastnes to spill. But Venus did behight it so, When in the vales of Ide Three goddesses by the Ther naked beaulties tryed: So where the first dyd profer state, The second knighthode gave, The third, thou saiest, dyd plight That Heleyn thou sholdst have;— It may well be, but sure I trow Full hardly yet that they From heavin down wold com Thy judgement to obey: That if they dyd the tother part Is but thyn own devyse, Where I of thyn award Am sayd to be the pryse. I do not thynke above the rest My beaultie so moche worthe, As it for greatest gifte A goddes shuld set forth: Sufficeth, that my sely fourme Do mortall eyes detain, But undre Venus prayse I fear som secret trayn. Yet do I not refuse the same, For why shold I make coy, With outward wordes to squaym My inward thursted joye? Nor be thou wrath, wyth moch a doo, That scant I do beleve the, A weighty case as is, Requyres slacke fayth to preve the. My fourme therefore I dobled hold, To Venus prayse referrd, And likewsye, by thy choyse, For gretest gift preferred: That neyther Pallas profers large, Nor Juno's hests might move Thy mode (my name ones hard) Ther parties to approve. For my sake then, dyd Paris leave Both prowes, state, and havyour? What adamant could chose So free an hart but favour. I am not made of athamant, Althoughe I ame not prone To love hym that I scarse Could thynke wold be myn own. Why shold I seke to plowe the sand Whose print the flood replyeth, Or geave myself suche hope As place itself denyeth? I can not skill on Venus stelthes, And Jove my witnes be, My husband never yet Deceyved was by me. Yea, wher I now to aunswer thyne, This pystle undretake, Thinke how it is the first Whiche ever I dyd make. Happy be they that knowe the trade, But I, through practyse small, Suppose the way right hard, To syn and scape wythall. The fear it self is ill ynough, Alredy I geave place, As if a worldes eies Stode poring in my face: Nor yet in vayn mysgeves my mynd, I know what people say, My damsel Ethra hard Som backe tales yesterday. So eyther thou must cloke thy love, Or leave wyth love to mell, But why shold love be left, Which thou maist cloke so well? Play, but beware, and thinke we have More libertie nat most, That Menelay is nowe Departed from this coast: He, for affaiers which touch'd hym nere, Good man, the seas hath past; A great and laufull cause His sodeyn gate dyd hast: And partely I, where doubting yet What best was to be done, I bade hym go with spede To spede hym home as sone. Glad for the lucke my wordes hym gave, He kyssed me, “and see Thou loke well to our hous, And chere our ghest,”—qd. he. Skarse could I then my laughter kepe, Wyth struglyng backe to call, One word, I had not more, For answer, but—“I shall;”— And so his sayles, wyth wynd at will, To Creteward he unfolded: But let not thy conceit Be therefore to moche bolded. His absence is not suche, but that His spials present ar, The proverbe sayth (thou knowest) A kings hand stretcheth farr. My fame also reputed fayr, Shall now this combraunce do me, The more I am belykid, To cause hym loke more to me: So that the prayse which set me fourth Is now my setter backe. Me lever were mens eyes Had found in me som lacke. Yet marvaill not, though parted hence With Paris he durst leave me; My maners and good lyfe Such credit maks hym geave me. My face may cause hym stand in drede, My lyfe hym self will swear Is such as well what doubt My beaultie moves, can clear. But tyme, thou sayst, thus proferd us, We shold not lose alday His symplenes to take For vauntage while we may:— I wold, and yet I fear to will, My mynd I wot nor how, Half geaven to consent, Half doth it disalow. My husband is from home I wot, And thou alone dost lye, My beaultie perceth thyn, Thyn perced hath myn eye; These nyghtes ar long, and now in spech We joyn, and wo is me; So fayr thy wordes ar sett, And both in one house be. And never have I joye, unles All things provoke me to it, But ay this elvish drede Revokes me to undo it. O that thou hadst the pour to force That ill thou dost perswade, So, lo! a symple wight More skillfull shold be made: An injury somtime doth turne Unto theyr bote that byd it, So were I happy, loo! To say—compeld I dyd it. But rather let me leave this love Ere further it encreseth; A fyer but newly made With little water ceaseth. S' unstedfast is this straungers love, It wandreth eft as they, Whan moost we thinke it sure, It sonest flyeth away. Hipsiphile and Ariadne Can hereof witnes bear, Both joynd to other beddes, By whom betrayed they were; And thou lykewyse, unfaythfull man, Art sayd to have forsaken Enone, eke that so long Was for thy mastres taken; Nor yet thy self denyest it, And thynke not but I know, By depe enquyry made, How all thy doynges goo. But yf thou woldest be fyrme in love, How lyeth it in thy pour? Thy maryners do loke For passage every hour: Whyles we do treat, or whiles the night Long hopt for, hard at hand, A thankeles wynd shall blow Directly for thy land: Then, as thy ship doth ronne her cou[illeg.] Thy new sought joyes and I Here lefte behynd, our love Into the wynd shall flye. Or, shall I folow by thy reed, Thy famous Troy to see, There, nere unto the great Laomedon to be. Nay, yet I do not set so light By brute of flyeng fame, That she, the worldes cares Shuld burden wyth my shame; What will my toun of Spart than doo, What may hole Grekeland say? Wyll Asye, or Troy itself, From blamyng of me stay? Will Priam, or king Priam's wyf, Excuse my dede herein, Thy brethern, or ther wyves, With other of thy kyn? Wilt thou thy self hereafter hope That faythfull I wold byde? Nat rather to suspect Thyn own example tryed? What ever gest in foreyn ship Troy haven then dyd entre, Shuld cause thy jelous hart To fear thyn own aventure. Then, lo, at every lytle jarr, Adulteres! wilt thou say— Forgetting of my cryme, Thyn own to bere the brey; And so shall he that made me synne Condemp my synne also:— Ere that day com, I wish My carcas laid full lowe. But goodes, thou sayst, with richer wede Obteyn I shall at Troy, There gyfts in dede above Thy promes to enjoye. Such purple robes, soch cloth of gold, Soch jewells, plyeng to the, Wyth treasour pyld in hourdes, Presented shall I be. Thy presentes suer forgeave it me, I do not so allow, To leave my natyve ground More leef I wot nere how. How, if in Troy I suffer wrong, Whose succour shall me steed? Whence shall I claym my kynne, Or brothers ayd, at nede? Medea was constraynid at last From Esons hous to go, How ever Jason false Dyd promes her nat soo: But where had she her father than, Her mother, or her syster, Dispysed so by him, For refuge to assist her. Now, as I fear no soch myshap No more Medea dyd, But often on good hope Yll chaunces have betid.— A ship that is amyds the seas Turmented to and fro, At setting from the port Myght fynd the waves full low. The fyerbrand eke wyth Hecuba Before thy byrth dyd seme All bloddy to bryng fourth, Moch make me to mysdeme: And sore I drede the prophecy Whyche commeth thus, they say, That Ylion shall burne Wyth Grekysh fyre one day: And Iyke as Venus is thy frend, Bycause she wan and welded Two tryumphes at one tyme, Whiche thyn award her yelded; So fear I, yf thy vaunt be true, The tothers just dysdayn, Who, standing to thy dome, Dyd not theyr cause obtayn. And sure I ame that followyng the, Warr foloweth next at hand, To tryall of the sworde Our love, alas! must stand. For ravyshed Hippodame, The beastly Centaures pray, Betwene her frendes and them How bloddy was the fray. Will Tyndarus or Menelay, Wyth both my brethern than, Forgeave the, and not seke Revengement all they can? Now where thou doost thy manhood bost For warly feates achyeved, That beaultie of thyn forbidds Thy wordes to be belyved: Those tendre lymmes, not made for Mars, In Venus' camp shuld play, Let warryoures fight ther fill, Thou, Paris, love all day. Byd Hector, whom thou praysest so, Fyght for the if he will, An other maner fight Pertayneth to thy skill. Conclude that yf I had the wyt Or spryte therto I shuld Thyn ample profers take, As she, that wyse is, wold. Or I perchaunce will take them to, My shamfast fear upcast, And yeld me to the tyme That may me wyn at last: Where thou desierst som secret place To treat betwen us two, I know thy trayn, and how Our treaty than shold goo. But soft a whyle, what nedes this hast, Thy corn ys yet but grene, Thy tarying all this whyle, Perchaunce thy frend hath bene. Thus hetherto my pen that put My secret mynd in wryting, Syns weried in my hand, Shall cease now from endyting: The rest hereof by Clemenee And Ethra thou shalt know, My pryvy damsels both, And counsayloures also. Finis. ?d T. Chaloner eques auratus, etc.</field>
+   </doc>
+</add>

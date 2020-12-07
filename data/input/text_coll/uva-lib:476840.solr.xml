@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Stephen Crane</field>
+      <field name="author_facet">Stephen Crane</field>
+      <field name="author_sort_facet">stephen crane</field>
+      <field name="author_text">Stephen Crane</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1900's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/CraUptu.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">5 March 1900</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476840</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Upturned Face</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">The Upturned Face</field>
+      <field name="title_facet">upturned face</field>
+      <field name="title_sort_facet">upturned face</field>
+      <field name="title_text">The Upturned Face</field>
+      <field name="year_display">5 March 1900</field>
+      <field name="year_facet">1900-03-05</field>
+      <field name="year_multisort_i">1900</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476840&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476840&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Stephen Crane&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;stephen crane&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Upturned Face&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;upturned face&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;5 March 1900&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1900-03-05&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Stephen Crane&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Upturned Face&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;1st Edition&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;5 March 1900&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Ainslee's Magazine&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;5 March 1900&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Upturned Face&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 12 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE UPTURNED FACE BY STEPHEN CRANE I. [illustration omitted] "WHAT will we do now?" said the adjutant, troubled and excited. "Bury him," said Timothy Lean. The two officers looked down close to their toes where lay the body of their comrade. The face was chalk-blue; gleaming eyes stared at the sky. Over the two upright figures was a windy sound of bullets, and on the top of the hill, Lean's prostrate company of Spitzbergen infantry was firing measured volleys. "Don't you think it would be better—" began the adjutant. "We might leave him until to-morrow." "No," said Lean, "I can't hold that post an hour longer. I've got to fall back, and we've got to bury old Bill." "Of course," said the adjutant at once. "Your men got intrenching tools?" Lean shouted back to his little firing line, and two men came slowly, one with a pick, one with a shovel. They stared in the direction of the Rostina sharpshooters. Bullets cracked near their ears. "Dig here," said Lean, gruffly. The men, thus caused to lower their glances to the turf, became hurried and frightened merely because they could not look to see whence the bullets came. The dull beat of the pick striking the earth sounded amid the swift snap of close bullets. Presently the other private began to shovel. "I suppose," said the adjutant, slowly, "we'd better search his clothes for . . . things. Lean nodded; together in curious abstraction they looked at the body. Then Lean stirred his shoulders, suddenly arousing himself. "Yes," he said, "we'd better see . . . what he's got." He dropped to his knees and approached his hands to the body of the dead officer. But his hands wavered over the buttons of the tunic. The first button was brick-red with drying blood, and he did not seem to dare to touch it. "Go on," said the adjutant, hoarsely. Lean stretched his wooden hand, and his fingers fumbled blood-stained buttons. . . . At last he arose with a ghastly face. He had gathered a watch, a whistle, a pipe, a tobacco pouch, a handkerchief, a little case of cards and papers. He looked at the adjutant. There was a silence. The adjutant was feeling that he had been a coward to make Lean do all the grizzly business. "Well," said Lean, "that's all, I think. You have his sword and revolver." "Yes," said the adjutant, his face working. And then he burst out in a sudden strange fury at the two privates. "Why don't you hurry up with that grave? What are you doing, anyhow?" Even as he cried out in this passion, the two men were laboring for their lives. Ever overhead, the bullets were spitting. The grave was finished. It was not a masterpiece—poor little shallow thing. Lean and the adjutant again looked at each other in a curious, silent communication. Suddenly the adjutant croaked out a weird laugh. It was a terrible laugh which had its origin in that part of the mind which is first moved by the singing of the nerves. "Well," he said, humorously to Lean, "I suppose we had best tumble him in." "Yes," said Lean. The two privates stood waiting bent over on their implements. "I suppose," said Lean, "it would be better if we laid him in ourselves." "Yes," said the adjutant. Then apparently remembering that he had made Lean search the body, he stooped with great fortitude and took hold of the dead officer's clothing. Lean joined him. Both were particular that their fingers should not feel the corpse. They tugged away; the corpse lifted, heaved, toppled, flopped into the grave, and the two officers, straightening, looked at each other. They sighed with relief. The adjutant said: "I suppose we should . . . we should say something. Do you know the service, Tim?" "They don't read the service until the grave is filled in," said Lean. "Don't they?" said the adjutant, shocked that he had made the mistake. "Oh, well," he cried, suddenly, "let us . . . let us say something. . . . while he can hear us." "All right," said Lean. "Do you know the service?" "I can't remember a line of it," said the adjutant. Lean was extremely dubious. "I can repeat two lines out—" "Well, do it," said the adjutant. "Go as far as you can. That's better than nothing. And . . . the beasts have got our range exactly." Lean looked at his two men. "Attention!" he barked. The privates came to attention with a click, looking much aggrieved. The adjutant lowered his helmet to his knee. Lean, bare-headed, stood over the grave. The Rostina sharpshooters fired briskly. "O, Father, our friend has sunk in the deep waters of death, but his spirit has leaped toward Thee as the bubble arises from the lips of the drowning. Perceive, we beseech, O, Father, the little flying bubble and—" Lean, although husky and ashamed, had suffered no hesitation up to this point, but he stopped with a hopeless feeling and looked at the corpse. The adjutant moved uneasily. "And from Thy superb heights—" he began, and then he, too, came to an end. "And from Thy superb heights," said Lean. The adjutant suddenly remembered a phrase in the back part of the Spitzbergen burial service, and he exploited it with the triumphant manner of a man who has recalled everything and can go on. "Oh, God, have mercy—" Oh, God, have mercy—" said Lean. "'Mercy,'" repeated the adjutant, in a quick failure. "'Mercy,'" said Lean. And then he was moved by some violence of feeling, for he turned suddenly upon his two men and tigerishly said: "Throw the dirt in." The fire of the Rostina sharpshooters was accurate and continuous. II. One of the aggrieved privates came forward with his shovel. He lifted his first shovel load of earth, and for a moment of inexplicable hesitation, it was held poised above this corpse which, from its chalk-blue face, looked keenly out from the grave. Then the soldier emptied his shovel on—on the feet. Timothy Lean felt as if tons had been swiftly lifted from off his forehead. He had felt that perhaps the private might empty the shovel on—on the face. It had been emptied on the feet. There was a great point gained there. The adjutant began to babble. "Well, of course . . . a man we've messed with all these years . . . impossible . . . you can't, you know, leave your intimate friends rotting on the field . . . Go on, for God's sake, and shovel, you." The man with the shovel suddenly ducked, grabbed his left arm with his right and looked at his officer for orders. Lean picked the shovel from the ground. "Go to the rear," he said to the wounded man. He also addressed the other private. "You get under cover, too. I'll . . . I'll finish this business." The wounded man scrambled hastily for the top of the ridge without devoting any glances to the direction from whence the bullets came, and the other man followed at an equal pace, but he was different in that he looked back anxiously three times. This is merely the way—often—of the hit and the unhit. Timothy Lean filled the shovel, hesitated, and then in a movement which was like a gesture of abhorrence, he flung the dirt into the grave, and as it landed it made a sound—plop. Lean suddenly paused and mopped his brow—a tired laborer. "Perhaps we have been wrong," said the adjutant. His glance wavered stupidly. "It [illustration omitted] might have been better if we hadn't buried him just at this time. Of course, if we advance to-morrow, the body would have been—" "Damn you," said Lean. "Shut your mouth. He was not the senior officer." He again filled the shovel and flung in the earth. . . . . For a space, Lean worked frantically, like a man digging himself out of danger. . . . Soon there was nothing to be seen but the chalk-blue face. Lean filled the shovel. . . . "Good Good [sic]," he cried to the adjutant, why didn't you turn him somehow when you put him in? This—" The adjutant understood. He was pale to the lips. "Go on, man," he cried, beseechingly, almost in a shout. . . . Lean swung back the shovel; it went forward in a pendulum curve. When the earth landed it made a sound—plop.</field>
+   </doc>
+</add>

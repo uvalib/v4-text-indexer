@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Kegan Paul, Trench, Trübner &amp; Co.</field>
+      <field name="author_facet">Kegan Paul, Trench, Trübner &amp; Co.</field>
+      <field name="author_sort_facet">kegan paul trench trbner  co</field>
+      <field name="author_text">Kegan Paul, Trench, Trübner &amp; Co.</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1890's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.1030.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1897</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459659</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Abraham</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Abraham</field>
+      <field name="title_facet">abraham</field>
+      <field name="title_sort_facet">abraham</field>
+      <field name="title_text">Abraham</field>
+      <field name="year_display">1897</field>
+      <field name="year_facet">1897</field>
+      <field name="year_multisort_i">1897</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459659&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459659&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Abraham&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;abraham&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1897&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1897&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Abraham&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Kegan Paul, Trench, Trübner &amp;amp; Co.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1897&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873503-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv11030&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Abraham&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 31 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries, introductory and editorial matter including introduction and notes omitted.&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Dedication included with The Creation&lt;lb/&gt;Source texts incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Copyright (c) 1995 Boydell &amp;amp; Brewer Ltd. This text may not be reproduced, except for fair dealing purposes, without the express permission of Chadwyck-Healey and the copyright holder.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Abraham.</field>
+      <field name="desc_meta_file_display">Genre: English mystery and miracle plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1450 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1390–1410 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">[Abraham] Sequitur Abraham. Square brackets represent sections of text unclear or absent in the original and supplied by the current editor. Source text incomplete</field>
+      <field name="fulltext">[Dramatis Personae. Abraham. Primus Puer. Deus. Isaac. Secundus Puer.]</field>
+      <field name="fulltext">(1) Abraham. Adonay, thou god veray, Thou here vs when we to the call, As thou art he that best may, Thou art most socoure and help of all; Mightfull lord! to the I pray, Let onys the oyle of mercy fall, Shall I neuer abide that day, Truly yit I hope I shall. (2) Mercy, lord omnipotent! long syn he this warld has wroght; Wheder ar all oure elders went? This musys mekill in my thoght. ffrom adam, vnto eue assent, Ete of that appyll sparid he noght, ffor all the wisdom that he ment ffull dere that bargan has he boght, (3) ffrom paradise thai bad hym gang; He went mowrnyng with symple chere, And after liffyd he here full lang, More then thre hundreth yere, In sorow and in trauell strang, And euery day he was in were; his childre angred hym amang; Caym slo abell, was hym full dere. (4) Sithen Noe, that was trew and good, his and his chyldre thre, was saued when all was flood: That was a wonder thyng to se. And loth fro sodome when he yode, Thre cytees brent, yit eschapyd he; Thus, for thai menged my lordis mode, he vengid syn thrugh his paustè. (5) when I thynk of oure elders all, And of the mervels that has been, No gladnes in my hart may fall, M[y] comfort goys away full cleyn. lord, when shall dede make me his thrall? An hundreth yeris, certis, haue I seyn; Ma fa! sone I hope he shall, ffor it were right hie tyme I weyn. (6) Yit adam is to hell gone, And ther has ligen many a day, And all oure elders, euerychon, Thay ar gone the same way, Vnto god will here thare mone; Now help, lord, adonay! ffor, certis, I can no better wone, And ther is none that better may. [God appears above.] (7) Deus. I will help adam and his kynde, Might I luf and lewte fynd; Wold thay to me be trew, and blyn Of thare pride and of thare syn: My seruand I will found &amp; frast, Abraham, if he be trast; On certan wise I will hym proue, If he to me be trew of louf. (8) Abraham! Abraham! Abraham. Who is that? war! let me se! I herd oone neven my name. Deus. It is I, take tent to me, That fourmed thi fader adam, And euery thyng in it degre. Abraham. To here thi will, redy I am, And to fulfill, what euer it be. (9) Deus. Of mercy haue I herd thi cry, Thi devoute prayers haue me bun; If thou me luf, look þat thou hy Vnto the land of Visyon; And the thryd day be ther, bid I, And take with the, Isaac, thi son, As a beest to sacryfy, To slo hym look thou not shon, (10) And bren hym ther to thyn offerand. Abraham. A, lovyd be thou, lord in throne! hold ouer me, lord, thy holy hand, ffor certis thi bidyng shall be done. Blissyd be that lord in euery land wold viset his seruand thus so soyn. ffayn wold I this thyng ordand, ffor it profettis noght to hoyne; [Exit Deus.] (11) This commaundement must I nedis fulfill, If that my hert wax hevy as leyde; Shuld I offend my lordis will? Nay, yit were I leyffer my child were dede. What so he biddis me, good or ill, That shall be done in euery steede; Both wife and child, if he bid spill; I wille not do agans his rede. (12) wist Isaac, wher so he were, he wold be abast now, how that he is in dangere. Isaac, son, wher art thou? Isaac. All redy, fader, Lo me here; Now was I commyng vnto you; I luf you mekill, fader dere. Abraham. And dos thou so? I wold wit how (13) lufis thou me, son, as thou has saide. Isaac. Yei, fader, with all myn hart, More then all that euer was maide; God hold me long youre life in quart! Abraham. Now, who would not be glad that had A child so lufand as thou art? Thi lufly chere makis my hert glad, And many a tyme so has it gart. (14) Go home, son; com sone agane, And tell thi moder I com ful fast; [hic transsiet Isaac à patre, So now god the saif and sayne! Now well is me that he is past! Alone, right here in this playn, Might I speke to myn hart brast, I wold that all were well ful fayn, Bot it must nedis be done at last; (15) And it is good that I be war, To be avised full good it were. The land of vision is ful far, The thrid day end must I be there; Myn ase shall with vs, if it thar, To bere oure harnes les &amp; more, ffor my son may be slayn no nar; A swerd must with vs yit therfore, (16) And I shall found to make me yare; This nyght will I begyn my way, Þof Isaac be neuer so fayre, And myn awn son, the soth to say, And thof he be myn right haire, And all shuld weld after my day, Godis bydyng shall I not spare; shuld I that ganstand? we, nay, ma fay! (17) Isaac! Isaac. —sir! Abraham. —luke thou be bowne; ffor certan, son, thi self and I, we two must now weynd furth of towne, In far country to sacrifie, ffor certan skyllys and encheson. Take wod and fyere with the, in hy; Bi hillys and dayllys, both vp &amp; downe, son, thou shal ride and I will go bi. (18) looke thou mys noght þat thou shuld nede; Do make the redy, my darlyng! Isaac. I am redy to do this dede, And euer to fulfill youre bydyng. Abraham. My dere son, look thou haue no drede, We shal com home with grete lovyng; Both to &amp; fro I shal vs lede; Com now, son, in my blyssyng. (19) Ye two here with this asse abide, [To the Servants. ffor Isaac &amp; I will to yond hill; It is so hie we may not ride, therfor ye two shal abide here still. primus puer. sir, ye ow not to be denyed: we ar redy youre bydyng to fulfill. secundus puer. What so euer to vs betide To do youre bidyng ay we will. (20) Abraham. Godis blyssyng haue ye both in fere; I shall not tary long you fro. primus puer. Sir, we shal abide you here, Oute of this stede shall we not go. Abraham. Childre, ye ar ay to me full dere, I pray god kepe [you] euer fro wo. Secundus puer. we will do, sir, as ye vs lere. Abraham. Isaac, now ar we bot we two, (21) we must go a full good paase, ffor it is farther than I wend; we shall make myrth &amp; grete solace, Bi this thyng be broght to end. lo, my son, here is the place. Isaac. wod and fyere ar in my hend; Tell me now, if ye haue space, where is the beest that shuld be brend? (22) Abraham. Now, son, I may no longer layn. sich will is into myne hart went; Thou was euer to me full bayn Euer to fulfill myn entent. Bot certanly thou must be slayn, And it may be as I haue ment. Isaac. I am hevy and nothyng fayn, Thus hastely that shall be shent. (23) Abraham. Isaac! Isaac. sir? Abraham. Com heder, bid I; Thou shal be dede what so euer betide. Isaac. A, fader, mercy! mercy! Abraham. That I say may not be denyde; Take thi dede therfor mekely. Isaac. A, good sir, abide; ffader! Abraham. What son? Isaac. to do youre will I am redy, where so euer ye go or ride, (24) If I may oght ouertake youre will, syn I haue trepa[s]t I wold be bet. Abraham. Isaac! Isaac. What, sir? Abraham. good son, be still. Isaac. ffader! Abraham. What, son! Isaac. think on thi get! what haue I done? Abraham. truly, none ill. Isaac. And shall be slayn? Abraham. so haue I het. Isaac. sir, what may help? Abraham. certis, no skill. Isaac. I ask mercy. Abraham. that may not let. (25) Isaac. when I am dede, and closed in clay, who shall then be youre son? Abraham. A, lord, that I shuld abide this day! Isaac. sir, who shall do that I was won? Abraham. speke no sich wordis, son, I the pray. Isaac. shall ye me slo? Abraham. I trow I mon; lyg still! I smyte! Isaac. sir, let me say. Abraham. Now, my dere child, thou may not shon. (26) Isaac. The shynyng of youre bright blayde It gars me quake for ferde to dee. Abraham. Therfor groflyngis thou shall be layde, Then when I stryke thou shal not se. Isaac. What haue I done, fader, what haue I saide? Abraam. Truly, no kyns ill to me. Isaac. And thus gyltles shall be arayde. Abraham. Now, good son, let sich wordis be. (27) Isaac. I luf you ay. Abraham. so do I the. Isaac. ffader! Abraham. what, son? Isaac. let now be seyn. ffor my moder luf. Abraham. let be, let be! It will not help that thou wold meyn; Bot ly styll till I com to the, I mys a lytyll thyng, I weyn. he spekis so rufully to me That water shotis in both myn eeyn, (28) I were leuer than all wardly wyn, That I had fon hym onys vnkynde, Bot no defawt I faund hym in: I wold be dede for hym, or pynde; To slo hym thus, I thynk grete syn, So rufull wordis I with hym fynd; I am full wo that we shuld twyn, ffor he will neuer oute of my mynd. (29) What shal I to his moder say? ffor “where is he,” tyte will she spyr; If I tell hir, “ron away,” hir answere bese belife—“nay, sir!” And I am ferd hir for to slay; I ne wote what I shal say till hir. he lyys full still ther as he lay, ffor to I com, dar he not styr. (30) [God appears above.] Deus. Angell, hy with all thi mayn! To abraham thou shall be sent; say, Isaac shall not be slayn; he shall lif, and not be brent. My bydyng standis he not agane, Go, put hym out of his intent; Byd hym go home agane, I know well how he ment. (31) Angelus. Gladly, Lord, I am redy: thi bidyng shall be magnyfyed; I shall me spede ful hastely, the to obeye at euery tyde; Thi will, Thi name, to glorifye, Ouer all this warld so wide; And to thi seruand now in hy, good, trew, abraham, will I glyde. (32) Abraham. Bot myght I yit of wepyng sese, till I had done this sacrifice; It must nedis be, withoutten lesse, thof all I carpe on this kyn wise, The more my sorow it will incres; when I look to hym, I gryse; I will ryn on a res, And slo hym here, right as he lyse. (33) Angelus. Abraham! Abraham! [Seizes him.] Abraham. Who is ther now? War! let the go. Angelus. stand vp, now, stand; Thi good will com I to alow, Therfor I byd the hold thi hand. Abraham. say, who bad so? any bot thou? Angelus. Yei, god; &amp; sendis this beest to thyn offerand. Abraham. I speke with god latter, I trow, And doyng he me commaund. (34) Angelus. He has persauyd thy mekenes And thi good will also, Iwis; he will thou do thi son no distres, ffor he has graunt to the his blys. Abraham. Bot wote thou well that it is As thou has sayd? Angelus. I say the yis. Abraham. I thank the, lord, well of goodnes, That all thus has relest me this; (35) To speke with the haue I no space, with my dere son till I haue spokyn. My good son, thou shal haue grace, On the now will I not be wrokyn; Ryse vp now, with thi frely face. Isaac. sir, shall I lif? Abraham. yei, this to tokyn. Et osculatur eum. son thou has skapid a full hard grace, Thou shuld haue beyn both brent &amp; brokyn. (36) Isaac. Bot, fader, shall I not be slayn? Abraham. No, certis, son. Isaac. then am I glad; Good sir, put vp youre sword agayn. Abraham. Nay hardely, son, be thou not adrad. Isaac. Is all for geyn? Abraham. yei, son, certan. Isaac. ffor ferd, sir, was I nere-hand mad. [Two leaves of the MS. are wanting here, sigs. d 4 and d 5. They contained the end of Abraham and the beginning, almost all, of Isaac.]</field>
+   </doc>
+</add>

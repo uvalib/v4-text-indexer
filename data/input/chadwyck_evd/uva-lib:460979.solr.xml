@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Rands, William Brighty, 1823-1882</field>
+      <field name="author_facet">Rands, William Brighty, 1823-1882</field>
+      <field name="author_sort_facet">rands william brighty 1823 1882</field>
+      <field name="author_text">Rands, William Brighty, 1823-1882</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1870's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V3.0650.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1871</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460979</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Little Keeper</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Little Keeper</field>
+      <field name="title_facet">little keeper</field>
+      <field name="title_sort_facet">little keeper</field>
+      <field name="title_text">Little Keeper</field>
+      <field name="year_display">1871</field>
+      <field name="year_facet">1871</field>
+      <field name="year_multisort_i">1871</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460979&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460979&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Rands, William Brighty, 1823-1882&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;rands william brighty 1823 1882&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Little Keeper&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;little keeper&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1871&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1871&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Rands, William Brighty&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1823&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1882&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Little Keeper&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;George Routledge&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1871&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873308-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv30650&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Little Keeper&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 25 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted&lt;lb/&gt;The following plays have been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Little keeper.</field>
+      <field name="desc_meta_file_display">Genre: Extravaganza.</field>
+      <field name="desc_meta_file_display">Date first published: 1871.</field>
+      <field name="desc_meta_file_display">Date first performed: Unknown.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">LITTLE KEEPER.</field>
+      <field name="fulltext">CHARACTERS. Little Keeper. His Mother. The Tempter. The Helper. Big Spiteful. Boys and Girls.</field>
+      <field name="fulltext">Scene. The Interior of a Poor Cottage. Little Keeper (rousing himself from a doze, and rubbing his eyes). Old clock, three hours are past and gone Since mother left me here alone; How long it seems, this autumn day! I am too ill to work or play, At least with spirit, like other lads, And race with them, and do their dadds. Hark! Yes, it is the old, old chime; And now it is my dinner-time. [Produces a very meagre mid-day meal. A loud knocking at the door. Who at the door makes such a din? Tempter (without). 'Tis only me; pray let me in! Keeper. Our door, sir, I cannot undo; My mother told me not. Tempter. Pooh, pooh! I am a friend. Keeper. You cannot be A friend to speak like that to me; And I must heed my mother's word. Tempter. Well, if you choose to be absurd! But I have cakes and cowslip wine To share with you in dishes fine! Keeper. Sir, that is kind of you; but still, I am to do my mother's will, And cannot, let who pleases knock, Open the door till four o'clock; My mother told me that; so, pray, Kind sir, excuse me for to-day. Tempter (without). Ha, ha! Keeper. Well, he is gone away. Now for my dinner. But this pain! [Resting his head on his hand. I wish I had my strength again. [More knocking at the door. Another knock? Well, who is there? Tempter. Who is it? Why, your mother, dear: Open the door at once to me! Keeper. My mother? That can hardly be; At four o'clock she will be back. Tempter. Oh, you bad child! Alack, alack! You are the worst of naughty boys! Keeper. But, then, I do not know your voice; It is not like my mother's. Tempter. What! Your mother's voice have you forgot? The clock, perhaps, gives the wrong time. Keeper. The clock is right by our church chime; I looked at it an hour ago. Your face without the window show, And I my mother dear shall know. [The Tempter appears at the window, muffled up to the eyes in a red cloak. Tempter. Dear boy, your mother's cloak you see. Keeper. Yes, yes, but show your face to me. [The Tempter uncovers a very little of his face, with a smirk. Keeper. Hah! that is not my mother's face; You shall not come into the place. Tempter (hurrying away). Ho, ho! Keeper. That's over. Once more I To get my dinner now will try— But, hark! the wind begins to blow! And, see, black clouds are driving low! There was a splash of rain! It pours! I wish my mother was in-doors! When was there such a sudden storm? How cold! And just now it was warm. Thunder and lightning, wind and hail— The tempest drives along the vale— Whew, whew, it is a dreadful din! [More knocking at the door. Tempter. Kind Christian people, let me in! Hark how it hails and how it blows, And I am wet through all my clothes. Keeper. Who are you? Tempter. A woman, old and poor, Who has lost her way across the moor. Keeper. I must not open set the door, Until the village clock strikes four. Tempter. Alas, I faint with hunger, too. Keeper. Poor creature! Oh, what shall I do? Tempter. Oh, give me rest and shelter, pray! Keeper. My mother's word I must obey; And yet it would my mother grieve This poor old soul unhelped to leave: What shall I do? Stop! I will say Some words that I was taught one day:— Wise spirits, Wherever you are; Kind spirits, Near or far; North, south, East, west, Listen now To my request. [Music without. Voices (without):— Far and near, We hear, we hear; North, south, east, and west, We know your thought and your request. Keeper. I see, I see! the spirits kind Have put a thought into my mind. Tempter. The storm grows worse; if you are good, Pray give me shelter and some food! [Knocking violently at the door. Keeper. To give you both I see the way, And yet my mother's word obey: Come to the window, where a pane Opens, as you will see quite plain, And half my food I will pass through, You poor old soul, to comfort you: Then if some steps you take behind, A cosy outhouse you will find, Beside a tree and next a stack; And soon my mother will be back, And I feel sure will let you in. [Mocking laughter is heard. But the storm suddenly ceases, and Keeper falls asleep. Strong voices, without. Helper. And so, you see, the fight is done; What say you, Tempter? Tempter. You have won; Ho, ho! Helper. Laugh on! My turn begins; And yet, though he may laugh that wins, I do not laugh. Tempter. Do laugh! You may— My turn will come another day! Helper. Mischievous mocker, now begone! For this time, well the fight is won. [While this has been going on, Keeper eats his dinner. Soft music. He falls fast asleep in his chair. The Helper, dressed in purple and white, suddenly appears in the cottage, and sits down opposite Little Keeper. A bright light is seen. Helper. And more is won, too, than the fight. Keeper (starting up). What means—what mean this sudden light? Ah, who are you, sir? Is all right? Helper. I am called the Helper! Are you afraid? Keeper. No, sir. Your countenance has something in it that prevents my being afraid. But my mother told me to let no one in till the church clock struck four. Helper. You did not let me in. I came in. Keeper. Ah, the door, the door! No—I see that is safe. Helper. You will try the window next, I suppose? Keeper. That also is safe, I perceive. Helper. Well? Keeper. You look too white and clean to have come down the chimney, sir. Helper. Right! I never break into people's places, for one thing. Keeper. No, sir; you do not look as if you ever broke into places. Helper. And I never sneak into places either. Keeper. No, sir; you do not look as if you ever snoke—I mean sneaked into places. Helper. Then what, upon the whole, do you think? Keeper (rubbing his eyes). I think I have been dreaming. Helper. And what else? Keeper. I think (again rubbing his eyes) I must still be dreaming! Helper. But I heard you call upon the wise and kind spirits just now. Keeper. Perhaps that was part of the dream. Helper. But I am not part of the dream, and I say I heard you. Keeper. Yes, sir; only, if I am dreaming, why should not you be dreaming? I mean if I dreamt I spoke, why should not you dream you heard what I said? Helper. Well; but if it was all a dream, that would be the same as if it was all real, would it not? Keeper. Yes, I see. I mean, sir, I do not see. Helper. Discussion is not good for your health. How do you feel? Keeper. A good deal better than before I—dreamt, or dreamt I dreamt, or did it all wide-awake—you know what I mean, sir. Please, if you are a doctor —(putting out his tongue). Helper. Oh, I don't want to see your tongue; I begin lower down. Keeper. Lower down, sir? Helper. Yes; and I also begin higher up. Keeper. Yes, sir, I see; I mean I do not see. Helper. At all events, you see that I am looking at you very steadfastly? Keeper (beginning to drowse). Yes, sir. Helper. I lay my hand first upon your heart. Keeper (drowsing fast, and smiling). Yes, sir. Helper. I lay my hand next upon your head. Keeper (very faintly). Yes, sir. [He sleeps. Voices, without, singing. Peace be on thee, little one, For thy little fight well-won; And, since life with war is vext, Be thou stronger for the next! [The Helper stands in benediction over him; then vanishes, as the church clock strikes four. Keeper (awaking). Hark, hark, the church clock striking four! [A knocking. And 'tis my mother at the door. [Undoing it. Enter the Mother. Mother. Why, child, how strong and well you seem! Keeper. Oh! I have had such a curious dream! At least, mother—I have forgot Whether it was a dream or not. Why, he is gone! [Looking around. Mother. Gone? Who is gone? Keeper (rubbing his eyes). I cannot tell! Mother. I see, my son, You have been dreaming. Keeper. I cannot tell; But, mother dear, I feel so well! [Turns a summersault or two. What do you say to that? Mother. My hair Will stand on end soon, I declare! I fear my child is off his wits; Or, mercy! going to have fits. [Aside. [A noise of boys and girls without. Big Spiteful comes to the window and shouts in. Spiteful. Keeper, Keeper, Sulky sleeper! Will not work and will not play, And when we call he hides away! Mother (opening the door). Be off, you naughty girls and boys, And do not plague us with your noise. [They all rush in uproariously. Spiteful. Now, little one, try a fall with me! And you shall see what you shall see. Mother. My dear, he'll break your precious bones, Or crack your head against the stones! Boys and Girls. Ha, ha! hooray! Spiteful. Now, try your skill, And see what you can do. [Mockingly. Keeper. I will. [He throws Spiteful, and turns him out. Mother. Well, this is most astonishing; I never heard of such a thing! Keeper. To-morrow, mother, I will go, And work for both of us, you know; But now I feel inclined for play; And so here goes! [Turns summersaults at pleasure amid general astonishment. Boys and Girls. Hooray, hooray!</field>
+   </doc>
+</add>

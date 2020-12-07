@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia</field>
+      <field name="author_facet">University of Virginia</field>
+      <field name="author_sort_facet">university of virginia</field>
+      <field name="author_text">University of Virginia</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1920's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2005_Q2_2/uvaBook/tei/z000000288.xml</field>
+      <field name="date_indexed_facet">201909240342</field>
+      <field name="date_text">August 15, 1922</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:116558</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The University of Virginia record. New Series Vol. VIII, No. 10, August 15, 1922</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia -- Periodicals</field>
+      <field name="subject_text">University of Virginia -- Periodicals</field>
+      <field name="title_display">The University of Virginia record.  New Series Vol. VIII, No. 10, August 15, 1922</field>
+      <field name="title_facet">university of virginia record</field>
+      <field name="title_sort_facet">university of virginia record</field>
+      <field name="title_text">The University of Virginia record.  New Series Vol. VIII, No. 10, August 15, 1922</field>
+      <field name="year_display">August 15, 1922</field>
+      <field name="year_facet">1922-08-15</field>
+      <field name="year_multisort_i">1922</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:116558&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:116558&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The University of Virginia record. New Series Vol. VIII, No. 10, August 15, 1922&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;university of virginia record&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;August 15, 1922&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1922-08-15&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The University of Virginia record&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="volume"&gt;New Series Vol. VIII&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="issue"&gt;No. 10&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;August 15, 1922&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Va.&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="LC call number"&gt;LD5667 .A43&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;LD5667.2&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;X004169701&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;o07560180&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;8 p. ; 23 cm.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia -- Periodicals&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The University of Virginia Record&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="volume"&gt;New Series, 8&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="issue"&gt;10&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1922-08-15&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2005&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2005 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 22 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE UNIVERSITY OF VIRGINIA RECORD New Series, Vol. VIII, No. 10 August 15, 1922 Corcoran School of Philosophy ANNOUNCEMENTS 1922-1923 Entered as Second-Class Matter September 28, 1914, at the Post-office at Charlottesville, Virginia, under the Act of August 24, 1912.</field>
+      <field name="fulltext">CALENDAR. 1922 Tuesday, January 3 Beginning of Second Term. Wednesday, March 8—Saturday, March 18, Second Term Academic Examinations. Monday, March 20 Beginning of Third Term. Thursday, April 13 Jefferson Day (Holiday). Monday, May 29—Thursday, June 8 Final Academic Examinations. Monday, June 5—Saturday, June 10 Entrance Examinations. Sunday, June 11 Baccalaureate Sermon. Monday, June 12 Alumni Day. Meeting of the Rector and Visitors. Tuesday, June 13 Final Day. Monday, June 19 Opening of the Summer Quarter, First Term. Saturday, July 29 Closing of the Summer Quarter, First Term. Monday, July 31 Opening of the Summer Quarter, Second Term. Saturday, September 2 Closing of the Summer Quarter, Second Term. Monday, September 11—Saturday, September 16, Entrance Examinations. Thursday, September 14 Beginning of Ninety-eighth Session. Thursday, September 14—Saturday, September 16, Registration Days. Monday, September 18 Beginning of Lecture Courses. Thursday, September 28 University Convocation. Thursday, November 30 Thanksgiving Day (Holiday). Tuesday, December 12—Friday, December 22, First Term Academic Examinations. Saturday, December 23—Tuesday, January 2, Christmas Recess. 1923 Wednesday, January 3 Beginning of Second Term. Wednesday, March 7—Saturday, March 17, Second Term Academic Examinations. Monday, March 19 Beginning of Third Term. Friday, April 13 Jefferson Day (Holiday). Monday, May 28—Thursday, June 7 Final Academic Examinations. Monday, June 4—Saturday, June 9 Entrance Examinations. Sunday, June 10 Baccalaureate Sermon. Monday, June 11 Alumni Day. Meeting of the Rector and Visitors. Tuesday, June 12 Final Day.</field>
+      <field name="fulltext">CORCORAN SCHOOL OF PHILOSOPHY. ANNOUNCEMENT OF COURSES FOR 1922-1923. ALBERT LEFEVRE, B.A., Ph.D., LL.D. Professor of Philosophy ALBERT G. A. BALZ, M.A., Ph.D. Professor of Philosophy GEORGE O. FERGUSON, JR., M.A., Ph.D. Professor of Psychology and Educational Psychology WILLIAM S. A. POTT, B.A., M.A. Assistant Professor of Philosophy Owing to the increase in the teaching staff in the Corcoran School of Philosophy, the addition of new courses, and the reorganization of the work of the School, this special announcement is issued to take the place of the statements concerning courses in the current catalogue. The announcement of courses taught by Professor Lefevre remains unchanged. Professor Balz, who has been temporarily in charge of the courses in Psychology in this School and whose time has been divided between courses in Philosophy and in Psychology, is relieved of responsibility for the work in Psychology. The classes in Psychology in this School will be in charge of Professor Ferguson, whose previous title of Professor of Educational Psychology has been changed to Professor of Psychology and Educational Psychology. Mr. W. S. A. Pott, formerly Professor of Philosophy in St. John's University, Shanghai, returns to the position of Assistant Professor of Philosophy held by him in 1916-1917. The nomenclature of the courses in the School of Philosophy has been changed in some respects. The courses in Psychology have been grouped under the sub-heading "Psychology." The course hitherto listed as Philosophy C2, Social Psychology, is now designated Philosophy B3, Social Philosophy, to correspond with partial changes of character and content. Education B1, The History of Education, hitherto announced only in the Department of Education and taught by Professor Ferguson, is altered to The History and Philosophy of Education to indicate changes in its content, and will be taught by Professor Pott. This course will be designated Education B1 in the announcement of the Department of Education and Philosophy B6 in the announcement of this School. In a similar way, Psychology C1 and C2 are listed in the statement of courses of both the School of Philosophy and the Department of Education, and in the latter are called Education C1 and C6 respectively. Students are advised not to undertake the work of this School before their second session in the College. I. PHILOSOPHY. Philosophy B1: Logic.—First term: Deductive Logic. Second term: Inductive Logic. Special attention is directed to the analysis of logical arguments and to the detection of fallacies in reasoning. Third term: a critical exposition of different theories of knowledge.—(B.A. or B.S. credit, 3 session-hours.) Two sections. Professors Lefevre and Pott. Philosophy B2: Ethics.—The course deals with the general development and the different types of theories of morality, and is intended to aid the student in reaching a constructive result.—(B.A. or B.S. credit, 3 session-hours.) Professor Lefevre. Philosophy B3: Social Philosophy.—First term: social psychology. Second and third terms: discussion of the chief social problems of the present day, in the light of the principles of social psychology.—(B.A. or B.S. credit, 3 session-hours.) Professor Balz. Philosophy B4: History of Morals: Not open to first-year students.— A descriptive and genetic study of moral ideas and practices at different stages of society and in different civilizations, with a view to showing the progressive character of morality and its present social significance.—(B.A. or B.S. credit, 3 session-hours.) Professor Balz. Philosophy B5: Philosophy of Government: Not open to first-year students.—The chief aim of the course is a study of the leading philosophical conceptions of government in Western civilization. The course will also include the examination of the chief political ideas of Oriental civilization, with the purpose of placing Western conceptions in wider perspective.—(B.A. or B.S. credit, 3 session-hours.) Assistant Professor Pott. Philosophy B6: (Education B1): History and Philosophy of Education.—A study of the chief educational ideals of mankind in relation to their social and historical conditions, and as the expression of corresponding philosophies of life.—(B.A. or B.S. credit, 3 session-hours.) Assistant Professor Pott. Philosophy C1: History of Philosophy: Pre-requisite: any two "B" courses listed in this school.—The lectures trace the development of philosophical thought from the early Greeks to the middle of the nineteenth century. The endeavour is made to present the various philosophical systems in their relation to the civilization of the age in which they belong, and to estimate their social and political significance.—Professor Lefevre. Philosophy C2: The Problems of Philosophy: Pre-requisite: any two "B" courses listed in this school.—The field of philosophy and its relations to science and religion. The analysis of persistent problems, rather than systems, with the purpose of giving the student an insight into typical solutions.—Professor Balz. Philosophy C3: Recent Philosophical Tendencies: Open to students who have taken or are taking Philosophy C1 or C2.—A critical study of various philosophers representing recent and contemporary movements.— Professor Balz. Philosophy C4: Oriental Philosophy: Open to students who have taken or are taking Philosophy C1 or C2.—The philosophy of India and China.—(Not offered in 1922-1923.) Assistant Professor Pott. Only one of the following courses will be given in the session 1922-1923. Philosophy D1: Empiricism and Rationalism: Admission on approval of the professors in charge.—The empirical movement as represented by Locke, Berkeley, and Hume, and the rationalistic movement as represented by Descartes, Spinoza, and Leibnitz are studied with reference to their distinctive methods.—Professors Lefevre, Balz, and Pott. Philosophy D2: The Critical Philosophy of Kant: Admission on approval of the professors in charge.—A study of the Critique of Pure Reason, of the Critique of Practical Reason, and of the Critique of Judgment. Special attention is given to Kant's relation to previous philosophical systems, to the development of his own philosophy, and to the interrelation of the three Critiques.—Professors Lefevre, Balz, and Pott. Philosophy D3: Admission on approval of the professors in charge.— A study of Fichte's Wissenschaftslehre; of selections from Schelling's works; and of Hegel's Logic.—Professors Lefevre, Balz, and Pott. Further advanced work will be arranged in accordance with the needs of individual students. II. PSYCHOLOGY. Psychology B1: General Psychology.—A survey of the main principles of psychology, either as part of a liberal education or as preparation for professional study.—(B.A. and B.S. credit, 3 session-hours.) Professor Ferguson. Psychology C1: (Education C1): The Learning Process and Individual Differences: Psychology B1 or Education B2 and one other "B" course in Philosophy or Education pre-requisite.—A study of the nature and laws of learning and of individual and group differences due to such factors as sex, race, heredity, environment.—To be given in alternate years with Psychology C2.—Professor Ferguson. Psychology C2: (Education C6): Mental Tests and Their Applications: Psychology B1 or Education B2 and one other "B" course in Philosophy or Education pre-requisite.—A study of the more important mental tests and intelligence scales, with practice in their administration and interpretation.—To be given in alternate years with Psychology C1.— Professor Ferguson. Psychology D1: Admission on approval of the professor in charge.— Advanced work to meet the needs of individual students.—Professor Ferguson. SCHEDULE. Hours Mon.-Wed.-Friday Tues.-Thurs.-Saturday 9-10 Phil. C1. Phil. C2. 10-11 Phil. B2. Phil. B5. Phil. B6. Psy. C1 or C2. 11-12 * * The hour for Phil. C3 is subject to change to meet conflicts in the schedules of students desiring to enter the course. Phil. C3. Phil. B1: Sect. II. Psy. B1. Phil. B3. 12-1 Phil. B1: Sect. I. Phil. B4.</field>
+   </doc>
+</add>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Paterson, Ninian</field>
+      <field name="author_facet">Paterson, Ninian</field>
+      <field name="author_sort_facet">paterson ninian</field>
+      <field name="author_text">Paterson, Ninian</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.1109.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">[1688]</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:465305</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">Prince and Stewart of Scotland ; Duke of Rothsay, Earl of Carrick, Lord of the Isles, Knight and Baronet of Renfrew [by Ninian Paterson</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">Prince and Stewart of Scotland ; Duke of Rothsay, Earl of Carrick, Lord of the Isles, Knight and Baronet of Renfrew [by Ninian Paterson</field>
+      <field name="title_facet">prince and stewart of scotland</field>
+      <field name="title_sort_facet">prince and stewart of scotland</field>
+      <field name="title_text">Prince and Stewart of Scotland ; Duke of Rothsay, Earl of Carrick, Lord of the Isles, Knight and Baronet of Renfrew [by Ninian Paterson</field>
+      <field name="year_display">[1688]</field>
+      <field name="year_facet">1688</field>
+      <field name="year_multisort_i">1688</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:465305&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:465305&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Paterson, Ninian&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;paterson ninian&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Prince and Stewart of Scotland ; Duke of Rothsay, Earl of Carrick, Lord of the Isles, Knight and Baronet of Renfrew [by Ninian Paterson&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;prince and stewart of scotland&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;[1688]&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1688&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Paterson, Ninian&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Prince and Stewart of Scotland&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Duke of Rothsay, Earl of Carrick, Lord of the Isles, Knight and Baronet of Renfrew [by Ninian Paterson]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;[Edinburgh]&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;[1688]&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp2972&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;[broadside]&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Prince and Stewart of Scotland&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Duke of Rothsay, Earl of Carrick, Lord of the Isles, Knight and Baronet of Renfrew [by Ninian Paterson]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 8 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Latin verse omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Prince and Stewart OF SCOTLAND, Duke of Rothsay, Earl of Carrick, Lord of the Isles, Knight and Baronet of Renfrew. As the couragious, and high bounding Steed, Like those of Great Laomedon his Breed, With Fire and Air, performs his prancing Course, His Neck with Thunder Arm'd, his Breast with Force, And with Triumphant Rage beats out the Race, As if an Engine shot Him to the Place; At last descended to the Vale of Years, He only groans when he the Trumpet hears, Yet heated with the known and Martial Sound, He Stamps, and Champs and Nighs, and Beats the Ground: So I the Muses having bid farewell, Broke with the Climming of Parnassus Hill, To whom as great Content Retirement brings, As those that Glitter in the Courts of Kings; With Joy beholding these Heart ravish'd Throngs Of Acclamations, and Harmonious Songs, Unto our High-born Prince, a Stranger here, Can gladly yet make one to fill the Quire. Just as the King of Flames, whose darting Eye Night-wandring Stars with fainting Splendour flee, When in his Dazling Chariot he doth rise, And shuts the Lids of all Heav'ns lesser Eyes, And in his Dawning (tho to Pur-blind gray) Blazons the Ensign of a glorious Day; So is thy Birth to every Loyal Scot Great Prince, our Joy, our Blood, our Breath, what not? England thy Cradle though we must avow, Yet unto Scotland, thou thy Blood doth ow. Let no more difference then possess this Earth. Thou'rt Ours by Blood, though thou art theirs by Birth. What ever can be boasted from the Source, The Glory of thy Ancestours is ours. Just when the Sucking Infancy doth Bloom Of this Auspicious Year, the Prince doth come. In that same beauteous, and jolly Tide, When Madam Flora appeareth in her pride. To show propitious Heavens will still defend him, Earth's Peace and Plenty ever will attend him. That with united Raptures, Forth, and Thames, May still Pray GOD bless MARY, GOD bless JAMES. GOD bless the Prince, and may he always move, Upon the fixed Poles of Truth, and Love: May never Rage nor War this Isle re-enter, Love our Circumference, Love be our Center; And may the busie Spider keep her Task, Within the Belly of the plummed Cask. May every Heart conspire, with every Tongue, To Implore his Years may be Renown'd, and long. Sic optat &amp; orat. N. PATERSON.</field>
+   </doc>
+</add>

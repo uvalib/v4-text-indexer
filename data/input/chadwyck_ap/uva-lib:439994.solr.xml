@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Hay, John, 1838-1905</field>
+      <field name="author_facet">Hay, John, 1838-1905</field>
+      <field name="author_sort_facet">hay john 1838 1905</field>
+      <field name="author_text">Hay, John, 1838-1905</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ap/uvaGenText/tei/chap_AM0547.xml</field>
+      <field name="date_indexed_facet">201909240350</field>
+      <field name="date_text">1882</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey American Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey American Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:439994</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Pike County ballads and other pieces</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">American poetry -- 19th century</field>
+      <field name="subject_text">American poetry -- 19th century</field>
+      <field name="title_display">Pike County ballads and other pieces</field>
+      <field name="title_facet">pike county ballads and other pieces</field>
+      <field name="title_sort_facet">pike county ballads and other pieces</field>
+      <field name="title_text">Pike County ballads and other pieces</field>
+      <field name="year_display">1882</field>
+      <field name="year_facet">1882</field>
+      <field name="year_multisort_i">1882</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:439994&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:439994&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Hay, John, 1838-1905&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;hay john 1838 1905&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Pike County ballads and other pieces&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;pike county ballads and other pieces&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1882&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1882&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Hay, John&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1838&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1905&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Pike County ballads and other pieces&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Boston&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Houghton, Mifflin and Company&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1882&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3865563-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;cham0547&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;American poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Pike County ballads and other pieces&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Alexandria, VA&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Inc.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 11 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted ; verse reproduced elsewhere in American</field>
+      <field name="desc_meta_file_display">Poetry omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-AmPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">IN CHURCH. I never may know the peace that sleeps In the light serene of your kindly eyes, As true as the sentinel-star that keeps His circling tryst in the boreal skies. Unknown to me is the faith they speak, And strange the flash of their silent prayer, And the sacred joy that climbs your cheek To hang its fluttering signals there. As the star-beams light on the tossing brine And hallow the surge of its wild unrest, Your eyes in their tender pity shine To light the gloom of my doubting breast. And hope springs up in their earnest gleams As a flower that leaps from the sun-kissed sod, And I love their light as a beacon that beams To lead me trustingly up to God. If ever I stand by the jasper sea, Whose bright waves flash in their awful pride, The mingled strain of my thanks shall be That you have lived and that Christ has died. By the life-stream glassing the Eden-flowers I will walk with you under shadowless skies, And on forever through amaranth bowers I will follow the light of your guiding eyes. I. CEDAR MOUNTAIN. It was a rare good fortune to our arms, That, when the flushed foe through the mountains poured, He found there by the rushing river-ford One whose calm soul was stranger to alarms. Serene amid the conflict's fiery harms, Master of fate, of his own spirit lord, Like that stout knight on whose firm mail the sword Clashed shivering, glanced, nor burst the faery charms. An Iron Man! in happier days that name Hailed him the peaceful champion of the North; And now the faithful years have blazoned forth Its splendid prophecy in the battle's flame. Twice-fortunate brow where grandly darkening down The warrior-laurel shades the civic crown! II. PORT HUDSON. Again thy name the listening nation thrills! Coy Victory, won with war's importunate roar, Crowns thy rough wooing by the Western shore, As once amid Virginia's breezy hills. The mighty thunder of thy triumph fills The guilty South; its stealthy echoes pour Through treason-haunted regions, evermore Waking wild whispers, and the nameless ills Of bondage wasting with the potent light Of hope; for slavery death-stricken lies Where the vague fame of thy black warrior flies. The bloody shapes that troubled the dead night Of woe and war fade as the dawn grows bright, And day comes flushing up the tranquil skies. AT SUNSET. Into the grave of twilight The red gleam fades away, And the westering clouds grow sombre With love of the dying day. In the eve's soft flush The gloaming's hush Comes down on the rippled bay. The towering hills stand saintly, Each grand head halo-crowned, And the vagrant shadows wander To the slope of the grassy ground; The languid breeze Stirs not the trees In the trancing twilight bound. Now climbs the vanishing glimmer To the mountain's umber crest, The sunset's molten glory Glows gold on the water's breast; From Heaven's dim crown Comes kindly down The gracious spirit of rest. The cordial soul of the sunset Steals warm to my heart like wine, My weary eyes look fondly Far over the glowing brine; And tenderly beams In a mist of dreams A joy that shall never be mine. Sweet eyes whose proud dark splendor Is melted in love's soft beams, The still queen-features glorious In the dawn of love's first gleams; Imperial lips In the dear eclipse Of passion's tropical dreams. Dear Heaven! to hear the rose-lips Breathe falteringly my name, To see the soft cheek flushing With the joy of maiden shame! And feel the bliss Of her passionate kiss Touch every vein to flame. And my saddened love seems lovelier In the tender evening shine, And a vague hope wakes that a love so true With an answering love must twine. That Heaven will bend And the love descend, For ever and ever mine! Fades the fair light from the waters,— Cold shimmer the stars above,— The desolate night-wind shudders Through the dusk of the gloomy grove. The vision is gone,— I sit alone With darkness and silence and love.</field>
+   </doc>
+</add>

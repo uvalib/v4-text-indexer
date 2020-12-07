@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Peele, George, 1556-1596</field>
+      <field name="author_facet">Peele, George, 1556-1596</field>
+      <field name="author_sort_facet">peele george 1556 1596</field>
+      <field name="author_text">Peele, George, 1556-1596</field>
+      <field name="composition_era_facet">16th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.2228.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1585</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464577</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Device of the Pageant ; borne before Woolstone Dixi Lord Maior of the Citie of London. An. 1585. October 29</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">The Device of the Pageant ; borne before Woolstone Dixi Lord Maior of the Citie of London. An. 1585. October 29</field>
+      <field name="title_facet">device of the pageant</field>
+      <field name="title_sort_facet">device of the pageant</field>
+      <field name="title_text">The Device of the Pageant ; borne before Woolstone Dixi Lord Maior of the Citie of London. An. 1585. October 29</field>
+      <field name="year_display">1585</field>
+      <field name="year_facet">1585</field>
+      <field name="year_multisort_i">1585</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464577&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464577&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Peele, George, 1556-1596&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;peele george 1556 1596&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Device of the Pageant ; borne before Woolstone Dixi Lord Maior of the Citie of London. An. 1585. October 29&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;device of the pageant&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1585&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1585&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Peele, George&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1556&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1596&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Device of the Pageant&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;borne before Woolstone Dixi Lord Maior of the Citie of London. An. 1585. October 29&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Imprinted by Edward Allde&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1585&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp3007&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;[5] p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Device of the Pageant&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;borne before Woolstone Dixi Lord Maior of the Citie of London. An. 1585. October 29&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 18 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">A Speech spoken by him that rid on a Luzarne before the Pageant apparelled like a Moore. From where y? Sun dooth settle in his wayn And yoakes his Horses to his fiery Carte, And in his way giues life to Ceres Corne, Euen from y? parching Zone behold I come A straunger straungely mounted as you see, Seated vpon a lusty Luzerns back. And offer, to your Honour (good my Lord) This Emblem thus in showe significant. Loe louely London riche and fortunate, Famed through the Worlde for peace and happinesse: As heer aduaunc't and set in Highest seat, Beawtified throughly as her state requires. First, ouer her a Princely Trophey standes, Of beaten golde: a riche and Royall Armes: Wher-too this London euer more bequeathes, Seruice of Honour and of Loyaltie. Her props are well aduised Maiestrates, That carefully attend her person still. The honest Franklin and the Husband-man, Layes downe his sackes of Corne at Londons feet, And bringes such presents as the Countrie yeeldes. The pleasaunt Thames a sweet and daintye Nymphe, For Londons good conuayes with gentle streame, And safe and easie passage what shee can, And keepes her leaping Fishes in her lappe. The Souldier and the Sayler franckly bothe, For Londons ayde are all in readines, To Uenture and to fight by Land and Sea. And this thrise reuerend honorable Dame, Science the sap of euery common wealth. Surnam'd Mechanicall or Liberall Is vowed to honour London with her skill, And London by these freendes so happy made: First thankes her God the Author of her peace, And next, with humble gesture as becomes, In meeke and lowly manner dooth she yeeld, Her selfe her welthe with hart and willingnes. Unto the person of her gracious Queene, Elizabeth renowned through the world, Stall'd and annointed by the highest powre, The God of Kings that with his holy hand, Hath long defended her and her England. This now remaines right honourable Lord, That carefully you doo attend and Keep, This louely Lady rich and beautifull, The Iuel wherwithall your soueraigne Queene, Hath put your honor louingly in trust: That you may adde to Londons dignity, And Londons dignity may adde to yours, That woorthely you may be counted one, Among the number of a many moe: Carefull leeftenaunts, carefull Maiestrates, For Londons welfare and her worthines. Dixi. Spoken by the Children in the Pageant viz. London. New Troye I hight whome Lud my Lord surnam'd, London the glory of the western side: Throughout the world is louely London fam'd, So farre as any sea comes in with tide. Whose peace and calme vnder her Royall Queene: Hath long bin such as like was neuerseene. Then let me liue to caroll of her name, that she may euer liue and neuer dye: Her sacred shrine set in the house of fame, consecrate to eternall memorie. My peerles mistresse soueraigne of my peace: Long may she ioy with honours great increase. Magnanimity. The Cuntry and the Thames affoord their aide, and carefull Maiestrates their care attend: All English harts are glad, and well appaide, in readines their London to defend. Defend them Lord and these faire Nimphs likewise: that euer they may doo this sacrifice. Loyaltie. The greatest treasure that a Prince can haue, dooth louely London offer to her Queene, Such loyaltie as like was neuer seene. and such as any English hart can craue. The Cuntry For Londons aide the Cuntry giues supplie, of needfull things, and store of euery graine: London giue thanks to him that sits on hie, had neuer Towne lesse cause for to complaine, And loue and serue the soueraigne of thy peace: Under whose raigne thou hast this rich encrease, The Thames. With siluer glide my pleasaunt streams do runne, where leaping fishes play betwixt the shores: This gracious good hath God and kinde begun, for Londons vse with help of Sailes and Ores. London reioyce and giue thy God the praise: For her whose highnes lengths thy happy daies. The Souldier. Armour of safe defence the Souldier hath, So louely London carefully attends: To keep her sacred soueraigne from skathe, That all this english land so well defends. And so farre London bids her souldiers goe, As well may serue to sheeld this land from woe. The Sayler. The Sayler that in colde and quaking tide, the wrathfull stormes of Winters rage dooth bide With streamers stretcht, prepares his mery bark, for cuntries welth to set his men awark. That Queene and Cuntry eazely may see: The Sea-man serues his Prince in his degree. Science. For Londons safety and her happines, the Souldier and the Sayler may you see: All well prepar'd and put in redines, to doo such seruice as may fitting be, and Arte with them doo ioyne and they with me. London then ioy and let all ages knowe, What duty to thy soueraigne thou doost owe. The first Nymphe. Thus with the morning Sun and euening starre, these holy lights shall burne, the cheerfull flame With sweetest odour shall perfume as farre as India stands in honor of her name. Whose Trophey we adore with sacred rights: With sweetest incense and with endles lights. The Second Nymph. So long as Sunne dooth lend the world his light, or any grasse dooth growe vpon the ground: With holy flame, our Torches shall burne bright, and fame shall brute with golden trumpets sound The honor of her sacred regiment: That claimes this honorable monument. The third Nymph. Our holy lights shall burne continually, to signifie our duties to her state: Whose excellent and princely maiestye, approoues it selfe to be moste fortunate. The fourt Nymphe. Vertue shall witnes of her woorthines, and fame shall register her princely deeds: The world shall still pray for her happines, from whome our peace and quietnes proceeds. Donne by George Peele Maister of artes in Oxford.</field>
+   </doc>
+</add>

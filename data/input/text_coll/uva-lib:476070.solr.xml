@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">H.D. (Hilda Doolittle)</field>
+      <field name="author_facet">H.D. (Hilda Doolittle)</field>
+      <field name="author_sort_facet">hd hilda doolittle</field>
+      <field name="author_text">H.D. (Hilda Doolittle)</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1920's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/HdThree.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">1920</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476070</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Three Poems</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">Three Poems</field>
+      <field name="title_facet">three poems</field>
+      <field name="title_sort_facet">three poems</field>
+      <field name="title_text">Three Poems</field>
+      <field name="year_display">1920</field>
+      <field name="year_facet">1920</field>
+      <field name="year_multisort_i">1920</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476070&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476070&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;H.D. (Hilda Doolittle)&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;hd hilda doolittle&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Three Poems&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;three poems&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1920&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1920&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;H.D. (Hilda Doolittle)&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Three Poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1920&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1920&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;H.D. also goes by the name of Mrs. Richard Aldington; this poem</field>
+      <field name="desc_meta_file_display">was scanned from "The Dial" 69 (Nov 1920): 509-513.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Three Poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 10 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THREE POEMS BY H. D. HELIOS Helios makes all things right— night brands and chokes, as if destruction broke over furze and stone and crop of myrtle-shoot and field-wort, destroyed with flakes of iron, the bracken-stems, where tender roots were, sown blight, chaff and waste of darkness to choke and drown. A curious god to find, yet in the end faithful; bitter, the Kyprian's feet— ah, flecks of whited clay, great hero, vaunted lord— ah, petals, dust and windfall on the ground—queen awaiting queen. Better the weight, they tell, the helmet's beaten shell, Athene's riven steel, caught over the white skull, Athene sets to heel the few who merit it. Yet even then, what help, should he not turn and note the height of forehead and the seal of conquest, drawn near, and try the helmet; to lift—reset the crown Athene weighted down, or break with a light touch mayhap the steel set to protect; to slay or heal. A treacherous god, they say, yet who would wait to test justice or worth or right, when through a fetid night is wafted faint and nearer— then straight, as point of steel to one who courts swift death, scent of Hesperidean orange-spray. PHAEDRA REMEMBERS CRETE Think, O my soul, of the red sand of Crete; think of the earth, the heat burnt fissure like the great backs of the temple serpents; think of the world you knew; as the tide crept, the land burned with a lizard-blue where the dark sea met the sand. Think, O my soul— what power has struck you blind— is there no desert root, no forest-berry, pine-pitch or knot of fir known that can help the soul caught in a force, a power, passionless, not its own? So I scatter, so implore Gods of Crete, summoned before with slighter craft; ah, hear my prayer: Grant to my soul the body that it wore, trained to your thought, that kept and held your power, as the petal of black power the opiate of the flower. For art undreamt in Crete, strange art and dire, in counter-charm prevents my charm, limits my power: pine-cones I heap grant answer to my prayer. No more, my soul— as the black cup, sullen and dark with fire, burns till beside it, noon's bright heat is withered, filled with dust, and into that noon-heat grown drab and stale, is sudden sound of thunder and swift rain, till the scarlet flower is wrecked in the slash of the white hail. The poppy that my soul was, formed to bind all mortals, made to strike and gather hearts like flame upon an altar, fades and shrinks, a red leaf— waste and drift of the cold rain. PHAEDRA REBUKES HIPPOLYTA Swift and a broken rock clatters across the steep shelf of the mountain-slope, sudden and swift, and breaks as it clatters down into the hollow breach of the dried water-course; far and away (through fire, I see it, and smoke of the dead, withered stalks of the wild cistus-brush) Hippolyta, frail and wild, galloping up the slope between great boulders and shelves and circles of rock. I see it, sharp, this vision, and each fleck on the horse's flanks of foam, the bridle and bit, the silver—the reins, held fast with perfect art, the sun, striking athwart the silver work, the neck, strained forward, ears alert, and the head of the girl flung back and her throat. Ah, burn my fire, I ask out of the smoke-ringed darkness enclosing the flaming disk of my vision— I ask for a voice—an answer— was she chaste? Who can say, the broken ridge of the hills was the line of a lover's shoulder, his arm-turn, the path to the hills, the sudden leap and swift thunder of mountain-boulders, his laugh. She was mad— as no priest, no lovers' cult could grant madness; the wine that entered her heart with the touch of the mountain-rocks was white, intoxicant: she, the lithe and remote, was betrayed by the glint of light on the hills, the granite splinters of rock, the touch of the stone where heat melts toward the shadow-side of the rocks.</field>
+   </doc>
+</add>

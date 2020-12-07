@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Goldsmith, Oliver, 1730-1774</field>
+      <field name="author_facet">Goldsmith, Oliver, 1730-1774</field>
+      <field name="author_sort_facet">goldsmith oliver 1730 1774</field>
+      <field name="author_text">Goldsmith, Oliver, 1730-1774</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1770's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V2.0937.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1772</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460445</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Threnodia Augustalis</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 18th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 18th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Threnodia Augustalis</field>
+      <field name="title_facet">threnodia augustalis</field>
+      <field name="title_sort_facet">threnodia augustalis</field>
+      <field name="title_text">Threnodia Augustalis</field>
+      <field name="year_display">1772</field>
+      <field name="year_facet">1772</field>
+      <field name="year_multisort_i">1772</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460445&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460445&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Goldsmith, Oliver, 1730?-1774&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;goldsmith oliver 1730 1774&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Threnodia Augustalis&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;threnodia augustalis&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1772&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1772&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Goldsmith, Oliver&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1730&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1774&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Threnodia Augustalis&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for W. Woodfall [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1772&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872484-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv20937&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Threnodia Augustalis&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 24 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Threnodia augustalis.</field>
+      <field name="desc_meta_file_display">Genre: Operetta.</field>
+      <field name="desc_meta_file_display">Date first published: 1772.</field>
+      <field name="desc_meta_file_display">Date first performed: 20 Feb 1772.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THRENODIA AUGUSTALIS</field>
+      <field name="fulltext">SACRED TO THE MEMORY Of HER late ROYAL HIGHNESS The PRINCESS DOWAGER of WALES,</field>
+      <field name="fulltext">Advertisement. The following may more properly be termed a Compilation than a Poem. It was prepared for the Composer in little more than two days; and may therefore rather be considered as an industrious Effort of gratitude than of Genius. In justice to the Composer it may likewise be right to inform the Public, that the Music was adapted in a period of time equally short.</field>
+      <field name="fulltext">SPEAKERS Mr. Lee and Mrs. Bellamy. SINGERS Mr. Champnes, Mr. Dine, AND Miss Jameson; WITH Twelve Chorus Singers. THE MUSIC PREPARED AND ADAPTED BY Signor Vento.</field>
+      <field name="fulltext">Overture a solemn Dirge. AIR. Trio. Arise ye sons of worth, arise And waken every note of woe, When truth and virtue reach the skies, 'Tis ours to weep the want below. CHORUS. When truth and virtue reach the skies, 'Tis ours to weep the want below. MAN Speaker. The praise attending pomp and power, The incense given to kings, Are but the trappings of an hour, Mere transitory things! The base bestow them; but the good agree To spurn the venal gifts as flattery.— But when to pomp, and power, are join'd An equal dignity of mind; When titles are the smallest claim; When wealth, and rank, and noble blood, But aid the power of doing good, Then all their trophies last—and flattery turns to fame! Blest spirit thou, whose fame just born to bloom, Shall spread and flourish from the tomb, How hast thou left mankind for heaven! Even now reproach and faction mourn, And, wondering how their rage was born, Request to be forgiven! Alas! they never had thy hate; Unmoved in conscious rectitude Thy towering mind self-centered stood, Nor wanted Man's opinion to be great. In vain, to charm thy ravished sight, A thousand gifts would fortune send; In vain, to drive thee from the right, A thousand sorrows urged thy end: Like some well-fashion'd arch thy patience stood, And purchased strength from its encreasing load. Pain met thee like a friend that set thee free, Affliction still is virtue's opportunity! Virtue, on herself relying, Every passion hush'd to rest, Loses every pain of dying In the hopes of being blest. Every added pang she suffers, Some encreasing good bestows, And every shock that malice offers, Only rocks her to repose. SONG, By a Man. Affettuoso. Virtue, on herself relying, Every passion hush'd to rest, Loses every pain in dying In the hopes of being blest. Every added Pang she suffers, Some encreasing good bestows, Every shock that malice offers, Only rocks her to repose. WOMAN Speaker. Yet ah! what terrors frown'd upon her fate, Death with its formidable band, Fever, and pain, and pale consumptive care, Determined took their stand. Nor did the cruel ravagers design To finish all their efforts at a blow; But, mischievously slow, They robbed the relic and defac'd the shrine.— With unavailing grief, Despairing of relief, Her weeping children round, Beheld each hour Death's growing pow'r, And trembled as he frown'd. As helpless friends who view from shore The labouring ship, and hear the tempest roar, While winds and waves their wishes cross; They stood while hope and comfort fail, Not to assist, but to bewail The inevitable loss.— Relentless tyrant, at thy call How do the good, the virtuous fall? Truth, beauty, worth, and all that most engage, But wake thy vengeance and provoke thy rage. SONG by a Man. Basso. Staccato. Spirituoso. When vice my dart and scythe supply, How great a king of Terrors I! If folly, fraud, your hearts engage, Tremble ye mortals at my rage. Fall, round me fall ye little things, Ye statesmen, warriors, poets, kings, If virtue fail her counsel sage Tremble ye mortals at my rage. MAN Speaker. Yet let that wisdom, urged by her example, Teach us to estimate what all must suffer: Let us prize death as the best gift of nature, As a safe inn where weary travellers, When they have journeyed thro' a world of cares, May put off life and be at rest for ever. Groans, weeping friends, indeed, and gloomy sables May oft distract us with their sad solemnity. The preparation is the executioner. Death, when unmasked, shews me a friendly face, And is a terror only at a distance: For as the line of life conducts me on To death's great court, the prospect seems more fair; 'Tis nature's kind retreat, that's always open To take us in when we have drain'd the cup Of life, or worn our days to wretchedness.— In that secure, serene retreat, Where all the humble, all the great, Promiscuously recline; Where wildly huddled to the eye, The beggars' pouch and princes' purple lie, May every bliss be thine. And ah! blest spirit, wheresoe'er thy flight, Through rolling worlds, or fields of liquid light, May cherubs welcome their expected guest, May saints with songs receive thee to their rest, May peace that claim'd while here thy warmest love, May blissful endless peace be thine above. SONG, By a Woman. Amoroso. Lovely lasting peace below, Comforter of every woe, Heavenly born, and bred on high, To crown the favourites of the sky: Lovely lasting peace appear, This world itself, if thou art here, Is once again with Eden blest, And man contains it in his breast. WOMAN Speaker. Our vows are heard! Long, long to mortal eyes, Her soul was sitting to its kindred skies: Celestial-like her bounty fell, Where modest want and patient sorrow dwell. Want pass'd for merit at her door, Unseen the modest were supplied, Her constant pity fed the poor, Then only poor, indeed, the day she died. And Oh, for this! while sculpture decks thy shrine, And art exhausts profusion round, The tribute of a tear be mine, A simple song, a sigh profound. There faith shall come, a pilgrim grey, To bless the tomb that wraps thy clay; And calm religion shall repair To dwell a weeping hermit there. Truth, fortitude, and friendship shall agree To blend their virtues while they think of thee. AIR. Chorus. Pomposo. Let us, let all the world agree, To profit by resembling thee. END OF THE FIRST PART.</field>
+      <field name="fulltext">PART II. OVERTURE Pastorale. MAN Speaker. Fast by that shore where Thames' translucent stream Reflects new glories on his breast, Where, splendid as the youthful poet's dream, He forms a scene beyond Elysium blest; Where sculptur'd elegance and native grace Unite to stamp the beauties of the place; While, sweetly blending, still are seen The wavy lawn, the sloping green; While novelty, with cautious cunning, Through every maze of fancy running, From China borrows aid to deck the scene. There sorrowing by the river's glassy bed, Forlorn, a rural band complain'd, All whom Augusta's bounty fed, All whom her clemency sustain'd. The good old sire, unconscious of decay, The modest matron, clad in home-spun grey, The military boy, the orphan'd maid, The shatter'd veteran, now first dismay'd; These sadly join beside the murmuring deep, And as they view, the towers of Kew, Call on their mistress, now no more, and weep. Chorus. Affettuoso. Largo. Ye shady walks, ye waving greens, Ye nodding tow'rs, ye fairy scenes, Let all your ecchoes now deplore, That She who form'd your beauties is no more. MAN Speaker. First of the train the patient rustic came, Whose callous hand had form'd the scene, Bending at once with sorrow and with age, With many a tear, and many a sigh between, And where, he cried, shall now my babes have bread, Or how shall age support its feeble fire? No lord will take me now, my vigour fled, Nor can my strength perform what they require: Each grudging master keeps the labourer bare, A sleek and idle race is all their care. My noble mistress thought not so! Her bounty, like the morning dew, Unseen, tho' constant, used to flow; And as my strength decay'd, her bounty grew. WOMAN Speaker. In decent dress, and coarsly clean, The pious matron next was seen, Clasp'd in her hand a godly book was borne, By use and daily meditation worn: That decent decent dress, this holy guide, Augusta's care had well supply'd. And ah! she cries, all woe begone, What now remains for me? Oh! where shall weeping want repair To ask for charity? Too late in life for me to ask, And shame prevents the deed, And tardy, tardy are the times To succour should I need. But all my wants, before I spoke, Were to my mistress known; She still reliev'd, nor sought my praise, Contented with her own. But every day her name I'll bless, My morning prayer, my evening song, I'll praise her while my life shall last, A life that cannot last me long. SONG, By a Woman. Each day, each hour, her name I'll bless, My morning and my evening song, And when in death my vows shall cease, My children shall the note prolong. MAN Speaker. The hardy veteran after struck the sight, Scarr'd, mangl'd, maim'd in every part, Lopp'd of his limbs in many a gallant fight, In nought entire—except his heart: Mute for a while, and sullenly distress'd, At last the impetuous sorrow fir'd his breast. Wild is the whirlwind rolling O'er Africk's sandy plain, And wild the tempest howling Along the billow'd main: But every danger felt before, The raging deep, the whirlwind's roar, Less dreadful struck me with dismay, Than what I feel this fatal day. Oh, let me fly a land that spurns the brave, Oswego's dreary shores shall be my grave; I'll seek that less inhospitable coast, And lay my body where my limbs were lost. SONG by a Man. Basso. Spirituoso. Old Edward's sons, unknown to yield, Shall crowd from Cressy's laurell'd field To do thy memory right: For thine and Britain's wrongs they feel, Again they snatch the gleamy steel, And wish th'avenging fight. WOMAN Speaker. In innocence and youth complaining, Next appear'd a lovely maid, Affliction o'er each feature reigning, Kindly came in beautiey's aid; Every grace that grief dispenses, Every glance that warms the soul, In sweet succession charm'd the senses, While pity harmoniz'd the whole. The garland of beauty, 'tis thus she would say, No more shall my crook or my temple adorn, I'll not wear a garland, Augusta's away, I'll not wear a garland until she return: But alas! that return I never shall see, The ecchoes of Thames' shall my sorrows proclaim, There promis'd a lover to come, but oh me! 'Twas death, 'twas the death of my mistress that came. But ever, for ever, her image shall last, I'll strip all the Spring of its earliest bloom; On her grave shall the cowslip and primrose be cast, And the new-blossom'd thorn shall whiten her tomb. SONG by a Woman. Pastorale. With garlands of beauty the queen of the May No more will her crook or her temples adorn; For who'd wear a garland when she is away, When she is remov'd, and shall never return? On the grave of Augusta these garlands be plac't, We'll rifle the Spring of its earliest bloom, And there shall the cowslip and primrose be cast, And the new blossom'd thorn shall whiten her tomb. CHORUS. Altro Modo. On the grave of Augusta this garland be plac't, We'll rifle the Spring of its earliest bloom, And there shall the cowslip and primrose be cast, And the tears of her country shall water her tomb. THE END.</field>
+   </doc>
+</add>

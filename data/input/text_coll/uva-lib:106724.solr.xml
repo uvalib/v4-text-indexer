@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia</field>
+      <field name="author_facet">University of Virginia</field>
+      <field name="author_sort_facet">university of virginia</field>
+      <field name="author_text">University of Virginia</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1900's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2005_Q2_1/uvaBook/tei/z000000188.xml</field>
+      <field name="date_indexed_facet">201909240342</field>
+      <field name="date_text">November, 1907</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:106724</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The University of Virginia record. Vol. 1, No. 3, November, 1907</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia -- Periodicals</field>
+      <field name="subject_text">University of Virginia -- Periodicals</field>
+      <field name="title_display">The University of Virginia record.  Vol. 1, No. 3, November, 1907</field>
+      <field name="title_facet">university of virginia record</field>
+      <field name="title_sort_facet">university of virginia record</field>
+      <field name="title_text">The University of Virginia record.  Vol. 1, No. 3, November, 1907</field>
+      <field name="year_display">November, 1907</field>
+      <field name="year_facet">1907-11</field>
+      <field name="year_multisort_i">1907</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:106724&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:106724&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The University of Virginia record. Vol. 1, No. 3, November, 1907&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;university of virginia record&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;November, 1907&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1907-11&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The University of Virginia record&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="volume"&gt;Vol. 1&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="issue"&gt;No. 3&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;November, 1907&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Va.&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="LC call number"&gt;LD5667 .A43&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;LD5667.2&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;X000896178&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;o07560180&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;4 p. ; 23 cm.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia -- Periodicals&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The University of Virginia Record&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="volume"&gt;1&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="issue"&gt;3&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1907-11&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2005&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2005 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 25 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">UNIVERSITY OF VIRGINIA RECORD Vol. 1 Charlottesville, Va., November, 1907 No. 3 The University of Virginia Record is published monthly, except July and August, for the purpose of disseminating information regarding the University, its organization, activities, and growth. The Record is intended primarily for the alumni and friends of the Institution and for the press of the State, but will be sent to any address upon receipt of the subscription price, 25 cents a year. Second-class postage rates have been applied for. Professor Hough's Courses in Physiology. The following courses in physiology, for students of medicine, are offered by Professor Theodore Hough. 1. Physiological Chemistry. — Given during the third term of the first year. Fifteen hours weekly of lectures, recitations, and laboratory work. Open only to students who have had the courses in chemistry given to medical students in the first two terms of the first year by Professors Mallet and Bird, or their equivalents. The course is designed to make the student acquainted with the composition and reactions of the more important compounds met with in the study of the functions of the animal body, and is prerequisite to the second year's work in physiology. Abundant laboratory facilities are provided. 2. The Physiology of the Animal Body.—Given during the second year. Four hours weekly of lectures and recitations throughout the year; six hours weekly of laboratory work during the fall and winter terms. For admission to this course, physiological chemistry and histology are prerequisite. The course covers the ground of the physiology of the various functions of the animal body —muscle, nerve, the central nervous system and sense organs, circulation, respiration, digestion, secretion, excretion, and nutrition. The applications of physiology to personal hygiene are discussed in conferences. Mr. Paul's Courses in Public Speaking. The work offered this session by Mr. | Chas. W. Paul, the new instructor in Public Speaking and Debate, organizes a new course and modifies an existing course in the School of English Literature, and also trains men from the Literary Societies for several intercollegiate contests. The new course deals with the theory and practice of Public Speaking. Its aim is to prepare the student to express his thoughts and feelings clearly and effectively before an audience. No attempt is made to give the more elaborate discipline necessary for the public reader and impersonator. In order that emphasis may fall upon improvement in form, speeches from the great orators are used as material for drill work. At each lesson, every member in the section is called in turn before the class to render his lines and receive suggestions for further progress. The theory is not set forth by lectures, but by comments upon the efforts of the individual student and upon the end sought by the author of the oration under interpretation. The regular English course in Argumentation, if time permit, will be supplemented by practical experience in debating before the class and will deal not only with logical structure and effective tactics but also with manner of delivery. From the Literary Societies, by the sifting process of preliminary trials, candidates for three oratorical and three debating contests are chosen. The successful men will then be eligible to individual instruction in daily rehearsals until the final competition takes place. Student Enrolment. On Wednesday, October 23, the books in the Registrar's office showed the following figures in reference to the enrolment of students in the several departments of the University: In the Graduate School, 30; in the Medical School, 103; in the Department of Engineering, 109; in the Law School, 217; in the College, 325: a total of 784. Deducting the names of students who are enrolled in more than one department, the total number of different men in the University at the date mentioned was 751. If the increase thereafter is found in correspondence with the increase after the same date last year, the total enrolment for the session will equal or exceed 800. The Game with V. M. I. On Saturday afternoon, October 19, the cadet football team of the Virginia Military Institute met the University team in a game of unusual vigor, skill, and interest. With the possible exception of the famous contest with V. P. I. in 1905, it is probable that no faster or greater game was ever played on Lambeth Field. Virginia won by one point, the score being 18 to 17. Dissertations Submitted for the Degree of Doctor of Philosophy of the University of Virginia. On Some Cases of Divided Circuits of Lines in Force in a Magnetic Field. By J. Hampden Chamberlayne Bagby. 8vo; 16 pages and 12 plates. Bellavitis' Method of Equipollences. By Samuel Marx Barton. 4to; 18 pages. Syntax of the Verb in the Anglo-Saxon Chronicle from 787-1001. By Hugh Mercer Blain. 8vo; 11 pages. On the True Formula for Permanganates. By Charles M. Bradbury. 8vo; 34 pages. On Southern Poetry Prior to 1860. By Sidney Ernest Bradshaw. 8vo; 162 pages. The Development of the Nature-Sense in the German Lyric. By Arthur B. Cooke. 8vo; 18 pages. Definitive Determination of the Orbit of Comet 1898, I. By Heber D. Curtis. 4to; 35 pages. The Style of Adenet le Roi Studied in Berte and Cleomades. By George Diuguid Davidson. 8vo; 88 pages. The Determination of the Character of the Subjunctive Clauses with Adjective and Substantive Predicates and Phrases. By George Hutcheson Denny. 8vo; 57 pages. On Indirect Discourse in Thucydides. By Albert B. Dinwiddie. 8vo; 38 pages. The Subjunctive Mood in the English Version of Bede's Ecclesiastical History. By William Harrison Faulkner. 8vo; 56 pages. The Literary History of the German Baptists in America. By John Samuel Flory. Observations on the Language of Chaucer's Hous of Fame. By Harry Clinton Ford. 8vo; 91 pages. Notes on the Geology of the Monticello Area. By William Alexander Lambeth. 8vo; 22 pages and 1 plate. Indicative Apodoses with Subjunctive Protases in the Unreal Conditional Sentences of Livy and Tacitus. By Charles M. Long. 8vo; 52 pages. The Great Inequality of Jupiter and Saturn. By Edgar Odell Lovett. 4to; 15 pages. An Example in Periodic Orbits. By James Park McCallie. 4to; 11 pages. On Pronouns in Oratio Obliqua and Kindred Constructions. By Thomas Benton McCartney. 8vo; 50 pages. Southern Oratory, 1829-60. By Joseph Moore McConnell. Negroes and Their Treatment in Virginia in 1865-1867. By John P. McConnell. Platinum Ore Analysis. By William Joseph Martin. 8vo; 31 pages. On Some New Compounds of Urea with Acids and Salts. By Jack Percival Montgomery. 8vo; 27 pages. Substances Formed by the Interaction of Some Aliphatic Primary Monamines and of Ethylene-Diamine with the Salts of Certain Metals. By Charles James Moore. 8vo; 26 pages. The Orbit of Enceladus. By Herbert R. Morgan. Dissertation on Indirect Discourse in Antiphon, Andocides, and Lysias. By James H. Moss. 8vo; 36 pages. Virginia Literature. By Carol Montgomery Newman. 8vo; 69 pages. Observations on the Interrogative Sentence in Plautus and Terence. By William Howard Perkinson. 8vo; 47 pages. A Treatise on Temporal and Modal Significance in the Latin Indirect Discourse. By Robert S. Radford. 8vo; 60 pages. Singular Points in the Approximate Development of the Perturbative Function. By Frank Walker Reed. On the Transformation Group p, q, r, xp, yp, zr, x2p, y6q, z2r. By Hillery L. Roberts. 4to; 47 pages. Four Southern Magazines. By Edward Reinhold Rogers. 8vo; 137 pages. On Latin Conditional Sentences of Unreality in Indirect Discourse Proper. By Otis Burgess Sears. 8vo; 31 pages. On Anglo-Saxon Versification from the Standpoint of Modern English Versification. By Edwin Boinest Setzler. 8vo; 87 pages. The Bacterial Flora of the Charlottesville and University of Virginia Water Supply. By Lyman Skeen. 8vo; 14 pages and 2 plates- A New Mode of Measuring Self-Induction. By Henry Louis Smith. [Never printed.] Textual Notes for the Tales of Edgar Allan Poe. By Robert Armistead Stewart. 8vo; 301 pages. The Group of Two, Three and Four Parameters of Space and their Differential Invariants. By William Beverly Stone. The German Element of the Shenandoah Valley of Virginia. By John Walter Wayland. 8vo; 283 pages. On the Geometry of the Transformation Group p, q, r, xq, yp, zr, xp—yq, z2r. By John E. Williams. 4to; 8 pages. [Most of the foregoing facts will be incorporated in an article now being prepared for the Alumni Bulletin, in which will be given a short biographical sketch of each author, together with certain, facts of interest regarding the Ph. D. degree of the University of Virginia.] Session of the Visitors. On October 15, at 2 p. m., the Board of Visitors held their regular fall meeting at the University. Those present were Messrs. A. C. Gordon, rector; B. F. Buchanan, J. W. Craddock, Daniel Harmon, Eppa Hunton, Jr., R. W. Moore, and J. K. M. Norton. Much routine business was disposed of; and, under a special head, the chair of Economic Geology recently established was by unanimous vote designated the "William Barton Rogers Chair of Economic Geology," in recognition of the eminent and devoted service to the University and the State of the late Professor William B. Rogers. The recent retirement from active teaching of Professor Francis H. Smith, after fifty-seven years of continuous service, has been attended by various fitting expressions of the esteem in which the venerable educator is held by all who have know him as either teacher or friend. Not the least nor the least fitting among these expressions was the presentation, within the past month or two, of a handsome loving cup by the members of his classes of last year—his last classes. A Statement of Growth. The University has just issued a 24-page illustrated circular under the title, "A Statement of Accomplishment and of Recent Growth." After a brief historical review of past achievement, an orderly presentation of conditions now obtaining is given under the captions of finance, equipment, instructors, departments, and other heads. In a final summary it is shown that, comparing the present with two years ago, the percentage of increase in power and efficiency in four fundamental phases of the University's work has been according to the following rates; In total available income, over 27 per cent.; in numerical strength of teaching staff, about 100 per cent.; in total attendance, about 11 per cent.; and in the total number of courses offered, about 20 per cent. Worth While to Read. Two articles of more than usual merit and interest appear in the October number of the Alumni Bulletin: "Luke as a Model in the Choice of a Life Work," by Rev. Dr. W. W. Moore, of Richmond; and "The Academic Degrees and the University Standard," by Prof. R. H. Dabney, Dean of the Department of Graduate Studies, University of Virginia. Dr. Moore's production was delivered at the University on the 9th of last June as the annual baccalaureate sermon; but the article by Prof. Dabney was written specially for the Bulletin, in view of the interest that is now being so widely aroused in reference to the University elective system of studies. From the standpoint of vital interest and historical value, it would be difficult to determine which of these articles make the stronger appeal to the educated man. The University and the Public Schools. The intimate relationship that exists between the University and the public school system of Virginia is being recognized and realized more fully to-day than ever before; and special, systematic efforts are being made by the University faculty to aid the district inspectors, county superintendents, and high-school principals all over the State in the general uplifting movement in educational work. President Alderman and Professors Ormond Stone, Chas. W. Kent, Bruce R. Payne, and W. H. Heck, as well as others at the University, are giving as much as possible of their time to visiting different portions of the State for the purpose of making public addresses and taking part in personal conferences. Comings and Goings of the Faculty. On October 18 President Alderman delivered an address on "Educational Achievements in the South in the Past Quarter of a Century", before the Connecticut State Teachers' Association at Hartford; and on October 26 he spoke at Jamestown on the Philosophy of Democracy and the Mission of the Common School. Prof. Ormond Stone addressed the Clarke County Teachers' Association at Berryville, Va., October 18, upon the "Value of the Teachers' Association," and assisted in measures for the reorganization and greater development of the Association of Clarke County. On October 6 Dr. Chas. W. Kent delivered an address before the Y. M. C. A. of Warrenton, Va. The new college dining hall (refectory) is being rapidly pushed towards completion. The roof is now on, the columns of the front portico are in place, and the building is gradually assuming the finished outlines that make it harmonize fully with the surrounding architecture. The Hertz Library. About ten years ago, through the thoughtful generosity of several alumni, a collection of some 12,000 books and pamphlets, the library of the eminent Prof. Dr. Martin Hertz of Breslau, was purchased and donated to the University library. Up to this time the collection has been of little service for want of classification; but now steps are being taken towards an orderly arrangement and cataloguing of the volumes, many of which are exceedingly rare and valuable. The subjects especially treated of are Latin and Greek philology, Latin and Greek literature, Roman law, and ancient history.</field>
+   </doc>
+</add>

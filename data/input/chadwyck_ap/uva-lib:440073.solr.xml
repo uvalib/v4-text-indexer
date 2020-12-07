@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Osgood, Frances Sargent Locke, 1811-1850</field>
+      <field name="author_facet">Osgood, Frances Sargent Locke, 1811-1850</field>
+      <field name="author_sort_facet">osgood frances sargent locke 1811 1850</field>
+      <field name="author_text">Osgood, Frances Sargent Locke, 1811-1850</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1840's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ap/uvaGenText/tei/chap_AM0627.xml</field>
+      <field name="date_indexed_facet">201909240350</field>
+      <field name="date_text">1846</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey American Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey American Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:440073</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The cries of New-York</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">American poetry -- 1783-1850</field>
+      <field name="subject_text">American poetry -- 1783-1850</field>
+      <field name="title_display">The cries of New-York</field>
+      <field name="title_facet">cries of new york</field>
+      <field name="title_sort_facet">cries of new york</field>
+      <field name="title_text">The cries of New-York</field>
+      <field name="year_display">1846</field>
+      <field name="year_facet">1846</field>
+      <field name="year_multisort_i">1846</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:440073&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:440073&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Osgood, Frances Sargent Locke, 1811-1850&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;osgood frances sargent locke 1811 1850&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The cries of New-York&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;cries of new york&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1846&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1846&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Osgood, Frances Sargent Locke&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1811&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1850&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The cries of New-York&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;John Doggett, Jr&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1846&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3865289-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;cham0627&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;American poetry -- 1783-1850&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1783&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1850&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The cries of New-York&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Alexandria, VA&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Inc.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 21 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Verse extracted from prose text.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-AmPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">“RAGS! RAGS! ANY RAGS TO SELL?” The Rag-man goes about the city with a hand-cart and bells, purchasing Rags. As quantities of Rags are imported from countries on the Mediterranean, every family should be prudent and save them. Paper of all kinds is made in the United States. Scorn not the rag-man's poor employ! This very page, his form revealing, Where now thy young eyes rest in joy, Was formed from bits like those he's wheeling. Those “airy nothings” yet may turn, To some rare page of song or sermon, Where “thoughts that breathe and words that burn,” May charm you, when you're grown a woman. “SWEEP! SWEEP! O!” It is indispensable that chimneys should be swept often and thoroughly, as a provision against fire. The poor sweep, therefore, as he follows a useful and indispensable occupation, should not only be treated kindly but be also well paid for his labor. In this city the business of sweeping chimneys is confined to colored men and boys, although in London white men and boys are thus employed. There are two kinds of Sweeps in New York, the climbing boys, with brush and scraper, and the patent sweep men, who use machines. Sweep! Sweep! in rags and cold, The poor—the lonely sweep behold! Yet even he—tho' dark his way— Tho' half his life shut out from day— Tho' pain and want go hand in hand, With him—the wanderer thro' the land— May hold some ray from Heaven, within, To guard his heart from grief and sin. THE BAKER'S-MAN. Early in the morning the Baker's-men are to be seen calling at the dwelling-houses to supply families with bread. The large loaves of Bread are sold at one shilling, and the small ones at five pence or six pence each. These are placed in large baskets, which, being put into long, narrow wagons, are drawn rapidly by one horse, through the streets. The baking of Bread is a profitable business, and many fortunes have been made by it, in this city. It was one of the principal occupations of the first Dutch inhabitants. “One loaf of bread, if you please, sir, to-day— And half-a-dozen seed-cakes for dear little May.” Do you think the hidden face, 'neath that funny looking bonnet, Is worth the long gaze that the baker bends upon it? He looks like a loafer—that crusty young man,— And his face is a rye face, do all that he can. “SOAP-FAT! SOAP-FAT!” The collecting of Soap-Fat (the grease saved from cooked meat) is a business followed principally by Irishmen, and this enables a family to save a considerable sum in the course of a year, by the sale of the soap-fat which accumulates in their kitchen. The object in purchasing it, is to dispose of it again to the manufacturers of soap, which is an extensive business in this city and vicinity. In the more select and fancy scented Soaps, made from refined lard, tallow, oils, &amp;c., Johnson, No. 3, Courtlandt street, has a peculiar method of finishing to perfection and putting up with beauty, the most elegant kinds to be found in the city. “Angels and ministers of grace defend us!” One drop from Helicon,—sweet muses, lend us!— The angels fly—askance the muses scan! What could they say about a soap-fat man? THE ICE-MAN! What is more refreshing, during the warm days of summer, than a glass of Iced water? To supply this luxury, the Ice-man makes his appearance, with his cart, early in the morning. The supply of Ice, for New York, is chiefly brought from the Lakes in Rockland, and other counties, on the North River. The Fahrenheit was rising fast, When down our area steps there passed, A youth who bore, as in a vice, A glorious lump of gleaming ice,— “Ice! Rockland Ice!” His glance was cool,—his brow above, Serene and gentle as a dove, And like the gong for dinner rung, The tones of that stentorian tongue, “Ice! Rockland Ice!” THE SCISSORS GRINDER. No one likes a dull knife, or pair of scissors. The man, therefore, who goes round with his small grindstone, striking a bell, has many a customer. The grindstone is turned by a lathe, worked with the foot, and the knife or scissors being thus soon sharpened, the sixpence or shilling is as quickly earned. “Scissors to grind! Scissors and knives! Send out your scissors, ye thrifty housewives!” Tinkle! linkle! goes the bell! He will grind them bright and well, Well to clip the broidery thread, Or the curls, that grace y'r head— “There my lady! look at those!” Tinkle! linkle! on he goes. OYSTER MAN. The Bays of Long Island, Staten Island and New Jersey, abound in Oysters, which are taken by men in boats, who raise the Oysters by means of tongs, shaped like two rakes. It is estimated that one and a half million of dollars are paid for Oysters in one year by the citizens of New York. He was a phantom of a fright, When first he burst upon my sight, A ragged apparition lent To charm away my latest cent! His eyes like bits of charcoal were, Like charcoal too, his dusky hair; But all things else about him drawn, From dust and mud and ways forlorn; A wondrous shape—a lump of clay— To haunt—to startle—and waylay! STRAWBERRY GIRL. Strawberries are among the earliest, as well as the most delicious fruits with which we are favored. In the month of June this welcome fruit makes its appearance in the markets, soon after which the Strawberry girls are seen with their large baskets, filled with smaller ones, in which the tempting fruit is placed, carefully covered with fresh green leaves. Four or five of these small baskets are required to make a quart. The early price is twenty-five cents the basket, which is reduced, as they become plenty, to five or six cents. The season of Strawberries, which lasts but three or four weeks, is followed by that of Raspberries, Blackberries and Whortleberries. “Strawberries! Strawberries! fine, ripe and red! As your lips, little lady, that smile at the sight,” See how the glow from that sad face has fled! Buy—buy her Strawberries! buy ere the night! THE NEWSBOY. The Newspaper Boys have become a numerous class in this city, and may be seen, daily, in all parts of the city, with the morning and evening papers for sale. They also crowd in great numbers around the Steam-Boats, a few moments before they leave the city; and it is a great convenience to have the different Newspapers thus brought on board of the Boats, where passengers may have an opportunity to purchase such as they may choose to read on the passage, or take to their friends. The Newsboys, if industrious and prudent, may make a good living by their business. Their profits are from thirty cents to one dollar on each hundred papers sold. “Sun! Herald! Tribune! Here they are!” With all the news, and more than all, sir;— Puffs for the last dramatic star; And cuts at Mrs. M.'s last ball, sir! THE RADISH GIRL. Among the first vegetables with which we are supplied in the Spring, are Radishes. They are carried about the streets of the city in baskets by boys and girls, who make known what they have for sale in a shrill voice, which brings the servant maids to the doors. The Radishes, red, purple, or white, as they may be, are put up in small bunches of five or six in each, and sold at from one to two cents a bunch. The supplying of this article, during a part of the Spring and Summer months, affords employment to many boys and girls, and returns considerable sums of money to the gardeners who cultivate them. “Radishes! Radishes!” trip, trip along, You queer little dumpling! with basket and song, Somebody sure round that corner you'll spy, Poor little thing—who'll your Radishes buy! THE MILKMAN. The shrill cry of the Milkman awakens many persons from their slumbers. The supply of Milk is brought principally from Orange, Rockland and Westchester counties; also, from Long Island, New Jersey and Connecticut; a large proportion comes by the Erie Rail Road to Piermont, on the North River, then to the city in Steamboats. The quantity of Milk consumed in this city in one year, is estimated to be nearly twenty millions of quarts, valued at about one million of dollars. “Milluk! Milluk! Milluk ho! Quick for I can't wait,—here I go!” “A quart of Milk, good man, I'll take, 'Tis for my little dark-eyed daughter,— But tell me, sir, for her sweet sake, Ah! tell me 'tis not Milk and Water!” “RIDE UP! BROADWAY!” About twenty years ago, there was only one line of Stages running to and from the lower part of the city, to the suburbs on this island. Now numerous Lines of Stages, called Omnibuses, are constantly running through the great thoroughfares. The number of Omnibuses, at present, is 248, of which 134 run in Broadway. They have seats for from ten to twenty persons each; and their average receipts, for passengers, at six pence each, are from 8 to ?10 per day. 'Tis the last 'bus in Broadway, Left waiting alone, All its reckless companions Have raced by and gone! I'll not leave thee—thou lone one! My walk to condemn, Since the Empire Line's racing, Go! race thou with them! “MATCHES! MATCHES!” The making and selling of Matches affords employment to a large number of persons. Many are, sold by boys at one cent per box. The “Premium Washington Round Friction Matches,” made by Jacobs, 100 West Eighteenth st., are quite celebrated. They are sold at Johnson's, 3 Cortlandt st., Barnes &amp; McKeachnie, 255 Pearl, and by Williams, Mabee &amp; Jones, 83 Maiden Lane. I saw him upon nearer view, A beggar, yet a Match-boy too, His ready fingers light and free, And tricks of playful liberty, A countenance, in which behold Bold pleadings, promises as bold! A creature not too bright or pure. A little watching to endure, For transient pilferings, simple wiles, Rags, dirt, fun, flogging, cries and smiles! ICE CREAM MAN. This well-known and agreeable luxury is particularly acceptable during the hot sultry weather in July and August; indeed it is esteemed by many as a desirable luxury at all seasons. Besides the numerous confectionaries and gardens where it is sold, and which are much patronised by citizens in the summer evenings, some who are not particular as to the quality of this article, are supplied by colored men who take it round the city in covered pails. Gardens where Ice Cream is sold, have been known in this city for at least half a century. Much of the Ice Cream, however, sold in this city, is in truth Ice Milk merely; which shows the difficulty of obtaining cream. How seldom is it that a New Yorker enjoys that luxury in either tea or coffee! “Ice Cream! Ice Cream!” that fact is very plain— We hear you scream—don't tell us so again! FISHERMAN. Although the markets in various parts of the city are plentifully supplied with Fish, yet to families not favorably situated for going to market, the cries of the Fisherman, in the streets, are frequently welcome. During the Spring months, we have an abundance of Shad, Mackerel and Codfish, at reasonable prices; Salmon, however, is brought, packed in ice, from the Eastern States, and is the most expensive fish in the market. The Summer is the season of Halibut from the East, while Blackfish, Bass, Porgies, Weakfish, Bluefish, Eels, Flounders, Trout, and other fish, are supplied from the bays and rivers in the vicinity of New York. “Porgies! Porgies and Mackerel! ho! Don't touch the fish, Johnny! whoa! Dobbin! whoa! Fresh from the water, ma'am, half an hour ago! Don't contradict! Johnny! whoa! Dobbin! whoa!”</field>
+   </doc>
+</add>

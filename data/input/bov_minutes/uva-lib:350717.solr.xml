@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1950's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2006_10/uvaGenText/tei/bov_19510119.xml</field>
+      <field name="date_indexed_facet">201909240346</field>
+      <field name="date_text">January 19, 1951</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:350717</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. January 19, 1951</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  January 19, 1951</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  January 19, 1951</field>
+      <field name="year_display">January 19, 1951</field>
+      <field name="year_facet">1951-01-19</field>
+      <field name="year_multisort_i">1951</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:350717&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:350717&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. January 19, 1951&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;January 19, 1951&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1951-01-19&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;January 19, 1951&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Official minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;3 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1951-01-19&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 18 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">19 January 1951 The regular monthly meeting of the Board of Visitors of The Rector and Visitors of the University of Virginia was held on this date in the Office of the President of the University of Virginia, Charlottesville, Virginia, with the following present: The Rector, Barron F. Black; President Colgate W. Darden, Jr., of the University of Virginia; Visitors Anderson, Barksdale, Carrington, Garnett, Gay, Gravatt, Howard, Mears, Smith, Talbott, Wailes and Willis. Absent: Dr. M. L. Combs, President of Mary Washington College; Visitor Emmett. The minutes of the meeting of December 15, 1950, which had been copied and mailed to the members, were approved. GIFTS The President announced receipt of the following gifts. From the Alumni Association, contributions made through that office for the following purposes Law School $215.00 Medical Library Fund 568.50 Staige Davis Blackford Memorial Lecture Fund 155.00 From Mr. Samuel M. Bemiss, a contribution to the Alderman Library's collection of incunabula, a copy of "Panegyrici Veteres," printed about 1482 by Antonius Zarotus of Milan, valued at 500.00 RESIGNATIONS The following resolutions were adopted. RESOLVED that the resignation of Dr. Dorn C. Pittman, Instructor in Roentgenology, be and it is hereby accepted as of April 1, 1951. We wish for him the highest success in his new undertaking. RESOLVED that the resignation of Mr. Clifford Evans, Jr., Instructor in Sociology, be and it is hereby accepted as of February 1, 1951. We wish for him the highest success in his new undertaking. LEAVES OF ABSENCE The following resolutions were adopted. RESOLVED that the half-time leave of absence granted Dr. Rowland Andrews Egger, Professor of Political Science, for the first semester of the session of 1950-51 be and it is hereby extended to February 1, 1952 to continue his work with the United Nations, his compensation from the University to be one-half his annual salary. RESOLVED that Mr. John Gange, Professor of Foreign Affairs, be and he is hereby granted half-time leave of absence, on one-half time pay, for the second semester of the session of 1950-51 to undertake a research project for the Public Administration Clearing House. ELECTIONS The following elections were approved. Dr. Alto E. Feller elected Visiting Professor of Microbiology for the second semester of the session of 1950-51, at a salary of $2,000, and elected Professor of Microbiology and chairman of the school, effective September 1, 1951, at an annual salary of $10,000. Dr. Richard J. Ackart elected Director of the University Hospital, effective February 1, 1951, at an annual salary of $10,000, of which $8,370 is to be paid from State funds and the balance from University funds. Mr. Edward E. Hunt, Jr., elected Instructor in Anthropology in the School of Sociology, for the second semester of the session of 1950-51, at a salary of $1,800 for the semester. This is a replacement for Dr. Clifford Evans. UNCOLLECTIBLE HOSPITAL ACCOUNTS The following resolution was adopted. RESOLVED by the Board of Visitors of the Rector and Visitors of the University of Virginia that the Hospital Accounts Committee be and it is hereby authorized to charge off as uncollectible accounts schedules 176, 177, 178 and 179, aggregating $14,418.08, recommended by them for cancellation. The Secretary reported that during the calendar year 1950, the Hospital Accounts Committee was authorized by resolution of the Board of Visitors to charge off uncollectible hospital accounts totaling $162,435.46. REQUEST FROM TELEPHONE COMPANY The President presented a request from the Virginia Telephone and Telegraph Company for permission to run a new cable through the University grounds, opening a trench from the main entrance in front of the Medical School to the intersection of U. S. Highways 29 and 250. The request was approved, with the stipulations that the usual right of way agreement be executed and that the Telephone Company provide written assurance to the University that the ground walks, roads, etc., will be restored in a satisfactory manner by the Telephone Company. SCHOOL OF GERMANIC LANGUAGES The following resolution was adopted. RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that the name of the School of Germanic Languages be changed to "School of Germanic Languages and Russian." ATHLETICS NCAA Matter The President reported that the Sanity Code had been defeated at the Dallas meeting by only three votes, the majority of the opposition being the "Big Ten" and western conferences. The President stated that there were two matters to be settled concerning athletics which should be referred to an appropriate committee for study: (1) what aid we are going to grant to athletes; and (2) the advisability of the University's rejoining the Southern Conference. Boxing The President stated that he had only recently made up his mind concerning intercollegiate boxing and hence had made no recommendation to the Board prior to this time. He stated that there is now no doubt in his mind that intercollegiate boxing should be abolished. He requested that the matter be considered and a decision reached this spring if possible. It was the sense of several members of the Board that this matter should be referred to the new Athletic Council. Mr. Anderson stated that the Athletics Committee of the Board had considered the continuance of boxing and it was his opinion that the Athletics Committee was in a better position to evaluate this matter than the much larger Athletic Council which is proposed. Mr. Carrington stated that there had been a very careful investigation of intercollegiate boxing by the Athletics Committee, that Captain Pritchett as well as the coach of the boxing team had appeared before the Committee, but that no vote had been taken of the Committee membership. Mr. Gay stated that he believed sufficient hearings had been held and ample consideration given to the matter, and he felt that intercollegiate boxing should be discontinued. After some further discussion a resolution was adopted as follows. RESOLVED: That the matter of the continuance of intercollegiate boxing be deferred and later referred to the proposed Athletic Council. Mr. Gay requested that he be recorded as voting in opposition to this resolution for the following reasons: (1) there is nothing before the Board to show that the proposed Athletic Council will be established; (2) the Board has considered the matter carefully over the last two years and every medical member of the Board has recommended the discontinuance of boxing; (3) it is his feeling that it is the responsibility of the Board of Visitors to act and not to refer this matter to the Athletic Council. APPOINTMENT OF ASSISTANT HOSPITAL DIRECTOR President Darden discussed with the Board the nomination of Mr. Raymond W. Brooke as Assistant Director of the Hospital, and the Board asked that additional information be obtained in reference to him. FEDERAL AID TO MEDICAL EDUCATION President Darden reported that Dr. Lippard had been asked by the Association of American Medical Colleges to furnish an expression of opinion of the University's governing board concerning federal aid for medical education. The Association suggested checking one of the following expressions of attitude: 1. We oppose federal financial aid to medical schools (in addition to the types of special grants now being received) in any form at this time. 2. We approve, at this time, of federal financial aid for the general support of medical education if it can be provided with adequate safeguards for the continuing autonomous control of medical education. 3. We urge the passage of H.R. 5940 if possible in this session of Congress. (As S-1453 it has already passed the senate.) The Board approved none of these proposals but directed the Rector to appoint a committee to draft an appropriate resolution limiting the University's endorsement of federal aid to medical education to the training of personnel for the armed forces. The Rector appointed Mr. Talbott and Mr. Gravatt who submitted the following resolution. RESOLVED: That to the extent that the military requirements of the United States government demand expansion of facilities for the education of doctors and nurses as a part of the national defense program, it is the sense of this Board that the expense of such expansion should be subsidized by the United States government. FURTHER RESOLVED: That the foregoing is not to be construed as approval of educational subsidies by the United States government in other fields and for purposes not related to national defense. BLUE CROSS CONTRACT Mr. Anderson reported that he had attended a Blue Cross meeting in Richmond at which an increase in rates of about twenty per cent was proposed. Mr. Anderson stated that officials of the Blue Cross did not think the State Corporation Commission would approve a higher rate. They cited the case of the Roanoke Blue Cross which had just appeared before the State Corporation Commission to ask for a rate increase of less than twenty per cent. Mrs. Smith stated that the proposed new rates will not help the hospitals — that the present petition is designed solely to replenish Blue Cross reserves. On motion of Mrs. Smith, it was resolved that the question of the Blue Cross contract be referred to the new Executive Committee of the Hospital for study. MARY WASHINGTON COLLEGE MATTERS In the absence of Dr. Combs, President of Mary Washington College, the following matter was presented by President Darden. LEAVE OF ABSENCE The following resolution was adopted. RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that the request of Dr. Clifton B. McIntosh, Associate Professor of Spanish, for a leave of absence without salary from February 1, 1951 to February 1, 1953 be and the same is hereby granted. On motion the meeting was then adjourned. Barron F. Black Rector Vincent Shea Secretary</field>
+   </doc>
+</add>

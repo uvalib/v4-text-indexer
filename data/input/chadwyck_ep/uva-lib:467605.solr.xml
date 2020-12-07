@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Glanvill, John, 1664-1735</field>
+      <field name="author_facet">Glanvill, John, 1664-1735</field>
+      <field name="author_sort_facet">glanvill john 1664 1735</field>
+      <field name="author_text">Glanvill, John, 1664-1735</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_P10018.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">1696</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:467605</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">Damon ; a pastoral, Lamenting the death of that Incomparable master of musick, Mr. Henry Purcell; Late Organist of his Majesty's Chapel, and St. Peter's Westminster. By J. G</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">Damon ; a pastoral, Lamenting the death of that Incomparable master of musick, Mr. Henry Purcell; Late Organist of his Majesty's Chapel, and St. Peter's Westminster. By J. G</field>
+      <field name="title_facet">damon</field>
+      <field name="title_sort_facet">damon</field>
+      <field name="title_text">Damon ; a pastoral, Lamenting the death of that Incomparable master of musick, Mr. Henry Purcell; Late Organist of his Majesty's Chapel, and St. Peter's Westminster. By J. G</field>
+      <field name="year_display">1696</field>
+      <field name="year_facet">1696</field>
+      <field name="year_multisort_i">1696</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:467605&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:467605&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Glanvill, John, 1664?-1735&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;glanvill john 1664 1735&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Damon ; a pastoral, Lamenting the death of that Incomparable master of musick, Mr. Henry Purcell; Late Organist of his Majesty's Chapel, and St. Peter's Westminster. By J. G&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;damon&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1696&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1696&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Glanvill, John&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1664&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1735&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Damon&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;a pastoral, Lamenting the death of that Incomparable master of musick, Mr. Henry Purcell; Late Organist of his Majesty's Chapel, and St. Peter's Westminster. By J. G&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed by J. Hepinstall, for Henry Playford [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1696&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp5006&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;6 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Damon&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;a pastoral, Lamenting the death of that Incomparable master of musick, Mr. Henry Purcell; Late Organist of his Majesty's Chapel, and St. Peter's Westminster. By J. G&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 18 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">DAMON: A PASTORAL, Lamenting the DEATH Of that Incomparable MASTER of MUSICK, Mr. Henry Purcell; Late Organist of his Majesty's Chapel, and St. Peter's Westminster. —Cui liquidem pater Vocem cum citharâ dedit. Quando ullum invenient parem? Hor. Ibid. DAMON and THYRSIS. Dam. Beneath this dismal Yew with Moss o'er-grown, Where nought but Tears are dropt, and Sighs are blown. Begirt with balefull Cypress-Trees around, Which gloomy Night and black Despair surround: Where ne'er Salubrious Herb, or Fragrant Flow'r Did spring and smile; where ne'er fell Fertile Show'r; But th' humid Skies a damp perpetual wear, And dusky Mists hang in the lazy Air. Here, here we'll lie, with Cypress Chaplets crown'd, Our Heads reclining on th' unwholsom Ground; We'll lie and sing, how our Great Pan is dead, With whom the Soul of Harmony is fled: In mutual Plaints we'll sweetly sigh our Grief; Ah! Grief which here admits of no Relief: Come, let's begin and sing Arcadia's Loss, And let Pan all our Sighs, and all our Tears engross. Thyr. Alas! how can we sing, now He is gone! He taught us Songs, without Him we learnt none: The little Birds their chirping Notes have lost; Which, imitating Him, they once cou'd boast: No more can Philomel with Tunefull Voice The Gladsom Woods and Ecchoing Hills rejoyce; Swans only sing:—and only sing to die, Warbling their own, and his sad Elegy. The hooting Owls, those Birds obscene of Night, With Screeches shape their Inauspicious Flight To croaking Ravens: hideous Screams then rend Th' affrighted Plain, and deadly Fates portend. But who can sing in Sweet, Harmonious Lays, Equal to our departed Master's Praise? Cou'd I but pattern his Pathetick Strain, Words upon Mr. J. Playford's Death, Sett incomparably by Mr. Purcell. Theron, belov'd of Pan and dear to Phœbus Train; Like Him I'de make each flinty Rock relent, And the mov'd Stones give their new Passion vent. But I am young in Art, and must decline This Task, which with Reluctance I resign; Thou best know'st how to sing, and how to mourn; He gave thee Skill, which to his Praise return. Dam. Hence, hence, Terpsichore, hence from my Sight Be gone, to distant Regions wing thy Flight: Hence with thy jocond Thoughts and jolly Train Of Fancies, which oft revell'd in my Brain. On Sighs, thin Air, Camelion like I'll live, And Tears I'll drink, and drink 'em oft to grieve. Come to my Arms, Melpomene I'm blest In thy Embrace, thou Mistress of my Breast; With thee I'll sigh all Night, and weep all Day, In sobbing Accents mourn my Soul away; Great Pan's no more: let Arcadie deplore Th' Irreparable Loss; Great Pan's no more. Lament, lament, ye wretched Nymphs and Strains, Lament Great Pan deceas'd, in Mournfull Strains. And lo! the Muses mourn, deep Sables wear, Untune their Lyres, and dolefull Swains prepare: The Graces weep, clad in a ruefull Dress, No pleated Vest is seen nor braided Tress: Wild are their Looks, dishevell'd is their Hair, And their loose Garments ruffle in the Air. Venus with piteous Wailing vents a Groan, Her Doves sit by, murmur, and with her moan: Cupid unbraces too his little Bow, And flings it wide, his Shafts are useless now. The rugged Satyrs full of Grief forbear Each Antick Gesture and each Comick Jeer; The Dryads, with the Sylvans and the Fauns, No more in Dances trip it o'er the Lawns; All cry, Pan's gone to the dark Shades below, Condoling Eccho sighing, answers,—Oh! Lament, lament, ye wretched Nymphs and Swains, Lament, Great Pan deceas'd, in Mournfull Strains. Never was Earth blest with such Heav'nly Sound, Never were Swains in such deep Transports drown'd, As when the Skillfull Shepherd touch'd his Reed, Others which far, did very far exceed: Ecstatick Raptures fill'd our ravish'd Mind, So lost, that we our selves cou'd scarcely find; We sunk beneath th' unweildy Load of Bliss, And fainted: but not thought the Charm amiss. As Infant-Violets and the op'ning Rose To court our smelling fragrant Sweets disclose; So did his Lays melodious Sweets dispense, To charm the Ear and captivate the Sence. His Mystick Airs strange Pleasures cou'd impart, Cou'd raise the Soul, as well as move the Heart. We saw how o'er the stops his Fingers bound, And blest the Skill, which we so wondrous found; Divine he seem'd,—or something more than Man, But now he's less, contracted to a Span. Lament, lament, ye wretched Nymphs and Swains, Lament, Great Pan deceas'd, in Mournfull Strains. Dull Mœvius Sonnets how did he refine! To pleasing Notes, harsh, grating Numbers joyn! He smooth'd our words, and fill'd our uncouth Tongue, And polish'd well each Line of ev'ry Song. Whene'er the Artfull Shepherd sat and play'd, The mute Creation hark'd, his Charm obey'd: The lowing Herds to hear him wond'ring stood, And bleating Flocks, regardless of their Food. The Feather'd Choir descending throng'd each Bow, Then mounting chirp'd, and try'd such Notes to show; The Finny People leap'd above the Flood, To view what 'twas, that their Attention woo'd: Impatient of the Bliss, they reach the Side, Assisted by the timely flowing Tide; Mindfull of Sounds they never heard before, And heedless of the Ebb, they're left on Shore. Whene'er the mighty Songster rais'd his Voice, He check'd each murmur, still'd each louder Noise: The foaming Surges did forget to roar, And raging Billows durst not brave the Shore. He smooth'd the Brow of ev'ry wrinkled Stream, And blust'ring Winds hung lull'd as in a Dream: No gentle Breeze cou'd rise to lay a Sweat, No breath of Air cou'd fan the sultry Heat; Whole Nature bow'd, own'd his miraculous Art, To which she largely did her self impart. Thus pow'rfull were His Songs;—but he's no more, Ah! rigid Fate! in vain we thee implore. Lament, lament, ye wretched Nymphs and Swains, Lament, Great Pan deceas'd, in Mournfull Strains. For ever ceast are now those lightsome Airs, Which brisk'd our Spirits thro' our raptur'd Ears: For ever ceast are now those tender Lays, Which loves sweet Passion mov'd ten thousand ways. Lost is that vast Excess of Tunefull Skill, That cou'd command the stubborn Notes at will: And—can I speak it?—Oh!—the best of Swains Is lost, that ever grac'd Arcadia's Plains; An admirable Song by Mr. Purcell. Lost is my Quiet, now he rest has found, When shall we hear such an inchanting Sound? Ah! He was sweet as Love, Ah! He was all That we can Charming or Harmonious call. Sweetness Divine bloom'd in His cheerfull Face, His Looks bespoke Him blest with ev'ry Grace; He was, my Thyrsis, more than I can say, In His Encomiums I cou'd waste the Day: Great Orpheus Lyre charm'd fair Euridice To th' Verge of Light, Life and Felicity: But who can from the Shades our Orpheus call? Nought cou'd but His own moving Notes prevail; But stiff those Fingers are, this lower World Which mov'd, and into sweet Confusion hurl'd: For ever is that well-tun'd, hallow'd Breath, Which gave Swains Life, stopt by malignant Death; All cold and breathless on the Turf he lies, Eternal Darkness hath seal'd up his Eyes. Lament, lament, ye wretched Nymphs and Swains, Lament Great Pan deceas'd, in Mournfull Strains. Come all ye Shepherds, with sad Dirges, come, And sing alternately around His Tomb; In dolefull Sounds vent your enlarged Woes, And let Sighs intermix'd short Rests compose: While freshest Greens your Shepherdesses crop, Which Honey Sweat and Nectar Juices drop, With od'rous Herbs His Sepulchre to strow; Bring Flow'rs, ye Nymphs, and Garlands to bestow. Ye Muses, deck with Elegies His Hearse, Embalm His Name with ever-living Verse: And when some faded Flow'r all pale appears, Instill new Verdure with a Show'r of Tears. Come all lament, lament in Mournfull Strains, Great Pan deceas'd, late Glory of these Plains. But hark!— Strange warbling Notes my Ears with pleasure wound; Hark! how the Spheres melodiously resound! Lo! Cherubs come to convoy Him to go, And sing those strains above, he play'd below: Seraphl, t'aid his new Birth, descend and sing, So tunefuls Birds do hatch the pregnant Spring. And lo! Heav'ns Terras sacred Ministrels throng, Some tune their Lyres, and some prepare a Song: And now with Golden Harps and Hymns Divine They mingle all, and in full Consort joyn: Myriads of Angels with Immortal State, On mighty Pan as His Retinue wait; Upwards he soars, wing'd with Harmonious Fire, And Earthly Joys compleats, and the Cælestial Quire. FINIS.</field>
+   </doc>
+</add>

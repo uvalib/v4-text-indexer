@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1900's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2006_07/uvaGenText/tei/bov_19050720.xml</field>
+      <field name="date_indexed_facet">201909240344</field>
+      <field name="date_text">July 20, 1905</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:302022</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. July 20, 1905</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  July 20, 1905</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  July 20, 1905</field>
+      <field name="year_display">July 20, 1905</field>
+      <field name="year_facet">1905-07-20</field>
+      <field name="year_multisort_i">1905</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:302022&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:302022&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. July 20, 1905&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;July 20, 1905&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1905-07-20&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;July 20, 1905&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Public minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;0 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information. Access to minutes containing salary information will be granted only under the procedures of the Virginia Freedom of Information Act (Code of Virginia-2.1-340 ff.) or if permission is granted by the Secretary of the Board. Researchers interested in obtaining access to these records should direct a request in writing to the Office of the Legal Adviser, Madison Hall, University of Virginia. These public minutes have had salary information deleted and bear no restrictions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1905-07-20&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 20 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">University of Virginia, July 20th, 1905. At a called meeting of the Board of Visitors held at the University on July 20th, 1905, Present. The Rector, and Visitors, Moore, Hunton, Buchanan, and Harmon. The Board having been called to order by the Rector, the following resolutions were adopted: Resolved:- That the communication from the City Council of Charlottesville in reference to the water supply of the City and the University, be referred to a Committee conisting of Mr. Harmon and Professor Echols, to consider all of the matters to which it relates and report what is best to be done. The Committee is authorized in its discretion to employ the services of a competent engineer to assist in any investigation that may become necessary. Resolved:- That the investment of about $80,000.00 of the Rockefeller donation made by the Finance Committee through Messrs. Spencer Trask &amp; Co., and shown in the memorandum marked "A", which is directed to be recorded with this resolution be approved.- That the Committee is authorized to invest the residue of that donation in the manner suggested in the correspondence with Messrs. Spencer Trask &amp; Co., submitted by the Committee, or in such other manner as the Committee may think best; and that the Committee is requested to do from time to time, whatever it may deem necessary or prudent in the way of registering any of the bonds representing the investment, and for the protection of the interests of the University touching the investment or any part of it. [See the following page for Memorandum "A" referred to above, it is recorded here in the original Minutes.] Letter from Chairman of the Finance Committee, To Dr. Edwin A. Alderman, President of the University of Virginia. My dear Doctor Alderman,- I have carefully examined the list of securities submitted to me as Chairman of the Finance Committee with the above letter, and approve of the consumation of the purchase of the same at once. I would suggest as far as possible that the principals of these securities be registered in the names of the "Rector and Board of Visitors of the University of Virginia." I have just received a letter from Mr. B. F. Buchanan of Marion, by which he informs me on further examination he would not advise the investment of the University funds in the Marion and Rye Valley R. R. bonds. Therefore pursuant to the previous directions of the Finance Committee, you had better, I think, increase the investments made by Messrs. Spencer Trask &amp; Co., with the advice of Mr. Peabody, to $100,000; the entire amount of the Rockefeller donation. Very truly yours, (signed) A. W. Wallace. [Memorandum "A", referred to on Page 94.] "A." Quantity. Name of Bond. Date of coupon payments Rate of Interest Price Cost without accrued Interest. Amount Interest accrued Annual Income Rate of yield on cost. $ 5,000 United Rys. of St. Louis, * * J. &amp; J.:- January and July. M. &amp; S. - March &amp; Sept. F. &amp; A.- Feb. &amp; Aug. A. &amp; O.- April &amp; Oct. J. &amp; J. 4 % 88 $ 4,400 200 4.80 10,000 Detroit Edison Co. * * J. &amp; J.:- January and July. M. &amp; S. - March &amp; Sept. F. &amp; A.- Feb. &amp; Aug. A. &amp; O.- April &amp; Oct. J. &amp; J. 5 % 103 10,300 500 4.80 10,000 Mexican Coal &amp; Coke Co. M. &amp; S. 5 % 98 9,800 166.67 500 5.15 5,000 Somerset Coal Co. F. &amp; A. 5 % 97 1/2 4,875 104.17 250 5.18 10,000 Central Leather Co. J. &amp; J. 5 % 99 5/8 9,962.50 500 5.00 10,000 United States Steel, M. &amp; S. 5 % 93 7/8 9,387.50 83.33 500 5.40 5,000 Southern R. R. Collateral, A. &amp; O. 5 % 102 5,100 62.50 250 4.40 5,000 Rio Grande Western R. R. A. &amp; O. 4 % 92 4,600 50. 200 4.50 5,000 Georgia Ry. &amp; Elec. Co. (Atlanta) J. &amp; J. 5 % 104 1/2 5,225 250 4.70 5,000 Kings Co. Electric (Brooklyn) A. &amp; O. 6 % 125 6,250 75. 300 4.75 5,000 American Tobacco Co. A. &amp; O. 6 % 113 5/8 5,681.25 75. 300 6.25 5,000 Japanese 4 1/2 % Bonds. F. 15. &amp; A.15. 4 1/2 % 90 4,500 82.18 219.15 5.15* * These bonds are due February 15, 1925, but are subject to redemption at the option of the Imperial Japanese Government on and after Feb. 15, 1910, upon giving six months' notice, at 97.40 and interest. This latter figure is the equivalent in dollars for Pounds Sterling on the basis of $4.87 per Pound. If the bonds should be allowed to run to their maturity in 1925, they pay you at your purchase price, 5.15 %. If, however, they should be redeemed at the end of five years, the investment will yield 6.25 %. $80,081.25 698.85 3,969.15 P. S. I have examined all the securities with the Virginia Trust Company and find the list sent me by the Proctor all correct. Copy of letter from Charles J. Peabody. Spencer Trask &amp; Co. Bankers. William Street, Corner of Pine Street, New York July 12, 1905, Dr. Edwin A. Alderman, President, University of Virginia, Charlottesville, Va. My dear Doctor - On my return to the city, I have been casting about for suitable securities to suggest for investment of the remaining amount of the $100,000. as a substitute for the $20,000 6% bonds you were considering taking, and I have about reached the conclusion that if you were to buy $5,000 Georgia Railway &amp; Electric 5% bonds, 5,000 Kings County Electric 6% bonds, 5,000 American Tobacco Company 6% bonds, and 3,000 Japanese 4 1/2 % bonds, the cost of the principal would be almost exactly $100,000. and the income yield would be about $4,950, which is almost exactly 5%. You will note that I have simply duplicated some of the lots which you formerly bought where there were $5,000. If it seemed more desirable, you could take some of the Lackawanna Steel Company 5% bonds in place of those I have mentioned. It occurs to me that probably your trustees would be glad to invest the $100,000 in the principal, and I shall be very glad to anticipate payments of enough of the coupons that are not yet due to provide for all of the accrued interest upon the entire purchase. This, it seems to me, would be most advantageous for the University. I am returning to the Lake for Sunday, but will be here the first of the week and will give personal attention to any request you may desire to make. With kind regards, believe me, Sincerely, yours, (signed) Chas. J. Peabody. Resolved:- That the appointment of a Professor of Gynecology, Obstetrics, Surgical Diseases, and Abdominal Surgery, be postponed until the next meeting of this Board. It appearing that notice has been given as required by Statute, that the Board will at this time proceed to elect a Professor of Secondary Education of the Curry School, now therefore, Dr. Bruce R. Payne having received the votes of all the members of the Board, is declared elected to the Chair of Secondary Education of the Curry School at a salary of $2,500. per annum, and travelling expenses, not to exceed $500. to enter upon the duties of his Professorship September 15th, 1905. It appearing that notice has been given as required by statute, that the Board will at this time proceed to elect a Professor of Anatomy and Surgery, now,—Therefore, Dr. Richard H. Whitehead having received the votes of all the members of the Board, is declared elected to the Chair of Anatomy and Surgery at a salary of $3,300 per annum, to enter upon the duties of his Professorship September 15th, 1905. Resolved:- That Professor Richard H. Whitehead be and he is hereby appointed Dean of the Medical Faculty, at a slary of $250. per annum, beginning with September 15th, 1905. It appearing that the advertisement required by statute has been made for the appointment of a Professor of Philosophy in the Curry School of Education, Resolved:- That Dr. Albert LeFevre be appointed to the Professorship at a salary of $2,500. per annum, beginning September 15-1905. In the enlarged School or Department of Philosophy, all instruction in Logic and Psychology is hereby assigned to Professor LeFevre, and all instruction in Ethics and Philosophy is assigned to Professor Noah K. Davis; except that advanced instruction in the Philosophy required in the Post-Graduate Course for the Degree of Doctor of Philosophy, is assigned to Professor of Logic and Psychology. Resolved:- That a rebate of $40.00 be allowed Mr. Randolph P. Rogers on his fees of last session. The Bursar is authorized to continue paying Prof. Minor's residence commutation at the rate of payment heretofore made, until the house vacated by Col. Carter is ready for occupancy. Whereas, it appears that the Director of the "Virginia Summer School of Methods" had made contracts for Instructors based upon the usual appropriation of $1,500. therefore, be it Resolved:- That this Board deems it but fair and just that this sum be allowed for the present Session, and that the reduction to $1,200 take effect with the Session of 1906. Resolved:- That the Committee on Self-Help be authorized to make any change which it may consider proper and judicious in the personel of the parties who were given possession of the Carr's Hill Mess Hall, by resolution passed at the last meeting of this Board. On motion the Board adjourned, subject to the call of the Rector. Charles P. Jones Rector. I K. Moran. Sec'y.</field>
+      <field name="fulltext">To Dr. Edwin A. Alderman, President of the University of Virginia. My dear Doctor Alderman,- I have carefully examined the list of securities submitted to me as Chairman of the Finance Committee with the above letter, and approve of the consumation of the purchase of the same at once. I would suggest as far as possible that the principals of these securities be registered in the names of the "Rector and Board of Visitors of the University of Virginia." I have just received a letter from Mr. B. F. Buchanan of Marion, by which he informs me on further examination he would not advise the investment of the University funds in the Marion and Rye Valley R. R. bonds. Therefore pursuant to the previous directions of the Finance Committee, you had better, I think, increase the investments made by Messrs. Spencer Trask &amp; Co., with the advice of Mr. Peabody, to $100,000; the entire amount of the Rockefeller donation. Very truly yours, (signed) A. W. Wallace.</field>
+      <field name="fulltext">July 12, 1905, Dr. Edwin A. Alderman, President, University of Virginia, Charlottesville, Va. My dear Doctor - On my return to the city, I have been casting about for suitable securities to suggest for investment of the remaining amount of the $100,000. as a substitute for the $20,000 6% bonds you were considering taking, and I have about reached the conclusion that if you were to buy $5,000 Georgia Railway &amp; Electric 5% bonds, 5,000 Kings County Electric 6% bonds, 5,000 American Tobacco Company 6% bonds, and 3,000 Japanese 4 1/2 % bonds, the cost of the principal would be almost exactly $100,000. and the income yield would be about $4,950, which is almost exactly 5%. You will note that I have simply duplicated some of the lots which you formerly bought where there were $5,000. If it seemed more desirable, you could take some of the Lackawanna Steel Company 5% bonds in place of those I have mentioned. It occurs to me that probably your trustees would be glad to invest the $100,000 in the principal, and I shall be very glad to anticipate payments of enough of the coupons that are not yet due to provide for all of the accrued interest upon the entire purchase. This, it seems to me, would be most advantageous for the University. I am returning to the Lake for Sunday, but will be here the first of the week and will give personal attention to any request you may desire to make. With kind regards, believe me, Sincerely, yours, (signed) Chas. J. Peabody.</field>
+   </doc>
+</add>

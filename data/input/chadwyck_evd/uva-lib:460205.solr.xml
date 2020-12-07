@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Lloyd, Robert, 1733-1764</field>
+      <field name="author_facet">Lloyd, Robert, 1733-1764</field>
+      <field name="author_sort_facet">lloyd robert 1733 1764</field>
+      <field name="author_text">Lloyd, Robert, 1733-1764</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1770's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V2.0542.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1774</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460205</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Arcadia ; A Dramatic Pastoral</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 18th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 18th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Arcadia ; A Dramatic Pastoral</field>
+      <field name="title_facet">arcadia</field>
+      <field name="title_sort_facet">arcadia</field>
+      <field name="title_text">Arcadia ; A Dramatic Pastoral</field>
+      <field name="year_display">1774</field>
+      <field name="year_facet">1774</field>
+      <field name="year_multisort_i">1774</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460205&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460205&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Lloyd, Robert, 1733-1764&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;lloyd robert 1733 1764&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Arcadia ; A Dramatic Pastoral&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;arcadia&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1774&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1774&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Lloyd, Robert&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1733&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1764&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Arcadia&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Dramatic Pastoral&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for T. Evans&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1774&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872529-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv20542&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Arcadia&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Dramatic Pastoral&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 16 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt; (c) 1994 Chadwyck-Healey. Do not export or print from this database without checking the Copyright Conditions to see what is permitted.</field>
+      <field name="desc_meta_file_display">&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only verse drama inlcuded&lt;lb/&gt;The following play has been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Arcadia.</field>
+      <field name="desc_meta_file_display">Genre: Pastoral.</field>
+      <field name="desc_meta_file_display">Date first published: 1761.</field>
+      <field name="desc_meta_file_display">Date first performed: 26 Oct 1761.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">ARCADIA. A DRAMATIC PASTORAL.</field>
+      <field name="fulltext">SCENE I. A view of the country. SHEPHERDS AND SHEPHERDESSES. CHORUS. Shepherds, buxom, blithe and free, Now's the time for jollity. SYLVIA. AIR. Hither haste, and bring along Merry tale and jocund song. To the pipe and tabor beat Frolic measures with your feet. Ev'ry gift of time employ; Make the most of proffer'd joy. Pleasure hates the scanty rules Portion'd out by dreaming fools. CHORUS. Shepherds, buxom, blithe and free, Now's the time for jollity. A dance of Shepherds, &amp;c. SYLVIA. RECITATIVE. Rejoice, ye happy swains, rejoice; It is the heart that prompts the voice. Be sorrow banish'd far away; Thyrsis shall make it holy-day. Who at his name can joy suppress? Arcadian-born to rule and bless. DAMON. And hark! from rock to rock the sound Of winding horn, and deep-mouth'd hound, Breaking with rapture on the ear, Proclaims the blithsome Phœbe near: See where she hastes with eager pace, To speak the joys that paint her face.</field>
+      <field name="fulltext">SCENE II. Opens to a prospect of rocks. Huntsmen, Huntresses, &amp;c. coming down from them. PHOEBE. Hither I speed with honest glee, Such as befits the mind that's free; Your chearful troop, blithe youth, to join, And mix my social joys with thine. Now may each nymph, and frolic swain, O'er mountain steep, or level plain, Court buxom health, while jocund horn Bids echo wake the sluggard morn. AIR. When the morning peeps forth, and the zephyr's cool gale, Carries fragrance and health over mountain and dale; Up, ye nymphs, and ye fwains, and together we'll rove, Up hill, down the valley, by thicket or grove: Then follow with me, where the welkin refounds With the notes of the horns, and the cry of the hounds. Let ther wretched be slaves to ambition and wealth; All the bleffing we ask is the blessing of health. So shall innocence self give a warrant to joys No envy disturbs, no dependance destroys. Then follow with me, where the welkin resounds With the notes of the horn, and the cry of the hounds. O'er hill, dale, and woodland, with rapture we roam; Yet returning, ftill find the dear pleafures at home; Where the chearful good humour gives honesty grace, And the heart speaks content in the smiles of the face. Then sollow with me, where the welkin resounds With the notes of the horn, and the cry of the hounds. DAMÆTAS. RECITATIVE. Small care, my friends, your youth annoys, Which only looks to present joys. SYLVIA. Though the white locks of siver'd age, And long experience hail thee fage; Ill fuits it in this joy, to wear A brow so over-hung with care. Better with us thy voice to raife, And join a whole Arcadia's praife. DAMÆTAS. With you I joy that Thyrsis reigns The guardian o'er his native plains: But praise is scanty to reveal The speaking blessings all must feel. DAMON. True, all must feel — but thankless too? Nor give to virtue, virtue's due? My grateful heart shall ever shew The debt I need not blush to owe. AIR. That I go where I lift, that I fing what I pleafe, That my labour's the price of contentment and eafe, That no care from abroad my retirement annoys, That at home I can taste the true family joys, That my kids wanton fafely o'er meadows and rocks, That my sheep graze fecure from the robber or fox; Thefe are blessings I share with the rest of the swains, For it's Thyrisis who gave them, and Thyrisis maintains. DAMÆTAS. RECITATIVE. Perifh my voice, if e'er I blame Thy duty to our guardian's name! His active talents I revere, But eye them with a jealous fear. Intent to form our bliss alone, The generous youth forgets his own; Nor e'er his busy mind employs To find a partner of his joys. So might his happy offspring own The virtues which their fire hath shewn. AIR. With joy the parent loves to trace Resemblance in his children's face: And as he forms their docile youth To wald the steady paths of truth, Obferves them shooting into men, And lives in them life o'er again. While active fons, with eager flame, Catch virtue at their father's name; When full of glory, full of age, The parent quits this busy stage, What in the fons we most admire, Calls to new life the nonour'd fire. SYLVIA. RECITATIVE. O prudent Sage forgive the zeal Of thoughtless youth. With thee I feel, The glories now Arcadia shares May but embitter future cares. Oh mighty Pan! attend Arcadia's voice, Inspire, direct, and fanctify his choice. AIR. So may all thy fylvan train, Dryad, nymph, and ruftic faun, To the pipe and merry strain, Trip it o'er the russet lawn! May no thorn or bearded grass Hurt their fottsteps as they pass, Whilst in gambols round and round They sport it o'er the shaven ground! Though thy Syrinx, like a dream, Flying at the face of day, Vanish'd in the limpid stream, Bearing all thy hopes away, If again thy heart should burn, In careffing, Blest, and blessing, May'st thou find a wish'd return. CHORUS. O mighty Pan! attend Arcadia's voice, Inspire, direct, and fanctify his choice. [A dance of huntsmen and huntresses.] DAMÆTAS. RECITATIVE. Peace, shepherds, peace, with jocund air, Which Speaks a heart unknown to care, Young Delia hastes. The glad furprize Of rapure flashing from her eyes. ENTER DELIA. DELIA. AIR. Shepherds, shepherds, come away; Sadness were a sin to-day. Let the pipe's merry notes aid the skill of the voice; For our wishes are crown'd, and our hearts shall rejoice. Rejoice, and be glad; For fure he is mad Who, where mirth and good humour, and harmony's found, Never catches the fmile, nor let pleasure go round. Let the stupid be grave, 'Tis the vice of the slave; But can never agree Will a maiden like me, Who is born in a country that's happy and free. DAMÆTAS. RECITATIVE. What means this rapture, Delia? Shew Th' event our bosoms burn to know. DELLA. Now as I trod yon verdant fide, Where Ladon rolls its filver tide, All gayly deck'd in gorgeous state, Sail'd a proud barge of richest freight: Where fat a nymph, more fresh and fair Than blossoms which the morning air Steals perfume from; the modest grace Of maiden blush bespread her face. Hither it made, and on this strand Pour'd its rich freight for shepherds' land. Ladon, for this, smooth flow thy tide! The precious freight was Thyrifis' bride. DAMÆTAS. RECITATIVE. Stop, shepherds, if aright I hear, The sounds of joy proclaim them near: Lets meet them, friends, I'll lead the way; Joy makes me young again to-day.</field>
+      <field name="fulltext">SCENE III. A view of the fea, with a vessel at a distance. [Here follows a Pastoral Procession to the wedding of Thyrsis.] PRIEST. RECITATIVE. Mighty Pan! with tender care, View this swain and virgin fair; May they ever thus impart Just return of heart for heart. May the pledges of their bliss Climb their knees to share the kifs. May their steady blooming youth, While they tread the paths of truth, Virtues catch from either fide, From the bridegroom and the bride. CHORUS. May their steady blooming youth, While they tread the paths of truth, Virtues catch from either side, From the bridegroom and the bride.</field>
+   </doc>
+</add>

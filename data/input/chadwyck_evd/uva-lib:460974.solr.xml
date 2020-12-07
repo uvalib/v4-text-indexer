@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Rands, William Brighty, 1823-1882</field>
+      <field name="author_facet">Rands, William Brighty, 1823-1882</field>
+      <field name="author_sort_facet">rands william brighty 1823 1882</field>
+      <field name="author_text">Rands, William Brighty, 1823-1882</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1870's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V3.0645.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1871</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460974</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Black Showman And The White Showman</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Black Showman And The White Showman</field>
+      <field name="title_facet">black showman and the white showman</field>
+      <field name="title_sort_facet">black showman and the white showman</field>
+      <field name="title_text">The Black Showman And The White Showman</field>
+      <field name="year_display">1871</field>
+      <field name="year_facet">1871</field>
+      <field name="year_multisort_i">1871</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460974&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460974&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Rands, William Brighty, 1823-1882&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;rands william brighty 1823 1882&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Black Showman And The White Showman&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;black showman and the white showman&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1871&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1871&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Rands, William Brighty&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1823&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1882&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Black Showman And The White Showman&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;George Routledge&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1871&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873306-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv30645&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Black Showman And The White Showman&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 27 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted&lt;lb/&gt;The following plays have been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The black showman and the white showman.</field>
+      <field name="desc_meta_file_display">Genre: Extravaganza.</field>
+      <field name="desc_meta_file_display">Date first published: 1871.</field>
+      <field name="desc_meta_file_display">Date first performed: Unknown.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE BLACK SHOWMAN AND THE WHITE SHOWMAN.</field>
+      <field name="fulltext">CHARACTERS. The Brave Prince. The Fair Princess. Professor Dumps. The White Showman. The Black Showman.</field>
+      <field name="fulltext">I. Prince. Why, Dumps, you look as gloomy as a hearse. Dumps. Oh, Prince, I think the world grows worse and worse. Prince. Dumps, I am young; but it is five years since I heard you say that first. Dumps. Alas, my prince! [Weeps. Prince. Dumps! do not interrupt me. All these years You have employed in groans, and growls, and tears: Now, no man can go on like that for long, And keep his eyes clear, and see straight and strong. Dumps. It is the world's fault that I weep, not mine. Why should I fret else? Prince. Fretting is your line. Dumps. I say the world is miserable. Meanwhile, Show me a happy man, and I will smile. Prince. Then look at me; I am the happiest man That ever lived, my Dumps, since time began. Dumps. Ah! that is nothing, prince. The happiest Is but a wretched creature at the best; Where all are blind the one-eyed man is king. All are unhappy. Ergo, royal youth, You are unhappy. Prince. Dumps, you speak not sooth. I say that I am happy. Do you hear? Dumps. That is not proof, to shout into my ear. Prince. But there is proof which you would never guess— I am betrothed unto the Fair Princess. Dumps (sobbing violently). Alas, ah, woe! ah, miserable world! Prince. Now, Dumps, as surely as her hair is curled, So surely will I have you punished, if You do not keep your promise. [Draws his sword. Do not sniff! “Show me a happy man, and I will smile,” Those were your words. Now, by the sacred Nile, I tell you I am happy, and I show Myself to you. And thus, unless you keep Your word, Dumps, I will give you cause to weep. [Flourishing his sword. Smile, instantly! Dumps. Your royal highness, no; You cannot be the showman and the show. Prince. Oh, you are Grand Logician. I forgot. And yet perhaps my sword may cut this knot. [Sharpens it on the floor, and pretends to divide a hair with it. I am the Showman, and I am the Show, Both at the same time, whether you will or no. Dumps. Oh, prince, I taught you logic! Woe the day That all my teaching should be thrown away! [Sobbing. Prince. Dumps, love is more than logic. Smile you must; The very skies look shame on your disgust. Ye powers above, around, between, below, Before, behind, at large, and in a row, Send me a showman instantly. Enter White Showman suddenly. White Showman. What ho! Why do you look astonished? Prince. Who are you? White Showman. I am the Great White Showman, and I knew, Before you called, the drift of this to-do. Logician Dumps, this is a happy man— I show him to you! Prince. Smile! Dumps. The best I can. [Makes a grimace and exit. Prince. I thank you, Showman! Tell me— [The White Showman has vanished. He is gone! Up in the cloud, there, I think something shone; He must have passed that way. [A pause. My love is fair, Bright as the sun, and fresh as morning air. [The Princess in the distance sings. Princess. Oh joyful world and sweet to see, Where walks the prince that loveth me! Prince (continuing). Kind as the west wind, simple as the dew, White as the moon, and as her rising true— Princess (in the distance singing). Oh, happy hours; oh, happy day! Oh, hills and vales, and waters gay! Prince (continuing). Wise as the light, and sweet as eglantine, Oh, happy, happy, happy, she is mine! Princess (in the distance singing). Oh, happy, happy earth, to know The Prince that loves me, loves me so! [Music dies away. Exit Prince.</field>
+      <field name="fulltext">II. Dumps. Prince, we have passed the Frontier. Woe is me! Prince. Only a very little. Let us see What lies a little way beyond. Dumps. Oh, sad! Do you not think a man may be too glad, And in his gladness venture on too much? [Weeps. Prince. Dumps, you are chilling to the very touch! I will go further, man, I am so pleased; Is this a time when I should be thus teased? Come, what is here? Dumps. Vanity Fair, my lord; You see it written up, upon that board. [Cries from without of “All the fun of the fair, a penny!” “Walk up, ladies and gentlemen, just going to begin!” Rattles, tin-trumpets, drums, &amp;c. The Prince and Dumps pause in front of a gaily got-up show. Cymbals and trumpets. Black Showman. I am the Great Black Showman! But, although That is my name, I keep a gorgeous show; Look in my magic glass, and you shall see, The whole wide world in feast and revelry, Wonders, bright things to long for, and to win— Walk up, walk up! Just going to begin! Prince. My good Professor, I will see this show. Dumps. My Prince, I hope not— [Clutching at him. Prince. Grumbler, let me go! [Enters the Show. Enter children with white sticks beating the bounds and singing. Who is he that holds in sight Fairest fair, and brightest bright, Always sees them, always must, Till the sea be dry as dust; Till the sun in night goes out, And the stars be whirled about, And, beneath the darkened sky, Every true thing turns a lie? He who keeps the frontier-line, For our country is divine, And beyond it lies the land Where the Great Black Show doth stand; And the man who looks therein, He shall lose and shall not win, Shall not ever hold in sight Fairest fair and brightest bright.</field>
+      <field name="fulltext">III. Dumps. Folks say my face is sad, and so it is: Who could be cheerful in a world like this? But yesterday the Prince was shown to me As being happy as a man could be. And the Princess, they said, was happy too, But now they both look wretched. Oh, bohoo! [Weeps. He thought her once the fairest of the fair, But now her very sight he cannot bear! Perhaps, through this Black Showman? Woe, ah, woe! And yet he can't deny I told him so; That is some comfort. Hush! Mistaken word! Comfort on earth? The notion is absurd. No comfort, none. The world is dark and sad, And everything and everybody bad. [Weeps. What did the Showman pass before his sight? He says, things beautiful, and gay, and bright, And nothing else. And yet, strange mysteries! No beauty in the Princess now he sees, He shuns the sight of her. This clearly shows That all is hollow, and doth end in woes. Here comes the Prince. Enter Prince. Prince. Alas, my doleful friend! If you know logic, use it now. Attend! Once I was happy. Once I thought my girl A rose, a dove, a lily, a star, a pearl— Dumps. Forgive me, Prince. These all at once? Prince. Just so. Dumps. Then, Prince, as a logician, I say, no; It is impossible a girl can be Rose, lily, star, dove, pearl, at once. Prince. Let be! I say, I loved her; thought her beautiful;— Now for your logic! Why has love grown cold? I mean my love, for she—she loves me still; And so we fret—and—oh, Dumps, I'm so ill! Enter Princess, with a flower—Aside. Princess. Ah, there he is! He loves me—loves me not. Why was I born to this unhappy lot? Have I grown wicked? ugly? stupid? cross? No, I am just the same girl that I was. Last week he loved me dearly; but this week The Prince has not come near me, even to speak. Why, why? Oh, there is something in the air Keeps us apart. [Exit Princess. Prince. Dumps! Hide me anywhere! It is not that I do not love my Fair, It is, I cannot love the girl aright! Something has happened, surely, to my sight. Once, once, she drew my whole soul to her; now I fly from her, in spite of prayer and vow. Dumps (whispering to him). Prince! the Black Showman! In that show of his, Whatever you saw, it made you lose your bliss! Prince. Oh, Dumps, perhaps you have hit it. Are you sure? And if you have, can logic find a cure? If the Black Showman has upset me so, What shall I do? Dumps. Why, call the White! What ho! White Showman! Enter White Showman. White Showman. I am with you once again. I see, Prince, all your joy has turned to pain. Prince (averting his face). Yes, I have been to the Black Showman's show, And cannot love my Princess. White Showman. Ah! I know! Suppose you never should see clear again? Such things have threatened! But let us try amain. [Draws circles in the air. Look forth due east, and tell me what you see! Prince. Nothing but mist! White Showman (making fresh circles in the air). Again look forth. Prince. Ah me! The mist is lifting, curling; I behold Things upside down, confusion manifold, Dim daybreak— White Showman (making fresh circles in the air). Now look steadily again. Prince. The morning is up; there has been a rain; The wind blows sweetly, The river runs fleetly, The lark is singing, And bells are ringing The people to prayer, In a church in a valley, And everywhere Life makes a sally; It sends a shiver Along the river, And into the places Where furry shy creatures Are running races And into the features Of men and women; And, under the swimming White clouds in the sky, It seems as if nothing Could ever feel loathing, Or change or die! White Showman. Now look again, and tell me what you see. Prince. I see my Princess! Give her back to me! She is the fairest fair since time began, And I—oh, sir, I am the happiest man! White Showman. But look again, Prince. What do you behold? Ah, the sky darkens, and the earth grows old! Ah, the Black Showman, and the Princess—woe! Dumps. Exactly, Prince; I always told you so! Prince. He bears her off! White Showman. To put her in his show! He cannot love, and does not want her heart; He only wants her in his travelling cart, Because she is so lovely. Prince. The Black Cur! White Showman. Sir, what he wants is to exhibit her; He knows her beauty, Prince. Prince. But not her worth. White Showman. Right! That he cannot know. Prince. All round the earth I will pursue him! I will have her back! Break up this party. I am on his track Soon, Showman. [The White Showman has vanished. He's gone. Dumps, where are you? Dumps. What I have always told you has come true— This is a miserable world. Prince. Dumps, peace! Hark, hark! You soon shall hear of her release! [Voice of the Princess in the distance singing. Princess. The light is above me, The cloud is behind me, Till he that can love me Shall follow and find me, And mind me, and bind me, and make me his own. Will he seek me, and follow, By hill and by hollow, By river and heather, In night and wild weather, And love me alone, And take me and gather The flowers in my zone? Prince. Oh! I must find her, or I shall go mad. [Rushes off, listening intently. Dumps. This is remarkable, but very sad, And most illogical; in fact, too bad. Prince (shouting from behind). Wait for The Rescue of the Fair Princess. Dumps. It makes no difference. All is wretchedness! [Exit weeping aloud.</field>
+   </doc>
+</add>

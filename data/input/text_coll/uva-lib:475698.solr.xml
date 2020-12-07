@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Mary Austin</field>
+      <field name="author_facet">Mary Austin</field>
+      <field name="author_sort_facet">mary austin</field>
+      <field name="author_text">Mary Austin</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1890's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/AusAhLe.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">October 1897</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:475698</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Conversion of Ah Lew Sing</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">The Conversion of Ah Lew Sing</field>
+      <field name="title_facet">conversion of ah lew sing</field>
+      <field name="title_sort_facet">conversion of ah lew sing</field>
+      <field name="title_text">The Conversion of Ah Lew Sing</field>
+      <field name="year_display">October 1897</field>
+      <field name="year_facet">1897-10</field>
+      <field name="year_multisort_i">1897</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:475698&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:475698&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Mary Austin&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;mary austin&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Conversion of Ah Lew Sing&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;conversion of ah lew sing&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;October 1897&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1897-10&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Mary Austin&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Conversion of Ah Lew Sing&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;October 1897&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;San Francisco&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;A. Roman &amp;amp; Co.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;October 1897&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Austin, Mary. "The Conversion of Ah Lew Sing." Overland</field>
+      <field name="desc_meta_file_display">Monthly n.s. 30 (Oct. 1897): 307-312.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Conversion of Ah Lew Sing&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 18 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;illustrations are not yet included&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">AH LEW SING was the proprietor of a vegetable garden between the stock yard and the rail-road bridge, on the farther side of the Summerfield canal. He was the lankest, obliquest-eyed celestial that ever combined an expression of childlike innocence with the appearance of having fallen into a state of permanent disrepair, an outward seeming that much belied the inner man. Previous to his conversion, his ideas, if he had any, in regard to the Deity, were hazy in the extreme; but his convictions on the subject of devils were concise and dogmatic. There were about three hundred, according to Lew Sing's computation; all of the most malevolent type. If the potatoes rotted, if the celery rusted, if the cabbages failed to head, or the blight got his early peas, Lew Sing was at no loss where to lay the blame. All of these things frequently happened, notwithstanding that he burned punk at the four corners of his fields, and at all the foot-bridges that crossed his irregular ditches, which were so narrow and low that no sort of a devil could cross without wetting his feet,—a thing to which Chinese devils are very much averse. But in spite of the devils and a brisk competition in the vegetable trade, Lew Sing was able to put by a moiety of his earnings, which he further increased by judicious speculation with his friends Chock Sin, Sam Kee, and Foo Chou, choice spirits all. Chock Sin was more ignorant and cunning than Lew Sing; Sam Kee was worse than Chock Sin, and Foo Chou was the epitome of highbinderism. When Foo Chou could dupe his friends, he did so; when he could not, he consoled himself that none of them would ever be able to fleece him. But in this he reckoned without Lew Sing. The speculations of Foo Chou were various, including by preference anything sufficiently lawless and dangerous to make other people afraid of doing it. One of these chances of fortune put him in possession of the person of Li Choi, whose father had previously sold her for a sixteenth interest in a tea store on Dupont street. Li Choi had very small feet and very large ear-rings, and smooth glistening bands of hair with an astonishing number of jade ornaments stuck in them. Foo Chou expected to make as much as three hundred dollars on her, and Foo Chou was a judge of marketable women. But the cunningest of speculators comes to grief now and then, and Foo Chou made the mistake of his life when he brought his three friends to the close red-curtained room where his property was sequestered, and permitted them to gaze through the hole he had cut in the door to display the charms of Li Choi. The eyes of Lew Sing had no sooner beheld her than the heart of Lew Sing was consumed by love. Forthwith he began to suffer the pangs of disappointed affection, for his potato crop, owing perhaps to the devils, perhaps to a superfluity of water, was a failure, and the purse of Lew Sing did not contain an equivalent for so much loveliness. While he debated the possibility of inducing that hardened piece of rascality to abate the price for friendship's sake, Foo Chou was growing morose. No purchaser was forthcoming for the lovely Li Choi, and she was costing him dear for her keep, besides wasting her loveliness with secret tears. It was not because of any lack of appreciation of her charms that Foo Chou did not espouse her himself. In the gambling dens of Summerfield's Chinatown, Foo Chou was known as the most inveterate and unluckiest gambler of them all, and no profitable villanies being at hand, nothing but a cash price for Li Choi could replenish his failing fortunes. What maiden fears and childish terrors and dread of outraged womanhood were endured in that little red-curtained room no one knew. No one, unless, perhaps Ah Foo, who was grandfather at large to all the little pig-tailed celestials in Chinatown. He might have heard her crying as he squatted under her window while his shaved and sandaled little charges made a skipping rope of his grizzled queue, which was pieced out an extra length for that especial accommodation. The pretty face of Li Choi looked out between the curtains at the wrinkled, kindly visage of Ah Foo and took heart of hope. Foo Chou, coming one morning to take stock of his property, found a strange key in the door and the room empty. Great was the wrath of Foo Chou, and such the questioning and gesticulating and running to and fro that grandfather Foo had to move his charges quite two blocks away to escape being trodden upon. Later, word came to Foo Chou that his property had taken refuge at the mission, whose gray walls towered at least a story and a half above the shabby roofs that sheltered Chinatown. Foo Chou and his kind looked with marked disfavor on the mission and its mistress, whose success in luring profitable females from their rightful masters was looked upon as an unwarrantable interference in trade. The friends of Foo Chou advised an appeal to the law for the recovery of his property. Not of course that the law of this enlightened country recognized the lovely Li Choi as a legal chattel, but any number of respectable merchants in Chinatown were ready to swear to being the husband, father, brother, or otherwise legal guardian, praying her restoration on his loving protection. The thing had been done before, but Foo Chou deemed it inadvisable for several reasons, chief of which was the recollection of a recent encounter with the law on his own account in a little operation connected with the opium trade in which Foo Chou had come hardly off. For the present until some better plan could be devised Li Choi must remain where she was. True, she might be converted to Christianity, but she was safe against any other chance and cost him nothing. As for Christianity, Foo Chou had never seen a case of it so bad it could not be cured with two or three judicious beatings, nevertheless, he must keep as close a watch as circumstances permitted over the recreant Li Choi. Obviously this must be done by deputy, since the villanous face of Foo Chou, if recognized, would bring about the very thing he feared,—namely: the removal of Li Choi to a mission in another part of the State, where she might be hopelessly lost to the proprietor. In his perplexity he bethought himself of the guileless front of his friend Lew Sing. Then it was that Lew Sing congratulated himself that he had never confessed his tender attachment to Foo Chou, and his smile was blank enough to have deceived the Father of mischief himself, as he purchased a primer and joined the night class at the mission. Faithfully for a week he poured over the intricacies of c-a-t and d-o-g, but never once did he catch a glimpse of the bright eyes of Li Choi nor hear the pat-pat of her entrancing little feet. Now the mission school is but a trap to catch converts, and that the shrewd celestial knows as well as anybody, and is wary to avoid its pitfalls,—but the conversion of Ah Lew Sing dated from the day when he discovered that the converts of both sexes participated in the religious exercises. From that time on his growth in grace was astonishing. Within a week it carried him from a back seat near the door to the front row of shining examples beside Li Choi, who in the grateful promptings of her simple heart believed whatever she thought would please the matron of the mission, Miss Campbell. When they stood around the organ and sang, "O how I love Jesus!" Li Choi looked at Miss Campbell and Lew Sing looked at Li Choi. "Me velly happy," was Lew Sing's unfailing testimony. So Ah Sing kept watch over Li Choi while Foo Chou perfected his plans. If the law, he reasoned, did not recognize his proprietary interest in the person of Li Choi, it could not deny his right to the jade ornaments which had been no inconsiderable item of the purchase price. Foo Chou meant to swear out a warrant for the arrest of Li Choi for the theft of certain earrings, hair ornaments, and armlets, which she did feloniously abstract from the residence of Foo Chou. While the arrest was in progress the friends of Foo Chou would rush to the rescue of the distressed Li Choi and bear her away from the cruel arms of the law. Foo Chou thought for a sufficient sum the constable might even permit himself to be knocked down in defense of his prisoner. Foo Chou, for reasons before mentioned, being averse to appearing on the scene in person, it was agreed that the rescue should be conducted by Chock Sin and Sam Kee, and that Lew Sing should convey the prisoner to the safe place in the country to which the wily Foo Chou should retire after arranging for the arrest. It must be said to Foo Chou's credit that he left the management of an affair of such importance in the hands of his friends with reluctance; however, there was no help for it and he trusted to his well known reputation for blood-thirstiness to ensure the fidelity of Chock Sin, Sam Kee, and Lew Sing. He meant to stay quietly in the country until the affair had had time to blow over, and then he hoped to get safely off to Sacramento, where the traffic in small feet and bright eyes was flourishing. The arrest took place exactly as prescribed. At an hour when all Chinatown smoked its pipe and the charges of Father Foo napped in the shade, the constable rapped at the door and presented his warrant for Li Choi. Miss Campbell demurred, hesitated, and was lost; for while she suspected the design of Foo Chou, still the thing might have been contrived to lure her away from other charges, more than one of whom was the alleged property of some enterprising celestial. While she debated, the tearful Li Choi was hurried out of reach. The rescue was the most successful affair of the kind ever carried on in Chinatown. When Chock Sin and Sam Kee crept out of the cellar in which they had lain quiet during the perfunctory search carried on by the profane but not over-zealous officer, they glowed with honest pride to find nothing else talked of in the tea shops and laundries. Lew Sing was not molested by the officers, for nobody testified to the bundle of quilted petticoat which was hurried under the canvas cover of his vegetable wagon waiting innocently around the corner. What happened in the interim between the rescue and the return of Foo Chou on the third day, exceedingly wroth at what he supposed to be the total failure of his plans, can never be accurately known; whether the heart of Lew Sing, meditating long and tenderly on the charms of Li Choi, had yielded to an overwhelming temptation, or whether his childlike countenance covered more duplicity than even Foo Chou gave him credit for, is open to debate. Perhaps the demure Li Choi did not greatly resist the manifest destiny of her sex. It is not to be supposed that she was unaware of all these devoted glances when they stood up in Sunday School and shared the same Gospel Hymn book. Certainly Li Choi did not want to be handed over to Foo Chou, neither did she want to go to jail, and although a Chinaman in a vegetable wagon is not exactly an ideal knight errant, rescuing a distressed maiden, it might have appeared so to Li Choi. At any rate he carried her away to his own domicile with a serene disregard of consequences that did credit to his courage. But the courage paled visibly before the information brought by the friendly Ah Foo that Foo Chou had learned the real state of affairs and was coming with a very big knife to kill Lew Sing and cut off his queue, and carry Li Choi away. All of which might have come to pass, had not Lew Sing consulted with his friend, the flagman at the railroad crossing. "What you want to do to keep anybody from touching your wife is to get married, alle samee white man. Sabee?" Lew Sing reflected: to get married "alle samee white man" might make Li Choi secure, but it might also make it difficult if he should ever wish to get rid of her. But then Lew Sing did not believe that he should ever want to get rid of Li Choi. Such is the reckless enthusiasm of love. Besides, Foo Chou was coming with his knife. The flagman scribbled a line on the back of an old letter. "You takee this to the City Hall, give him to Mr. McGee, he fix him all right." Half an hour later, while Foo Chou was furiously searching the premises of Ah Lew Sing, that worthy was helping his pretty bride up the steps of the City Hall, her parasol awry and her embroidered sandals sadly the worse for their hasty flight across lots. Ah Sing in the swelling of commendable pride, at having outwitted the most notorious highbinder in Chinatown, built him a house that was quite large enough to swing a cat in, and as gorgeous inside as a joss house, and quite as dingy without, with the wisdom of Confucius done in very large characters on very red paper pasted all about the front door. He has returned to his old occupation of fighting devils. A three hundred dollar wife must be supported in a style to correspond with her worth,—besides there is a little Lew Sing who is expected to grow up and become a mandarin with a green button on his hat and must be looked after accordingly. Ah Lew Sing never went back to the mission, although Miss Campbell visited him as soon as she heard of the wedding and exhorted him to hold fast to the faith that he had. His wife goes sometimes and sits in her old seat but it is only an act of grateful remembrance like the nice stale duck eggs and packages of roasted watermelon seeds that find their way occasionally to Grandfather Foo. As for Foo Chou he departed for regions unknown. He might have devised new rascalities to compensate for the loss of his property, but to be overreached by a mere vegetable gardener, a man who worked for a living! After that no self-respecting highbinder could hold up his head.</field>
+   </doc>
+</add>

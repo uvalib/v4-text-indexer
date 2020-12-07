@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Ward, Edward, 1667-1731</field>
+      <field name="author_facet">Ward, Edward, 1667-1731</field>
+      <field name="author_sort_facet">ward edward 1667 1731</field>
+      <field name="author_text">Ward, Edward, 1667-1731</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.1945.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1695</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:465733</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Female policy detected</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">Female policy detected</field>
+      <field name="title_facet">female policy detected</field>
+      <field name="title_sort_facet">female policy detected</field>
+      <field name="title_text">Female policy detected</field>
+      <field name="year_display">1695</field>
+      <field name="year_facet">1695</field>
+      <field name="year_multisort_i">1695</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:465733&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:465733&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Ward, Edward, 1667-1731&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;ward edward 1667 1731&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Female policy detected&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;female policy detected&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1695&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1695&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Ward, Edward&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1667&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1731&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Female policy detected&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for Benj. Harris [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1695&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp4101&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;38 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Female policy detected&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 9 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Majority of verse reproduced elsewhere in The English Poetry Full-text Database; only unique items included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Dedicated to the Apprentices of London. In Commendation of Vertue. Vertue, thou Ornament of Humane Life, That Crowns the Virgin, and Adorns the Wife, From thy Blest Treasure of Contentments flow All the true Blessings we enjoy below. Those Sweet Delights, which in thy Bosom dwell, Rise up in Springs, and into Rivers swell, Which know no Ebb, or Storm, but free from Noise, Flow Calmly in a constant Tide of Joys: Thou bring'st Contentment to the Meanest Birth, And gives us Taste of Heaven here on Earth: From whence, thro' Christal Innocence, we see A pleasing Prospect of Eternity; Where Angels, to receive the Vertuous, wait, And bid them Welcome to a Happier State. When Vice hath drest her Wanton Daughters Head, With Tresses loose, in Airy Modes Displaid. Complection heighten'd, and improv'd by Paint, And all the Arts that Pride could e're invent: Yet Vertue in plain Coif, adorn'd no way By Nature, looks so Innocently Gay: She in her Homespun Garb shines brighter far than they. As Precious Gems, of which the India's boast, The plainer set, the greater Lustre cast. Vertue, like Beauty, wants no Study'd Smile, But of it self shines bright without a Foil. Could the Corrupted World but truly tast The Sweet Delights which Vicious Actions Blast, Their Lewd Excesses they'd repeat no more, Their Counterfeit Enjoyments soon give o'er To Gaze at Vertues Beams, and the Chast Dame Adore. 'Tis she emboldens us to fear no Fate, And gives Contentment to the meanest State. Closely Embrac'd, she Blesses each Degree With a Calm Mind, from Perturbations free, And, by Content, Improves Felicity. Would all Mankind her pleasing foot-steps tread, Which do to Truth, and all Perfections lead, Sexes would join, as Angels do above, Not to Fulfil their Lust, but Seal their Love. In Dispraise of Vice. With what reproachful Blushes do the Wise, Those Follies, which the Age embrace, despise, With Wonder and Contempt they Gaze to see Vertue thus Sacrific'd to Leachery, By the Sly Snares of Female Policy. What strange Temptations draw the World aside, To Embrace Vice, and Vertues Charms deride: As Thieves and Ruffians, who abhor the Light, Shun the Bright Day, and seek the Gloomy Night. Tell me, mistaken Souls, what Baits allure From Vertues Paths, so pleasing and so sure, Where no deep Sloughs, or dangerous Bogs are found, But sundry Prospects of Delight all round; Who'd quit so happy, so secure a Road, To Wade along in Filthiness and Mud. Where Paths so rugged are, Friend Jossels Friend, Each for Precedency in Vice contend, But Sorrow is, (alas) their Journeys end. So is the unweary Traveller betray'd, When by an Ignis Fatuus misled 'Mong Brakes and Pools, from whence the treach'rous Guide Flies undiscern'd, and doth his Tapor hide, Leaving the Wand'ring Wretch quite void of Light, Expos'd to all the Accidents of Night. Thus fare the Unhappy Mortals, who receed From Vertues Paths, the tracts of Vice to tread, Where Fears and Cares each Wanton step succeed. Look at the Monster Vice with steddy Eye, Who thus devours the Worlds Tranquility, You may discern the Beast in ev'ry part, By Nature Black, tho' Whiten'd o're by Art; As Strumpets, when Distemper'd and Unclean, Paint Fair their outsides when most Foul within. Vice, thou Black Parent of Revenge and Strife, Thou Shame of Humane Race, and Sting of Life, By thy Rank Bowels every ill is fed, From thee all Rapes and Villanies proceed; Ambition, Envy, Lust, Adultery, Murder, Rebellion, every Infamy, Have all their Birth and Nourishment from thee. Shun the Dark Fiend, and its alluring Toys, Reject its Trifles and Embrace true Joys; Which if you'll find, choose Vertue for your Guide, Woo the kind Dame, and keep her by your side, Kiss her Soft Lips, and Wed her for your Bride. FINIS.</field>
+   </doc>
+</add>

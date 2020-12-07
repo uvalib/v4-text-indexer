@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Yearsley, Ann, 1753-1806</field>
+      <field name="author_facet">Yearsley, Ann, 1753-1806</field>
+      <field name="author_sort_facet">yearsley ann 1753 1806</field>
+      <field name="author_text">Yearsley, Ann, 1753-1806</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1790's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.1804.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1793</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:465647</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Reflections on the death of Louis XVI ; By Ann Yearsley</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 18th century</field>
+      <field name="subject_text">English poetry -- 18th century</field>
+      <field name="title_display">Reflections on the death of Louis XVI ; By Ann Yearsley</field>
+      <field name="title_facet">reflections on the death of louis xvi</field>
+      <field name="title_sort_facet">reflections on the death of louis xvi</field>
+      <field name="title_text">Reflections on the death of Louis XVI ; By Ann Yearsley</field>
+      <field name="year_display">1793</field>
+      <field name="year_facet">1793</field>
+      <field name="year_multisort_i">1793</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:465647&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:465647&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Yearsley, Ann, 1753-1806&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;yearsley ann 1753 1806&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Reflections on the death of Louis XVI ; By Ann Yearsley&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;reflections on the death of louis xvi&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1793&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1793&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Yearsley, Ann&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1753&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1806&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Reflections on the death of Louis XVI&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;By Ann Yearsley&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Bristol&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for, and Sold by the Author ... and by the Booksellers of Bristol, Bath, &amp;amp;c.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1793&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp4441&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;8, 8 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Reflections on the death of Louis XVI&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;By Ann Yearsley&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 12 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">SEQUEL TO REFLECTIONS ON THE DEATH OF LOUIS XVI. No Act is pure that guiltless Nature wounds, True to her Working plays the human Heart, And ev'ry Nerve obeys her secret Touch; What then is Murder! That Chamber late, so sacred to thy Woes, Is now the Dwelling of thy blooming Boy; His Eyes yet seek thee,—thy unfeeling Foes Rush on his Sight, and the fond Dream destroy. For oh! the Charts of Mem'ry hold but Dreams, Of th'eternal past!—e'en thy lov'd Form Now thro' the Waste of Thought, but faintly gleams, Like a pale Sun amid th'unwelcome Storm. LOUIS! thy Murd'rers willingly would shroud Thy Virtues, and invelope Reason's Ray; Yet hover on some Glory-skirted Cloud, And rouze thy lov'd Eliza from Dismay. Ah, cheer her flutt'ring Spirit!—see she falls A gentle Victim to thy hapless Fate! Still on her lost lamented Sire she calls, None hears, save Fury list'ning at her Grate. Fury! thou Curse! whence art thou? wherefore bred? To drink the Drops that warm the human Heart? To burn the Brain, and make thy Vot'ries red, With Crimson Guilt, at which their Children start! Fiend! can'st thou pity? view Eliza's Cares! Her beating Veins, the Agonies that rave Thro' all her tender Frame,—her guiltless Tears, Her early Beauties sinking to the Grave. No!—I'll not plead with Fury; she was known Never to glut on human Pangs, or turn From the black Carnage, Guilt is all her own, She looks with Joy e'en on her Hireling's Urn: Deceives the Soldier with a ghastly Smile, Goads on S???n??e, and o'er his gloomy Face Spreads this sad Motto, mid the Traits of Guile “His Deed, thro' Ages, Gallia shall disgrace.” Ah S???n??e thou must die! and should thy GOD Deal but such Mercy as thou gav'st thy King: Wilt thou like LOUIS, mildly meet the Rod, Trusting to Man thy future Fame to sing? From thee shall Heav'n-born Mercy frighted fly, Her Pinions may not catch thy venomn'd Breath: Lest thy contagious Breathing taint the Sky, And fill vast Realms with nought but Blood and Death. Sure there are better Worlds!—believe me, when I view the finish'd Drama of poor Life, I turn unchearful from the Ways of Men, My thinking Pow'rs feel an unending Strife. Many shall own with me, that feeble Man Wasting his Life in Vision, ne'er could spread In this wide Desart a convincing Plan, Whereby the studious Spirit may be led. Yes, the wild Doings of Mankind would rend The Mind from her firm Base: Come then ye Pow'rs! Who o'er my solitary Pillow bend, And chain unseen Life's variegated Hours. Be your's the Work to reconcile the Breast, To happier Prospects, mid this rueful Scene; To whisper LOUIS owns eternal Rest; To whisper Comfort to his mourning Queen. Calm this Impatience which so swiftly runs, Mingled with Horror thro' the pitying Mind; Teach the brave few of Gallia's moral Sons, That yet some white-wing'd Hour remains behind. When Peace and Virtue, thro' the vernal Shade, Shall lead their radiant Images along, Order fill up the Gulf by Murder made, And martyr'd LOUIS, hear the sacred Song: That Song, which Virtue and bright Truth inspire The Sons of social Love, shall oft relate; While Shades of Pity sweeping o'er the Lyre Shall touch the Mem'ry with a Monarch's Fate. Daughters of Melody begin the Sound, To the soft Breeze your trembling Notes shall flow; Shades of departed Warriours echo round, And aid the dreadful Symphony of Woe. INVOCATION. Hear! hear! oh hear Thou universal Pow'r! So oft invok'd, eternally unknown, Where'er Thou deign'st to tinge the humble Flow'r, Or breathe thy Spirit from a mortal Throne: Thro' all thy Lightnings, where thy Thunders roll, We humbly call the World's Almighty Soul! Mangled on the sad Bosom of the Earth, Behold dread Pow'r! a bleeding Victim lies! Receive him from the Land that gave him Birth, Father! throw back thy everlasting Skies! The GOD approaches!—Mercy shakes the Sphere! “I gave thee Being, find thy Refuge here!” HOTWELLS, (Bristol) Feb. 12, 1793. FRANCE, August 10, 1768. “When LOUIS XVI. was at Rouen, he walked from the Cathedral to the Bridge, to see the Method of opening and shutting it.—On that Occasion his Majesty was surrounded by an immense Multitude, who made the Air ring with continued Shouts of Vive le Roi! when the King raised his Hands towards Heaven, while the Tears of Sympathy trembled in his Eyes, Vive mon Peuple! Vive mon Peuple! To perpetuate the Memory of this Event, the Inhabitants of Rouen have determined to erect a Statue of LOUIS XVI. in the Attitude of answering the Prayers of his People.”—Behold the affecting Vicissitude of HUMAN GLORY! THE END.</field>
+   </doc>
+</add>

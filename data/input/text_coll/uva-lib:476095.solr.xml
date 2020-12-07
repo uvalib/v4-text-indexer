@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">David Hume</field>
+      <field name="author_facet">David Hume</field>
+      <field name="author_sort_facet">david hume</field>
+      <field name="author_text">David Hume</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/HumFgov.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">1882</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476095</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Of the First Principles of Government</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">Of the First Principles of Government</field>
+      <field name="title_facet">of the first principles of government</field>
+      <field name="title_sort_facet">of the first principles of government</field>
+      <field name="title_text">Of the First Principles of Government</field>
+      <field name="year_display">1882</field>
+      <field name="year_facet">1882</field>
+      <field name="year_multisort_i">1882</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476095&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476095&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;David Hume&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;david hume&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Of the First Principles of Government&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;of the first principles of government&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1882&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1882&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;David Hume&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Of the First Principles of Government&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1741&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Longmans, Green, and Co.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1882&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="callNo"&gt;Source copy consulted: Alderman Library Copy B 1475 1882 v. 1&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Of the First Principles of Government&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2002&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2002 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 12 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Of the First Principles of Government Nothing appears more surprising to those, who consider human affairs with a philosophical eve, than the easiness with which the many are governed by the few; and the implicit submission, with which men resign their own sentiments and passions to those of their rulers. When we enquire by what means this wonder is effected, we shall find, that, as FORCE is always on the side of the governed, the governors have nothing to support them but opinion. It is therefore, on opinion only that government is founded; and this maxim extends to the most despotic and most military governments, as well as to the most free and most popular. The soldan of EGYPT, or the emperor of ROME, might drive his harmless subjects, like brute beasts, against their sentiments and inclination: But he must, at least, have led his mamalukes, or praetorian bands, like men, by their opinion. Opinion is of two kinds, to wit, opinion of INTEREST, and opinion of RIGHT. By opinion of interest, I chiefly understand the sense of the general advantage which is reaped from government; together with the persuasion, that the particular government, which is established, is equally advantageous with any other that could easily be settled. When this opinion prevails among the generality of a state, or among those who have the force in their hands, it gives great security to any government. Right is of two kinds, right to POWER and right to PROPERTY. What prevalence opinion of the first kind has over mankind, may easily be understood, by observing the attachment which all nations have to their ancient government, and even to those names, which have had the sanction of antiquity. Antiquity always begets the opinion of right; and whatever disadvantageous sentiments we may entertain of mankind, they are always found to be prodigal both of blood and treasure in the maintenance of public justice. There is, indeed, no particular, in which, at first sight, there may appear a greater contradiction in the frame of the human mind than the present. When men act in a faction, they are apt, without shame or remorse, to neglect all the ties of honour and morality, in order to serve their party; and yet, when a faction is formed upon a point of right or principle, there is no occasion, where men discover a greater obstinacy, and a more determined sense of justice and equity. The same social disposition of mankind is the cause of these contradictory appearances. It is sufficiently understood, that the opinion of right to property is of moment in all matters of government. A noted author has made property the foundation of all government; and most of our political writers seem inclined to follow him in that particular. This is carrying the matter too far; but still it must be owned, that the opinion of right to property has a great influence in this subject. Upon these three opinions, therefore, of public interest, of right to power, and of right to property, are all governments founded, and all authority of the few over the many. There are indeed other principles, which add force to these, and determine, limit, or alter their operation; such as self-interest, fear, and affection: But still we may assert, that these other principles can have no influence alone, but suppose the antecedent influence of those opinions above-mentioned. They are, therefore, to be esteemed the secondary, not the original principles of government. For, first, as to self-interest, by which I mean the expectation of particular rewards, distinct from the general protection which we receive from government, it is evident that the magistrate's authority must be antecedently established, at least be hoped for, in order to produce this expectation. The prospect of reward may augment his authority with regard to some particular persons; but can never give birth to it, with regard to the public. Men naturally look for the greatest favours from their friends and acquaintance; and therefore, the hopes of any considerable number of the state would never center in any particular set of men, if these men had no other title to magistracy, and had no separate influence over the opinions of mankind. The same observation may be extended to the other two principles of fear and affection. No man would have any reason to fear the fury of a tyrant, if he had no authority over any but from fear; since, as a single man, his bodily force can reach but a small way, and all the farther power he possesses must be founded either on our own opinion, or on the presumed opinion of others. And though affection to wisdom and virtue in a sovereign extends very far, and has great influence; yet he must antecedently be supposed invested with a public character, otherwise the public esteem will serve him in no stead, nor will his virtue have any influence beyond a narrow sphere. A Government may endure for several ages, though the balance of power, and the balance of property do not coincide. This chiefly happens, where any rank or order of the state has acquired a large share in the property; but from the original constitution of the government, has no share in the power. Under what pretence would any individual of that order assume authority in public affairs? As men are commonly much attached to their ancient government, it is not to be expected, that the public would ever favour such usurpations. But where the original constitution allows any share of power, though small, to an order of men, who possess a large share of the property, it is easy for them gradually to stretch their authority, and bring the balance of power to coincide with that of property. This has been the case with the house of commons in ENGLAND. Most writers, that have treated of the BRITISH government, have supposed, that, as the lower house represents all the commons of GREAT BRITAIN, its weight in the scale is proportioned to the property and power of all whom it represents. But this principle must not be received as absolutely true. For though the people are apt to attach themselves more to the house of commons, than to any other member of the constitution; that house being chosen by them as their representatives, and as the public guardians of their liberty; yet are there instances where the house, even when in opposition to the crown, has not been followed by the people; as we may particularly observe of the tory house of commons in the reign of king WILLIAM. Were the members obliged to receive instructions from their constituents, like the DUTCH deputies, this would entirely alter the case; and if such immense power and riches, as those of all the commons of GREAT BRITAIN, were brought into the scale, it is not easy to conceive, that the crown could either influence that multitude of people, or withstand that overbalance of property. It is true, the crown has great influence over the collective body in the elections of members; but were this influence, which at present is only exerted once in seven years, to be employed in bringing over the people to every vote, it would soon be wasted; and no skill, popularity, or revenue, could support it. I must, therefore, be of opinion, that an alteration in this particular would introduce a total alteration in our government, and would soon reduce it to a pure republic; and, perhaps, to a republic of no inconvenient form. For though the people, collected in a body like the ROMAN tribes, be quite unfit for government, yet when dispersed in small bodies, they are more susceptible both of reason and order; the force of popular currents and tides is, in a great measure, broken; and the public interest may be pursued with some method and constancy. But it is needless to reason any farther concerning a form of government, which is never likely to have place in GREAT BRITAIN, and which seems not to be the aim of any party amongst us. Let us cherish and improve our ancient government as much as possible, without encouraging a passion for such dangerous novelties.</field>
+   </doc>
+</add>

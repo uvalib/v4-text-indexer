@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Shepherd, Luke</field>
+      <field name="author_facet">Shepherd, Luke</field>
+      <field name="author_sort_facet">shepherd luke</field>
+      <field name="author_text">Shepherd, Luke</field>
+      <field name="composition_era_facet">16th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.0258.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">[1549]</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:463162</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">A pore helpe ; [by Luke Shepherd</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">A pore helpe ; [by Luke Shepherd</field>
+      <field name="title_facet">pore helpe</field>
+      <field name="title_sort_facet">pore helpe</field>
+      <field name="title_text">A pore helpe ; [by Luke Shepherd</field>
+      <field name="year_display">[1549]</field>
+      <field name="year_facet">1549</field>
+      <field name="year_multisort_i">1549</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:463162&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:463162&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Shepherd, Luke&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;shepherd luke&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A pore helpe ; [by Luke Shepherd&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;pore helpe&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;[1549]&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1549&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Shepherd, Luke&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A pore helpe&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;[by Luke Shepherd]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;[London]&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;[1549]&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp3527&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;[15] p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A pore helpe&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;[by Luke Shepherd]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 30 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Latin verse omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">A pore helpe The buklar &amp; defence Of mother holy kyrke And weap? to driueh?ce Al y? against here wircke. Wil none in al this lande Step forth &amp; take in hand These felowes to w?stand In number like the sande That wyth the Gospel melles And wil do nothynge elles But tratlinge tales telles Agaynste our holy prelacie And holy churches dignitie Sayinge it is but papistrie Yea fayned and Hypocrisy Erronious and heresye And taketh theire authoritye Out of the holy euangelie All customes ceremoniall And rites ecclesiastical Not grounded on scripture No longer to endure And thus ye may be sure The people they allure And drawe them from youre lore The whiche wil greue you sore Take hede I saye therfore Your nede was neuer more But sens ye be so slacke It greuith me a lacke To here be hind your backe Howe they wyll carpe and cracke And none of you that dare With one of them compare Yet some ther be that are So bolde to shewe there ware And is no priest nor deacon And yet wyl fire his be cone Against such felowes fraile Make out wyth tothe and nayle And hoyste vp mayne saile And manfully to fyght In holy prelates right With penne and ynke and paper And like no trifling Iaper To touch these felowes in dede And I in dede am he That wayteth for to se Who dare so hardy be To encounter here with me I stande here in defence Of sume that be far hence And can both blysse and sence And also vnder take Right holy thinges to make Yea god within a cake And who so that forsake His breade shalbe dowe bake I openly professe The holy blissed masse Of strength to be no lesse Then it was at the firste But I woulde se who dourst Set that amonge the worst For he should be acurst With boke and bell and candel And so I would him handel That he shoulde right wel knowe Howe to escape I trow So hardy on his head Depraue our holy breade Or els to prate or patter A gainst oure holy watter This is a playne matter It nedeth not to flatter They be suche holy thinges As hath bene vsed with kinges And yet these lewde loselles That bragge vpon ther Gospelles At ceremonies swelles And at our christined belles And at your longe gownes And at your shauen crownes And at your tipettes fyne The Iauelles will repyne They saye ye lead euil liues Wyth other mens wyues And wil none of your owne And so your sede is sowne In other menus grounde True wedlocke to confound Thus do they raile and Raue Calling euery priest knaue That loueth messe to saye And after Idel al day They woulde not haue you playe To driue the time awaye But brabble on the byble Whiche is but vn possible To be lerned in al your life Yet therin be they rife Which maketh al this strife And also the paraphrasies Much differe?g fr? your porteises They woulde haue dayly vsed And porteise cleane refused But they shalbe accused That haue so far abused Their tonges against such holines And holy churches busines Made hundred yeres a go Great clearckes affirmeth so And other many mo That searched to and fro In scripture for to fynde What they myght leaue behinde For to be kept in mynde A monge the people blind As waueringe as the wynde And wrote thereof suche bokes That who so on them lokes Shal find them to be clarkes As proueth by their warks And yet there be that barke And say they be but darcke But harke ye loulars harke So wel we shal you marcke That if the worlde shall turne A sort of you shall burne Ye durst as wel I saye Wythin this tow yeres day As sone to rune a waye As such partes to playe When sume dyd rule and reygne And auncient thinges maintayne Which nowe be counted vaine And brought into disdayne Suche men I saye they were As loued not thys geare And kept you styl in feare To burne or faggottes bere Then durste ye not be blode (Against our lerninges olde Or images of golde Which nowe be bought and solde And were the lay m?nes boke Whereon they ought to loke) One worde to speake a misse Can ye say nay to this? No no ye foles I wysse A thinge to playne it is. Then did these clarkes deuyne Dayly them selues encline To proue and to define That Christes body aboue Whiche suffered for oure loue And died for oure behoue Is in the sacrament Fleshe bloude and bone present And breade and wyne a waye Assone as they shall saye The wordes of consecracion In time of celebracion So muste it be in dede Though it be not in the crede And yet thes felowes newe Wyl saye it is not true Christes body for to vewe Wyth any bodely eye That do they playne deny And stifely stand therby And enterprise to wright And also to endight Bokes both great and smal Agaynste these fathers al And heresy it cal That any man should teach Or to the people preache Such things without their reach And some ther be that say That Christ cannot alday Be kept within a box Nor yet set in the stokes Nor hidden like a fox Nor presoner vnder lockes Nor clothed w? powdred armine Nor bredeth stinking vermine Nor dwelleth in an howse Nor eatyn of a mouse Nor moulde or he be spent Nor yet with fire be brent Nor can no more be slayne Nor offered vp agayne Blessed sacrament for thy passion Here and se our exclamacion Agaynste thes men of new facion That striue agaynst the holy naci? And Iest of them in plays In tauerns and hye wayes And theyr good actes disprayse And martirs woulde them make That brent were at a stake And sing pipe meri annot And play of wil not cannot And as for cannot and wil not Though they speke not of it it skil not For a noble clarke of late And worthie in estate Hath played with them chek mate Theyr courage to abate And telles them such a tale As makes theyr bonettes vale And marreth cleane the sale. Of all their whole pastime And al is done in ryme Oh, what a man is thys That if he coulde I wysse Woulde mend that is amys His meaninge is in dede That if he myght wel spede And beare some rule againe It shoulde be to their paine I thinke they were but worthye Because they be so sturdy To rayle agaynste the wircke Of our mother holy kyrke Yet some ther be in fume And prowdly do presume Unto thys learned man To answere and they can And wene they had the grace His balad to deface And trowe ye that wilbe? Nay nay beleue ye me I take my marke amys If once he dyd not mys A verie narowe hys Wel if you come agayne Maye happen twelue men Shal doe as they dyd then Haue you forgote the bar That euer ther you war And stode to make and mar By god and by the contrey You had a narowe entrey Take hede of coram nobis We wyl reken wyth vobis If you come agayne We wyl know who pulled the hen For all your bolde courage You maye paye for the potage And are you nowe so bragge You maye come to lagge Your happe may be to wagge Upon a wodden nagge Or els a fayer fyer May hap to be your hier Take hede lest you tyer And lye downe in the myer Holde fast by the mane By the masse it is no game If my Lord ware not lame You wyll all be tame When you here him next Marcke well his texte He hath ben curstly vext I fere me he be wext A popistant stout Surely all the rout That heres him shall doubt He wylbe in and out Prowlynge rounde about To get forth the snowt If prayer maye do good All the whole broode Skuruy, skabbed, and skald Shauen, shorne, and baule Pore priestes of Baule We praye for him all Unto the god of breade For if he be deade We may go to bed Blyndefild and be led Without rag or shred But I am sore adred I se him loke so red Yet I durste ley my heade As docter frier saide He hath some what in store Wel you shal knowe more Herken well therefore Some shal paye the skore He hath ben a pardoner And also a garddener He hath ben a vitaylar A Lordly hospitelar A noble teacher And so so a preacher Though Germin his man Were hanged what than? Say worsse and you can Best let him a lone For Peter Iames and Iohn And Apostelles euery one I giue you playne warninge Had neuer no suche learnyng As hath thys famous clarke He is lerned be beyond the marke And also mayster huggarde Doth shewe him selfe no sluggard Nor yet no drunkin drunkarde But sharpeth vp hys wyt And frameth it so fyt These yonkers for to hit And wil not them permit In errour stil to sit As it may wel apeare By his clarkely answere The whiche initled is Agaynste what meaneth this A man of olde sorte And writeth not in sporte But answereth ernestly Concludynge heresy And yet as I trowe Some bluster and bloude And crake (as the crowe) But nettes wyl wee laye To cache them if we maye For if I beging I wyll bringe them in And feche in my cosyns By the whole dosens And call them coram nobis And teache them dominus vobis With his et cum spiritutuo That holy be both duo. When they be sayed and songe In holy latyn tonge And solemne belles do ringe But these babes be to yonge Perkyng vpon theyr patins And fayne would haue the matt?s And eueninge songe also In Englishe to be do With mariage and baptising Burialles and other thyng In vulgare tonge to saye and sing And so they do it newly In diuerse places truly Sayinge they do but duely Maynteinyng it in any wyse So shoulde they do their seruice Alasse who woulde not mone Or rather grount or grone To se suche seruice gone Whiche saued many one From dedly synne and shame And many a spote of blame From purgatorye payne And many showre of rayne Wel yet I saye agayne Some honest men remayne And kepe there customes stil And euer more wyl Wherfore in dede my read is To take you to your beades Al men and women I saye That vseth so to praye That such good priestes maie Continue so alwaye Or eles none other like But al lieth in the dyke And loke ye do not faynt But pray to some good saynt That he maye make restraint Of all these straung facions And greate abonamacions Because I maye not tary I praye to swete Sir Harry A man that wyl not vary And one that is no sculker But kna.knyghte of the sepulchre That he maye stand fast And be not ouer cast Or eles to be the last Of al them that do yelde In city towne or fielde For if he stike therin No doute he shal not blin Tyl he come to eternitie With al his whole fraternite A men therfore saye ye That his partakers be Ye get no more of me Finis.</field>
+   </doc>
+</add>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Cibber, Colley, 1671-1757</field>
+      <field name="author_facet">Cibber, Colley, 1671-1757</field>
+      <field name="author_sort_facet">cibber colley 1671 1757</field>
+      <field name="author_text">Cibber, Colley, 1671-1757</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1710's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V2.0192.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1715</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459913</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">Venus and Adonis ; A Masque</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 18th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 18th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Venus and Adonis ; A Masque</field>
+      <field name="title_facet">venus and adonis</field>
+      <field name="title_sort_facet">venus and adonis</field>
+      <field name="title_text">Venus and Adonis ; A Masque</field>
+      <field name="year_display">1715</field>
+      <field name="year_facet">1715</field>
+      <field name="year_multisort_i">1715</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459913&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459913&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Cibber, Colley, 1671-1757&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;cibber colley 1671 1757&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Venus and Adonis ; A Masque&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;venus and adonis&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1715&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1715&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Cibber, Colley&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1671&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1757&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Venus and Adonis&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Masque&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for Bernard Lintott&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1715&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872256-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv20192&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Venus and Adonis&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Masque&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 38 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Venus and Adonis.</field>
+      <field name="desc_meta_file_display">Genre: Masque.</field>
+      <field name="desc_meta_file_display">Date first published: 1715.</field>
+      <field name="desc_meta_file_display">Date first performed: 12 Mar 1715.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Venus and Adonis: A MASQUE.</field>
+      <field name="fulltext">—Cœlo prefertur Adonis. Hunc tenet, huic comes est— Ovid.</field>
+      <field name="fulltext">The PERSONS. Venus, Mrs. Barbier. Adonis, Mrs. Marga. Le Pine. Mars, Mr. Blackly. Chorus of Huntsmen.</field>
+      <field name="fulltext">The SCENE is in the Idalian-Woods.</field>
+      <field name="fulltext">1st INTERLUDE. Adonis Entring from a Wood. Adon. Hail! bright Aurora! Blushing Maid, Life-giving Goddess, Hail! What Mortal would dissolve in Sleep, And lose the Rising Views Which thy creating Beams present? O! how transporting 'tis, to see Thy Glories chase the Shades, And gild the Globe anew? See! how the Mountains raise their Heads In Purple Hue before thee! The verdant Valleys and the Meads Forsake their misty Beds, And dress their Beauties, to adore thee. How Pleasant is Ranging the Fields, When we mount with our Hounds in the Morning? What spirit the Exercise yields! When we Hollow, And follow The Scent ever Burning? How Pleasant, &amp;c. Venus descends from her Chariot. But soft! What Nymph is this? Whose gaudy Form and Dress Seem rather of a Court, Than of the Rural Sport? Ven. Ah! sweet Adonis form'd for Joy! Ah! Blooming lovely Boy, Have Pity on a Goddess Pain: Since Gods themselves have sigh'd for me, Ah! let not Venus sigh for thee, Dear charming Youth, in vain. Ah! sweet Adonis, &amp;c. Adon. O! Bounteous Goddess! you misplace The Blessings you on me bestow; My Joy is only in the Chace, I to Diana's Altar bow. With her alone I'll live, and die, But Love shall ever flye: Yet when the Game is chac'd in view, Like Lightning I pursue. With her alone, &amp;c. Your Leave, bright Goddess— [Going. Ven. —Hold! I've more to say— Adon. —The Morning's Cold, Beside, the Sport expects me— Ven. —Where? Adon. In yonder Vale— Ven. —Ah! do not fear; Stay and improve thy Pastime here. Swain, thy foolish Sports give over, Joys immortal thou shalt find: Sweeter Pleasures you'll discover, When the Queen of Beauty's Kind. Swain, &amp;c. Adon. In vain of Love you praise the Joy To an unskilful Beardless Boy; I've heard Men talk of Sighs and Kisses, But cann't imagine where the Bliss is: Then I'm too Young to be deceiv'd, And you too Fair to be believ'd. Ven. Who could deceive such blooming Charms? Or after thine, seek other Arms? Adon. Nor Truth nor Beauty touch my Sense, For I am all Indifference. Cease your vain Teazing, Love is Unpleasing, No Heart shall brave me, Mine is my own: Why should a Creature, Weaker by Nature, Think to enslave me, With Smile or Frown? Cease, &amp;c. Ven. Ah! Venus lost! thy Charms no more Let flatt'ring God's pretend t'adore; In vain they stile me Bright, and Fair, While of a Mortal I despair: No! no! my Folly soon shall cease, Revenge or Pride shall give me Ease. Cupid! Cupid! Bend thy Bow, Revenge! revenge thy Mother's Pain: Let his Heart my Torment know, What 'tis to Love, and Love in vain. Alas! alas! it will not be! The more I struggle to be free, The more I gall me with the Chain, And but increase my Pain. Hunting Horns at a Distance. Adon. Hark! how the chearful Horn Proclaims the wasting Morn! The jolly Sports-men mend their Pace To the appointed meeting Place— Ven. Curse on those noisy Sounds!—O stay! Adon. I cannot lose the Sport, and must away. Ven. Hast thou no Sense of what I bear? My Pains nor Pleasures wilt thou share? Adon. Forbear! forbear thy vain Embrace, If thou with me wilt Pleasure share Tie up thy Robes, and Ringlet Hair, And follow to the Chase. How silly's the Heart of a Woman, When Courted by many, to fly? But when she is follow'd by no Man. For one she will Languish and Die: Beguiling, And smiling, Now Coying, Then Toying, She'll her Fancy pursue, Designing, Or Whining, She'll Vex ye, Perplex ye, And all that pursue her, undo. How silly, &amp;c. Ven. Such Scorn and Insult can I bear! But hold! from far I see the Jealous God of War; Some other Hour I must employ To melt this Frozen Boy. [Aside. Well! Cold Adonis! since the Charms Of Rural Sports (Tho' Venus courts) Must snatch thee from my Arms, Yet e're we part, Bid me Farewel, and Ease my Heart. [Air in two Parts.] Adon. Farewel Venus! Welcome Pleasure! I must to the Groves away. Ven. Dear Adonis! O my Treasure, I could here for ever stay. Adon. When my Sporting knows no measure, Think what Joy it is to me: Ven. When thy Sporting gives the Leisure, Think I Languish here for thee. [Exeunt severally.</field>
+      <field name="fulltext">2d INTERLUDE. SCENE the Side of a large Wood. Mars alone. From Wars Alarms, To Shady Groves retir'd, Behold the God of Arms, By softer Charms inspir'd, Bids all Imperial Discord cease, To taste superior Joys in Peace. Beauty now alone shall move him, Mars shall know no Joy but Love, Let the wiser Gods reprove him, Tender Wishes, Melting Kisses, Mutual Blisses, Beauty Charming, Love Allarming, Raise the Soul to Joys above. Down to these Woods descending, Venus oft beguiles the Day, And to be follow'd, sure, intending, When she sends her Doves away: Then softly tread this Pathless Cover, And bless the Hero in the Lover. [Exit. Adonis from another Wood, with Huntsmen. Adon. No more! no more! Your fruitless Toil give o'er, Our Sport is crost: Was ever Day so lost? Call in the Hounds, that stand at gaze, The Morrow's Morn may mend our Chace. [Exeunt Huntsmen. Come, sweet Repose, thou welcome Guest, Laborious Pleasures call for Rest. [He lays himself on a Bank. Gentle Slumbers Life relieving, Lull my Senses, unperceiving, Give my Toils their due Repose: Wasted Spirits, every Creature Must supply, and weary Nature Will our drooping Eye-lids close. [Sleeps. Venus enters, not seeing him. Ven. This Way the jolly Huntsmens Hollow, Bids the wand'ring Venus follow: Let Mars the Woodlands beat in vain, While I pursue my lovely Swain— And see! ye Powers! my Charmer's found In envy'd Sleep's Embraces bound! O! that the circling Seas would ever This Grove from all Approaches sever! Since tend'rest Touching may awake my Boy. Ah! softly, gently let me steal the Joy. [Kisses him. Around thee, let the warbling Choir In melting Notes soft Dreams of Love inspire. Chirping Warblers, Tune your Voices inspiring, All the Passion of Venus desiring, Let your Musick In Dreams warm a Lover, Whom awaking, My Heart must give over. But soft! he moves, a while retire;— Ah! catch him, Love, And flatt'ring Eccho fan the kindling Fire. [She retires. Adon. What soft'ning Sounds my Senses charm? And with unusual Joys alarm? [Eccho] —Unusual Joys alarm. Adon. O tell me! tell me, ye melodious Choir! What gives my Heart this soft, unknown Desire? [Eccho] —Unknown Desire. Adon. What Voice is that? Who is't o'erhears me? [Eccho] —O! hear me? Adon. Some Fairy, sure, or Phantome near me! [Eccho] —Come near me! Adon. I'll try, if yet again 'twill answer. [Eccho] —'Twill Answer. Adon. O sweet Delusion! to my Sense unfold thee: If thou art real, let my Eyes behold thee. [Venus appearing.] —Behold me! Adon. Celestial Venus!— [Surpriz'd. Ven. —O my Love! Once more I come my Fate to prove. Adon. Ah! Goddess, you have kill'd your Boy! It must be Love has toucht my Heart, Such Pain is in the Joy. Such Pleasure in the Smart: Too late I now my Folly see, And ask that Pity which you begg'd of me. Ven. What Heart could now refuse thee, My Dearest, only Soul's Desire! My Passion knows no measure: O! may the circling Pleasure But with the World expire! Adon. What mean these Fears? Ven. Ah! Ruin'd! lost! See where the jealous Mars appears: 'Tis he! 'Tis he! And this way seems to bend him! Adon. What if it be? Adonis never did offend him. Ven. Here! here, my lovely Boy, Unseen, secure, repose thee, While from his jealous Eye These bending Boughs enclose thee. [Adonis lies down, while she hides him with the Boughs.] Enter Mars to her. Mars. Thus the Brave from War returning, With the tend'rest Passion burning, Fly with Joy to fold the Fair: Not all Heroes fam'd in Story, Nor their Triumphs, or their Glory, Can their Joys with mine compare. Ven. Ah! Cruel Mars! forbear! forbear! My yielding Weakness to ensnare: Too much of guilty Love I've known, And must for Follies past atone. Mars. What means this cold Reluctance? Why Does Beauty's Queen her Hero fly? Ven. In vain you ask; for now I must deny. Mars. No more! no more! These Female Arts give o'er: Some lurking God usurps my Right, On that, on that Presence you're Coy: Since I no more can give Delight, I will my Rival's Bliss destroy. Where have you hid this Minion? Where? Ven. Ah! don't disturb the Child! forbear! 'Tis poor sick Cupid just laid down to rest, And his Disorder has my Mind opprest; Else I with Joy had met my Mars, But how can Beauty smile in Tears? Mars. Was that the Cause then?— Ven. —'Twas no more; For know, I still my Mars adore: In yonder Chrystal Fountain strait, (Where now my busy Nymphs await) I first will bathe,—then meet my Love, Kind as his Wishes in yon Myrtle Grove. Mars. Forgive my Jealousy.— Ven. —Away; We soon will meet, and bless the Day. Mars. Farewel, my Fair. Ven. —Nay, haste.— Mars. —Farewel. Ven. He's gone: What Tongue my Joy can tell? Mars. [Apart.] So Coy, and Kind for slender Reason Speaks my Presence out of Season! Behind this Cover undiscern'd, This Female Secret may be learn'd. [He retires. Ven. Arise! Arise! Come forth, my Love, Our dread Surprize is over; Thy Rival's shifted to the Myrtle Grove, Like a Believing Lover. Why droops my Boy? Mars has not seen us: Suppress thy Fears. Mars. —O! Constant Venus! [Behind. Adon. —Ah! Goddess! now no more thou'rt Fair; Thy Charms adorn'd with Truth Might have subdu'd my Youth, But Falshood never shall my Heart ensnare. Ven. —O my Love, more Pity shew, Is it a Crime in me, If I abandon Mars for thee? Adon. —On Mars alone your Vows bestow. On Love, what greater Curse can fall, Than Loving one that cann't be True: The wanton Heart, that's kind to all, With endless Anguish we pursue. Horns, and Voices at a Distance. [Within] Hark! Hark! Adonis, Hark! Away! Ven. Thus, thus in Love's Embraces bound.— [Holding him. Adon. No, no, the Boar is found, Nor will I longer stay.— [Going. Mars offering to kill Adonis. Mars. Hold, Traytor! take thy just Reward! Ven. Ah! me!—This Bosom is his Guard. [Interposing. [Adonis Kneeling.] Adon. Hold! hold, Dread Mars, on me let all Your furious Vengeance fall; I cannot see A Goddess bleed for me: If Blood alone Can cure your Jealousy, Adonis is the Cause of all. Mars. O Perjur'd Venus! False as Fair! Ven. O Kind Adonis!—O Despair! Adon. Are these the Pleasures Lovers share? [All repeat the three last Lines in Chorus.] Mars. It must, it shall be so; 'Twere poor, my self to give the Blow: [Apart. Adonis, hence; but range these Woods no more, I'll leave my Vengeance to the Boar. [Aside. Adon. With Pleasure I obey thy Power. [Ex. Adon. Mars. O fading Joy! Hard-fated Love! What Pangs in thee we find! Shall never faithful Passion prove Fair Truth and Beauty join'd? Ven. O! Mars, unkind! Is this thy Love? Must this persuade me to the Grove? Mars. 'Tis poor sick Cupid:—Think on that, And tremble for thy Minion's Fate. Ven. —O! spare the Boy, and to restore Thy Peace of Mind, I'll be for ever kind, And never see Adonis more. Mars. No! no! I'll never trust thy Power. [Air in two Parts.] Ven. —O! believe me!— Mars. —No, no, no! —You'll deceive me. Ven. —No, no, no! I shall ever Mars Adore. Mars. I can never Trust thee more: Ven. Ungrateful! I have lov'd thee, Nor hast thou lov'd in vain: Mars. Unfaithful I have prov'd thee, And now will break the Chain. [Ex. Mars. Ven. He's gone!—and in his Eyes there sate A Menace of Adonis Fate! O! Gods! my Fears are form'd too late! Adonis supported by Huntsmen, Bleeding. Adon. Ah! Goddess, lend thy bounteous Aid, And heal the Wounds thy Eyes have made: The Jealous Mars, provok'd to see Thy Radiant Beauty smile on me. While at the Furious Beast I stroke, My Launce in thousand shivers broke: Disarm'd, I fell—when lo! the Boar With fatal Tusk my Bosom tore, Ven. —O! Terror to my Eyes! —O! Tyrant Jealousy! Adonis bleeds and dies, And dies, poor Youth! for me. Adon. O! welcome! welcome! gentle Death! While thus I see The Queen of Beauty mourn for me, With Pleasure I resign my Breath.— Dies. Ven. He's gone—the flitting Soul is fled! But leaves his Wound with me, Venus must ever mourn thee Dead In painful Immortality. Why shines the hateful Sun, When such a piteous Deed is done? A short Symphony. Arise! black Storms and Tempests, rise! Deep Darkness shade the Day! Loud Thunders bellow through the Skies, And forked Lightning play. It Thunders, Lightens, and the Stage is Darken'd. O! Pleasing Horror! O! Melodious Yell! Hark! hark! All Nature rings with Sorrow Poor Adonis Knell. Let every tender Passion feel Henceforth, like mine, the Lover's Hell, And make Mankind as curst as I: Unpitied Sighs, deceitful Tears, Feuds! Falshood! Doubts, and groundless Fears, For ever mingle with the Joy. [Venus ascends in her Chariot. Chorus of Huntsmen. No more let mortal Heart Of hapless Love complain, Since Gods could never part The Pleasure from the Pain. FINIS.</field>
+   </doc>
+</add>

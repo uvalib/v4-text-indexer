@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Hoole, John, 1727-1803</field>
+      <field name="author_facet">Hoole, John, 1727-1803</field>
+      <field name="author_sort_facet">hoole john 1727 1803</field>
+      <field name="author_text">Hoole, John, 1727-1803</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1800's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V2.0882.xml</field>
+      <field name="date_indexed_facet">201909240355</field>
+      <field name="date_text">1800</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460402</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Dream of Scipio</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Dream of Scipio</field>
+      <field name="title_facet">dream of scipio</field>
+      <field name="title_sort_facet">dream of scipio</field>
+      <field name="title_text">The Dream of Scipio</field>
+      <field name="year_display">1800</field>
+      <field name="year_facet">1800</field>
+      <field name="year_multisort_i">1800</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460402&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460402&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Hoole, John, 1727-1803&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;hoole john 1727 1803&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Dream of Scipio&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;dream of scipio&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1800&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1800&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Hoole, John&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1727&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1803&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Dream of Scipio&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for Otridge and Son ; R. Faulder [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1800&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872752-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv20882&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Dream of Scipio&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 33 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted&lt;lb/&gt;Poetry omitted&lt;lb/&gt;The following plays have been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The dream of Scipio.</field>
+      <field name="desc_meta_file_display">Genre: Drama.</field>
+      <field name="desc_meta_file_display">Date first published: 1800.</field>
+      <field name="desc_meta_file_display">Date first performed: Unknown.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE DREAM OF SCIPIO.</field>
+      <field name="fulltext">SPEAKERS. Scipio. Constancy. Fortune. Publius. Emilius, Father of Scipio. Chorus of Heroes.</field>
+      <field name="fulltext">The action supposed to be in Africa, in the Palace of Masinissa.</field>
+      <field name="fulltext">Scipio asleep, Constancy, Fortune. Fort. Come, mighty offspring of Emilius, come, Pursue my steps. Cons. O! Scipio! come and follow My better track. Scip. Who dares disturb my rest? Fort. 'Tis I. Cons. 'Tis I: appease thy ill-tim'd anger. Fort. Turn, turn to me. Cons. Behold my features. Scip. Gods! What blaze of light! What harmony unknown! What forms are these so splendid and so fair! Where am I?—Who are you? Cons. The nurse of heroes. Fort. The great dispenser I of every good The universe can yield. Cons. I am Constancy. Fort. And Fortune I. Scip. But wherefore seek ye me? Cons. That thou, O! Scipio, may'st between us choose Thy partner through the rugged paths of life. Fort. We promise both to make thee blest. Cons. Decide: To her or me intrust thy future guidance. Scip. I know not what to answer. Fort. Dost thou doubt? Cons. Canst thou one moment pause? Fort. My lock invites thee; And wilt thou not to me consign thy days? Cons. Hear'st thou my name and com'st not? Fort. Speak. Cons. Resolve. Scip. What shall I answer? If I must resolve, One moment give to commune with myself. Where am I? Say, what power has hither brought me? If all I see be truth, or but a dream, If yet I wake, or fancy but deceive me? While round this wondrous scene I gaze, My soul, bewilder'd with amaze, On nothing yet resolves. The heart in mingled passions lost, As by a troubled ocean tost, A thousand thoughts revolves. Cons. Well hast thou said. Converse with each apart, And learn whate'er thou seekest. Fort. Scipio, yes: But brief be thy demands: I cannot bear A long delay; for, varying still, I shift With every moment my pursuit and place. Unstable as the wind am I, With looks that change and feet that fly: With anger now I burn, and now The smiles of pleasure smooth my brow. Sometimes I take delight awhile, To raise from earth the ruin'd pile; And soon an equal zeal employ My recent labour to destroy. Scip. Where am I then? In Masinissa's palace, Where but even now I clos'd my eyes in sleep? It cannot be. Cons. No, Africa is far, Far distant from us. Scipio, thou art plac'd In Heaven's unmeasur'd temple. Fort. Dost thou not Confess it by the numerous stars that blaze With glories round thee? By the unwonted sound Of whirling spheres in rapturous minstrelsy? By this celestial orb of living sapphire In which they roll? Scip. O! say, amidst the spheres What makes this symphony? Cons. The same that makes With them proportion'd inequality Of measure and of motion: in their course They circling meet, and each returns a sound Distinct from each, while all together form One perfect concord. On the mortal lyre The strings, attemper'd thus by hand and ear, Emit sweet harmony. This magic force, This secret rule that makes unlike agree, Is call'd proportion, universal law Of all created things; mysterious ray Of highest wisdom, which the Samian Pythagoras. sage In sacred numbers taught. Scip. But wherefore fails Such powerful melody to strike the sense Of human organs? Why unheard by those In our terrestrial dwelling? Cons. Strains like these Confound the faculties of earthly sense. Those eyes that seek the noon-day sun, Soon loose their dazzled sight: The nerves oppress'd and weaken'd, shun Th' excessive blaze of light. The simple hind, who near resides Where falling Nilus roars, Hears not the rush of foaming tides That shake the deafen'd shores. Scip. Say, what inhabitants— Fort. No further question, But make at length thy choice. Scip. Indulgent yet Say, who reside in these supernal seats? Cons. Numbers are here, of various virtues, fram'd To various parts. Scip. But who their dwelling find Where now we meet? Fort. Behold who come to instruct thee. Scipio, Constancy, Fortune, Publius, Chorus of Heroes and Emilius. Chorus. From heroes sprung, by fate bestow'd To give to Rome her earliest fame, O! welcome to this bright abode: No strangers we to Scipio's name. A thousand glorious footsteps view: Lo! here thy great forefathers trace, And through each shining path pursue The deeds of thy illustrious race. Scip. Ye powers! am I deceiv'd, or do these eyes Behold my great progenitor, who bow'd Rebellious Afric to the yoke of Rome? Pub. Doubt not; 'tis I. Scip. My soul is chill'd with awe! Are then the dead— Pub. Scipio, thou err'st, for know That Publius is not dead. Scip. Yet sure consum'd To nameless ashes, midst the funeral pile, Long since has Rome bewail'd thee. Pub. Cease, O! cease; Thou little know'st thyself. Believ'st thou then That hand, those features and those limbs, that form The outward man are Scipio? Thou 'rt deceiv'd— They are but vestments—learn, the immortal sense, By which alone we think, conceive and live; That has no parts, and cannot be dissolv'd. That lessens not its power by length of years, That, that is Scipio, and can never die. Hard were indeed the destiny of virtue, If nothing of us liv'd beyond the tomb; And if indeed we knew no other good Than what on earth the wicked chiefly share. No, Scipio, no—the PERFECT CAUSE of all Is ever just, beyond the funeral pile We still have other hopes. These glorious seats Of light eternal are our great reward; And fairest of them this, where dwells with me Whoe'er on earth has lov'd his native land; Whoe'er for public good has clos'd his days, And for another's sake his blood effus'd. If here thy hopes some future day Would find a happy seat, Thy great forefathers' deeds survey, Nor Publius' name forget. By him, who meets like us his death, Here endless life is known: He merits not his natal breath, Who lives but for himself alone. Scip. As heroes then reside— Fort. If still thy doubts Are unresolv'd, my patience, Scipio, fails— Decide—decide. Cons. Let him demand at full: Since what he learns will teach him best to fix Between our claims. Scip. As heroes then reside In these blest regions, wherefore sees not Scipio His warlike father? Pub. Dost thou not behold him There full reveal'd to sight? Scip. 'Tis true, 'tis true, Forgive me, mighty father! I have err'd, But 'twas the error of my dazzled eyes, I saw thee not: I err'd not in my mind; There ever dwells thy image—Thou art HE. Already in thy well-known form I trace Paternal majesty. I gaze upon thee, And my heart beats with love and filial duty, Indulgent Gods! O! father most belov'd, O! happy day!—but dost thou calmly thus Receive thy son? Serene, thy features show No fond emotion. Feel'st thou not, my father, To see me here, a joy that equals mine? Emil. The joy, my son, which heavenly bosoms feel Oppresses not like yours, and yet is more. Scip. I am rapt beyond myself—all, all is wonder! My every sense is lost! Emil. Thou canst not quit The false ideas of the world below, Though now so far remote. Cast down thine eye, Look there, behold enclos'd with murky clouds, Yon little globe, yon scarce-distinguish'd spot. Scip. Ye powers!—can that be earth? Emil. Thy earth is there. Scip. All its huge forests, all its rapid floods; Its mighty provinces, contending realms, With every countless nation—Tyber—Rome? Emil. All in that spot compris'd. Scip. O! sire belov'd! How vain, how nothing to my sight appears The wretched theatre of human pride! Emil. Ah! could'st thou on that theatre, my son, Observe the actors; see their follies, dreams, Their false pursuits; and every cause that here Claims just derision, there exciting rage, And grief and joy and love—How wretched then To thee would seem the boasts of human-kind. You hapless mortals, smile below To mark the puling infant's woe; And mock the little tears that flow For every trivial ill. No less above we smile to view Man's ripen'd age such toys pursue, And even with locks of silver hue, Be helpless children still. Scip. O! Publius! O! my father! let me here With you reside. I gladly will forsake That seat of human wretchedness below. Fort. It is not yet allow'd. Cons. It cannot be. Pub. Thou yet must live and long. Scip. I've liv'd enough, Enough for Scipio. Emil. Yes; but not enough For Fate's designs, or for the weal of Rome, For earth and Heaven. Pub. Much hast thou done already, But more remains to do. 'Tis not in vain That Scipio boasts the honours of his race, His lineal wreaths; and not by chance the plains Of fair Iberia own'd thy youthful toils. Think not thou bear'st in vain the glorious name Fatal to Africa. The task was mine To lay the yoke on such a potent foe, But thine is to destroy him—Go—meantime Prepare no less for sufferings than for triumph: Both furnish palms for Virtue. Destiny May shake, but not subdue her: when she strives With adverse days she shines with nobler fame. High-seated on the mountain's brow An aged oak, when tempests blow, Secure the blustering rage sustains: His leaves in winter scatter'd round, With firmer root he strikes the ground, And losing beauty strength he gains. Scip. Since all were vain to oppose the will of Fate, I yield to her decree. Cons. Now, Scipio, time Demands thy choice. Fort. Thou need'st no further learn, But well canst judge between us. Scip. 'Tis requir'd, O! Publius, that of these contending powers— Pub. I know it all—act as thou wilt. Scip. My father, O! give me counsel. Emil. No; my counsel, son, From thee would take the glory of thy choice. Fort. If thou would'st wish for happiness, beware Thou dalliest not with Fortune—Scipio, seize The moment when my lock invites thy hand. Scip. But tell me, thou that urgest thus thy claim, Why should I follow thee, and why prefer Thy steps before thy rival's? Fort. What attempt, Without my aid, can e'er with man succeed? Know'st thou my power? I am arbitress below Of every good or ill: behold the hand, That scatters, at my pleasure, grief or joy, Disgrace or honours, poverty or wealth. Lo! I am SHE that builds, destroys, renews The mightiest empires. I, at will, can change A cottage to a throne; and, at my nod, A throne becomes a cottage. In the sky Whirlwinds are mine, and tempests on the sea. I rule the fate of armies: at my smile Defeat becomes a gain, and palms arise From battles lost; and when displeas'd, I rend The promis'd laurel from the victor's hand, Even on the edge of conquest. Would'st thou more? Virtue and valour both confess my sway. When Fortune wills the vilest seems most bold, And bold the vilest. In despite of justice, Guilt stands absolv'd, and innocence is guilty. To him I view with favouring sight, Like day appears the gloomy night: For him, when winter binds the plain, Earth gives to spring the golden grain. But when on one, in evil hour, The angry eyes of Fortune lour; To him the wood its shade denies; No waves for him the sea supplies. Scip. And is there nothing then on earth to oppose To such tremendous power? Cons. Yes—Constancy. Know, Scipio, I, and I alone, prescribe The law and limits to her dreaded reign. Where'er I am she never can extend Her mutable dominion. In my presence Her best of gifts will never boast a charm, Nor shall her threats have terror. Virtue, valour, Perchance from her may suffer wrong; but Time, My great avenger, will at length assign To every deed its merit.—Not in HER, In ME, O! Scipio, the preserver view Of states and empires: this thy ancestors, And this thy Rome experienc'd. Press'd indeed By Brennus, in Tarpeias' rocky straits, The Latian freedom shook, but could not fall. 'Tis true, that on the banks of Aufidus The Roman consul saw his warrior-youth All perish by the sword; but scorn'd himself To sink in blank despair. To gain the palms. The latest palms from Rome, with all his host Of countless standards, Annibal o'ershades The Roman soil, but finds that soil a grave To all the victor's hopes. Such deeds are mine, And such as Fortune never can resist. She, wearied soon, a different aspect wears; And in her own despite becomes my slave. The rock, with foamy billows white, Seems sinking down the tumbling tide, While soaring o'er its topmost height, The waters gain on every side. But proudly batter'd round in vain Its stately head the tempest braves, Till smooth'd to calms, the placid main Creeps round its foot with lambent waves. Scip. No more—celestial Constancy, 'tis thine: Lead where thou wilt, I ask no other guide; I follow thee. Fort. Are then my gifts despis'd? Scip. I seek not, nor refuse them. Fort. And my rage? Scip. I not defy, nor fear it. Fort. Scipio, think; Thou may'st in vain repent—look well upon me— Reflect, and then resolve. Scip. I am resolv'd. Go, boast an undisputed sway, That all mankind thy rule obey; Yet think not hence in chains to bind A noble heart, a virtuous mind, That neither fear nor baseness knows. Let abject souls thy influence own, And bend before thy tyrant-throne; Such souls as godlike gifts despise, And only sordid merit prize, Such merit as thy smile bestows. Fort. Is there a mortal then that dares deny To me his vows, and slight my proffer'd grace? Scip. Yes—I am HE. Fort. 'Tis well—prepare to prove My hostile fury—Come, disasters dire, Adventures horrible! Ye ministers Of my resentment—crush this daring rebel, To you consign'd, and doom'd to every woe. Scip. Ye powers! what can this mean! what sanguine gleam! What clouds and storms! What darkness gathers round! And hark! resounding through the affrighted spheres What horrid crash! A hundred forky bolts Hiss o'er my head, while yon ethereal vault Seems tumbling into chaos!—But the soul Of Scipio knows not fear—In vain your threats, Insulting Fortune! Goddess still unjust, Perfidious power!—But hold, what voice awakes My slumbering sense? Where am I? This is sure The abode of Masinissa—where is Publius? My father, where? The heavens, and starry spheres All vanish'd, and these wonders but a dream! Yet this at least is real—Constancy Still dwells with Scipio—in my breast I feel Her sacred influence—friendly Gods! I own Your favouring grace—auspicious omen, hail! THE END OF SCIPIO'S DREAM.</field>
+   </doc>
+</add>

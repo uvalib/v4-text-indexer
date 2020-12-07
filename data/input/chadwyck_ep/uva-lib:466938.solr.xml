@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Jones, Ernest Charles, 1819-1868</field>
+      <field name="author_facet">Jones, Ernest Charles, 1819-1868</field>
+      <field name="author_sort_facet">jones ernest charles 1819 1868</field>
+      <field name="author_text">Jones, Ernest Charles, 1819-1868</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1850's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_3.1648.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">[1856]</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:466938</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Song of the Lower Classes ; A Song of Cromwell's Time. By Ernest Jones</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">The Song of the Lower Classes ; A Song of Cromwell's Time. By Ernest Jones</field>
+      <field name="title_facet">song of the lower classes</field>
+      <field name="title_sort_facet">song of the lower classes</field>
+      <field name="title_text">The Song of the Lower Classes ; A Song of Cromwell's Time. By Ernest Jones</field>
+      <field name="year_display">[1856]</field>
+      <field name="year_facet">1856</field>
+      <field name="year_multisort_i">1856</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:466938&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:466938&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Jones, Ernest Charles, 1819-1868&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;jones ernest charles 1819 1868&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Song of the Lower Classes ; A Song of Cromwell's Time. By Ernest Jones&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;song of the lower classes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;[1856]&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1856&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Jones, Ernest Charles&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1819&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1868&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Song of the Lower Classes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Song of Cromwell's Time. By Ernest Jones&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;[London]&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;[1856]&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp1964&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;[1 sheet]&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Song of the Lower Classes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Song of Cromwell's Time. By Ernest Jones&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 11 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE SONG OF THE LOWER CLASSES. By ERNEST JONES. (Music, by John Lowry.—This song can also be sung to the air of “The Monks of Old.”) We plough and sew—we're so very, very low That we delve in the dirty clay, Till we bless the plain—with the golden grain, And the vale with the fragrant hay. Our place we know—we're so very low, 'Tis down at the landlord's feet: We're not too low—the bread to grow, But too low the bread to eat. Chorus: We're not too low—the bread to grow, But too low the bread to eat. Down, down we go—we're so very very low, To the hell of the deep sunk mines, But we gather the proudest gems that glow When the crown of a despot shines. And whenever he lacks—upon our backs Fresh loads he deigns to lay: We're far too low to vote the tax, But not too low to pay. Chorus: We're far too low to vote the tax. But not too low to pay. We're low—we're low—mere rabble, we know, But at our plastic power, The mould at the lordling's feet will grow Into palace and church and tower— Then prostrate fall—in the rich man's hall, And cringe at the rich man's door: We're not too low to build the wall, But too low to tread the floor. Chorus: We're not too low to build the wall, But too low to tread the floor! We're low—we're low—we're very very low, Yet from our fingers glide The silken flow—and the robes that glow Round the limbs of the sons of pride. And what we get—and what we give, We know, and we know our share: We're not too low the cloth to weave, But too low the cloth to wear! Chorus: We're not too low the cloth to weave, But too low the cloth to wear! We're low—we're low—we're very very low, And yet when the trumpets ring, The thrust of a poor man's arm will go Thro' the heart of the proudest king. We're low—we're low—our place we know, We're only the rank and file, We're not too low—to kill the foe, But too low to touch the spoil. Chorus: We're not too low to kill the foe, But too low to touch the spoil. A SONG OF CROMWELL'S TIME. BY ERNEST JONES. (Air: “A Life on the Ocean Wave.”) A vote in the Laws they make! A home on the land I till! Where the hearts of the many break The cup of the few to fill. By the right of their laws I pine: But what are their laws to me? For I live by right divine, And that is the right to be free. A home in my native isle! A share in the wealth I heap! Where the rich in their revel smile, And the poor in their anger weep. The poor—the poor—the poor in their anger weep. The rich—the rich—the rich—their revels keep. The strength that in numbers lies Each hour is making known: Pioneers of the truth, arise, And you shall not be left alone! We'll scatter their knavish rule, Like a prisoned storm set free, Till tyrant and tyrant's tool Have vanished from sea to sea. A home in my native isle! A share in the wealth I heap! Where the rich in their revel smile, And the poor in their anger weep. The poor—the poor—the poor in their anger weep. The rich—the rich—the rich—their revels keep. At the word of the cruel few The clouds of the battle frown: But, long as the many are true, We'll say: let the storm come down— And on as the masses sweep, Our cry shall meet them still: A share in the wealth we heap. A home on the land we till. A home in my native isle, A vote in the laws we keep, Then the rich, if they like, may smile, But the poor shall cease to weep. The poor—the poor—the poor shall cease to weep The rich—the rich—the rich—their revels keep</field>
+   </doc>
+</add>

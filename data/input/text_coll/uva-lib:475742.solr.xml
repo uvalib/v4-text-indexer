@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">John Stuart Bonner</field>
+      <field name="author_facet">John Stuart Bonner</field>
+      <field name="author_sort_facet">john stuart bonner</field>
+      <field name="author_text">John Stuart Bonner</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1890's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/BonMast.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">1897</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:475742</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">A Master Sold by a Slave</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">A Master Sold by a Slave</field>
+      <field name="title_facet">master sold by a slave</field>
+      <field name="title_sort_facet">master sold by a slave</field>
+      <field name="title_text">A Master Sold by a Slave</field>
+      <field name="year_display">1897</field>
+      <field name="year_facet">1897</field>
+      <field name="year_multisort_i">1897</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:475742&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:475742&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;John Stuart Bonner&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;john stuart bonner&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A Master Sold by a Slave&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;master sold by a slave&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1897&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1897&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;John Stuart Bonner&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="Editor"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Master Sold by a Slave&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;1st Edition&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1897&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;McClure's&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1897&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Master Sold by a Slave&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 8 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The print version was not illustrated.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">A MASTER SOLD BY A SLAVE. BY JOHN STUART BONNER. ONE of the most successful negro speculators on the Peninsula in the forties was a man named James Hubbard, who lived upon his own estate near Yorktown, and was accounted one of the wealthiest men in those parts. He was a man of powerful physique and coarse manners. His hair and eyes were intensely black, and his complexion so swarthy that he would have suffered by comparison with many of the human chattels he dealt in. About the year 1845 James Murder, a young man, last in the male line of one of the old colonial families, died suddenly, leaving his large estate so involved that it was necessary to sell off everything to satisfy his creditors. Among his slaves was a body-servant called "Mack," who was nearly the same age as his deceased master. The two had been reared together from infancy, the slave had enjoyed the same advantages as the master, and through association with the best society of many countries had acquired an ease of manner and fluency of speech which, combined with his handsome person, would have made him an ornament to any circle. There was little negro blood in his veins, and he would have passed as a white man anywhere. He was held in high esteem by all of Murder's friends. It was therefore determined that in the sale of Murder's slaves Mack should be saved from the hands of the speculators, and a number of gentlemen attended at the court-house in Williamsburg prepared to pay a large price for the young negro. James Hubbard was also there, and he swore an oath that he would have "that nigger" if it cost him his fortune. For Hubbard had a twofold grudge to gratify. Many a time before, the Williamsburg men had prevented him from securing a "bargain"; and he was very bitter against them also because of the social ostracism which his business had brought upon his family. The result was that Mack was knocked down to Hubbard for a price seldom paid for a slave in Virginia. A few days later Hubbard started South with a band of negroes, taking Mack with him as a body-servant. On their arrival at New Orleans Hubbard soon disposed of his negroes to good advantage, but, either because he could not find a buyer at the high figure he had paid or because he had taken a fancy to him, he retained Mack in his personal service. Mack had some money of his own, and, as a matter of pride as well as business, Hubbard dressed him like a gentleman, and also allowed him much liberty. Keeping carefully out of his master's way, Mack frequented the various fashionable saloons and gaming houses, where he easily passed as a Virginia planter, and contrived to form a considerable acquaintance among the fast set of the day. He was walking the street one evening with one of these acquaintances, when his master passed by on the opposite side. "See that boy over there?" said he, carelessly, indicating Hubbard. "I brought him down here with me, but he's got so independent that I've got to sell him." "What will you take for him?" "Why, he ought to bring me fifteen hundred quick, but I'll take a thousand if it can be arranged quietly." In less than twenty-four hours they had come to terms, and Hubbard was sold by his own slave. The papers were regularly made out and transferred, and the money paid over, Mack only stipulating that the buyer should take his property quietly. When Hubbard was seized, of course there was trouble. He fought like a wildcat, but was finally overpowered and taken from the fashionable hotel where he was staying, amid the jeers of his quondam friends. He appealed to the law; but not until three well-known citizens of Williamsburg, properly fortified with papers of identification from the authorities, made the long trip to New Orleans was he released. The trial cost him thousands of dollars, and consumed a great deal of time. Meanwhile Mack, well supplied with money by the sale, had got beyond pursuit. Large rewards were offered for his apprehension, and the best detectives were employed, but without avail. He was never traced beyond the wharf where he took passage for the North. He is supposed, however, to have gone to France, where he had lived during his former master's student days.</field>
+   </doc>
+</add>

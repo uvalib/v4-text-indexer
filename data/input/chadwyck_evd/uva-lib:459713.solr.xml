@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Clarendon Press</field>
+      <field name="author_facet">Clarendon Press</field>
+      <field name="author_sort_facet">clarendon press</field>
+      <field name="author_text">Clarendon Press</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.1084.xml</field>
+      <field name="date_indexed_facet">201909240355</field>
+      <field name="date_text">1885</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459713</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Chaundelers ; XV. The Angels and the Shepherds</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Chaundelers ; XV. The Angels and the Shepherds</field>
+      <field name="title_facet">chaundelers</field>
+      <field name="title_sort_facet">chaundelers</field>
+      <field name="title_text">The Chaundelers ; XV. The Angels and the Shepherds</field>
+      <field name="year_display">1885</field>
+      <field name="year_facet">1885</field>
+      <field name="year_multisort_i">1885</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459713&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459713&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Chaundelers ; XV. The Angels and the Shepherds&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;chaundelers&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1885&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1885&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Chaundelers&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;XV. The Angels and the Shepherds&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Oxford&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Clarendon Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1885&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873541-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv11084&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Chaundelers&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;XV. The Angels and the Shepherds&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 19 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and editorial matter including introduction and glossary omitted.&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Source texts incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The chaundelers.</field>
+      <field name="desc_meta_file_display">Genre: English mystery and miracle plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1475 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1352–1376 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">XV. THE CHAUNDELERS. The Angels and the Shepherds. Square brackets represent sections of text unclear or absent in the original and supplied by the current editor</field>
+      <field name="fulltext">[PERSONS OF THE PLAY. Primus, Pastor. Secundus, Pastor. Tertius, Pastor.]</field>
+      <field name="fulltext">[Scene, the fields near Bethlehem.] 1. i Past. Bredir in haste, takis heede and here What I wille speke and specifie, Sen we walke þus, withouten were, What mengis my moode nowe mevyd will I. Oure forme-fadres, faythfull in fere, Bothe Osye and Isaye, Preued þat a prins with-outen pere Shulde descende doune in a lady, And to make mankynde clerly, To leche þam þat are lorne. And in Bedlem here-by Sall þat same barne be borne. 2. ii. Past. Or he be borne in burgh hereby, Balaham, brothir, me haue herde say, A sterne shulde schyne and signifie, With lightfull lemes like any day. And als the texte it tellis clerly By witty lerned men of oure lay, With his blissed bloode he shulde vs by, He shulde take here al of a maye. I herde my syre saye, When he of hir was borne, She shulde be als clene maye As euer she was by-forne. 3. iii Past. A! mercifull maker, mekill is thy myght, That þus will to þi seruauntes see, Might we ones loke vppon þat light, Gladder bretheren myght no men be! I haue herde say, by þat same light The childre of Israell shulde be made free, The force of the feende to felle in sighte, And all his pouer excluded shulde be. Wherfore, brether, I rede þat wee Flitte faste ouere thees felles, To frayste to fynde oure fee, And talke of sumwhat ellis. [Vision of Angels in the sky. 4. i Pas. We! hudde! ii Pas. We! howe! i Pas. Herkyn to me! ii Pas. We! man, þou maddes all out of myght. i Pas. We! colle! iii Pas. What care is comen to þe? i Pas. Steppe furth and stande by me right, And tell me þan Yf þou sawe euere swilke a sight! iii Pas. I? nay, certis, nor neuere no man. 5. ii Pas. Say, felowes, what! fynde yhe any feest, Me falles for to haue parte, parde! i Pas. Whe! hudde! be-halde into the heste! A selcouthe sight þan sall þou see vppon þe skye! ii Pas. We! telle me men, emang vs thre, Whatt garres yow stare þus sturdely? 6. iii Pas. Als lange as we haue herde-men bene, And kepis þis catell in þis cloghe, So selcouth a sight was neuere non sene. i Pas. We! no colle! nowe comes it newe i-nowe, þat mon we fynde. Itt menes some meruayle vs emang, Full hardely I you behete. 7. i Past. What it shulde mene þat wate not ?ee, For all þat ?e can gape and gone: [Angel sings. I can synge itt alls wele as hee, And on a-saie itt sall be sone proued or we passe. Yf ?e will helpe, halde on! late see, for þus it was. Et tunc cantant. 8. ii Pas. Ha! ha! þis was a mery note, Be the dede þat I sall dye, I haue so crakid in my throte, Þat my lippis are nere drye. iii Pas. I trowe you royse, For what it was fayne witte walde I, That tille vs made þis noble noyse. 9. i Pas. An aungell brought vs tythandes newe, A babe in Bedlem shulde be borne, Of whom þan spake oure prophicie trewe, And bad us mete hym þare þis morne, þat mylde of mode. I walde giffe hym bothe hatte and horne, And I myght fynde þat frely foode. 10. iii Pas. Hym for to fynde has we no drede, I sall you telle a-chesonne why, ?one sterne to þat lorde sall vs lede. ii Pas. ?a! þou sais soth, go we for-thy hym to honnour. And make myrthe and melody, with sange to seke oure savyour. Et tunc cantant. [Walking along, they come to Bethlehem. 11. i Pas. Breder, bees all blythe and glad, Here is the burght þer we shulde be. ii Pas. In þat same steede now are we stadde, Thare-fore I will go seke and see. Slike happe of heele neuere herde-men hadde; Loo! here is the house, and here is hee. iii Pas. ?a! for sothe þis is the same, [They enter. Loo! whare þat lorde is layde, Be-twyxe two bestis tame, Right als þe aungell saide. 12. i Pas. The Aungell saide þat he shulde saue This worlde and all þat wonnes þer-in, Therfore yf I shulde oght aftir crave, To wirshippe hym I will be-gynne. [They adore the child. Sen I am but a symple knave, Þof all I come of curtayse kynne, Loo! here slyke harnays as I haue, A baren broche by a belle of tynne At youre bosom to be, And whenne ?e shall welde all, Gud sonne, for-gete no?t me, Yf any fordele falle. 13. ii Pas. Þou sonne! þat shall saue boþe see and sande, Se to me sen I haue þe soght, I am ovir poure to make presande Als myn harte wolde, and I had ought. Two cobill notis vppon a bande, Loo! litill babe, what I haue broght, And when ?e sall be lorde in lande, Dose goode agayne, for-gete me noght. For I haue herde declared Of connyng clerkis and clene, That bountith aftir rewarde; Nowe watte ?e what I mene. 14. iii Pas. Nowe loke on me, my lorde dere, Þof all I putte me noght in pres, Ye are a prince with-outen pere, I haue no presentte þat you may plees. But lo! an horne spone, þat haue I here, And it will herbar fourty pese, Þis will I giffe you with gud chere, Slike novelte may noght disease. Fare [wele] þou swete swayne, God graunte vs levyng lange, And go we hame agayne, And make mirthe as we gange.</field>
+   </doc>
+</add>

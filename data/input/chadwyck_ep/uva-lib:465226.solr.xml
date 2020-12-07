@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Merrick, James, 1720-1769</field>
+      <field name="author_facet">Merrick, James, 1720-1769</field>
+      <field name="author_sort_facet">merrick james 1720 1769</field>
+      <field name="author_text">Merrick, James, 1720-1769</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1760's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.0978.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1763</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:465226</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">Poems on Sacred Subjects ; ... By James Merrick</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 18th century</field>
+      <field name="subject_text">English poetry -- 18th century</field>
+      <field name="title_display">Poems on Sacred Subjects ; ... By James Merrick</field>
+      <field name="title_facet">poems on sacred subjects</field>
+      <field name="title_sort_facet">poems on sacred subjects</field>
+      <field name="title_text">Poems on Sacred Subjects ; ... By James Merrick</field>
+      <field name="year_display">1763</field>
+      <field name="year_facet">1763</field>
+      <field name="year_multisort_i">1763</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:465226&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:465226&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Merrick, James, 1720-1769&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;merrick james 1720 1769&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Poems on Sacred Subjects ; ... By James Merrick&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;poems on sacred subjects&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1763&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1763&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Merrick, James&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1720&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1769&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Poems on Sacred Subjects&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;... By James Merrick&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Oxford&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;At the Clarendon Press ... Sold by R. and J. Dodsley&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1763&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp2473&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;30 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Poems on Sacred Subjects&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;... By James Merrick&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 34 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE BENEDICITE, OR SONG of the THREE CHILDREN, PARAPHRASED. 1 Ye Works of God, on Him alone, In Earth his footstool, Heav'n his throne, Be all your praise bestow'd; Whose hand the beauteous fabrick made, Whose eye the finish'd World survey'd, And saw that all was good. 2 Ye Angels, who with loud acclaim Admiring view'd the new-born frame, And hail'd th' eternal King, Again proclaim your Maker's praise, Again your thankful voices raise, And touch the tuneful string. 3 Praise Him, Ye bright ethereal plains, Where, in full majesty, he deigns To fix his awful throne: Ye Waters that above them roll; From orb to orb, from pole to pole, O, make his praises known. 4 Thrones, Dominations, Virtues, Pow'rs, O, join your joyful songs with ours, With us your voices raise: From age to age extend the lay; To heav'n's eternal Monarch pay Hymns of eternal praise. 5 Celestial Orb, whose pow'rful ray Opes the glad eyelids of the day, Whose influence all things own, Praise him, whose Courts effulgent shine With light as far excelling thine, As thine the paler moon. 6 Ye glitt'ring Planets of the sky, Whose beams the absent sun supply, With him the song pursue; And let himself submissive own, He borrows from a brighter Sun The light he lends to You. 7 Ye Show'rs and Dews, whose moisture shed Calls into life the op'ning seed, To him your praises yield, Whose influence wakes the genial birth, Drops fatness on the pregnant Earth, And crowns the laughing field. 8 Ye Winds, that oft tempestuous sweep The ruffled surface of the Deep, With Us confess your God: See, through the heav'ns, the King of Kings, Up-borne on your extended wings, Comes flying all abroad. 9 Ye Floods of fire, where'er ye flow, With just submission humbly bow To his superior pow'r, Who stops the tempest on its way, Or bids the flaming deluge stray, And gives it strength to roar. 10 Ye Summer's heat, and Winter's cold, By turns in long succession roll'd, The drooping World to chear, Praise him who gave the Sun and Moon, To lead the various Seasons on, And guide the circling Year. 11 Ye Frosts, that bind the watry plain, Ye silent Show'rs of fleecy rain, Pursue the heav'nly theme: Praise him who sheds the driving snow, Forbids the harden'd waves to flow, And stops the rapid stream. 12 Ye Days and Nights; that swiftly borne From Morn to Eve from Eve to Morn, Alternate glide away; Praise him, whose never-varying light, Absent, adds horror to the night, But present gives the day. 13 Light! from whose rays all beauty springs; Darkness! whose wide-expanded wings Involve the dusky Globe; Praise him, who, when the heav'ns he spread, Thick Darkness his pavilion made, And Light his regal robe. 14 Praise him, ye Lightnings, as ye fly Wing'd with hot vengeance through the sky, And red with wrath divine: Praise him, ye Clouds, that scatter'd stray, Or, fix'd by him in close array, Surround his awful Shrine. 15 Exalt, O Earth, thy heav'nly King, Who bids the plants, that from thee spring, Renew their annual bloom; Whose frequent drops of kindly rain Prolisic swell the rip'ning grain, And bless thy fertile womb. 16 Ye Mountains, that ambitious rise, And lift your summits to the skies, Revere his awful nod: Think how Ye once affrighted fled, While Jordan sought his fountain-head, And own'd th' approaching God. 17 Ye Trees, that fill the rural scene, Ye Flow'rs, that o'er th' enamel'd Green In native beauty reign, O, praise the Ruler of the skies, Whose hand the genial sap supplies, And clothes the thankful plain. 18 Ye secret Springs, ye gentle Rills, That murm'ring rise among the hills, Or fill the humbler vale; Praise him at whose almighty nod The rugged rock dissolving flow'd, And form'd a springing well. 19 Praise him, Ye Floods, and Seas profound, Whose waves the spacious Earth surround, And roll from shore to shore: Aw'd by his voice, Ye Seas, subside; Ye Floods, within your channels glide, And tremble and adore. 20 Ye Whales, that stir the boiling Deep, Or in its dark recesses sleep, Remote from human eye; Praise him, by whom Ye all are sed, Praise him, without whose heav'nly aid Ye sicken, saint, and die. 21 Ye Birds, exalt your Maker's name; Begin, and with th' important theme Your artless lays improve; Wake with your songs the rising day, Let music sound from ev'ry spray, And fill the vocal Grove. 22 Praise him, Ye Beasts, that nightly roam Amid the solitary gloom, Th' expected prey to seize: Ye slaves of the laborious plough, Your stubborn necks submissive bow, And bend your wearied knees. 23 Ye Sons of Men, his praise display, Whose vital breath informs your clay, And gives it pow'r to move: Ye that in Judah's confines dwell, From age to age successive tell The wonders of his Love. 24 Let Aaron's Race the lay prolong, Till Angels listen to the song, And bend attentive down: Let wonder seize the heav'nly Train, Pleas'd, while they hear a mortal strain So sweet, so like their own. 25 To him exulting strike the chord, Ye faithful Servants of your Lord; Nor e'er your praises cease; Whose hearts fair Wisdom's ways have known, And, taught by blest experience, own That all her paths are peace. 26 Ye Spirits of the just and good, That, eager for the bright Abode, To heav'nly Mansions soar, O, let your songs his praise display, Till Heav'n itself shall melt away, And Time shall be no more. 27 Praise him, ye meek and humble Train, Ye Saints whom his Decrees ordain The boundless bliss to share: O, praise him, till Ye take your way To regions of eternal day, And reign for ever there. 28 Let Us, who see th' inclosing fire Divested of its rage aspire, And innocently blaze, (While thus we triumph in the flame,) Rise, and our Maker's Love proclaim In hymns of endless praise. THE LORD's PRAYER, PARAPHRASED. 1 Father of all! whose seat of rest In highest Heav'n is rear'd, Thy Name by ev'ry tongue be blest, By ev'ry heart rever'd. 2 Let Earth to thy Messiah's throne Its just subjection yield: Here, as in Heav'n, thy Will be known; Here, as in Heav'n, fulfill'd. 3 With bread sufficient to the day Our mortal frame supply; And feed the soul that moves our clay With Manna from on high. 4 While, conscious of the debt we owe, We bow the humble knee, That mercy we to others shew Descend on us from Thee. 5 Do Thou our erring feet secure; O lead us far from ill: And keep us upright, just, and pure, In act, in word, and will. 6 Hear, Lord! for Pow'r supreme is thine, Thine Glory, Worship, Praise: Nor Nature's bounds thy reign confine, Nor numbers Time thy days. NUNC DIMITTIS; OR THE Song of Simeon, Paraphrased. 'Tis enough: the hour is come; Now within the silent tomb Let this mortal frame decay, Mingled with its kindred clay: Since thy mercies, oft of old By thy chosen Seers foretold, Faithful now and stedfast prove, God of Truth, and God of Love! Since at length mine aged eye Sees the day-spring from on high. Sun of Righteousness, to Thee Lo, the Nations bow the knee, And the realms of distant Kings Own the healing of thy wings. Those whom Death had overspread With his dark and dreary shade, Lift their eyes, and from afar Hail the light of Jacob's Star; Waiting till the promis'd ray Turn their darkness into day; While the beams, intensely shed, Shine o'er Sion's favour'd head. Balaam's Blessing on Israel. From Numbers. Chap. XXIV. v. 5, 6, 7, 8, 9. How blest the seat where Jacob's offspring dwell! How beauteous are thy tents, O Israel! Fair as the spreading valley's flow'ry pride, Or gardens rang'd along the river's side. Like aloes, op'ning to the vernal air, Rais'd by God's hand, and cherish'd by his care: Like tow'ring cedars, plant of plants supreme, Whose roots are moisten'd by the living stream. The dews of Heav'n shall on his boughs be shed, And waters nourish his increasing seed. Ev'n mightiest Kings shall his dominion own, And Agag bow to his superior throne. From Egypt erst he came: through paths untrod Secure he walk'd, conducted by his God. Strong as the Beast that, on the mountain's height, Lifts the proud horn, and triumphs in his might, Though thronging Nations join their adverse pow'rs, Their bones he crushes, and their flesh devours; He meets the winged shaft without a fear, And shivers in his rage the darted spear. He couch'd, and couching as a Lion frown'd; Like the gaunt Lioness he press'd the ground: Who dares approach him of the sons of Men, Or rouse the lordly Savage from his den? Thy name who blesseth, blest for ever He! But curses rest on him who curseth Thee. A HYMN. Part I. 1 God of my health, whose tender care First gave me pow'r to move, How shall my thankful heart declare The wonders of thy love? 2 While void of thought and sense I lay, Dust of my parent Earth, Thy breath inform'd the sleeping clay, And call'd me to the birth. 3 From Thee the parts their fashion took, E'er life was yet begun, And in the volume of thy Book Were written one by one. 4 Thine eye beheld in open view The yet unfinish'd plan: The shadowy lines thy pencil drew, And form'd the future Man. 5 O may this frame, that rising grew Beneath thy plastic hands, Be studious ever to pursue Whate'er thy Will commands. 6 The Soul, that moves this earthly load, Thy semblance let it bear, Nor lose the traces of the God, Who stamp'd his image there. Part II. 1 Thou, who within this earthly shrine Hast pour'd thy quick'ning ray, O, let thine influence on me shine, And purge each mist away. 2 With curious search let others ask Through Nature's depths to see: O teach my soul the better task, To know itself and Thee. 3 Teach me to know how weak the mind, That yields to erring pride; And let my doubting Reason find Thy Word its safest guide. 4 Let me not, lost in Learning's maze, Religion's flame resign: For what's the worth of human praise, Compar'd, my God, to Thine? 5 Keep in my soul the strong delight, The hopes that in me rise, While Faith presents before my sight The Bliss that never dies. 6 O be those Hopes my only Boast, That Faith my whole Employ, Till Faith in Knowlege shall be lost, And Hope in fullest Joy. Part III. 1 Where'er I turn my wakeful thought, Unnumber'd foes I see: Guide of my Youth, forsake me not, But lead me safe to Thee. 2 As on I press, Distrust and Doubt Dissuasive step between; While Pleasures tempt me from without, And Passions war within. 3 Yet, fix'd on Thee, I lose each fear, Each vain assault I brave: I know thee, Lord, nor slow to hear, Nor impotent to save. 4 O cast my errors from thy sight, And let them pass away, Unheeded, as a Watch by night, Or as a Cloud by day. 5 So while, in secret thought arraign'd, O'er my past life I go, And mark how oft I urg'd thy hand To strike th' avenging blow, 6 So oft shall my repeated lays My thankful heart declare, And joy to celebrate thy praise, Whose Mercy deign'd to spare. The TRIALS of VIRTUE. 1 Plac'd on the verge of Youth, my mind Life's op'ning scene survey'd: I view'd its ills of various kind, Afflicted and afraid. 2 But chief my fear the dangers mov'd, That Virtue's path inclose: My heart the wise pursuit approv'd; But O, what toils oppose! 3 For see, Ah! see, while yet her ways With doubtful step I tread, A hostile World its terrors raise, Its snares delusive spread. 4 O! how shall I, with heart prepar'd, Those terrors learn to meet? How from the thousand snares to guard My unexperienc'd feet? 5 As thus I mus'd, oppressive Sleep Soft o'er my temples drew Oblivion's veil. The watry Deep, An object strange and new, 6 Before me rose: on the wide shore Observant as I stood, The gath'ring storms around me roar, And heave the boiling flood. 7 Near and more near the billows rise; Ev'n now my steps they lave; And death to my affrighted eyes Approach'd in ev'ry wave. 8 What hope, or whither to retreat? Each nerve at once unstrung, Chill fear had fetter'd fast my feet, And chain'd my speechless tongue. 9 I feel my heart within me die; When sudden to mine ear A voice descending from on high Reprov'd my erring fear. 10 “What though the swelling surge thou see “Impatient to devour? “Rest, Mortal, rest on God's decree, “And thankful own his pow'r. 11 “Know, when he bade the Deep appear, “Thus far, th' Almighty said, “Thus far, nor farther, rage; and Here “Let thy proud waves be stay'd.” 12 I heard: and lo! at once controul'd, The waves in wild retreat Back on themselves reluctant roll'd, And murm'ring left my feet. 13 Deeps to assembling Deeps in vain Once more the signal gave: The shores the rushing weight sustain, And check th' usurping wave. 14 Convinc'd, in Nature's volume wise The imag'd truth I read; And sudden from my waking eyes Th' instructive Vision fled. 15 Then why thus heavy, O my Soul? Say why, distrustful still, Thy thoughts with vain impatience roll O'er scenes of future ill. 16 Let Faith suppress each rising fear, Each anxious doubt exclude: Thy Maker's will has plac'd thee here, A Maker wise and good. 17 He to thy ev'ry trial knows Its just restraint to give, Attentive to behold thy woes, And faithful to relieve. 18 Then why thus heavy, O my Soul? Say why distrustful still Thy thoughts with vain impatience roll O'er scenes of future ill. 19 Though griefs unnumber'd throng thee round, Still in thy God confide, Whose finger marks the Seas their bound, And curbs the headlong Tide. The IGNORANCE of MAN. 1 Behold yon new-born Infant, griev'd With hunger, thirst, and pain; That asks to have the wants reliev'd, It knows not to explain. 2 Aloud the speechless Suppliant cries, And utters, as it can, The woes that in its bosom rise, And speak its nature Man. 3 That Infant, whose advancing hour Life's various sorrows try, (Sad proof of sin's transmissive pow'r,) That Infant, Lord, am I. 4 A childhood yet my thoughts confess, Though long in years mature; Unknowing whence I feel distress, And where, or what, its cure. 5 Author of Good, to Thee I turn; Thy ever-wakeful eye Alone can all my wants discern, Thy hand alone supply. 6 O let thy Fear within me dwell, Thy Love my footsteps guide: That Love shall vainer Loves expell, That Fear all Fears beside. 7 And O, by error's force subdu'd Since oft my stubborn will Prepost'rous shuns the latent Good, And grasps the specious Ill, 8 Not to my Wish, but to my Want, Do Thou thy gifts apply: Unask'd, what good thou knowest, grant; What ill, though ask'd, deny. VERSES written originally in the PERSIC Language. 1 If mortal hands thy peace destroy, Or friendship's gifts bestow, Wilt thou to Man ascribe thy joy? To Man impute thy woe? 2 'Tis God, whose thoughts to various ends The human lot dispose, Around thee plant assisting Friends, Or heap avenging Foes. 3 Not from the Bow the deaths proceed, But from the Archer's skill; Who lends the thirsty shaft its speed, And gives it strength to kill. Matthew XI. 28. Come unto me all ye that labour, &amp;c. 1 “To Me, Ye Sons of sorrow, come, “That o'er Life's rugged road “With weary step uncertain roam, “And bend beneath your load. 2 “Come, take my yoke, and learn of Me; “For I am meek of mind: “Come, and your soul, from error free, “The rest it seeks shall find.” 3 Such was the voice of Him who spoke As never Man before: His burthen light, and easy yoke, My soul shall shun no more. 4 I come; my pray'r to Thee address'd, Whose lips the precept gave: Do Thou within my inmost breast The heav'nly lesson grave. 5 So shall I learn my destin'd race To run, with willing feet; Unmov'd, as honour or disgrace In Truth's defence I meet; 6 Humility, with meekness join'd, My exaltation see, And Freedom's fullest measure find, Blest Lord! in serving Thee. FINIS.</field>
+   </doc>
+</add>

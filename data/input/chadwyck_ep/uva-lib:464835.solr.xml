@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Tutchin, John, 1661-1707</field>
+      <field name="author_facet">Tutchin, John, 1661-1707</field>
+      <field name="author_sort_facet">tutchin john 1661 1707</field>
+      <field name="author_text">Tutchin, John, 1661-1707</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1700's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.0251.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">1701</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464835</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">The Apostates ; A Poem. Written by the Author of the Foreigners[i.e. John Tutchin</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 18th century</field>
+      <field name="subject_text">English poetry -- 18th century</field>
+      <field name="title_display">The Apostates ; A Poem. Written by the Author of the Foreigners[i.e. John Tutchin</field>
+      <field name="title_facet">apostates</field>
+      <field name="title_sort_facet">apostates</field>
+      <field name="title_text">The Apostates ; A Poem. Written by the Author of the Foreigners[i.e. John Tutchin</field>
+      <field name="year_display">1701</field>
+      <field name="year_facet">1701</field>
+      <field name="year_multisort_i">1701</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464835&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464835&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Tutchin, John, 1661?-1707&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;tutchin john 1661 1707&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Apostates ; A Poem. Written by the Author of the Foreigners[i.e. John Tutchin&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;apostates&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1701&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1701&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Tutchin, John&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1661&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1707&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Apostates&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Poem. Written by the Author of the Foreigners[i.e. John Tutchin]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for M. Fabian&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1701&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp4003&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;12 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Apostates&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Poem. Written by the Author of the Foreigners[i.e. John Tutchin]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 21 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE APOSTATES. A POEM. Art thou, dear Israel! still the Butt of Fate? How many Mischiefs on thy Fortunes wait! What dismal Ruin thy sad Fate attends! Foe to thy self, and destitute of Friends! Thy People Rules of Reason do buffoon, And change their loose Opinions with the Moon: They sue for Fetters, and for Bondage crave, And never know what they themselves would have; Sometimes their Kings beneath their Rage have fell, And Holy Cause hath made the Saints rebel: Some Kings on Scaffolds have receiv'd their Doom, Some Abdicated, they have Banish'd some: Then Parliaments were Sacred held, they told Such their Wise Constitution was of old. But when the Senate does their Humours thwart, They grow perverse, and mischievously tart; The Senate's Rights they rashly do invade, And curse the Idols which their Hands have made: No Tyrant's Crimes they ever yet disown'd, But passive Saints beneath the Burden groan'd; Did but the Tyrant seemingly espouse Their Holy Cheat with solemn Oaths and Vows. So vain's their Temper, and so great's their Pride, All Kings are Tyrants to the other Side; And if their Actions don't their Genius sute, The zealous Mob themselves are Absolute. Unhappy Israel! ruin'd by thy Foes, And all thy Land but one great Bedlam grows! Whatever Blessing this sad Nation wants, Good God! defend us from Apostate Saints. Those very Saints who in the days of yore, Against the Beast their Testimony bore; The Paths of Persecution bravely trod, And serv'd their Country in the Name of God, Now quit their Freedoms and their Antient Rights, And make Themselves and Us but Gibeonites: Sure Signs before they a sham Fight maintain'd, And that their fam'd Devotion was but feign'd. Wealth they acquire by most sinister Ends; And when in Office, sell their dearest Friends. Opprest with Gold, the Zealot waxeth faint, Unrighteous Mammon overcomes the Saint: Grease well their Fists but with the Golden Ore, They will ten thousand Devildoms adore! How did they formerly with zealous Heat The Pulpit-Drum against lewd Courtiers beat! But now debauch't the Courtiers they prefer, And Israel quit, with Egypt to adhere; Such Senators they chuse that will engross The Publick Treasure to the Kingdom's Loss; Their Crimes they sanctify what'ere they are, For of the Purchase all the Saints have share. You may by Borrowing Clauses them enslave, The Pious Eight per Cent. is all they crave: Let 'em by treble Interest but thrive, They'll quickly raise what lavish Senates give, Tho on design to make the Nation poor, What is't to them, if they encrease their Store? Lay Funds aside, they'll grumble as before. Most Sacred Interest! God of all the Earth; Tho thou from Darkness dost derive thy Birth, Thou like the Sun dost shine within our Sphere, All Men thy Godhead do on Earth revere! Into each Conscience thou dost slily creep, Thou spreadst thy Empire o're the mighty Deep! By Rules unknown thou govern'st ev'ry Heart; Thou art the All in All in ev'ry Part: Who with Devotion han't thy Godhead nam'd, If not hereafter, yet on Earth are damn'd. That Land abounds in nauseous Knaves and Fools, Where Crimes are sanctifi'd, and Interest rules; Where private Ends embarass the Affairs Of Infant-peace just sprung from bloody Wars: These Leeches think no Times are ever good But such as drain our Pockets and our Blood: Yet they in Battel never take delight; They're bred to plunder, and not born to fight; The little Dogs that yelp out dismal Fears, And set the rest together by the Ears; Talk of Invasions, and strange Frights from far, And dismal Dangers are approaching near: Egypt the Moon and Israel will invade, Vacate the Funds, and spoil the Owling Trade: Can Chequer Bills oppose their furious Sallies? Can Souldiers e're be knock'd on head with Tallies? No, no, their Trade is on another score, They kill the Men in Pay were dead before: Strange Senate! would no Taxes new create, And give the Saints a liberty to cheat! Who like vile Parracides at all times wou'd Prefer their Interest to their Country's Good. Legions of these combine against the State, Disorders raise, and Mischiefs new create; Some in Petitions do the State lampoon; Some drop Memorials from the very Moon, Which Men unknown, unheard-of, do subscribe, Both for themselves, as also for their Tribe: A Tribe most Glorious, tho it is unknown, Who with Applause have Deeds of Darkness done. Of all the Tribes that would our Senate awe, And make their Rights stoop to the Rabble's Laws, Dan above all deserves our justest Praise E're since Jack Cade's and famous Tyler's days: A murmuring Race, a factious Owling Crew, Who hate the State, and pay not Cæsar's due, Direct the Senate how their Course to steer, And talk of Shipwrack when no Storm is near. Will Egypt ever their blest Shoar invade, From whence they flourish by the Owling Trade? By War they thrive, and by a Peace decay; And Thieves love Night, because they're caught by Day. But should our Senate the Grand Cause defer, To hear the Stuff of each Petitioner, Well might the Nation such their Actions scorn, And hiss them home upon their curst Return; To Goal much better were their Hero's sent, Where they might cool their Brains, if not repent. This to their Names a mighty Sanction gave, And Goals and Fetters do become the Brave; They're Saints and Martyrs, and as many things As factious Laurel o're their Temples brings. The Crowd envenom'd at their just Restraint, In Curses lengthen out their Iewd Complaint. In former days we truly did aver, They lov'd the Cause, but not the Sufferer: They let their Patriots in the days of yore Perish in Goals and wallow in their Gore; They now of Feasts and mighty Viands boast, And Tables fill'd with Faction Boil'd and Roast: With mighty haste unto the Banquet ran The Calves of Bethel and the Goats of Dan; Insatiate Guts whole Hecatombs devour, They'l feast their Paunches, tho they starve their Poor; The Wine which round their factious Tables sent, Sparkles like Wild-fire at the Parliament. Of Clubs 'gainst Kings we've heard of o're and o're, But never 'gainst our Senators before. For tho to feast the Hero's they did join, Against the Parliament was the Design. The loose Apostates, to make good their Cause, Trump up their Freedoms and the Nations Laws; Strange Senate! would o're Murmurers prevail, And not allow the Saints a Pow'r to rail! In their Defence they false Conclusions bring, As if the Senate did oppose the King: Thus Contraries together do subsist, When every Rebel is a Loyalist: When those who muzzl'd Kings but heretofore, Now for Prerogative so loudly roar. The King thus suffers by Apostate Minds, And for Obedience only Faction finds. In vain of Prowess justest proofs he gave, That he is Bold and resolutely Brave; The miscreant Crowd which trumpets out his Fame, Withers his Lawrels, and blasphemes his Name, Whose vilest Breaths united in Applause, Blacken his Fame and scandalize his Cause. His Name each sawcy Scribler does rehearse, Is by a Blockhead scandaliz'd in Verse; Whose Arthur's Ballad in his Monarch's Praise Has got Renown like that of Chevy-Chase: But Nobler Pens his Histories shall write Whilst he does with his Parliament unite; The only means to make his Honours great, To strengthen Us, and Egypt to defeat. Stop here, my Muse—in keenest Numbers sing Him who of Eglon is deputed K?; Skill'd in deep Mysteries, and Tricks of State, He early grew by Foreign Councils great; Whose blackest Annals do sad Treasons tell Against thy Peace, bewilder'd Israel! Brib'd, 'gainst thy Native Rights he does adhere, To Egypt's Interest a Pensioner. What Hellish Artifices did he use In Foreign Embassies against the Jews? There he their Holy Oracles abhor'd, Which were pronounc'd by the Almighty Word, And in their stead endeavour'd to erect Polluted Fanes with Heathen Gambols deck'd; A Curs'd Religion, where the Priests are Knaves, And their deluded Votaries are Slaves. At home what Mischiefs did he still create, Unhappy Israel, against thy State? How great a Conquest did he lately win, When he dissolv'd the Meeting Sanhedrin; Whose speedy Session and mature Debate Was so consistent with thy sinking State? What can a Traitor now in Eglon do But old Designs and Villanies pursue? And when by Fate our present K? shall fall, He home from Exile will another call, Who of our Sorrows shall augment the Flood, And drown our Country in its Natives Blood. To these the Foreigners are also join'd, Alike in Virtue, and alike in Mind; The Partnership is most exactly made, They share in Faction as they do in Trade: The Senate's Rights they impudently brave, Who gave 'em all the Freedoms which they have. Thus the kind Hand is oftentimes accurst, Bit by the Vipers which its Bosom nurst. If freeborn States or People any more Such abject Foreign Runnegades adore, Despise their Country-men, lampoon their Birth, And quit their Native Title to their Earth, Betray their Offspring, and supplant their Heirs, May the forgotten Fate of Troy be theirs! Long time had Troy thro various Tumults past, And War's rough Force laid all her Countries waste; Ravag'd by Greeks and Foreign Foes from far, Troy was the Ghastly Skeleton of War: Laomedon and Priam being dead, Each petty State did Illium's Peace invade; Storm'd from without, and still betray'd within, Each Foreign Foe did daily Conquests win. Ænæas with Antenor did betray, And give the Peoples Liberty away. In vain they to their numerous Gods complain, And poor Cassandra prophesies in vain: Men void of Sense as Stones within their Wall, And senseless as those Stones, they downwards fall. The Prophetess was not at all believ'd, Men born for Ruin always are deceiv'd: Tho she inspir'd by Great Apollo, told What was to come, and what was done of old; Yet was she deem'd by their nefarious Votes A silly senseless thing in Petticoats, And not believ'd till Troy was past redress, Then every Tongue their Folly did confess. Troy's now no more, but is in pieces dash't, And Plowshares rattle where the Swords have clash't. And such, dear Israel, such will be thy fate, Such dire Events will on thy Fortunes wait! Such vast Destruction will thy Folly crown, And who will pity thee when thou'rt undone? We pity those whom Fate drives on the Shelves, But never such as steer to split themselves. What careful Mariner would trust his Ship To Foreign Pilots on the spacious Deep? Are we thus void of Art and Letters grown? Have we not able Steers-men of our own? Have we not able Statesmen grave and wise, Fitter to be employ'd in Embassies? Must Foreign Councils manage our Intrigues, And make our Treaties, and confirm our Leagues? If so, our State will daily backward run, And we make mighty haste to be undone: If such Distraction happen in our Land, And we to Foreigners do yield Command; By Jove inspir'd, I piously divine, Troy's Fate is Israel's, poor Cassandra's mine. FINIS.</field>
+   </doc>
+</add>

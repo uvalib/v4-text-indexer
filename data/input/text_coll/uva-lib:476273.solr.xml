@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Ouida [Marie Louis de la Ramée]</field>
+      <field name="author_facet">Ouida [Marie Louis de la Ramée]</field>
+      <field name="author_sort_facet">ouida marie louis de la rame</field>
+      <field name="author_text">Ouida [Marie Louis de la Ramée]</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1900's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/OuiLitt.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">March, 1900</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476273</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Little Thief</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">The Little Thief</field>
+      <field name="title_facet">little thief</field>
+      <field name="title_sort_facet">little thief</field>
+      <field name="title_text">The Little Thief</field>
+      <field name="year_display">March, 1900</field>
+      <field name="year_facet">1900-03</field>
+      <field name="year_multisort_i">1900</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476273&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476273&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Ouida [Marie Louis de la Ramée]&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;ouida marie louis de la ramée&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Little Thief&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;little thief&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;March, 1900&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1900-03&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Ouida [Marie Louis de la Ramée]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Little Thief&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;March, 1900&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Rochester, New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Schlicht &amp;amp; Field&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;March, 1900&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Little Thief&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 16 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Ouida. "A Little Thief." Cosmopolitan 28 (Mar. 1900): 552-554. IT was a warm night in February; there was the scent of narcissus and violets already on the air, and the Arno was silvered by the light of a full moon, as it flowed under the arches of the Ponte Vecchio. A small boy was leaning over the parapet and gazing at the water when he ought to have been in bed. But his bed was only a bit of sacking, with some dead maize leaves underneath it; and he liked better the radiant moonlight and the movements of the fresh, clear, pungent night air. His family name was a fine and ancient one, but he was called only Lillino now. His parents were dead; he had only an old great-grandmother, bedridden in the one room in Oltrarno, where he lived with her. He kept her and himself by selling matches, and he was as thin as a match himself, but was a pretty boy, with his great brown eyes and his loose auburn curls, and such a wistful, pleading smile that hardly any girl or woman passed him without buying, and no dog without a kindly dab of the tongue. His mother had died at his birth, and his father had shot himself after losing all he possessed at a gambling club; the off-spring of a secret marriage, the child was left to his foster-mother, a good woman, who cultivated a little farm on the hills above Impruneta. She and her spouse maintained him for seven years; then the husband deserted her and emigrated, and a year later she was killed by the steam-tram near the Gelsomino, and there was only her old mother left, the aged creature whom he called his "Nonna." She was turned out of their little farm, and clinging to the child, and the child to her, they went down into the city to live, and she mended silken hose and he sold matches. It was only in this last year, his tenth year, that the veins of her legs swelled so much that they kept her bedridden, and her sight failed her also, and the matches became their only support. One by one all the little objects that his Nonna had brought with her into the town were sold, and there remained nothing but the ragged clothes which covered them both and a few miserable necessary things. They would have died of hunger and of cold but for the charity of those who were not much better off than themselves, and for the occasional alms which ladies, passing in the streets, arrested by the pathetic beauty of Lillino's face, put into his small thin hand. This was not begging, for every one took a box of matches, knowing that if they did not they would cause him trouble with the police, for in theory begging is forbidden. Lillino's body was in the streets, but his soul was in the country. It was three years since he had seen it, but he had never ceased to think of it. "Let us go back, Nonna. Let us go back," he said continually. But the poor old bedridden woman could only cry feebly and answer: "Oh, my dearie, who would take us there? Who would keep us when we got there? We are here, and here we must abide. Perhaps if the saints would kill me outright somebody would be kinder to you and carry you out of this cruel place—all stones and noise and clatter, and full of food and drink for those whose bellies are full already, and never a bit or drop for those who starve in it." "Do not die, Nonna," said Lillino, clasping his arms about her. "Do not die and go away into the earth. Pray, pray, do not. I have only you." "My poor little one, and what good am I?" she murmured, laying her hand in blessing on his head. "An old log, not even good for burning, for I have no sap left in me. Alas! alas!" But she was all he had to care for, this bundle of rags under her rugged coverlet, and he had known her all his life; she had been always exceedingly good to him, and in that time, though already aged, had been a strong and hearty woman and his earliest memories had been of merrily running beside her, with his hand on her skirt, to cut water-cresses in the ditches, or drive the ducks to the rivulet, or gather olives, chestnuts, blackberries, wood-strawberries, or do any one of those other lighter labors which occupy the old people and the young children in the fields and woods, and make everybody useful from three years old to ninety. Now Nonna was of use no more and Lillino tried with all his might to do his utmost to be of use enough for two. He never doubted that he belonged to her, or rather he never thought about it; he had always seen her near him, and he had always heard Mamma Rosa, whom he had been taught to believe was his mother, call her grandmother. No one had ever told him that he had patrician blood in his veins. This poor old creature, scarcely alive, except in the warmth of her affections and the pains of her limbs, was all he had on earth, and he clung to her with the tenacity of a tender and timid nature. His idea was that if only he could get Nonna back to the country she would become well and strong once more, and able to walk out in those green places and amongst those grassy streamlets which neither she nor he had ever forgotten. "I am sure she would get well," he thought, as he leaned over the stone parapet and watched the river glide away under the moon. But how to carry her there? She was like a log, as she said, with limbs which were wholly useless, without power to move any part of her except her lips, dependent on her neighbors for every bit and drop. Nothing but a miracle could ever raise her again on her feet; but Lillino believed in miracles, or, more truly speaking, miracles seemed natural to him—a constant part of daily life. True, he saw them no more in the streets and the homes, but he saw them in the frescoes, in the sculptures, in the carvings in the churches, and he thought the halt and the blind and the sick could all be cured if Some One unseen and unknown would be good enough to do it. But all he saw and heard in the unkind streets began to make him feel that the real meaning of miracles was money--that strange, dirty, ugly paper thing which was, he saw, so powerful in such amazing ways. What was it, if not a miracle, that a scrap of soiled paper, crumpled and dog-eared, could procure bread for the hungry and wine for the weak? Even those black-rimmed bronze coins—how much they could do, only passing from hand to hand! Lillino had not much understanding, and Mamma Rosa had been too busy herself all day long to attend to his education, either moral or mental. He groped his way as he could to his few ideas, and his thoughts were confused and tangled. But these two were clear to him: Nonna would get well if she went back to the country, and with money she could be taken there, carried, he was not sure how, but in some way, back to those vineyards and pastures and running brooks where his babyhood had been spent, and her whole life had passed. But the extremely scanty means he ever gained did not even suffice to keep life in himself and her, and pay for their one room under the roof. This night, as he leaned over the river wall, the moon was at the full, and the water was high; it had a strange attraction for him as it flowed toward the weir reflecting the long double lines of the lamps. He came away from it reluctantly, not to be scolded by the person of the house for being out too late. The garret which he and the old woman rented was a mere nook under the eaves of an old house. As he drew near it, on the moonlit flags of the old street he saw an object shining: his feet touched it, he picked it up; it was a little bag of golden chainwork with a gold snap; he opened it; he saw it was full of coins—such coins as he had never seen in his life, except in little bowls in money-changers' windows. The Madonna or Mamma Rosa had sent it. Nothing else occurred to him. It was a miracle! An answer to his prayer! He slipped his hand which had closed on it into his ragged shirt, and took his homeward way, his ears singing and his brain turning, and his heart throbbing in his persuasion that Some One in heaven, Some One had heard and answered his prayer! Surely it was Mamma Rosa, sitting now beside the Madonna! Mamma Rosa had always taught him, indeed, that what was other people's property he must never touch or take, but this thing was no one's; it was lying in his path; it was plainly put there by some merciful hand; it was a miraculous gift, a gift of the heavenly host, who were so much kinder than these on earth. He climbed the steep stone stairs, ninety-three from the basement to the attic, dark, slippery, foul-smelling, full of dust and mud and cobwebs; he hugged the little purse in his breast, he smiled to himself radiantly as he climbed up the steps one by one with tired, aching feet. He opened the wooden door by its latch and gently entered the room, for Nonna might be asleep, and it would harm her to startle her, even to tell her such good tidings. Noiselessly he ran across the brick floor and sat down on his own bit of sacking, and began to think. Now he had all this money it would be easy to move his Nonna out of the city and carry her up, up, up, along the green and gracious ascent of the hills, and never stop until she could be set down under the peach boughs and the walnut leaves where the little brimming brooks were running amidst the grass. He opened the pretty bag again and poured the gold coins out upon the sacking. The moon-rays shone also upon them. There were twenty. What they were worth he did not know; but a great deal, he felt sure. With them Nonna would be able to buy their farm, and they could live happily there, both of them forever, seeing the blossoms and the fruits come and go. He longed to wake her, but he dared not; one of the women had told him never to disturb her when she slept. How glad she would be when she did awake and heard that they could both go home! There was a carter who lived in the house; he would take them up into the hills, making a couch of hay in the cart for Nonna; that would be easy to do, when once they could give him a shining gold-piece for his trouble. Once there, all the rest would follow of itself. When once she could see the green grass again, and see the buds on the fruit-trees, she would begin to move her limbs and get back her strength, and they would pay to have a mass said every day in the church up above amongst the olives, a mass of thanksgiving to the Madonna and Mamma Rosa. He had eaten only a bit of black bread all the day, and his brain was a little dim, and his thoughts were not very clear. He had been walking about on the stones ever since morning. His head ached and his feet ached, and his brow and lips were hot and dry, but he was so happy. The moon looked at him over the trees and seemed to smile; he lay down with his arms outstretched, so that they embraced the motionless body of his only friend, and his hands, clasping the little purse, rested upon the rags which covered her. "She will be so glad when she awakes," he thought; "when she awakes and hears we can go home." Then he, too, fell asleep and dreamed of angels and fountains of gold, and little red-throated birds singing amongst flowering fruit-trees, and grassy paths beneath the vines, and brown rippling rivulets, and Mamma Rosa standing smiling with the sun about her feet, and saying, "Our Lady sent me." Then his sleep became too deep for dreams, and he breathed deeply, unconsciously, whilst the moon passed upward and its light ceased to shine upon his face and that of his Nonna. The trampling of feet on the brick floor aroused him; a rude hand clutched his shoulder and another hand seized the gold. "Here is the thief," said a brutal voice, "and here is the lady's purse." "The little heartless wretch!" said a voice as rude. "Look! He is safe here, he thinks, because the old woman is dead!"</field>
+   </doc>
+</add>

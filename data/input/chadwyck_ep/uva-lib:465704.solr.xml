@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Behn, Aphra, 1640-1689</field>
+      <field name="author_facet">Behn, Aphra, 1640-1689</field>
+      <field name="author_sort_facet">behn aphra 1640 1689</field>
+      <field name="author_text">Behn, Aphra, 1640-1689</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.1889.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1689</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:465704</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">A Congratulatory Poem to her Sacred Majesty Queen Mary ; upon her arrival in England. By Mrs. A. Behn</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">A Congratulatory Poem to her Sacred Majesty Queen Mary ; upon her arrival in England. By Mrs. A. Behn</field>
+      <field name="title_facet">congratulatory poem to her sacred majesty queen mary</field>
+      <field name="title_sort_facet">congratulatory poem to her sacred majesty queen mary</field>
+      <field name="title_text">A Congratulatory Poem to her Sacred Majesty Queen Mary ; upon her arrival in England. By Mrs. A. Behn</field>
+      <field name="year_display">1689</field>
+      <field name="year_facet">1689</field>
+      <field name="year_multisort_i">1689</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:465704&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:465704&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Behn, Aphra, 1640-1689&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;behn aphra 1640 1689&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A Congratulatory Poem to her Sacred Majesty Queen Mary ; upon her arrival in England. By Mrs. A. Behn&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;congratulatory poem to her sacred majesty queen mary&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1689&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1689&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Behn, Aphra&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1640&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1689&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Congratulatory Poem to her Sacred Majesty Queen Mary&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;upon her arrival in England. By Mrs. A. Behn&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed by R. E. for R. Bentley ... and W. Canning [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1689&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp0345&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;6 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Congratulatory Poem to her Sacred Majesty Queen Mary&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;upon her arrival in England. By Mrs. A. Behn&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 12 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">A Congratulatory Poem to her Sacred Majesty Queen Mary, UPON HER ARRIVAL in ENGLAND. While my sad Muse the darkest Covert Sought, To give a loose to Melancholy Thought; Opprest, and sighing with the Heavy Weight Of an Unhappy dear Lov'd Monarch's Fate; A lone retreat, on Thames's Brink she found, With Murmering Osiers fring'd, and bending Willows Crown'd, Thro' the thick Shade cou'd dart no Chearful Ray, Nature dwelt here as in disdain of Day: Content, and Pleas'd with Nobler Solitude, No Wood-Gods, Fawns, nor Loves did here Intrude, Nor Nests for wanton Birds, the Glade allows; Scarce the soft Winds were heard amongst the Boughs. While thus She lay resolv'd to tune no more Her fruitless Songs on Brittains Faithless Shore, All on a suddain thro' the Woods there Rung, Loud Sounds of Joy that Jo Peans Sung. Maria! Blest Maria! was the Theam, Great Brittains happy Genius, and her Queen. The River Nimphs their Crystal Courts forsake, Curl their Blew Locks, and Shelly Trumpets take: And the surprising News along the Shore, In raptur'd Songs the wondring Virgins bore; Whilst Mourning Eccho now forgot her Sighs, And sung the new taught Anthem to the Skyes. All things in Nature, a New Face put on, Thames with Harmonious Purlings glides along, And tells her Ravisht Banks, she lately bore A Prize more great than all her hidden Store, Or all the Sun it self e're saw before. The brooding Spring, her Fragrant Bloom sent out, Scattering her early Perfumes round about; No longer waits the Lasie teeming Hours, But e're her time produc'd her Oderous Flowers; Maria's Eyes Anticipate the May, And Life inspir'd beyond the God of Day. The Muses all upon this Theam Divine, Tun'd their best Lays, the Muses all, but mine, Sullen with Stubborn Loyalty she lay, And saw the World its eager Homage pay, While Heav'n and Earth on the new Scene lookt gay. But Oh! What Human Fortitude can be Sufficient to Resist a Deity? Even our Allegiance here, too feebly pleads, The Change in so Divine a Form perswades; Maria with the Sun has equal Force, No Opposition stops her Glorious Course, Her pointed Beams thro' all a passage find, And fix their Rays Triumphant in the Mind. And now I wish'd among the Crouds to Adore, And constant wishing did increase my Power; From every thought a New-born Reason came Which fortifyed by bright Maria's Fame, Inspir'd My Genious with new Life and Flame, And thou, Great Lord, of all my Vows, permit My Muse who never fail'd Obedience yet, To pay her Tribute at Marias Feet, Maria so Divine a part of You, Let me be Just—but Just with Honour too. Resolv'd, She join'd her Chorus with the Throng, And to the listning Groves Marias Vertues Sung; Maria all Inchanting, Gay, and Young, All Hail Illustrious Daughter of a King, Shining without, and Glorious all within, VVhose Eyes beyond your scantier Power give Laws, Command the VVord, and justifie the Cause; Nor to secure your Empire needs more Arms Than your resistless, and all Conquering Charms; Minerva Thus alone, Old Troy Sustain'd, VVhilst her Blest Image with three Gods remain'd; But Oh! your Form and Manner to relate, The Envying Fair as soon may Imitate, 'Tis all Engaging Sweet, 'tis all Surprising Great; A thousand Beauties Triumph in your Air, Like those of soft Young Loves your Smiles appear, And to th'Ungarded Hearts, as dangerous are: All Natures Charms are open'd in your Face, You Look, you Talk, with more than Human Grace; All that is Wit, all that is Eloquence. The Births of finest Thought and Noblest Sense, Easie and Natural from your Language break, And 'tis Eternal Musick when you speak; Thro' all no formal Nicety is seen, But Free and Generous your Majestick Meen, In every Motion, every Part a Queen; All that is Great and Lovely in the Sex, Heav'n did in this One Glorious Wonder fix, Apellis thus to dress the Queen of Love, Rob'd the whole Race, a Goddess to improve. Yet if with Sighs we View that Lovely Face, And all the Lines of your great Father's Trace, Your Vertues should forgive, while we adore That Face that Awes, and Charms our Hearts the more; But if the Monarch in your Looks we find, Behold him yet more glorious in your Mind; 'Tis there His God-like Attributes we see. A Gratious Sweetness, Affability, A Tender Mercy and True Piety; And Vertues even sufficient to Attone For all the Ills the Ungrateful VVorld has done, VVhere several Factions, several Intrests sway, And that is still it'h Right who gains the Day; How e're they differ, this they all must grant, Your Form and Mind, no One Perfection want, Without all Angel, and within all Saint. The Murmering VVorld till now divided lay, Vainly debating whom they shou'd Obey, Till You Great Cesar's Off-spring blest our Isle, The differing Multitudes to Reconcile; Thus Stiff-neckt Israel in defiance stood, Till they beheld the Prophet of their God; Who from the Mount with dazling brightness came, And Eyes all shining with Celestial Flame; Whose Awful Looks, dispel'd each Rebel Thought, And to a Just Compliance, the wilde Nations brought. FINIS.</field>
+   </doc>
+</add>

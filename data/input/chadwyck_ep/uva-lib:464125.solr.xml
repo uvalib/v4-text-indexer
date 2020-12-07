@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Howell, James, 1594-1666</field>
+      <field name="author_facet">Howell, James, 1594-1666</field>
+      <field name="author_sort_facet">howell james 1594 1666</field>
+      <field name="author_text">Howell, James, 1594-1666</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.1588.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1655</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464125</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Greek, Modern (1453- )</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">A New Volume of Familiar Letters ; Partly Philosophical, Political, Historical, The Third Edition, with Additions. By James Hovvell</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">A New Volume of Familiar Letters ; Partly Philosophical, Political, Historical, The Third Edition, with Additions. By James Hovvell</field>
+      <field name="title_facet">new volume of familiar letters</field>
+      <field name="title_sort_facet">new volume of familiar letters</field>
+      <field name="title_text">A New Volume of Familiar Letters ; Partly Philosophical, Political, Historical, The Third Edition, with Additions. By James Hovvell</field>
+      <field name="year_display">1655</field>
+      <field name="year_facet">1655</field>
+      <field name="year_multisort_i">1655</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464125&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464125&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Howell, James, 1594?-1666&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;howell james 1594 1666&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A New Volume of Familiar Letters ; Partly Philosophical, Political, Historical, The Third Edition, with Additions. By James Hovvell&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;new volume of familiar letters&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1655&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1655&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Howell, James&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1594&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1666&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A New Volume of Familiar Letters&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Partly Philosophical, Political, Historical, The Third Edition, with Additions. By James Hovvell&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for Humphrey Moseley [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1655&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp1827&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;gre&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;125, [8] p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A New Volume of Familiar Letters&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Partly Philosophical, Political, Historical, The Third Edition, with Additions. By James Hovvell&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 32 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only verse included; some verse extracted from prose text; verse reproduced elsewhere in The English Poetry Full-text Database omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Ut clavis portam, sic pandit Epistola pectus. TO His Highnes JAMES Duke of YORK; A Star of the greatest Magnitude in the Constellation of CHARLES-WAYN. Familiar Letters. [Verse extracted from the prose narrative.] To Sir Tho. Haw. 1 Could I but catch those beamy Rayes, Which Phœbus at high noon displayes, I'de set them on a Loom, and frame A Scarf for Delia of the same. 2 Could I that wondrous black com near, Which Cynthia, when eclips'd, doth wear, Of a new fashion I would trace A mask therof for Delia's face. 3 Could I but reach that green and blue, Which Iris decks in various hue, From her moist Bow I'de drag them down, And make my Delia a Summer Gown. 4 Could I those whitely Stars go nigh, Which make the milky way in skie, I'de poach them, and at Moon-shine dress To make my Delia a curious mess. 5 Thus would I diet, thus attire, My Delia Queen of hearts and fire, She should have every thing divine That would befitt a Seraphin. And 'cause ungirt unbless'd we find, One of the Zones her wast should bind. A Hymne to the Blessed Trinity. To the First Person. To thee dread Soveraign, and dear Lord, Which out of nought didst me afford Essence and life, who mad'st me man, And, oh, much more a Christian, Lo, from the centre of my heart All laud and glory I impart. Hallelujah. To the Second. To thee blessed Saviour who didst free My soul from Satans tyrannie, And mad'st her capable to be An Angel of thy Hierarchy, From the same centre do I raise, All honour and immortal praise. Hallelujah. To the Third. To thee sweet Spirit I return That love wherwith my heart doth burn, And these bless'd notions of my brain I now breath up to thee again: O let them redescend, and still My soul with holy raptures fill. Hallelujah. To Mr. R. K. 1 Weak crazy Mortall, why dost fear To leave this earthly Hemisphear? Where all delights away do passe, Like thy effigies in a glasse. Each thing beneath the Moon is fraile and fickle, Death sweeps away what time cuts with his sickle. 2 This life, at best, is but an Inn, And we the passengers wherin The cloth is layed so som, before They peep out of dame nature's dore, And warm lodgings left, Others ther are Must trudg to find a room, and shift for fare. 3 This life's, at longest, but one day, He who in youth posts hence away, Leave's us i'th Morn, He who hath run His race till Manhood, parts at noon, And who at seventy odd forsakes this light, He may be said to take his leave at night. 4 One past maketh up the Prince and peasan, Though one cat roots, the other seasan, They nothing differ in the stuffe, But both extinguish like a snuffe: Why then fond man should thy soul take dismay, To sally out of these gross walls of clay? THE VOTE, OR, A Poem-Royal, Presented To His Majesty for a New-Yeers-Gift, by way of Discourse 'twixt the Poet and his Muse. Calendis Januarii, 1641. Poema ???????????. The world's bright Ey, Times measurer begun Through watry Capricorn his cours to run, Old Janus hastened on, his Temples bound With Ivy, his gray hairs with Holly crown'd; When in a serious quest my thoughts did muse What gift, as best becomming, I should chuse, To Britains Monarch (my dread Soveraign) bring, Which might supply a New-Years offering. I rummag'd all my stores, and search'd my cells, Wher nought appear'd, God wot, but Bagatells: No far-fetch'd Indian Gem cut out of Rock, Or fish'd in shells wer trusted under lock, No piece which Angelo's strong fancy hit, Or Titians Pensill, or rare Hillyards wit, No Ermins, or black Sables, no such skins, As the grim Tartar hunts or takes in gins; No Medals, or rich stuff of Tyrian Dy, No costly Bowls of frosted Argentry, No curious Land-skip, or some Marble piece Digg'd up in Delphos, or else-where in Greece; No Roman Perfumes, Buffs, or Cordovans Made drunk with Amber, by Moreno's hadds, No Arras or rich Carpets freighted o're The surging Seas from Asia's doubtfull shore, No Lions Cub or Beast of strange Aspect, Which in Numidia's fiery womb had slept, No old Toledo Blades, or Damaskins, No Pistolls, or som rare-spring Carrabins, No Spanish Ginet, or choice Stallion sent From Naples or hot Africs Continent: In fine, I nothing found I could descry Worthy the hands of Cæsar or his eye. My wits wer at a stand, when, loe, my Muse (None of the Quire, but such as they do use For Laundresses or Handmaids of mean rank I knew somtimes on Po and Isis bank) Did softly buz, — Muse. — Then let me somthing bring, May hansell the New-Yeer to CHARLES my King, May usher in bifronted Janus— Poet. Thou fond fool-hardy Muse, thou silly thing, Which 'mongst the shrubs and reeds do'st use to sing, Dar'st thou perk up, and the tall Cedar clime, And venture on a King with gingling rime? Though all thy words wer Pearls, thy letters Gold, And cut in Rubies, or cast in a mould Of Diamonds, yet still thy Lines would be Too mean a gift for such a Majestie. Muse. Ile try, and hope to passe without disdain, In New-yeers gifts the mind stands for the main. The Sophy, finding 'twas well meant, did daign Few drops of running-water from a Swain; Then sure, 'twill please my Liege; if I him bring, Som gentle drops from the Castalian Spring; Though Rarities I want of such account, Yet have I somthing on the forked mount. Tis not the first, or third accesse I made To Cæsars feet, and thence departed glad. For as the Sun with his male heat doth render Nile's muddy slime fruitful, and apt t'engender, And daily to produce new kind of creatures Of various shapes and thousand differing features, So is my fancy quickned by the glance Of His benign aspect and countenance, It makes me pregnant and to superfœte, Such is the vigor of His beams and heat. Once in a Vocall Forrest I did sing, And made the Oke to stand for CHARLES my King The best of Trees, whereof (it is no vant) The greatest Schools of Europe sing and chant: There you shall also find Dame Arhetine id est virtuous. Anagram of Henrietta ARHETINE, Great Henries Daughter, and great Britains Queen, Her name engraven in a Lawrel Tree, And so transmitted to Eternity. For now I hear that Grove speaks besides mine, The Language of the Loire, the Po and Rhine. And to my Prince (my sweet Black Prince) of late, I did a youthful subject dedicate) Nor do I doubt but that in time my Trees Will yield me fruit to pay Appollo's Fees, To offer up whole Hecatombs of praise To Cæsar, if on them he cast his rays, And if my Lamp have oil, I may compile The Modern Annalls of great Albion's Isle, To vindicate the truth of CHARLES his reign, From scribling Pamphletors who Story stain With loose imperfect passages, and thrust Lame things upon the world, t'ane up in trust. I have had audience (in another strain) Of Europs greatest Kings, when German main And the Cantabrian waves I cross'd, I drank Of Tagus, Seine, and sate at Tybers bank, Through Scylla and Charybdis I have steer'd, Wher restles Ætna belching flames appear'd, By Greece, once Palla's Garden, then I pass't Now all ore-spread with ignorance and waste. Nor hath fair Europ her vast bounds throughout, An Academe of note I found not out. But now I hope in a successful prore, The Fates have fix'd me on sweet Englands shore, And by these various wandrings tru I found, Earth is our common Mother, every ground May be ones Countrey, for by birth each man Is in this World a Cosmopolitan, A free-born Burgess, and receives therby His Denization from Nativity: Nor is this lower world but a huge Inne, And men the rambling passengers, wherin Som do warm lodgings find, and that as soon As out of natures Clossets they see noon, And find the Table ready laid; but som Must for their commons trot and trudg for room: With easie pace som climb Promotions Hill, Som in the Dale, do what they can, stick still; Som through false glasses Fortune smiling spy, Who still keeps off, though she appears hard by: Som like the Ostrich with her wings do flutter, But cannot fly or soar above the gutter. Som quickly fetch, and double Good-Hopes Cape, Som ne'r can do't though the same cours they shape. So that poor mortals are so many balls Toss'd som o'r line, som under fortun's walls. And it is Heavens high pleasure man should ly Obnoxious to this partiality, That by industrious ways he should contend Natur's short pittance to improve and mend; Now, Industry ne'r fail'd, at last t'advance Her patient sons above the roach of Chance. Poet. But Whither rov'st thou thus ?? Well; since I see thou art so strongly bent, And of a gracious look so confident, Go, and throw down thy self at Cæsars feet, And in thy best attire thy Soveraign greet. Go, an auspicious and most blisseful yeer Wish Him, as e'r shin'd o'r this Hemisphear. Good may the Entrance, better the middle be. And the Conclusion best of all the three; Of joy ungrudg'd may each day be a debter, And evry morn still usher in a better, May the soft gliding Nones and every Ide, With all the Calends still som good betide, May Cynthia with kind looks, and Phœbus rays, One clear his nights, the other gild his days. Free limbs unphysic'd health, due appetite, Which no sauce else but Hunger may excite, Sound sleeps, green dreams be his, which represent Symtomes of health, and the next dayes content; Chearful and vacant thoughts, not alwayes bound To counsell, or in deep I dea's drown'd: (Though such late traverses, and tumults might Turn to a lump of care, the airiest wight) And since while fragile flesh doth us array, The humors still are combating for sway, (Which wer they free from this reluctancy And counter pois'd, man would immortal be) May Sanguin o'r the rest predominate In Him, and their malignant flux abate. May his great Qeen, in whose Imperious ey Reigns such a world of winning Majestie, Like the rich Olive or Falernian Vine Swell with more gems of Cions masculine; And as her fruit sprung from the Rose and Luce, (The best of stems Earth yet did e'r produce) Is tied already by a Sanguin lace To all the Kings of Europe's high-born race, So may they shoot their youthful branches o'r The surging seas, and graff with every Shore. May home-commerce and trade encrease from far, That both the Indies meet within his bars, And bring in Mounts of Coin His Mints to feed, And Banquers (trafics chief suporters) breed, Which may enrich his Kingdoms, Court and Town, And ballast still the coffers of the Crown, For Kingdoms are as ships, the Prince his chests The ballast, which if empty, when distres't With storms, their holds are lightly trimm'd the keel Can run no steedy cours, but toss and reel; May his Imperial Chamber alwayes ply To his desires her wealth to multiply, That she may prize his Royal favour more Than all the wares fetch'd from the great Mogor, May the The Parlement Grand Senate, with the subjects right Put in the Counter-scale the Regal might The flowrs o'th' Crown, that they may prop each other And like the Grecians twin, live, love together. For the chief glory of a people is, The power of their King, as theirs is His; May He be still, within himself at home, That no just passion make the reason rome, Yet passions have their turns to rouse the soul, And stir her slumbring spirits not controul, For as the Ocean besides ebb and flood (Which Hippocrates Nature's greatest Clerk ne'r understood) Is not for sail, if any impregning wind Fill not the flagging canvas, so a wind Too calm is not for action, if desire Heats not it self at passions quickning fire, For Nature is allow'd somtimes to muster Her passions so they onely blow, not bluster. May Justice still in her true scales appear, And honour fix'd in no unwhorthy sphear, Unto whose palace all accesse should have Through virtues Temple, not through Plutos Cave. May his true subjects hearts be his chief Fort, Their purse his treasure and their Love his Port, Their prayers as sweet Incense, to draw down Myriads of blessings on his Queen and Crown. And now that his glad presence, did asswage, That fearful tempest in the North did rage, May those frog vapours in the Irish skie, Be scatter'd by the beams of Majestie, That the Hybernian lyre give such a sound, May on our coasts with joyful Ecchoes bound. And when this fatal planet leaves to lowr, Which too too long on Monarchies doth powr His direful influence, may Peace once more Descend from Heaven on our tottering shore, And ride in triumph both on land and main, And with her milk white steeds draw Charles his wain: That so, for those Saturnian times of old, An age of Pearl may com in lieu of Gold. Virtue still guide his cours, and if ther be A thing as Fortune, Him accompany. May no ill genius haunt him, but by's side, The best protecting Angel ever bide. May He go on to vindicate the right Of holy things, and make the Temple bright, To keep that Faith, that sacred Truth entire, Which he received from King James Solomon his Sire. And since we all must hence, by th' Iron Decree Stamp'd in the black Records of Destiny, Late may his life, his Glory ne'r we ar out, Till the great yeer of Plato wheel about. So prayeth The worst of Poets to The best of Princes, yet The most loyal of His Votaries and Vassals, James Hovvell. FINIS.</field>
+   </doc>
+</add>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Published for the Early English Text Society by Humphrey Milford, Oxford University Press</field>
+      <field name="author_facet">Published for the Early English Text Society by Humphrey Milford, Oxford University Press</field>
+      <field name="author_sort_facet">published for the early english text society by humphrey milford oxford university press</field>
+      <field name="author_text">Published for the Early English Text Society by Humphrey Milford, Oxford University Press</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1920's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.0968.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1922</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459597</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Moses</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 20th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 20th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Moses</field>
+      <field name="title_facet">moses</field>
+      <field name="title_sort_facet">moses</field>
+      <field name="title_text">Moses</field>
+      <field name="year_display">1922</field>
+      <field name="year_facet">1922</field>
+      <field name="year_multisort_i">1922</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459597&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459597&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Moses&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;moses&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1922&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1922&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Moses&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Published for the Early English Text Society by Humphrey Milford, Oxford University Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1922&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873620-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv10968&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Moses&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 22 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory material omitted&lt;lb/&gt;The following plays have been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Copyright (c) 1922, Early English Text Society. This text may not be reproduced, except for fair dealing purposes, without the express permission of Chadwyck-Healey and the copyright holder.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Moses.</field>
+      <field name="desc_meta_file_display">Genre: English mystery and miracle plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1468.</field>
+      <field name="desc_meta_file_display">Date first performed: 1400–1450 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">[Moses]</field>
+      <field name="fulltext">Introitus Moyses He þat made all thynge of nought Hevyn and erth both sunne and mone Saue all þat his hand hath wrought All myghty god in hevyn trone I am Moyses þat make þis bone I pray þe lord god with all my mende to us incline þi mercy sone þi gracyous lordchep lete us fynde. The to plesyn in all degre Gracyous god and lord ovyr all þou graunte us grace wher so we be and saue us sownd fro synfull fall thy wyll to werke to us þi thrall enforme and teche us all þi plesans in purenesse put us þat nevyr not fall and grounde us in grace ffrom all grevauns. Hic moyses videns rubrum ardentem admirande dicit A mercy god what menyth ?on syte A grene busch as fyre doth flame and kepyth his colowre fayr and bryghte Ffresch and grene with-owtyn blame It fyguryth sum thynge of ryght gret fame I kan not seyn what it may be I wyll go nere in goddys name and wysely loke þis busch to se. Deus Moyses how Moyses herke to me a-non þis stounde. Moyses I am here lorde with-owtyn les ?owre gracyous wyll to do I am bounde. Deus Thu take þi schon anon ful rownde of þi fete in hast lete se fful holy is þat place and grownde þer þou dost stonde I sey to the. Moyses Barfoot now I do me make and pull of my schon fro my fete now haue I my schon of take what is ?our wyll lord fayn wold I wete. Deus Come nere moyses with me to mete these tabell-is I take þe in þin honde with my ffynger in hem is wrete all my lawys þou vndyrstonde. Loke þat þou preche all abowte hoo so wyll haue frenshipp of me to my lawys loke þei lowte þat þei be kept in all degre Go forth and preche a-non let se loke þou not ses nyght nor day. Moyses ?our byddyng lord all wrought xal be ?our wyll to werk I walk my way. Custodi precepta domini dei tui deutronomini vjt o. The comaundement of þi lord god man loke þou kepe where þat þou walk wake or slepe Euery man take good hede and to my techynge take good intent for god hath sent me now in dede ?ow for to enforme his comaundment ?ow to teche god hath me sent his lawys of lyff þat arn ful wyse them to lerne be dyligent ?our soulys may þei saue at þe last Asyse. The preceptys þat taught xal be be wretyn in þese tablys tweyn In þe fyrst ben wretyn thre that towch to god þis is serteyn In þe secund tabyl be wretyn ful pleyn þe tother vij þat towch mankende herk now well man what I xal seyn and prent þise lawys well in þi mende. 1u s Primum mandatum non habebis deos alienos. The fyrst comaundement of god as I ?ow say of þe fyrst tabyl for sothe is this þou xalt haue neythyr nyght nore day noon other god but þe kyng of blysse Vndyrstonde wele what menyth this Euery man in hys degre And sett neuyr ?our hert a-mys Vpon þis werdlys vanyte. Ffor if þou sett þi loue so sore Vpon ryches and werdly good þi wurdly rycches þou takyst ever more evyn ffor þi god as man ovyr wood Amend þe man and chaunge þi mood lese not þi sowle for werdlys welth Only hym loue which bodyly ffood doth ?eve all day and gostly helth. 2. Secundum mandatum non assumens nomen dei tui in vanum. The secund precept of þe fyrst tabyll þe name of god take nevyr in vayne Swere none othis be noon fals fabyll þe name of god þou nevyr dysteyn Be whare of othis for dowte of peyn Amonges ffelacheppe whan þou dost sytt A lytyl othe þis is serteyn may dampne thy sowle to helle pytt. Man whan þou art sett at þe nale and hast þi langage as plesyth þe loke þin othis be non or smale and ?ett alwey loke trewe thei be But swere not oftyn by rede of me ffor yf þou vse oftyn tyme to swere it may gendyr custom in the by-ware of custom ffor he wyl dere. 3. Tercium mandatum memento vt sabbatum sanctificet. The iijd e comaundment of god as I rede doth bydde the halwe well þin haly day kepe þe well ffro synfull dede and care not gretly ffor rych a-ray A ryght pore man þis is non nay of sympyl astat in clothis rent may-be bettyr than rych with garmentys gay Oftyn tyme doth kepe þis comaundment. Ffor rych men do showe oftyn tyme pompe and pride On halydays as oftyn is sene Whan pore men passe and go be-syde At wurthy festys riche men woll bene Thyn halyday þou kepyst not clene In gloteny to lede þi lyff In goddys hous ?e xulde be-dene honoure ?our god both mayden and wyff. 4. Quartum mandatum honora patrem tuum et matrem tuam. Off þe secunde tabyll þe fyrst comaundement And in þe ordyr þe iiijt e I sey in fay he byddyth þe euer more with hert bent both ffadyr and modyr to wurchep Alway Thow þat þi fadyr be pore of array and þow neuer so rych of golde and good ?itt loke þou wurchep hym nyght and day Of whom þou hast both fflesch and blood. In þis comaundmente includyd is thi bodyli fadyr and modyr also Includyd also I fynde in þis thi gostly fadyr and modyr þer to To þi gostly ffadyr evyr reuerens do þi gostly modyr is holy cherch these tweyn saue þi sowle fro woo euer them to wurchep loke þat þou werch. 5. Quintum mandatum non occides. The ffyfft comaundement byddyth all us Scle no man no whight þat þou kyll Vndyr stonde þis precept þus Scle no wyght with wurd nor wyll Wykkyd worde werkyht oftyn tyme grett ill be war þer fore of wykkyd langage wyckyd spech many on doth spyll therfore of spech beth not owt-rage. 6. Sextum mandatum non makaberis. The sexte comaundement byddith every man þat no wyght lede no lecherous lay fforfet neuer be no woman lesse þan þe lawe a-lowe þi play Trespas nevyr with wyff ne may with wedow nor with non othyr wyght kepe þe cleue as I þe say to whom þou hast þi trowth plyght. 7. Septimum mandatum non furtum facies. Do no thefte no thynge þou stele þe vijt e precept byddyth þe ful sore whyll þou arte in welth and wele euyll gett good loke þou restore Off handys and dede be trewe euyr more ffor yf þin handys lymyd be þou art but shent þi name is lore in ffelde and town and in all countre. 8. Octauum mandatum non loqueris contra proximum tuum falsum testimonium. The viijt e precept þus doth þe bydde Ffals wyttnes loke non þou bere þe trowth nevyr more loke þat þou hyde with ffals wyttnes no man þou dere Nowther ffor love ne dred ne fere Sey non other than trowth is Ffals wytnes yf þat þou rere A?ens god þou dost grettly amys. 9. Nonum mandatum non desiderabis vxorem proximi tui et cetera. The ixt e precept of lawe of lyff evyn þus doth bydde every man desyre not þi neyborys wyff þow she be fayr and whyte as swan And þi wyff brown ?itt natt for than þi neyborys wyff þou nevyr rejoyse kepe þe clene as evyr þou can to þin owyn wyff and þin owyn choyse. 10. Decimum mandatum non concupisces domum proximi tui non seruum non ancillam non bos non asinum nec omnia que illius sunt et cetera. The xd e comaundement of god and last is þis thi neyborys hous desyre þou nowth Maydon nor servaunt nor nowth of his desyre hem nevyr in wyll nor thowth Oxe nere Asse þat he hath bought nere no thynge þat longyht hym to Godys lawe must nedys be wrought desyre no thynge þin neybore ffro. The vjt e comaundement of lechory doth exclude þe synfull dede but theys tweyn last most streytly both dede and thought þei do for-bede In wyll nere thought no lechory þou lede þi thought and wyll þou must refreyn All þi desyre as I þe rede in clennes of lyff þi self restreyn. Ffrendys þese be þe lawys þat ?e must kepe therfore every man sett well in mende Wethyr þat þou do wake or slepe these lawys to lerne þou herke ful hynde And godys grace xal be þi ffrende he socowre and saue ?ow in welth fro woo Fare well gode frendys for hens wyll I wende my tale I haue taught ?ow my wey now I goo. Explicit moyses.</field>
+   </doc>
+</add>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Mendez, Moses</field>
+      <field name="author_facet">Mendez, Moses</field>
+      <field name="author_sort_facet">mendez moses</field>
+      <field name="author_text">Mendez, Moses</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1740's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V2.0304.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1749</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460015</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Chaplet ; A Musical Entertainment</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 18th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 18th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Chaplet ; A Musical Entertainment</field>
+      <field name="title_facet">chaplet</field>
+      <field name="title_sort_facet">chaplet</field>
+      <field name="title_text">The Chaplet ; A Musical Entertainment</field>
+      <field name="year_display">1749</field>
+      <field name="year_facet">1749</field>
+      <field name="year_multisort_i">1749</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460015&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460015&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Mendez, Moses&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;mendez moses&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Chaplet ; A Musical Entertainment&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;chaplet&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1749&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1749&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Mendez, Moses&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Chaplet&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Musical Entertainment&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed : And Sold by M. Cowper [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1749&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872351-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv20304&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Chaplet&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Musical Entertainment&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 32 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The chaplet.</field>
+      <field name="desc_meta_file_display">Genre: Entertainment.</field>
+      <field name="desc_meta_file_display">Date first published: 1749.</field>
+      <field name="desc_meta_file_display">Date first performed: 2 Dec 1749.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE CHAPLET. A Musical Entertainment.</field>
+      <field name="fulltext">DRAMATIS PERSONÆ. Damon, Mr. Beard. Palæmon, Master Mattocks. Laura, Miss Norris. Pastora, Mrs. Clive.</field>
+      <field name="fulltext">SCENE A GROVE.</field>
+      <field name="fulltext">PART I. SCENE I. Damon, Laura. Laura. Ungrateful Damon! Is it come to this? Are these the happy Scenes of promis'd Bliss? Ne'er hope, vain Laura, future Peace to prove; Content ne'er harbours with neglected Love. Damon. Consider, Fair, the ever-restless Pow'r Shifts with the Breeze, and changes with the Hour: Above Restraint he scorns a fix'd Abode, And on his silken Plumes flies forth the rambling God. AIR. You say at your Feet that I wept in Despair, And vow'd that no Angel was ever so fair; How could you believe all the Nonsense I spoke? What know we of Angels—I meant it in joke. I next stand indicted for swearing to love, And nothing but Death should my Passion remove; I have lik'd you a Twelve-month, a Calendar Year, And not yet contented—have Conscience, my Dear. Recitative. To Day Damætas gave a rural Treat, And I once more my chosen Friends must meet. Farewel, sweet Damsel, and remember this, Dull Repetition deadens all our Bliss. [Exit. SCENE II. Laura. Where baleful Cypress forms a gloomy Shade, And yelling Spectres haunt the dreary Glade; Unknown to all, my lonesome Steps I'll bend; There weep my Suff'rings, and my Fate attend. AIR. Vain is ev'ry fond Endeavour, To resist the tender Dart; For Examples move us never, We must feel to know the Smart. When the Shepherd swears he's dying, And our Beauties sets to view; Vanity her Aid supplying, Bids us think 'tis all our Due. Softer than the vernal Breezes, Is the mild, deceitful Strain; Frowning Truth our Sex displeases, Flatt'ry never sues in vain. Soon, too soon, the happy Lover Does our tend'rest Hopes deceive; Man was form'd to be a Rover, Foolish Woman to believe. [Exit. SCENE III. Damon and several Shepherds drinking. Damon. In Mirth and Pastime ev'ry Hour employ, Lost is the Day that is not spent in Joy; Here strew your Roses, here your Chaplets bring, And listen, Neighbours, to the Truths I sing. AIR. Push about the brisk Bowl, 'twill enliven the Heart; While thus we sit round on the Grass, The Lover who talks of his Suff'rings and Smart, Deserves to be reckon'd an Ass. The Wretch who sits watching his ill-gotten Pelf, And wishes to add to the Mass; Whate'er the Curmudgeon may think of himself, Deserves to be reckon'd an Ass. The Beau, who so smart with his well-powder'd Hair, An Angel beholds in his Glass, And thinks with Grimace to subdue all the Fair, May justly be reckon'd an Ass. The Merchant from Climate to Climate will roam, Of Cræsus the Wealth to surpass; And oft' while he's wand'ring, my Lady at home Claps the Horns of an Ox on an Ass. The Lawyer'so grave when he puts in his Plea, With Forehead well cover'd with Brass; Tho' he talk to no purpose he pockets your Fee; There you, my good Friend, are the Ass. The formal Physician, who knows ev'ry Ill, Shall last be produc'd in this Class; The sick man awhile may confide in his Skill, But Death proves the Doctor an Ass. Then let us Companions be jovial and gay, By turns take the Bottle and Lass; For he who his Pleasures puts off for a Day, Deserves to be reckon'd an Ass. [Exeunt. SCENE IV. Pastora, Palæmon. Palæmon. Indeed, Pastora, spite of all you say, I must this very Instant haste away; You think my Flame's extinguish'd quite, I know; And other Objects strike me—may be so. Pastora. Perfidious Boy! I know 'tis Sylvia's Charms That tear Palæmon from these circling Arms; But soon perhaps some other wiser Youth, May learn to set due Value on my Truth. Palæmon. Whoe'er the Youth may be, who claims my Part, He has my full Consent with all my Heart. AIR. Farewel, my Pastora, no longer your Swain, Quite sick of his Bondage, can suffer his Chain: Nay arm not your Brow with such haughty Disdain, My Heart leaps with Joy to be free once again. Sing tol derol. I'll live like the Birds, those sweet Tenants of May, Who always are sportful, who always are gay: How sweetly their Sonnets they carol all Day; Their Love is but Frolick, their Courtship but Play. Sing tol derol. If struck by a Beauty they ne'er saw before, In chirping soft Notes they her Pity implore; She yields to Intreaty; and when the Fit's o'er, 'Tis an Hundred to Ten that they never meet more. Sing tol derol. [Exit. Pastora. Insulting Boy! I'll tear him from my Mind; Ah! wou'd my Fortune could a Husband find: And just in time young Damon comes this Way, A handsom Youth he is, and rich they say. SCENE V. Damon, Pastora. Damon. Vouchsafe, sweet Maid, to hear a wretched Swain, Who, lost in Wonder, hugs the pleasing Chain; For you in Sighs I hail the rising Day; To you at Eve I sing the love-sick Lay; Then take, my Love, my Homage as your Due. The Devil's in her if all this won't do. [Aside. AIR. Damon. Beauteous Maid, reward my Passion; Crown with Hopes my fierce Desire. She. Soon to yield is not the Fashion, Maids some Courtship should require. He. Tedious Courtship damps all Pleasure, By this melting Kiss I swear. She. Now you're rude beyond all Measure; Kiss again, Sir, if you dare. He. Where yon Bank the Willows cover, We will shun the Heat of Day: She. You're in too much haste, young Lover, For the Priest must lead the Way. He. We can do without him better, None but Fools would marry now; Priest the free-born Mind would fetter, We will meet without a Vow. Pastora. Away, false Man, no more your Tale I'll hear; The black Attempt offends my rigid Ear: The Joys I taste shall be without a Crime; I'll ne'er be fool'd by Man—a second Time. [Aside. Damon. If so, farewel, I'll other Regions try; My gen'rous Mind disdains the slavish Tye; Lovers, like Warriors, oft Repulses meet; Yet both undaunted their Attacks repeat. AIR. He. From Flow'r to Flow'r, his Joy to change, Flits yonder wanton Bee; From Fair to Fair thus will I range, And I'll be ever free. She. Yon little Birds attentive view, That hop from Tree to Tree; I'll copy them, I'll copy you, For I'll be ever free. He. Whilst Tempests shake the nodding Grove, And plough the foaming Sea; While Hawks pursue the flying Dove, So long will I be free. She. 'Till on the Bush the Lily grows, 'Till Flocks forsake the Lea, 'Till from the Rock bursts forth the Rose, You'll find me blith and free. Both. Then let's divide to East and West, Since we shall ne'er agree; And try who keeps their Promise best, And who's the longest free. [Exeunt.</field>
+      <field name="fulltext">PART II. SCENE I. Laura. AIR. What Med'cine can soften the Bosom's keen Smart? What Lethe can banish the Pain? What Cure can be met with to sooth the fond Heart, That's broke by a faithless young Swain! In hopes to forget him how vainly I try, The Sports of the Wake and the Green; When Colin is dancing, I say with a Sigh, 'Twas here first my Damon was seen. When to the pale Moon the soft Nightingales moan In Accents so piercing and clear; You sing not so sweetly, I cry with a Groan, As when my dear Damon was here. A Garland of Willow my Temples shall shade, And pluck it, ye Nymphs, from yon Grove; For there to her Cost was poor Laura betray'd, And Damon pretended to love. [Exit. SCENE II. Damon. A charming Consort wou'd have fill'd these Arms, Had I but yielded to Pastora's Charms; How bless'd would then have been my future Life, Palæmon's Mistress turn'd to Damon's Wife; Yet in her Coin the wily Nymph I'll pay, And all her Schemes of Vanity betray. Then haste to Laura, that much injur'd Fair, And snatch her from the Jaws of black Despair. [Exit. SCENE III. Pastora. AIR. In vain I try my ev'ry Art, Nor can I fix a single Heart, Yet I'm not old or ugly; Let me consult my faithful Glass, A Face much worse than this might pass, Methinks I look full smuggly. Yet, bless'd with all these pow'rful Charms, The young Palæmon fled these Arms, That wild unthinking Rover; Hope, silly Maids, as soon to bind The rolling Stream, the flying Wind, As fix a rambling Lover. But hamper'd in the Marriage Noose, In vain they struggle to get loose, And make a mighty Riot; Like Madmen how they rave, and stare, Awhile they shake their Chains and swear, And then lie down in quiet. SCENE IV. To her Damon. Once more I come to hear what you decree; Yet ere you pass your Sentence, list to me. AIR. Declare, my pretty Maid, Must my fond Suit miscarry? With you I'll toy, I'll kiss and play, But hang me if I marry. Then speak your mind at once, Nor let me longer tarry; With you I'll toy, I'll kiss and play, But hang me if I marry. Tho' Charms and Wit assail, The Stroke I well can parry; I love to kiss, and toy and play, But do not choose to marry. Young Molly of the Dale Makes a mere Slave of Harry; Because when they had toy'd and kiss'd, The foolish Swain wou'd marry. These fix'd Resolves, my Dear, I to the Grave will carry; With you I'll toy, and kiss and play, But hang me if I marry. Pastora. Dare you avow, false Youth, your lawless Flame! Think not to tempt me to a Deed of Shame. Damon. Say, have you ask'd your never-conquer'd Heart, How many Years it may resist the Dart? For long Attacks the strongest Fortress waste, And Troy stood ten Years Siege, but fell at last. Pastora. Vainly you hope my virtuous Heart to move; I know your vile Intent, and scorn your Love. Damon. Turn, turn your Eyes to yonder conscious Shade; There a young Shepherd met a haughty Maid; The Pines that hang o'er yonder dusky Dell, The babbling Pines a Tale of Scandal tell; And tattling Willows to the Plains proclaim, Palæmon was the happy Lover's Name. Ha! do you start—Pastora, fam'd for Truth And rigid Virtue, clasp'd a blooming Youth; And laying ev'ry sterner Thought aside, Indulg'd her Pleasure, and forgot her Pride. Pastora. Disastrous Fate! how could he hear the Tale? [Aside. You've lost all Hopes, and now begin to rail. SCENE V. To them Laura. AIR. How unhappy's the Nymph. Who weeps to the Wind, And dotes with Despair On a Swain that's unkind. Damon. I see the Fates determine I shall wed; Two Nymphs are ready to partake my Bed; Which shall I choose? Pastora's wond'rous fair, And Laura sparkles like the Morning-Star. Pastora, aside. Come, there are Hopes, now, Venus, lend each Grace, And with bewitching Beauties arm my Face. Damon. AIR. Three Goddesses standing together, Thus puzzled young Paris one day: Can I judge the Value of either, Where both bear so equal a Sway? Pastora. Consider my Wit and Condition, Consider my Person likewise; I never was us'd to petition, But pr'ythee make use of your Eyes. Laura. No Merit I plead but my Passion, 'Twere needless to mention your Vow; Reflect with a little Compassion, On what this poor Bosom feels now. Damon. Some Genius direct me, or Demon, Or else I may chance to choose wrong— [After some Pause. You're Part of the Goods of Palæmon, I give you to whom you belong. Pastora, aside. Misjudging Wretch, with Rage my Bosom glows; Can he prefer a Nettle to a Rose? AIR. I know that my Person is charming, Beyond what a Clown can discover: That Dowdy your Senses alarming, Proves what a blind Thing is a Lover. I'll quit the dull Plains for the City, Where Beauty is follow'd by Merit; Your Taste, simple Damon, I pity; Your Wit, who would wish to inherit? Perhaps you may think you perplex me, And that I my Anger wou'd smother; The Loss of one Lover can't vex me, My Charms will procure me another. I ne'er was more pleas'd, I assure you; How odious they look, I can't bear 'em: I wish you much joy of your Fury, My Rage into pieces could tear them. [Exit. SCENE the last. Damon. To thee, kind Nymph, as to offended Heav'n, I own my Faults, and sue to be forgiv'n; Then, gentle Laura, clear my past Offence, Repentance is ally'd to Innocence. Laura. Think not a rigid Judge your Faults arraigns, My tender Bosom feels for all your Pains; In those sad Hours, when to the secret Grove I told my Pangs of inauspicious Love, My only Pray'r was once again to see The lovely Author of my Misery! Again to clasp him to my beating Breast, The Gods have heard my Vows, and Laura's blest. AIR. Damon. Contented all Day, I will sit at your Side, Where Poplars far stretching o'er-arch the cool Tide, And while the clear River runs purling along, The Thrush and the Linnet contend in their Song. Laura. While you are but by me no Danger I fear, Ye Lambs rest in Safety, my Damon is near; Bound on, ye blith Kids, now your Gambols may please, For my Shepherd is kind, and my Heart is at Ease. Damon. Ye Virgins of Britain, bright Rivals of Day, The Wish of each Heart, and the Theme of each Lay; Ne'er yield to the Swain, till he make you a Wife, For he who loves truly, will take you for Life. Laura. Ye Youths, who fear nought but the Frowns of the Fair, 'Tis yours to relieve, not to add to their Care; Then scorn to their Ruin Assistance to lend, Nor betray the sweet Creatures you're born to defend. Both. For their Honour and Faith be our Virgins renown'd; Nor false to his Vows one young Shepherd be found; Be their Moments all guided by Virtue and Truth, To preserve in their Age what they gain'd in their Youth. The END.</field>
+   </doc>
+</add>

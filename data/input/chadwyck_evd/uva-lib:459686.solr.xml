@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Kegan Paul, Trench, Trübner &amp; Co.</field>
+      <field name="author_facet">Kegan Paul, Trench, Trübner &amp; Co.</field>
+      <field name="author_sort_facet">kegan paul trench trbner  co</field>
+      <field name="author_text">Kegan Paul, Trench, Trübner &amp; Co.</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1890's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.1057.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1897</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459686</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Lazarus</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Lazarus</field>
+      <field name="title_facet">lazarus</field>
+      <field name="title_sort_facet">lazarus</field>
+      <field name="title_text">Lazarus</field>
+      <field name="year_display">1897</field>
+      <field name="year_facet">1897</field>
+      <field name="year_multisort_i">1897</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459686&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459686&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Lazarus&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;lazarus&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1897&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1897&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Lazarus&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Kegan Paul, Trench, Trübner &amp;amp; Co.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1897&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873609-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv11057&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Lazarus&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 21 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries, introductory and editorial matter including introduction and notes omitted.&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Dedication included with The Creation&lt;lb/&gt;Source texts incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Copyright (c) 1995 Boydell &amp;amp; Brewer Ltd. This text may not be reproduced, except for fair dealing purposes, without the express permission of Chadwyck-Healey and the copyright holder.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Lazarus.</field>
+      <field name="desc_meta_file_display">Genre: English mystery and miracle plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1450 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1390–1410 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">[Lazarus] Incipit Lazarus. Square brackets represent sections of text unclear or absent in the original and supplied by the current editor</field>
+      <field name="fulltext">[Dramatis Personae. Jesus. Petrus. Johannes. Thomas. Martha. Maria. Lazarus.]</field>
+      <field name="fulltext">(1) Ihesus. Commes now, brethere, and go With me; We Will pas furth vntill Iude, To betany will we Weynde, To vyset lazare that is oure freynde. Gladly I wold we with hym speke, I tell you sothely he is seke. petrus. I red not that ye thider go, The Iues halden you for thare fo; I red ye com not in that stede, ffor if ye do then be ye dede. Iohannes. Master, trist thou [not] on the Iue, ffor many day sen thou thaym knewe, And last tyme that we were thore We wenyd till haue bene ded therfor. Thomas. When we were last in that contre, This othere day, both thou and we, We wenyd that thou ther shuld haue bene slayn; Will thou now go thider agane? Ihesus. herkyn, breder, and takys kepe; lazare oure freynde is fallyn on slepe; The way till hym now will we take, To styr that knyght and gar hym wake. petrus. Sir, me thynke it were the best To let hym slepe and take his rest; And kepe that no man com hym hend, ffor if he slepe then mon he mend. Ihesus. I say to you, With outten fayll, No kepyng may till hym availl, Ne slepe may stand hym in no stede, I say you sekerly he is dede; Therfor I say you now at last leyfe this speche and go we fast. Thomas. Sir, What so euer ye bid vs do We assent vs well ther to; I hope to god ye shall not fynde None of vs shall lefe behynde; ffor any parell that may befall Weynde we With oure master all. Martha. help me, lorde, and gif me red! lazare my broder now is dede, That was to the both lefe and dere; he had not dyed had thou bene here. Ihesus. Martha, martha, thou may be fayn, Thi brothere shall rise and lif agayn. Martha. lorde, I wote that he shall ryse And com before the good iustyce; ffor at the dredfull day of dome There mon ye kepe hym at his come, To loke What dome ye Will hym gif; Then mon he rise, then mon he lyf. Ihesus. I Warne you, both man and wyfe, That I am rysyng, and I am life; And Whoso truly trowys in me, That I was euer and ay shall be, Oone thyng I shall hym gif, Though he be dede yit shall he lif. say thou, Woman, trowys thou this? Martha. yee, for sothe, my lorde of blys, Ellys were I greatly to mysprase, ffor all is sothe-fast that thou says. Ihesus. Go tell thi sister mawdlayn That I com, ye may be fayn. [Martha goes to Mary.] Martha. Sister, lefe this sorowful bande, Oure lorde commys here at hand, And his apostyls with hym also. Maria. A, for godys luf let me go! Blissid be he that sende me grace, That I may se the in this place. lorde, mekill sorow may men se Of my sister here and me; We ar heuy as any lede, ffor our broder that thus is dede. had thou bene here and on hym sene, dede for sothe had he not bene. Ihesus. hider to you commen we ar To make you comforth of youre care, Bot loke no fayntyse ne no slawth Bryng you oute of stedfast trawthe, Then shall I hold you that I saide. lo, where haue ye his body laide? Maria. lorde, if it be thi Will, I hope be this he sauers ill, ffor it is now the ferth day gone sen he Was laide vnder yonde stone. Ihesus. I told the right now ther thou stode that thi trawth shuld ay be goode, And if thou may that fulfill All bees done right at thi will. Et lacrimatus est ihesus, dicens. (2) ffader, I pray the that thou rase lazare that was thi hyne, And bryng hym oute of his mysese And oute of hell pyne. When I the pray thou says all wayse Mi will is sich as thyne, Therfor Will we now eke his dayse, To me thou will inclyne. (3) Com furth, lazare, and stand vs by, In erth shall thou no langere ly; Take and lawse hym foote and hande, And from his throte take the bande, And the sudary take hym fro, And all that gere, and let hym go. (4) lazarus. lorde, that all thyng maide of noght, louyng be to thee, That sich Wonder here has Wroght, Gretter may none be. When I was dede to hell I soght, And thou, thrugh thi pauste, Rasid me vp and thens me broght, Behold and ye may se. (5) Ther is none so styf on stede, Ne none so prowde in prese, Ne none so dughty in his dede, Ne none so dere on deese, No kyng, no knyght, no Wight in wede, ffrom dede haue maide hym seese, Ne flesh he was wonte to fede, It shall be Wormes mese. (6) youre dede is Wormes coke, youre myrroure here ye loke, And let me be youre boke, youre sampill take by me; ffro dede you cleke in cloke, sich shall ye all be. (7) Ilkon in sich aray With dede thai shall be dight, And closid colde in clay Wheder he be kyng or knyght; ffor all his garmentes gay that semely were in sight, his flesh shall frete away With many a wofull wight. Then wofully sich wightys Shall gnawe thise gay knyghtys, Thare lunges and thare lightys, Thare harte shall frete in sonder; Thise masters most of myghtys Thus shall thai be broght vnder. (8) Vnder the erthe ye shall thus carefully then cowche; The royfe of youre hall youre nakyd nose shall towche; Nawther great ne small To you will knele ne crowche; A shete shall be youre pall sich todys shall be youre nowche; Todys shall you dere, ffeyndys will you fere, youre flesh that fare was here Thus rufully shall rote; In stede of fare colore sich bandys shall bynde youre throte. (9) youre rud that was so red youre lyre the lylly lyke, Then shall be wan as led and stynke as dog in dyke; Wormes shall in you brede as bees dos in the byke, And ees out of youre hede Thus-gate shall paddokys pyke; To pike you ar preste Many vncomly beest, Thus thai shall make a feste Of youre flesh and of youre blode. ffor you then sorows leste The moste has of youre goode. (10) youre goodys ye shall forsake If ye be neuer so lothe, And nothing With you take Bot sich a wyndyng clothe; youre Wife sorow shall slake youre chylder also both, vnnes youre mynnyng make If ye be neuer so wrothe; Thai myn you with nothyng That may be youre helpyng, Nawther in mes syngyng, Ne yit with almus dede; Therfor in youre leuyng Be wise and take good hede. (11) Take hede for you to dele Whils ye ar on life, Trust neuer freyndys frele Nawthere of childe then wife; ffor sectures ar not lele Then for youre good Will stryfe; To by youre saules hele There may no man thaym shrife. To shrife no man thaym may, After youre endyng day, youre saull for to glad; youre sectures will swere nay, And say ye aght more then ye had. (12) Amende the, man, Whils thou may, let neuer no myrthe fordo thi mynde; Thynke thou on the dredefull day When god shall deme all mankynde. Thynke thou farys as dothe the wynde; This warlde is wast &amp; will away; Man, haue this in thi mynde, And amende the Whils that thou may. (13) Amende the, man, whils thou art here, Agane thou go an othere gate; When thou art dede and laide on bere, Wyt thou well thou bees to late; ffor if all the goode that euer thou gate Were delt for the after thi day, In heuen it wolde not mende thi state, fforthi amende the Whils thou may. (14) If thou be right ryall in rente, As is the stede standyng in stall, In thi harte knowe and thynke That thai ar goddys goodys all. he myght haue maide the poore and small As he that beggys fro day to day; Wit thou well acountys gif thou shall, Therfore amende the whils thou may. (15) And if I myght with you dwell To tell you all my tyme, ffull mekill cowthe I tell That I haue harde and sene, Of many a great meruell, sich as ye wolde not wene, In the paynes of hell There as I haue bene. (16) Bene I haue in wo, Therfor kepe you ther fro; Whilst ye lif do so If ye will dwell with hym That can gar you thus go, And hele you lith and lym. (17) he is a lorde of grace, Vmthynke you in this case, And pray hym, full of myght, he kepe you in this place And haue you in his sight. Amen. Explicit Lazarus.</field>
+   </doc>
+</add>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Walter Lippmann</field>
+      <field name="author_facet">Walter Lippmann</field>
+      <field name="author_sort_facet">walter lippmann</field>
+      <field name="author_text">Walter Lippmann</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1910's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/LipOpen.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">December 1910</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476154</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">An Open Mind: William James</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">An Open Mind: William James</field>
+      <field name="title_facet">open mind william james</field>
+      <field name="title_sort_facet">open mind william james</field>
+      <field name="title_text">An Open Mind: William James</field>
+      <field name="year_display">December 1910</field>
+      <field name="year_facet">1910-12</field>
+      <field name="year_multisort_i">1910</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476154&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476154&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Walter Lippmann&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;walter lippmann&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;An Open Mind: William James&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;open mind william james&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;December 1910&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1910-12&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Walter Lippmann&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="Editor"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;An Open Mind: William James&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1910&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York City, Spring and Macdougal Streets&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;The Ridgway Company Publishers&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;December 1910&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="callNo"&gt;Print copy consulted: UVa library, call no.: AP 2.E9&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;pages 800-801&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;An Open Mind: William James&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1997&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1997 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 12 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">AN OPEN MIND: WILLIAM JAMES By WALTER LIPPMANN WITHIN a week of the death of Professor William James of Harvard University, the newspapers had it that Mr. M. S. Ayer of Boston had received a message from his spirit. This news item provoked the ridicule of the people who don't believe in ghosts, but the joke was on Mr. Ayer of Boston. When, however, it was reported that Professor James himself had agreed to communicate with this world, if he could, and, in order to test the reports, had left a sealed message to be opened at a certain definite time after his death, the incredulous gasped at the professor's amazing "credulity." William James wasn't "credulous." He was simply open-minded. Maybe the soul of man is immortal. The professors couldn't prove it wasn't, so James was willing to open his mind to evidence. He was willing to hunt for evidence, and to be convinced by it. And in that he was simply keeping America's promise: he was actually doing what we, as a nation, proclaimed that we would do. He was tolerant; he was willing to listen to what seems preposterous, and to consider what might, though queer, be true. And he showed that this democratic attitude of mind is every bit as fruitful as the aristocratic determination to ignore new and strange-looking ideas. James was a democrat. He gave all men and all creeds, any idea, any theory, any superstition, a respectful hearing. His interest in spiritualism is merely one illustration in a thousand. The hard scientists knew it was a hoax because they couldn't explain it, and the sentimentalists knew it was the truth because they wished it to be: but James wanted to know the facts. So he went to Mrs. Piper, and heard her out. Nay, he listened to Palladino and to Munsterberg. They pretended to know, and maybe they did. And last year, when Frank Harris published his book on Shakespeare, to show that the "unknown" life and character of the poet could be drawn from his works, the other professors laughed the theory out of court. James went to Shakespeare and read the plays all over again to test the Harris theory. Maybe the poet could be known by his works. The fact that the theory was revolutionary did not alter the possibility that it might be true. So with religion. A scientist, living in an age when science is dogmatically irreligious, he turned from its cocksure reasoning to ask for the facts. He went to the lives of the saints! Not to Herbert Spencer, you see. When he wanted to study the religious experience he went to the people who had had it, to Santa Theresa and Mrs. Eddy. They might know something the professors didn't know. And again: at the age of sixty-five, with the whole of New England's individualism behind him, he asked about socialism. When he met H. G. Wells, he listened to the socialist, and, as it happens, was converted. So he said so. James was no more afraid of a new political theory than he was of ghosts, and he was no more afraid of proclaiming a new theory, or an old one, than he was of being a ghost. I think he would have listened with an open mind to the devil's account of heaven, and I'm sure he would have heard him out on hell. James knew that he didn't know. He never acted upon the notion that the truth was his store of wisdom. Perhaps that is why he kept on rummaging about in other people's stores, and commending their goods. He seemed to take a delight in writing introductions, and appreciations of new books, and in going out of his way to listen to a young doctor of philosophy, or an undergraduate discussion of pragmatism, or the poetry of an obscure mystic. And, optimist that he was, by virtue of his unceasing freshness of interest, there is nothing more open-minded in our literature than his chivalrous respect for the pessimism of Francis Thompson. "Speak not of comfort where no comfort is, Speak not at all: can words make foul things fair? Our life's a cheat, our death a black abyss: Hush and be mute, envisaging despair." He felt with all sorts of men. He understood their demand for immediate answers to the great speculative questions of life. God, freedom, immortality, nature as moral or non-moral—these were for him not matters of idle scientific wonder, but of urgent need: The scientific demand that men should wait "till doomsday, or till such time as our senses and intellect working together may have raked in evidence enough" for answers to these questions, is, says James, "the queerest idol ever manufactured in the philosophic cave." We cannot wait for a final solution. Our daily life is full of choices that we cannot dodge, and some guide we simply must have. There can be no loitering at the crossroads. We are busy. We must choose, whether we will it or not, and where all is doubt, who shall refuse us the right to believe what seems most adapted to our needs? Not know, you understand, but believe. That is the famous position taken in "The Will to Believe." As James has once pointed out, its real title should have been "The Right to Believe." No doctrine in James's thinking has been more persistently misunderstood. Yet it rests on the simplest of insights: that atheism and theism are both dogmas, for there is scientific evidence for neither; that to withhold judgment is really to make a judgment, and act as if God didn't exist; that until the evidence is complete men have a right to believe what they most need. James has acted upon that right. He has made a picture compounded of the insights of feeling, the elaborations of reason, and the daily requirements of men. It is a huge guess, if you like, to be verified only at the end of the world. But it has made many men at home in the universe. And this democrat understood the need of feeling at home in the world, and he understood also that the aristocrats are not at home here. (Perhaps that's why they are aristocrats.) "The luxurious classes," he says, "are blind to man's real relation to the globe he lives on, and to the permanently hard and solid foundations of his higher life." And he prescribed for them—for their culture, I mean—this treatment: "To coal and iron mines, to freight trains, to fishing fleets in December, to dishwashing, clotheswashing and windowwashing, to road-building and tunnel-making, to foundries and stoke-holes, and to the frames of skyscrapers, would our gilded youths be drafted off according to their choice, to get the childishness knocked out of them, and to come back into society with healthier sympathies and soberer ideas." This, and thoughts like this, and kindnesses like this, put James not alone among the democrats of this uncertain world, but among the poets also; among the poetic philosophers who, like Goethe, Schopenhauer, and Whitman, have a sense of the pace of things. Sunlight and storm-cloud, the subdued busyness of outdoors, the rumble of cities, the mud of life's beginning and the heaven of its hopes, stain his pages with the glad, sweaty sense of life itself. It is an encouraging thought that America should have produced perhaps the most tolerant man of our generation. It is a stimulating thought that he was a man whose tolerance never meant the kind of timidity which refuses to take a stand "because there is so much to be said on both sides." As every one knows, he fought hard for his ideas, because he believed in them, and because he wanted others to believe in them. The propagandist was strong in William James. He wished to give as well as receive. And he listened for truth from anybody, and from anywhere, and in any form. He listened for it from Emma Goldman, the pope, or a sophomore; preached from a pulpit, a throne, or a soap-box; in the language of science, in slang, in fine rhetoric, or in the talk of a ward boss. And he told his conclusions. He told them, too, without the expert's arrogance toward the man in the street, and without the dainty and finicky horror of being popular and journalistic. He would quote Mr. Dooley on God to make himself understood among men. He would have heard God gladly in the overalls of a carpenter, even though He came to preach that the soul of man is immortal. So open-minded was he; so very much of a democrat.</field>
+   </doc>
+</add>

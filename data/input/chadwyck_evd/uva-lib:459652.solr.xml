@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">The Shakespeare Society</field>
+      <field name="author_facet">The Shakespeare Society</field>
+      <field name="author_sort_facet">the shakespeare society</field>
+      <field name="author_text">The Shakespeare Society</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1840's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.1023.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1848</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459652</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Mask of the Four Seasons</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Mask of the Four Seasons</field>
+      <field name="title_facet">mask of the four seasons</field>
+      <field name="title_sort_facet">mask of the four seasons</field>
+      <field name="title_text">The Mask of the Four Seasons</field>
+      <field name="year_display">1848</field>
+      <field name="year_facet">1848</field>
+      <field name="year_multisort_i">1848</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459652&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459652&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Mask of the Four Seasons&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;mask of the four seasons&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1848&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1848&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Mask of the Four Seasons&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;The Shakespeare Society&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1848&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873721-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv11023&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Mask of the Four Seasons&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 17 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;University Plays.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only verse drama included&lt;lb/&gt;The following plays have been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The mask of the four seasons.</field>
+      <field name="desc_meta_file_display">Genre: Entertainment.</field>
+      <field name="desc_meta_file_display">Date first published: 1848.</field>
+      <field name="desc_meta_file_display">Date first performed: 1634 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">MASK OF THE FOUR SEASONS.</field>
+      <field name="fulltext">Genius, or the Countryes better Angell, wrapt in amazement at some happy changes he observes in his Soyle and Clymate, begins the entertainment wt h his first Entry. Genius. What mean these præparations in ye ayre, proclaimeing some great welcome? all soe fayre, the dogstar bites not! and the parching heat that lately chapt our feilds, sweet showres, that beat on the earth's teeming bosome, have allay'd: the earth in robes of a new Spring arayde, seems proude of some late gueste: the days are clear as had tyme, from all seasons of ye year, extracted forth theyr quintessence. In mee, this countryes Genius, the sweet harmony of all the elements (that have conspir'd to blesse our soyle and clymate) hath inspir'd a fresher soule. But soft! what doo I see? Beuty join'd hand in hand with Majesty? Mars and ye Queen of Love? Sure, tis not they. I see noe wanton glances, but a raye like bright Diana's smiles; and in his face a grave aspect, like Jove's, taking his place amidst heavns counsellors: nor are those twayn yonge Cupids: they have eys, and I in vayne guesse at yon fresher beauty then ye Spring, or smooth-fac't Hebe. Let sweet Orpheus sing unto his well tun'd lyre, yt they may see they're truly welcome here, whoe ere they bee. Orpheus enters wt h this Song. Canst thou in judgment bee soe slow, as those ritch beautyes not to know? look on those eys, and sure theyr shine will give more clearnes unto thine. These, the fayr causes of our mirth, shall in esteem our barren earth equall with theyrs, whose lofty eys, our higher mountaines heer despise. See how the heavnes smile on our land, and plenty stretch her opened hand, enritching us wt h hearts content, civility and government. Wee in our country, that in us, both happy are, and prosperous; and of our youth noe more made poore, shall find ye Court ev'n at our dore. Genius. I'me sung into my sences, but nought might, like Majesty or Beuty, dazle sight: bee that my just excuse. Now let mee show what welcome for my country's sake I owe to these her blessings. Backward shall ye year runne in his course; ye Seasons shall apear each wt h theyr proper dantyes; Winter shall, as for his age preferd, bring first of all his full, though grosser dishes; let them be th'expression of our entertainement, free, though not soe fine. Yet thus much lett mee say, there is noe danger in them, but you may feareles tast where you please, they're all our own; noe dish whose tast or dressing is unknown unto our natives: neighbouring mountains yeald us goats, and in ye next adjoining feilds pasture our muttons: if there bee a buck turnd into venison, that was likewise struck on our owne lawnes: of whatsoere is more, wee serve in noe strange dish, but [our] owne store. This speech ended, Winter ushers in ye first course, wc h having ordered upon ye table, turnes to ye Company. Winter. Not to detaine you longer from your fare, to tell you more then welcome, welcome y'are: welcome, with all my hart. More can't be spoak; a fuller word then welcome is would choak. [An old man: if you hear more, hear grace. The first Course taken away, Orpheus ushers Autumne, with the second: hee presents a bakemeat in one hand, and wyne in ye other, being ye fruits of Ceres and Bacchus, properly belonging to Autumne, in whose name Orpheus sings. Your beautyes, ladyes, far more bright and sweet then Phœbus clearest light, have sooner far fetcht Autumne heer then all his smiles throughout ye year. Though wt h his rayes and fayrest days, and wt h serenest view, hee courts mee heer, yet I appear, but to attend on you. And, being come, I hold it scorne to welcome you wt h meer bare corne; here's Ceres in a new attire, and ripned wt h a second fire. Cut up and find how shee is lind; for to entertaine you here's Bacchus blood, to digest your food; why then, doe not refraine you. [Exeunt. The second Course taken away, Orpheus enters again, bringing in Summer, and the frutes of her Season, wt h this Song. Summer was offring sacrifice unto ye Sunne, but from your eys perceiving far a clearer light, ladyes, hee gives them to your sight; and ritcher paiment doth hee find from your breaths then the Southern wind. As Autumnes clusters ripned bee by neighbouring grapes maturity, soe from your lips his cherryes, heer, take sweetnes, and theyr colour clear. Noe marvell, then, yt as your due they thus present themselves to you: all other fruites his season yealde[s] are yours, himself, his trees, his feilds. [Exeunt. The last of Orpheus songs is in ye person of ye Spring, whoe brings in ye bason and ewer. The nightingale, ye larke, ye thrush doe sing, and all to welcome in ye Spring. The warme blood in ye veynes doth hop about and dance, and new life's in evry thing. The yong men they doe likewise court theyr lovers, whilst them theyr lusty warme blood mooves; but unto you ye Spring doth [raise] her voyce and sing, and her self your lover prooves. Shee not presents you heer wt h simple flowres, but with sweet distilled showres: theyr very quintessence, most pleasing to ye sence, extracted from them forth shee powres. Add sweet to sweet, and wash your lilly hands: The Spring shall be at your commands. Nought could have brought back heer ye Spring tide [of] ye year, Save you, fayr blessings of our land, To whom thus wt h a wish shee bids Adieu. Spring, youth, and beuty, still attend on you. [Exeunt. After supper is ended, and ye tables taken away, Enters Genius. Heres not enough of mirth. I warne t'appear Once more the Seasons of ye year. Let musique strike, and you shall see old Winters full of jollity: Autumne is Bacchus darling, and soe joyd, perchance hee can not stand: the other livelyer Seasons shall, show you theyr pastimes festivall, how usually they doe themselves bestirre on May day, and the feast of Midsommer. This Speech ended, enter Winter. Winter is old, yet would he fain this fayr assembly entertain to his best powre; but should he try, he feares it were not worth your ey. His cold stiffe limbs are most unfit, although his heart be merry yet, his long nights jovially to spend with cups and tales to pleas his friend. Let not your expectations runne further; his dancing days are done: yet if hee soe may satisfie, by some quicke yongster to supply his place, hee Christmas Gamboles pickes, to entertain you wt h his trickes. 1. Then enters Gamboles, dancing a single Anticke wt h a forme. 2. After him, Autumne brings in his Anticke of drunkards. 3. Summer followes, wt h a country dance of heymakers or reapers. 4. The last is a morrice dance, brought in by ye Spring.</field>
+      <field name="fulltext">These ended, Enter Genius, wt h Epilogue. If these our pastimes pleas, I've yet one more that freely doth present you all her store: Night gives her howres; part them, as you think best, between your recreation and your rest. FINIS.</field>
+   </doc>
+</add>

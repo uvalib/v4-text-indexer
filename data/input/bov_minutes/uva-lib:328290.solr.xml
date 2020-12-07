@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1920's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2006_09/uvaGenText/tei/bov_19280113.xml</field>
+      <field name="date_indexed_facet">201909240346</field>
+      <field name="date_text">January 13, 1928</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:328290</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. January 13, 1928</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  January 13, 1928</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  January 13, 1928</field>
+      <field name="year_display">January 13, 1928</field>
+      <field name="year_facet">1928-01-13</field>
+      <field name="year_multisort_i">1928</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:328290&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:328290&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. January 13, 1928&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;January 13, 1928&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1928-01-13&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;January 13, 1928&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Public minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;0 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information. Access to minutes containing salary information will be granted only under the procedures of the Virginia Freedom of Information Act (Code of Virginia-2.1-340 ff.) or if permission is granted by the Secretary of the Board. Researchers interested in obtaining access to these records should direct a request in writing to the Office of the Legal Adviser, Madison Hall, University of Virginia. These public minutes have had salary information deleted and bear no restrictions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1928-01-13&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 14 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">January 13, 1928. A called meeting of the Rector and Visitors was held on this date at 8 o'clock P. M. with Visitors Buchanan, Hall, Hart, Rinehart, Hull, Williams and McIntire, the Rector, C. Harding Walker, and President Alderman present. The minutes of the meeting of November 11, which had been copied and mailed to the members were approved. The President made the following announcements: Registration for the winter session, 2,169. Gifts: From Mr. Robert C. Taylor, of New York City, for the purchase and installation of a clock, to be placed on the west end of the Mechanical Laboratory, facing the Law Building $1,000 From Alumni and other friends of the Law School, for carrying on the work of the Virginia Law Review 1,250 From Mrs. William Corcoran Eustin, to the Virginia Quarterly Review 900 From Mrs. E. B. Ball, Muncie, Indiana, to help some worthy student, or to be used in such other way as may be deemed best by the University 50 From Mrs. Lucy Harper Hall, of Chicago, a set of "America", consisting of twelve volumes, to perpetuate and advance American Ideals, and to foster a higher regard and reverence for the traditions of the Republic From former students and faculty colleagues, a portrait of Dr. Theodore Hough, late Dean of our Medical School, The portrait was done by Mr. Alpheus Cole, of New York City. The total cost, including a frame and insurance during shipment, is 956 Bequest of Mrs. Emily H. Thomas to Pediatric work of the University of Virginia and to be used in meeting a note given by Dr. Royster in part payment of the Pediatric Building 1,000 The President was requested to prepare and forward resolutions of thanks on behalf of the Board for the gifts. Upon the recommendation of the President, the following leaves of absence, elections to the faculty and special appropriations were made: Leaves of Absence: RESOLVED, by the Rector and Visitors, that a leave of absence, with salary, less $1300 paid substitutes, be granted Dr. Thomas Fitshugh, of the Latin Department, for the remainder of this session, to undergo medical treatment in Philadelphia. RESOLVED, by the Rector and Visitors, that a leave of absence, with salary, be granted Dr. James C. Bardin, of the School of Romance Languages, absence to begin March 10, 1928, and continue through the remainder of the session, being thus limited to the third term. A satisfactory substitute will be provided and paid for by Dr. Bardin. Dr. Bardin has been detailed by the War Department for membership on the General Staff, for a period of six months. Election to the Faculty: RESOLVED, by the Rector and Visitors, that Mr. Garrard Glenn be, and is hereby, elected Professor in the Department of Law, at a salary of $7,000. Special Appropriations: An appropriation for the library for the following purposes: Cataloguing $1,290 Keeping Medical Library open two extra hours 100 Miss Dinwiddie, for July and August 250 TOTAL $ 1,640 An appropriation for plumbing for the proposed extension to the Leander McCormick Observatory, and painting the present building 500 An appropriation of $250 additional to be placed at the disposal of the Research Committee, to meet growing demands in connection with the publication of the bulletin 250 An appropriation for an additional Laboratory Assistant in the Chemistry Department 200 An appropriation for the teaching relief, at St. Anne's, of Mrs. Mary Jeffcott Hamblin, Acting Adviser to Women at the University, in order to permit her to have morning office hours at the University, as well as afternoon hours 200 Total $2,790 Upon the recommendation of the Building Committee the appointment of an architect for the proposed dormitories was deferred until the April meeting of the Board. The Buildings and Grounds Committee reported that several fraternities had filed applications for building sites on the grounds of the University, but, in view of the necessity of securing a suitable location for the proposed dormitories, it was deemed expedient to defer making allocations to them at this time and also to withdraw those previously made until further action, whereupon the following motion, duly made and seconded, was adopted: RESOLVED, That the applications for fraternity house sites be deferred until a survey for dormitories can be made, and that those sites heretofore granted be withdrawn until the dormitory sites are selected. The following motion, duly made and seconded, was adopted: RESOLVED, That it is the sense of this Board that when an architect is selected for the dormitories, a landscape architect be associated with him for the purpose of presenting to the Board a plan for future location of dormitories and fraternity houses. On motion, duly made and seconded, the following resolution creating the office of Business manager was adopted: RESOLVED, That the position of Business Manager of the University be and is hereby created. The President is instructed to bring to the attention of the Rector and Visitors the name or names of suitable persons for this position, with recommendation of such salary as may be required for this post. This Business Manager shall have general charge of all business affairs of the University, subject to the authority of the Rector and Visitors and of the President. It is desired that this office shall become operative beginning with the session of 1928-29. The Hopkins Society of the Sigma Nu Fraternity made application for a loan of $21,000 on its chapter house now being erected on Carr's Hill. The loan was granted in the following motion, duly made and seconded, being adopted: RESOLVED, That the Rector and Visitors approve the application of the Hopkins Society of the Sigma Nu Fraternity for a loan on its chapter house, now in course of construction on Carr's Hill, not to exceed $21,000, and in no case over 50% of the cost of the house, and the Finance Committee is requested to make said loan from funds available from the endowment funds, on terms and conditions agreeable to said Committee. The General Athletic Association made application for a site on the property of the University located on Towles Road on which to erect a football stadium, and the following action was taken thereon, the motion being duly made and seconded, was adopted: The Board heartily approves of the proposed football stadium to be located on the grounds of the University, but the exact location and plans cannot be approved by this Board without reference to the proposed Committee on sites for dormitories and fraternity houses. On motion the meeting then adjourned. [Signed] C. Harding Walker Rector [Signed] E. I. Carruthers Secretary</field>
+   </doc>
+</add>

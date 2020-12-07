@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Pope, Walter</field>
+      <field name="author_facet">Pope, Walter</field>
+      <field name="author_sort_facet">pope walter</field>
+      <field name="author_text">Pope, Walter</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.0183.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1697</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464785</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">The Wish ; Written by Dr. Pope</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">The Wish ; Written by Dr. Pope</field>
+      <field name="title_facet">wish</field>
+      <field name="title_sort_facet">wish</field>
+      <field name="title_text">The Wish ; Written by Dr. Pope</field>
+      <field name="year_display">1697</field>
+      <field name="year_facet">1697</field>
+      <field name="year_multisort_i">1697</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464785&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464785&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Pope, Walter&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;pope walter&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Wish ; Written by Dr. Pope&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;wish&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1697&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1697&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Pope, Walter&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Wish&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Written by Dr. Pope&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1697&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp3155&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;26 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Wish&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Written by Dr. Pope&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 16 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries, introductory matter and notes omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Hæc satis est orare Jovem. Hor.</field>
+      <field name="fulltext">? nil Divitiæ poterint regales addere majus. Id.</field>
+      <field name="fulltext">To the Right Honourable CHARLES Lord Clifford, Grandson and Heir to Richard E. of Burlington and Cork, AND One of the Gentlemen of His Majesty's Bed—Chamber.</field>
+      <field name="fulltext">THE PROLOGUE TO THE WISH; Being a Parafrase on these Verses of Horace. Quid dedicatum poscit Apollinem Vates, quid orat? de patera novum Fundens Liquorem? Hor. Ode 31. Lib. 1. Me quoties reficit gelidus Digentia Rivus, Quem Mandela bibit, Rugosus frigore Pagus. Quid sentire putas? Quid credis Amice precari? Id. Ep. 18. Lib. 1. When Poets offering at Apollo's Shrine, Out of the sacred Goblets pour new Wine, What do they wish? what do they then desire? When I'm at Epsom, or on Bansted-Down, Free from the Wine, and Smoak, and Noise o'th' Town, When I those Waters drink, and breath that Air, What are my Thoughts? what's my continual Prayer? THE WISH. I If I live to be Old, for I find I go down, Let this be my Fate. In a Country Town, May I have a warm House, with a Stone at the Gate, And a cleanly young Girl, to rub my bald Pate. CHORUS. May I govern my Passion with an absolute Sway, And grow Wiser, and Better as my Strength wears away, Without Gout, or Stone, by a gentle decay. II May my little House stand on the Side of a Hill, With an easy Descent, to a Mead, and a Mill, That when I've a mind, I may hear my Boy read, In the Mill, if it rains, if it's dry, in the Mead. May I govern, &amp;c. III Near a shady Grove, and a murmuring Brook, With the Ocean at Distance, whereupon I may look, With a spacious Plain, without Hedge or Stile, And an easy Pad-Nag, to ride out a Mile. May I govern, &amp;c. IV With Horace and Petrarch, and Two or Three more Of the best Wits that reign'd in the Ages before. With roast Mutton, rather than Uen'son or Teal, And clean, tho' course Linnen at every Meal. May I govern, &amp;c. V With a Pudding on Sundays, with stout humming Liquor, And Remnants of Latin to welcome the Uicar, With Monte-Fiascone or Burgundy Wine To drink the Kings Health as oft as I dine. VI May my Wine be Uermillion, may my Malt-drink be pale, In neither extream, or too mild or too stale. In lieu of Deserts, Unwholsome and Dear, Let Lodi or Parmisan bring up the Rear. May I govern, &amp;c. VII Nor Tory, or Wig, Observator or Trimmer May I be, nor against the Laws torrent a Swimmer May I mind what I speak, what I write, and hear read, But with matters of State ne'er trouble my Head. May I govern, &amp;c. VIII Let the Gods who dispose of every Kings Crown, Whomsoever they please, set up and pull down. Ile pay the whole Shilling impos'd on my Head, Tho I go without Claret that Night to my Bed. May I govern, &amp;c. IX I'll bleed without grumbling, tho' that Tax should appear As oft as New Moons, or Weeks in a Year, For why should I let a seditious Word fall? Since my Lands in Utopia pay nothing at all. May I govern, &amp;c. X Tho' I care not for Riches, may I not be so poor, That the Rich without shame cannot enter my Door, May they court my converse, may they take much delight, My old Stories to hear in a Winters long Night. May I govern, &amp;c. XI My small stock of Wit may I not misapply, To flatter great men be they never so high, Nor mispend the few Moments I steal from the Grave, In fawning, or cringing, like a Dog or a Slave. May I govern, &amp;c. XII May none whom I love, to so great Riches rise As to slight their Acquaintance, and their old Friends despise. So Low, or so High, may none of them be, As to move either Pity, or Envy in me. May I govern, &amp;c. XIII A Friendship I wish for, but alas tis in vain, Joves Store-House is empty and can't it supply, So firm, that no change of Times, Envy, or Gain, Or Flattr'y, or Woman, should have Pow'r to unty. May I govern, &amp;c. XIV But if Friends prove unfaithful, and Fortune a Whore, Still may I be Uirtuous, though I am Poor, My Life then, as useless, may I freely resign, When no longer I relish, true Wit, and good Wine. May I govern, &amp;c. XV To out live my Senses may it not be my Fate, To be blind, to be deaf, to know nothing at all, But rather let Death come before 'tis so late, And while there's some Sap in it, may my Tree fall. May I govern, &amp;c. XVI I hope I shall have no occasion to send For Priests, or Fysicians, till I am so near mine End That I have eat all my Bread, and drunk my last Glass, Let them come then, and set their Seals to my Pass. May I govern, &amp;c. XVII With a Courage undaunted, may I face my last Day, And when I am dead may the better sort say, In the Morning, when sober, in the Evening, when mellow' He's gone, and left not behind him his Fellow. May I govern, &amp;c. XVIII Without any Noise when I've pass'd o'r the Stage, And decently acted what part Fortune gave, And put off my Uests in a cheerful Old Age, May a few honest Fellows see me laid in my Grave. May I govern, &amp;c. VIII I care not whether under a Turf, or a Stone, With any Inscription upon it, or none, If a Thousand Years hence, Here lies W. P. Shall be read on my Tomb, what is it to me? May I govern, &amp;c. XX Yet one Wish I add, for the sake of those Few Who in reading these Lines any Pleasure shall take, May I leave a good Fame, and a sweet smelling Name. AMEN. Here an End of my WISHES I make. Chorus. May I govern, my Passion with an absolute Sway, And grow Wiser, and Better, as my Strength wears away, Without Gout, or Stone, by a gentle Decay. FINIS.</field>
+   </doc>
+</add>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Shepherd, Luke</field>
+      <field name="author_facet">Shepherd, Luke</field>
+      <field name="author_sort_facet">shepherd luke</field>
+      <field name="author_text">Shepherd, Luke</field>
+      <field name="composition_era_facet">16th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.0256.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">[1548]</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:463160</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">Pathose ; or an inward passion of the pope for the losse of hys daughter the Masse [by Luke Shepherd</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">Pathose ; or an inward passion of the pope for the losse of hys daughter the Masse [by Luke Shepherd</field>
+      <field name="title_facet">pathose</field>
+      <field name="title_sort_facet">pathose</field>
+      <field name="title_text">Pathose ; or an inward passion of the pope for the losse of hys daughter the Masse [by Luke Shepherd</field>
+      <field name="year_display">[1548]</field>
+      <field name="year_facet">1548</field>
+      <field name="year_multisort_i">1548</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:463160&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:463160&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Shepherd, Luke&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;shepherd luke&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Pathose ; or an inward passion of the pope for the losse of hys daughter the Masse [by Luke Shepherd&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;pathose&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;[1548]&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1548&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Shepherd, Luke&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Pathose&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;or an inward passion of the pope for the losse of hys daughter the Masse [by Luke Shepherd]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Imprinted ... by John Daye and Wylliam Seres&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;[1548]&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp3525&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;[28] p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Pathose&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;or an inward passion of the pope for the losse of hys daughter the Masse [by Luke Shepherd]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 27 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Pathose, or an inward passion of the pope for the losse of hys daughter the Masse. What hatefull hap What carefull clap What rattellyng rap Is light in my lap Whiche weareth the cap Of myghti mayntenaunce And greatest gouernaunce Whose only ordinaunce And prudent puysance Brought to obeysaunce All princely power me to adoure With high honoure And towne and towre To lowt and lowre At my comaundement Yelding to myne intent And were beniuolent To such as I haue sent To passe in perliament Or councells generall Or matters speciall I was the capitall And ruled ouer all But yet nowe heare ye shal Of maruailles late befall And of the greate displeasure And myscheffe out of measure Betid my greatist treasure In whome I had moste pleasure As ye may here at leasure My daughter and myne heire Most beautifull and fayre That sat most cheiffe in chaire And on the supreme stayre Alasse doth sore appayre My glory and my goste My braggyng and my boste Whome I haue loued moste And ruled all the roste In country and in cooste And now, alasse, is tost From pillar vnto post I feare me she be lost Ah that my daughter messe Shuld be in suche a sickenes And brought in such weakenes That by all maner of lykenes She loseth life and quiknes And therfore wo is me This doleful day to se That my darling shulde be In this infirmytye And great calamytye For poysoned is she A lasse sum Edomite Some Iewe or Iacobite Some turke or thraconite Hath gyuen hir aconite In steade of arthanite Wherfore I must of right With all my mayne and might A messenger forth dight That is both quike and light To labor day and night And seke that cursed wight That did me this dispyte And well he muste hym quite Till he cum in the sight Of mighty mahomyte And tell hym that his nese The messe that prope piece In deadly danger is And that he may not mysse But send some arabies That worthie be and wise In phisike and in phisnomyes But O most Ientill Iupiter My daughter hole to make But harke gentill Dromo Remembre that ye go To the learned woman Areta And to Paulus aginita To doctores of vienna And also to rauenna And then to auicenna To Rasis and to Mesue The learned men of Arabie And like wise to all other That worshippeth my brother Machomet the stronge Declare them amonge All the whole matter And let them se hir water And tidinges loke thou bring How they do like the thing And whether by their connyng They hope of hir amending For vntill thou retorne I shall but mone and morne And inwardly shall burne With the most feruent fyre And depnes of desyre Wherfore I the require Right quickly to retyre Oh what inwarde passion Doth torment on this fassion Who wold not take compassion To heare my Lamentacion For who can me blame Synce I take such shame That bare the great name They count but a game My messe to defame Oh so I inflame My hart with heate Doth bolke and beate I swell and sweate I can not eate My sorowes greate Do me replete My papall seate They will defeate And put me by My papasye If my glorye My daughter dye For if she faile It will not auaile To wepe or to waile To rage or to Rayle I shal not preuaile In cootis of maile To make battaile Or them to assayll If she be once gone Comfort get I none But lefte post a lone To mourne and make mone With hert as colde as stone Yet may I haue some hope Though she be slyd a slope Some frendes to fele and grope In Affrike and Europe How they will with me cope Bicause I am the pope They will my part take Euen for my daughters sake I trowe they will awake Thes Rigors to aslake And cause them all to quake That did this mischefe make And thos that poyson gaue hir Alasse I quake and quauer And also swarue and swauer I quiuer and I wauer I stacker and I stauer For feare I shall not haue hir To lyue here wyth me styll According to my will Hir sicknes doth me spill But hir death should me kyll My sorows do me fyll And will encreace vntill Some tidinges I may gete That Dromo fare hath fete Alacke I feare me yet The man hath had some let Or with our enimyes met The which hath him beset Beholde he cometh I trowe Some news now shall I knowe Which way the wynde wil blow Me thinke he is not slowe As by his pace doth showe Dromo, welcum thou art For synce thou did depart Full heauy was my hert And still in payne and smart But now thou art retorned My care shalbe adiourned For mycle haue I mourned And in desire bourned But nowe I thinke it best That thou go take thi rest For I haue made beheste No meate within my breste Nor body to be drest Tyl I haue sene and sought The writinge that thou brought Full longe therfore I thought I gyue the thankes in dede For thy greate hast and spede Haue golde here for thy meede And I wyl go to reede These letters missiue, No longer wil I driue The tyme labefactiue while messe is yet a lyue And lyeth in payne passiue I truste she shal reuiue Though some against hir striue And woulde hir life depriue Halasse what find I here? Nowe doth it playne a pere That sure my daughter dere Which dwelt in churche &amp; quere And euery mans chapel With candell boke and bel No longer here maye dwel As these phisicions tel For they gyue their iudgemente That hir nature is spent Hir reynes be al to Rente This answere haue they sent To me wyth one consent Affirminge that by nature She shoulde be grosse of stature Wherfore she must corrupt Since she was interrupt From hir pristine volupt And since she brake hir diete She coulde neuer be quiete Nor like to be none other But grosse by father and mother So shewe they plaine to vs To be morbus hereditarius But this venum pestiferus Doeth make it mortiferus And thus they sey that sure She is without recure O worlde vnstable And most variable O man miserable And infortunable Which was honorable Nowe I am not abel Longe to perseuer Wyth al mine endeuer I am loste for euer My daughter decayed That was my chiefest aide My pompe is allayed Wheron I most stayed I am a frayede And so sore dismayde I knowe not which way Nowe turne me I may Nor what I shal say I may not delay Nor tyme protraye But applie me lygtly And gyue hir aquauite Or sum thynge that is mighty As vinum absinthite Or vinum apitie Or eles abrotonite Uinum chamedryte Or eles amorite To comfort with hir herte That she myght reuert And turne agayne to sanitye I swere by myne humanitye I speake it not in vanitie They that hir death conspired And hath it must disired As fast as time required With faggottes shalbe fired O wher is my Gardnerus that his good hert doth beare vs, And more did and fisherus? I feare he do not wel Because we heare not tel How he hath done his parte I know I haue his herte And also of many more There is no smal store That yet wyll sing and rore Dayely my messe before Though she be sicke and sore But sore I am adred Sum hath not wel sped Or sume of them be dead Or eles to prison led For were they in prosperitie I knowe it for a veritie Sum what they woulde haue prouid These thinges to haue remoued The whiche they neuer loued That wrought were by lutherus With helping of Bucerus zuingle and Bullingerus Melancthon and Althamerus Uitus, Theodor and musculus And subtile Spaugelbergius And by Urbanus regius Alesius and Brentius And by Otho Brumtelsius By fagius and Pistorius Petrus martir and sarcerius And by Oecolampadius And also Carolstadius By cursed Uadianus And also Pomeranus And perilous Pellicanus Lykewyse by Iohn cauinus And spitfull Spalatinus Coruinus and Epinus And barkinge Bernardinus Also by Osiander Crucinger and Megander And bablinge Bibliander By Ionas and Capito And by that heritike Hedio And then by laytymers By bilnie and Turners By bayle and by Tailers And other of their faction Beyond dinumeracion That sprange in euery nacion To put mo to thys passion But where is my Cochleus Iohn Faber and Euserus My champion Hofmisterus Wher is my seruant Ecchius And welbeloued Bilicius? Where is my maluelda With my most trusty Naufea My Catharinus fyne And Alfonsus my diuine Al you wyth Sandoletus Beholde how they entrate vs To helpe vs interim Ech of you is a lim Ech of you is by right My champion and my knight For me and myn to fyght As fast as ye may wright For my knightes of England As I may vnderstand Ar far behinde the hande And like to byde in bande Ye knowe that for certaine My daughter messe in peyne And weaknes doeth remayne Alasse she is but slayne No medicine can I get That wil amend hir yet Wherfore ye may not let Some c?forting to fet In England them amonge That hath me serued long Phisicians that ther be I haue a skore and thre That still doth worship me And also my daughter For stil haue they soughter And glad when they coughter As for communion They set not an onion But holde theyr opinion My messe to be better Eche one is hir detter Agayne vp to setter I neade not them name For men can wel ame That thei be the same The which I do meane Though I make no deane For they wil not leane But al one my syde And so to a bide What so euer betide Wythin the worlde wide Ye thes be they that are For messe so full of care That nothynge wyll they spare To make their purses bare So they myght her repare Wherefore it is lyke That they wil not stike To minister phisicke. As muche as may be founde Or sought aboue the grounde To make hir hole and sounde Nowe hie ye fast thyther That you and they together May bring some thinge hither Hir life for to length And quiken hir strenght Yet am I in feare Nothinge to be there That hir stomach wil beare I thinke that she wil weare A waye for al this geare Beholde she doeth teare And rende her golden heare Oh so my herte doeth pricke To se my chide so sycke For she is frenticke Distraught and lunaticke Wo worth that heretyke That firste beganne To shewe any man Hir nature to scan For before than No creature knewe But that she was true For whan she was newe I did her endue Wyth clothynge of Gospel And of the Epistel And nowe they be gon She semeth as one That is but skin and bon As leane as a rake As flat as a cake As stife as a stake Hir lippes be pale Hir eyes were smale Hir checkes thyne With a yealowe skine And nought wythin Hir nose is sharpe And a wrye doeth warpe As heauy as leade She is neare deade Or eles in swonne I am but vndone Thou son and thou mone And the plannetes seu? That ruleth in heauen And also beneth My daughter I bequeth In to your holy handes To louse hir from these bandes And from the cruel death That sone wyll stoppe hir breth And shortly deuoure Thys beautiful flowre Except by your powre Ye send hir succoure And that spedily Or eles she must dye Iupiter ceranus Send doune vulcanus And fire doune cast Al suche to deuast As causeth this carke By theyr woful warcke O Mars Mauors With strength and force Reuenge wyth war Both nere and far Thys tresspasse cruell Done to my Iuell For well I espye They set not a flye By my greate cursse They be not the wors For mine interdiction It is none affection My strenght doth decrease My doctrine doth cease My daughter doth perishe Nothinge wyll cherishe Yet hath she good keping Boeth waking and slepinge But I wyth much wepinge Wyth crouchinge and creping Wyth bassing and kissing Wil gyue hir my blessing O pulchra proles Mir?da moles Infandum doles Hactenus que soles Quidquid ad nutum Habere tutum Corpus imbutum Mollibus indutum Heu stat exutum Descistunt gentes To decidentes Me que abnuentes Minime credentes Te fore veracem Asserunt mendacem Garrulam loquacem Esse et Rapacem Te dicunt vagam Ueneficam sagam Heu michi quid agam Nunc peribis filia Olim dans vtilia Supra mille millia En sequar et ego Quique reges rego Uiuere sed nego Tu quum defungeris Sacro que vngeris Oleo papali Hoc genus sed mali Ingruir infestans Nostraque detestans Ecce scripture Predicantur pure Quo perit (audito) Lex mea quam cito, O darlynge dere I leaue the heare With heauy chere Holde here take this A careful kysse I wil the blisse That thou maist the rather Cum to thy grandfather Pluto the king Of whose ofspring You cum by dissent Wyth you shalbe sent A godly conuent To wayte on ye then Lyke a noble woman Lent and gange dayes Shal shewe ye the wayes Wyth the dayes embringe To kepe ye remembringe Of your Iournay For going astraye And pilgrimage In your voiage Shalbe your page Auricular confession And popishe procession Aboute ye ride On euery syde The colettes by kynde Before and behinde Your fote men shalbe Ful comly to se The cannone playne Your chamberlayne Shalbe at your hande When ye do commaund The post communion Shalbe your minion To shewe you sporte For your comforte Thus shall ye not trauile Lyke beggar nor Iauel But passe like a quene Right comly besene To Stix and Acheron Ye shall cume a none And when they be past Ye shal cum at the last To the potter Cerbrus Whiche though he be barbarus Ye shal hym intreate Quickly in to get Then shall ye se the Emperoure Sitting stout and stoure Hym shall ye honoure Then open your coffer And vnto hi offer Holy breade and water And then strewe and scatter About hys vgly fete Some of your palmes swete Then shal ye lowly Offer ashes holy Beades and sacring belles And al other Iuelles Then shal he take you And his heire make you Nowe wyl I forsake you And gyue you my blessing I wyl not be missing But wyth expedience Shewe myne obedience To the prince infernal In derknes eternal Who gaue to me my name And did to you the same For both did come him fro An to hym must they go And there wyth fendes To make ther endes As felowes and fr?des Thus Pope and messe I must confesse To be no lesse Then deuelishnes</field>
+   </doc>
+</add>

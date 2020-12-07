@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Oxford University Press</field>
+      <field name="author_facet">Oxford University Press</field>
+      <field name="author_sort_facet">oxford university press</field>
+      <field name="author_text">Oxford University Press</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1970's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.0935.xml</field>
+      <field name="date_indexed_facet">201909240355</field>
+      <field name="date_text">1974</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459565</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Prophets of Antichrist ; - The Clothworkers</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 20th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 20th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Prophets of Antichrist ; - The Clothworkers</field>
+      <field name="title_facet">prophets of antichrist</field>
+      <field name="title_sort_facet">prophets of antichrist</field>
+      <field name="title_text">The Prophets of Antichrist ; - The Clothworkers</field>
+      <field name="year_display">1974</field>
+      <field name="year_facet">1974</field>
+      <field name="year_multisort_i">1974</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459565&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459565&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Prophets of Antichrist ; - The Clothworkers&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;prophets of antichrist&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1974&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1974&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Prophets of Antichrist&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;- The Clothworkers&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York, Toronto&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Oxford University Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1974&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873670-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv10935&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Prophets of Antichrist&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;- The Clothworkers&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 26 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries, introductory and editorial matter omitted&lt;lb/&gt;The following plays have been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Copyright (c) 1974 Early English Text Society. This text may not be reproduced, except for fair dealing purposes, without the express permission of Chadwyck-Healey and the copyright holder.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The prophets of Antichrist.</field>
+      <field name="desc_meta_file_display">Genre: English mystery and miracle plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1475 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1377–1382 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Square brackets represent sections of text which have been deleted or added at different stages in the evolution of the manuscript.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE CLOTHEWORKERS PLAYE</field>
+      <field name="fulltext">‘Facta est super me manus domini et eduxit me spiritus domini, et demisit me in medio campi qui erat plenus ossibus, et [circumduxit] me per ea in giro.’ Hec in libro Ezechielis 37.</field>
+      <field name="fulltext">[EZEKIEL] Herken, all that loven heale! I am the prophett Ezechiell. What I sawe I will not conceale but as mee thought I will tell. God his ghooste can with me deale that lead me longe with wordes leale into a feild where bones fell all bare without flesh. Then spake that ghoost unto mee and sayd, ‘Mans sonne, how likest thee? Thinkest thou not well that this may bee, these bones might turne and lyve?’ Then bade hee mee tell and prophecye that hee would revyve them soone in hye with flesh and synewes and skynne therebye which soone hee can them give. After that ghooste hee them geete, ryse of there graves hee them leete, and made them stande upon there feete, speake, goe, and see. This sawe I right in my sight to knowe that he was God almight that heaven and yearth should deale and dight and never shall ended bee. EXPOSITOR Nowe that you shall expresselye knowe these prophettes wordes upon a rowe, what the doe signifie I will shewe that mych may doe you good. By them understand may I the daye of doome skyllfullye, when men through Godes postee shall ryse in flesh and blood. Therefore this prophett sayd full yare hee sawe a feild of bones bare, and soone that ghoost with them can fare, gave them fleshe and life. Beleeve this fullye withouten weene, that all which dead and rotten beene in fleshe shall ryse, as shalbe seene, man, mayd, and wyfe. They that shall be saved shall be as bright as seaven tymes the sonne ys light; the dampned thester shall be in sight, theire doome to underfoe. Both saved and dampned, after that daye dye they may not by noe waye. God give you grace to doe soe aye that blisse you may come to. ‘Levavi occulos meos et vidi; et ecce, quatuor quadrige egredientes de medio duorum montium.’ Capitulo sexto. ZACHARIAS I, Zacharye—men, leeves yee mee— lift up my eyes a sight to see, and as mee thought, by my lewtee, foure charettes came anon out of two hilles—leeve yee mee, sylver hilles they were, as wytten wee! Great wonder I had in my degree whither that they would gonne. Redde horses in one were, reddelye; another blacke that went them bye; the third was white,I wott not whye; the forth of dyvers hewe. They were styffe, drawinge biglye. Then anone answered I to that angell in my bodye which tould me wordes true. I asked him then what yt might bee and he answered anon unto mee. ‘These charettes,’ he sayde, ‘which thou doest see, foure wyndes the bee, iwys, which shall blowe and readye be before Christe, that prynce which ys of postye. There ys none soe fell there feete to flee nor wynne there wyll from this.’ EXPOSITOR Nowe for to moralyze aright which this prophett sawe in sight, I shall found through my might to you in meeke mannere, and declare that soone in height more playnlye, as I have teight. Lystens nowe with hartes light this lesson for to learne. Fowre charettes this prophett see, howe they out of two hilles tooke there waye— the hilles of sylver, the soothe to saye, the horses of dyvers hewe. Which hilles signifie maye Enock and Helye, in good faye, that as good sylver shalbe aye stydfast men and trewe. Fowre charrettes hee sawe, as thinkes mee, skylfullye may lickned bee to sayntes of foure maners of degree that then shall suffer anoye. Fowre horses ys allso, certayntee, of dyvers hewes that he coon see, fowre manner of sayntes in dignitee— licken them well maye I: martyrs, confessours, there bee two; men misbeleevinge converted also that turned shalbe from synne and woe through Enock and Helye; virgens also, both on and moe. Here be dyvers hewes too that through Godes grace shall goe for him to suffer anoye. These redde horses call I maye all maner of marters, in good faye, for redd maye well betoken aye mans blood sheedinge; they white hee sayth token there waye above the yearth to goe astraye, as such that neyther night nor daye dreeden death nothinge; the blacke horses which went them bye, by them maye well signifie preachers of Godes word, truely, that confessors shalbe; the skewed horses, by myne intent, the which into the south forth went, I maye well licken verament to Jewes and paynims eke, yett through fayth with hart fervent shall turne to good amendment when Enock and Helye have them kent salvatyon for to seeke. DANYELL ‘Ego, Daniell, videbam in visione mea nocte; et ecce, quatuor venti pugnabant in magno mare, et quatuor bestiae gradentes ascendebant de mare.’ Capitulo septimo. I, Daniell, as I laye on a night, methought I sawe a wondrous sight. Fowre wyndes together the can fyght above the sea upon hye. Fowre beastes out of that sea the yeade. To the fourth beast I tooke good heede; for that to speake of nowe ys neede, the other all I will leave. That beaste was wondrous styffe and stronge, of teeth and nayles sharpe and longe, eatinge over all that hee could fonge. The remnante he fortredde. Unlike he was to anye of leede. Ten hornes he had upon his head. In the myddest on little horne can spread above all other in hye. That horne had mouthe to speake and eyes to see, and spake great wordes, leeve you mee; but of the ten, the first three soone were consumed awaye. That one horne had so great postee; the remnant meeke to him to bee that highest was in that degree, and endured so, manye a daye. Then was yt tould me right there that ten hornes ten kinges were, but all that on should feare that sprange upward so fast, and that hee should worke agaynst that kinge that of nought made all thinge; but lyttle while, without leasinge, that kinge his might should last. EXPOSITOR By this beast understand I maye the world to come nexte doomesdaye; and by that horne, in good faye, in myddest the ten can springe, Antechriste I maye understand, that then great lord shalbe in land and all the world have in hand three yeares and halfe duringe. ‘Tradentur in manu eius usque ad tempus et tempora et dimidium temporis, et usque ad annum duos annos et dimidium anni.’ Danielis capitulo septimo. Ten hornes ten kinges in land shalbe of which Antechriste shall slea three. The other seaven this case shall see and put them to his grace. This shal befall, witterlye, by the understandinge that have I of Danyelles prophecye that here rehersed was. JOHANNES EVANGELISTA ‘Dabo duobus testibus meis et prophetabunt diebus mille, ducentis et sexaginta amicti saccis.’ Apocalipsis capitulo undecimo. I, John, Christes owne darlinge, as I laye in greate longinge upon my maisters brest sleepinge, wonders sawe I manye one. My ghoost was ravished, without leasinge, to heaven before that highest kinge. There sawe I manye a wondrous thinge. One will I tell you anon. There hard I God greatly commend two wittnesses which he thought to send, false faythes for to defende that raysed were by his foe. He sayde the should prophecye a thousand dayes, witterlye; two hundreth and sixtye in sackes clad they should goe. He called them chandelours of great light burninge before Godes sight. Fyre out of there mouthes the should feight, there enemyes for to destroye. Whosoever them harmed, as sayde hee, dead behooved him for to bee. To lett the raygne they had postee in tyme of there prophecye. Hee sayde the should have power good to turne the water into blood, and overcome there enemyes that were wood, and maister them through [their might]. And when they had donne there devoure, a beast should come, of great power, from beneath, withowten were; agaynst them he should feight. And slea them also should hee in middest of the holye cyttye where Christ was nayled on a tree, forsooth as I you tell. But after three dayes and halfe one, they shall ryse, speake and gonne, and into heaven be taken anonne, in joye evermore to dwell. EXPOSITOR Nowe, lordinges, what these thinges may bee, I praye you herken all to mee. As expressely in certeyntye as I have might and grace, I shall expound this ylke thinge which saynt John sawe thus sleepinge through helpe of Jesu, heaven kinge, anonneright in this place. These two wyttnes, wytterlye, hee sayde the should come and prophecye, that one ys Enock, the other Helye— shall have greate might and mayne that when Antechrist comes in hye Goddes people for to destroye, that he deceaveth falselye they shall convert agayne. Manye signes they shall shewe which the people shall well knowe, and in theire token truely trowe and leeve yt steadfastlye. And all that turne, leeve you mee, Antechrist will slea through his postie; but verey martyrs they shalbee and come to heaven one hye. They beast that John spake of here ys Antechrist, withowten were, which shall have the devilles power and with these good men meete; and at the last, witterlye, he shall slea Enock and Helye in Jerusalem, as read I, even in myddest of the streete. Nowe, that you shall knowe and seene what men Enock and Helye beene, I will you tell, withouten wene, while that I have tyme. They are two good men, leeve yee mee; to paradyce through Goddes postee were ravished both, and there shalbee ever tyll the daye doe come. They one was taken, for hee was good, longe before Noe his flood, and there he lyves in fleshe and blood, as fullye leeven wee. They other was taken, withouten were, after that manye a hundreth yeare; and there together they binne in fere untyll that tyme shalbe. Signa 15: Signa quindecim magna quae, secundum opiniones doctorum, extremum precedunt judicium, ab antiquis Hebroeorum codicibus selecta a doctore huius paginae reticenda. Nowe xv signes, while I have space, I shall declare by Goddes grace, of which saynt Jerome mentyon mase to fall before the daye of doome; the which were wrytten on a rowe— he found in booke of Hebrewe. Nowe will I tell in wordes fewe, a while yf you will dwell. 1 The first daye, as I wrytten fyand, the sea shall ryse agaynst kinde, and as a wall agaynst the wynd above all hilles on hye 2 fortye cubytes, as read wee; the seaconde daye so lowe shalbee that scarslye a man the sea shall see, stand he never so nye. 3 The third daye after, as read I, great fishes above the sea shall lye, yell and rore so hideouslye that only God shall heare. 4 The fourth daye next after then, sea and water all shall burne agaynst kinde, that men may kenne, tynder as though yt were. 5 The fifte daye, as reade wee, all manner of herbes and also tree of blooddye dewe all full shalbee, and manye a beaste all dased. Fowles shall gather them, as I fynd, to feildes; eicheon in there kynd of meate and drinke shall have no mynd, but stand all madd and mased. 6 The syxt daye in the world overall, buylded thinges to ground shall fall— church, cittie, house, and wall— and men in graves dare. Layte and fyre alsoe, verament, from the sonne to the firmament up and downe shall stryke and glent, and all night so fowle fare. 7 The seaventh daye both rocke and stonne shall breake asunder and fight as fonne. The sound thereof shall here no man, but onlye God almight. 8 The eight daye yearthquake shalbe, that men and beast, leeve you mee, to stand or goe shall fayle postee, but fall to ground all right. 9 The nynthe day, as our bookes sayen, hilles shall fall and waxe all playne, stonne turne to sand through Goddes mayne, so streat men shall be stadd. 10 The tenthe daye, men that hydd bee, out of theire caves they shall flee— to speake together have noe postee, but goe as the were madd. 11 The elevon daye, from morrowe to even, all buryalls in the world shall be open that dead may ryse, withowten weene, above the yearth standinge. 12 The twelffe daye starres shall fall in hye and fyre shoote from them hideouslye. All manner of beastes shall rore and crye and neyther eate nor drynke. 13 The thirteene daye shall dye all men and ryse anone agayne right then. 14 The foureteene daye, all shall brenne, both yearth and eke heaven. 15 The fyfteene daye made shalbee neewe yearth, neewe heaven, through Goddes postee; which heaven God grant us in to bee, for his names seaven. Nowe have I tould you, in good faye, the tokens to come before doomesdaye. God give you grace to do so aye that you them worthye bee to come to the blysse that lasteth aye. As mych as here wee and our playe, of Antechristes signes you shall assaye. Hee comes! Soone you shall see! Finis</field>
+   </doc>
+</add>

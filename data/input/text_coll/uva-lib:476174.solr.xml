@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Mason, George</field>
+      <field name="author_facet">Mason, George</field>
+      <field name="author_sort_facet">mason george</field>
+      <field name="author_text">Mason, George</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/MasVirg.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text"/>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476174</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Virginia Declaration of Rights</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">Virginia Declaration of Rights</field>
+      <field name="title_facet">virginia declaration of rights</field>
+      <field name="title_sort_facet">virginia declaration of rights</field>
+      <field name="title_text">Virginia Declaration of Rights</field>
+      <field name="year_display">1776</field>
+      <field name="year_facet">1776</field>
+      <field name="year_multisort_i">1776</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476174&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476174&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Mason, George&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;mason george&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Virginia Declaration of Rights&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;virginia declaration of rights&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Mason, George&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Virginia Declaration of Rights&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1776&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;unknown source text&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Virginia Declaration of Rights&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 10 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE VIRGINIA DECLARATION OF RIGHTS: I That all men are by nature equally free and independent, and have certain inherent rights, of which, when they enter into a state of society, they cannot, by any compact, deprive or divest their posterity; namely, the enjoyment of life and liberty, with the means of acquiring and possessing property, and pursuing and obtaining happiness and safety. II That all power is vested in, and consequently derived from, the people; that magistrates are their trustees and servants, and at all times amenable to them. III That government is, or ought to be, instituted for the common benefit, protection, and security of the people, nation or community; of all the various modes and forms of government that is best, which is capable of producing the greatest degree of happiness and safety and is most effectually secured against the danger of maladministration; and that, whenever any government shall be found inadequate or contrary to these purposes, a majority of the community hath an indubitable, unalienable, and indefeasible right to reform, alter or abolish it, in such manner as shall be judged most conducive to the public weal. IV That no man, or set of men, are entitled to exclusive or separate emoluments or privileges from the community, but in consideration of public services; which, not being descendible, neither ought the offices of magistrate, legislator, or judge be hereditary. V That the legislative and executive powers of the state should be separate and distinct from the judicative; and, that the members of the two first may be restrained from oppression by feeling and participating the burthens of the people, they should, at fixed periods, be reduced to a private station, return into that body from which they were originally taken, and the vacancies be supplied by frequent, certain, and regular elections in which all, or any part of the former members, to be again eligible, or ineligible, as the laws shall direct. VI That elections of members to serve as representatives of the people in assembly ought to be free; and that all men, having sufficient evidence of permanent common interest with, and attachment to, the community have the right of suffrage and cannot be taxed or deprived of their property for public uses without their own consent or that of their representatives so elected, nor bound by any law to which they have not, in like manner, assented, for the public good. VII That all power of suspending laws, or the execution of laws, by any authority without consent of the representatives of the people is injurious to their rights and ought not to be exercised. VIII That in all capital or criminal prosecutions a man hath a right to demand the cause and nature of his accusation to be confronted with the accusers and witnesses, to call for evidence in his favor, and to a speedy trial by an impartial jury of his vicinage, without whose unanimous consent he cannot be found guilty, nor can he be compelled to give evidence against himself; that no man be deprived of his liberty except by the law of the land or the judgement of his peers. IX That excessive bail ought not to be required, nor excessive fines imposed; nor cruel and unusual punishments inflicted. X That general warrants, whereby any officer or messenger may be commanded to search suspected places without evidence of a fact committed, or to seize any person or persons not named, or whose offense is not particularly described and supported by evidence, are grievous and oppressive and ought not to be granted. XI That in controversies respecting property and in suits between man and man, the ancient trial by jury is preferable to any other and ought to be held sacred. XII That the freedom of the press is one of the greatest bulwarks of liberty and can never be restrained but by despotic governments. XIII That a well regulated militia, composed of the body of the people, trained to arms, is the proper, natural, and safe defense of a free state; that standing armies, in time of peace, should be avoided as dangerous to liberty; and that, in all cases, the military should be under strict subordination to, and be governed by, the civil power. XIV That the people have a right to uniform government; and therefore, that no government separate from, or independent of, the government of Virginia, ought to be erected or established within the limits thereof. XV That no free government, or the blessings of liberty, can be preserved to any people but by a firm adherence to justice, moderation, temperance, frugality, and virtue and by frequent recurrence to fundamental principles. XVI That religion, or the duty which we owe to our Creator and the manner of discharging it, can be directed by reason and conviction, not by force or violence; and therefore, all men are equally entitled to the free exercise of religion, according to the dictates of conscience; and that it is the mutual duty of all to practice Christian forbearance, love, and charity towards each other. — Adopted unanimously June 12, 1776 Virginia Convention of Delegates drafted by Mr. George Mason</field>
+   </doc>
+</add>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Wrangham, Francis, 1769-1842</field>
+      <field name="author_facet">Wrangham, Francis, 1769-1842</field>
+      <field name="author_sort_facet">wrangham francis 1769 1842</field>
+      <field name="author_text">Wrangham, Francis, 1769-1842</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1800's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_3.1353.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">[1805]</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:466745</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">[A Volunteer Song ; A Collection of Pieces in Verse Numbered I.-XI. By Francis Wrangham</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">[A Volunteer Song ; A Collection of Pieces in Verse Numbered I.-XI. By Francis Wrangham</field>
+      <field name="title_facet">a volunteer song</field>
+      <field name="title_sort_facet">volunteer song</field>
+      <field name="title_text">[A Volunteer Song ; A Collection of Pieces in Verse Numbered I.-XI. By Francis Wrangham</field>
+      <field name="year_display">[1805]</field>
+      <field name="year_facet">1805</field>
+      <field name="year_multisort_i">1805</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:466745&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:466745&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Wrangham, Francis, 1769-1842&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;wrangham francis 1769 1842&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;[A Volunteer Song ; A Collection of Pieces in Verse Numbered I.-XI. By Francis Wrangham&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;a volunteer song&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;[1805]&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1805&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Wrangham, Francis&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1769&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1842&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;[A Volunteer Song&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Collection of Pieces in Verse Numbered I.-XI. By Francis Wrangham]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;A. Bartholoman, Printer&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;[1805]&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp4419&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;[11] p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;[A Volunteer Song&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Collection of Pieces in Verse Numbered I.-XI. By Francis Wrangham]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 25 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted; verse reproduced elsewhere in The English Poetry Full-text Database omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">No I. A VOLUNTEER SONG. Tune—“Liberty Hall.” OF love or of wine it were treason to sing, When, like locusts, the robbers of France are on wing Our green island to ravage, in myriads they throng; Then swell the full chorus, brave friends, of my song— O'er the wave let them come, They but rush on their doom; To our shores should they fly, they shall never fly home. Hark! your sires from their tombs in deep accents implore, That you'd crush the fierce foe, as they crush'd him before. That you'd gild with fresh glories fair history's page, And grace with new Crefsys and Blenheims your age. O'er the wave, &amp;c. Their Edwards and Henrys were lions in fight, But we have our Nelson and Acre's dread knight: Its broom let the house of Plantagenet boast, Our Navy's the broom to sweep clean yon foul coast. O'er the wave, &amp;c. Then away to the field! 'tis your country invites; Remember your homes, and your fireside delights! Yet, if France but one spot in that country should crave, Indulge her; and, oh! let that spot be her grave. O'er the wave let them come, They but rush on their doom; To our shores should they fly, they shall never fly home.</field>
+      <field name="fulltext">No II. ABERCROMBIE, NELSON &amp; SMITH. Tune—“I Sing the British Seaman's Praise,” &amp;c. The Three I sing, on Egypt's strand Who fill'd their age with wonder: When War's loud tempest shakes the land, The Muse like Mars should thunder. For One, with triumph's deathless bough The cypress-leaf is blended; But Two survive with laurell'd brow, By Albion's prayers attended. Still Cœur-de-Lion forms his line, The boast of English story: Still Nelson's fatal lightnings shine, And mark the path to glory. O'er distant seas, in freedom's cause, Their gallant flags are flying: At home her sabre Albion draws, The hosts of death defying. And Egypt still her loss deplores, The sun-like Scot regretting; Seen in full orb upon her shores— Ah! seen but at his setting! There, for a moment's passing space, He pour'd empyreal splendour; And sunk, in honour's brightest blaze, The eastern world's defender. Him Turkey's turban'd millions weep, The minish'd crescent wailing; And mourn with groans, “not loud but deep,” Their pride of empire failing. —But hence with tears! for Two remain, To hush the storm's commotion: Then sing—‘May long their white star reign Refulgent o'er the ocean.’</field>
+      <field name="fulltext">No III. A YORKSHIRE SONG. Tune—“Hosier's Ghost.” Hark! the din of embarkation Blusters from yon hostile shore: We, with “note of preparation,” Echo back the thundering roar. England, still to fear a stranger, Dares the tyrant to advance; Single-handed copes with danger, And defies the hosts of France. To the beach her sons descending, Rush to meet the murderous foe: From their spheres of lustre bending, Sainted warriors bless each blow. Fierce the strife, but quickly ended, When the patriot girds his thigh; And, by English hearts attended, Swears—to triumph, or to die. Solemn oaths, brave Yorkshire, bind thee, Pledged in heaven's recording sight: O then, let thy country find thee Foremost in the van of fight! With the blood of France all gory, Haply on thy front a scar; Think, what then shall be thy glory, Borne in conquest's crimson car. Then thy children, clustering round thee, Shall with rapture clasp their sire: England then shall boast, she found thee Burning with thine ancient fire. Thence in peace each joy possessing, Thou shalt draw her endless gaze; Thine shall be her dearest blessing— Beauty's love, and Valour's praise.</field>
+      <field name="fulltext">No IV. A VOLUNTEER SONG. Tune—“Ye Lingering Winds,” &amp;c. What yells are those that load the gale, When eastern breezes blow? Why turns the cheek of Beauty pale With terrour's sudden snow? 'Tis Gaul's fierce war-whoop rides the air: ‘For murder's stroke the neck prepare.’ For murder's stroke, pale Beauty! No: See there thy hero stand, Ardent to quell th' insulting foe, And guard his native land. Hark! hope's firm tones the breezes bear, ‘For fame's green wreath the brow prepare.’ At Valour's knee, in Albion's isle, Freedom ne'er bends in vain: He bids her mid the battle smile, And snaps the threaten'd chain; This, this (he cries) let cowards wear! ‘For conquest's crown the brave prepare.’ And shall the shuddering infant scream Beneath a ruffian's knife? Shall groans of death, and shrieks of shame, Announce the sinking wife? No: rend with patriot shouts the air; ‘For fame, for conquest we prepare!’</field>
+      <field name="fulltext">No V. TIMES OF YORE. Tune—“My Spirits are Mounting,” &amp;c. A song, or a story, may drive away care; Fal de ral lal, &amp;c. You shall have both in one—nay, I'll tell you a pair: Fal de ral lal, &amp;c. To make you in battle with Frenchmen more bold, You shall hear how your ancestors thrash'd them of old. Fal de ral, &amp;c. When Edward's brave host met their myriads in fight, Their sun from its noontide sunk sudden to night: At Cressy and Poitiers was cropp'd their fair flower, And the glory of ages was dimm'd in an hour. What Harry of Monmouth achieved with his sword, Let Agincourt's trophies of triumph record; When with France's proud nobles its acres were spread, And her diadem girdled an Englishman's head. But, perhaps, 'twas by ambush we throve in each fray? Oh! no: they were fought in the face of the day. But, surely, by numbers those actions were done? Oh! no: the French legions were twenty to one. Then come they, or stay they, we care not a pin: If they come, they shall find us in steel to the chin; If they stay, 'tis sheer cowardice checks their advance— So ‘Here's to King George, and confusion to France.’</field>
+      <field name="fulltext">No VI. THE DEFIANCE. Tune—“Saw ye my Father,” &amp;c. Saw ye Britannia from hill to hill bounding, Her heart heaving high with alarms? Heard ye her voice through the vallies resounding, Which summon'd her warriors to arms? Who would not cherish with softest affection The land, where he first drew his breath! Who, when his country entreats his protection, Would shrink from the conflict of death! With conscripts in chains let the Corsican bluster, And pledge to his veterans our gold; But George his young legions unfetter'd shall muster, And rouse to fresh glory his old. And, lo! on yon cliff his broad flag he's unfurling, Which flames like a sun to the sight: And, hark! at the foe his defiance he's hurling, And braves their fierce bands to the fight! Never shall England to France vail the bonnet, With triumph's green laurels entwined: By Valour's strong hand they were fasten'd upon it, And still her fair brow they shall bind.</field>
+      <field name="fulltext">No VII. THE VISION. Tune—“All in the Downs” &amp;c. Beneath a yew's funereal shade, All lonely at the midnight hour, A dame of Corsica was laid, And dreams of horrour throng'd the bower: Ah! dreams like that, which scared the Queen of Troy, When in her breast she bore the shepherd-boy. Fast by her side in war's attire, Her rouge-blush ill exchanged for blood, With streaming hair and eyes of fire The fiend of rapine, Gallia, stood; And “Hail that womb's ripe promise (loud she cried) “My sceptre doom'd to grasp, my spear to guide. “Let him, rash youth, but shun the wave, “Whose billows bathe my double coast; “Where Pompey found his treacherous grave, “Where Spain's Invincible was lost. “—Ah see, what dark prophetic visions rise! “Once saved by flight, again he dares—and dies.” Shrieking, the ghastly spectre fled; With shrieks awoke the shuddering dame: Lo! at her feet a monster spread, Its heart of ice, its head of flame! And still, as night's black vapours drench'd the yew, With upturn'd lip it quaff'd the deadly dew. Chill through its veins the venom ran, And curdling poisons choked its breast; And now, a spotted ape of man, O'er Gallia reigns the purple pest. But, half engulf'd on Egypt's vengeful shore, In Albion's surge it sinks—to rise no more.</field>
+      <field name="fulltext">No X. EPIGRAMS. 1. [THERE are who, corkless, may defy] THERE are who, corkless, may defy Old Ocean's wildest roar: The scoundrel, doom'd by hemp to die, From shipwreck floats ashore. So Boney (to his fate in pawn) May safe reach Britain's strand, By destiny's strong cable drawn; But 'tis—to die on land. 2. [All sciences a fasting Monsieur knows] Græculus esuriens in cœlum jusseris, ibit. Juv, Sat. III. 78. All sciences a fasting Monsieur knows; And, bid him go to hell, to hell he goes. Johnson's London. Thus Johnson, liberal translator, Express'd the Roman poet's satire. Time has a closer version given:— Invading us, the Gaul scales heaven; And, should his soul to heaven e'er stray, By England Namque hac aut alia nisi quemque adjuveris arte, Crede mihi, cœli vix bene scandet iter. Milt. Epigr. II. is its shortest way. 3. [WITH coward brag the Consul boasts] WITH coward brag the Consul boasts, His dext'rous troops can “strike unseen:” Yes; “strike” they may, ere reach our coasts— For England's navy rides between. But should they, veil'd in moonless night, Creep darkling from their dens and docks; Then are they sure, ere morning light, To “strike unseen”—upon our rocks.</field>
+      <field name="fulltext">XI. TRAFALGAR. ? Semper acerbum, Semper honoratum ? (ving.) Hark to yon shout, that thrills the sky! Hark to yon bosom-rending groan! The pæan that of victory, And this the knell of Nelson gone! —the hero gone! Ring, ring the merry peal of joy; Breathe, breathe the solemn note of woe: Let rapture now the heart employ, Now let the tear for Nelson flow! —the hero flow! In gallant trim the Spaniard rush'd, The light Gaul buoyant by his side: —O'er them the ocean-wave has gush'd; They sleep beneath the wintry tide. —the wintry tide. TRAFALGAR, cherish'd bitter name! Shall still to our remembrance rise; Scene of our proudest costliest fame— Where France is crush'd and Nelson dies! —the hero dies! Still in the van of victory, Shall England's flag o'er ocean sweep; And still from every seaman's eye Shall Nelson's trophies scatter sleep! —the hero's trophies banish sleep! Ring, ring, &amp;c. December, 1805.</field>
+   </doc>
+</add>

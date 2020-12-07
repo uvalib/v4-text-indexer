@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1940's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2007_03/uvaGenText/tei/bov_19460128.xml</field>
+      <field name="date_indexed_facet">201909240347</field>
+      <field name="date_text">January 28, 1946</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:415382</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. January 28, 1946</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  January 28, 1946</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  January 28, 1946</field>
+      <field name="year_display">January 28, 1946</field>
+      <field name="year_facet">1946-01-28</field>
+      <field name="year_multisort_i">1946</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:415382&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:415382&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. January 28, 1946&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;January 28, 1946&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1946-01-28&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;January 28, 1946&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Official minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;1 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1946-01-28&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 11 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">January 28, 1946 A special meeting of the Board of Visitors was held on this date at the John Marshall Hotel in Richmond, at 2:30 P. M. with the following present: C. B. Garnett, C. O'Conor Goolrick, D. S. Lancaster, M. H. Bustard, Mrs. O. A. Calcott, Mrs. Phoebe E. Willis, Mrs. Bertha P. Wailes, R. A. Carrington, Jr., Dr. J. M. Emmett, Visitors, and President Newcomb. In the absence of R. Gray Williams, Rector, Mr. C. B. Garnett was appointed Rector pro. tem. The President presented the following matters: DR. DAVID RANDALL MACIVOR BEQUEST: The Bequest of Dr. David Randall MacIver to the University of Virginia, under a deed of trust to the United States Trust Company, Trustee, was explained to the Board by the President and he presented the following report from W. Allan Perkins, Attorney for the University, to whom he had referred the matter as to the necessity of an audit being made of the accounts of the United States Trust Company as the trustee under the will. Following a full discussion of the matter it was disposed of in the following action, unanimously adopted: J. Gordon Bennett, Auditor of Public Accounts for the Commonwealth of Virginia, appeared before the Board. Mr. Bennett stated that he was appearing at the request of Mr. W. Allan Perkins, Attorney for the Board. That since October 18, 1945, he and Mr. Perkins have been in correspondence with reference to the question of the necessity for a complete audit of the accounts of United States Trust Company of New York, as Trustee under a deed of trust from Dr. David Randall MacIver, dated May 27, 1932, and concluded that the responsibility of deciding the necessity for an audit is that of the Board of Visitors of the University of Virginia. It seems that Dr. MacIver died on April 30, 1945, and upon his death and resulting termination of the life estate reserved to him under said deed of trust a large portion of the trust estate devolved upon The Rector and Visitors of the University of Virginia to be used for the purposes set out in detain in said trust. Said United States Trust Company has recently produced in the Supreme Court of the State of New York, for the County of New York, a statement showing its management of this fund for the period from May 27, 1932, through July 17, 1945, and we are advised that unless exceptions are taken to this account it will be confirmed by the Court as submitted. Upon confirmation of the report the Trust Company will turn the securities over to the University of Virginia. A copy of this statement has been furnished Mr. Perkins, has been turned over by him to the Auditor, and is now in Mr. Bennett's possession. The question now presented to this Board is whether the Board feels it necessary to incur the expense of a complete audit of the accounts of United States Trust Company or whether we should accept the statement as furnished to us without checking all supporting vouchers and verifying same, thereupon accepting the securities without further question. After discussion of the whole situation the following resolution was unanimously adopted: RESOLVED, that in the opinion of this Board it is not necessary for the University to incur the very considerable expense which would amount possibly to $3000.00 for an audit of these accounts and the Bursar of the University of Virginia is hereby instructed to accept from United States Irust Company, Trustee under the deed of trust of said Dr. David Randall MacIver of May 27, 1932, the securities listed upon the statement of the account now in the State Auditor's office and in said receipt give said United States Trust Company a complete discharge from further liability with reference to the fund in its hands as Trustee so far as the share of the University of Virginia therein is concerned. THE CAPITAL OUTLAY APPROPRIATION TO THE UNIVERSITY OF VIRGINIA IN THE BUDGET BILL BY GOVERNOR DARDEN: RESOLVED, that the capital outlay appropriation to the University of Virginia presented to the Legislature in the Budget Bill by Govenor Darden be approved by the General Assembly of Virginia. It is further resolved that the Board hopes the General Assembly will find some additional appropriation to meet the dire need of the physical plant of the University of Virginia Hospital which is entirely inadequate. Adopted. SPECIAL COMMITTEE ON EXPENDITURES FOR CAPITAL OUTLAY OUT OF FUNDS HELD BY THE MEDICAL DEPARTMENTS OF THE UNIVERSITY HOSPITAL: RESOLVED BY THE BOARD OF VISITORS OF THE UNIVERSITY OF VIRGINIA that a Committee consisting of Dr. Emmett, Mr. Goolrick and the President be and they are hereby appointed and empowered to explore the possibility of using the accumulated funds in the several clinical departments of the medical school for expenditure as capital outlay in making available enlarged and more satisfactory facilities for the medical school and hospital. The meeting then adjourned. Christopher B. Garnett Rector Pro Tem E. I. Carruthersa Secretary</field>
+   </doc>
+</add>

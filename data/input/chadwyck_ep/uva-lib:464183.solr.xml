@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Hawkins, Henry, 1571-1646</field>
+      <field name="author_facet">Hawkins, Henry, 1571-1646</field>
+      <field name="author_sort_facet">hawkins henry 1571 1646</field>
+      <field name="author_text">Hawkins, Henry, 1571-1646</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.1673.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">1634</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464183</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The devovt hart or royal throne of the pacifical Salomon ; Composed by F. St. Luzvic S. I. Translated out of Latin into English. Enlarged with Incentiues by F. St. Binet of the same S. and now enriched with Hymnes by a new hand [by Henry Hawkins</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">The devovt hart or royal throne of the pacifical Salomon ; Composed by F. St. Luzvic S. I. Translated out of Latin into English. Enlarged with Incentiues by F. St. Binet of the same S. and now enriched with Hymnes by a new hand [by Henry Hawkins</field>
+      <field name="title_facet">devovt hart or royal throne of the pacifical salomon</field>
+      <field name="title_sort_facet">devovt hart or royal throne of the pacifical salomon</field>
+      <field name="title_text">The devovt hart or royal throne of the pacifical Salomon ; Composed by F. St. Luzvic S. I. Translated out of Latin into English. Enlarged with Incentiues by F. St. Binet of the same S. and now enriched with Hymnes by a new hand [by Henry Hawkins</field>
+      <field name="year_display">1634</field>
+      <field name="year_facet">1634</field>
+      <field name="year_multisort_i">1634</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464183&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464183&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Hawkins, Henry, 1571?-1646&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;hawkins henry 1571 1646&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The devovt hart or royal throne of the pacifical Salomon ; Composed by F. St. Luzvic S. I. Translated out of Latin into English. Enlarged with Incentiues by F. St. Binet of the same S. and now enriched with Hymnes by a new hand [by Henry Hawkins&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;devovt hart or royal throne of the pacifical salomon&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1634&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1634&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Hawkins, Henry&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1571&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1646&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The devovt hart or royal throne of the pacifical Salomon&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Composed by F. St. Luzvic S. I. Translated out of Latin into English. Enlarged with Incentiues by F. St. Binet of the same S. and now enriched with Hymnes by a new hand [by Henry Hawkins]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;[London]&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed by Iohn Cousturier&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1634&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp1290&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;287 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The devovt hart or royal throne of the pacifical Salomon&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Composed by F. St. Luzvic S. I. Translated out of Latin into English. Enlarged with Incentiues by F. St. Binet of the same S. and now enriched with Hymnes by a new hand [by Henry Hawkins]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 33 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted; verse extracted from prose text.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">TO THE R. WORTHY AND Vertvovs Covple, W. STANDFORD ESQ?, AND ELIZABETH his wife. THE HART CONSECRATED to the loue of Iesvs. The Hymne. Iesv, behold the hart dilates It-selfe to thee, and consecrates It's triple power, and al within. But oh! that heauy burden, sinne, Drawes to the earth, and makes it fal From high aspiring thoughts. Not al, Who now support, giue it repose; Thou art the Atlas, here enclose Thy selfe within the hart, giue rest To it, which otherwise opprest, sinks down. With the heauy load, the world, Make it despise (to gaine a crowne), The earth, it's Nathir, and with thee It's Zenith make Eternity. THE VVORLD, THE FLESH, THE DIVEL, assaile the hart, Iesvs saues it for himself. The Hymne. Myne eyes are open now I see The nets &amp; snares prepare for me The world, and flesh haue laid their baits T'allure my hart, the diuel waits. Vvhile pleasures of a moment [past E're th' are enioyd] entice: He last But first protectour, midst those ginnes, Midst snares, &amp; tangling nets of sinnes Lies lurking: And when he' spies The bird ensnared, out he flies: O IESV, may my prayer be heard, Spread forth thy nets, I am thy bird To catch my hart, 'a Pitfal make Set lime-twigs, doe but touch &amp; take. THE MOST AMOVROVS IESVS KNOCKS AT the doore of the hart. The Hymne. I saw a little glimps of light As I lay slumbring in the night, Vvhich through a cranny of my wal Glaunc'd on mine eyes &amp; therewith-al, I heard one speake, and rapping hard, Vvhile al my doores were lockt &amp; bar'd Vvith that I half awakt lookt round, And in my hart a theife I found Discouered by the light. The wals Vvere bare, &amp; naked, while he cals Vvho stood without, more light appeares, T'augment my hopes, &amp; lessen feares; Then, IESV, I cry'd out, come in, Here's nought but a priuation sinne. IESVS SEARCHETH OVT THE MONSTERS lurking in the darke corners of the hart. The Hymne. My sinnes I thought lay out of sight, But now I see, al comes to light, When he to search doth once begin, Who finds an Attome of a sinne See there an ougly monster breaths, An other here, with horrid wreathts, Is lurking in this darksome caue. Oh had I sooner what I haue Of light; I think no loathsome beast Had in my hart, made-vp his nest. Oh IESV, stil thy beames display, Al this is but the breake of day. Vouchsafe to send with lustre heat, To make it lightsome, feruent, neat. IESVS SVVEEPS THE DVST OF SINNES from the hart. The Hymne. O IESV thou art come from Heauen, Find'st lying al at, fix and seauen, In seueral shapes, my horrid sinnes To sweep away, the broome begins; Not like the chips, when thou didst keep At home, and with the besome sweep The dust, and little chips, which flew About the house, but now in view, Thou sweep'st, as chips cut from that tree Which was the sourse of misery, Those m?sters, loathsom dust, where breeds Th' old serpent; on this filth he feeds. Hels Scauendger, come take thy load, The muck the viper, serpent, toad. IESVS THE LIVING FOVNTAINE IN THE Hart. THE HYMNE. Behold the fountaines liuing springs: Both here &amp; there in Angel bring: Souls soyl'd with vgly spots within: Oh how I now am loathing sin! Which nought could wash but streames of bloud, That issued from Christs wounds ô floud! The sourse from whence thy torrent flowes, Is IESVS hart? 'tis that bestowes Eu'n the lasts drop, to cleanse my spots. O scribled hart, with blurrs &amp; blots Of horrid crimes! wash, wash, with teares, Thy sinnes. Thy paper written beares Being once made white, (what doth afford, Al ioy, content, repose) the WORD. IESVS PVRGETH THE HART WITH expiatory bloud. The Hymne. O hart lie open freely take, These sprinckled drops enough to slake The flames of lust and quench the fire, Of bel it-self, O Hart desire Thy Lord, now is he entred in, To put to flight the deuil sinn, The world the flesh: Behold h'is gone, Thy contrite hart plow'd, harrowd, sown, May, watered with his heauenly dew, Spring forth, and fructify anew: To which annex some pearlik drops, That thou with ioy maist reap thy crops. Raine followes wind; sigh, teares begin, And drown as with a deluge sinne. IESVS RVLES AND REIGNES IN THE louing &amp; deuout hart. The Hymne. O mightie Soueraigne, if you please, To deigne a looke &amp; view our seas; Where harts like ships with wind &amp; tide Are sayling; some at anker ride, Some with waues and boystrous windes Tost to &amp; fro; 'mongst them you find My floating hart, with euery blast Of greife or of affliction past, As 'twere immersed with in the maine. But yet, Greate Monarch, if you deigne To be my Neptune, or to guide The sterne of my poore hart, beside The surges flying ore my decks, Reigne in my hart, let Hel play reks. IESVS TEACHETH the deuout hart. The Hymne. O IESV speake, thy seruant heares, But thou must find me pliant eares, For of it-self my hart and wil Is seeking drops that doe distil From a limbeck that's rais'd on high With streines of wit, which soon are dry. Oh let me heare what thou dost speake (Peace) in my hart! Ah, if it leake, As doth a vessel pierced through, It naught avails to heare. For how Can I retaine that in my breast, Except some heat of grace digest? Oh with thy lessons that impart! With thee Ile soone get al by hart. IESVS PAINTS THE IMAGES OF THE LAST things in the table of the hart. The Hymne. O rare Apelles; loe the frame, My hart; but first prepare the same, Which is al slubbered 'ore with sinne, Wipe al away, and then begin To draw the shapes of vertue here And make the foure last things appeare: That no Chimeraes of the brayne, Or Phantasies I may retayne. Besides vouchsafe to draw some Saint, Begin, sweet IESV, figure paint, Whom I may imitate, and loue, As did Narcissus. From aboue Descend Apelles, thou diuine, Come euery day and draw some line. IESVS BRINGS IN THE CROSSE INTO the hart, and easily imprints it in the louer. THE HYMNE. Hast thou no Harbinger to bring Thy furniture, so great a King, But must thy self in person come To order al, and hang this roome? My hart alas! it hardly brooks, To be transfixt with tenter hooks; For nayles and hammer, now I see, And ladder, al prepar'd for me. Ah! without sheets I see thy bed; Thy Crosse, no bolster for thy head Except it be a crowne of thorne, Thy canopy is Heauen forlorne. Al things lament thy paynes to see, IESV come in, I'l mourne with thee. THE HART CONSECRATED TO THE loue of IESVS is a flourishing garden. The Hymne. Iesvs, thy power and gratious wil Is alwayes drawing good from il, And life from death, and ioy from grones, And Abrahams childr? makst of stones. Behold a quick-set is my hart, With thornes and bryars on euery parte; One drop of bloud alone thou shedst Wil make a rose, wheres'er thou treadst: Oh may my hart sweet odours breath Of vertue! Ah! thy thorny wreath That pearc'd into thy brayne made red And purple roses on thy head. Then for my sinnes, that I may mourne, With roses grant a pricking thorne. IESVS SINGS IN THE QVIRE OF THE hart, to the Angels playing on musical instruments. THE HYMNE. If thou within my hart wouldst awel; O IESV, then what Philomel, Could warble with so sugred throte, To make me listen to her note? The Syrens of the world to me; Would seeme to make no harmony. When they a long a large resound Of pleasures, thou dost them confound, Chanting a long, a large to me, With ecchoing voyce, Eternity! A briefe of pleasure, with like strayne Thou soundst a long of endlesse payne, The Diapason, ioyes for me, To liue in blisse eternally. IESVS THE SONNE OF DAVID, PLAYES ON the harp in the hart, vvhile the Angels sing. The Hymne. VVhen IESVS doth my hart inspire, As Orpheus, with his tuned lire, The trees with power attractiue drew, My hart deep rooted (where it grew In baren soyle without content) So powerfully he drawes, that rent From thence, it followes him, takes root, And so self-loue, which had set foot Is banished farre, who charm'd before My hart deluded. Euermore IESV be al in al, my part, My God, musitian to my hart, And harmony, which solace brings Ah touch my hart, &amp; tune it's strings. IESVS RESTS IN the louers hart. The Hymne. Behold my hart doth Christ enclose, While he doth sleep I doe repose: As I in him, he rests in me. If he awake, I needs must be The cause, that made the noise within; For nought disquiets him but sin. But I with crosses, soon am vext. With iniuries and cares perplext, And I, who should my wil resigne, Am soone disturb'd greiue, fret, repine: Til IESVS doth his grace impart, Who giues repose vnto my hart; O happy hart, with such a guest, Which here hath what he giues thee, rest. IESVS VVOVNDS AND PIERCED THE hart vvith the shafts of loue. The Hymne. The Diuels Archer, Erbinger Of lust blind Cupid did appear, But durst not stay to bend his bow, He saw the hart with arrowes glow, Which made him slinke away the chast And spotles hart he cannot blast, Which being cleans'd from sinne, is shut From that blind hoy, whose only but Are harts polluted, without white. Behold the wo?ds Christ makes, delighte See where the Angels pointing stand, Giue ayme, by lifting vp their hand; Or rather while the shafts abound, Wish they had harts that he might wo?d. THE HART ENFLAMED WITH THE LOVE of IESVS shines al vvith light and flames. The Hymne. Come Moyses to the bush, draw nere: Now God Incarnate doth appeare, Man's hart the bush (cease to admire) With flames of loue he sets on fire. See here the scortching flakes and fume Of prayer, which burne &amp; not consume, But only drosse of sinne. Behold A hart refin'd of tryed gold: A Bush wherin loue so contriues, That IESVS, Phenix-like reuiues, Amidst sweet aromatike sents. A bush wherin one that contents Is al in al. And now though rare One bird in bush is better farre. IESVS CROVVNES HIS DEARE HART WITH Palmes and Laurels. The Hymne. The restles hart, which heretofore, Could not stand stil, but euermore Was beating oft with throbs opprest Til now could neuer be at rest. It was ambitious, now I find. Naught could content th' aspiring mind: Had honours, pleasures, wealth good store, Yet euer craued, was seeking more: Which shew'd there was yet somthing stil Which this capacious hart might fil. A triangle, the soule, hath three Distinctiue powers. The Trinity Is such, that fils it; rest is found, Loe th' hart is quiet, new its crowned. IESVS CELEBRATES THE HEAVENLY Nuptials in the hart. The Hymne. The nuptial supper, now I see, O happy soule! prepar'd for thee; The table's couerd: but what seat, Hast thou for thy repose? What meat? Except a Lamb, I nothing find, The amourous Spouse is now so kind, That what he fed thee with before; From th' eye shalbe conceal'd no more. As with a fleece, in species white, He long on earth appear'd in sight. As with a fleece, by grace gaue heat: But now behold the Lamb thy meat. In him repose, freed from annoy By seeing, comprehend, enioy. IESVS MANIFESTES HIMSELF AND THE MOST holy Trinity in the mirrour of the hart. The Hymne. The Painter cannot draw a face, T'express to life each feature, grace, And figure, with proportion fit Except the partie drowne doth sit: But heer in th' hart by being seen, God drawes the picture which had been Before imperfect: though't were neat, And often toucht, 'twas not compleat. Til now, it lightned as vpon see, True picture of the Trinity. The colours stem'd did fak and eye, But now shal last eternally. While heer the hart doth quiet fit, By vision God doth figure it.</field>
+   </doc>
+</add>

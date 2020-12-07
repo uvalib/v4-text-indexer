@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Timrod, Henry, 1828-1867</field>
+      <field name="author_facet">Timrod, Henry, 1828-1867</field>
+      <field name="author_sort_facet">timrod henry 1828 1867</field>
+      <field name="author_text">Timrod, Henry, 1828-1867</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1860's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ap/uvaGenText/tei/chap_AM0912.xml</field>
+      <field name="date_indexed_facet">201909240350</field>
+      <field name="date_text">1860</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey American Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey American Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:440342</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Poems</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">American poetry -- 19th century</field>
+      <field name="subject_text">American poetry -- 19th century</field>
+      <field name="title_display">Poems</field>
+      <field name="title_facet">poems</field>
+      <field name="title_sort_facet">poems</field>
+      <field name="title_text">Poems</field>
+      <field name="year_display">1860</field>
+      <field name="year_facet">1860</field>
+      <field name="year_multisort_i">1860</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:440342&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:440342&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Timrod, Henry, 1828-1867&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;timrod henry 1828 1867&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Poems&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;poems&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1860&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1860&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Timrod, Henry&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1828&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1867&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Boston&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Ticknor and Fields&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1860&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3865925-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;cham0912&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;American poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Alexandria, VA&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Inc.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 11 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted ; verse reproduced elsewhere in American</field>
+      <field name="desc_meta_file_display">Poetry omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-AmPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">DEDICATION. TO FAIRY. Do you recall—I know you do— A little gift once made to you,— A simple basket filled with flowers, All favorites of our Southern bowers? One was a snowy myrtle-bud, Another blushed as if with blood, A third was pink of softest tinge, Then came a disk with purple fringe. You took them with a happy smile, And nursed them for a little while, And once or twice perhaps you thought Of the fond messages they brought. And yet you could not then divine The promise in that gift of mine,— In those bright blooms and odors sweet, I laid this volume at your feet. At yours, my child, who scarcely know How much to your dear self I owe— Too young and innocent as yet To guess in what consists the debt. Therefore to you henceforth belong These Southern asphodels of song,— Less my creations than your own, What praise they win is yours alone. For here no fancy finds a place But is an effluence of your grace;— And when my songs are sweetest, then A Dream like you hath touched the pen. FLORABEL. O Florabel! I know you well! You cannot cheat me with your smiles; That downcast lash, those sidelong looks, Are baits to catch me in your wiles. And spite of all you would affect, And all that distant mien denies, I read what you would never tell, In the arch beauty of your eyes. O Florabel! I know you well! Your voice is very sweet and low; But, right or wrong, I dare to think It is by no means always so. And you can talk, as ladies talk, Of stars, and gems, and flowers, and books, But I am very sure I see Less thought than mischief in your looks. Yes, Florabel! I know you well! I read at sight each girlish art; When that sweet brow is most sedate, I know you're laughing in your heart. And when you turn to hear me speak, And seem so very pleased to hear, I guess the jest upon myself You're keeping for another's ear. O Florabel! I know you well! You love to flatter and to please, But at your home I do suspect They call you plague, and scold, and tease, With names I do not care to speak, Lest you should turn them into praise,— In short, to sum my charges up, You have the most provoking ways. O Florabel! 'twould please me well To see you once or twice alone; Concealed behind a curtain, I Might catch at last a natural tone. I hate the art that veils each thought, I am not cheated by your wiles; You have not touched my heart at all, And shall not blind me with your smiles. SONG. When I bade thee adieu, thou rememb'rest the time, To depart for no distant or alien clime, Oh! who would have deemed, as I sighed it in tears, The farewell then spoken a farewell for years! Yet, believe me, whatever those years may have brought Of deadness to feeling, or sadness to thought, And whatever the shame they have stamped on my brow, No change ever touched my first passionate vow. Still I've looked to thy love as men look to a star, Which may never be reached, yet is worshipped afar, And always in gladness, and always in gloom, The star of thy smile was the star of my doom. I have bowed, it is true, before many a shrine; Have praised, and have sung charms less winning than thine, But the song was ne'er more than a passionless glee, I kept the soul's language—my silence for thee. And, indeed, if sometimes I gave more than a song, Thou wast ever the cause, and must pardon the wrong, For wherever a blue eye bewitchingly shone, I saw in its beauty a type of thine own. That falsehood is dead, and these follies have passed, And again I come back to thee, dearest, at last, With the feelings of one who hath circled the earth, But to strengthen his love for the home of his birth. SONNET. Fate! seek me out some lake, far off and lone, Shut in by wooded hills that steeply rise, And beautiful with blue inverted skies,— Where not a breeze but comes with softened tone, And if the waves awake, they only moan With a low, lulling music, like the rills That make their home among those happy hills. And let me find—there left by hands unknown— A bark, with rifted sides and threadbare sail, Just strong enough to bear me from the shore, But not to reach its tree-girt harbor more. O happy, happy rest! O world of wail! How calmly I would tempt the peaceful deep, And sink with smiling brow into the dreamless Sleep.</field>
+   </doc>
+</add>

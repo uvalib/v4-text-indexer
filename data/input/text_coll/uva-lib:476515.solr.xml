@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Mary Moss</field>
+      <field name="author_facet">Mary Moss</field>
+      <field name="author_sort_facet">mary moss</field>
+      <field name="author_text">Mary Moss</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1900's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/WhaR1Md.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">1907</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476515</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Mrs. Wharton's "Madame De Treymes</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">Mrs. Wharton's "Madame De Treymes</field>
+      <field name="title_facet">mrs whartons madame de treymes</field>
+      <field name="title_sort_facet">mrs whartons madame de treymes</field>
+      <field name="title_text">Mrs. Wharton's "Madame De Treymes</field>
+      <field name="year_display">1907</field>
+      <field name="year_facet">1907</field>
+      <field name="year_multisort_i">1907</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476515&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476515&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Mary Moss&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;mary moss&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Mrs. Wharton's "Madame De Treymes&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;mrs whartons madame de treymes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1907&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1907&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Mary Moss&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Mrs. Wharton's "Madame De Treymes"&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;1st Edition.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1907&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York, N. Y.&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Dodd, Mead and Company&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1907&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;UVa ed. AP2.B78&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Mrs. Wharton's "Madame de Treymes"&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 9 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">MRS. WHARTON'S "MADAME DE TREYMES" [Madame de Treymes. By Edith Wharton. New York: Charles Scribner's Sons.] Since such crude early attempts as Theodore Fay's preposterous Norman Leslie deserve scant consideration, Mr. Henry James may safely claim to have discovered the international episode as a motive for American fiction. In spite of many competitors, he has hitherto kept an easy supremacy in this field, with such masterpieces as Daisy Miller, The American, The Princess Casamassima, The Ambassadors, The Golden Bowl, not to mention a host of short stories. But among this brilliant company, Mrs. Wharton's Madame de Treymes must instantly take undisputed place. In fact, the author fairly challenges comparison by choosing a theme almost identical with that of The American— the clash between a spirited outsider and the intangible resistance of Old World traditions and standards. And to be frank, her latest story excels Mr. James's early one in the matter of probability. For my part I have never been quite satisfied that a man of Newman's imaginative force would not have broken through the network of obstacles, if only by not appreciating them, and have ended by carrying off the object of his homage. Curiously enough, it is by an even greater subtlety than Mr. James's that Mrs. Wharton reaches a fine simplicity. Where he merely shows a picture of his American baffled by the Faubourg, Mrs. Wharton gives in addition the point at which the Faubourg miscalculates the rules governing our trans-Atlantic Code. John Durham wishes to marry Madame de Malrive, whom he had known in New York as Fanny Frisbee. This lady lives in Paris with the family of a husband from whom the French law has granted her a separation. A divorce is fully within her rights. It is a question of persuading the de Malrive not to contest the case, so that the divorce may be awarded without trailing the scandal of a cause celebre over the life of Fanny's young son. The story narrows down into a game played between John Durham and a French sister-in-law, Christiane de Treymes. Having gone so far, a review must perforce stop, for fear of blemishing the reader's delight in following the series of infinitely delicate touches by which the contest for Fanny's freedom is unfolded. At the very start, Mrs. Wharton succeeds in mastering the greatest technical difficulty in fiction, that of introducing her situation without confusion, and without a hint of clumsy retrospect. So few words are used—the whole is the fruit of such discreet elimination—that one short chapter puts you in full possession of every essential fact; yet nothing could be less marred by haste. Giving in simplest form the last product of her own elaborate mental processes, Mrs. Wharton keeps that air of leisure proper to fiction which deals with states of mind rather than with bodily adventure. From whatever point you look the story shows no flaw. The author brings out her three types of women with the utmost clearness. Durham's sisters, with their "'handsome' haphazard clothes," fresh from New York and not altogether unlike the Fanny Frisbee of old New York days—Fanny herself—"the same, but so mysteriously changed . . . with the mystery, the sense of unprobed depths of initiation which drew him to her as her freshness had never drawn him"—and above all Madame de Treymes, whose unfathomable completeness puts even Fanny's finish of mind and person in a slightly secondary place. It is with this last creation of elegance and depravity that Durham must contend for his right to marry. The duel between these two runs through a series of astonishingly brilliant scenes. Mrs. Wharton falls into no cheap errors. Durham makes war with force, intelligence, and common sense; he is neither intimidated by the powers arrayed against him, nor does he underrate them. He commits none of the absurdities by which novel heroes are wont to create and sustain difficult situations. The real subtlety lies— where it belongs—in the situation itself, not in the ingenuity with which it is prolonged. Moreover, the fact that Mrs. Wharton lets the conclusion turn upon a fundamental moral issue gives a solidity to the whole story, placing it on a more durable ground than any sketch of contrasted nationalities, since it touches the permanent human questions of honour and duty. It is true that she touches these questions lightly, rather with brilliancy than with a heat, which would be alien to her own nature. She neither harrows you by describing Fanny in transports of despair, nor drags you through Madame de Treymes's equivocal pleasures. Her supreme skill lies in bringing you face to face with these women as they are after the past has moulded them. Gyp herself could not more firmly convince you of the French woman's tragic perfidy, yet the detail is barely indicated. You only have the result in pure essence. By sacrificing a possible long novel (for which Madame de Treymes contains ample material) through a miracle of condensation, in matter, in form, and by an unimpeachable distinction of style, Mrs. Wharton has written a short story which stands entirely above criticism. Mary Moss.</field>
+   </doc>
+</add>

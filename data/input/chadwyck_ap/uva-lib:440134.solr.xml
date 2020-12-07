@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Smith, Samuel Francis, 1808-1895</field>
+      <field name="author_facet">Smith, Samuel Francis, 1808-1895</field>
+      <field name="author_sort_facet">smith samuel francis 1808 1895</field>
+      <field name="author_text">Smith, Samuel Francis, 1808-1895</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1870's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ap/uvaGenText/tei/chap_AM0690.xml</field>
+      <field name="date_indexed_facet">201909240350</field>
+      <field name="date_text">[1870]</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey American Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey American Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:440134</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">[Poems by Smith in] Rock of ages. Original and selected poems</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">American poetry -- 19th century</field>
+      <field name="subject_text">American poetry -- 19th century</field>
+      <field name="title_display">[Poems by Smith in] Rock of ages. Original and selected poems</field>
+      <field name="title_facet">poems by smith in rock of ages original and selected poems</field>
+      <field name="title_sort_facet">poems by smith in rock of ages original and selected poems</field>
+      <field name="title_text">[Poems by Smith in] Rock of ages. Original and selected poems</field>
+      <field name="year_display">[1870]</field>
+      <field name="year_facet">1870</field>
+      <field name="year_multisort_i">1870</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:440134&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:440134&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Smith, Samuel Francis, 1808-1895&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;smith samuel francis 1808 1895&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;[Poems by Smith in] Rock of ages. Original and selected poems&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;poems by smith in rock of ages original and selected poems&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;[1870]&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1870&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Smith, Samuel Francis&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1808&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1895&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;[Poems by Smith in] Rock of ages. Original and selected poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Boston&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Dover&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;D. Lothrop &amp;amp; Co.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;N. H., G. T. Day &amp;amp; Co.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;[1870]&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3865725-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;cham0690&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;American poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;[Poems by Smith in] Rock of ages. Original and selected poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Alexandria, VA&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Inc.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 17 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only unique items by Smith included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-AmPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Nearer to the Rock. Fleeing, O Rock of ages, Fleeing to thee, Calmly I meet the tempests Of life's rough sea; No billows of temptation Can me o'erwhelm,— Christ, the immortal pilot, Controls the helm. Fiercely the roaring billows My barque may toss, And sunken reefs may threaten Danger and loss; The light-house on the headland Gleams o'er the sea, And wind and wave but drive me Nearer to thee. Shortly the day of peril And gloomy night Will pass,—and heaven shall redden With morning light; And, safe, the storm-tost wanderer O'er shoal and sea Shall find his footsteps planted, O Rock, on thee. S. F. Smith. Christ the Refuge. Tossing in dreamy sleep, Rocked on the foam, Sad and sick, weak and worn, Far from his home, Sighs the lone wanderer, Seeking, in vain, Rest from his weariness, Ease from his pain. So Christ, the sinner's friend, Mighty to save, Slumbered once, wearily, Tossed on the wave, Slept as the innocent Only can sleep,— Slept till the wind arose O'er the wild deep. Then, from His slumber roused, Calmly He spoke, While o'er the vessel's deck Rude billows broke. “Wild winds and stormy waves, Peace, peace, be still,”— Wild winds and stormy waves Bowed to His will. We are the wanderers, Rocked on the foam, Sad and sick, weak and worn, Far from our home, Sighing and lonely, Seeking in vain Rest from our weariness, Ease from our pain. Speak to our troubled hearts, Saviour divine, Say to the tired and weak,— “Peace, thou art mine.” Glad, to this sheltering Rock, Dear Lord, we flee, None ever sought in vain Refuge in Thee. S. F. Smith. “My Strength and my Heart faileth.” In weakness at Thy feet I lie, Thine eye each pang hath seen, Scarce can I lift my heart on high, Yet, Lord, on Thee I lean,— Lean on Thy sure, unfailing word, Thy gentle “It is I,” For Thou, my ever-living Lord, Know'st what it is to die. Thou wilt be with me when I go;— Thy life my life in death; For, in the lowest depths, I know Thine arms are underneath. 'T is not the infant's feeble grasp Which holds the mother fast; It is the mother's gentle clasp Around her darling cast. Just so Thy child would cling to Thee, Knowing Thy pity long: For feeble as my faith may be The hand I clasp is strong. Come to Christ. Come, bowed with grief and sick of sin, The cross was stained for thee; Come weary, rest and peace to find, Come blind, and thou shalt see. Come boldly, guilty as thou art, God will not spurn thy prayer; Come, cast thy burdens at His feet, And leave thy sorrows there. Come as thou art; no deeds of thine Can take thy sins away; Thy troubled soul before the cross, Loving and trusting, lay. Come, freely come, nor longer choose On restless wing to roam; Enter at once the friendly ark, And find a welcome home. S. F. Smith “I am now Ready to be Offered.” Resting on the Rock of ages, Safe above the billowy tide, Sheltered from each rushing current, I have all life's storms defied; Now I watch the slanting sunbeams, As they redden in the west, Life's long labors calmly leaving, For the glorious land of rest. Ready now to spread my pinions, Glad to wing my flight away, From the gloom that hovers round me To the realms of endless day. Ready to be washed and pardoned, Ready to be pure from sin, Ready to complete the conflict, Ready heavenly joy to win. Ready to be freed from sorrow, Tears and partings, toil and pain, Ready for the heavenly mansion,— Life is dear, but death is gain. Ready to forsake the shadows Of the night, so dim and long; Ready for the harp of glory, Ready for the angels' song. Ready, with salvation's banner, To ecstatic joy to rise; Ready for the glad hosanna In the heavenly Paradise. Ready with the just made perfect, Clothed in robes of light, to be Swelling the enraptured chorus,— Singing joy and victory. Ready to behold the Saviour, With His likeness satisfied; Christ's alone and Christ's forever, Christ my portion, Christ my guide; In His righteousness accepted, Ready at His feet to fall, Saved by grace, a worthless sinner, Nothing I,—Christ all in all. Heavenly messengers are round me, Hark, their voices bid me come,— “Earth and time too long have bound thee, Waiting spirit, welcome home.” Glad I go,—my toil is finished,— Broke at last each earthly spell, Upward now my soul is tending, Earth, and time, and death, farewell. As the bird with warbling music Soars above our feeble sight, Singing still, and still ascending, Melting in heaven's glorious light,— So the dying saint, departing, Joyful took his heavenward way, Life and time and gladness blending In the light of perfect day. S. F. Smith. The Departed. Thus pass they from our homes away To worlds above the skies; Where glows the fair, celestial day And pleasure never dies. We miss them where of late they trod Along earth's sunny bowers, Yet joy to know they dwell with God In sunnier lands than ours. Ours is the pain, the toil, the strife, The doubt, and fear, and grief, Theirs, the immortal, glorious life, The endless, sweet relief. Life speeds apace,—we'll struggle still, While sin and toil remain, Then soar to Zion's holy hill, And hail the loved again. S. F. Smith. Heaven. No ill can mar the saint's repose, Calmly he meets the final shock; Hope is the anchor of his soul, He leans on Christ, the eternal Rock. Death, like the gate to endless life, Unfolding, shows the fetters riven; Earth claims the captive soul no more, On its bright path it speeds to heaven. No grief to bathe the cheek with tears, No whelming woe to dim the eye, No fierce disease, no anxious fears, No hopes that brighten but to die. No setting sun, no clouded day, No stormy hours of deadly pain, No doubts to drive our joys away, And plunge the soul in fear again. No sin, no dark temptation's power, No withering shadows of the tomb, No quivering lip, no parting hour, Heaven brings us an immortal home. As sinks the glowing orb of day, Behind the hills in light sublime, sunshine, But kindles with the setting ray, The morning of some distant clime, So soars the saint from earth's low vale, Where once with painful steps he trod, The crown of life eternal wins, And reigns, a priest and king, with God. S. F. Smith.</field>
+   </doc>
+</add>

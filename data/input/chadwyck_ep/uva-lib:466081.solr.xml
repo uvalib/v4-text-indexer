@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Hickey, Emily Henrietta, 1845-1924</field>
+      <field name="author_facet">Hickey, Emily Henrietta, 1845-1924</field>
+      <field name="author_sort_facet">hickey emily henrietta 1845 1924</field>
+      <field name="author_text">Hickey, Emily Henrietta, 1845-1924</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1920's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_3.0241.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1924</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:466081</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">Jesukin and other Christmastide Poems ; By Emily Hickey</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 20th century</field>
+      <field name="subject_text">English poetry -- 20th century</field>
+      <field name="title_display">Jesukin and other Christmastide Poems ; By Emily Hickey</field>
+      <field name="title_facet">jesukin and other christmastide poems</field>
+      <field name="title_sort_facet">jesukin and other christmastide poems</field>
+      <field name="title_text">Jesukin and other Christmastide Poems ; By Emily Hickey</field>
+      <field name="year_display">1924</field>
+      <field name="year_facet">1924</field>
+      <field name="year_multisort_i">1924</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:466081&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:466081&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Hickey, Emily Henrietta, 1845-1924&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;hickey emily henrietta 1845 1924&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Jesukin and other Christmastide Poems ; By Emily Hickey&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;jesukin and other christmastide poems&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1924&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1924&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Hickey, Emily Henrietta&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1845&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1924&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Jesukin and other Christmastide Poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;By Emily Hickey&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Burns Oates and Washbourne&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1924&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp1749&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;18 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Jesukin and other Christmastide Poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;By Emily Hickey&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 20 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted; verse reproduced elsewhere in The English Poetry Full-text Database omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">JESU REDEMPTOR Translation of the Vesper Hymn for Christmas Day. Jesus, Redeemer blest of man, Thou whom, before the light began, The supreme Father did beget, His equal in His glory set; The Father's Splendour and His Light, The world's one Hope and infinite, Accept, O Lord, Thy servants' prayer, Poured out before Thee everywhere. Maker of all, whom heretofore In hallowed womb the Virgin bore, Remember how Thou tookest then The likeness of the sons of men. This present day its witness bears, Through circle of the year declares How from the Father's breast, Thy home, The world's one Saviour Thou art come. From stars and earth and ocean rise, From all that is beneath the skies, New songs to greet with homage due The Author of salvation new. And we, endued with grace divine, Sprinkled with holy Blood of Thine, The tribute of our hymn will pay In honour of Thy birth to-day. O Jesus, whom the Virgin bore, Glory to thee for evermore, With Thee, O Father, and with Thee, Spirit of grace, eternally. Amen. JESUKIN Jesukin (Little Jesus) is the title given to the Divine Lord of Christmastide, under the form Iosagán, by St Ita of Ireland, who lived in the sixth century. May and Joseph sought an inn With cradle-room for Jesukin. For the darksome world that night should win Great light in the coming of Jesukin. But cradle-room was none wherein To lay the Blessed Jesukin. No clarion-call, no trumpet's din, Heralded coming of Jesukin. Nor costly vair, nor king's ermine, Would ever be worn by Jesukin. And the Guest too high for the noblest inn Lay in a stable, Jesukin. Great Lord of lords, high Paladin, Monarch of monarchs, Jesukin. Here was the Light of Light, wherein Is the life of men, our Jesukin. That babe-voice piping sweet and thin, Thy voice, Lord God, as Jesukin. The knowledge of lore-fraught Cherubin Is a flash from the brain of Jesukin. And the splendour of love in Seraphin Is a ray from the heart of Jesukin, This little helpless Babe wherein Is the fulness of God, our Jesukin. O child-folk, let your joy begin With Mary's joy in Jesukin. Dear babes who neither toil nor spin. Come and play with our Jesukin. And ye that mourn for the stain of sin, Be cleansed and gladdened by Jesukin. Come, all ye faithful, and take Him in To your heart of hearts, your Jesukin. CHRISTMAS EVE Keep we now the Christmas vigil where the Spirit broods above Her whose glorious body beareth burden of supremest love. Bide we now with her who bideth in a hostel strange and mean; Her, anointed ere the ages, Sainthood's Lady, Angels' Queen. By the Highest overshadowed, of the Holy Ghost espoused, God beneath her bosom lying, in a stable she is housed. O Godbearer, now bethink thee how the greeting of thy breath Brought the Holy Spirit's rapture to thy dear Elizabeth. Breathe on us, thou glorious Lady, thou, the chosen of the King, Till we too are blest and gladdened by the Spirit's visiting. Speak, O Mary, as we listen, all our heart a-thrill, and say, “God will fill you with His comfort and His joy this coming Day, “When the glorious Prince and Saviour, in His kindness infinite, Taketh manhood into Godhead, God of God, and Light of Light; “When creation's Uncreated Hope and Joy and Love and Dread Cometh all divine and human, in the Breaking of the Bread.” THE WORD MADE FLESH Ring, bells, ring, and tell the story afresh Of the Word Made Flesh: Tell of Infinitude taking the room of a span— God Made Man. Tell of a helpless Babe, who in cradle mean will sleep: Tell of his power on the scaleless height, in the fathomless deep. Tell of a Child who takes from a mortal breast His food: Tell of the One who feedeth creation's vastitude. Tell of the baby cries, the baby laughter sweet: Tell how the heaven of heavens is lying under His feet. Tell of the low estate, of the little humble shed: Tell of all wisdom, might and glory in that small bed. Tell of His mother's joy, beholding His lovely face: Tell how creation lives by this her Creator's grace. Ring, bells, ring, and tell the story afresh Of the Word Made Flesh: Tell of Infinitude taking the room of a span— God Made Man. THE CALL OF THE SHEPHERDS Hear the call the shepherds know, Angel-call that bids them go, Sped by God to Bethlehem; Let us rise and go with them. Clear the song is sounding still, Peace to men of God's good-will. In the Babe on Mother-breast See God's love made manifest. In a stable's narrow bound Palace of the King is found. In a little manger's space Presence-chamber of His grace. AT THE CRIB Children and such as childly hearted are Crowd round Thy cradle, Baby-King, And listen to the whispering Of the Holy Dove who soon, as if a star, Will Christward lead His pilgrims from afar, Their offerings pure to bring. What can we offer Thee, O Babe divine, What can we do to prove The all-too-little love Which Thou, whose heart is love's exhaustless mine, Wilt look upon, Thou sweetest, most benign, As Thy own treasure-trove? Thou Splendour of the Father, Thou whose face Reflects each look of His, What lesser glory is this, Wherein Thy happy children come to trace That human likeness, grace imposed on grace, By Mary's mother-bliss? Thrice-holy Babe, in this Thy birthday tide, Bid every mother see Her child by light of Thee; And every friend the friend he walks beside Behold with eyes that light sets open wide, As for eternity. Let the dear greeting “Happy Christmas!” run Freely from heart and lip; Let no earth-trouble nip The joy in the beloved Little Son: And by that joy be all His children one In hallowed fellowship. THE COMING OF THE KING Who is the King they tell us hath come to visit Our lowly sphere? Shall we rejoice to meet Him to-day, or is it A time to fear? Is it He who shall rule the pride of each turbulent nation With iron rod? Nay. By His feet the way of humiliation Will soon be trod. Is He robed in ermine set upon purple splendour, As monarchs use? Nay. He is clothed as they who have made surrender Of all their dues. Doth He stand in the strength of high magnific stature On this our earth? Nay. He is here in our eyes like a lowly creature Of hidden worth. Only a Babe in a stable, laid by His Mother There in a stall: Just for the love of us come, our human Brother, Father of all. He is the great High-Priest, by whom full-shriven To joy we come, He is the little Child who will lead us to Heaven, And welcome us home. Baby-King, in Thy bed so poor and lowly, In swaddlings laid, Here do we kneel and adore Thee, Holiest of Holy, Our Brother made. THIS DAY IS BORN TO YOU A SAVIOUR Where is the joy at whose fair sight Sorrow must flee? O little Child in swaddlings dight, It is in Thee. Where is the hope within whose light No fear can be? O little Child of the presence bright, It is in Thee. Where is the love whose gracious might Makes clean and free? O Child, in depth, in breadth, in height, It is in Thee. Gift of gifts, we know Thee aright For eternity; God of God and Light of Light, We have all in Thee. LOVE UNCREATED, HELPLESS ON MOTHER-KNEE Love uncreated, helpless on mother-knee, Lord and God we hail Thee, made Man for our sake: What can we bring, O Jesus, to offer Thee? Hearts unworthy, which Thou canst worthy make. Smile on our offering, dear Lord, and stoop and take. THE CHILDREN'S CHRISTMAS O little folk of Christendom, Your little Lord to you has come. To blessed Mary's breast He clings, Most helpless of created things, Although the mighty God is He, Whose love has bid the worlds to be, His darling hands are weak and small; But in those hands He holds you all. He loves you more than tongue can tell, This little Babe, Emmanuel. What will you bring that's dear and sweet, To lay before His darling feet? Bring Him the gift He holds above All else in worth, His children's love. A CHRISTMAS PRAYER O little Child, upon whose brow Creation's crown of crowns shall be; O God, who wearest manhood now, Thy Church is glad because of Thee. Smile on us, Holy One, who bow Before Thy great humility; And let our homage be the vow To live and die, dear Lord, in Thee. HOLY INNOCENTS Translation of Hymn for Lauds on Holy Innocents' Day. All hail, ye flowers of martyrdom, To life's mere threshold only come: Smitten by him who Christ would smite, As rosebuds by the whirlwind's might. Victims the first of Christ the King, His tender flock of offering: Within the very altar's shade, O babes, with palm and crown ye played.</field>
+   </doc>
+</add>

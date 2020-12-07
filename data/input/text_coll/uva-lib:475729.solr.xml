@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Crane review: John D. Barry</field>
+      <field name="author_facet">Crane review: John D. Barry</field>
+      <field name="author_sort_facet">crane review john d barry</field>
+      <field name="author_text">Crane review: John D. Barry</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1900's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/BarStep.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">April, 1901</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:475729</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">A Note on Stephen Crane</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">A Note on Stephen Crane</field>
+      <field name="title_facet">note on stephen crane</field>
+      <field name="title_sort_facet">note on stephen crane</field>
+      <field name="title_text">A Note on Stephen Crane</field>
+      <field name="year_display">April, 1901</field>
+      <field name="year_facet">1901-04</field>
+      <field name="year_multisort_i">1901</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:475729&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:475729&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Crane review: John D. Barry&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;crane review john d barry&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A Note on Stephen Crane&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;note on stephen crane&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;April, 1901&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1901-04&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Crane review: John D. Barry&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Note on Stephen Crane&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;April, 1901&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Dodd Mead &amp;amp; Company&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;April, 1901&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A note on Stephen Crane&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;May, 1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 8 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Some British spellings such as "humour," "organisation,"</field>
+      <field name="desc_meta_file_display">"characterised," and "favourably."&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Barry, John D. "A Note on Stephen Crane."Bookman 13 (April 1901): 148. Not long ago, the New York Evening Post, in an editorial discussing "The Decay of Decadence," grouped the late Stephen Crane, as a poet, with the Symbolists of France and England. I was struck by the association, for the reason that I happened to be familiar with the peculiar circumstances under which The Black Riders and Other Lines, from which a quotation is made in the editorial, had come to be written. As a matter of fact, at the time of writing that volume it is probable that Mr. Crane had never even heard of the Symbolists; if he had heard of them, it is pretty certain that he had never read them. He was then about twenty-one years of age, and he was woefully ignorant of books. Indeed, he deliberately avoided reading from a fear of being influenced by other writers. He had already published Maggie, his first novel, and by sending it to Mr. Hamlin Garland he had made an enthusiastic friend. Through Mr. Garland he met several other writers, among them Mr. W. D. Howells. One evening while receiving a visit from Mr. Crane, Mr. Howells took from his shelves a volume of Emily Dickinson's verses and read some of these aloud. Mr. Crane was deeply impressed, and a short time afterward he showed me thirty poems in manuscript, written, as he explained, in three days. These furnished the bulk of the volume entitled The Black Riders. It was plain enough to me that they had been directly inspired by Miss Dickinson, who, so far as I am aware, has never been classed with the Symbolists. And yet, among all the critics who have discussed the book, no one, to my knowledge, at any rate, has called attention to the resemblance between the two American writers. It is curious that this boy, feeling his way toward expression as he was then doing, should have been stimulated by so simple and so sincere a writer as Miss Dickinson into unconscious cooperation with the decadent writers of Europe. Perhaps an explanation may be suggested by the association of Mr. Crane at this period with a group of young American painters, who had brought from France the impressionistic influences, which with him took literary form. The Black Riders received comparatively little attention, though it was favourably noticed in THE BOOKMAN and in other periodicals, and it was ridiculed in several. Its publishers apparently made no effort to take advantage of the success achieved by Mr. Crane a few months later with The Red Badge of Courage. Few readers are now aware of its existence. Whatever may be thought of its qualities as verse, no one can dispute its being a curiosity of literature. While writing of Mr. Crane, it may not be amiss to give ** or two of his life which I have not seen in print. His bent toward the writer's career probably came from his mother, who, he once told me, had been a newspaper writer. It was his mother who secured for him his first chance to write regularly for money as a New Jersey correspondent for the New York Tribune. I think he said that she had held the post herself. I have a distinct recollection of Crane's remarking, with a humour made grim by his poverty at the time, that he had been discharged from the position of correspondent because he had given offence to some organisation of workingmen by writing satirically of one of their parades. For the Tribune he wrote some sketches which had all the qualities of observation, humour, and grotesque originality of expression that characterised much of his later work. At the time of his death he was acquiring from the world the education he had missed in his brief experience at college. Among other things, he was learning new words, fine words, the words that most writers know and never use. He snatched at them as a child snatches at bits of flashing jewelry, and he stuck them into his stories with a splendid disregard of their fitness. Whilomville Stories, one of his latest books, instead of being written in the simple language suitable to the child-life described, is full of such words; they fairly stick out of the page. If Mr. Crane had lived a few years longer, he would undoubtedly have stored those words in his memory, kept them shut up there, and returned to plain speech. John D. Barry.</field>
+   </doc>
+</add>

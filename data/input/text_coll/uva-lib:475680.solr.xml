@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Anonymous</field>
+      <field name="author_facet">Anonymous</field>
+      <field name="author_sort_facet">anonymous</field>
+      <field name="author_text">Anonymous</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1890's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/AnoCrop.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">4 Oct. 1890</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:475680</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Watching the Crops</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">Watching the Crops</field>
+      <field name="title_facet">watching the crops</field>
+      <field name="title_sort_facet">watching the crops</field>
+      <field name="title_text">Watching the Crops</field>
+      <field name="year_display">4 Oct. 1890</field>
+      <field name="year_facet">1890-10-04</field>
+      <field name="year_multisort_i">1890</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:475680&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:475680&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Anonymous&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;anonymous&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Watching the Crops&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;watching the crops&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;4 Oct. 1890&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1890-10-04&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Anonymous&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Watching the Crops&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1890&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Harper's Weekly&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;4 Oct. 1890&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;pp. 770-771&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Watching the Crops&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 13 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">"Watching the Crops." THE members of civilized and artificially organized communities, who buy their food at markets, can gain from their own experience but little idea of the watchful and anxious interest attending the care of growing crops by those populations who must depend directly upon the product of their fields for subsistence. To the inhabitants of purely agricultural districts a loss of the annual harvest means deprivation, and perhaps hunger and famine; and naturally they have a constant realization of the fact that the welfare of their whole community is bound up in the promise of the heading wheat and tasselling corn. Between seed-time and harvest the husbandman's task is an incessant and arduous one. Weeds must be kept down, every means of diminishing the ill effects of drought or of over-moisture must be adopted, the danger from floods obviated as far as possible, and vigilant guard kept that marauders shall not deprive him of the reward of his labors. One of these conditions requisite for security supplies the motive of Mr. Charles Graham's drawing depicting a characteristic bit of New Mexico life. The landscape features of the scene present an aspect not dissimilar to certain parts of Egypt, Syria, and Palestine. There is the same clear air, high lights, and wide desert spaces bounded by plateaus and sand hills, and winding through the flat sandy valley, a silver stretch of river, its banks bordered by occasional trees — in New Mexico sycamores and cotton-woods — growing singly and in clumps. The low, flat-roofed, thick-walled houses of sun-baked brick, of tints akin to the soil, add to this impression, and the Oriental aspect of the country is sustained in many of the structures, implements, and customs of its people. In the open fields are the threshing-floors of beaten clay, upon which sheep, goats, or asses trample the wheat from the straw, and the grain is afterward winnowed by the process of tossing it from blankets into the air; and in secluded communities the juice yet is trodden from the grape in rawhide tubs by the naked feet of men and women, and fermented into wine in great ollas, or earthen jars as large as barrels. In these by-places, oxen, as in patriarchal times, draw the wooden one-handled plough or creaking cumbrous wooden cart by means of yokes stretched across their horns. On eminences overlooking the New Mexico valleys, within available distance of some stream or large spring, stand the singular-looking towns of the Pueblo Indians, in which the houses of the compact blocks are built with stories rising one above the other in terrace fashion. At some distance from each of these pueblos, on valley lands — located not too near the bottoms, where floods might ravage them — are the fields, orchards, and vineyards belonging to these quaint townsfolk. The main acequia, or irrigating canal, its banks hidden in places by drooping osier-willows, conveys water from the distant river along the hill-sides, up which to the inexperienced eye it seems actually to climb to the fields; there, by means of small ditches and embankments, it is distributed over the surface, transforming the barren reddish loam or gray sand into areas of inexhaustible fertility. The beauty of these oases of green fields, orchards, and vineyards, revealed in contrast with the boundless surrounding desert, is exceeding. The Indians, for the most part, cultivate their lands in a communal way. Their system of apportionment of labor, and the return of its products to the separate households, is one little understood by outsiders, but seemingly perfectly satisfactory to themselves. Among this people, however, by time-honored custom, some families hold, each in its own right, a special tract, with its vines, fruit trees, and patches of tillage. But in these Arcadian precincts, no less than in other rural communities in all places and times, the "foxes that destroy the vines" are not absent, and must be guarded against, lest the husbandman be deprived of the fruits of his labor. The enemies to his crops in this region are vagrant domestic animals, which, disregarding the trifling brush fences or low mud walls that enclose the fields, delight to break into these inviting confines to trample and devour. The birds of the air come in multitudes to carry away the grain and peck and scratch the fruit. Worst of all are the ladrones — thieves of the human species — who come with bags and baskets to despoil the vineyards and orchards. The visits of all these marauders must be anticipated, and measures taken to prevent their depredations. Hence the visitor to New Mexico often sees in the midst of fields, apart from the houses of the Indian towns, watching stations standing in situations that command a complete view and easy access to every part of the tract. From these stations a sentinel guards the crops from the beginning of their time of ripening until the harvest season has ended. These structures sometimes are scaffolds upon which is a shelter, but usually they consist of an adobe house of one room, upon the flat roof of which upright forked poles support an awning of leafy branches that protect the watcher from the sun. Such outposts form a picturesque feature of these ancient fields, some of which tracts have been under constant cultivation for hundreds of years, their soil, enriched annually with the deposit from the muddy water turned over them in the process of irrigation, showing no signs of impoverishment. The house stations commonly belong to individual Indians having lands of their own, who at the beginning of the farming season leave their homes in the town, and move with their families into these summer abodes, and there dwell in sight of the domain which they cultivate until the gathering of the crops has been completed. Upon the roof of the station shown in the picture, the Indian crouching, wrapped in his coarse wide-barred blanket, has just taken his place to serve as sentinel over the productive vineyard before him. Crouched motionless, his gun at hand — which he will not be slow to use on any human trespasser — his watchful eye surveys the tract that he has to guard, and notes everything that moves in the broad expanse beyond, while the Indian whom he has relieved takes his departure. Through day and night these patient watchers attend the growth and ripening in their order of the wheat and barley, the beans, melons, squashes, Chili peppers, and the apricots, peaches, apples, and grapes, until all of these products have been harvested. With the husking of the Indian corn, the last crop to be gathered — a work performed amid laughter and merry-making by all the people of the village — there comes the harvest feast, the time of the greatest rejoicing of the year. To this lonely watcher upon the housetop what thoughts may come during his long vigils of the past glories of his race, the history of which as a civilized people stretches back into the mists of American mythology! What stirring of hereditary impulses, what satisfaction to the soul may he feel during his long watches, the instinctive aptitude for which has become part of his being through his descent from ancestors that so guarded their fields in the days of the Toltec and Aztec migrations southward through New Mexico to the vale of Anahuac! Does he brood over the dark story of the wrongs to his race perpetrated by the victorious mail-clad Spaniards that in past centuries conquered and so long oppressed his people; whose black-robed priests imposed upon them a religious observance alien to the glowing sun-worship of his forefathers? No one outside the councils of the tribe can fathom the thoughts and deeper feelings of this reserved and mysterious people, educated under sorrows into the policy of a profound secretiveness. Who can tell what superstitious meaning he attaches to the wonderful highway, the existence of which is denoted by the distant scream of the railway locomotive dashing past his pueblo over the rails that have bound the country in bands of iron? To his simple mind what voice of spirit powers passes along the wires that carry the lightning messages from city to city across the space that comprises all the world he knows? But this he realizes, that the years have seen the power of his Spanish oppressors fade and fall to naught in his land, and have restored to his people a freedom as great as ever they enjoyed in the best of the old days. Within the tract, usually four square leagues, in which each pueblo stands, the inhabitants have virtually the control of their own affairs, independent of any other authority, and in his city there are enjoyed greater municipal privileges than are possessed by the citizens of any other civilized community on earth. After the days of the Inquisition the Pueblo Indians possessed, even under Spanish and Mexican rule, a great measure of independence and liberty. The coming of the English-speaking race from Eastern regions unknown to his simple geography brought him no menace, but rather greater safety, for they confirmed his old Spanish charters of domain, and secured him the undisturbed possession of his lands. But the race is a dying race, which has nearly lived out its time, and slowly and not unhappily is passing away. The 9200 inhabitants of the pueblos in New Mexico of ten years ago are shown by the present census to be only 8278, and this decrease has taken place without the occurrence of any unusual epidemic among the tribes and without war. Unassimilating with the whites, except in the way of hospitable usage and friendly business intercourse, holding to the last their proud seclusion, city after city, like Pecos and Cuyamonge will gradually become empty of their inhabitants, until of their habitations none shall be left, and heaps of adobe ruins and shattered walls alone remain to mark the long history of this most picturesque and interesting people.</field>
+   </doc>
+</add>

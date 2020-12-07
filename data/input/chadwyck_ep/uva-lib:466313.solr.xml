@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Wordsworth, Christopher, 1807-1885</field>
+      <field name="author_facet">Wordsworth, Christopher, 1807-1885</field>
+      <field name="author_sort_facet">wordsworth christopher 1807 1885</field>
+      <field name="author_text">Wordsworth, Christopher, 1807-1885</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1820's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_3.0603.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1827</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:466313</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Druids ; A Poem, Which Obtained the Chancellor's Medal at the Cambridge Commencement, July 1827. By Christopher Wordsworth</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">The Druids ; A Poem, Which Obtained the Chancellor's Medal at the Cambridge Commencement, July 1827. By Christopher Wordsworth</field>
+      <field name="title_facet">druids</field>
+      <field name="title_sort_facet">druids</field>
+      <field name="title_text">The Druids ; A Poem, Which Obtained the Chancellor's Medal at the Cambridge Commencement, July 1827. By Christopher Wordsworth</field>
+      <field name="year_display">1827</field>
+      <field name="year_facet">1827</field>
+      <field name="year_multisort_i">1827</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:466313&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:466313&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Wordsworth, Christopher, 1807-1885&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;wordsworth christopher 1807 1885&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Druids ; A Poem, Which Obtained the Chancellor's Medal at the Cambridge Commencement, July 1827. By Christopher Wordsworth&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;druids&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1827&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1827&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Wordsworth, Christopher&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1807&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1885&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Druids&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Poem, Which Obtained the Chancellor's Medal at the Cambridge Commencement, July 1827. By Christopher Wordsworth&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1827&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp4402&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;12 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Druids&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Poem, Which Obtained the Chancellor's Medal at the Cambridge Commencement, July 1827. By Christopher Wordsworth&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 18 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE DRUIDS. “Proudly in The landing of Paullinus at Mona, and consequent devastation there. Tacit. Annal. xiv. 30.Mona's bay thy gallies ride, “Bound o'er the wave, or stem the foaming tide; “Proudly on high thy crested eagles sail, “Thy pictured banners float upon the gale, “Thy conquering legions throng the echoing shore— “Her doom is passed—and Mona is no more.” Thus sang the Druid bard on Kora's brow, While Cæsar's legions trod the vale below. On high he stood. Beneath, a frantic band Swept down the hills, and hover'd o'er the strand; Each female form array'd in sad attire, Rais'd her bare arm, and shook the smouldering fire, Curs'd the proud host, and on the rocky pier Scream'd to the winds, and bade the ocean hear: Then hurl'd the brand, and loose with streaming hair Rush'd headlong to the vale,—and perish'd there. Rang'd round their lord, Trevarthen's holy king, The Druids stand, a venerable ring: Their's is the form unbow'd; the spirit brave, Reckless of wars, of seasons, and the grave: The tearless eye fix'd firm in proud despair, The lip scarce quivering to the stifled prayer, That asks with lifted hand and stedfast gaze, If thus the Gods reward their Mona's praise. “ Andate, the Goddess of Victory: Belinus, the Apollo: Hesus, the Mars: Taranis, the Thunderer: of the Druids.Andate! dost thou sleep? 'twas Cæsar's spear “Hurtled on high! Belinus, wake and hear!— “Why stay the wheels of Hesus?—o'er the dead “His coursers prance no more,—and Taranis is fled!”— Fled, all are fled! no more the sacred throng Winds through the trees, the cloistral woods along, Nor lengthen'd hymnings thrid the mazy glades, On lingering wings, and wander through the shades: And now sole remnant on the naked plains, Perchance some pile of rugged rock remains, A mystic circle, or a pendant stone, Where looks the way-worn traveller, and is gone. But yet the pensive soul delights to stray From life's dull home, and steal us from to-day. Parent of years! on whose unwearied pole The mighty months, and sweeping seasons roll: How sweet it is to track with searching eye The deep abysses of thy gloomy sky With living visions sown by sportive phantasy! Where to the dreaming sight forgotten forms Start from thy clouds, and darkle in thy storms: —I halt, and listen to the breezy air:— Thy dying voice, Caractacus, is there.— A charm, a spirit lingers still behind, Breathes from the ground, and whispers in the wind. So from her son the Goddess turn'd away, Fled his fond grasp, and melted into day: Her dove-borne car to fair Cythera flies: Or calmly sails, and lessens in the skies. Still lingering perfumes hover in her train, Prolong her stay, and make her speak again. Then weep not Mona! though thy silvan shade Of tufted oaks in ruin bare be laid: Weep not thine altars, courts, with grass o'ergrown, The ivy mantling o'er the Druid's throne: Though lightly tripping through the allies green The antler'd hind and dappled fawn is seen: And now, where mystic matins once were sung, I hear the stock-dove brooding o'er her young, Or shepherd's whistle from the darkling dell: The woodman's axe, the curfew's sullen knell: Weep not! for oh! 'tis sweeter through the haze Of living things on airy worlds to gaze: To lift the veil, and view the distant scene— The fairy theatre of what has been. Thus hanging o'er the prow the sailor sees His distant cot, his flowers and waving trees, More sweetly pictured to his longing view, In the green wave, than were the vision true. And while the forms upon the mirror play, Flash through the deep, and melt upon the spray, He pores upon the scene, and dreams himself away. Hark! 'twas the voice of harps that pour'd along The hollow vale the floating tide of song. I see the glittering train in long array Gleam through the shades, and snowy splendours play. I see them now: with measured steps and slow 'Mid arching groves the white-rob'd sages go. The oaken wreath with braided fillets drest, The crescent beaming on the holy breast, The silver hair which waves above the lyre And shrouds the strings,—proclaim the Druid quire. They halt, and all is hush'd:—no voices rude To break the still, expectant calm intrude, And listening thousands seem a solitude. “Twine, twine the wreath: the milk-white victims bring!” With lifted arm exclaims the Druid king. “Lo! lurking 'neath its parent shelter—lo! “Gleams with its buds of gold, the quivering misletoe.” Straight at the word he bares the knife of gold And spreads on high the sagum's broider'd fold: And while his fingers cull the bending spray, In silent awe his eyes are turn'd away.— The Henry. Hist. I. p. 172. “The hours for these services were at midnight.” moon is softly sailing through the sky, The stars look downward with a silent eye. While hazy dews pour down a teeming flood, And hang in filmy lustre o'er the wood, Or on the grass, with glistering spangles strung, Their silver lamps by fairy hands are hung. “Awake!” 'twas Nature's voice: aloud she spake: She calls her nightly priests: “Awake, Awake!”— Forth winds the Druid train: I see them now Upon the heights that crown Talallyn's brow: In bright relief their giant forms on high Dilated rise, and stand against the sky: Their shapeless altars rudely ranged around, In zonelike circles skirt the holy ground; O'er the grey piles, where clust'ring lichens stray, With amber sheen the glancing moonbeams play, And gild the Runic rhyme that lurks between The moss-grown stones, and holly's glossy green.— No Henry, Hist. I. p. 175. “All their places of worship were in the open air, and generally on eminences, whence they had a full view of the heavenly bodies.” Morhof. Polyhist. tom. I. p. 129. Sacer illis cultus purissimus sub dio: nullum illis vel templum, vel idolum. Holingshed, tom. I. p. 7. “Druis (the author of the famous sect called Druids) was excellent not only in Philosophy and the Quadrivialles, but alsoe in the true Theologie, whereby the service of the true God has been kept in purity: He did preach that the soule of man is immortall: that God is omnipotent, mercifull.” wreaths are theirs in mazy fretwork scroll'd For them no portals flame with burnish'd gold: No swelling domes, no marble columns rise, Nor pictur'd roofs to screen them from the skies: Nor pendant tapers fling a misty ray, Through cloistral aisles, and chase the night away. —For them the vaulted firmament is spread, And spangled courts and halls where Angels tread: —For them, for them, the everlasting sky Has hung its thousand lamps that never die: And seas to them of cloudless light are given, And all the mighty blazonry of heav'n. All hail, ye saintly band, whose souls aspire With vows that burn, and feed a holier fire. What though your hearths no spicy sweets exhale, Nor scented incense loads the languid gale; Nor marble halls are yours, nor sculptur'd stone, To lure the great Creator from his throne. But oh! 'tis yours the bright ascent to try And soar serenely wafted to the sky: To ope the gate, to tread the bright abode, The gorgeous chambers of the living God. 'Tis morn again: now quit the steep to rove Through oaken glades and pass along the grove. This is the spot: above the tangling vine Hangs o'er the rocks, and ivy ringlets twine. These are the shades, and this the sparry Mela III. 2. Multa docent nobilissimos gentis in specu. cell Where erst an aged Druid lov'd to dwell: Here ranged around his youthful hearers hung, And drank eternal wisdom from his tongue. The table now, the seats of living stone, All, all are left deserted and alone.— —They are not left! again the holy seer Tunes his rapt lyre, and bids his votaries hear. He sings “of other worlds and happier isles, “Of longer days, and spring's eternal smiles, “Of sunny vales, and lands beyond the sea, “Where Romans never came; but all are free: “No crystal hail congeals the balmy air, “No swords are forg'd, no arrows tainted there. “Oh! happy, happy land, where Camber's strain “Thrills through the shade, and Mador lives again. “Where through the vale together Angels stray, “And in sweet converse wear the fleeting day.” “And is it then to die—to soar afar “Beyond the sweeping storm, and din of war? “Is this to die—to find a blissful home “Unravaged still, unenvied yet by Rome? —“Then seize the spear, and mount the scythed wheel, “Lash the proud steed, and whirl the flaming steel: “Sweep through the thickest host: and scorn to fly: “Arise! arise! for this it is to die.”— Thus 'neath his vaulted cave the Druid sire Lit the rapt soul, and fed the martial fire: And oft of worlds Holingshed, I. p. 7. “Druis also taught them to observe the courses of the heavens.” &amp;c. in silver æther hung, Of blissful worlds, the ravish'd Poet sung: Or told of weeping stars—the Pleiad quire— Of huge Orion and his belt of fire: Of rushing winds he sang, the swelling tide, The lightning's bed, and clouds where thunders ride; The driving hail, the mountain's furrow'd brow Where sleeps in soft repose the pillow'd snow; And all the plants that deck the vernal glade, Blush in the sun, or twinkle in the shade. —'Tis heard no more! and on the vacant stone I gaze, and listen to the wind's wild moan: While through the cave in wheeling eddies fly The yellow leaves, and plaintive echoes sigh. How sad and lonely is the gloom that broods Upon the heath, and blackens o'er the woods! And yet we mourn not—holier rites are given: Pure is the song of morn, the praise of even:— And here, amid the walks and forests green, E'en here a silent monitor is seen— To tell of joy and love that ne'er decay Of darkness past, and everlasting day— Yon modest walls where sin and sorrow flees; Yon gleaming spire that peeps above the trees; The Gothic porch, with monitory rhyme Inscrib'd; the music of the blithesome chime, And winding o'er the hill yon sabbath train Of holier Druids to a purer fane:— —These bid aloud to check the starting tear, And hail the blissful light—for God is here.</field>
+   </doc>
+</add>

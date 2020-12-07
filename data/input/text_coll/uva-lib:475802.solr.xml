@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">John Vance Cheney</field>
+      <field name="author_facet">John Vance Cheney</field>
+      <field name="author_sort_facet">john vance cheney</field>
+      <field name="author_text">John Vance Cheney</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/CheCoyo.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">Jan 1885</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:475802</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">How Squire Coyote Brought Fire to the Cahrocs</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">How Squire Coyote Brought Fire to the Cahrocs</field>
+      <field name="title_facet">how squire coyote brought fire to the cahrocs</field>
+      <field name="title_sort_facet">how squire coyote brought fire to the cahrocs</field>
+      <field name="title_text">How Squire Coyote Brought Fire to the Cahrocs</field>
+      <field name="year_display">Jan 1885</field>
+      <field name="year_facet">1885-01</field>
+      <field name="year_multisort_i">1885</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:475802&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:475802&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;John Vance Cheney&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;john vance cheney&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;How Squire Coyote Brought Fire to the Cahrocs&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;how squire coyote brought fire to the cahrocs&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;Jan 1885&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1885-01&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;John Vance Cheney&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;How Squire Coyote Brought Fire to the Cahrocs&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;January 1885&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;The Century Company&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;Jan 1885&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Cheney, John Vance. "How Squire Coyote Brought Fire to the</field>
+      <field name="desc_meta_file_display">Cahrocs." Century Magazine 29 (n.s. 7) (Jan. 1885): 393-396.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;How Squire Coyote Brought Fire to the Cahrocs&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 11 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">HOW SQUIRE COYOTE BROUGHT FIRE TO THE CAHROCS. [illustration omitted] IN the beginning Chareya made fire (That is, the Cahrocs say so), Housed it safe with two beldams dire, And meant to have it stay so. But the Cahrocs declared that fire should be free, Not jealously kept under lock and key. Crafty Squire Coyote, —Counselor of note, he,— Just such a case he was meant for: Forthwith his honor was sent for. Squire Coyote came. On hearing the case, The cunningest smile passed over his face; Then, slyly winking, In the midst of his thinking He stopt, stopt short. An emphatic snort, And said he: "Tight spot, 'Twere vain to conceal it: Very sorry you're in it. But, though tight as a Gordian knot, What are you 'bout That you don't get out? It's only the work of a minute: The way to get fire is to—steal it." Squire Coyote was right—every Cahroc knew it, But (bless them!) how were they going to do it? "Ah!" said Coyote, Stroking his goatee [illustration omitted] And taking his hat, "Let me 'tend to that." Then, airily bowing to left and right, He scampered away, and was out of sight. Fire for the Cahroc nation! Coyote made preparation. From the land of the Cahrocs afar to the East —The rogue, he knew every inch of the road— Was stationed, now here, now there, a beast, All the way to the hut where the hags abode. The weaklings farthest off he put, The strong ones nearest the witches' hut; And lastly, hard by the guarded den, Placed one of the sinewy Cahroc men. This done, up he trotted, and tapped, The gentlest possible, rapped At the old crones' smoky door. "Beg pardon for being so bold; Fact is, I am numb with cold: Pray give me a bed on your floor." The trick succeeded; they let him in, And, snug at the feet of the beldams dire, He stretched his length to the open fire. Not long he lay, when, oh, the din, The drubbing sudden heard outside! Such a bumping and banging, Such a whacking and whanging! "Itch to your skins!" the witches cried, And rushed from the hut to see What the horrible noise could be. Now, it was only the Cahroc man Playing his part of Coyote's plan; But the simple old crones, you can well understand, Didn't see through it, And, before they knew it, Coyote was off with a half-burnt brand, Twitching and whisking it, Switching and frisking it, The best he knew, Away he flew, The Cahrocs' laughter And the crones close after. [illustration omitted] Over hill and dale, Like a comet's tail, Sweeps the borrowed brand Toward Cahroc-land. But the crones are fleet and strong, And it can't be long Before Coyote is made to feel How wicked a thing it is to steal. His spindling pegs —Mere spider legs— Nature never designed 'em To match the big shanks behind 'em. He runs as never wolf ran; Every muscle and nerve, All his wild-wood verve, Is put to the strain; But, scratch it the fastest he can, The gray hags gain. And the race must soon be over. Race over? See there—who's that? Zounds! What a monstrous cat! It's the cougar sprung from his cover. Ha, ha! All but from the head crone's hand His jaws have rescued the precious brand, And he's off like shot! "On time to a dot," Coughs Coyote, clearing the soot From his throat and the specks from his eyes; "Bravo, my gallant brute!— And still the good fire flies!" Fly it had to. You wouldn't believe old bones Could scuttle as now did the legs of the crones. The witches were marvelous fleet and strong, But, you see, the line of the beasts was too long: From the cougar the brand was passed to the bear, And so on down to the fox, to the hare, Thence on and on, till, flat in their tracks, The crones collapsed like empty sacks. Thus the brand was brought from the bel-dams' den Safe to the homes of the Cahroc men. And only two mishaps 'Mongst all the scampering chaps That, each from the proper place, Took his turn in the fire-brand chase. The squirrel, as sudden he whirled, Turning a corner of stumps and bowlders, Burned his beautiful tail, so it curled Clean over his back, And scorched a brown track, Still seen (tail also) over his shoulders. The frog, poor thing! His was a harder fate. Small as smallest coal in the grate Was the brand when he got it. Jump and spring He did, till he thought it Was safe; when, pounce, like a stone, Fell the claws of the foremost crone. At last He was fast; No sort of use To try to get loose. His eyeballs bulged, his little heart thumped— 'Most broke his ribs, so hard it bumped. So frightened he was, that, down to this day, He looks very much in the same scared way. The frog was caught, Was squeezed Till he wheezed; But not too tight For just a mite Of ranine thought: "Co-roak, chug, choke, Granny Hag, good joke. Well you've followed it; So move up your hand And take your old brand"— Then he swallowed it! And before the crone could wholly recover From the sight of such a wonder, Slipping her fingers from under, He plunged into a pool all over. He had saved the brand, But the witch's hand Still clutched his special pride and care— His tail, piteously wriggling there. Henceforth—he must grin and bear it— The tadpole alone was to wear it. At length, when the crones had gone, He sought an old log, and got on: "Rather short of beauty, But I did my duty; That's enough for a frog." Then he spat on the log, Spat the swallowed spark Well into its bark. Fire, fire to your heart's desire; Fire, fire for the world entire: It's free as air to everybody, White man or Cahroc, wise man or noddy. From the beldams' den, A gift to all men, Coyote brought it. In the wettest weather Rub two sticks together, Presto—you've got it! John Vance Cheney.</field>
+   </doc>
+</add>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Plarr, Victor, 1863-1929</field>
+      <field name="author_facet">Plarr, Victor, 1863-1929</field>
+      <field name="author_sort_facet">plarr victor 1863 1929</field>
+      <field name="author_text">Plarr, Victor, 1863-1929</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1890's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_3.2000.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1899</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:467155</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">French</field>
+      <field name="main_title_display">Poems from the Garland of New Poetry</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">Poems from the Garland of New Poetry</field>
+      <field name="title_facet">poems from the garland of new poetry</field>
+      <field name="title_sort_facet">poems from the garland of new poetry</field>
+      <field name="title_text">Poems from the Garland of New Poetry</field>
+      <field name="year_display">1899</field>
+      <field name="year_facet">1899</field>
+      <field name="year_multisort_i">1899</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:467155&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:467155&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Plarr, Victor, 1863-1929&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;plarr victor 1863 1929&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Poems from the Garland of New Poetry&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;poems from the garland of new poetry&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1899&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1899&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Plarr, Victor&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1863&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1929&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Poems from the Garland of New Poetry&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Elkin Mathews&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1899&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp3109&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;fre&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;83 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Poems from the Garland of New Poetry&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 23 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only verse by Plarr included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE SOLITARIES (On the Anniversary of the Death of John Hampden, June 24, 1643.) Hampden, when charge on charge o'er Chalgrove Field Was broken, and thou took'st thy desolate way Forth from the battle, ere the clarions pealed To tell thee thy old cause had lost the day, Thou wounded unto death, thou quite fordone, Thou riding with droopt head and hands declined Upon the saddle, hadst indeed begun To be the symbol of the Lonely Mind. For some there be who dwell in solitude, Though honours brighten and though friends acclaim, And hourly fame and faith repel the rude Onset of thickening years and Death's last shame; Ay, some, great Rebel, though exceeding strait Their little walk in life, more than obscure, Like thee have still foretasted the lone fate Which at the close of all thou didst endure. To live alone—that is their doom: to die Unhelpt by earthly aids, lover or friend, Reason, a bird along the lonely sky, Guiding their desolate footsteps unto the end; Reason, a golden angel climbing still In uttermost heav'n above their painful road, A strong compelling spirit, whose stern will Is their prime glory and their heavy load. Thou hadst a mighty king wherewith to cope: They but oppressors small, who, day by day, Pettily sap their every faith and hope: Yet are ye one in sorrows, thou and they! Hampden, on this June morn, when every air Is sweet with rose-bloom and the summer's breath, Some solitaries know thy last despair Through Reason and old ever-beckoning Death. THE FIRSTBORN What time the night doth fall Along the hall, Filling the house with gloom, In a warm room, Beside the merry fire Sits Heart's Desire. Mother her form enfolds, And father holds One little rose-like hand. With action bland She clasps his middle finger. Her sweet eyes linger On things we cannot guess Nor she express; Yet at this fall of night They are not quite Alone in the dim room. The pleasant gloom Is populous, I think, With such as shrink From the day's glare and stir. To gaze on her Who is sole ultimate heir Of all they were, Forth from their nooks they glide, Serene, grave-eyed; Intangibly possess The silence, press About the little face Wherein their race, And all it held most dear In small appear. What loving hopes have they For her to-day, With what solicitude Are they imbued! Their course on earth is run— 'Twas lost or won! But ah! this is a life That fronts the strife! Will that old race re-bloom Or ere the tomb Close on this innocent? Shall their intent Bear goodly flower and fruit Upon this shoot? Will she fail? Will she win? The Jacobin With melancholy brow Broods on her now, And he, the lateliest dead, With noble head, Grown grey in Wisdom's laws And wageless cause, Smiles with a questioning look On this last Book! Is her word Forward too? Will she prove true To the Tradition, seek What they sought, speak What they spoke, cherish still A rational will, A liberal studious mind, A heart refined? So small and weak she seems— This babe, who dreams Within our arms, and yet Whole hosts do fret In grave and anxious love For what she'll prove! Forth from their nooks they glide, Serene, grave-eyed; Intangibly possess The silence, press About the little face, Wherein a race, And all it held most dear, In small appear. TO THE MEN OF “WARRIORS' WARD,” Buried in a Common Grave in the Cemetery of Greenwich Hospital. Nightly, amid my books, I stand and view A graveyard with sparse headstones clustering white Among some lonely shapes of cypress yew, Which spire into the night. Shadows of tomb and tree above a sweep Of vacant grass lie soft, as though to mark That which is holiest in yon place of sleep, So full of misty dark. Hard by, the River curves in that great bend Where the majestic convoy once did float, From Greenwich Stairs to Woolwich, to attend The great dead Captain's boat! To-day they wreathe his column: no breeze stirs One votive leaf on all this graveless sward, Where sleep the worn three thousand Pensioners, The men of “Warriors' Ward.” Torn from dear homes, dear arms, pressed and entrapped, They came an angry throng to their sea-fate, But soon the veriest veteran's hate was capped By their tremendous hate! Loudly through those old battles rushed and broke The scattering shells: 'mong crash of mast and spar, Stript to the waist, blackened by battle smoke, Loomed each terrific tar! Down their best Admiral dropt: then up they ran Another gun. Though all who held command Died to the last robustious midshipman, They boarded, pike in hand. Nothing could daunt them: nothing could oppress Those hawk-faced, pig-tailed men, so strangely breeched, Invincible in proud foolhardiness, By death alone o'er-reached! The blood from their dead faces long ago Was wiped away; long since the bandages Were taken from those limbs that are brought low, Death their great Surgeon is! And now the white bones wait, maimed, but august, Nameless, dispersed, o'er-crowded, yet sublime, Trusting that He in whom they put their trust Will mend them when 'tis time. Trafalgar Day, 1896. IN MEMORY OF A GROVE, Recently felled upon waste ground at the Combe, Greenwich. The town about my house upon the hill Has year by year ungraciously increased, Yet has there been one sweet small franchise still Where the mean houses ceased! How beautiful you were, forgotten grove, How classic and how tall, O little wood! 'Gainst the red winter sunsets, O my love, How shapely forth you stood! The birds of spring 'mid your green spaces whirred: They could not leave the pleasant grove they knew; And once, at dawn, a single time, I heard The cuckoo's voice in you! From what far woodland had he weirdly come, True to what ancient impulse? Has man guessed Whither, toward winter, nightingales fly home, Where migrant swallows rest? For years, when in deep autumn midnights drear The storm from forth its country borders crossed, Issuing from miles of infinite shadow where The trees obscurely tossed, All night the reboant cannonading wind Along my little grove raved on and on, As though it sang to Niflheim's gods reclined The storm's dark arms upon. Waking upon the middle of a dream, You heard the splendid music and were glad; You heard entangled branches hoarsely scream As though some soul were sad! The little child from her deep sleep awoke: With eyes of awe she listened to that song: Elves, gnomes, and daemons, gins and faëry folk Swept through that air along! But now those chanting branches, week by week, And that poetic wood have been brought low: With jingling harness-plates and jocund creak The wains went to and fro, Each burdened with its dead, and, day by day, With a long human cry some tree stoopt down, And still 'mong outraged nests an axe would play To swell the unlovely town! For him who burns a Raphael are there chains? Do gyves gall those who spoil what wise men love? Shall he make proof of sharp religious pains Who fells a London grove? THE MARSEILLAISE A band a-playing, a few sooty rods Of London garden in a foggy cloud, Mill's effigy and Forster's for sole gods, Pale workmen, a tired crowd. Ah, but the dullest scene is often rife With gleams and visions and bewitching power To charm the flagging fancies back to life, So now, at this dead hour, The drums confer, according to old use, In low, restrained, yet strangely thrilling ways, Then, like armed Pallas from the brain of Zeus, Leaps forth the Marseillaise! Song that was framed where my forefather dwelt! As thrills the Clansman when old pibrochs shrill, I bred in Saxon schools, I nowise Celt, To thee again I thrill! The dark-faced rabbles of the past arise— Maenads and beggars in untoward rags, Exalted faces, fierce ideal eyes, And a Republic's flags! O'er the huge rounded cobbles of the street, By the gaunt beetling houses, in a throng, They march and pass with bare but steadfast feet, And mouths rotund in song! The tocsin shrills: the kennel underneath Blackens with blood: there's blood in dew and rain: All things are sullied with the crimson death Save that august refrain! You cannot say of tide or fire “they err,” Or predicate of joy and anger shame; Laughter and tempest are commingled here, Billows and wrath and flame! And if to some this song that greatly comes Out of the past bring but a tale of wars, Of sweating horses and of roaring drums, Sword-strokes and heroes' scars, To some it brings, not these, but man's old rage For Truth, Peace, Justice, Life's auguster plan, The poor man's hope, the meek man's heritage, Not France alone, but Man! THE IMPERIAL PRAYERS Suggested by a passage in Mr. Valentine Chirol's the “Far Eastern Question.” Silenced the streets with sand of holy hue, Shrouded the curious houses with faint sheen Of silk and broid'ry, which for months between These awful feasts none but the moth dare view; The Son of Heaven, the Unutterable Kwang Hsu, Borne in his lofty-looming palanquin, By slaves who, if they stumble, die unseen, Flits like a ghost through midnight—what to do? The West stands clamouring outside his door: We plan division of his lands and fame, Yet hold Heredity for proven Truth. To pray to his great Fathers gone before, —Might not Marc Brutus once have done the same?— Goes that spoiled, wretched, and mysterious youth. HUG THE BEAR! So 'twas for this that with consuming rage Your grandsires brake their bonds, and with a flood Of rich, and ancient, and tyrannic blood Washed Serfdom out from the annals of their age; For this the barefoot Armies did engage Upon a hundred fields; for this the good Grey-headed Hugo sang of Brotherhood In many a perfect line and laurelled page! It was for this! Well, if all shame be o'er, Fawn on the Russ, and when he smites one cheek Turn to him the other too, and since 'twere weak To seem half-hearted in such vile collapse, Trail through your festal streets the old crimson caps, And down each cesspool stuff a Tricolor! “CES PETITS FANTASSINS” You jeered to see the soldiers when They sought heroic graves,— Boys and small merry husbandmen, Pale children of the stool and pen, And branded galley-slaves; But you stood back in awestruck wise When homeward they did lag, Death looking out of many eyes, Red heart's-blood soaking through the dyes Of their old riddled flag! ON CHANGE OF OPINIONS As you advance in years you long For what you scorned when but a boy: Then 'twas the town, now the birds' song Is your obsession and your joy. And, as you lie and die, maybe You will look back, unreconciled To that dark hour, and clearly see Yourself a little wistful child. Into the jaws of death you'll bring No virile triumph, wrought with pain; But only to the monster fling The daydream and the daisy-chain, The lispéd word, the gentle touch, The wonder, and the mystic thought, For old gray Death upon his crutch To rake into his Bag of Nought.</field>
+   </doc>
+</add>

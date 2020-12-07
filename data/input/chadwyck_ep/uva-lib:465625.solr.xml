@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Savage, Richard</field>
+      <field name="author_facet">Savage, Richard</field>
+      <field name="author_sort_facet">savage richard</field>
+      <field name="author_text">Savage, Richard</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1720's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.1772.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1725</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:465625</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">The Authors of the Town ; A Satire: Inscribed to the Author of The Universal Passion [by Richard Savage</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 18th century</field>
+      <field name="subject_text">English poetry -- 18th century</field>
+      <field name="title_display">The Authors of the Town ; A Satire: Inscribed to the Author of The Universal Passion [by Richard Savage</field>
+      <field name="title_facet">authors of the town</field>
+      <field name="title_sort_facet">authors of the town</field>
+      <field name="title_text">The Authors of the Town ; A Satire: Inscribed to the Author of The Universal Passion [by Richard Savage</field>
+      <field name="year_display">1725</field>
+      <field name="year_facet">1725</field>
+      <field name="year_multisort_i">1725</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:465625&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:465625&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Savage, Richard&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;savage richard&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Authors of the Town ; A Satire: Inscribed to the Author of The Universal Passion [by Richard Savage&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;authors of the town&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1725&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1725&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Savage, Richard&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Authors of the Town&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Satire: Inscribed to the Author of The Universal Passion [by Richard Savage]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for J. Roberts [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1725&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp3461&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;16 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Authors of the Town&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Satire: Inscribed to the Author of The Universal Passion [by Richard Savage]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 24 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">—Stulta est clementia cum tot ubique Vatibus occurras perituræ parcere chartæ. Juvenal.</field>
+      <field name="fulltext">—Tenet insanabile multos Scribendi cacoethes— Ibid.</field>
+      <field name="fulltext">Quod si dolosi spes refulserit nummi, Corvos poetas, &amp; poetridas picas Cantare credas Pegaseium melos. Persius.</field>
+      <field name="fulltext">THE AUTHORS: A SATIRE. Inscribed to the Author of The UNIVERSAL PASSION. Bright Arts, abus'd, like Gems, receive their Flaws; Physick has Quacks, and Quirks obscure the Laws. Fables to shade Historic Truths combine, And the dark Sophist dims the Text Divine. The Art of Reasoning in Religion's Cause, By Superstition's Taint a Blindness draws. The Art of Thinking Free (Man's noblest Aim!) Turns, in Half-thinking Souls, his equal Shame. Colours, ill-mingled, coarse, and lifeless grow! Violins squeak, when Scrapers work the Bow! Distortion deadens Action's temper'd Fire! Belab'ring Poetasters thrum the Lyre! Gesture shuns Strut, and Elocution, Cant! Passion lies murder'd by unmeaning Rant! Wit we debase, if Ribaldry we praise, And Satire fades, when Slander wears the Bays. YOU, to whose Scrolls a just Neglect is shewn, Whose Names, tho' printed oft, remain unknown; I war not with the Weak, if wanting Fame, The Proud, and Prosp'rous Trifler is my Game. With usual Wit, unfelt while you assail, Remark unanswer'd, and unheeded Rail! Or heeded, know I can your Censure prize, For a Fool's Praise is Censure from the Wise; If then my Labour your kind Malice draws, Censure from you is from the Wise Applause. YOU, who delineate strong our Lust of Fame, These mimic Lays your kind Protection claim! My Frown, like your's, would to Improvement tend, You but assume the Foe, to act the Friend. Pleasing, yet wounding, you our Faults rehearse, Strong are your Thoughts! Inchanting rolls your Verse! Deep, clear, and sounding! decent, yet sincere; In Praise impartial, without Spleen severe. “HOLD, Criticks cry—Erroneous are your Lays, “Your Field was Satire, your Pursuit is Praise.” True, you Profound!—I praise, but yet I sneer; You're dark to Beauties, if to Errors clear! Know my Lampoon's in Panegyric seen, For just Applause turns Satire on your Spleen. SHALL Ignorance and Insult claim my Rage? Then with the World a gen'ral War I wage! No—to some Follies Satire scorns to bend, And Worth (or press'd, or prosp'rous) I commend. FIRST, let me view what noxious Nonsense reigns, While yet I loiter on Prosaic Plains; If Pens impartial active Annals trace, Others, with secret Hist'ry, Truth deface: Views and Reviews, and wild Memoirs appear, And Slander darkens each recorded Year. Each Prince's Death to Poison they apply, No Royal Mortals sure by Nature die. Fav'rites or Kindred artful Deaths create, A Father, Brother, Son, or Wife is Fate. In a past Reign was form'd a secret League, Some Ring, or Letter, now reveals th' Intrigue: A certain Earl a certain Queen enjoys, A certain Subject Fair her Peace destroys; The jealous Queen a vengeful Art assumes, And scents her Rival's Gloves with dire Perfumes: Queens, with their Ladies, work unseemly things, And Boys grow Dukes, when Catamites to Kings. A lying Monk on Miracles refines, And Vengeance glares from violated Shrines. THUS Slander o'er the Dead-One's Fame prevails, And easy Minds imbibe Romantic Tales: Thus from feign'd Facts a false Reflection flows, And by Tradition Superstition grows. NEXT, Pamphleteers a Trade licentious drive, Like wrangling Lawyers, they by Discord thrive. If Hancock proves Cold Water's Virtue clear, His Rival prints a Treatise on Warm Beer. If next Inoculation's Art spreads wide, (An Art, that mitigates Infection's Tide) Loud Pamphleteers 'gainst Innovation cry, Let Nature work — 'Tis natural to die. IF Heav'n-born Wisdom, gazing Nature thro', Thro' Nature's Optics forms Religion's View, Priestcraft opposes Demonstration's Aid, And with dark Myst'ry dignifies her Trade. IF Ruin rushes o'er a Statesman's Sway, Scribblers, like Worms, on tainted Grandeur prey While a poor Felon waits th' impending Stroke, Voracious Scribes, like hov'ring Ravens, croak. In their dark Quills a dreary Insult lies, Th' Offence lives recent, tho' th' Offender dies; In his last Words they suck his parting Breath, And gorge on his loath'd Memory after Death. WRETCHES, like these, no Satire wou'd chastise, But Follies here to ruthless Insult rise; Distinguish'd Insult taints a Nation's Fame, And various Vice deserves a various Shame. PAMPHLETS I leave—sublime my Fancy grows! No more she sweeps the humble Vale of Prose. Now I trace swift the Muse's airy Clime, The Dance of Numbers, and the Change of Rhime! In measur'd Rounds Imagination swims, And the Brain whirls with new, surprizing Whims! Poets are mad! 'tis granted:—So are you, Grave Critics, who those Lunatics pursue: You labour Comments, dry on Classic Lays, Partial alike in Censure, and in Praise; Where most abstruse, you most assert they shine, Where Homer raves, his Allegory's fine! But if a Modern with an Ancient vies, Spirit grows Phrensy, to a Wit so wise. PHLEGM without Fire, your flat Encomiums bear, When you declaim, a Mark revers'd you wear; If not inspir'd, at least possess'd you seem, You boil with Choler, and dismiss your Phlegm. None unprefer'd, in Parliament more loud! No worn-out Fair more peevish, or more proud! No City-Dame, when to the Birth-Night drawn, More vain of Gems!—(some Female Courtier's Pawn!) Proud as a Judge, when Equity's a Trade, Or Lord, whose Guilt was with a Title paid. MARK cautious Cinna mimic Poesy's Flame, Coarse are his Colours, and obscure his Aim! Cinna, thy Genius weds not with the Muse; No longer then thy well-known Parts misuse! Cinna, thus doctor'd, stifles all he writ, But sneers malignant at another's Wit. Some beauteous Piece applauded, He replies, The Sun has Spots, and a wish'd Error spies. SO some warm Lass grows pregnant e'er she marries, Takes Physic, and for Honour's sake miscarries; Jealous of Praise, pale Envy taints her Lip, And her Tongue tattles of each Virgin's Trip. THEOCRITUS's Ape, dry, proud, and vain, Shews the stiff Quaker for the simple Swain. In Tragic Scenes, how soft he moves Distress? His Lamb-like Princess in the Pure-one's Dress: Plain in Expression, and in Passion tame, Propriety of Words is all his Aim. SCRIBLERS grow fast—One, who gains least Applause, (His Works reprinting) a Subscription draws. Ape of an Ape! How is the Species grown? Inferior Apes this Ape a Viceroy own! O'er a learn'd Tribe, He Grand Dictator plays, And points young Wits new Models in his Lays. Flat Odes, Epistles, and Translations rise, And a new Preface words it with the Wise! Art is School Trash—Horace and Pope are Fool Sonnets and Madrigals require no Rules. Milton runs rough—Here plainer Lays allure! Nor Low, nor Grand, nor Simple, nor Impure. A Love-sick Youth, who sighs about Eighteen, Whines in Blank Verse, and tries a Tragic Scene. One Poet, damn'd, turns Critick, storms in Prose; His railing Pamphlet his wrong'd Merit shows. A trading Bard salutes the Lord in Place, Whom he insults with Satire, in Disgrace. One, jocund, sings Birth-Days, and Nuptial Rites: One, of the Dead, a doleful Dirge recites, Dull as deep Bells, that toll the Fun'ral's Time, Or drowzy Echoes from the Bell-Man's Rhime. A cast-off Dame, who of Intrigues can judge, Writes Scandal in Romance—A Printer's Drudge! Flush'd with Success, for Stage-Renown she pants, And melts, and swells, and pens luxurious Rants. BUT while her Muse a sulph'rous Flame displays, Glows strong with Lust, or burns with Envy's Blaze! While some black Fiend, that hugs the haggar'd Shrew, Hangs his collected Horrors on her Brow! Clio, descending Angels sweep thy Lyre, Prompt thy soft Lays, and breathe Seraphic Fire. Tears fall, Sighs rise, obedient to thy Strains, And the Blood dances in the mazy Veins! Crown'd with the Palm, Bays, Myrtle, and the Vine; Love, Pity, Friendship, Music, Wit, and Wine, In social Spirits, lead thy Hours along, Thou Life of Loveliness, thou Soul of Song! A Blade whose Life a Turn of Humour takes, Cocks smart, trims fine, treats Harlots, scours with Rakes! When his drain'd Purse no new Expence supplies, Fond Madam frowns, each dear Companion flies! Duns clamour, Bailiffs lurk, and Clothes decay, Coin ebbs, he must recruit—He writes a Play. “Bold Task! a Play?—Mark our young Bard proceed! “A Play?—Your Wits in Want are Wits indeed.” Here the Punk's Jokes are for Politeness wrote, Some inconsistent Novel forms a Plot. In the Gallant, his own wise Conduct glares! Smut is sheer Wit!—Each Prank a Merit wears! Bright Youth! He steals, to make the Piece entire, A Cuckold, Beau, pert Footman, and a Squire. WHEN Bards thus patch up Plays from various Scraps, They dream of crouded Houses! thundring Claps! False Hope! Poets are poor, and Fortune's blind, Actors are saucy—or the Town's unkind. BUT why should Satire war with ill Success? Why should I add Affliction to Distress? 'Tis bold t' assail proud Vice with stinging Lays! 'Tis bolder yet, to give wrong'd Merit Praise! Few dare accuse what stately Wits defend! Few dare against the gen'ral Vogue commend! JOHNNY's fine Works at Court obtain Renown! Aaron writes Trash—He ne'er collogues the Town. How Grand the Verse which My Lord's Feats declares. Rude are Lampoons, that lash My Lady's Airs. How arch the Wit, when Her Grace deigns a Laugh Dull is the Satire on the Duke's white Staff. Oh, You Polite! Your Smiles are Fame's sweet Road; We praise, subscribe, or damn—because the Mode. JOHNNY no more reflects a shining Page, From that bright Genius, that has charm'd the Age! More conscious now, his single Worth he rates! Verses are made, like Med'cines, by Receipts. Soft Phrases he collects—to scan, to chime, Reads deep, and weighs vast Lexicons of Rhyme. Hints from Fontaine, some smart Design compleat; The Whim is pretty, and the Language neat. Tho' smart, neat, pretty; yet ev'n Courtiers own, It glitters not with Pope—aside 'tis thrown. JOHNNY, who fosters next his Patron's Wit, Strikes out a Play, with Thought, and Spirit writ! To first-rank Beaus our artful Bard applies, One writes to charm the Fair, and One the Wise. Beaus fly the Fame, yet secret Talents know, And read, revise, and ev'n Co-Authors grow; And now anew th' inverted Work they frame, New Thoughts they hatch!—But Johnny holds the Name. So fruitful Madams, their Amours unknown, Bear private Babes, which, born, their Midwives own. At Grand Assemblies, Play and Bard appear, Cabals are form'd, our Johnny's Debts to clear; 'Tis read, prais'd, acted!—Now the Poet's Trap! Beaus heed your Scenes! You know your Cues to clap. THUS thro' nine Nights loud Party-Praises roar, Then die away at once, to noise no more. In vain such Authors hope substantial Fame, Such Praise must usher in a sequent Shame. To the next Age, the present proves disgrac'd, With the mean Wits we priz'd, it ranks our Taste; But thro' a third, not ev'n their Shame they boast, Their Names, their Works, and Shame alike are lost. CALL you these Witlings a Poetic Brood? Are Pies and Daws the Songsters of the Wood? For Wit, not Nonsense, first was form'd the Stage, Not to infect, but to refine the Age! Here soften'd Virtue Rigours's Frown declines! Precept, enforc'd by just Example, shines! In each rais'd Tear a gen'rous Meaning flows! In each pleas'd Smile a fair Instruction grows! When we strike Nature, and improve the Mind, Those deathless Works a sweet Remembrance find; No chearless Merit unrewarded toils, Still Compton lives, and still a Dorset smiles: Some Noble Spirits still adorn the Great, Still shines Argyle with ev'ry Grace of State; Wisdom and Bounty sweet on Rutland sit, And Colonel Howard's Lady. Howard's the lovely Patroness of Wit. BUT say, whence liberal Arts thus feel Decay? Why melt their Charms, like Fairy Towers, away? Not Ignorance, oppos'd, their Strength impairs, They break, they perish by intestine Jars. Artists on Artists scoul with jealous Eyes, And Envy Emulation's place supplies. With Envy's Influence the dark Bosom's fraught, But Emulation brightens ev'ry Thought! Pale Envy pines, if Excellence aspires, And most she slanders what she most admires; Charm'd Emulation can, with Transport, gaze, Yet wou'd outsoar the Worth, she loves to praise. THUS thou, our Universal Passion's Foe, Canst thy own Height, by praising Others, show. Young well may Pope's and Congreve's Charms admire, Young glows distinguish'd with an equal Fire: So strong thy Learning, Wit, and Friendship shine, What Praise true Merit claims, is justly thine. FINIS.</field>
+   </doc>
+</add>

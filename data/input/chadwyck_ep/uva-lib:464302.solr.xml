@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Amner, John</field>
+      <field name="author_facet">Amner, John</field>
+      <field name="author_sort_facet">amner john</field>
+      <field name="author_text">Amner, John</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.1823.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1615</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464302</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">Sacred Hymnes. Of 3. 4. 5. and 6. parts for Voyces &amp;amp; Vyols. Newly Composed</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">Sacred Hymnes. Of 3. 4. 5. and 6. parts for Voyces &amp; Vyols. Newly Composed</field>
+      <field name="title_facet">sacred hymnes of 3 4 5 and 6 parts for voyces &amp; vyols newly composed</field>
+      <field name="title_sort_facet">sacred hymnes of 3 4 5 and 6 parts for voyces vyols newly composed</field>
+      <field name="title_text">Sacred Hymnes. Of 3. 4. 5. and 6. parts for Voyces &amp; Vyols. Newly Composed</field>
+      <field name="year_display">1615</field>
+      <field name="year_facet">1615</field>
+      <field name="year_multisort_i">1615</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464302&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464302&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Amner, John&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;amner john&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Sacred Hymnes. Of 3. 4. 5. and 6. parts for Voyces &amp;amp; Vyols. Newly Composed&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;sacred hymnes of 3 4 5 and 6 parts for voyces &amp;amp; vyols newly composed&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1615&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1615&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Amner, John&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Sacred Hymnes. Of 3. 4. 5. and 6. parts for Voyces &amp;amp; Vyols. Newly Composed&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed ... by Edw: Allde [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1615&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp3640&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;6 parts&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Sacred Hymnes. Of 3. 4. 5. and 6. parts for Voyces &amp;amp; Vyols. Newly Composed&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 23 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted; music omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Songbooks.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">The following poems are scored for music in the source text. Where poems are not stanzaic, no attempt has been made to reconstruct the metrical lines. Variations for different voices have been ignored. Repetition marks have been ignored.</field>
+      <field name="fulltext">To the Right Honorable my singuler good Lord and Maister William Earle of Bath: Lord Lieftenant of the Countye of Deuon:</field>
+      <field name="fulltext">3. VOC. [Loue we in one consenting] Loue we in one consenting Loue we in one consenting, each others hart contenting, Alleluia, Alleluia, Alleluia, Alleluia, Loue wee in one consenting, each others hart contenting Alleluia, Alleluia, Alleluia, Alleluia, Our heauenly Lord, Our heauenly Lord that boughtvs this holy lesson taught vs, Alleluia, Alleluia, Our heau'nly Lord that bought vs, that bought vs, this holy lesson, taught vs Alleluia, Alleluia, Alleluia. Diligite vos in vicem, sicut et ego vos dilexi. [Let false surmises perish] Let false surmises perish Let false surmises perish, true Faith true Loue doth cherish, Alleluia, Alleluia, Alleluia. Let false surmises perish, true Faith true Loue doth cherish. Alleluia, Alleluia, Alleluia. Let enuye be remoued, who loues shall be beloued, shall be beloued, Alleluia, Alleluia, Alleluia. Let enuy be remoued, who loues shall be beloued, shall be beloued. Alleluia, Alleluia, Alleluia. Charitas non inuidet. [Away with weake complainings] Away with weake complainings Away with weake complainings, and all vnkinde disdainings, Alleluia, Alleluia, Alleluia Alleluia, Away with weake complainings, and all vnkind disdainings, Alleluia. Alleluia, Alleluia, Alleluia, Sith he who vs redeemed hath all for good esteemed, esteemed, Alleluia, Alleluia, Alleluia, Sith he who vs redeemed, hath all for good esteemed, esteemed, Alleluia, Alleluia, Alleluia. Charitas omnia tollerat. [O come, thou spirit diuinest] O come, O come thou spirit diuinest O come, O come thou spirit diuinest, that sweetly harts combinest, y? sweetly harts, that sweetly harts combinest. Alleluia, Alleluia, Alleluia, Alleluia, O come, O come thou spirit diuinest, that sweetly harts combinest, that sweetly harts, Alleluia, Alleluia, Alleluia, Alleluia. Vnite our mindes for euer, that wee in loue perseuer, in loue perseuer, Alleluia, Alleluia Alleluia, Alleluia. Si deus in nobis, &amp; nos maneamus in ipso. [O loue, beseeming well the God of loue] O loue, O loue beseeming well the God of loue O loue, O loue beseeming well the God of loue, the God of loue, Alleluia, Alleluia, he made that good that good which ill was growne, he bought the good that was his owne, the good that was his owne, that was his owne, Alleluia, Alleluia, he begges the good that he hath bought, hee crownes the good that hee hath wrought, O depth of loue, of loue, O depth of loue, Alleluia, Alleluia, Alleluia, Alleluia, Alleluia. Deus charitas est. [Distressed soule, and thou deceitfull eye] Distressed soule, and thou deceitfull eye Distressed soule, and thou deceitfull eye, cease not, cease not to moane, to moane my miserie, to moane, to moane my miserie, cease not to mourne, cease not to mourne, to mourne, sith you cease not to sinne, you cease not to sinne, Better else you had neuer beene, you had neuer beene, for now no hope, no hope, no helpe for you is left, no hope, no helpe for you is left, but griefe for that, but griefe for that you are bereft, Aye me, poore wretch forlorne, that euer I was borne Aye me, Aye me, Aye me, Aye me. Per vnum hominem peccatum; et per pecatum mors.</field>
+      <field name="fulltext">4. VOC. [Sweet are the thoughts that harbor full content] Sweet are the thoughts that harbor full content Sweet are the thoughts that harbor full content delightfull be the ioyes, delightfull be the ioyes that know no care, Such those sweet thoughts that on heau'ns ioyes are bent, that on heau'ns ioyes are bent, are bent, and on celestiall blisse, still thinking are, still thinking are, these ioyes delight, these thoughts content doe send, content do send, content do send, these ioyes delight, these thoughts content doe send, all earthly thoughts and ioyes in sorrow end, in sorrow end, in sorrow end. Intelligentia carnis mors est: intelligentia vera [Come lets reioyce] Come lets reioyce, reioyce vnto our Lord Come lets reioyce, reioyce vnto our Lord, reioyce vnto our Lord, let vs make ioy, to God our Sauiour, our Sauiour, Come lets reioyce, reioyce vnto our Lord reioyce, reioyce vnto our Lord: let vs make ioy, to God our Sauiour, our Sauiour. Let vs approch to his presence in confession, and in Psalmes, and in Psalmes: Let vs make ioy to him, Let vs make ioy to him, to him, to him. Alleluia, Alleluia, Alleluia, Alleluia. [Saint Mary now, but erst the worst of many ] 1. part. Saint Mary now, Saint Mary now, but erst the worst of many Saint Mary now, Saint Mary now, but erst the worst of many, when with disheaueld hayres, shee wipt the feete that she with teares had washt beefore, with knees full lowly bent, and many a greiuous groane, to heau'n sent, to heau'n sent, to heau'n sent, to heau'n sent. Marie Magdalene beatæ Lachrymæ. [At length to Christ her saddest eies upheauing ] 2. part. At length, at length to Christ, to Christ her saddest eies vpheauing At length, at length to Christ, to Christ her saddest eies vpheauing, Deigne holy Lord said she, to cast thine heauenely eye on mee, the sinfulst wretch, to cast thine heauenly eie on mee, the sinfulst wretch with that, with that shee fell, shee fell to ground and wept, and wept as if with teares shee would haue drownd, would haue drownd. [Bvt hee, the God of loue and mercies wonder ] 3 part. Bvt hee, but hee the God of loue and mercies wonder Bvt hee, but hee the God of loue and mercies wonder, seeing the plight shees in, though nothing lesse he lou'd then sinne, nothing lesse hee lou'd then sinne, and many Crimes had brought him into thrall, into thrall, beecause shee loued much, forgaue hir all, forgaue hir all, because shee loued much forgaue hir all, because shee loued much forgaue hir all Peccata multa dimittuntur, nam dilexit multum. [Woe is me, that I am a stranger so long] Woe is me, that I am a stranger so long Woe is me, that I am a stranger so long, so long, so long, and that I dwell in the tents of Keadar, of Keadar, I dwell in the tents of Keadar, my soule hath too long dwelt in a strange place, in a strange place, Oh that I had wings like a doue, then would I flie away and bee at rest, and be at rest, then would I flie away, and bee at rest. Dum sumus in carne, peregrinamur a domino. The ende of the 4. parts.</field>
+      <field name="fulltext">5. VOC. [Remember not Lord our offences] Remember not Lord our offences Remember not Lord our offences, our offences, nor the offences, of our forefathers, neither take thou vengeance of our sinne, spare vs good Lord, spare thy people, whom thou hast redeemed, spare thy people, whom thou hast redeemed with thy precious blood, and bee not angrie with vs for euer. Amen. Amen. Meritum meum miseratio domini. [Thus siings that heauenly quier ] 1 part Thus siings that heauenly quier Thus siings that heauenly quier, with zeale, burning like fier, Alleluia, Alleluia, And all the Saints with purest robes attending, attending vpon the Lambe, their knees full lowly bending, bending. Alleluia, Alleluia, Alleluia. [The Heau'ns stood all amazed ] 2. part. The Heau'ns stood all amazed The Heau'ns stood all amazed, The earth vpon them gazed, Alleluia, Alleluia, Alleluia, Alleluia, At length both hean'n and earth for ioye confounded, with voice as loude as thunder, with voice as loude as thunder, loude as thunder, sweetly resounding, Alleluia, Alleluia, Alleluia, Alleluia. Audiui magnam vocem multi populi in cælo Dicentis Alleluia. [Now doth the Citie] Now doth the Citie: For these things I weepe Now doth the Citie: For these things I weepe, I weepe, and mine eye, euen mine eye, mine eye, casteth out water, O Ierusalem, Ierusalem, how often would I haue gatherred thy children together, as the henne gathereth hir brood, vnder hir wings, O that thou had'st euen knowne at the least in this thy day, O that thou had'st euen knowne, O that thou had'st euen knowne at the least in this thy day those things, those things, which belong vnto thy peace. O Hierusalem Hierusalem qui occidis prophetas &amp;c. [Hee that descended man to bee] Hee that descended man to bee Hee that descended man to bee, is now ascended God on high, on high, Alleluia, Alleluia, Alleluia, Alleluia, the trumpets sound, the Angells sing, the glorious triumphs of our King, of our King, Alleluia, Alleluia, Alleluia, Alleluia, Alleluia, Ascensio Christi. In memorie of the Gunpouder day. I will singe vnto the Lord, for he hath triumphed gloriouslly I will singe vnto the Lord, for he hath triumphed gloriouslly, gloriously, the horse and him that rode vpon him, hath hee ouerthrowne in the sea, hath hee ouerthrowne in the sea, hath he ouerthrowne in the sea, hath hee ouerthrowne, hath hee ouerthrowne in the sea. Alleluia, Alleluia, Alleluia, Alleluia. Si deus nobiscum, quis contra nos. The ende of the 5. parts.</field>
+      <field name="fulltext">6. VOC. [O yee little flocke ] 1. part. O yee little flocke, O yee faithfull shepherds O yee little flocke, O yee faithfull shepherds, O yee host of heau'n, giue eare, vnto my song, and behold an Angell, and the glorie of the Lord, shone round about them, shone round about them, &amp;c they all quaked for feare, quaked for feare, And the glorie of the Lord, shone round about them round about, shone round about, shone round about, about them, round about them, and they all quaked for feare, quaked for feare, quaked for feare. [Feare not ] 2. part. Feare not, for vnto you, is borne Feare not, for vnto you, is borne, a Sauiour, and not to you, but to all, people, to all people, which is Christ our Lord, Christ our Lord, And suddenly, suddenly, an host of heau'nly Angells, heau'nly Angells, sung and praised God, and saide, glorie bee to God on high, to God on high, peace bee on earth, on earth, good will to men, Alleluia, Alleluia, Alleluia. Gloria in excelsis deo. &amp;c. [And they crie one to another ] 3. part. And they crie: one to another And they crie: one to another, holy, holy, holy, holy, holy, holy, holy, holy, holy, holy, holy, holy is the Lord of hosts, All the world is full of his glory, of his glory, holy, holy, holy holy is the Lord of hosts, all the world is full of his glory, Alleluia Alleluia. Gloria in excelsis deo. &amp;c. [Loe how from heau'n like starres ] 1. part. Loe, Loe how from heau'n like starres Loe, Loe how from heau'n like starres, like starres, the Angells flying, the Angells flying, flying, bring back the day to earth in midnight lying, Vp shepherds vp, this night, this night, this night is borne your King, you neuer heard the Sphears, you neuer heard the Sphears such Musique sing, you neuer heard the Sphears such Musique sing, such Musique sing, such Musique sing. [I bring you tiding ] 2. part. I bring you tiding, tiding, of ioyes I bring you tiding, tiding, of ioyes, of ioyes aye biding, the Prince of Light, is borne this night, this night, so vp, so vp he sprang, so vp, so vp he sprang, and all heau'n sang, ioye to the sorry, to God bee glory, to God bee glorie, Alleluia, Alleluia, Alleluia. Gloria in excelsis deo. &amp;c. [A stranger heere, as all my fathers were] A stranger heere, as all my fathers were A stranger heere, as all my fathers were, that went before, I wander too and fro, too and fro, from earth to heau'n is my pilgrimage, from earth to heau'n, is my pilgrimage, a tedious way for flesh and blood to goe, O thou, O thou that art the way, pittie the blinde, and teach mee how I may thy dwelling finde, I may thy dwelling finde, Amen. Amen, Amen. [My Lord] My Lord: Alleluia, Alleluia My Lord: Alleluia, Alleluia, Alleluia, Alleluia, Alleluia, Alleluia, Alleluia, Alleluia, Alleluia, Alleluia. Resurrectio Christi. [An Eligie in memorie of Master Thomas Hynton.] With mornefull Musique With mornefull Musique, with mornefull Musique, now remember him, that while hee liu'd, did oft remember thee, and fill'd his Musiques Fountaine to the brimme, with thy sweet songs and pleasant harmony, and pleasant harmony, harmony, who was to Master, Children and to frend, so faithfull, kinde and true, so faithfull kinde and true as no man more, so wise, so learnd, so carefull, so carefull of his ende, as grac'd his liuing actions, and therefore, his death, with sobbes &amp; sighes, and sighs I will deplore, I will deplore, And wish to die, and wish to die, to liue in heau'nly blisse, to liue in heau'n, in heau'ly blisse, where worthie, Hynson, through gods mercie is, where worthy Hynson (is,) through gods mercie is, through gods mercie is. FINIS.</field>
+   </doc>
+</add>

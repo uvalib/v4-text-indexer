@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1930's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2007_03/uvaGenText/tei/bov_19350812.xml</field>
+      <field name="date_indexed_facet">201909240347</field>
+      <field name="date_text">August 12, 1935</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:415309</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. August 12, 1935</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  August 12, 1935</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  August 12, 1935</field>
+      <field name="year_display">August 12, 1935</field>
+      <field name="year_facet">1935-08-12</field>
+      <field name="year_multisort_i">1935</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:415309&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:415309&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. August 12, 1935&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;August 12, 1935&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1935-08-12&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;August 12, 1935&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Official minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;1 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1935-08-12&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 11 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">August 12, 1935 A special meeting of the Rector and Visitors was held on this date with the Rector, Fred W. Scott, and Visitors Corbitt, Garnett, Goolrick, Hall, Rinehart, Stuart and R. Gray Williams, and President Newcomb present. Minutes of the previous meeting, which were copied and mailed to the members, were approved. The President presented to the meeting the preliminary plans for the proposed new library building which were explained by Mr. R. E. L. Taylor, Architect for the building, and examined at some length by the members. It was estimated that the building with necessary equipment would cost approximately $950,000. On motion, duly made and seconded, the project was approved, the preliminary plans tentatively approved and the President authorized to present the matter to the Governor of Virginia for his approval. Following the approval of the Governor, the President was authorized to make application to the United States of America for a loan and grant to aid in financing the construction of the said building, as set forth in the following resolution, unanimously adopted: A resolution authorizing The Rector and Visitors of the University of Virginia to file an application to the United States of America through the Federal Emergency Administration of Public Works for a loan and grant to aid in financing the construction of a new Library Building to house the general library of the University of Virginia and designating its President, J. L. Newcomb, to furnish such additional information as the Government may request. BE IT RESOLVED by The Rector and Board of Visitors of The Rector and Visitors of the University of Virginia: Section 1. That J. L. Newcomb, President of The Rector and Visitors of the University of Virginia, be and he is hereby authorized to execute and file an application on behalf of said The Rector and Visitors of the University of Virginia to the United States of America for a loan and grant to aid in financing the construction of a new Library Building to house the general library of the University of Virginia. Section 2. That the said J. L. Newcomb, President of The Rector and Visitors of the University of Virginia, be and is hereby authorized and directed to furnish such information as the United States of America through the Federal Emergency Administration of Public Works may reasonably request in connection with the application which is herein authorized to be filed. The President brought to the attention of the meeting the need for a building for the proper treatment of nervous diseases, and stated that the Dean of the Department of Medicine and Superintendent of the Hospital had worked out a tentative plan whereby an addition could be made to the southern wing of the Hospital to provide proper care of such patients; that it was proposed to use the gift of $75,000 from Mr. McIntire and to ask for a grant from the Federal Government of $61,363.00, being 45% of the estimated cost of such building. The President further stated that in case such grant were made, it would be necessary for the Governor to agree to an increase in the appropriation for the Hospital and Medical School of a sum sufficient to offset the loss in income from the present invested fund of $75,000 and to provide hospital care of such patients as would be admitted thereto, making a total to be provided annually of $14,880, otherwise the proposed addition ought not be carried out. On motion, duly made and seconded, the project was approved and the President authorized to present the matter to the Governor for approval, and to the Federal Emergency Administration of Public Works as set forth in the following resolution, unanimously adopted: A resolution authorizing The Rector and Visitors of the University of Virginia to file an application to the United States of America through the Federal Emergency Administration of Public Works for a grant to aid in financing the construction of a Neuro-Psychiatric Addition to the Hospital of the University of Virginia, and designating its President, John Lloyd Newcomb, to furnish such information as the Government may request. BE IT RESOLVED by The Rector and Board of Visitors of The Rector and Visitors of the University of Virginia: Section 1. That John Lloyd Newcomb, President of The Rector and Visitors of the University of Virginia be and he is hereby authorized to execute and file an application on behalf of said The Rector and Visitors of the University of Virginia to the United States of America for a grant to aid in financing the construction of a Neuro-Psychiatric Addition to the Hospital of the University of Virginia. Section 2. That the said John Lloyd Newcomb, President of The Rector and Visitors of the University of Virginia, be and he is hereby authorized and directed to furnish such information as the United States of America through the Federal Emergency Administration of Public Works may reasonably request in connection with the application which is herein authorized to be filed. The following were nominated to the Governor from which to appoint one member of the State Art Commission: Professor E. S. Campbell, Assistant Professor F. C. Disque, W. Duncan Lee, of Richmond, Va. The President made a statement to the meeting of the proposed requests to be presented to the Budget Commission when it visited the University on its tour of inspection. The proposed requests were approved. The meeting then adjourned. C. Harding Walker Rector. E. I. Carruthers Secretary.</field>
+   </doc>
+</add>

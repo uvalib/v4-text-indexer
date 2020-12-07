@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Published for the Early English Text Society by Humphrey Milford, Oxford University Press</field>
+      <field name="author_facet">Published for the Early English Text Society by Humphrey Milford, Oxford University Press</field>
+      <field name="author_sort_facet">published for the early english text society by humphrey milford oxford university press</field>
+      <field name="author_text">Published for the Early English Text Society by Humphrey Milford, Oxford University Press</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1920's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.0966.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1922</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459595</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Noah and the Death of Lamech</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 20th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 20th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Noah and the Death of Lamech</field>
+      <field name="title_facet">noah and the death of lamech</field>
+      <field name="title_sort_facet">noah and the death of lamech</field>
+      <field name="title_text">Noah and the Death of Lamech</field>
+      <field name="year_display">1922</field>
+      <field name="year_facet">1922</field>
+      <field name="year_multisort_i">1922</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459595&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459595&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Noah and the Death of Lamech&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;noah and the death of lamech&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1922&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1922&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Noah and the Death of Lamech&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Published for the Early English Text Society by Humphrey Milford, Oxford University Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1922&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873624-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv10966&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Noah and the Death of Lamech&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 27 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory material omitted&lt;lb/&gt;The following plays have been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Copyright (c) 1922, Early English Text Society. This text may not be reproduced, except for fair dealing purposes, without the express permission of Chadwyck-Healey and the copyright holder.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Noah and the death of Lamech.</field>
+      <field name="desc_meta_file_display">Genre: English mystery and miracle plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1468.</field>
+      <field name="desc_meta_file_display">Date first performed: 1400–1450 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Square brackets represent sections of text unclear in the original and supplied by the current editor.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">[Noah and the Death of Lamech]</field>
+      <field name="fulltext">Noe God of his goodnesse and of grace grounde By whoys gloryous power all thyng is wrought in whom all vertu plentevously is ffounde with-owtyn whos wyl may be ryth nought Thy seruauntys saue lord fro synful sownde In wyl in werk in dede and in thouht oure welth in woo lete nevyr be fownde Vs help lord from synne þat we be in brought Lord god fful of myght Noe serys my name is knowe my wyff and my chyldere here on rowe to god we pray with hert ful lowe to plese hym in his syght. In me Noe þe secunde age in dede be-gynnyth as I ?ow say afftyr Adam with-outyn langage þe secunde fadyr am I in fay But men of levyng be so owt-rage bothe be nyght and eke be day þat lesse þan synne þe soner swage god wyl be vengyd on vs sum way In dede Ther may no man go þer owte but synne regnyth in every rowte In every place rownde a-bowte Cursydnes doth sprynge and sprede. Vxor Noe All myghty god of his gret grace enspyre men with hertely wyll for to sese of here trespace Ffor synfull levyng oure sowle xal spyll Synne offendyth god in his face and a-grevyth oure lorde ffull ylle It causyth to man ryght grett manace and scrapyth hym out of lyvys bylle þat blyssyd book What man in synne doth all wey scleppe He xal gon to helle ful deppe than xal he nevyr after creppe out of þat brennyng brook. I am ?our wyff ?our childeryn þese be On to us tweyn it doth longe hem to teche in all degre Synne to for-sakyn and werkys wronge Therfore fere for loue of me Enforme hem wele evyr amonge Synne to for-sake and vanyte and vertu to ffolwe þat þei ffonge oure lord god to plese. Noe I warne ?ow childeryn on and all Drede oure lord god in hevy hall and in no forfete þat we ne fall oure lord for to dysplese. Shem A dere ffadyr god for-bede þat we xulde do in ony wyse Ony werke of synful dede oure lord god þat xulde a-gryse my name is Shem ?our son of prise I xal werke aftere ?our rede and also wyff þe weyll a-wyse Wykkyd werkys þat þou non brede never in no degre. Vxor Seem For-sothe sere be goddys grace I xal me kepe from all trespace þat xulde offende goddys face be help of þe trynyte. Cham I am cham ?our secunde son and purpose me be goddys myght nevyr suche a dede for to don þat xuld a-greve god in syght. Vxor Cham I pray to god me grawnt þis bone that he me kepe in such A plyght mornynge hevenynge mydday and none I to affendyn hym day nor nyght lord god I þe pray Bothe wakynge and eke in slepe gracyous god þou me keppe þat I nevyr in daunger crepe On dredfull domys day. Japhet Japhet þi iijd e sone is my name I pray to god wher so we be þat he vs borwe fro synfull shame and in vertuous levynge evyr more kepe me. Vxor Japhet I am ?our wyff and pray þe same þat god vs saue on sonde and se With no grevauns þat we hym grame he grawnt vs grace synne to fle lord god now here oure bone. Noe Gracyous god þat best may with herty wyl to the we pray þou save us sekyr bothe nyght and day Synne þat we noon done. Deus Ow what menyht this mys-levyng man whiche myn hand made and byldyd in blysse Synne so sore grevyht me ?a in certayn I wol be vengyd of þis grett mysse Myn aungel dere þou xalt gan to noe þat my servaunt is A shypp to make on hond to tan þou byd hym swyth ffor hym and his Ffrom drynchyng hem to save Ffor as I am god off myght I xal dystrove þis werd down ryght Here synne so sore grevyht me in syght þei xal no mercy haue. Ffecisse hominem nunc penitet me þat I made man sore doth me rewe myn handwerk to sle sore grevyth me but þat here synne here deth doth brewe Go sey to noe as I bydde þe hym self his wyf his chylderyn trewe tho viij sowlys in shyp to be thei xul not drede þe flodys fflowe þe fflod xal harme them nowht of all ffowlys and bestys thei take a peyre In shypp to saue both ffoule and ffayere Ffrom all dowtys and gret dyspeyre This vengeauns or it be wrought. Angelus ad noe Noe Noe A shypp loke þou make and many a chaumbyr þou xalt haue þerinne Of euery kyndys best a cowpyl þou take with-in þe shypp bord here lyvys to wynne. Ffor god is sore grevyd with man for his synne þat all þis wyde werd xal be dreynt with flood saff þou and þi wyff xal be kept from þis gynne and also þi chylderyn with here vertuys good. Noe How xuld I haue wytt a shypp for to make I am of ryght grett Age V. C. ?ere olde it is not for me þis werk to vndyr-take Ffor ffeynnesse of Age my leggys gyn ffolde. Angelus This dede ffor to do be bothe blythe and bolde God xal enforme þe and rewle þe ful ryght of byrd and of beste take as I þe tolde A peyr in to þe shypp and god xal þe qwyght. Noe I am ful redy as god doth me bydde A shypp for to make be myght of his grace Alas þat ffor synne it xal be so be-tydde þat vengeauns of flood xal werke þis manase god is sore grevyd with oure grett tresspas þat with wylde watyr þe werd xal be dreynt A shyppe for to make now lete us hens pas þat god a-?ens us of synne haue no compleynt Hic transit noe cum familia sua pro naui quo exeunte locum interludij sub intret statim lameth conductus ab adolescente et di[cit] lameth Gret mornyng I make and gret cause I haue Alas now I se not for age I am blynde blyndenes doth make me of wytt for to rave Whantynge of eye syght in peyn doth me bynde whyl I had syht þer myht nevyr man fynde my pere of Archerye in all þis werd A-boute Ffor ?itt schet I nevyr at hert Are nere hynde but yf þat he deyd of þis no man haue doute. Lameth þe good archere my name was ovyr all Ffor þe best Archere myn name dede ever sprede Record of my boy here wytnes þis he xal What merk þat were set me to deth it xuld blede. Adolescens It is trewe mayster þat ?e seyn in dede Ffor þat tyme ?e had ?oure bowe bent in honde If þat ?our prycke had be half a myle in brede ?e wolde þe pryk han hitte if ?e ny had stonde. lameth I xuld nevyr affaylid what marke þat ever were sett whyl þat I myght loke and had my clere syght and ?it as me thynkyht no man xuld shete bett Than I xuld do now if myn hand were sett a-ryght A-spye som marke boy my bow xal I bende wyght and sett myn hand euyn to shete at som best and I dar ley a wagour his deth for to dyght þe marke xal I hitt my lyf do I hest. Adolescens Vndyr ?on grett busche mayster A best do I se take me þin hand swyth and holde it ful stylle now is þin hand evyn as euyr it may be Drawe up þin takyll ?on best for to kylle. lameth My bowe xal I drawe ryght with herty wylle this brod arwe I shete þat best ffor to sayll now haue at þat busch ?on best for to spylle A sharppe schote I shote þer of I xal not fayll. Caym Out out and alas myn hert is on sondyr With a brod arwe I am ded and sclayn I dye here on grounde myn hert is all to tundyr With þis brod arwe it is clovyn on twayn, lameth Herke boy cum telle me þe trewth in certeyn what man is he þat þis cry doth þus make. Adolescens Caym þou hast kyllyd I telle þe ful pleyn with þi sharp shetyng his deth hath he take. lameth Haue I slayn cayme alas what haue I done þou stynkynge lurdeyn what hast þou wrought þou art þe why I scle hym so sone þer fore xal I kyll þe here þou skapyst nowght Hic lameth cum arcu suo verberat Adolescentem ad mortem, dicente Adolescente Adolescens Out out I deye here my deth is now sought þis theffe with his bowe hath broke my brayn þer may non helpe be my dethe is me brought Ded here I synke down as man þat is sclayn. lameth Alas what xal I do wrecch wykkyd on woolde God wyl be vengyd ful sadly on me Ffor deth of Caym I xal haue vii folde more peyn þan he had þat abell dede sle. These to mennys deth full sore bought xal be Vpon all my blood god wyll venge þis dede where fore sore wepyng hens wyl I fle and loke where I may best my hede sone heyde. Hic recedat lameth et statim intrat noe cum naui cantantes. Noe With doolful hert syenge sad and sore Grett mornyng I make ffor this dredful flood of man and of best is dreynte many a skore All þis werd to spyll þese flodys be ful wood and all is for synne of mannys wylde mood þat god hath ordeyned þis dredfull vengeaunce In þis flood spylt is many a mannys blood Ffor synfull levynge of man we haue gret grevauns. All þis hundryd ?ere ryght here haue I wrought this schypp for to make as god dede byd me of all maner bestys a copyll is in brought With-in my Shypp borde on lyve for to be Ryght longe god hath soferyd amendyng to se All þis hundyrd ?ere god hath shewyd grace Alas fro gret syn man wyl not fle God doth þis vengeauns for oure gret trespase. Vxor noe Alas for gret ruthe of þis gret vengeaunce gret doyl it is to se þis watyr so wyde but ?it thankyd be god of þis ordenaunce þat we be now savyd on lyve to abyde. Seem Ffor grett synne of lechory all þis doth betyde Alas þat evyr such synne xulde be wrought þis fflood is so gret on every asyde þat all þis wyde werd to care is now brought. Vxor Seem Becawse of chylderyn of God þat weryn good dede forfete ryght sore what tyme þat þei were synfully compellyd to caymys blood Ther-fore be we now cast in ryght grett care. Cham Ffor synful levynge þis werde doth for-fare So grevous vengeauns myght nevyr man se ouyr all þis werd wyde þer is no plot bare with watyr and with flood god vengyd wyll be. Vxor Cham Rustynes of Synne is cawse of þese wawys Alas in þis fflood þis werd xal be lorn ffor offens to god brekyng his lawys On Rokkys ryght sharp is many a man torn. Japhet So grevous fflodys were nevyr ?ett be-forn Alas þat lechory þis vengeauns doth gynne it were well bettyr euer to be vnborn than ffor to forfetyn evyr more in þat synne. Vxor Japhet Oure lord god I thanke of his gret grace þat he doth us saue from þis dredful payn hym for to wurchipe in euery stede and place we beth gretly bownde with myght and with mayn. Noe xlt i days and nyghtys hath lasted þis rayn And xlt i days þis grett flood be-gynnyth to slake this Crowe xal I sende out to seke sum playn Good tydyngys to brynge þis massage I make hic emittat coruum et parum expectans iterum dicat This crowe on sum careyn is fall for to ete þer fore a Newe masangere I wyll fforth now sende ffly fforth þou fayr dove ovyr þese waterys wete and aspye afftere sum drye lond oure mornyng to A-mend hic euolet columba qua redeinte cum ramo virid oliue. Joye now may we make of myrth þat þat were frende A grett olyve bush þis dowe doth us brynge Ffor joye of þis token ryght hertyly we tende oure lord god to worchep a songe lete vs synge Hic decantent hos versus Mare vidit et fugit jordanis conuersus est retrorsum Non nobis domine non nobis sed nomini tuo da gloriam Et sic recedant cum naui.</field>
+   </doc>
+</add>

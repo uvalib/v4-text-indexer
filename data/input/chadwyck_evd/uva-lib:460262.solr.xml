@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Estcourt, Richard, 1668-1712</field>
+      <field name="author_facet">Estcourt, Richard, 1668-1712</field>
+      <field name="author_sort_facet">estcourt richard 1668 1712</field>
+      <field name="author_text">Estcourt, Richard, 1668-1712</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1700's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V2.0613.xml</field>
+      <field name="date_indexed_facet">201909240355</field>
+      <field name="date_text">[1708]</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460262</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Prunella</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 18th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 18th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Prunella</field>
+      <field name="title_facet">prunella</field>
+      <field name="title_sort_facet">prunella</field>
+      <field name="title_text">Prunella</field>
+      <field name="year_display">[1708]</field>
+      <field name="year_facet">1708</field>
+      <field name="year_multisort_i">1708</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460262&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460262&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Estcourt, Richard, 1668-1712&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;estcourt richard 1668 1712&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Prunella&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;prunella&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;[1708]&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1708&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Estcourt, Richard&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1668&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1712&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Prunella&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for Bernard Lintott [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;[1708]&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872579-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv20613&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Prunella&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 37 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Prunella.</field>
+      <field name="desc_meta_file_display">Genre: Interlude.</field>
+      <field name="desc_meta_file_display">Date first published: 1708.</field>
+      <field name="desc_meta_file_display">Date first performed: 12 Feb 1708.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">PRUNELLA AN INTERLUDE</field>
+      <field name="fulltext">As Charms are Nonsense, Nonsense seems a Charm. Rochester.</field>
+      <field name="fulltext">Dramatis Personæ. Racino. A Grocer in the Piazza in Conventino Hortensi. Macia. An Housewifely Body his Spouse. Prunella. Young and handsome, something given to Love, and for it turn'd out of Doors. Nancia. Younger Sister, a Mad-cap. Fico. A Journey-man, but Nephew to an Alderman. Sattinisco. A Mercer's young Man within a Month of being made free. Bella. Dangles with Prunella every where. Capiano. Bailiff. Currendino. A Porter. Fruit-men, Musicians, and others, &amp;c.</field>
+      <field name="fulltext">ACT I. SCENE, A flat Piece of Ground without Hedge or Style: The Prospect of a Church in View, and Tom's Coffee-House at distance. Enter Prunella and Fico; Prunella a little melancholly, Fico pretty hearty. Prunella. This well-known Place, This spacious, spacious Square, Where Fruiterers do sell their Ware; Is where we Girls do use to meet, When our House was in Russel-street. Fico. Rascino, your angry Father, now at rest, Of Grocers is accounted best. The dear Production of his Love is you, The Joy you give him much too young to know. Prun. And my poor Mother, Fico. Fair as is the Morning peep, The Hour she gave you to the World She fell asleep. Prunella Air. I was born in London Town, Yet must saunter up and down: I was born of Grocers Race, Yet must wander in Disgrace. All the Fruit that Christmas yields, Raisons, Pruens, Dates and Figs. Prun. But to be turn'd out of Doors, Like one that Charity implores, Ah, too unjust! Ah, too uncivil! Fico. Uncivil! Why, Madam, 'tis the Devil. Prun. Ah, gentle Fico! Fico. Poor Prunella. Tho' you're not Quality, or so, Sir; Your Father was a wealthy Grocer: Your Mother did adorn his Counter, And had much Money to her Joynture. Prun. Nay, more than that, of Temper mild; She is my Mother, I her Child. Fico. But now it is a proper Season, Of all this Rout, to know the Reason? Prun. Fico, 'tis Love. Fico. Is Love the Cause? Sweet Meat must have sour Sauce. But who's the Man wou'd make you Bride? Prun. A Mercer's Prentice in Cheapside. Fico. On, Child, go on, and tell me all; How came this last, this cruel Brawl? Prun. Coming one Fatal Night from Fox-hall; Fico. From whence? Prun. Fox-hall. Fico. Madam, your Sorrows to beguile, I'll sing a Song to make you smile: It shall be as the Fruit Men cry, When any Customer comes nigh. Air. ARSINOE; Ferry-Boat, Charon. Buy a hundred of Chesnuts? Lump, Lump, Lump— Come ev'ry one some, And I shall go home the sooner. Baily's Officer. Take him, take him. Prun. Hark, Fico, what's that Noise? Bail. Officer. See, see, he's loose again; The Prig, how swift he bounds, Fico. They are the Sheriffs Hounds. Bail. Officer. 'Twill be in vain if he's quite out of view, In Bow-street they'll make a Rescue. Fico. They're Bailiffs, that live near this place, And have some Debtor now in chace. Satinisco. Bail me, O Bail me! Prun. Fico, remember what I told ye: Fico. Fear not, my Dear, I'll ne'er unfold ye. Prun. That now Cecilia is my Name: Fico. I know it, tho' 'tis all a Sham. Prun. Remember, Fico, as my my Friend; Fico. I have it at my Fingers end, And know what to reply, You are my Sister, your Brother I. Bailiffs Air. See, Sir, I'm come to take you, And must a Prisoner make you; For such fine Sparks as you Must pay poor folks their Due. You much drink that French is, Be treating of your Wenches With Jellies and cool Tankards, And such like costly Cheer. Come, nimbly lay down Darby; Come, pray Sir, don't be tardy: For Marshalsea's the place, Where you shall end your Race. Satinisco. Bail me, O Bail me! Fico. 'Tis what will happen daily, A Man is Rested by a Baily. Prun. O, bring him here. Satinisco. O dear, who takes my part? Prun. My Handkerchief, and my Heart. [The Bailiffs let fall their Swords, and run off staring at them. Fico. Your Beauty so the Rogues have charm'd, With Pointed Eyes they are disarm'd. Satinisco Air. O Maid, that art so fine, To thee I do incline; A prettier Lass was never seen, 'Twixt Dover and the Rhine. Such Dazling fills my Sight, Like Flambeaux in the Night; That Bonfires on a Holy-day Were never half so bright. Prun. Ah, Fico, by all above, This is the very Man I love. Fico. Sir, you appear a Man of Fame, May I intreat to know your Name? Sat. Satinisco. Prun. Ah, let me die; Ah, cruel Father. Fico. Die, ye fond Fool! be marry'd rather; He may be yours another Day, Then hear at least what He can say. Satinisco Air. Since you from Jayle have sav'd me, I'll stay with you alone: That Freedom you now gave me, That Freedom's now your own; Yes, yes, that Freedom's now your own. Fico Air. CAMILLA; All I'll venture to restore you. Sir, behold me here to Bail ye, Tho' 'tis for a Thousand Pound, I will Bail ye: Tho' 'tis for a Thousand Pound, If they wo'n't let me be bound, Then a better shall be found; Before you shall be overthrown, We will pay the Money down. Fico. Look up, my Girl, since Things are better, Our Porter, Jo, has brought a Letter: How is it, Jo? Porter. Thank ye, Fico; where is your Mistress? Fico. Tace, I can't a Word afford, Hold your Tongue, Mum, Mum's the Word. [A Letter directed to the Fair Prunella.] Prun. Directed to the poor Prunella! Madam, After a tédious Absence of a Night, Your Father was appeas'd, And so your Mother vow'd To give you to your Wishes. Mally, your Friend. Prun. We shall a Conquest win; My Fears ebb out, and Joys flow in. Air. CAMILLA. Fortune ever known to vary. Father is resolv'd I shall marry, Mammy has made him weary, And chang'd to a Smile his Frown: Joys of Marriage undividing, Till Death abiding, Honey-Moon moves pleasing on.</field>
+      <field name="fulltext">ACT II. Rehearsal. Enter Nancia, and other Children. If e'er the Fair disdain you. Ye pretty Boys and Girls, Haste and come out to play, The Moons as bright as Day; Boys haste, Girls haste, Haste, and come out to play. Enter Boys and Girls. We come, we come; We loose our Supper to meet And join our Play-fellows in the Street. Nancia. ARSINOE. And you Dorisby. And now my Mother, Now forgive me, forgive me, We can no longer stay within. We must our Sports begin, We cannot stay within. Adieu, Mamma. We were lock'd above, Which we did not love; We were lock'd above, Which we did not live. So Mamma, adieu; Mamma, adieu. Pray Note, That all the Airs that are marked thus, (“) with double Comma's are not perform'd, to prevent being tedious; and all that are not inserted are left out.</field>
+      <field name="fulltext">ACT III. Farewel Boots, Farewel Boots and Warlike Pleasure, I will stay with my Sweet-heart; I will stay with my Sweet-heart. Farewel Boots and Warlike Pleasure, Honour calls, but we won't part. Now for War I've no leisure, I will plunge in Beauty's Treasure: Love will mend her, I'll befriend her; She to Joys shall soon surrender, Youth and Duty gain the Fair. Put no Boots on, soft Love do's whisper, Put on none, but stay in Town. Enter Macia. Macia. Betty, Mary, where are ye all? Maid. Here, Madam; did you call? Macia. Where are the Children? Where I say? Maid. They are gone to Bed: Or else to play. Macia Air. Anger for War declaring. Girls, Girls, Girls, Shou'd never go Out of the House at all; Girls, Girls, shou'd stay within, And never be a Romping, Or a Gadding; Nor ever be for Play, For Play, a Madding, But shou'd some Needlework begin; Nor Answer, No, No, No, When they are bid to stay at home. Maid. Pray, be not so severe, For, see, the Children do appear. Air. Come in a Doors, come in a Doors, Or else I'll pay your Backs with Blows; You'll run in the Street, And so make your selves Wet, And spoil all your Cloaths: Tho' you have had Warning, Your Duty's scorning, You're not performing, I read in your Face. Nancia. O, Madam, I have cause to moan, My little Dog is lost, and gone. Air. My Fancy still is cross'd, I can no Safety find, My little Veny's lost, And still runs in my Mind. I'll search thro' all the Nation, And, sure, that cannot fail, To find my Inclination, Good Money will prevail. Macia. You have done well, Mamma to fright, I fear that I shall die e'er Night. Nancia. I beg you wou'd your Fears give o'er, We never play'd this Trick before. A Duel between Mamma and Nancia. Indeed we ha'n't, No, no, nor sha'n't, &amp;c. Manet, Nancia. Enter Prunella. Nancia. Sister, for all your Pouts and Louring, You must not think to 'scape a Scouring. Air. ARSIN. O Love! O Love! O brave! O brave! O brave! You have gain'd a Whipping sure; You must be Playing, And be Staying, From Home Straying: My Mother hears you have been Abroad, For which, she Vows she'll use the Rod. Prunella. Ah! it is a heavy Load, To be forbid to go Abroad. Air. In vain I fly, &amp;c. In vain I Absence borrow, They watch and tend me; For here's my Sister Nancy, Has taken up a Fancy, To vex me, and displease me, With Airs and Humours tease me; But I'll not tarry, But faith I'll marry. Prince Prettyman's Air to fall asleep with. Among Women, &amp;c. Constant Weeping, want of Sleeping, Makes me weary as a Dog; Sighing, Reaching, Gaping, Stretching, Throws me down like any Log. Ah, that any honest Fellow Wou'd bring here a good soft Pillow, Then, instead of a Fair Lady's Lap, You'd quickly see me fall into a Gape, Gape. Gape. Macia Air. Something is in my Face. CAMILL. “This same Hoity toity, “Of Love does delight you, “And still does excite you, “To throw away Time. “Pleasure and Time, “We are Courting, “And Sporting, “Fooling, and Cooling, “You throw away Time, “When Love, Heaven knows, “Shou'd be proving of Time.</field>
+      <field name="fulltext">ACT IV. Enter Prunella and Nancia. Nancia. Sister, you must not go Abroad, Mamma will be angry if you shou'd. Prunella. What's that, you? Pray, stay at Home, And guard the Parlor till I come; You think 'tis no matter, I suppose, Where an elder Sister goes; But your Absence I wo'n't smother, For, if you go, I'll tell my Mother. Prunella Air. Fly, fly, and follow, &amp;c. Go, go, you Tell-tale, Go tell my Mother, do; Go, go, you Tell-tale, Tell my Mother, do; Go, go, you Tell-tale, Tell my Mother, do, &amp;c. Who cares a farthing, I can be even, About the Garden, And our Stephen; So tell my Mother As soon as you please, Go, go, &amp;c. To the Eunuch's Tune, for Joy that Lardella is not drown'd. Air. Lardella was lost, But she swam to the Coast, Like a Charming Toast; 'Twas Love did the Work: Young Maidens advance, And prepare for a Dance, Like the Fashion of France; Pray do it with a Jerk. Fico's Air. Love leads to Battel. “Bring me the Bottle; “Who dares oppose him? “The Spleen and Vapours “Before him fly: “See how my Colour “Mends all before ye, “And for a Pale, “A Red does supply. “Bring, &amp;c. Volcius's Air at Knight's-Bridge, To Beauty devotes From midnight Debauches, And Riding in Coaches, A Passion In Fashion, We laugh at the Town. At Knight's-bridge contented, No one there in pain is, When seldom the Rain is, We stay here with Joy From midnight. Cepo. [Racino and Macia in one great wicker Chair; Prunella at her Feet, and Sattinisko upon Cushions.] CHORUS. Hail Lusty Lusty Pair, Prunella Sattinisco; No roaring spare That you can bear To shew you wish 'em both a lusty Heir. Arsinoe Chor. Grand CHORUS “Tell it in every place you please, “White-Hall, in Westminster, or Mews, “Prunella's Honour Raise; “No such Mortal can be found “Worthy of your noisie Lays, “She can Cure as well as Wound. “We envy not Doves “So famous for Loves, “Altho' we endure “Some pain; we are sure “Of being wounded and cured by Love. Some may boast a single Man to kill, I do more, an Army's Blood I spill; I do more, I kill a thousand, kill a thousand. Some may boast a single Ma?n to kill, I do more, an Army's Blood I spill; I do more, an Army's Blood I spill: 'Tis well then I'm not Declining, I annoy them and destroy them, Vanquish'd Foes their lives Resigning. Drawcansir's Air. Thomyris to Lina in Vain. Lardellas's Air for joy he is not drowned. “Come let us advance “To the Conquest of France; “Raise all our Buffoons, “With large Pantaloons, “With Bever Hat, “And Point Cravat, “Whose Rapiers and Scuffles “Tear Colbartin Ruffles, “Still enduring, “Without Curing “Aches, and Wounds, “Made by Amorous sounds; “Let 'em advance, &amp;c. “And let 'em all Sing, but “First let 'em Dance, &amp;c. FINIS.</field>
+   </doc>
+</add>

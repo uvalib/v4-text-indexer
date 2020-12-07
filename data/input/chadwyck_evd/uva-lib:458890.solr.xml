@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Middleton, Thomas</field>
+      <field name="author_facet">Middleton, Thomas</field>
+      <field name="author_sort_facet">middleton thomas</field>
+      <field name="author_text">Middleton, Thomas</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.0130.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1621</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:458890</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Svnne in Aries</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 17th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 17th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Svnne in Aries</field>
+      <field name="title_facet">svnne in aries</field>
+      <field name="title_sort_facet">svnne in aries</field>
+      <field name="title_text">The Svnne in Aries</field>
+      <field name="year_display">1621</field>
+      <field name="year_facet">1621</field>
+      <field name="year_multisort_i">1621</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:458890&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:458890&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Middleton, Thomas&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;middleton thomas&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Svnne in Aries&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;svnne in aries&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1621&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1621&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Middleton, Thomas&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Svnne in Aries&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed by Ed. All-de, for H. G.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1621&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3871537-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv10130&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 17th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;17th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Svnne in Aries&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 32 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The svnne in Aries.</field>
+      <field name="desc_meta_file_display">Genre: Entertainment.</field>
+      <field name="desc_meta_file_display">Date first published: 1621.</field>
+      <field name="desc_meta_file_display">Date first performed: 29 Oct 1621.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE SVNNE in Aries. A NOBLE SOLEMNITY PERFORMED through the Citie, at the sole cost and charges of the Honourable and ancient Fraternity of Drapers, at the confirmation and establishment of their most Worthy Brother the Right Honourable, Edvvard Barkham, in the high Office of his Maiesties Lieutenant, the Lord Maior of the famous Citie of LONDON. Taking beginning at his Lordships going, and perfecting it selfe after his returne from receiuing the Oath of Maioralty at Westminster, on the morrow after Simon Ivdes day, being the 29. of October. 1621.</field>
+      <field name="fulltext">TO THE HONOVR OF HIM, TO VVHOM THE NOBLE FRATERNITY of Drapers, his worthy Brothers haue dedicated their loues in costly Triumphes, the Right Honourable, Edvvard Barkham, Lord Maior of this renowned Citie. Your Honour being the Center, where the Lines Of this Dayes glorious circle meetes and ioynes; Loue, Ioy, Cost, Triumph, all by You made blest; There do's my Seruice too, desire to rest: At your Lordships command, Tho. Middleton.</field>
+      <field name="fulltext">Pisces, being the last of the Signes, and the Wayne of the Sunnes Glory; how fitly and desiredly now the Sunne enters into Aries, for the comfort and refreshing of the Creatures, and may bee properly called the Spring time of Right and Iustice; obserued by the Shepheards Kalender in the Mountaine, to proue a happy Yeare for poore mens causes, Widdowes, &amp; Orphans Comforts; so much to make good the Sunnes Entrance into that noble Signe; I doubt not but the Beames of his Iustice will make good themselues.</field>
+      <field name="fulltext">And first, to begin with the Worthy loue of his Honourable Societie to his Lordship, after his Honours returne from Westminster, hauing receiued some seruice vpon the water: the first Tryumph by land attends his Lordships most wished arriuall, in Pauls Church-yard, which is a Chariot most Artfully framed &amp; adorned, bearing the Title of the Chariot of Honour: In which Chariot many Worthies are plac'd, that haue got Trophies of Honour by their Labours &amp; Deserts, such as Iason, whose Illustration of Honour is the Golden Fleece, Hercules with his Ne plus vltra, vpon Pilasters of Siluer, a fayre Globe, for conquering Alexander; a Gilt Lawrell for triumphant Cæsar, &amp;c. Iason at the approach of his Lordship, being the Personage most proper (by his Manifestation) for the Societies Honour, lends a voyce to these following words. The Speech presented by Jason. Be fauourable Fates! and a faire Skie Smile on this Expedition, Phœbus Eye Looke cheerefully,—the Barke is vnder Sayle For a Yeares voyage, and a blessed Gale Be euer with it; 'Tis for Iustice bound, A Coast, that's not by euery Compasse found; And goes for Honour, Lifes most precious Trading, May it returne with most Illustrious Lading; A Thing both wisht and hop'te for;—I am Hee To all Aduenturous Voyages, a free And bountifull well-wisher, by my Name Hight Iason, first Aduenturer for Fame, Which now rewards my danger, and o're-tops The Memory of all Perill, or her stops; Assisted by the noble Hopes of Greece, 'Twas I from Colchis fetcht the Golden Fleece; Am One of the first Brothers (on Record) Of Honour got by Danger: So, great Lord! There is no Voyage set forth to Renowne, That do's not sometimes meete with Skies that frowne, With Gusts of Enuie, Billoues of despight, Which makes the Purchase once atchieu'd, more bright: “State is a Sea; he must be wise indeede “That sounds It's Depth, or can the Quick sands heede, And Honour is so nice and rare a Prize, 'Tis watcht by Dragons, Venamous Enemies; Then no small care belongs too't,—but as I With my assisting Argonautes, did try The Vtmost of Aduenture, and with bold And constant Courage, brought the Fleece of Gold; Whose Illustration decks my Memory Through all Posterities, naming but Mee: So, Man of Merit, neuer faint or feare, Thou hast th' Assistance of Graue Senators, here, Thy Worthy Brethren; some of which haue past All dangerous Gulfes, and in their bright Fames plac't, They can Instruct and guide thee; and each one That must aduenture, and are comming on To this great Expedition, They will bee Cheerefull and forward to Encourage Thee; And Blessings fall in a most infinite Summe Both on those past, Thy Selfe, and those to come. Passing from this, and more to encourage the labour of the Magistrate, hee is now conducted to the Master-Triumph called the Tower of Vertue, which for the strength, safety and perpetuity, beares the Name of the Brazen Tower; of which, Integrety keepes the Keyes, Vertue being indeed as a Brazen wall to a City or Common-wealth, &amp; to Illustrate the prosperity it brings to a Kingdome, the Top-Turrets or Pinacles of this Brazen Tower shine bright like Golde, and vpon the Gilded Battlements thereof, stand 6. Knights, 3. in Siluered, and 3. in Gilt Armour, as Vertues Standerbearers or Champions, holding 6. little Streamers, or siluer Bannerets, in each of which are displayed the Armes of a Noble Brother and Benefactor, Fame sounding forth their praises to the world, for the Encouragement of after Ages, and Antiquity the Register of Fame containing in her Golden Legend, their Names &amp; Titles; as that of Sir Henry Fitz-Alwin Draper, L. Maior foure and Twenty yeares together; Sir Iohn Norman, the first that was rowed in Barge to Westminster with Siluer Oares, at his owne cost and charges; Sir Francis Drake, the Sonne of Fame, who in two Yeares and tenne Monthes, did cast a Girdle about the world: The vnparaleld, Sir Symon Eyre, who built Leaden Hall (at his owne cost) a Storehouse for the Poore both in the vpper Lofts and lower; the Generous &amp; memorable Sir Richard Champion, and Sir Iohn Milborne, two bountifull Benefactors; Sir Richard Hardell in the Seat of Magistracy 6. yeares together, Sir Iohn Poultney, 4. yeares, which Sir Iohn founded a Colledge in the Parish of St. Lawrence Poultney, by Candlewicke streete, Iohn Hinde, a Reedifier of the Parish Church of St. Swithin by London Stone. Sir Richard Pipe, who being Free of the Leathersellers, was also from them translated to the Ancient and Honorable Society of Drapers; and many whose names for breuities cause I must omit, and hasten to the Honour and Seruice of the Time present: From the Tower, Fame a personage properly adorned, thus salutes the Great Mr. of the Day and Triumph. The Salutation of Fame. VVelcome to Vertues Fortresse, strong, and cleere, Thou art not onely safe, but glorious, heere; It is a Tower of Brightnes; such is Truth, Whose Strength and Grace feeles a perpetuall Youth; The Walls are Brasse, the Pyramid's fine Gold; Which showes, 'tis Safeties and Prosperities Hold; Cleare Conscience, is Lieutenant; Prouidence, there, Watchfulnes, Wisedome, Constancy, Zeale, Care, Are the sixe Warders; keepe the Watch-Tower sure, That nothing enters but what's iust and pure, For which effect, both to affright and shame All slothfull Blouds, that blush to looke on Fame, An Ensigne of good Actions Each displayes, That worthy Workes may iustly owne their Praise; And which is cleareliest to be vnderstood, Thine, shines amidst thy Glorious Brotherhood, Circled with Armes of Honour, by those, past, As now with Loues Armes, by the Present, grac't, And how thy Word do's thy true Worth display; Fortunæ Mater, Diligentia, Faire Fortunes Mother (all may reade, and see) Is Diligence, endeuouring Industrie: See here the Glory of Illustrious Acts All of thy owne Fraternity, whose Tracts 'Tis comely to pursue all Thy Lifes Race, Taking their Vertues, as thou hold'st their place: Some, Colledge Founders, Temple-Beautifiers, Whose blest Soules sing now in cælestiall Quires; Erecters some, of Granaries for the Poore, Though now conuerted to some Rich mens Store (The more the Ages misery) some so rare For this Fam'd Citties Gouernment, and Care, They kept the Seate foure Yeares, with a faire name, Some sixe; but One, (the Miracle of Fame) Which no Society, or Time can match, Twenty foure Yeares compleate, he was Truths Watch, He ment so right and Euen; and the Hand Of that faire Motion, Bribe could ne're make stand: And as Men set their Watches by the Sunne, Set Iustice but by that which Hee ha's done, And keepe it Euen, so, from Men to Men, No Magistrate neede stirre the Worke agen: It lights into a Noble hand to Day, And his past many; Many more, it may. By this Tower of Vertue, his Lordship being gracefully conducted toward the new Standard, one in a cloudy Ruinous Habit Leaning vpon the Turret, at a Trumpets sounding, suddenly starts and wakes, and in Amazement throwes off his vnseemely Garments. What Noyse is this? makes me from Ruines Wombe, Hah? blesse me, (Time) how braue am I become? Fame fixt vpon my Head? beneath me, round, The Figures of Illustrious Princes, crownde As well for Goodnes, as for State by Birth, Which makes e'm true Heires both to Heauen and Earth? Iust 6 in Number; and all blessed Names, Two Henryes, Edward, Mary, Eliza, Iames, (That Ioy of honest Hearts;) and there behold His honour'd Substitute, whom Worth makes bold To vndergoe the Weight of this Degree; Vertues faire Ædifice rais'd vp like mee: Why here's the Cities Goodnes; showen in either, To raise two worthy Buildings both together; For when they made that Lords Election free I gesse, that Time their charge did perfect Mee: Nay note the Cities Bountie in both, still, When they restore a Ruine, 'tis their Will To be so Noble in their Cost and Care All blemish is forgot, when they repaire: For what ha's beene Reedified alate But lifts it's Head vp, in more glorious State: “'Tis Growen a Principle; Ruines, built agen, “Come betterd both in Monuments and Men: The Instance is apparent; On then, Lord, Ee'n at thy Entrance thou'dst a Great mans Word, The noblest Testimonie of faire Worth That euer Lord had, when he first stood forth Presented by the Citie: Loose not then A Praise so deere, bestowde not on all Men; Striue to preserue this Famous Citties peace Begun by yon' first King, which do's encrease Now by the last; from Henry that ioynde Roses To Iames that Vnites Kingdomes, who encloses All in the Armes of Loue, Malic't of None, Our Hearts find that, wh? Neighbouring Kingdoms grone; Which in the Magistrates Duty, may well moue A Zealous Care, in all, a Thankfull Loue. After this, for the full close of the Fore-noones Triumph; neere S. Lawrence Lane, stands a Mountaine Artfully raysde and replenisht with fine woolly Creatures; Phœbus on the Top shining in a full Glory, being circled with the 12. Cælestiall Signes, Aries plac't neere the principall Rayes, the proper Signe for Illustration; thus greetes his Lordship. Bright Thoughts, Ioy and Alacrity of Heart Blesse thy great Vndertakings, 'tis the part And property of Phœbus, with his Rayes, To cheere and to Illumine Good-mens Wayes; Eagle-Eyde Actions, that dare behold His Sparkling Globe, depart, tryed all like Gold; 'Tis Bribery and Iniustice, Deedes of Night That flye the Sunne-beame, which makes good Works bright Thine looke vppon't, Vndazled, as one Beame Faces another, as wee match a Iem With her Refulgent fellow; from Thy Worth Example Sparkles, as a Starre shootes forth: This Mount, the Type of Eminence and place, Resembles Magistracies Seate, and Grace; The Sunne, the Magistrate himselfe, Implyes; These woolly Creatures, all that Part which Lyes Vnder His charge and office, (not vnfit) Since Kings and Rulers are (in holy Writ) With Shepheards paraleld, nay from Shepheards Rear'd, And People and the Flock as oft cohærd; Now, as it is the Bounty of the Sunne To spread his Splendors, and make Gladnes runne Ouer the drooping Creatures; it ought so To be His proper Vertue, that do's owe To Iustice his lifes Flame, (shot from Aboue) To cheere oppressed Right with lookes of Loue, Which nothing doubted; Truths reward light on you, The Beames of all cleare Comforts shine vpon You. The Great Feast ended, the whole state of the Triumph attends vpon his Lordship both to Paules, and homeward; and neare the Entrance of his Lordships House, two Partes of the Triumph stand ready planted, viz. The Brazen Tower, and the Triple-Crowned Fountaine of Iustice; this Fountaine being adorn'd with the liuely Figures of all those Graces and Vertues which belong to the faithfull discharging of so high an Office; as Iustice, Sincerity, Meeknes, Wisedome, Prouidence, Æquality, Industry, Truth, Peace, Patience, Hope, Harmony; all Illustrated by proper Emblems and expressions; as Iustice, by a Sword; Sincerity, by a Lambe; Meeknes, by a Doue; Wisdome by a Serpent; Prouidence, by an Ægle; Æquality, by a siluerd Ballance; Industry, by a golden Ball, on which stands a Cupid; intimating, that Industry brings both Wealth and Loue; Truth with a Fanne of Starres, with which she chases away Error; Peace, with a Branch of Laurell; Patience, a Sprig of Palme; Hope, by a siluer'd Anchor; Harmony, by a Swan: Each at Night holding a bright burning Tapor in her hand, as a Manifestation of Purity: his Lordship being in sight, and drawing neare to his Entrance; Fame, from the Brazen Tower closes vp the Triumph, his Lordships honourable welcome, with the noble Demonstration of his worthy Fraternities Affection; in this concluding Speech. Fame. I cannot better the Comparison Of thy faire Brotherhoods Loue, then to the Sunne After a great Ecclipse; for as the Sphære Of that Cælestiall Motion, shines more cleere After the Interposing Part is spent, Then to the Eye before the Darknes went Ouer the bright Orbe; so Their Loue is showne With a Content past Expectation: A Care that ha's beene comely, and a Cost That ha's beene Decent; cheerefull, which is most; Fit for the Seruice of so great a State, So fam'd a Cittie, and a Magistrate So worthy of it all, ha's beene bestowde Vpon thy Triumph, which ha's clearely showde The Loues of thy Fraternity, as great; For thy first Welcome to thy honour'd Seate: And happily is Cost requited then, “When Men Grace Triumphs, more then Triumphs, Men; “Diamonds will shine though set in Lead, True worth “Stands alwayes in least neede of setting forth: What makes Lesse Noyse then Merit? or Lesse Showe Then Vertue? 'tis the Vndeseruers, owe All to Vaine-glory, and to Rumour, still; Building their Praises on the Vulgar Will; All their Good, is without e'm, not their owne, When wise men to their Vertues are best Knowne: Behold yon' Fountaine with the Tripled Crowne, And through a Cloude the Sunne-beame piercing downe, So is the worthy Magistrate made vp; The Triple Crowne, is Charity, Faith, and Hope, Those three Cælestiall Sisters, the Cloude too That's Care, and yet you see the Beame strikes through; A Care discharg'd with Honour, it presages, And may it so continue, to all Ages; It is thy Brotherhoods Armes, how well it fits Both Thee, and All, that for Truthes Honour sits: The Time of Rest drawes neere; Triumph must cease Ioy to thy Heart, to all a Blessed peace. FINIS.</field>
+   </doc>
+</add>

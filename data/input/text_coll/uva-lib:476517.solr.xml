@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">H. W. Boynton</field>
+      <field name="author_facet">H. W. Boynton</field>
+      <field name="author_sort_facet">h w boynton</field>
+      <field name="author_text">H. W. Boynton</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1910's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/WhaR1Su.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">1917</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476517</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Some Stories of the Month</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">Some Stories of the Month</field>
+      <field name="title_facet">some stories of the month</field>
+      <field name="title_sort_facet">some stories of the month</field>
+      <field name="title_text">Some Stories of the Month</field>
+      <field name="year_display">1917</field>
+      <field name="year_facet">1917</field>
+      <field name="year_multisort_i">1917</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476517&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476517&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;H. W. Boynton&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;h w boynton&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Some Stories of the Month&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;some stories of the month&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1917&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1917&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;H. W. Boynton&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Some Stories of the Month&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;1st Edition.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1917&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York, N. Y.&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Dodd, Mead &amp;amp; Company&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1917&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Some Stories of the Month&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 8 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;This electronic text is an excerpt from a longer review. Comment in square brackets [] was added by the creator of the electronic version, to clarify an antecedent.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Her [Miss Wilkins] own New England, the scene of the early tales, is an affair of black and white, of strong crude forces and repressions. Such is the New England of Mrs. Wharton in Ethan Frome and Summer. But while Miss Wilkins's voice had always a certain raw tang of the native, altogether lacked grace and flexibility, was the voice of rustic New England, Mrs. Wharton has had the task of subduing her rich and varied and worldly instrument to its provincial theme. She has succeeded; Summer shows all the virtue of her style and none of its weakness. Here is no routine elegance, no languor of disillusion, no bite of deliberate satire. As in Ethan Frome, this writer who has come perilously near being the idol of snobs shows herself as an interpreter of life in its elements, stripped of the habits and inhibitions of the polite world. The story lacks the tragic completeness of the earlier one, has indeed a species of happy ending,—an ending, at worst, of pathos not without hope. The scene is the New England village of North Dormer, once as good as its neighbours, but now deserted and decaying in its corner among the hills. It is vignetted in a few sentences at the beginning: « little wind moved among the round white clouds on the shoulders of the hills, driving their shadows across the fields and down the grassy road that takes the name of street when it passes through North Dormer. The place lies high and in the open, and lacks the lavish shade of the more protected New England villages. The clump of weeping willows about the duck pond, and the Norway spruces in front of the Hatchard gate, cast almost the only roadside shadow between lawyer Royall's house and the point where, at the other end of the village, the road rises above the church and skirts the black hemlock wall enclosing the cemetery.» The Hatchards are the great people of the place, with an elderly spinster still solvent and in residence, and a Memorial Library bearing musty witness to that distinguished and now extinguished author, Honorius Hatchard, who had hobnobbed with Irving and Halleck, back in the forties. Another old family are the Royalls. Their present representative is the middle-aged lawyer who, after showing promise elsewhere, has returned to North Dormer while still a young man, for the apparent purpose of going to seed there at his leisure. Above the village, though at distance—fastness of a strange community of outlaws and degenerates—towers the craggy mountain from which, years back, Lawyer Royall has rescued a child. As Charity Royall she grows up in his household, and after his wife's death becomes its unchallenged ruler. Her little liking for Royall himself he has destroyed by making, in his «lonesomeness,» a single false step toward her. Her own lonely lot in unyouthful North Dormer is lightened only by the vague dreams of girlhood. Then the fairy prince comes in the person of a young architect from the city whom certain local relics of fine building have attracted to the neighbourhood, and whom a swift romance with the girl Charity holds there. She becomes his mistress, he deserts her in her «trouble,» she turns desperately to the haunt of her people, «the Mountain»; and is rescued for a second time and finally by Lawyer Royall. In her marriage with the aging man whom she has scorned there is, we really believe, some chance of happiness, or at least content. Young love is dead, but old love is ready to creep into its place. Mrs. Wharton has often been accused of bitterness; let her critics note that the whole effect of this powerful story hangs upon our recognition of the power of simple human goodness—not «virtuousness,» but faithful, unselfish devotion of one sort or another—to make life worth living. Until the end itself, Summer has seemed to be moving, as Ethan Frome moved, toward some grim catastrophe.</field>
+   </doc>
+</add>

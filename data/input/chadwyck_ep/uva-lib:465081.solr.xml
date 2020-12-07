@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Yearsley, Ann, 1753-1806</field>
+      <field name="author_facet">Yearsley, Ann, 1753-1806</field>
+      <field name="author_sort_facet">yearsley ann 1753 1806</field>
+      <field name="author_text">Yearsley, Ann, 1753-1806</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1790's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.0672.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">1790</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:465081</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Stanzas of Woe ; addressed from the heart on a bed of illness, to Levi Eames, late mayor of the city of Bristol, by Ann Yearsley</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 18th century</field>
+      <field name="subject_text">English poetry -- 18th century</field>
+      <field name="title_display">Stanzas of Woe ; addressed from the heart on a bed of illness, to Levi Eames, late mayor of the city of Bristol, by Ann Yearsley</field>
+      <field name="title_facet">stanzas of woe</field>
+      <field name="title_sort_facet">stanzas of woe</field>
+      <field name="title_text">Stanzas of Woe ; addressed from the heart on a bed of illness, to Levi Eames, late mayor of the city of Bristol, by Ann Yearsley</field>
+      <field name="year_display">1790</field>
+      <field name="year_facet">1790</field>
+      <field name="year_multisort_i">1790</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:465081&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:465081&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Yearsley, Ann, 1753-1806&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;yearsley ann 1753 1806&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Stanzas of Woe ; addressed from the heart on a bed of illness, to Levi Eames, late mayor of the city of Bristol, by Ann Yearsley&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;stanzas of woe&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1790&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1790&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Yearsley, Ann&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1753&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1806&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Stanzas of Woe&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;addressed from the heart on a bed of illness, to Levi Eames, late mayor of the city of Bristol, by Ann Yearsley&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for G. G. J. and J. Robinson [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1790&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp4442&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;30 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Stanzas of Woe&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;addressed from the heart on a bed of illness, to Levi Eames, late mayor of the city of Bristol, by Ann Yearsley&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 28 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Hail Independence! hail thou stubborn God! Alone ador'd by bold immortal Spirit! Here at thy Altar will I dauntless stand And ever eat my frugal meal; to Thee The gaudy Fool, the pale insidious Slave Shall sacrifice their seemings: warm'd by Thee, Ages unborn shall judge their slumb'ring sires, Whilst, as a public jury, they arraign Each trembling Ghost, and say, Why didst thou this? “Take physic Pomp.” Shakspere's Lear.</field>
+      <field name="fulltext">To LEVI EAMES, Esq. LATE MAYOR OF THE CITY OF BRISTOL.</field>
+      <field name="fulltext">STANZAS OF WOE. Come balmy air and cheer my languid face! Add timely vigour to my ling'ring breath, Whisper that Faith shall ev'ry phantom chase And off my Spirit tear the toils of death! Play sadly slow, thou'lt mournful echo find, While mental agony devours my heart, For, O! there's music in the midnight wind, To those who grieve yet will not grief impart. Sorrow, to thee, shall hold her shatter'd lyre, Then gently touch it with my deepest sigh, Prolong my groan, but check the ardent fire, That once was wont to bear my soul on high. My melody is o'er! I droop, complain, Beneath th'infernal pow'r of foolish pride, Whose altar blazes with my infant slain, Whose thirsty slave shall all my tears deride. Eames! quench the dreadful fever of my soul! Nor let dark Av'rice drink thy heav'nly pow'rs; Back to thy childhood bid reflection roll, And tell me what employ'd Thy boyish hours? Did'st thou then deem it guilt o'er hills to stray? Or bathe thy tender limbs in limpid streams? Or stretch thee careless on the new-mown hay, Warm'd and inspir'd by Sol's effulgent beams? Ah, no! Thou then could'st prize those pleasures high, Nor was thy skin by cruel lashes torn, Nor did the big tear fill thy pleading eye At sense of anguish thou could'st ne'er return. Yet these are ills that on my children fall, And fall from Thee, thou Draco, of the age! Their feeble cries shall for my vengeance call, And fill my soul with wild, eternal rage. Go to the cheated tygress of the plains, Robb'd of her young she'd scare thy coward soul; Maternal agony high in her veins! What pow'r of thine would her fierce wrath controul? Insolent Tyrant! humble as we are, Our minds are rich with honest truth as thine; Bring on thy sons, their value we'll compare, Then—lay thy infant in the grave with mine. Ah, heed me not! but clasp it to thy heart Till thy thought ache with rapture o'er thy child, Dwell on its beauties; stranger to the smart Of her, whom thou hast of this bliss beguil'd. Let me forget!—Yet where shall I complain! Tell me, thou violator of the laws! Thou cherisher of insult, stripes, and pain, Where shall my anguish find one moment's pause? Oh! Thou hast wrong'd me to such daring height, That Zanga's pangs were light to those I feel, Mr. Eames being Mayor at the period of the first injury, the Author's Attorney advised her not to dare a trial, on account of magisterial influence:— she submitted.Stabb'd in my soul all hope of public right, And made bright Justice from her statue reel. Asham'd, she blushes at thy reign, and flies The seat where magistrates like thee must rule; Her radiance blazes thro' more azure skies To gild the man, who's neither knave nor fool. Art thou of Pagan faith?—High in the dome Of sanguine Mars be hung thy whip divine, Or to some wither'd Saint at ancient Rome This trophy of thy holy rage consign. Art thou the follower of Jesus?—Know Thy meek Redeemer would not scourge my sons: From true Religion tortures never flow, Then tell me from what source thy action runs? What Dæmon plac'd Thee in the council chair? Go back, thou novice to that glorious hour! When the bold Barons planted freedom here, And tore the vitals of tyrannic pow'r. Hast thou read o'er the statutes of the land? In Magna-Charta hast thou ever found, A Mayor trudging with his whip in hand, To give the school-boy many a lawful wound? Dread Magistrates like thee deserve applause, And tho' we mortals may deny it now, In Pluto's dark dominion shall thy laws Be read, and guilty spirits deck thy brow. Rise! rise, my soul, from ev'ry human view! Reflect how soon thy conflicts may be o'er, How soon (if Faith be to her object true) Shall be thy wand'rings on a happier shore. Millions of ages sink before my eyes! And with them sink each little joy and care, Oblivion seizes all that mortals prize; The destined name of the Author's child.Eliza, Her mother.Ann, Brother.Cromartie disappear! Cruel Oblivion! barbarous Reason!—Why Are ye twin-foes to human nature's play? Ah! why should man be taught he is to die, Yet find no lamp to gild the gloomy way? Religion pleads, Philosophy holds out His sickly torch, kindled at finite thought: Beyond this orb all is but crazy doubt, No proof with immortality is fraught. Hail guiltless solitude! Sequester'd here, I own tranquillity and sink resign'd; Eternity I have not liv'd to fear, Annihilation never scares my mind. To one eternal Cause my being tends, Be his the will, the pow'r, submission mine; In Him beginning, and existence ends, Nor can one circle all his works confine. Yet gentle This Poem was begun the first morn of the Physician's allowing the air to play through the Author's window. Air, unseen and ever felt, To Thee again my invocations rise, Ah, let me not in burning fevers melt! But bear at least my spirit thro' the skies. Nor mine alone! on the parch'd lip of Age, O, let thy Odours in their richness play! The dying infant's guiltless pang asswage, Then waft it to its God! nor loiter on thy way. TO William Cromartie Yearsley. ON HIS BECOMING A PUPIL TO MR. ?. Go much lov'd Boy! a Mother's Care resign, But, oh, forget not, that thou still art mine! Let memory oft the humble hearth restore, Round which we sat unvers'd in Classic lore, Where charming Shakspere on thy Spirit hung, Where Arthur dy'd again upon thy tongue, While from thy eye oft fell the pearly show'r As Fancy trac'd the infants to the Tow'r. Yet blame not the dire cause that first instill'd That balm with which the gen'rous soul is fill'd: That balm is Pity, oh, my gentle Boy! Let not Life's poisons all its sweets destroy; Pity to all is due, e'en errors plead, When ign'rance bids the trembling wretch succeed. Not all the gems with which the East is fraught Can balance one soft tear or melting thought, When o'er the mourner thy fond Soul dissolves, And Pity conquers all her late resolves; Then be not thou asham'd to weep or sigh, When feeble age and mis'ry meet thy eye; Be thou severely just, tho' truth be rough, That Man's deprav'd “who first cries hold! enough.” Scorn o'er fair truth to throw Craft's much-worn veil, Detest the Act thou never dar'st reveal, Love simple innocence, nor boldly run With impious ardor in the paths I shun; But when the varied scene with me is o'er, When Fame can please, and Insult wound no more, O then be steady to thy point, and prove Thyself the heir of virtue as of love. Like some fair flow'r born in a sunless shade, Whose branches are by light'nings leafless made, Long hast thou panted in the dusky gloom, Thy pow'rs increasing, claiming ample room, While blighting mildews on thy Spirit lay, And Genius, feebly nourish'd, dy'd away. These ills are past, the Grecian track be thine, Exulting glory, gratitude be mine. Howe'er the Customs of the Many chain Mankind in gross to fashionable pain, Give thou thy Soul full scope, to think, to scan, To weigh by Virtue's rule each rule of Man; Nor yield thy judgment to the flippant tongue On which the glist'ning drops of Wit are hung: Wit shrinks like vapour from bright Wisdom's ray, Whose floods of Glory aid the God of Day. He who would greatly dare, must leave behind The head of Atlas, pant upon the wind! For Earth, her Customs, all her bounds are weak, To stay the Soul who would perfection seek; Then burst the fetters which one world would give, And know thy Spirit in herself must live! Her charts are ample, infinite her space, Her empire never fix'd by human race; So widely left, so strongly form'd to roam, Immensity alone must be her home, To that she veers eternal in her flight, Seeking mysteriously one blaze of Light. Lo! to those regions ? points thy way, Op'ning thy infant soul to wisdom's ray; His glowing thought, his eloquence will fire, And Science crown what Nature must inspire. Clasp to thy artless breast this gen'rous Guide, He'll lead thee up yon Mountain's rugged side, For Thee, each devious labyrinth, will explore, Thro' which the Sons of Greece have gone before. With him then safely tread the mazy round, In ev'ry step, a grand ascent is found. Whence to ethereal fields he'll turn thy eye, Where no Horizon bids the prospect die; Boundless it spreads upon the thirsty mind, Till Spirit sickens on the Unconfin'd. O swelling extacy! when thro' the soul Th'impetuous surges of the Wondrous roll, On which past Ages floating are upborne, And slumb'ring Heroes rouz'd by thought, return From this strong height, attend the whisper'd tale Of Shades who glide along yon deep'ning vale; There the Pelasgi, with their leader, rove, There Helen's tribes recline within the grove, While Doric numbers softly—softly—slow, Teach transport e'en divine to indolently flow. Yet blame not languor! 'tis the full-ebb'd hour! Soon Spirit rushing, gains immortal pow'r O'er drouzy sense, that fain would drag her down, And in th'abyss of pleasure quench renown. Homer offered to eternize the Town of Cumae, if the Inhabitants would allow him a Salary; but they answered, “If so, there will be no end of maintaining blind Men.”There Homer, long of Greece the pride and shame, Whose finer soul went out unknown to Fame, No more neglected tunes his high-ton'd lyre, But strikes from song bright particles of fire. Homer! if all thy throng of Gods were just, Ah, why but faithful to thy slumb'ring dust? Why raise so late the trophy o'er thy Grave, Who left to mis'ry thy weak frame a slave? They were no Gods!—or sure the Grecian race Beheld thee live, and die to their disgrace. There Jason, with his Argonaut's despise, Where Virtue is not, Fame her wreath denies; Means once propos'd by Guilt, the prize disdain, Nor bind external gaud on secret pain. Shame on the Man who to attain a name, Kindles by Craft a wild misguided flame! In gentler woman, whose defenceless heart Is early left to Passion's keenest smart, Woman, from false tuition, false pretence, Like some stray'd infant ever seeks defence; And oft in search of peace, the victim proves Serious destruction with the Man she loves. I've dar'd, dear Boy! to follow Reason's clue, And drunken Ages past, with her pursue! Each leading feature of Mankind have trac'd, And found them ever equally disgrac'd: One, blazing high in Faith's ideal whim, Damns e'en a Sire who will not think with him; Another, chain'd by sect, and stung by pride, Pities the Pagan, who in darkness died, Gives Heav'n his thanks. He breathes in hallow'd clime, Where God's own law, makes diff'rence in the Crime. Hail selfish tenet! most convenient thought! With ign'rance, pride, yea e'en presumption fraught. But when I gravely read the Christian sage, That hands Medea thro' each learned age; How he with Reason hoodwink'd still transmits, The partial legends of the Grecian wits; How wisely sad the credulous old Loon, Avows the Maid, drew down th'obedient Moon; Scorch'd Jason's heart with tedious magic charms, And by her soceries lur'd him to her Arms, I blush for Man—Laugh at his demonstration, Who'd make us Witches for—his own Salvation. Yet Wisdom oft shall Woman's mind deplore, Early forbad her windings to explore, Woman! who labours at exterior grace, Studies each growing beauty of the face, Dreads the neglect of him who holds her heart, And grieves her charms no lasting warmth impart. Alas! vain Beauty yields her transient pow'r, If mental charms ne'er fill the vacant hour, The Soul's vast region she can never seize, Or gain'd, her empire is not kept with ease. Spirits alone can love!—the senses take A swifter Course, and having gain'd—forsake. Fierce Hercules beholding, let not thought Burn with a flame from pagan altars brought, Except, by its pale light thou well compare Man's odd Conjunction of the foul and fair; E'en Oedepus and his unhappy sons But shew the Course which stumbling nature runs, If in this Course the monstrous be reveal'd The Gods (they say) some myst'ry have conceal'd: Hence Oracles, their broken murmurs gave; Hence erring Vestals breathing found a grave; Hence the deceitful Pythia, taught to stare, To flatter some, and bid the rest despair; Hence the vast treasures unto Delphi giv'n By the Amphyctions, feign'd the bribes of Heav'n; And hence the blood from human Victims ran To prove the weak, yet boasted sense of Man. O Man! what hast thou done? sense still at odds With things divine, her guilt throws on the Gods; What vote hast Thou?—Ideot renounce thy pride! Of Thee, God independent will decide. Yet hear Cromartie! and as ? stands, Shewing where Science cultivates her lands; How much she labours on the stubborn soil, How thin the Crop, produc'd from ceasless toil, How slow the furrows from her plough-share rise, How oft the barren glebe her strength defies. Observe him! catch his fire! upon his tongue More sweets than Hybla ever gave are hung. Fools oft will plead of Nature's state, ere man Was taught the Great, the Good, the Ill to scan, How self-indulg'd the lazy monster lay, How willing pleasure did his wish repay, How passion rav'd, how stung his grosser Soul, How blest the Brute, unknown to fine Controul. What were his joys? what were his victims?—say Ye who would tear our human lines away! Would he the hoary head with rev'rence see, And pause to think what his must quickly be? Would he remorse, repentance, pity know, Tho' he had caus'd a Brother's blood to flow? Or would he, wildly-urg'd by passion's sway, Parental ties with horror disobey? If not, what was this state of which you dream? Where was it? when? why chang'd the mad extreme? Could Man, if blest in all this savage joy, Contrive himself his blessings to destroy? Man!—whom no Idol on this earth transcends! Could He form laws to foil such glorious ends? Yes,—the old Sage whose Spouse did first perplex, Most surely was a Friend to all his Sex; In saving humour he contriv'd the line, Some more attractive Lover to confine, And keep his Wife from wand'ring, while his Friend To ev'ry heart but hers, he did commend. Believe me, Boy! the Man who dares defy, The pleasing duties of Society, Should from its gen'rous joys be swiftly hurl'd, To wildest Commerce with the brutal World; Retain his form, some traits of mem'ry boast, To blast him with perfection of the lost: Yet while thou view'st the raving wretch, beware! Nor wrong Society of aught that's dear; Think each hath property, affection, claims, Which stol'n or wounded with a blot defames: Just to Mankind, thou shalt a Blessing prove, And thy fair brow be crown'd by social love. THE END.</field>
+   </doc>
+</add>

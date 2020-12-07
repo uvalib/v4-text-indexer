@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Mackay, Charles, 1814-1889</field>
+      <field name="author_facet">Mackay, Charles, 1814-1889</field>
+      <field name="author_sort_facet">mackay charles 1814 1889</field>
+      <field name="author_text">Mackay, Charles, 1814-1889</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1840's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_3.0866.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1848</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:466443</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">French</field>
+      <field name="main_title_display">Town Lyrics, and Other Poems ; By Charles Mackay</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">Town Lyrics, and Other Poems ; By Charles Mackay</field>
+      <field name="title_facet">town lyrics and other poems</field>
+      <field name="title_sort_facet">town lyrics and other poems</field>
+      <field name="title_text">Town Lyrics, and Other Poems ; By Charles Mackay</field>
+      <field name="year_display">1848</field>
+      <field name="year_facet">1848</field>
+      <field name="year_multisort_i">1848</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:466443&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:466443&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Mackay, Charles, 1814-1889&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;mackay charles 1814 1889&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Town Lyrics, and Other Poems ; By Charles Mackay&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;town lyrics, and other poems&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1848&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1848&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Mackay, Charles&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1814&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1889&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Town Lyrics, and Other Poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;By Charles Mackay&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;D. Bogue&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1848&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp2355&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;fre&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;[iv], 102 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Town Lyrics, and Other Poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;By Charles Mackay&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 12 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted; verse reproduced elsewhere in The English Poetry Full-text Database omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">“La muse est enfant des cités;— Et le poete doit etre un protestant sublime Du droit et de l'humanité. Barbier.</field>
+      <field name="fulltext">TO CHARLES DICKENS, IN WHOSE PROSE POETRY ARE SO WELL INCULCATED THE LOVE OF THE BEAUTIFUL AND THE TRUE, AND THE SENSE OF MORAL DIGNITY IN THE HUMBLEST, THE FOLLOWING EFFUSIONS, ASPIRING TO EFFECT THE SAME OBJECTS, ARE DEDICATED, WITH THE HIGHEST ADMIRATION AND RESPECT, BY HIS VERY SINCERE FRIEND, THE AUTHOR.</field>
+      <field name="fulltext">TOWN LYRICS. THE PHILOSOPHIST. A PORTRAIT. He turns to heaven his small grey eyes, He opes his lips in pompous wise, And lets his measured accents fall With a rough burr and northern drawl, As he expounds his theories. He talks of Nature and her laws, Of man, the mind, the great First Cause, Demand, supply, life, death, increase, The over-fruitfulness of peace, And prates upon them, clause by clause. War, like a thunder-storm, quoth he, Is moral electricity; It thins the heavy air, makes clear The dense and dangerous atmosphere O'erladen with humanity. 'Tis cruel shame, mistake most dire, That men should mate in young desire, And trust alone to honest toil, The kindly heaven, the genial soil, For food, and shelter, and attire. He thinks it time the truth were said— That mouths, too many to be fed, Swarm on the superpopulous land, And that small wit may understand That stupid peasants should not wed. He thinks it decent, for the sake Of lords with large domains at stake, That “common people” should not breed More plenteously than they can feed, And that steam husbandmen would “take.” If each poor couple, boors and clowns, Or dirty artizans of towns, Would, when they wed, produce but two To take their place in season due, Philosophy might spare its frowns; But this not chancing, he declares The rich alone should live in pairs, And for their sake each other man Consume as little as he can, And die unmated in his cares. He thinks, while sympathy is sure, That mendicancy is the cure For pauperism; that 'tis not right To mulct the rich in their despite, But that the poor should feed the poor. This said, he clasps his fingers ten, And sniffs th' applause of voice and pen; Bows placidly, goes home to dine, And wastes the food, in pomp and wine, Of half a hundred better men. BARON BRAEMAR. A “TILT” WITH A GREAT DUKE. “I'm lord of the Corrie, I'm chief of the Ben, I rule like a kaiser o'er mountain and glen; The people may tramp over city and town, But their feet shall not tread on my moorlands so brown. Their presence would trouble the tremulous deer, And grouse, and not men, shall be denizens here, As long as my title holds good against bar, And all for my pleasure,” quoth Baron Braemar. “I've drained off the peasants, I've banished them forth— There is scarcely a Celt on the hills of the North; And the few that remain by the shores of the sea, May die or live on without hindrance from me. And, thanks to the law, while my land is my own I 'll keep it for grouse, or the red-deer alone, And roam o'er my mountains supreme as a czar, And meet not a pauper,” quoth Baron Braemar. “The land may be lovely, most pleasant its paths, Most lordly its mountains, most verdant its straths, Most beauteous the torrents that scatter their spray, Or dash down in foam o'er the rocks in the way; What matters its beauty to Cockneys or snobs, To Jones or to Jenkins, to Smith or to Hobbs? The region is mine, both the near and the far; They shall not behold it,” quoth Baron Braemar. “What business have they in my glens or my woods, To clamber my mountains, to roam by my floods, To tread my wild heather, or wander at will From the vale to the mist-covered cope of the hill? Did I not inherit? am I note the lord? Let them place but a foot upon moorland or sward, And my dogs and my gillies shall ‘nose’ them afar, And hunt them for pastime,” quoth Baron Braemar. “'Tis true that a murmur resounds from the crowd, A murmur fast spreading, indignant, and loud, That starts ugly questions of ‘Justice’ and ‘Right,’ And doubts to be solved by the popular might;— A murmur which hints that such questions should sleep If those who still hold are desirous to keep;— But let them rail on—'tis with words that they war: My weapons are stronger,” quoth Baron Braemar. O mighty Lord Baron, great dealer in deer, Great owner of moorlands, a word in your ear:— Would you like, in your fulness of insolent pride, To farm out the sea, and take rents for the tide? Would you like the Earth's fatness to grow but for you? Would you shut us from sunshine, the air, and the dew? Would you fence out the sky from us vulgar afar?— You would if you could, my Lord Baron Braemar. One word as a warning:—We think 'twould be wise If you 'd come from your deserts and open your eyes;— Free foot on the mountain, free path in the glen— Not all for your cattle—leave something for men. And if from the tourist you shrink with dismay, Turn the wilds into corn-fields and keep him away: Our isle is too narrow for Nimrods, by far; We cannot afford them, my Lord of Braemar. Were Commerce extinct—were our Trade at a stand— Were the mouths to be fed growing few in the land— Were we back to the point of a century agone— We might leave you your moors to go shooting upon. But e'en in such case 'twould be worse than insane To refuse us a sight of the hills where you reign. Is it safer just now?—Look at things as they are, And be wise while there's time, my Lord Baron Braemar.</field>
+   </doc>
+</add>

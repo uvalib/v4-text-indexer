@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1930's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2007_03/uvaGenText/tei/bov_19360608.xml</field>
+      <field name="date_indexed_facet">201909240347</field>
+      <field name="date_text">June 8, 1936</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:415313</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. June 8, 1936</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  June 8, 1936</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  June 8, 1936</field>
+      <field name="year_display">June 8, 1936</field>
+      <field name="year_facet">1936-06-08</field>
+      <field name="year_multisort_i">1936</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:415313&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:415313&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. June 8, 1936&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;June 8, 1936&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1936-06-08&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;June 8, 1936&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Official minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;4 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1936-06-08&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 19 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">June 8, 1936. The Annual Meeting of the Rector and Visitors was held on this date at 10 o'clock a. m. in the President's Office with Visitors Corbitt, Garnett, Rinehart, Stuart, L. C. Williams and R. Gray Williams and President Newcomb present. In the absence of the Rector, Mr. Corbitt was elected Rector pro-tem. The minutes of the previous meeting, having been copied and mailed to all members of the Board, were approved. President Newcomb made the following announcements: Attendance for the regular session of 1935-36, 2440. Gifts received: From the Rockefeller Foundation for the Bureau of Public Administration, payments to be made over a four-year period beginning July 1, 1936 $ 40,000 From the General Education Board, for the salary of Dr. James Hart, who is being appointed to the staff of the department of Political Science 4,500 From the Virginia Education Association, for renovating and restoring certain equipment in the Preventorium $ 1,000 From Mr. George L. Scherer, for the general purpose of the hospital, - given in token of his appreciation of the kindness and efficiency of the doctors and staff of the hospital during the illness of his daughter 1,000 From the National Research Council, for the purchase of apparatus and materials in connection with Dr. Speidel's studies in Physiology 800 From the Seven Society, - their annual gift to be used "in any way the President or Rector and Visitors deem best for the promotion of the best interests of the University" 77.77 Upon the recommendation of the President, the following resignations, leave of absence, promotions and elections were voted: Resignations: Dr. Kenneth F. Maxcy, Professor of Preventive Medicine and Bacteriology, and Dr. C. Howe Eller, Associate Professor of Preventive Medicine: RESOLVED, by the Rector and Visitors of the University of Virginia, that the resignations of Dr. Kenneth F. Maxcy and Dr. C. Howe Eller be and the same are hereby accepted with regret. Dr. Maxcy and Dr. Eller have carried forward their work here with devotion and skill, and the Rector and Visitors wish for them continued success in their new fields. Leave of Absence: To Dr. Frank Stringfellow Barr, Professor of History, granted leave of absence for the session of 1936-37 without salary. Promotions and change in status effective with the session of 1936-37: Dr. James Carrol Flippin, from Professor of Clinical Medicine to Professor of Internal Medicine without change in base rate of pay. Dr. Henry B. Mulholland, from Associate Professor of Medicine to Professor of Practice of Medicine, without change in base rate of pay. Dr. J. Edwin Wood, Jr., from Associate Professor of Internal Medicine, to Professor of Practice of Medicine, without change in base rate of pay. Dr. Charles Bruce Morton, from Assistant Professor of Surgery and Gynecology to Professor of Clinical Surgery and Gynecology, without change in base rate paid by the University, but with permission to earn from his receipts not in excess of $10,000. Dr. John McIntire Nokes, from Assistant Professor of Obstetrics and Gynecology, to Associate Professor of Obstetrics and Gynecology, without change in base rate of pay. Dr. William Wirt Waddell, Jr., from Assistant Professor of Pediatrics, to Associate Professor of Pediatrics, without change in base rate of pay. Miss Myrtle M. Hollo, from Acting Assistant Professor of Nursing Education to Assistant Professor of Nursing Education, without change in base rate of pay. Dr. Oscar E. Swineford, from Instructor in Medicine to Assistant Professor of Practice of Medicine, without change in base rate of pay. Dr. Staige D. Blackford, from Instructor in Medicine to Assistant Professor of Practice of Medicine, without change in base rate of pay. Dr. Everett Cato Drash, from Instructor to Assistant Professor of Clinical Surgery and Gynecology - base rate of pay changed from $3,500 to $5,000. Dr. Chauncey McL. Gilbert, from Instructor in Biology to Assistant Professor of Biology, with a base pay of $2,800. Dr. Lewis M. Hammond, from Instructor in Philosophy, to Assistant Professor of Philosophy, with a base pay of $2,800. Mr. Joseph Lee Vaughan, from Instructor to Assistant Professor of English, at a base salary of $2,800. Elections: Dr. James Hart, Professor of Political Science, at a base salary of $4,500. Incumbency to begin with the session of 1936-37. Dr. Frank E. McLean, Acting Associate Professor of Public Speaking for the session of 1936-37, at a salary of $3,300 for the session. Dr. Leland Bradley Snoddy, Assistant Professor of Physics, at a base salary of $2,800. Incumbency to begin with the session of 1936-37. Dr. G. Richard Wendt, Acting Assistant Professor of Psychology, for the session of 1936-37, at a salary of $2,700 for the session. Mr. John Black Sirich, Jr., Acting Assistant Professor of History for the session of 1936-37, at a base salary of $2,800. The President presented draft of new contract between the University and the Joint Health Board of the City and County, and the Rector was authorized to sign the same in the following resolution, adopted: RESOLVED, That the Rector be and he is hereby authorized and requested to sign on behalf of the Rector and Visitors of the University of Virginia an agreement between the University of Virginia and the Joint Health authorities of the City of Charlottesville and the County of Albemarle. The next order of business was the consideration of application for admission to the University of Virginia. The applications of the persons, or applicants whose names are set out below, having been considered by the Board, it is resolved and ordered that said applicants be and they hereby are denied admission to the University of Virginia: Henry M. Bass, of Suffolk, Virginia Richard W. Foster, of Richmond, Virginia H. Leslie Giles, of Lawrenceville, Virginia Joseph Ransome, of Richmond, Virginia C. Waldo Scott, of Newport News, Virginia And it appearing to the satisfaction of the Board that the persons or applicants above named are bona fide residents and citizens of Virginia, that they possess the qualifications of health, character, ability and preparatory education customarily required for admission to the University of Virginia, that they are unable to obtain from any Virginia State College, State University, or other State Institution, educational facilities equal to those here applied for, and that such equal educational facilities can be provided and furnished to said applicants by other colleges, universities and institutions not operated as an agency or institution of the State of Virginia, it is further resolved and ordered that, out of the funds appropriated by the State to the University of Virginia, said University do pay to said applicants, severally, or to the institution or institutions attended by them, as and when needed, such sums, if any, as may be necessary to supplement the amount which it would cost said applicants to attend the University of Virginia; said payments to be made pursuant to the authority vested in this Board by the provisions of chapter 352 of the Acts of the General Assembly of 1936 (Acts 1936, p. 561.). And there is hereby appropriated for scholarships the amount of money set opposite the name of each of the above applicants. It is further resolved and ordered that, for the purpose of carrying into effect the provisions of said Act, there is hereby created a committee, consisting of three members, Deans Ferguson, Rodman and Eager, to be known as the "Students' Admission Applications Committee", under Acts of General Assembly of Virginia of 1936, p. 561, which committee is hereby authorized, during recess of this Board, to consider and act upon all applications for admission to the University of Virginia, and in all cases where an applicant is denied admission to direct the University of Virginia to pay to, or for the benefit of, any such applicant as is qualified to receive same under the provisions of said Act, such supplementary sum as may be fixed and determined by said committee as necessary to provide the equal educational facilities contemplated by said Act. It is further resolved and ordered that said committee do inquire into and fix the cost of furnishing and providing to the above named applicants denied admission the said equal educational facilities, and that the amount so fixed for each such applicant shall be paid to him (or her), or to the institution attended by such applicant, as and when needed. It is further resolved and ordered that in the event any applicant for admission to the University of Virginia, who may be denied admission by said committee during the recess of the Board, shall desire that the action of the committee denying such admission be considered and reviewed by this Board, the President of said University shall forthwith call a special meeting of this Board for the consideration and review of said action of said committee. It is further resolved and ordered that said committee shall report to this Board for its approval and ratification, or its disapproval, all actions of said committee during the recess following the last preceding meeting of the Board. The following resolution covering elections during the summer was adopted: RESOLVED, by the Rector and Visitors of the University of Virginia, That the President of the University, in consultation with the Deans and Committees appointed by the President from the staff, be empowered during the summer to employ those professors who have been authorized by the Board but who have not yet been selected. It is understood that all actions of the President and Committees will be brought to the Board for ratifications at their next meeting. The President reported that with the approval of the Buildings and Grounds Committee Pavilion X, now occupied by the widow of the late dean W. M. Lile, would be vacated on August 1, 1936 and had been assigned to Dr. R. B. Bean at an annual rental of $500.00; the residence on Monroe Hill, now occupied by the widow of the late Dean W. M. Thornton, would be vacated on August 1, 1936 and had been assigned to Dr. J. Alex Waddell at a rental of $500.00 per annum; that the residence on McCormick Road, formerly occupied by Dean Page, would be vacated on September 1, 1936 but had not yet been assigned. The rental, however, when assigned, to be $500.00 per annum. The following Thomas Fortune Ryan Scholars were appointed for 1936-37: George N. Wise First District Millard Cass Second District Charles M. Davison, Jr., Third District Francis D. Lazenby Fourth District James W. Towler Fifth District John T. Rucker Sixth District Frederick M. Belmore Seventh District James R. Low Eighth District Charles E. Davis, Jr. Ninth District Elbert T. Turner Tenth District Nominations by the President for sundry instructors, assistants, scholarship and fellowship holders were confirmed and will be found spread in detail on the payroll book and scholarship book. Upon application the Zeta Psi Fraternity was granted the privilege of reducing its annual payments on account of its loan from the University from $1,000 to $500.00. The President announced the resignation of Dr. Wm. H. Goodwin by reason of ill health, effective June 15, 1936, and he was authorized to prepare a resolution with respect to the services of Dr. Goodwin to be spread upon the minutes. The budget of the University for the fiscal year 1936-37, as prepared by the President and copies thereof mailed to all members of the Board, was taken up for consideration; and after examination was, on motion duly made and seconded, adopted. The detailed budget will be found filed in the office of the Secretary of the Board in the Budget file. The Rector pro-tem appointed the following Executive Committee of the Board for the year 1936-37: Messrs. Goolrick, R. Gray Williams, Mrs. Munford and the Rector. The meeting then adjourned. C. Harding Walker Rector. E. I. Carruthers Secretary.</field>
+   </doc>
+</add>

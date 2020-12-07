@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1840's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2006_06/uvaGenText/tei/bov_18440704.xml</field>
+      <field name="date_indexed_facet">201909240343</field>
+      <field name="date_text">July 4, 1844</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:245640</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. July 4, 1844</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  July 4, 1844</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  July 4, 1844</field>
+      <field name="year_display">July 4, 1844</field>
+      <field name="year_facet">1844-07-04</field>
+      <field name="year_multisort_i">1844</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:245640&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:245640&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. July 4, 1844&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;July 4, 1844&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1844-07-04&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;July 4, 1844&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Public minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;6 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information. Access to minutes containing salary information will be granted only under the procedures of the Virginia Freedom of Information Act (Code of Virginia-2.1-340 ff.) or if permission is granted by the Secretary of the Board. Researchers interested in obtaining access to these records should direct a request in writing to the Office of the Legal Adviser, Madison Hall, University of Virginia. These public minutes have had salary information deleted and bear no restrictions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1844-07-04&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 16 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">July 4th 1844 (Thursday) Chapman Johnson, Joesph C. Cabell, John H. Cocke, Thomas J. Randolph, William C. Rives, &amp; Samuel Taylor, appeared as Visitors of the University under their several commissions from his Excellency James Mc. Donel Governor of the Commonwealth of Virginia dated the 29th February 1844 and organized the Board by the choice of Chapman Johnson as Rector. Mr. Cabell was appointed Committee of Inspection. Messrs. Rives and Randolph were appointed a Committee of Finance. The following resolutions were passed. A communication from Mrs. G. Grey relative to an additional apartment for the lodging of servants some time since erected at her own expense in the rear of her Hotel &amp; praying for reimbursement from the University having been laid before the Board, &amp; information with regard to the same having been received from the Proctor. 1. Resolved that the claim be audited &amp; settled by the Proctor, &amp; that he be authorized to draw upon the Bursar for the necessary amount &amp; to make payment of the same, without interest as soon as the Funds of the University will permit. 2. It appearing that the Front door of pavilion No.5 occupied by Doct. Harrison was some years ago damaged in a riot of the Students, &amp; in consequence of the injury requires repair: - Resolved that the Proctor be authorised &amp; required to cause the front door of Pavilion No.5 to be duly repaired. The Board then took a recess to attend the exercises of the public day. In the afternoon they reassembled &amp; spent the remainder of the day in examination and enquiry into various subjects proper for their action; when they adjourned till tomorrow morning. Friday July 5th 1844. The Board met according to adjournment. Present as on yesterday. The following resolutions were adopted. The communication of Dr. Kraitzer the professor of Modern Languages of date the 4th July of the present year having been laid before the Board &amp; duly considered. 1. Resolved, as the opinion of the Board, that it is inexpedient to make any present change in the regulations affecting the school of Modern Languages or to envourage any expectation of a probable change therein within any definite time. 2. Resolved that a copy of the above resolution be forthwith furnished by the Secretary to Dr. Kraitzer. 3. Resolved that hereafter the Faculty may grant a certificate of proficiency to any Student in the school of Moral Philosophy who shall on examination give satisfactory evidence of a competent acquaintance with the subject of Belles Lettres. 4. Resolved that in all cases in which a Student has been suddenly called home from the University before he has stood his examinations in the several schools he has attended, or any part of them, the Faculty may, in their discretion, taking the merit of said Student &amp; other circumstances into consideration, grant him an examination in the succeeding session, &amp; those honors to which he may be found entitled, without requiring him again to matriculate. 5. Resolved that the suspension of the enactment requiring a uniform to be worn by the Students be continued until the next annual meeting of the Board. Two memorials from Students attending the schools of Medicine &amp; Chemistry, the first signed by fourteen, the last by twenty one Students ten of whom are common to both, have been presented to the Board &amp; attentively considered, whereupon it is 6. Resolved as the opinion of this Board that the matters stated in those memorials touching the capacity &amp; fitness of those Professors for the discharge of the duties of their respective Chairs require the action of the Board no further than to present to each of the professors of those schools a copy of the memorial respecting himself. 7. Resolved that the Secretary be requested to furnish to each of those professors a copy of this resolution together with a copy of the memorial respecting his school, without the names of the Students annexed. The Committee of Inspection reported. The Committee of Finance reported &amp; recommended the following resolutions which were adopted. 8. Resolved that the sum of $1,500 the amount of the Legacy bequeathed by Mr. Madison to the Library of the University &amp; which having been temporarily employed for the general uses of the Institution, was by a resolution of the Board of Visitors at their last annual meeting directed to be restored to it's original destination out of the current revenues of the University, be invested in any security yeilding an interest of 6 per centum per annum which shall seem to the Bursar expedient &amp; safe, instead of being invested in 6 per cent stock of the state of Virginia, as specifically directed by the aforesaid resolution. 9. Resolved that the surplus revenue of the University which has been heretofore set apart as a sinking fund for the extinguishment of the debt contracted by the loan made of Mrs. Martha Randolph instead of being invested in state stock for the purpose of accumulation, as directed by a resolution of the Board of Visitors at their annual meeting in July 1842, shall, from year to year be applied by the Bursar directly to the purchase of the $500 Bonds which were issued in evidence of the said debt if the same can be obtained at their par value. 10. Resolved that the Proctor be authorised to have Venetian blinds annexed to the outer doors of the pavilions of the University to which such blinds have not been annexed, if desired by the respective professors. The professor of Law, Mr. Tucker being in delicate health requiring the benefit of temporary rest from labor, as the most probable means of restoring his health &amp; preserving his valuable services, and having applied to the Visitors for leave of absence during the next session for so long as he may find necessary to the restoration of his health, upon condition of his finding a suitable substitute to discharge the duties of his chair during his absence, and his application being deemed reasonable: 11. Resolved that leave of absence be accordingly granted to the professor of Law during the next session of the University, or during such parts thereof as he may deem proper, provided that he furnish without expense to the University a fit substitute for the discharge of the duties of his chair, to be judged of by the Executive Committee. 12. Resolved that Mr. Rives, Colo. Randolph &amp; Genl. Cocke be the Executive Committee of the Board. 13. Resolved that Edward H. Courtney, the professor of Mathematics be appointed Chairman for the ensuing year. 14. Resolved that in all cases of vacancy in the office of Rector, and in cases of the sickness, absence, or other disability of the Rector to act, the drafts of the Bursar, countersigned by the Proctor, and approved by any two Visitors, shall be as effectual as if approved by the Rector. 15. Resolved, that in all cases in which former students of the University having graduated in any of the schools, having attained mature age and being of good character, shall desire to attend any of the lectures of the University on paying to the professors their accustomed fees, without matriculating they may, for special reasons with the leave of the Faculty, freely attend such professor as may assent thereto without matriculation, &amp; without being subject to the regulations of the University or entitled to any of its privileges; but any leave so granted may, at any time be withdrawn at the pleasure of the Faculty. 16. Resolved that the Proctor be required to give notice by public advertisement that the Chair of Modern Languages having become vacant by the resignation of Professor Kraitzer, the Board will proceed at a special meeting on Tuesday the 10th day of September next to fill the vacancy. The Board then adjourned to meet again on the 10th day of September next.</field>
+   </doc>
+</add>

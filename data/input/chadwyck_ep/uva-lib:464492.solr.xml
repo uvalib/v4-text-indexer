@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Max Hueber Verlag</field>
+      <field name="author_facet">Max Hueber Verlag</field>
+      <field name="author_sort_facet">max hueber verlag</field>
+      <field name="author_text">Max Hueber Verlag</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1950's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.2084.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1956</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464492</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Apollonius of Tyre</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 20th century</field>
+      <field name="subject_text">English poetry -- 20th century</field>
+      <field name="title_display">Apollonius of Tyre</field>
+      <field name="title_facet">apollonius of tyre</field>
+      <field name="title_sort_facet">apollonius of tyre</field>
+      <field name="title_text">Apollonius of Tyre</field>
+      <field name="year_display">1956</field>
+      <field name="year_facet">1956</field>
+      <field name="year_multisort_i">1956</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464492&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464492&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Apollonius of Tyre&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;apollonius of tyre&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1956&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1956&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Apollonius of Tyre&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Munich&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Max Hueber Verlag&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1956&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp2628&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;xi, 132, 48 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Apollonius of Tyre&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 19 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only Middle English Apollonius fragment included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Middle English romances.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">[MIDDLE ENGLISH FRAGMENT FROM APOLLONIUS.] Square brackets denote editorial insertions or emendations. To Tarse y fledde þat deþ to fle. For hunger þe cite was al nou?t. An hundred milianys þey hadde of me buschelles of whete as y am byþou?t. þo made þey an ymage off bras: a scheef of whete he helde an honde, þat to my licknes maad was; vppon a buschel þey dyde hym stonde, and wryte aboute þe storye: ‘To Appolyn þis hys ydo, to haue hym euere in memorye, for he delyuerede vs fro woo.’ þo wente y vnto Cirenen. þe kinges dou?ter he me ?af. I ledde here fro here kyn: a?eyn ne brou?te hire nou?t saf, ffor sche dey?de amydde þe see; and þer sche bar þis maide child þat here stant byfore þe. Goude goddesse, be to hire myld! þo tok y my dou?ter in Tarse to kepe, to Strangulion and dame Denyse. Y couþe no reed but euer wepe; sorwe me tok in ech wyse. I held me in þe see ten and foure ?eer, with sorwe, care and wo. I cam a?e, and fond hire nou?t þer; þo nyst y what was best to do. Bote grete goddesse, y þanke þe, þat euere sche deþ so asterte, þat euere y my?te þat day yseo, to haue þis confort at my herte.” þe whiles he expounede þus his lyf, with sorwe and stedfast þou?t, he tolde hit to hys owene wyf: sche knew him wel, and he hire nou?t. Heo cau?t him in hure armes two; for ioye sche ne my?te spek a word. þe kyng was wroþ, and pitte hire fro. Heo cryede loude: “?e beþ my lord. I am ?oure wyf, ?oure leof ycore, Archistrata, ?e louede so; þe kynges dou?ter y was [y] bore, Archistrates, he ne hadde na mo.” Heo clipte hym, and eft gan to kysse; and tolde þat was byfalle. Sche clipte and keuste withoute lysse, and saide þus byfore hem alle: “?e beþ Appolyn þe king, my maister, þat tau?te me al my goud. [?e beþ] for wham y oþer forsok, and to my lord ?ou ches; [?e beþ] my lord þat leide me on cheste, or y were cast in to þe see; [?e beþ] my lord þat ofte me keuste, and neuere wende me more ysee; [?e beþ] my lord þat y haue founde. Y þanke god in eternyte! [Hys o] ure dou?ter on þys grounde?” “Ye, dame, parfay: þys hys sche.” [þo schewd]e he hire. Me scholde nou?t knowe ho was gladdest of þe þreo. [A-non] þey wepte alle a-rowe, þat ech of oþer hadde pite. [Ouer al] Ephese hit was couþ: þe goddesse hadde hire lord knowe. [þo] may no man telle with mouþ þe grete mirþe þat was mad y-trowe. [Euery m]an song and made gleo in gret confort of here goddesse. [Was wre] þes ystrey?t ouer al þat cite, and keuerede for gret gladnesse. [He ma]de a feste of gret plente, and fedde þe citesaynes alle at ones. [Hy had]de of him gret deinte; þe feste was gret for þe nones. [þo ma]de hy prest of the lawe here norry þat sche loued mest. [þat wa]s þe manere by har dawe: wymmen dide þat offys of prest. [Gret was] þe ioye of þat londe. Sche di?te hire with here lord to fare. [Al þ]e cite brou?te hem at stronde; for deol or blisse wexeþ al bare. [þo we]nte hy to Antioche; ?utt was him kept þat kyndom. [And ry]?t fro þennes hys passage to his lond Tire he nom; [þer he] made Anategora kyng, hys dou?ter quene, þat was his heir. [And þon]ne hit was at her likynge, to schip hy wente alle y-fere, [and t]o Tarse þey wente with gret nauye; wederynge fel at wille. Alle þe citesaynes gonne crye: “Wel-come, lord, vs tille.” [He h]y?te a-non Strangulion take, and hys wyf Denyse also. [He bad] hem alle for here sake with hym to hare mothalle goo, [and] asket ?if he haþ trespassed ou?t oþer eny offense a?eyn hem do. [þo sa]yde alle: “Nay, lord, ry?t nou?t; ?e beþ oure lord for euer-mo. [?ou] we haue to lorde ycore; for euere loue ?ou we mote. [For n]e hadde ?e be, we hadde be lore; of alle bales ?e were bote. [?our y]mage of braas witnesse hys þat we schulle ?ow neuere disceyue. [We w]olle deye for ?ou y-wys raþer þan eny man schal ?ou greue.” “[To Str]angulion my dou?ter y tok, and Denyse þat hys hys wyf. . .” “. . .þat þe citesaynes with gret deol hadde write hit to-fore ?oure ey?e.” Appolyn gan to calle: “Tarse, dou?ter, where-euere þou beo, schewe þe forþ byfore vs alle; fro deþ to lyf arys a?e!” Sche pytte hire forþ in riche atir, as fel to a quene, to fulfille her fader desir. “Denyse,” sche seyþ, “hail ! I grete þe out of my graue, fro deþ to lyue arered. Wher hys Tiophele? Him moste y haue.” He stoud swiþe aferyd. “Madame, y am her at ?oure wille.” He stod as he schulde sterue. “Ho tok me þe to spille?” “Deonyse wham y serue.” þe citesaynes Strangulion toke and hys wyf for hire trecherye; out of þe cite drowe with hoke, in to a place þer-inne to dye. þey stenede him with stone, and so hy wolde Teophele also. Tarse bygan him defende sone: to deþe he ne was nou?t do; and saide: “He ?af me grace to praye god almy?t. I schal him ?eue lyues space; ellys ?e ne hadde me neuer seye in si?t.” Appolyn dwellede þer fourty dayes, and ?af grete ?iftes to alle men. He made festes and noble lawes; and þennes sailede to Cirenen. ?ut was hys ffader-in-lawe a-lyue, Archistrates þe goud kyng. Folk come a?eynes him so blyue, as eny my?te by oþer þryng. þey songe, daunsede and were blyþe, þat euere hy my?te þat day yseo; and þankede god a þousand syþe. þe kyng was gladdest, suyr be ?e, þo he saw hem alle byfore, his dou?ter and hys svne-in-lawe, and hys dou?ter so fair ycore, a kinges wyf: he was wel fawe; and her child þer also, al clene of kynges blod. He kuste hem; he was glad þo. But þe olde king so goud, he made hem dwelle al þat ?er, and deyde in hys dou?ter arm; with gret gladnesse he deyde þer: if god nolde hit was harm. þo nolde Appolyn neuere fyne, ar he hadde þe ffischere sou?t þat ?af him half hys sclaueyne, þo he was firste to londe ybrou?t. Kny?tes him fette of gret honour; he was aferde to be slawe. He ?af him londes and gret tresour, and made him Erl by al hys dawe. “Olde man, ne dred þe nou?t; for y am Appolyn of Tire þat ones helpe of þe bysou?t. þo y lay byfore þe in þe myre, þou ?aue me half þy sclaueyne, and bed me y schulde þenke on þe.” [þo Ant]iochus his deþ hadde swore; he was marchaunt of many þynge. [He fell d]oun þe kyng to grete. He tok him vp and gan him to kusse, [and sai]de he wolde him neuere lete; he scholde be on of hem to-wysse. [He ?af h]im bothe lond and lede, and made him Erl also þer by-side. [Hit was] ful of wilde-brede, casteles and tourys þat were wyde. [He ma]de him chef of hys consail; for he fonde him ferst with fewe: [he w]as euere withoute fail, he ne leet for no newe. [þo lyuede] þe kyng goud lyf and clene with hys wyf in gret solas; [sixty ?]er and fourtene he lyuede after þys do was. [Sche bar h]im twey sones by iunge age, þat wax wel-farynge men. [He hel]de þe kyndom of Antioche, of Tire and of Cirenen. [þo we]re neuere verre on hys lond, ne hunger ne no mesayse. [þat ffolk] hit ?ede wel an hond; he lyuede wel at ayse. [He wro]t tweye bokys of hys lyf: þat on to hys owene bible he sette; [þat oþer] at byddinge of hys wyf he lafte at Ephese þer he hire fette. [He ruled]e hys lond in goud manere. þo he drow to age, [Anateg]ora he made king of Tire, þat was his owene heritage; [þe eld]est sone of þat empire he made king of Antiage; [þe secon]de þat he louede dure, of Cirenen þat was [hys by parage]. [And þo] he hadde al þys ydy?t, cam deþ and axede hys fee. [þo wente] hys soule to god almy?t: so wol god þat hit bee. [God len]de ech housbonde grace, for to louye so hys wyf. [He louede] here withoute trespace, as sche dyde hym al here lyf. [Us graun]te on alle lyues space heer to amende oure mysdede, [and fina]lly of heuene to haue a place. Amen ?e synge here, y rede.— [In þe s]ouþ þys was translatyd, almost at Engelondes ende. [Hit was] nou?t to þe makers stat, tak sich a [matiere] kynde: [he schol]de haue ytake hys bedys on honde and sayd his paternoster and crede; [ffor he] was vicary, y vnderstonde, at Wymborne Mynstre in þat stede. [Na m]ore y þou?te ?ou haue wryte, hit is nou?t worþ to be knowe; [and þou] þat wole þe soþe ywyte, go þider and me wol þe schewe. [God] fader and svne and holy gost, to wham y clepide at my bygynnynge, [bycau]se he hys of my?tes most, brynge vs alle to a goud endynge, [and] graunte vs voide þe payne of helle, o god lord and persones þreo, [and in] þe blysse of heuene dwelle. Amen per charite.</field>
+   </doc>
+</add>

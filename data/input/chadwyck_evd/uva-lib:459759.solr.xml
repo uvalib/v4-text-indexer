@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Lydgate, John, 1370-1451</field>
+      <field name="author_facet">Lydgate, John, 1370-1451</field>
+      <field name="author_sort_facet">lydgate john 1370 1451</field>
+      <field name="author_text">Lydgate, John, 1370-1451</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1930's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.1130.xml</field>
+      <field name="date_indexed_facet">201909240355</field>
+      <field name="date_text">1934</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459759</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">A Mumming For The Goldsmiths of London</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 20th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 20th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">A Mumming For The Goldsmiths of London</field>
+      <field name="title_facet">mumming for the goldsmiths of london</field>
+      <field name="title_sort_facet">mumming for the goldsmiths of london</field>
+      <field name="title_text">A Mumming For The Goldsmiths of London</field>
+      <field name="year_display">1934</field>
+      <field name="year_facet">1934</field>
+      <field name="year_multisort_i">1934</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459759&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459759&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Lydgate, John, 1370?-1451?&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;lydgate john 1370 1451 &lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A Mumming For The Goldsmiths of London&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;mumming for the goldsmiths of london&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1934&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1934&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Lydgate, John&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1370&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1451&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Mumming For The Goldsmiths of London&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Published for The Early English Text Society, by Humphrey Milford, Oxford University Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1934&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3871808-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv11130&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Mumming For The Goldsmiths of London&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 14 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;(c) 1994 Chadwyck-Healey. Do not export or print from this database without checking the Copyright Conditions to see what is permitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries, introductory and editorial matter omitted&lt;lb/&gt;The following plays have been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Copyright (c) 1910–1934, Kraus Reprint and The Early English Text Society. This text may not be reproduced, except for fair dealing purposes, without the express permission of Chadwyck-Healey and the copyright holder&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: A mumming for the goldsmiths of London.</field>
+      <field name="desc_meta_file_display">Genre: Spectacles and minstrelsy to 1485.</field>
+      <field name="desc_meta_file_display">Date first published: 1427 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1427–1430.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;There are no identifiable speakers in this play&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">46. A MUMMING FOR THE GOLDSMITHS OF LONDON.</field>
+      <field name="fulltext">[MS. Trin. Coll. Camb., R. 3. 20, pp. 175–178.] And nowe filoweþe a lettre made in wyse of balade by Ledegate Daun Iohan, of a mommynge, whiche þe goldesmythes of þe Cite of London mommed in right fresshe and costele welych desguysing to þeyre Mayre Eestfeld, vpon Candelmasse day at nyght, affter souper; brought and presented vn to þe Mayre by an heraude, cleped Fortune. 1 Þat worþy Dauid, which þat sloughe Golye, Þe first kyng þat sprang oute of Iesse, Of God echosen, þe bookes specefye, By Samuel sette in his royal see, With twelve trybus is comen to þis citee, Brought royal gyfftes, kyngly him taquyte, Þe noble Mayre to seen and to vysyte. 2 Þe first trybe, þe Byble cane well telle, Is called Iuda, þe hardy, strong lyoun. Fro whos kynrede—for hit did excelle— Cryst lyneally he came adowne, Which lyche David was þe chaumpyoun Þat sloughe þe tyraunt, to gete him-self a prysse, Man to restore ageyne to Paradys. 3 Þis noble Dauid, moost mighty and moost goode, Is nowe descended in his estate royal With alle þe trybus of Iacobus blood, For to presenten in especial Gyfftes þat beon boþe hevenly and moral, Apperteyning vn-to good gouuernaunce, Vn-to þe Mayre for to doo plesaunce. 4 Frome his cytee of Iherusalem He is come dovne of humble wille and thought; Þe arke of God, bright as þe sonne beeme, In-to þis tovne he haþe goodely brought, Which designeþe, if hit be wel sought, Grace and good eure and long prosperitee Perpetuelly to byde in þis cytee. 5 O yee Levytes, whych bere þis lordes arke, Dooþe youre devoyre with hevenly armonye Þe gret mysterye deuoutely for to marke, With laude and prys þe Lord to magnefye; Of oon acorde sheweþe your melodye, Syngeþe for ioye, þat þe arke is sent Nowe to þe Mayre with hoole and truwe entent. 6 Palladyone was a relyk and an ymage sent by þe goddes into þe cytee of Troye þe which kept hem in longe prosperite ageynst alle hir enemys.Whylome þis arke, abyding in þe hous Of Ebdomadon, brought in ful gret ioye; For in effect it was more gracyous Þanne euer was Palladyone of Troye. Hit did gret gladnesse and hit did accoye Thinges contrarye and al aduersytee. Þeffect þer-of, whane Dauid did see, 7 And fully knewe, howe God list for to blesse Thorughe his vertu and his mighty grace, Þat of gladdnesse þey might nothing mysse— Wher hit aboode any maner spaace, God of His might halowed so þe place— Wherfore Kyng Dauid, by gret deuocion, Maade of þis ark a feyre translacion 8 In-to his hous and his palays royal, Brought by þe Levytes with gret solempnytee; And he him-self in especyal Daunsed and sang of gret humylyte, And ful deuoutely lefft his ryaltee, With Ephod gyrt, lyche preestis of þe lawe, To gyf ensaumple howe pryde shoulde be withdrawe 9 In yche estate, who list þe trouth serche, And to exclude al veyne ambycyoun, Specyally fro mynistres of þe Chirche, To whome hit longeþe by deuocyoun, To serve God with hool deffeccyoun And afforne him mynistre in clennesse, Bensaumple of Dauid for al his worþynesse. 10 Surge domine in requiem. tuam. Tu est archa sanctificacionis tue.Nowe ryse vp, Lord, in-to Þy resting place, Aark of Þyne hooly halowed mansyoun, Þou aark of wisdome, of vertu and of grace, Keepe and defende in þy proteccion Þe Meyre, þe citeseyns, þe comunes of þis tovne, Called in cronycles whylome Nuwe Troye, Graunte hem plente, vertu, honnour and ioye. 11 And for þat meeknesse is a vertu feyre, Worþy Dauid, with kyngly excellence, In goodely wyse haþe made his repayre, O noble Mayre, vn-to youre presence, And to youre hyeghnesse with freondly dilygence Þis presande brought, oonly for þe best, Perpetuelly þis tovne to sette at rest, 12 Of purpoos put þis aark to youre depoos, With good entent, to make youre hert light; And þoo three thinges, which þer inne beo cloos, Shal gif to yowe konnyng, grace and might, For to gouuerne with wisdome, pees and right Þis noble cytee, and lawes suche ordeyne, Þat no man shal haue cause for to compleyne. 13 A wrytt with-inn shal vn-to you declare And in effect pleynly specefye, Where yee shal punysshe and where as yee shal spare, And howe þat Mercy shal Rygour modefye. And youre estate al-so to magnefye, Þis aark of God, to make you gracyous, Shal stille abyde with you in youre hous. 14 For whyles it bydeþe stille in youre presence, Þe hyeghe Lord shal blesse booþe yowe and youres, Of grace, of fortune sende yowe influence And of vertue alle þe fresshe floures; And of aduersytee voyde awey þe shoures, Sette pees and rest, welfare and vnytee Duryng youre tyme thoroughe-oute þis cytee.</field>
+   </doc>
+</add>

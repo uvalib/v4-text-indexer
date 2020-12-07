@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Bell, Charles Dent, 1818-1898</field>
+      <field name="author_facet">Bell, Charles Dent, 1818-1898</field>
+      <field name="author_sort_facet">bell charles dent 1818 1898</field>
+      <field name="author_text">Bell, Charles Dent, 1818-1898</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_3.1472.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">1888</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:466811</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">A winter on the Nile</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">A winter on the Nile</field>
+      <field name="title_facet">a winter on the nile</field>
+      <field name="title_sort_facet">winter on the nile</field>
+      <field name="title_text">A winter on the Nile</field>
+      <field name="year_display">1888</field>
+      <field name="year_facet">1888</field>
+      <field name="year_multisort_i">1888</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:466811&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:466811&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Bell, Charles Dent, 1818-1898&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;bell charles dent 1818 1898&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A winter on the Nile&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;a winter on the nile&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1888&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1888&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Bell, Charles Dent&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1818&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1898&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A winter on the Nile&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Hodder and Stoughton&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1888&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp0370&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;xv, 336 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A winter on the Nile&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 12 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted; verse extracted from prose text; verse reproduced elsewhere in The English Poetry Full-text Database omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">DEDICATION. TO MY DEAR WIFE AND TWO DAUGHTERS, IN MEMORY OF A DELIGHTFUL WINTER PASSED TOGETHER IN EGYPT, THIS VOLUME IS AFFECTIONATELY DEDICATED.</field>
+      <field name="fulltext">RAMESES II. (Boulák Museum) I stand and gaze upon thy mummied face, Thou who didst deem thyself a demi-god, Before whom monarchs paled, and kings were awed,— Thou greatest scion of a royal race, Lying so still within death's grim embrace. And art thou he who carried wars abroad, Who shook the trembling nations with thy nod, And brought them to thy feet to pray for grace? Did Moses look into that face so cold, Those eyes so vacant, and that form so still? What! Did he brave thee in the days of old, Defying in God's name thy passionate will, Which in hard bondage did the Hebrews hold, Till life was death, and death itself no ill? SUNSET ON THE NILE. The sun in setting smites that river old, Which rolls through Egypt with life-giving flow; At once the placid waters gleam and glow, And glisten like a sheet of burnished gold, Bright as the sands o'er which Pactolus rolled, In the far-distant ages long ago; But as I gaze, the splendour fades, and lo! I wake to find the world grown dark and cold. Yet now the night draws on with moon and star That fill with liquid light the purple skies; And Venus burns in beauty from afar, And Sirius leans out from his silver car, While Mars looks down with red and fiery eyes, As though he'd gird himself afresh for war. THE TWIN COLOSSI. These two through ages have been sitting here, Two solemn forms of one great king in stone, The plinth beneath them serving for a throne. Here they have reigned as passed each passing year, Unmoved by hope, untroubled by a fear. With eyes that fain would pierce to lands unknown, Beyond the burning sand-dunes waste and drear, Watchers they are across the desert lone. Seated with hands upon their knees imprest, Did they not symbolise to all who came, Eternal silence and eternal rest? For though the world might change, they sat the same In grandeur immemorial ever drest, And robed in majesty beyond all name. “WHERE ARE THE GREAT AND SCEPTRED KINGS?” Where are the great and sceptred kings of yore, Who carried wars and conquests far and wide, And built their temples near that dusky tide Which plants a green oasis on the shore? Oh, where the suppliants who off'rings bore To Pasht and Isis, gods to whom they cried, Or to the sacred bulls they deified? Gone are their pomp and pride for evermore. Where are the maidens once as Hathor fair, With whom these conquerors had loved to toy, Girls sweet as lotus-blossom in their hair, Who filled the world with laughter and with joy? Withered the beauty men thought could not cloy,— The charms that stung their rivals to despair. TIDSWELL. Where Aboo Simbel's giant temple stands, And carved in rock four noble forms appear, That thus have sat enthroned through many a year, There lies just at their feet, 'mid golden sands, A lonely tomb, the work of tender hands, Which keeps the dust of one, a stranger here, Who rests apart from all who hold him dear, And weep his loss in the far English lands. Surely I deem that all who hither come, Cast a sad look on that pathetic grave, Which bears a name,—God knows how dear to some,— “Tidswell,”—true gentleman, and soldier brave, Who now sleeps well beneath the sunlit dome, Close to the music of the Nile's dark wave. ABOO SIMBEL. O great Rameses on thy awful seat At Aboo Simbel, 'midst the golden sands, Who carried war's fierce torch to distant lands, And trampled kingdoms 'neath thy conquering feet, Upon whose brow Egypt's two crowns did meet; Here in “the mountain of pure water” stands A house divine built by thy loving hands, For her to thee above all women sweet. Although so great, thou couldst be tender too, For in this carven figure at thy side, Stands Nofreari, fair and gentle-eyed, Whom in her youthful beauty thou didst woo, And made her all thine own, thy life, thy bride, And held her to thine heart as lovers do. NEAR KOROSKO. The day is perfect, cool, and passing fair: The boat upon the river glideth calm, Past golden sands, green banks, and graceful palm; Such beauty is there in the earth and air, As well might loose “the ravelled sleeve of care,” And shed upon the wounded spirit balm, Or strike the keynote of a holy psalm, Or lift the soul to God in happy prayer. To breathe at all this day is passing sweet, To gaze on earth, to look upon the sky. The hours are winged with pinions all too fleet, For lo, as if to make the joy complete, Two heavens are ours—one shining far on high, One in the river flowing at our feet. RAMESES II. Surely this man did deem himself a god, Was lifted up with superhuman pride, As one who was already deified. His conquests he had carried far abroad, And kings and peoples trembled at his nod; And so he raised his statues far and wide, Constructed tombs to hold him when he died, This great Colossus on the world who trod. O vanity! thy statues are o'erthrown, Thy palaces blocked up with drifting sand, Thy tombs the owls and bats have made their own, And where thy temples once did proudly stand, There now remains the shattered, prostrate stone, And ruin reigns triumphant o'er thy land.</field>
+   </doc>
+</add>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1950's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2006_10/uvaGenText/tei/bov_19531106.xml</field>
+      <field name="date_indexed_facet">201909240346</field>
+      <field name="date_text">November 6, 1953</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:350752</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. November 6, 1953</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  November 6, 1953</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  November 6, 1953</field>
+      <field name="year_display">November 6, 1953</field>
+      <field name="year_facet">1953-11-06</field>
+      <field name="year_multisort_i">1953</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:350752&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:350752&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. November 6, 1953&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;November 6, 1953&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1953-11-06&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;November 6, 1953&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Official minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;2 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1953-11-06&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 16 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">6 November 1953 The regular monthly meeting of the Board of Visitors of The Rector and Visitors of the University of Virginia was held on this date in the Office of the President of Mary Washington College, at Fredericksburg, with the following present. The Rector, Barron F. Black, Chancellor Darden, President Combs, and Visitors Gravatt, Howard, Mears, Mrs. Smith, Mrs. Wailes, and Miss Wheeler. Absent: Visitors Barksdale, Carrington, Coxe, Gay, Emmett, Smith, and Talbott The minutes of the meeting of 9 October 1953, previously distributed, were approved GIFTS AND GRANTS President Darden reported receipt of the following gifts and grants From the estate of the late Mr. Bernard W. N. Bagot, to be added to the endowment fund of the University $ 2,500.00 From the United Daughters of the Confederacy, for the Woodrow Wilson Scholarship 420.00 From the Virginia Carolina Chemical Company, for a fellowship in chemistry for the session of 1953-54 3,000.00 From Philip Morris and Company, Ltd., Inc., for research under Professor R. M. Hubbard for the period October 1, 1953, to May 31, 1954 800.00 From the Cole Steel Equipment Company, Inc., for research under the direction of Professor R. M. Hubbard for the period August 20, 1953 to April 20, 1954 4,000.00 From the Gross Furnace Manufacturing Company, for research under the direction of Professor R. M. Hubbard for the period September 1, 1953, to October 15, 1953 600.00 From the National Advisory Committee for Aeronautics, for research under the direction of Professor L. R. Quarles, for one year beginning August 12, 1953 26,000.00 From the United States Public Health Service, for continued research under the direction of Dr. Byrd S. Leavell 5,589.00 CANCELLATION OF ELECTION The President stated that Miss Genevieve Noble had decided not to accept the position offered to her in the School of Nursing The Board adopted the following resolution. RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that the election of Miss Genevieve Eleanor Noble as Assistant Professor of Nursing, effective October 1, 1953, be and it is hereby cancelled. PROFESSOR MALONE'S REQUEST The President reported that Mr. Dumas Malone's request concerning lease of a plot at Copeley Hill required further study. It was thereupon carried over to the next meeting MRS. LAMBETH'S PROPOSED PURCHASE OF "VILLINO LAMBETH" President Darden reminded the Board of Mrs. W. A. Lambeth's petition of last June that the University should permit her to donate the sum of $30,000.00 as a substitute for her and her late husband's former gift to the University of the property known as "Villino Lambeth", and that this property, now occupied by her as a life tenant, be deeded to her by the University After a discussion in which general concern was expressed for Mrs. Lambeth's situation, the following resolution was adopted RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that it is the opinion of the Board, following careful study in recent months, and correspondence and discussion on the subject by the President, that Mrs. Lambeth's proposal of 12 June 1953 cannot be accepted, that the Board remembers with gratitude the loving and devoted services of Dr. W. A. Lambeth to the University, and that a statement be prepared setting forth the terms of the original deed of gift, the obligations of the University, and a summary of what has been done beyond requirements in consideration of Mrs. Lambeth, with such additional statement as the President may think proper to make. UNCOLLECTIBLE HOSPITAL ACCOUNTS The Board adopted the following resolution RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that the Hospital Accounts Committee be and it is hereby authorized to charge off as uncollectible accounts Schedules 393, 396, and 397, aggregating $23,890.89, recommended by them for cancellation BAYLY-TIFFANY SCHOLARSHIPS COMMITTEE Mr. Gravatt stated that his Committee on the Bayly-Tiffany Scholarships wished to defer making a report in view of Mr. Gay's absence and the fact that a meeting of the Committee with the University Committee on Scholarships, Loans, and Employment would be desirable before a final report should be laid before the Board. Mr. Gravatt stated that he would like to have a joint meeting of his Committee with the University Committee at 9.00 a.m. on Friday, December 11th, preceding the next meeting of the Board The Secretary was directed to arrange for such a meeting. ATLANTIC COAST ATHLETIC CONFERENCE The Rector read excerpts from the Constitution and By-Laws of the Atlantic Coast Conference, calling the attention of the Board to the fact that each member institution would have one vote, and that this vote must be vested in a delegate who should be a professor or administrative officer, but must not be an athletic official of the institution. The following resolution was adopted by the Board. RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that President Darden be and he is hereby elected to be the University's delegate to the Atlantic Coast Athletic Conference, with authority to name an alternate to attend meetings and to cast the University's vote The Secretary was directed to ask Mr. Tebell, the Director of Athletics, to supply each member of the Board with a copy of the Constitution and By-Laws of the Conference UNIVERSITY BUDGET The Rector and other Visitors expressed a wish that members of the Board should be furnished with any pertinent data which the President might be able to supply which would enable them to be better informed and therefore more effective in support of the University's budget requests, particularly in regard to the capital outlays for the Hospital and the proposed Student Union Building. The Secretary was directed to supply Board members with additional copies of the leaflet reprint of Appendix I (page 15) from the President's Report to the Board for 1950-1951, summarizing University capital outlays from 1826 to 1950 MARY WASHINGTON COLLEGE MATTERS ELECTIONS The Board adopted the following resolutions RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that Miss Miriam Jean Greenberg be and she is hereby elected Instructor in Physical Education at a salary of $3240 for the session of nine minths, incumbency to begin September 14, 1953, to fill the vacancy created by the resignation of Miss Jane Bell. RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that Mrs. Virginia Lawrence Payne be and she is hereby elected Social Director at a salary of $4027 for the session of nine months, incumbency to begin October 27, 1953 The Rector mentioned the possibility of Mrs. Payne's succeeding to the position of Dean of Women, in the event that position became vacant, and questioned whether Mrs. Payne, not having an academic degree of any kind should occupy this position. Dr. Combs replied that that was a bridge that could be crossed in the future, and that before appointing her Dean of Women, the matter would again be taken up with the Board of Visitors PROPOSED INCREASE IN STUDENT FEES President Combs laid before the Board a schedule of fees charged in the general session, with suggested increases. Upon Mrs. Wailes' request for a postponement of consideration of the matter, it was ordered to be tabled. ENROLLMENT AND NEW CONSTRUCTION President Combs reported that it had been possible to increase enrollment from 1300 to 1421 students as a result of the securing of eighty-one spaces in private homes and an apartment in Fredericksburg. Seventy-five additional students are being taught in extension courses in cooperation with the University. New construction is proceeding on schedule, President Combs reported, and the architects' and superintendent's estimates set 30 June 1954 as the completion date for the new dormitory group. President Combs also discussed the over-all situation as regards buildings, stressing the need for new scientific laboratories, especially for the biological sciences - - - - - - - - - - - - - - - - - - - - On motion, the meeting was then adjourned Barron F. Black Rector Francis L. Berkeley Secretary</field>
+   </doc>
+</add>

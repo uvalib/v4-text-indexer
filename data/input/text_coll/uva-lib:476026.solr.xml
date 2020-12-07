@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Anonymous</field>
+      <field name="author_facet">Anonymous</field>
+      <field name="author_sort_facet">anonymous</field>
+      <field name="author_text">Anonymous</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1890's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/HarChie.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">20 October 1890</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476026</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Three Noted Chiefs of the Sioux</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">Three Noted Chiefs of the Sioux</field>
+      <field name="title_facet">three noted chiefs of the sioux</field>
+      <field name="title_sort_facet">three noted chiefs of the sioux</field>
+      <field name="title_text">Three Noted Chiefs of the Sioux</field>
+      <field name="year_display">20 October 1890</field>
+      <field name="year_facet">1890-10-20</field>
+      <field name="year_multisort_i">1890</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476026&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476026&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Anonymous&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;anonymous&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Three Noted Chiefs of the Sioux&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;three noted chiefs of the sioux&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;20 October 1890&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1890-10-20&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Anonymous&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Three Noted Chiefs of the Sioux&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1890&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Harper's Weekly&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;20 October 1890&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Three Noted Chiefs of the Sioux&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 10 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">"Three Noted Chiefs of the Sioux." Harper's Weekly 34, 20 Oct. 1890: 995. THE delusion of the coming of the Messiah among the Indians of the Northwest, with the resulting ceremony known as the ghost dance, is indicative of greater danger of an Indian war in that region than has existed since 1876. Never before have diverse Indian tribes been so generally united upon a single idea. The conspiracy of Pontiac and the arrayment of savage forces by Tecumseh are insignificant by comparison. The conditions do not exist that ordinarily have led to wars upon the Western frontier. The peril of the situation lies in the fanaticism which may carry the superstitious and excitable Indian to the point of hostilities in defiance of all hope of ultimate success; and the uncertainty of this element baffles the judgment of the oldest frontiersman, in the effort to determine the extent of the danger. A single spark in the tinder of excited religious gatherings may precipitate an Indian war more sanguinary than any similar war that has ever occurred. The hope of peace lies in the judicious display of force, united with conciliation, by the United States authorities, helped by the coming of severely cold weather, which would make an outbreak obviously hopeless, and allow time for the delusion to dissipate. In the present state of affairs the noted Sioux chief Sitting Bull, who has already been the source of so much trouble in the course of Indian affairs, appears once more as a prominent figure. This time he does not have the fair pretext under which he incited the war in 1876, which led to the defeat and massacre of General Custer's command on Little Big Horn River, and terminated with the escape of Sitting Bull and his immediate followers into British territory. Since his surrender through the mediation of the Dominion officials in 1880, and his return to the Standing Rock Reservation in 1883, he has found his authority greatly diminished among the Dakota Sioux. This authority he has endeavored to regain by identifying himself with every element of hostility to the whites and opposition to the innovations of civilization, and has been so far successful that at the conference at Standing Rock, Dakota, in July and August, 1888, he influenced his tribe to refuse to relinquish their lands by purchase. Contrary to the general estimate concerning him, this famous chief is a man of mediocre ability, not noted for bravery as a warrior, and inferior as a commander and an intelligence to some of his lieutenants. Sheer obstinacy, stubborn tenacity of purpose, and low cunning, with an aptitude for theatrical effect and for working on the superstitions of his people, are the attributes by which he has acquired and retained influence among the Northwest tribes. Personally he is pompous, vain, boastful, licentious, and untrustworthy. He has constantly been a disturbing element at the agency since his return from confinement as a military prisoner seven years ago, and has grown worse in this respect as he has felt his authority and importance departing. The dangerous elements that this chief has called around him do not represent the most noted Indians who fought under his leadership in the Sioux war fourteen years ago and followed him in his exile across the British frontier. Those warriors have realized the futility of warfare with the whites, and are sincerely desirous not to incur its evils again. The Indians of whom Sitting Bull is the representative comprise the irreconcilables — warriors who adhere to the old aboriginal usages and chiefs jealous of their authority, which wanes in proportion as their followers advance in civilization. This small but dangerous faction are ready at any time for war. In sympathy with their desire are many young men ambitious for a chance to distinguish themselves as warriors. The chiefs of the greatest influence among the majority of the Indians are men of strong will and good sense, who have accepted the situation, and are willing to adapt themselves to the new condition of things. They could control their people by their own influence unaided if the scene of the gatherings was not so near exposed settlements, which tempt lawless Indians to make trouble in hope of booty. The present excitement is fanned to some extent by unscrupulous white persons desirous of a war with the hope that it shall bring them emolument, and end in throwing open the reservation lands for settlement. Foremost among the Indians who have taken the side of peace and safety, and have made every effort to break up the delusion which finds expression in the ghost dances, are chiefs Gall and John Grass, both warriors held in great respect for wisdom and bravery, who took a prominent part as followers of Sitting Bull in the war that brought about the massacre at the Little Big Horn. The change in them in the fourteen years since both these chiefs were on the war-path in the equipments of savagery — the war bonnets, the braided hair pieced out with buffalo tails, and the array of weapons — is remarkable. The difference between the good and the bad Indian is indicated in the countenance even more obviously than among the civilized whites. The strong faces of these two chiefs indicate their character, which, unlike that of Sitting Bull, is fearless, upright, bright, and progressive. The foremost leader among the Sioux is Chief Gall, who stands above all other chiefs in their estimation. Many persons familiar with the situation say that he planned the campaign of 1876, which made Sitting Bull famous as a commander and strategist, and affirm that no serious outbreak among the Northwest tribes will occur so long as he remains friendly to the government. This famous war chief is one of the best farmers at the Standing Rock Agency. His family are all members of the Episcopalian Church. He takes no part in the ghost dance, nor does he lend his sanction to it. He feels that the Indians fail to appreciate the benefits of their present surroundings, and want old times, which have been magnified in their imagination by tradition, to return. "I think it better," he said, at the conclusion of a conference he and John Grass had with Major James McLaughlin, the United States agent at Standing Rock, "for us to live as we are living rather than create trouble, not knowing how it will end." An element of great value in the preservation of order upon the reservation, and conspicuously useful in the present disturbed condition of affairs at the agency, is the Indian police. At Standing Rock the force is thirty in number, commanded by a captain and a lieutenant. For the adjudication of affairs occurring upon the reservation an Indian court has been established at the agency. Two of the judges are members of the police force, and the third one is John Grass, who speaks English. The impartiality and excellent judgment displayed in the conduct of this court have been noteworthy, and its decisions have almost invariably been accepted without complaint.</field>
+   </doc>
+</add>

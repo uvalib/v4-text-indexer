@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Kegan Paul, Trench, Trübner &amp; Co.</field>
+      <field name="author_facet">Kegan Paul, Trench, Trübner &amp; Co.</field>
+      <field name="author_sort_facet">kegan paul trench trbner  co</field>
+      <field name="author_text">Kegan Paul, Trench, Trübner &amp; Co.</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1890's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.1027.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1897</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459656</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Creation</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Creation</field>
+      <field name="title_facet">creation</field>
+      <field name="title_sort_facet">creation</field>
+      <field name="title_text">The Creation</field>
+      <field name="year_display">1897</field>
+      <field name="year_facet">1897</field>
+      <field name="year_multisort_i">1897</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459656&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459656&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Creation&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;creation&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1897&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1897&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Creation&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Kegan Paul, Trench, Trübner &amp;amp; Co.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1897&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873561-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv11027&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Creation&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 25 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries, introductory and editorial matter including introduction and notes omitted.&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Dedication included with The Creation&lt;lb/&gt;Source texts incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Copyright (c) 1995 Boydell &amp;amp; Brewer Ltd. This text may not be reproduced, except for fair dealing purposes, without the express permission of Chadwyck-Healey and the copyright holder.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The creation.</field>
+      <field name="desc_meta_file_display">Genre: English mystery and miracle plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1450 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1390–1410 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">[The Creation]</field>
+      <field name="fulltext">TO THE MEMORY OF William Morris WHO LOVED THESE PLAYS, OUR SHARE IN THIS BOOK A.W.P., F.J.D.</field>
+      <field name="fulltext">Square brackets represent sections of text unclear or absent in the original and supplied by the current editor. Source text incomplete</field>
+      <field name="fulltext">[Dramatis Personae. Deus. Cherubyn. Lucifer. Angeli Mali 1 et 2. Angeli Boni 1 et 2. Demones 1 et 2. Adam. Eua.] In dei nomine amen. Assit Principio, Sancta Maria, Meo. Wakefeld.</field>
+      <field name="fulltext">[Scene I.] [Heaven.] [Deus]. (1) Ego sum alpha et o, I am the first, the last also, Oone god in mageste; Meruelus, of myght most, ffader, &amp; son, &amp; holy goost, On god in trinyte. (2) I am without begynnyng, My godhede hath none endyng, I am god in trone; Oone god in persons thre, Which may neuer twynnyd be, ffor I am god alone. (3) All maner thyng is in my thoght, Withoutten me ther may be noght, ffor all is in my sight; hit shall be done after my will, that I haue thoght I shall fulfill And manteyn with my myght. (4) At the begynnyng of oure dede make we heuen &amp; erth, on brede, and lyghtys fayre to se, ffor it is good to be so; darknes from light we parte on two, In tyme to serue and be. (5) Darknes we call the nyght, and lith also the bright, It shall be as I say; after my will this is furth broght, Euen and morne both ar thay wroght, and thus is maid a day. (6) In medys the water, bi oure assent, be now maide the firmament, And parte ather from othere, Water aboue, I-wis; Euen and morne maide is this A day, [so was] the tothere. (7) Waters, that so wyde ben spred, be gedered to geder in to one stede, that dry the erth may seym; that at is dry the erth shall be, the waters also I call the see; this warke to me is queme. (8) Out of the erth herbys shal spryng, Trees to florish and frute furth bryng, thare kynde that it be kyd. This is done after my will; Even &amp; morn maide is ther till A day, this is the thryd. (9) Son &amp; moyne set in the heuen, With starnes, &amp; the planettys seuen, To stand in thare degre; The son to serue the day lyght, The moyne also to serue the nyght; The fourte day shall this be. (10) The water to norish the fysh swymand, The erth to norish bestys crepeand, That fly or go may. Multiplye in erth, and be In my blyssyng, wax now ye; This is the fyft day. (11) Cherubyn. Oure lord god in trynyte, Myrth and lovyng be to the, Myrth and lovyng ouer al thyng; ffor thou has made, with thi bidyng, Heuen, &amp; erth, and all that is, and giffen vs Ioy that neuer shall mys. Lord, thou art full mych of myght, that has maide lucifer so bright; we loue the, lord, bright ar we, bot none of vs so bright as he: He may well hight lucifere, ffor lufly light that he doth bere. He is so lufly and so bright It is grete ioy to se that sight; We lofe the, lord, with all oure thoght, that sich thyng can make of noght. hic deus recedit à suo solio &amp; lucifer sedebit in eodem solio. 12 Lucifer. Certys, it is a semely sight, Syn that we ar all angels bright, and euer in blis to be; If that ye will behold me right, this mastre longys to me. I am so fare and bright, of me commys all this light, this gam and all this gle; Agans my grete myght may [no]thyng stand [ne] be. (13) And ye well me behold I am a thowsand fold brighter then is the son; my strengthe may not be told, my myght may no thyng kon; In heuen, therfor, wit I wold Above me who shuld won. (14) ffor I am lord of blis, ouer all this warld, I-wis, My myrth is most of all; the[r]for my will is this, master ye shall me call. (15) And ye shall se, full sone onone, How that me semys to sit in trone as kyng of blis; I am so semely, blode &amp; bone, my sete shall be ther as was his. (16) Say, felows, how semys now me To sit in seyte of trynyte? I am so bright of ich a lym I trow me seme as well as hym. primus angelus malus. Thou art so fayre vnto my syght, thou semys well to sytt on hight; So thynke me that thou doyse. primus bonus angelus. I rede ye leyfe that vanys royse, ffor that seyte may non angell seme So well as hym that all shall deme. Secundus bonus angelus. I reyde ye sese of that ye sayn, ffor well I wote ye carpe in vayne; hit semyd hym neuer, ne neuer shall, So well as hym that has maide all. Secundus malus angelus. Now, and bi oght that I can witt, he semys full well theron to sytt; He is so fayre, withoutten les, he semys full well to sytt on des. therfor, felow, hold thi peasse, and vmbithynke the what thou saysse. he semys as well to sytt there as god hymself, if he were here. Lucifer. leyf felow, thynk the not so? primus malus angelus. Yee, god wote, so dos othere mo. primus bonus [Angelus]. Nay, forsoth, so thynk not vs. lucifer. Now, therof a leke what rekys vs? Syn I my self am so bright therfor will I take a flyght. Tunc exibunt demones clamando, &amp; dicit primus,</field>
+      <field name="fulltext">[Scene II.] [Hell.] primus demon. Alas, alas, and wele-wo! lucifer, whi fell thou so? We, that were angels so fare, and sat so hie aboue the ayere, Now ar we waxen blak as any coyll, and vgly, tatyrd as a foyll. What alyd the, lucifer, to fall? was thou not farist of angels all? Brightist, and best, &amp; most of luf With god hym self, that syttys aboyf? thou has maide [neyn,] there was [ten,] thou art foull comyn from thi kyn; thou art fallen, that was the teynd, ffrom an angell to a feynd. thou has vs doyn a vyle dispyte, and broght thi self to sorow and sitt. Alas, ther is noght els to say bot we ar tynt for now and ay. Secundus demon. —Alas, the ioy that we were In haue we lost, for oure syn. alas, that euer cam pride in thoght, ffor it has broght vs all to noght. We were in myrth and Ioy enoghe When lucifer to pride drogh. Alas, we may warrie wikkyd pride, so may ye all that standys be side; We held with hym ther he saide leasse, and therfor haue we all vnpeasse. Alas, alas, oure Ioye is tynt, We mon haue payne that neuer shall stynt.</field>
+      <field name="fulltext">[Scene III.] [Earth.] (17) Deus. —Erthly bestys, that may crepe and go, bryng ye furth and wax ye mo, I se that it is good; now make we man to oure liknes, that shall be keper of more &amp; les, of fowles, and fysh in flood. Et tanget eum. (18) spreyte of life I in the blaw, good and ill both shall thou knaw; rise vp, and stand bi me. All that is in water or land, It shall bow vnto thi hand, and sufferan shall thou be; (19) I gif the witt, I gif the strenght, of all thou sees, of brede &amp; lengthe; thou shall be wonder wise. Myrth and Ioy to haue at will, All thi likyng to fulfill, and dwell in paradise. (20) This I make thi wonnyng playce, ffull of myrth and of solace, and I seasse the therin. It is not good to be alone, to walk here in this worthely wone, In all this welthly wyn; (21) therfor, a rib I from the take, therof shall be [maide] thi make, And be to thi helpyng. Ye both to gouerne that here is, and euer more to be in blis, ye wax in my blissyng. (22) ye shall have Ioye &amp; blis therin, whils ye will kepe you out of syn, I say without[ten] lese. Ryse vp, myn angell cherubyn, Take and leyd theym both in, And leyf them there in peasse. Tunc capit cherubyn adam per manum, &amp; dicit eis dominus, (23) Heris thou adam, and eue thi wife, I forbede you the tre of life, And I commaund, that it be gat, Take which ye will, bot negh not that. Adam, if thou breke my rede, thou shall dye a dulfull dede. Cherubyn. Oure lord, oure god, thi will be done; I shall go with theym full sone. ffor soth, my lord, I shall not sted till I haue theym theder led. we thank the, lord, with full good chere, that has maide man to be oure feere. [Exit Deus.] Com furth, adam, I shall the leyd; take tent to me, I shall the reyd. I rede the thynk how thou art wroght, and luf my lord in all thi thoght, That has maide the thrugh his will, angels ordir to fulfill. Many thyngys he has the giffen, and maide the master of all that liffen; He has forbed the bot a tre; look that thou let it be, ffor if thou breke his commaundment, thou skapys not bot thou be shent. Weynd here in to paradise, and luke now that ye be wyse, And kepe you well, for I must go vnto my lord, ther I cam fro. [Exit Cherubyn.] Adam. Almyghty lord, I thank it the that is, and was, and shall be, Of thi luf and of thi grace, ffor now is here a mery place; Eue, my felow, how thynk the this? Eua. A stede me thynk of Ioye and blis, That god has giffen to the and me; Withoutten ende blissyd be he. Adam. Eue, felow, abide me thore, ffor I will go to viset more, To se what trees that here been; here ar well moo then we have seen, Gresys, and othere small floures, that smell full swete, of seyr coloures. Eua. Gladly, sir, I will full fayne; When ye haue sene theym, com agane. Adam. Bot luke well, eue, my wife, that thou negh not the tree of life; ffor if thou do he bese ill paide; then be we tynt, as he has saide. Eua. Go furth and play the all aboute, I shall not negh it while thou art oute; ffor be thou sekyr I were full loth ffor any thyng that he were wroth. [Exeunt Adam &amp; Eve.]</field>
+      <field name="fulltext">[Scene IV.] [Hell.] Lucifer. Who wend euer this tyme haue seyn? We, that in sich myrth haue beyn, That we shuld suffre so mych wo? Who wold euer trow it shuld be so? [Ten] orders in heuen were of angels, that had offyce sere; Of ich order, in thare degre, the [teynd] parte fell downe with me; ffor thay held with me that tyde, and mantenyd me in my pride; Bot herkyns, felows, what I say— the Ioy that we haue lost for ay, God has maide man with his hend, to haue that blis withoutten end, The neyn ordre to fulfill, that after vs left, sich is his will. And now ar thay in paradise; bot thens thay shall, if we be wise. The MS. has apparently lost 12 leaves here, containing (no doubt) the Temptation of Eve and the Expulsion of her and Adam from Paradise.</field>
+   </doc>
+</add>

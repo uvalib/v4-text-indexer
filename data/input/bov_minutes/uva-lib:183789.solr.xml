@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1990's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2006_01/uvaGenText/tei/bov_1999-01-09.xml</field>
+      <field name="date_indexed_facet">201909240342</field>
+      <field name="date_text">January 9, 1999</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:183789</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. January 9, 1999</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  January 9, 1999</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  January 9, 1999</field>
+      <field name="year_display">January 9, 1999</field>
+      <field name="year_facet">1999-01-09</field>
+      <field name="year_multisort_i">1999</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:183789&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:183789&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. January 9, 1999&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;January 9, 1999&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1999-01-09&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;January 9, 1999&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Public minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;1 v.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information. Access to minutes containing salary information will be granted only under the procedures of the Virginia Freedom of Information Act (Code of Virginia-2.1-340 ff.) or if permission is granted by the Secretary of the Board. Researchers interested in obtaining access to these records should direct a request in writing to the Office of the Legal Adviser, Madison Hall, University of Virginia. These public minutes have had salary information deleted and bear no restrictions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1999-01-09&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2005&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2005 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 13 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">January 9, 1999 The Board of Visitors met, in Open Session, at 10:10 a.m., Saturday, January 9, 1999, in the East Oval Room of the Rotunda; John P. Ackerly, III, Rector, presided. Charles M. Caravati, Jr., M.D., Champ Clark, William G. Crutchfield, Jr., William H. Goodwin, Jr., T. Keister Greer, Mrs. Elsie Goodwyn Holland, Timothy B. Robertson, Terence P. Ross, Albert H. Small, Ms. Elizabeth A. Twohy, Henry L. Valentine, II, Benjamin P.A. Warthen, James C. Wheat, III, Joseph E. Wolfe, and J. Michael Allen were present. Also present were Leonard W. Sandridge, Jr., Alexander G. Gilliam, Jr., Paul J. Forch, Peter W. Low, Ernest H. Ern, Ms. Polley Ann McClure, Gene D. Block, L. Jay Lemons, Ms. Sondra F. Stallard, Edward L. Ayers, David T. Gies, Ms. Kathleen Dawley, Benjamin Fishburne, Ken Murray, Phillip Benowitz, and Ms. Jeanne F. Bailes. After calling the meeting to order, the Rector asked Mr. Low, Vice President and Provost, to present the Consent Agenda items.</field>
+      <field name="fulltext">The first item, Mr. Low told the Board, had to do with changes in title of two degrees, both in the Department of Urban and Environmental Planning at the School of Architecture: Mr. Low proposed changing the Bachelor of City Planning and the Master of City Planning to, respectively, the Bachelor of Urban and Environmental Planning and the Master of Urban and Environmental Planning. Mr. Clark, the Chair of the Educational Policy Committee, endorsed the proposal. On motion, the Board adopted a resolution approving the changes in title.</field>
+      <field name="fulltext">APPROVAL TO CHANGE A DEGREE TITLE The following resolution was adopted: WHEREAS, the Department of Urban and Environmental Planning in the School of Architecture currently offers degrees called "Bachelor of City Planning" and "Master of Planning"; WHEREAS, it will better reflect the background education leading to those degrees to change the names to correspond to the names of the Department; and WHEREAS, the name changes have been approved by the Dean of the School of Architecture, by the Academic Affairs Committee of the Faculty Senate, by the Graduate Council, and by the Provost; NOW THEREFORE BE IT RESOLVED that the degree currently entitled Bachelor of City Planning in the Department of Urban and Environmental Planning of the School of Architecture be changed to Bachelor of Urban and Environmental Planning; and BE IT FURTHER RESOLVED that the degree currently entitled Master of Planning in the Department of Urban and Environmental Planning of the School of Architecture be changed to Master of Urban and Environmental Planning. Mr. Low then led a discussion of a proposed degree program in the Division of Continuing Education, a program which would lead to a degree to be called the Bachelor of Liberal Studies. Mr. Edward Ayers, Chair of the Faculty Senate, also participated in the discussion and assured the Board that the faculty and the Senate approve the proposed program and that the Faculty Oversight Committee will keep a continuing eye on it. Members had several objections to the proposed degree program, though all agreed to the idea of the program. The objections centered around the name, Bachelor of Liberal Studies; the relationship between the program and the Honor System; questions of "quality control;" and finally, the fact that an applicant could receive a University of Virginia degree with 54 hours of University courses (plus 66 hours of credits from another institution). Ms. Stallard, Dean of the Division of Continuing Education, explained the reasons for the name, reasons which can be summed up as a desire to avoid confusion with the University's current undergraduate degree programs. Board members suggested that the degree be called "Bachelor of Interdisciplinary Studies," and Mr. Low agreed to take that proposal to the faculty. Ms. Stallard said she hoped the new program would have representation on the Honor Committee. Several Board members expressed strongly their opinion that the Honor System apply to the program and that the Board resolution creating the program state this. Mr. Ayers and Mr. Low assured the Board that the requirements for the new degree would be as rigorous as those for the University's existing undergraduate degrees. Board members insisted that the resolution creating the program mention academic quality. Several members expressed concern that the minimum requirement of 54 hours earned at the University was too low. When it was pointed out that 54 hours are what is required of students transferring into the University from another institution for the pursuit of the other undergraduate degrees, members agreed to separate that issue from the enabling resolution for the program. After more discussion, it was decided that Mr. Low would present a new resolution, embodying the Board's concerns, to the Educational Policy Committee for consideration and action - and eventual referral to the full Board for approval. Mr. Low promised to refer the matter of the 54 hours requirement - rather than 60 hours, which is half of the total hours required for an undergraduate degree - to the appropriate faculty committees for study and an eventual report to the Board. The Rector told the Board that the President had commissioned a study of the proposal to change the name of Clinch Valley College. The study is to consist of a telephone survey done by a company in Massachusetts which specializes in such things. Mr. Crutchfield, Chair of the Clinch Valley College Committee, gave a brief overview of the proposal and then introduced Ms. Kathleen Dawley, President of Maguire Associates, the Massachusetts firm engaged to do the survey. Ms. Dawley discussed the methodology of the survey and told the Board the results to date are "very preliminary" and cannot be considered conclusive. By the end of January, her firm expects to have conducted one thousand telephone interviews with alumni of the University. Mr. Allen suggested that some students be surveyed as The Rector then read a statement (the statement is attached) he had drafted, announcing the appointment of a special committee of the Board to study the proposal to change the name of Clinch Valley College. He asked Dr. Caravati to act as Chair of the Special Committee and Mr. Robertson and Mr. Valentine to serve as well. (Subsequent to the Board meeting on January 9th, the Rector asked Mr. Ern, Senior Vice President, and Mr. Zeithaml, Dean of the McIntire School, to serve as non-Board of Visitors members of the Committee.) On a motion, the Board went into Executive Session for the remainder of the meeting. The following motion was adopted: That the Board of Visitors of the University of Virginia go into Executive Session for the discussion and consideration with our Legal Counsel of the formation of a contract to perform services overseas, and the investing of public funds where competition and bargaining is involved when if made public initially the University's financial interests would be adversely affected as provided for in Section 2.1-344 (A)(6)(7) and (8) of the Code of Virginia. The Board resumed in Open Session at 5:00 p.m. and, on motion, adjourned. Respectfully submitted, Alexander G. Gilliam, Jr. Secretary</field>
+   </doc>
+</add>

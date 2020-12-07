@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Cibber, Colley, 1671-1757</field>
+      <field name="author_facet">Cibber, Colley, 1671-1757</field>
+      <field name="author_sort_facet">cibber colley 1671 1757</field>
+      <field name="author_text">Cibber, Colley, 1671-1757</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1730's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V2.0929.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1736</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460440</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">Myrtillo ; a pastoral interlude</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 18th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 18th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Myrtillo ; a pastoral interlude</field>
+      <field name="title_facet">myrtillo</field>
+      <field name="title_sort_facet">myrtillo</field>
+      <field name="title_text">Myrtillo ; a pastoral interlude</field>
+      <field name="year_display">1736</field>
+      <field name="year_facet">1736</field>
+      <field name="year_multisort_i">1736</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460440&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460440&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Cibber, Colley, 1671-1757&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;cibber colley 1671 1757&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Myrtillo ; a pastoral interlude&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;myrtillo&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1736&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1736&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Cibber, Colley&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1671&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1757&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Myrtillo&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;a pastoral interlude&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for W. Feales [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1736&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872251-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv20929&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Myrtillo&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;a pastoral interlude&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 25 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted.&lt;lb/&gt;Only Myrtillo, A Pastoral Interlude included&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Myrtillo, a pastoral interlude.</field>
+      <field name="desc_meta_file_display">Genre: Masque.</field>
+      <field name="desc_meta_file_display">Date first published: 1715.</field>
+      <field name="desc_meta_file_display">Date first performed: 5 Nov 1715.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">MYRTILLO: A Pastoral Interlude.</field>
+      <field name="fulltext">?Cœlo præfertur Adonis. Hunk tenet, huic comes est? Ovid.</field>
+      <field name="fulltext">Tantum cupit illa rogari. Ovid.</field>
+      <field name="fulltext">The PERSONS. Myrtillo, Mrs. Marg. de L'Epine. Laura, Mrs. Barbier. Lycon, Mr. Birkhead. Mopsa, Mrs. Willis. Chorus of Shepherds.</field>
+      <field name="fulltext">Laura alone. Lau. O love! with what fantastick Sway Thou mak'st poor Mortal Hearts obey! I love, and am belov'd again, Yet treat my Lover with Disdain. Whene'er he's nigh me, I undo him; Yet, shou'd he fly me, Shou'd pursue him. Myrtillo, wou'd you woo me? Love less, lest I despise you: Or I, tho' 'twou'd undo me, Shall tantalize you. When you with Pain are dying, I'm farthest from complying. Wou'd you secure, or fright me, Pretend to slight me. See where the sullen Swain, Reluctant, drags his Chain: Thy former Peace despair to have. Now help me, female Art, To charm and vex his Heart, And make the Rebel more my Slave. Myrtillo comes forward. Thus seeming careless to repose, [She lies down. Uncover'd Beauties shall allure him; And, when he's faster in the Nooze, I'll wake surpriz'd,—and not endure him. A Symphony, with a Flute. Myr. Help me, Love! I sigh, I die, Die, alas! for one I scorn: Vain and fickle tho' I prove her; Tho' pursuing Is my Ruin, 'Tis my Fate to love her: Reason no Relief can raise me, Love betrays me, She was for my Torment born. See where the lovely Tyrant lies! Unpointed now, And harmless are her Eyes. But, oh! what rising Charms Swell on her Breast, (Where Gods might rest) And give my Heart a thousand new Alarms. Lau. Myrtillo— Myr. —Ha! she calls! she dreams. Lau. O be but thus! thus ever kind. Myr. O! Gods! she is not what she seems. Her Heart, her Heart's to Love inclin'd: Sleep on, soft, charming Fair, for I Yet never knew such waking Joy. Ne'er let a Lover His Hope give over, For being deny'd; The female Rover, In Pique and Pride, Her Love with Scorn will cover; The way to woo her, Is to pursue her With Flames and Vows; With Scorn her Scorn oppose. If she pretend you teaze her, Seize, and please her. Lau. What is't, Myrtillo, turns thy Brain? [Seeming surpriz'd. Myr. Ah, Laura, I have chang'd my Strain, Nor will I more in Sighs complain. What I have seen and heard just now, Has taught me thus in Smiles to woo. [Offering to embrace her. Lau. And me with Smiles to hear thee too. [Turns away in Scorn. Myr. Laura, your Heart's of softer make, In sleep you're Kind, tho' Coy awake. Lau. Know then, deluded Wretch, that I Did but pretend in sleep to lie, And heard you say,— For one I scorn, I die. Myr. You must not mind a hopeless Lover; In Rage we often Love discover. Lau. Ah! no; the Proof of Love, Is finding Joy in Pain: A tender Inclination Will love, and love in vain. Myr. Nothing more wou'd make tender, Than a Hope that you'll surrender. Lau. Nothing sooner wou'd enrage me, Than your hoping to engage me. Myr. The Lover that can part with hope, With ease may give the Fair-one up. Lau. To ease you then of all your Pain, Despair, nor see my Face again. Myr. What have I done to merit this? Lau. What have you done to merit less? Myr. Oh, injur'd Love! my Heart relieve, And tell this Tygress, she's unfit to live. Lau. No, Cupid; let him still complain, 'Till he confess the Pleasure of the Pain. Myr. Let me the Torment feel Of rolling Stone, or restless Wheel: Let me the worst of Tortures prove; But ease, O ease my Heart of Love. More raging Pains were never born, Than unrelenting Woman's Scorn. Lau. O poor unhappy Swain!— [Ironically. Myr. What can the Syren mean? Lau. O happy Myrtillo, No more say I slight you; You truly delight me While you are in Pain: Your Pain is my Pleasure, You please above measure; The greater my Pleasure, The more you complain. Myr. Curse on thy false, insidious Air! Is't not enough I feel despair? Why wilt thou still my Heart ensnare? Lau. Come! come, be chearful, bear thy Fate. Myr. No more those Eyes I'll trust, false fair Ingrate, For ever from thy fatal Charms I'll fly, And the slow Cure, or Death of Absence try: Hence will I hasten to some dismal Cave, Dark! doleful! joyless as the Grave! Where the sad Screech-Owl's Notes are only heard, Whence Light and Comfort are for ever barr'd! There, pining, waste my Days, from Insults free, And die forgotten of the World and Thee! Lau. Oh, stay, Myrtillo, and I'll tell thee all. Myr. Yet I forgive thee, cruel as thou art, Thou hast undone the tend'rest, constant Heart. Farewell for ever— Lau. —Stay! Myr. —We must— Lau. —We must not part. Now you move me With complaining: Can you fly me with disdaining? Traytor! go! You but prove me With false Vows: Your Passion feigning; Did you love me? Never! no! Myr. O Love! to thee for Help I fly, Support my staggering Mind: Less Danger's in her Cruelty, Than in her seeming kind. What shall an injur'd Lover do? Can I believe her?—No! no! no! Will it grieve her If I leave her?—No! no! no! Shall I on her Faith rely? Or the fair Delusion fly? Lau. —O Myrtillo! Myr. —Laura, Forbear! Lau. Still art thou deaf? —I must not hear. [In two Parts.] Lau. Oh, my Anguish! Myr. How I languish! Lau. 'Tis more than I can bear! Myr. Undone by Hope; secure by Fear. [Rural Musick at a Distance] Myr. What rural Sounds are those so near? Lau. The Nymphs and jolly Swains prepare To celebrate with Sports the Spring: Wilt thou not join them while they sing? Myr. Their Sports to me no Comfort bring. Enter Lycon, Mopsa, and Chorus of Shepherds. Lyc. Now all ye Swains and Lasses, Put on your Airs and Graces; For this the Time and Place is To Pipe, and Dance, and Play: All brisk and jolly, Sporting, Courting, Care is a Folly, Dancing, Prancing, Flora commands a Holiday. Lyc. See Mopsa, see! Myrtillo's mute! Mop. Laura's the Cause— Lyc. —Without Dispute: Speak boldly, Swain; your Grief declare. Myr. 'Tis true, I have my Grief from her Lyc. What tho' the Nymph deny you, She ne'er intends to fly you, A thousand Tricks she'll try you, All but to hold you fast: She'll pout and vex you, Coying, Toying, Then perplex you, Slighting, Frighting; Follow her close,—she's right at last. Mop. From Laura I shall more discover:— Is this a time to slight your Lover? Lau. Myrtillo's nice, but cannot say I'm coy, And seems more fond of Pain than Joy. Mop. What tho' the Swain abjure you, Protests he'll ne'er endure you: 'Tis all but to allure you, To ease him of his Pain. If once you treat him Kindly, Friendly, You defeat him Fairly, Rarely; Ply him but home,—he's right again. Lau. Myrtillo— Lyc. —shall comply.— [Seizing Myrtillo's Hand. Myr. —Laura.— Mop. —No longer shall deny. [Mop. and Lyc. join Lau. and Myr. Hands. [In two Parts. Myr. Kind and tender, Lau. I surrender. Both. All my Joy's in thee alone. Lau. When I deny'd you, I only try'd you. Myr. When I forswore you, I did adore you. Both. Despair and Care's for ever flown. [Chorus of Voices and Dancers. Cho. Now all ye Swains and Lasses, &amp;c. FINIS.</field>
+   </doc>
+</add>

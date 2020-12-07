@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Darley, George, 1795-1846</field>
+      <field name="author_facet">Darley, George, 1795-1846</field>
+      <field name="author_sort_facet">darley george 1795 1846</field>
+      <field name="author_text">Darley, George, 1795-1846</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1820's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_3.1839.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1829</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:467057</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The anniversary; or, poetry and prose for MDCCCXXIX</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">The anniversary; or, poetry and prose for MDCCCXXIX</field>
+      <field name="title_facet">anniversary or poetry and prose for mdcccxxix</field>
+      <field name="title_sort_facet">anniversary or poetry and prose for mdcccxxix</field>
+      <field name="title_text">The anniversary; or, poetry and prose for MDCCCXXIX</field>
+      <field name="year_display">1829</field>
+      <field name="year_facet">1829</field>
+      <field name="year_multisort_i">1829</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:467057&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:467057&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Darley, George, 1795-1846&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;darley george 1795 1846&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The anniversary; or, poetry and prose for MDCCCXXIX&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;anniversary or, poetry and prose for mdcccxxix&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1829&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1829&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Darley, George&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1795&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1846&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The anniversary; or, poetry and prose for MDCCCXXIX&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Published by John Sharpe&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1829&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp1020&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;xvi, 320 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The anniversary; or, poetry and prose for MDCCCXXIX&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 23 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only verse by Darley included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE SORROWS OF HOPE. BY GEORGE DARLEY, ESQ. “Array! array the bridal feast! Be ready, paranymphs and priest! Hurry to church the swooning Maid!— The rite is done, the blessing said: She is the old Lord Walter's wife, Her destiny is sealed for life! No heir from these unfruitful bands Shall step between us and her lands, Which should have come to us by right; Our Uncle was a drivelling wight To leave the Girl his treasures, when He had as near relations men!” So spake her Cousins. Months flew past, I left my severed couch at last: “O, Eveline! dear Cousin! now For thy soft hand to sooth my brow! Thy breath, as sweet as morning air, To pour its perfume on my hair! Come, with thy harp, my soul to calm; Come, with thy voice, my spirit's balm! Sweet-murmuring, like the forest dove, Sing me the ditty that I love!” A brother's voice in laughter broke Close at my elbow as I spoke: 'Twas Simon, with as sly a grin As drunken Death might cast on Sin: Another face as blear, but older, Looked with a death-scowl o'er his shoulder, My brother Roland's; black as night, When Hell has suffocated light. “Six months ago, our Cousin wed, While you lay groaning on your bed; And now is—where, the Heavens can say!— But sure some thousand miles away. Glad was the Nymph to save from you Her broad lands and her beauty too.” Had Heaven upon my head let fall The fiercest thunderbolt of all, It had not withered thus my youth! Age came at once: in very sooth, By agony, in one short day, My raven locks were turned to gray! Misfortune now most bitter made The scenes where we together strayed, The hills we ranged like two gazelles, The banks we sought for cowslip bells, Or lily pale, her favourite flower, The darkling grove, the secret bower, The simple lays our hearts approved, The tales of beauty that we loved, The silent, dim, secluded vale, Where love had breathed his ardent tale,— All, all like bosomed scorpions were, That stung with native vigour there. In foreign lands, perchance, thought I, These adders of the mind may die. With empty scrip, but heart o'erflowing, I chose an autumn morn for going. Vain hope, indeed, the hope to find In change of place, a change of mind! “My Eveline!—that potent name Should still my deathward steps reclaim. I would not quit this mortal sphere And think I left thee lonely here; I would not quit this terrene shore, Till I beheld thy face once more.” Methought, that while my throbbing heart Was conning o'er this bleeding part, A shadowy form, like that I loved, Before my dim perception moved; And uttered with a plaintive cry— “We'll meet again before we die!” Howe'er it was, that strong belief Upheld me 'gainst the waves of grief Which stormy Fate against me blew: I hoped, I thought, I felt, I knew These arms which circled her before Should press her to my heart once more! And still whene'er my spirits fell, Came the sweet voice I knew so well. I passed one time the lordly towers Which Shirewood's giant grove embowers, Beneath whose antiquated reign Spreads far and wide a green domain: O'er the soft mead and velvet lawn Range the staid deer and trotting fawn, Or primly walk the long arcades, Like owners of those secret shades. But on this day, I ween, they stept Less stately, and the in-wood kept; For since the upspring of the morn, Their ears had echoed to the horn, And the keen stag-hound's fatal yell Tolled in them like a passing bell. I chanced to pass the greenwood nigh, When the loud pack came sweeping by, With gallant hunters in their train, Who all, but one alone, were men. She on a milk white palfrey rode, That seemed too happy for his load. In suit of silvan green, the Maid Was like a kirtled woodnymph clad: A velvet helm, jet black, she wore, With snow-bright plumage nodding o'er. Along they flashed: I could not trace The clouded features of her face, Although I guessed it lovely fair; But as she past, two rings of hair, Like twisted threads of matted gold, Behind each snowy ear were rolled. My pulse throbbed high! There was but one With tresses wound from off the sun, Like these!—'Tis she! so bliss be mine! I knew her by her locks divine! 'Tis Eveline!—And at a bound I broke the sanctuary ground; The greenwood rang with shrill alarms,— She screamed, and fell into my arms! “My Eveline! my heart-sworn bride! Look up! behold thy love!” I cried, And tore her jealous veil aside— When, Oh! what horror sealed mine eyes! What shrieks of anguish and surprise Burst from my lips!—Fond wretch, away! 'Tis young De Bohun's Ladye gay. Through fair Hesperia's balmy clime I journeyed in that reckless time Which Superstition grants to Sin For acting her loose pleasures in, Ere her own gloomy rites begin,— The Carnival. Fair Florence shone, The imperial Druggist's classic town! Like the great orb at going down, Gorgeous and glorious; while the breath Of fuming Luxury beneath, Who led the wine-flushed, panting crowd, Sat o'er the city like a cloud; Dizzying the sight, though amber clear, Of all in its Circean sphere. 'Mid all this joy, and hum, and whirl, Who is that melancholy girl? Fixed on that marble block alone, She seems of kindred to the stone; Woe, looking at her clasped hands, Or counting Death's slow minute sands? So wrapt my thoughts, I spoke aloud, When one of the near-standing crowd: “Alas! who knows not, by her mien, The lovelorn lady Eveline? An angel from another sphere, Whom friends by force have carried here; Because her maiden choice, forsooth, Instead of palsied Age, was Youth!” No more! my heart has long confest Her presence whom it knows the best! Long ere we die, indeed, we meet!— I rushed, and threw me at her feet: With upraised arms and streaming eyes, Poured out my soul in sobs and sighs, And broken words, and gasps of joy, Like a fond, visionary boy! Then rose the statued beauty, while Her eyes betrayed a pitying smile, And sighing like a thing of clay, Walked slow and silently away. At once the hope my folly nursed, Her tall majestic form dispersed: That beauteous Grief might be a queen, But, ah! 'tis not my Eveline! Along the deep majestic Rhine, Flowing as dark as his own wine, I took my meditative way. Dim Twilight, in her veil of gray, Stood on the Eastern hills afar, Watching pale Vesper's beacon star. Pondering, I woke not from my dream Till broadly o'er the rippling stream, A battlemented mansion threw Its form athwart the sullen blue. Lost in the splendour of the sight, I gazed upon the vision bright, And stood in long abstraction here; When sweetly, faintly on my ear, O'er the reflecting waters stole A strain deep drawn from Passion's soul; Melody that the Saints might sigh, Seeing a sister spirit die. “The very voice! the very lay! My Eveline! O haste away! Descend! descend! my bride! my wife! The pride, the passion of my life!”— Ere twenty ripples kissed the shore, We ferried the deep current o'er, And like two doves that seek their nest, Flew through the greenwood, breast to breast. At length! at length my hopes are crowned! At length my Eveline is found! Even in its treasury of ill, Heaven had some mercy for me still! She gazed—she faintly, wildly screamed— The moon which then unclouded streamed, Fell on her cheek, the boughs between— O God! it was not Eveline! Down sank I, as a corpse that stands Falls, when you take away your hands. Homeward I bent my steps again— Joined by a youth from old Bretagne, Upon whose brow, though fair and young, The cloud of melancholy hung; His raven curls and sable plume Deepened his fixed look of gloom, And though I often wished to be Left to my own sad company, I could not to a Youth so fair, So desolate, refuse his prayer, That he “might journey o'er the wild With the good Pilgrim, as his child.” Together, then, we journeyed on, Like father and his youthful son; For Grief was canker to my prime, And Woe had done the work of Time, And cloak and staff and scallop shell Suited my tremulous accent well. With this poor Youth (I heard him sigh) My ministry begins, said I; Some vision seems to haunt his mind, He often starts and looks behind, As if some foe or spectre grim, Studious of blood, still followed him. Like ivy round an elder tree, He crept, he clung, he grew to me; And trembling pulled me from the way Which through the mountain valley lay. “No! we must quit the sunny road,” Said I; “this leads to my abode; The deep, green, silent valley's shade Seems for the weary pilgrim made.” We went. A visor'd horseman keen, Rushed on us from a dark ravine; And fierce of mood and fell of hand, Struck my fair comrade with his brand, Who shrieked my name and fled. I drew My sword and thrust the murderer through. He gazed, and shuddering on the bank, “Arden!” exclaimed—and lifeless sank. I flew into the wood and cried, “Where art thou, Boy?” But nought replied. I found him underneath a cave, Leaning beside a crystal well, Into whose green translucent wave His piteous tears in silence fell. He dipt his napkin in the spring, And wiped therewith his pallid brow, But all the plaint and murmuring Was from the little stream, I trow, That bubbled, all too crimson, by; For scarce the Youth was seen to sigh. But, oh! more near, I saw his breast Heave through his scarcely opened vest. 'Tis white as undescended snows, Or the pure foam that crests the linn! Full as a woman's breast it rose, That time he put his napkin in! O, pity! see, the breast doth bleed! And 'tis a woman's breast indeed! I placed her dying on my knee, Her bonnet fell upon the green; Her golden hair flowed splendidly— O, God! it is my Eveline!— Is this, is this your mercy, Fate? Is this the work of Hope or Hate? That voice recalled her from the skies. “Why”—and she gazed with dim surprise; “Why from the grave of absence rise To greet, in vain, my closing eyes?— Yet, no!—'tis much to see thy face, To feel, once more, thy kind embrace; I am content, if so thou art, To find me near thy beating heart; 'Tis much to hear thy tender tone, To die in thy loved arms alone.” These words I echoed with a groan.— Wishing my sorrows to beguile, She strove,—but 'twas such pain to smile, Her lips were grave again. I wept, Some unknown tears mine eyes had kept. “Weep not!” she said, “but let us give The few short moments I can live To sweet affection.—Care and woe, Young Arden! have they changed thee so? Thy Eveline, too weak for strife, Was made the old Lord Walter's wife, While thou, who might'st have been my aid, Wert on the couch of sickness laid: Spite of her grief, his bride he bore To wild Illyria's murmuring shore; But threat, nor prayer, deceit, nor dread, Could force me to his hated bed; For still I hoped, when he had died, I should have been thy unstained bride.”— Sighing (though half immortal!) here, She wept another human tear. Then, as I kissed it off: “Nor long Lived the old Baron. All the wrong He did, lay with him in his grave. My soul was on the Adrian wave, And, bird like, o'er the silvering foam, Returned to love, and thee, and home. But—Fortune razed what Fancy reared! Ere died the Baron, oft appeared Scowling amid the castle walls, Two visages my childhood feared; Nay, glared upon me in the halls, Or from the gloomy woods around, As I passed on, looked out and frowned.” “Death came at last; and with it, they, Like vultures, to devour the prey. Both widowers: so, to strife they grew, And Simon his dark brother slew. Meantime, disguised, afoot I fled, And begged, through France, my way and bread: But still upon my track pursued That fiend, who now hath shed my blood, Lest both my wealth and person, he Should wrest from him, who married me, Thyself I hoped; but, kindly Fate Comes with the boon a pace too late.” “'Tis sad—almost too sad—that when So far I 'scaped—that I should then Be murdered in my native glen!— Within thy very arms!—so near The only bliss that made life dear!— But vain—all vain, beneath the sun! Let the great will of God be done!” Her lips grew settled: mine begun— “No pity, Heavens? No mercy? none?”— She oped her faint death-clouded eye, Looked up, and whispered in a sigh, “We meet—some consolation!— We meet again before we die!”— Then joined her sister saints on high. Beneath that fountain's margin-sands I buried her with my own sad hands; And led the little stream to rave A requiem round her hallowed grave; And plucked white roses for her tomb, Fit emblems of her virgin bloom, Her beauty, and her luckless doom!</field>
+   </doc>
+</add>

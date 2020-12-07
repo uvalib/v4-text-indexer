@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Hayne, Paul Hamilton, 1830-1886</field>
+      <field name="author_facet">Hayne, Paul Hamilton, 1830-1886</field>
+      <field name="author_sort_facet">hayne paul hamilton 1830 1886</field>
+      <field name="author_text">Hayne, Paul Hamilton, 1830-1886</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1860's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ap/uvaGenText/tei/chap_AM0370.xml</field>
+      <field name="date_indexed_facet">201909240350</field>
+      <field name="date_text">1867</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey American Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey American Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:439816</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">[Poems by Hayne in] The Southern Poems of the War ; Collected and Arranged by Miss Emily V. Mason</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">American poetry -- 19th century</field>
+      <field name="subject_text">American poetry -- 19th century</field>
+      <field name="title_display">[Poems by Hayne in] The Southern Poems of the War ; Collected and Arranged by Miss Emily V. Mason</field>
+      <field name="title_facet">poems by hayne in the southern poems of the war</field>
+      <field name="title_sort_facet">poems by hayne in the southern poems of the war</field>
+      <field name="title_text">[Poems by Hayne in] The Southern Poems of the War ; Collected and Arranged by Miss Emily V. Mason</field>
+      <field name="year_display">1867</field>
+      <field name="year_facet">1867</field>
+      <field name="year_multisort_i">1867</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:439816&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:439816&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Hayne, Paul Hamilton, 1830-1886&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;hayne paul hamilton 1830 1886&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;[Poems by Hayne in] The Southern Poems of the War ; Collected and Arranged by Miss Emily V. Mason&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;poems by hayne in the southern poems of the war&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1867&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1867&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Hayne, Paul Hamilton&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1830&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1886&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;[Poems by Hayne in] The Southern Poems of the War&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Collected and Arranged by Miss Emily V. Mason&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Baltimore&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;John Murphy &amp;amp; Co.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1867&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3865423-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;cham0370&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;American poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;[Poems by Hayne in] The Southern Poems of the War&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Collected and Arranged by Miss Emily V. Mason&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Alexandria, VA&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Inc.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 10 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only unique items by Hayne included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-AmPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">“AWAY WITH THE DASTARDS WHO WHINE OF DEFEAT.” BY PAUL H. HAYNE, OF SOUTH CAROLINA. Away with the dastards who whine of defeat, And hint that the day of destruction draws near, Who counsel “submission,” or whisper “retreat,” With the traitor's mistrust and the renegade's fear. What! doff the strong armor, and yield us as slaves To lust and to robbery, banded with might, While the standard that symbols our liberty waves, Still flaming and fair in the front of the fight? By the souls of our fathers! I hold them accurst, The caitiffs who falter and flee from the strife, Who would slake at Dishonor's foul cess-pool the thirst Of a passion—the meanest and basest—for life! Go! crouch in the forest! Go! hide 'neath the rock! Slink, pallid and scared, into mountain and den; We have maidens to fill your lost ranks in the field Of death and of conflict—most gallant of men! The soul of the brave saint of Orleans is here, It thrills in the voices, it burns on the cheek Of women who heed not the wail of despair, And scorn the false words which the craven would speak. “Submission,” ah! yes! we'll submit when the sod, Lies blackened and bare on the tombs of our race, And “retreat” when the call of our merciful God, Shall bid us disband in His kingdom of grace! Charleston, May 10, 1862. BUTLER'S PROCLAMATION. BY PAUL H. HAYNE, OF SOUTH CAROLINA. “It is ordered that hereafter when any female shall, by word, gesture, or movement, insult or show contempt for any officer or soldier of the United States, she shall be regarded and held liable to be treated as a woman of the town, plying her vocation.” Butler's Order at New Orleans. Aye! drop the treacherous mask! throw by The cloak which veiled thine instincts fell, Stand forth thou base incarnate lie, Stamped with the signet brand of hell. At last we view thee as thou art— A trickster with a demon's heart. Off with disguise! no quarter now To rebel honor! thou would'st strike Hot blushes up the anguished brow, And murder fame and strength alike. Beware! ten millions hearts aflame Will burn with hate thou canst not tame. We know thee now! we know thy race! Thy dreadful purpose stands revealed Naked before the nation's face! Comrades! let mercy's fount be sealed, While the black banner courts the wind, And cursed be he who lags behind! O! soldiers, husbands, brothers, sires! Think that each stalwart blow ye give Shall quench the rage of lustful fires, And bid your glorious women live Pure from a wrong whose tainted breath, Were fouler than the foulest death. O! soldiers, lovers, Christians, men! Think that each breeze that floats and dies O'er the red field, from mount or glen, Is burdened with a maiden's sighs; And each false soul that turns to flee, Consigns his love to infamy! No pity! let your thirsty brands, Drink their warm fill at caitiff veins, Dip deep in blood your wrathful hands, Nor pause to wipe those crimson stains. Slay! slay! with ruthless sword and will, The God of vengeance bids you “kill!” Yes! but there's one who shall not die In battle harness! one for whom Lurks in the darkness silently Another and a sterner doom! A warrior's end should crown the brave, For him, strong cord and felon grave! As loathsome charnel vapors melt, Swept by the rushing winds to nought, So may this fiend of lust and guilt Die like a nightmare's hideous thought. Nought left to mark the monster's name, Save—immortality of shame!</field>
+   </doc>
+</add>

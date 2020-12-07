@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Binyon, Laurence, 1869-1943</field>
+      <field name="author_facet">Binyon, Laurence, 1869-1943</field>
+      <field name="author_sort_facet">binyon laurence 1869 1943</field>
+      <field name="author_text">Binyon, Laurence, 1869-1943</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1940's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_3.1992.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">1944</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:467152</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The burning of the leaves ; and other poems: By Laurence Binyon</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 20th century</field>
+      <field name="subject_text">English poetry -- 20th century</field>
+      <field name="title_display">The burning of the leaves ; and other poems: By Laurence Binyon</field>
+      <field name="title_facet">burning of the leaves</field>
+      <field name="title_sort_facet">burning of the leaves</field>
+      <field name="title_text">The burning of the leaves ; and other poems: By Laurence Binyon</field>
+      <field name="year_display">1944</field>
+      <field name="year_facet">1944</field>
+      <field name="year_multisort_i">1944</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:467152&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:467152&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Binyon, Laurence, 1869-1943&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;binyon laurence 1869 1943&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The burning of the leaves ; and other poems: By Laurence Binyon&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;burning of the leaves&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1944&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1944&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Binyon, Laurence&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1869&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1943&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The burning of the leaves&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;and other poems: By Laurence Binyon&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Macmillan &amp;amp; Co.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1944&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp0425&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;viii, 18 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The burning of the leaves&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;and other poems: By Laurence Binyon&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 26 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">The Burning of the Leaves Five Poems I [Now is the time for the burning of the leaves.] Now is the time for the burning of the leaves. They go to the fire; the nostril pricks with smoke Wandering slowly into a weeping mist. Brittle and blotched, ragged and rotten sheaves! A flame seizes the smouldering ruin and bites On stubborn stalks that crackle as they resist. The last hollyhock's fallen tower is dust; All the spices of June are a bitter reek, All the extravagant riches spent and mean. All burns! The reddest rose is a ghost; Sparks whirl up, to expire in the mist: the wild Fingers of fire are making corruption clean. Now is the time for stripping the spirit bare, Time for the burning of days ended and done, Idle solace of things that have gone before: Rootless hope and fruitless desire are there; Let them go to the fire, with never a look behind. The world that was ours is a world that is ours no more. They will come again, the leaf and the flower, to arise From squalor of rottenness into the old splendour, And magical scents to a wondering memory bring; The same glory, to shine upon different eyes. Earth cares for her own ruins, naught for ours. Nothing is certain, only the certain spring. II [Never was anything so deserted] Never was anything so deserted As this dim theatre Now, when in passive grayness the remote Morning is here, Daunting the wintry glitter of the pale, Half-lit chandelier. Never was anything disenchanted As this silence! Gleams of soiled gilding on curved balconies Empty; immense Dead crimson curtain, tasselled with its old And staled pretence. Nothing is heard but a shuffling and knocking Of mop and mat, Where dustily two charwomen exchange Leisurely chat. Stretching and settling to voluptuous sleep Curls a cat. The voices are gone, the voices That laughed and cried. It is as if the whole marvel of the world Had blankly died, Exposed, inert as a drowned body left By the ebb of the tide. Beautiful as water, beautiful as fire, The voices came, Made the eyes to open and the ears to hear, The hand to lie intent and motionless, The heart to flame, The radiance of reality was there, Splendour and shame. Slowly an arm dropped, and an empire fell. We saw, we knew. A head was lifted, and a soul was freed. Abysses opened into heaven and hell. We heard, we drew Into our thrilled veins courage of the truth That searched us through. But the voices are all departed, The vision dull. Daylight disconsolately enters Only to annul. The vast space is hollow and empty As a skull. III [Cold springs among black ruins? Who shall say] Cold springs among black ruins? Who shall say Whither or whence they stream? If it could be that such translated light As comes about a dreamer when he dreams— And he believes with a belief intense What morning will deride—if such a light Of neither night nor day Nor moon nor sun Shone here, it would accord with what it broods upon,— Disjected fragments of magnificence! A loneliness of light, without a sound, Is shattered on wrecked tower and purpled wall (Fire has been here!) On arch and pillar and entablature, As if arrested in the act to fall. Where a home was, is a misshapen mound Beneath nude rafters. Still, Fluent and fresh and pure, At their own will Amid this lunar desolation glide Those living springs, with interrupted gleam, As if nothing had died: But who will drink of them? Stooping and feeble, leaning on a stick, An old man with his vague feet stirs the dust, Searching a strange world for he knows not what Among haphazard stone and crumbled brick. He cannot adjust What his eyes see to memory's golden land, Shut off by the iron curtain of to-day: The past is all the present he has got. Now, as he bends to peer Into the rubble, he picks up in his hand (Death has been here!) Something defaced, naked and bruised: a doll, A child's doll, blankly smiling with wide eyes And oh, how human in its helplessness! Pondered in weak fingers He holds it puzzled: wondering, where is she The small mother Whose pleasure was to clothe it and caress, Who hugged it with a motherhood foreknown, Who ran to comfort its imagined cries And gave it pretty sorrows for its own? No one replies. IV [Beautiful, wearied head] Beautiful, wearied head Leant back against the arm upthrown behind, Why are your eyes closed? Is it that they fear Sight of these vast horizons shuddering red And drawing near and near? God-like shape, would you be blind Rather than see the young leaves dropping dead All round you in foul blasts of scorching wind, As if the world, O disinherited, That your own spirit willed Since upon earth laughter and grief began Should only in final mockery rebuild A palace for the proudest ruin, Man? Or are those eyes closed for the inward eye To see, beyond the tortures of to-day, The hills of hope, serene in liquid light Of reappearing sky— This black fume and miasma rolled away? Yet oh how far thought speeds the onward sight! The unforeshortened vision opens vast. Hill beyond hill, year upon year amassed, Age beyond age and still the hills ascend, Height superseding height, Though each had seemed (but only seemed) the last, And still appears no end, No end, but all an upward path to climb, To conquer—at what cost! Labouring on, to be lost On the mountains of Time. What are they burning, what are they burning, Heaping and burning in a thunder-gloom? Rubbish of the old world, dead things, merely names, Truth, justice, love, beauty, the human smile, All flung to the flames! They are raging to destroy, but first defile; Maddened, because no furnace will consume What lives, still lives, impassioned to create. Ah, your eyes open: open, and dilate. Transfigured, you behold The python that was coiled about your feet, Muscle on muscle, in slow malignant fold, Tauten and tower, impending opposite,— A fury of greed, an ecstasy of hate, Concentred in the small and angry eye. Your hand leaps out in the action to defy, And grips the unclean throat, to strangle it. V [From shadow to shadow the waters are gliding, are gone] From shadow to shadow the waters are gliding, are gone, They mirror the ruins a moment, the wounds and the void; But theirs is the sweetness of silence in places apart: They retain not a stain, in a moment they shine as they shone, They stay not for bound or for bar, they have found out a way Far from the gnawing of greed and the envious heart. The freshness of leaves is from them, and the springing of grass, The juice of the apple, the rustle of ripening corn; They know not the lust of destruction, the frenzy of spite; They give and pervade, and possess not, but silently pass; They perish not, though they be broken; continuing streams, The same in the cloud and the glory, the night and the light. Ezekiel Ezekiel in the Valley of Dry Bones Heard the word of the Lord commanding him: ‘Prophesy to these bones, that they may live.’ There was a noise and a shaking; and bone to bone Clove together, and sinew and flesh came on them. Yet there was no breath in them. The Lord commanded: ‘Prophesy, Son of Man, to the four winds.’ And the winds came from the corners of the earth, Breathing upon those dead, and clothed in flesh Was a great army standing upon their feet. I dreamed I stood in a valley of dry bones. But what were these? derelict, rusty, mounded Clutter and offal of man's invention, dry bones Cast aside by hurrying civilization, Yesterday's triumph, that To-day despises. With a noise of hissing they were coming together. Fire breathed on them, and metal clove to metal, Timed and measured, each to its intricate function, Minute or monstrous, all in the brain engendered, Convolutions, multiplied over and over. Panting and humming, forms combined to a meaning, Usurping the sky, supplanting the sweet verdure, Forms from the blinding furnace issuing, huge Giantry of metal, dwarfing man to a pigmy, Sounding, clamouring, throbbing in speed and power. Proud we gaze on all we have mastered,—captive Force, and willed conformity, stamped exactness. But O divine diversity of creatures, Where are you? Not here amid man's contrivings; None can repeat you, none complete, nor annul you. High over the battling Street High over the battling street I watch the wind blow In frenzy tearing the plane trees That are tossing below. The high balcony's railing Casts a shadow unstirred: Of this mad torment of air The sun has not heard. Marseilles, 17 May 1940 The Lamp of Greece Truth incorruptible lives on, though sight Cloud, and the heart flinch, and the mind askance Reject. Because she sought that radiance, Unweariable lover of the light! History's marvel, Hellas in despite Of time and interposing circumstance Still stands above the siege of ignorance, Serene before the armies of the night. The mind has flowered where she wooed the seed Up from the darkness into beauty: there Love listens, divine music fills the air, Though we by glimpses only understand Who in the present anguish of our need Long for the light as for our native land. The Winds of all the World The winds of all the world bring agonies, Day by day, hour by hour, into our ears; Not only desolation, blood, and tears, But cloud on cloud of suffocating lies. The human strives with the inhuman there, Enduring things beyond belief, and still Because of one unconquerable will Confronts, clear-eyed, what it has yet to bear. Before the sunrise, under naked trees On grass that sparkled in the dew, I paced. I thought of all the torment, all the waste; I thought of beauty, justice, mercy, peace. Beyond the raging of the powers of night What from of old stood, still was dear, was true. Far in the East the sky to glory grew, And slowly earth rolled onward into light. The Cherry Trees Out of the dusk of distant woods All round beneath the April skies Blossom-white, the cherry trees Like lovely apparitions rise, Like spirits strange to this ill world, White strangers from a world apart, Like silent promises of peace, Like hope that blossoms in the heart. The Orchard Almond, apple, and peach, Walnut, cherry, plum, Ash, chestnut, and beech, And lime and sycamore We have planted for days to come; No stony monument But growing, changing things, Leaf, fruit, and honied scent, Bloom that the bees explore, Sprays where the bird sings. In other Junes than ours When the boughs spread and rise Tall into leafy towers To grace and guard this small Corner of paradise; When petals red and white Resign to warming air, Without speech or sight From our hands they will fall On happy voices there. To Elsie Fogerty (Nov. 30, 1942) On living lips to mould and modulate The shapes of sound, that each may mirror true The mystery of the word and breathe it new Into the entranced ear, warm and intimate; For heart and mind such beauty to create As on our English stage may fitly nurse Its heritage, the glory of voice and verse: To this you chose your days to dedicate. You serve that art, you teach its subtle rule Of rhythmic life. Accept for this to-day Our homage; and, it may be, turn like one Who from the hill turns on his homeward way To look back on the vale, and bountiful Ripe harvest that his happy toil has sown. Winter Sunrise It is early morning within this room; without, Dark and damp; without and within, stillness Waiting for day: not a sound but a listening air. Yellow jasmine, delicate on stiff branches Stands in a Tuscan pot to delight the eye In spare December's patient nakedness. Suddenly, softly, as if at a breath breathed On the pale wall, a magical apparition, The shadow of the jasmine, branch and blossom! It was not there, it is there, in a perfect image; And all is changed. It is like a memory lost Returning without a reason into the mind; And it seems to me that the beauty of the shadow Is more beautiful than the flower; a strange beauty, Pencilled and silently deepening to distinctness. As a memory stealing out of the mind's slumber, A memory floating up from a dark water, Can be more beautiful than the thing remembered. I turn to the window, and out of a low cloud Is a brimming-over of brightness; dazzling the eye With levelled brilliance, fiery-fresh, the Sun. As in absent thought with dreaming eyes I gaze On sudden shadows gliding across the rime A vision comes before me in utter silence The earth is moving, the earth is rolling over All that is usual all that goes unquestioned is taken from me wider, wider the doors of vision are opening Horizon opening into unguessed horizons And I with the earth am moving into the light The earth is moving, the earth is rolling over into the light long, long shadows of trees run out are running across the grass. With frosty plains, mountains and curving coasts Cities and rivers, forests, burning deserts, Seas and the sprinkled islands, passing, passing, But all transparent! Under the generous earth The careless waters, I see the original fires Leaping in spasms, seeking to burst their prison And I remember that human eyes have seen Solid earth yawn and cities shaken to fragments Ocean torn to the bottom and great ships swallowed, Now more terrible than those blind convulsions Are men at war; on land, on the seas, in the air, War, war in the brain, in the obstinate will war in the brain, war in the will, war No refuge or hiding place anywhere for the mind And now I hear everywhere sound of battle The seekers after destruction, there is no refuge Death, death, death on the earth, in the sea, in the air Yet oh, it is a single soul always in the midst Each is a single soul. O it cannot be, yet it is Let me not be so stunned that I cannot feel . . . Imagination is but a little cup It can hold but a minim part Can a little cup contain an ocean? My dreaming eyes return The flower of winter remembers its own season And the beautiful shadow upon the pale wall Is imperceptibly moving with ancient earth Around the sun that timeless measures sure and silent. THE END</field>
+   </doc>
+</add>

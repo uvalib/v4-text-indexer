@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Oskison, John</field>
+      <field name="author_facet">Oskison, John</field>
+      <field name="author_sort_facet">oskison john</field>
+      <field name="author_text">Oskison, John</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1910's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/OskDive.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">September 1910</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476267</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Diverse Tongues: A Sketch</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">Diverse Tongues: A Sketch</field>
+      <field name="title_facet">diverse tongues a sketch</field>
+      <field name="title_sort_facet">diverse tongues a sketch</field>
+      <field name="title_text">Diverse Tongues: A Sketch</field>
+      <field name="year_display">September 1910</field>
+      <field name="year_facet">1910-09</field>
+      <field name="year_multisort_i">1910</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476267&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476267&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Oskison, John&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;oskison john&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Diverse Tongues: A Sketch&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;diverse tongues a sketch&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;September 1910&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1910-09&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Oskison, John&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Diverse Tongues: A Sketch&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1910&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Current Literature&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;September 1910&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Diverse Tongues: A Sketch&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 10 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Oskison, John. "Diverse Tongues: A Sketch." Current Literature 49 (Sept. 1910): 343-344. Several months ago a new magazine made its appearance in New York. Its title is "1910." Next year its title will be "1911." It is a labor of love, being conducted by a little group of writers and artists who contribute to its columns whatsoever each one is pleased to contribute. So far the result has been good for the readers as well as the contributors. The following sketch is taken from its columns. It is written by John Oskison and it leaves one a little teary around the eye-lashes. "YES, at twelve o'clock to-night." "What's that, Bess? What's going to happen at twelve o'clock?" At the Chief Engineer's table sat a young woman of eighteen; on one side sat her brother, a boy of fifteen, and opposite to her sat a youth of twenty, the light of her eyes. It was the brother's shrill, impulsive, impatient question that had disturbed the table. "Why don't you listen, 'Greedy'?" The last word was whispered, and as she spoke the girl's eyes were half turned to her mother, sitting beyond the boy. "Oh, Bess, tell me what's going to happen at twelve o'clock." The boy had ignored the taunt. "Well, if you must know, little 'Pop Eyes' (again she lowered her voice), they're going to bury a little boy in the sea—a little boy about your size." The girl's tone was supremely irritating; her brother shrilled: "Oh, Bess, you....!" But he got no farther. The mother, a powerful, blonde woman of forty, turned, and, wheeling the boy's chair, commanded, "Leave the table at once, Wendel!" When he had gone she turned to her daughter: "Were you teasing Wendel, Bess?" "No, Mama. I was telling Bruce what the third officer told Grace Clarkson and me to-day. A little child died in the steerage yesterday, and it is to be buried at sea to-night at twelve o'clock. Then Wendel wanted to hear, and I told him he should have listened." "Wendel is very quick tempered." The mother resumed her dinner placidly. The third officer had spread his news well. After dinner, in the smoke room, it caused a little pause in the animated conversation of the groups into which it fell; on deck, one couple of promenaders met another, the four talked eagerly together for a moment and went on a little less boisterously; over their coffee in the social hall, the older women discussed the possibility of anyone, young or old, ill or well, surviving a voyage in the steerage. Parties were formed and pledged one another to sit up to "see it." The concert in the saloon was a good one that evening. A driving, mid-summer rain had sent all of the promenaders inside. Looking around at the crowded tables, the round-faced cornettist, leader of the orchestra, plunged into the opening spasm of a popular march. A rag-time piece followed, then the "Turkish Patrol" was conducted to its post, the relief followed, and the weary soldiers were marched away to barracks. At ten o'clock the "Poet and Peasant" had been played; and half an hour later, with the final blast of "Silverheels," the leader packed his cornet away, music racks collapsed at a touch, and the deafening hum of two hundred persons talking rose to the decorated ceiling. Outside, the wind was still blowing fiercely, tho the rain had ceased. From the great yellow stacks of the steamer, banners of black streamed across the stars. The soft throb of the engines could be heard only when one walked past the open ventilators on the leeward side. The boat deck was deserted save for a young couple who had not forgotten their resolution, made during the concert, to come up and "wait for the funeral." Until half-past eleven occasional heads were thrust above the companionways and withdrawn at the first blast of wind that sucked down from above. Except for the light beside the log at the very stern and two luminous windows in the little steerage deck cabin, the ship seemed as lifeless as a derelict, and as dark. The stern light shone clear on the outcurving arm of a life-boat davit; one watching it for five minutes might see the white davit turn into the long neck of a peering, grinning monster, looking overside at the seething froth behind the screws to find there, if he might, some joke worthy of his mirth. Pinned to the railing twenty feet forward of the log-light and flapping wildly in the wind, was a row of baby-napkins, placed there to dry before sunset and forgotten. Eight bells had struck and the faint sound of hammering that had been heard at intervals in the last half-hour continued. For some reason there was a delay. At the quarter-hour past midnight, the door of the small steerage cabin was opened; the light from within shone faintly on the drying deck. Then the light was obscured; steps sounded, shuffling and muffled, and two sailors, bareheaded, appeared, with the little box carried between them. Behind came the captain, stepping briskly. The doctor was there—as he came out of the door he flung a cigaret overboard. The third officer closed the door after him, and for a moment the procession was lost to sight. It reappeared in the glow of the log-light. Halting abruptly, the sailors balanced the box on the rail. One end of it was obviously heavier than the other. Someone at dinner had remarked: "They put coal in to weight it, but it never goes to the bottom—the water's too dense." The captain stepped up beside the railing, took off his cap and placed his hand on the balancing box. He was slightly bald and quite gray. In the feeble light his real face showed pale, ascetic, and the gold braiding of his uniform could not be seen. Shadows made him priestlike. The doctor's cap came off, the third officer uncovered, there was a moment of stillness, the captain muttered: "One, two, three, in God's name," nodded, and the two sailors slipped the box quietly off the rail. * * * * * "Ye Gods, it's dark up here, Bess." "Yes; mother would have a fit if she knew we'd been here for an hour—Cut it out, Bruce; no, I won't kiss you!—Say! Listen to that." Up from the steerage deck rose a sane sentence of grief: "He was my little-a baby; now he is in the great sea; God help-a me."</field>
+   </doc>
+</add>

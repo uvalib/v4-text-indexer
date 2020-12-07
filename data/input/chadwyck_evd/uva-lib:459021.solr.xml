@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Campion, Thomas, 1567-1620</field>
+      <field name="author_facet">Campion, Thomas, 1567-1620</field>
+      <field name="author_sort_facet">campion thomas 1567 1620</field>
+      <field name="author_text">Campion, Thomas, 1567-1620</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.0269.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1614</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459021</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">The description of a maske</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 17th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 17th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The description of a maske</field>
+      <field name="title_facet">description of a maske</field>
+      <field name="title_sort_facet">description of a maske</field>
+      <field name="title_text">The description of a maske</field>
+      <field name="year_display">1614</field>
+      <field name="year_facet">1614</field>
+      <field name="year_multisort_i">1614</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459021&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459021&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Campion, Thomas, 1567-1620&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;campion thomas 1567 1620&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The description of a maske&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;description of a maske&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1614&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1614&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Campion, Thomas&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1567&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1620&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The description of a maske&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed by E. A. for Laurence Li'sle [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1614&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3871966-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv10269&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 17th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;17th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The description of a maske&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 29 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: A maske presented at the mariage of the Earl of Somerset.</field>
+      <field name="desc_meta_file_display">Genre: Masque.</field>
+      <field name="desc_meta_file_display">Date first published: 1614.</field>
+      <field name="desc_meta_file_display">Date first performed: 26 Dec 1613.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE DESCRIPTION of a Maske: Presented in the Banqueting roome at Whitehall, on Saint Stephens night last, At the Mariage of the Right Honourable the Earle of Somerset: And the right noble the Lady FRANCES Howard.</field>
+      <field name="fulltext">The Names of the Maskers. 1 The Duke of Lennox. 2 The Earle of Pembrooke. 3 The Earle of Dorset. 4 The Earle of Salisburie. 5 The Earle of Mountgomerie. 6 The Lord Walden. 7 The Lord Scroope. 8 The Lord North. 9 The Lord Hayes. 10 Sir Thrmas Howard. 11 Sir Henry Howard. 12 Sir Charles Howard.</field>
+      <field name="fulltext">Pulchro pulchra datur, sociali fædere amanti Tandem nubit amans; ecquid amabilius?</field>
+      <field name="fulltext">Veræ vt supersint nuptiæ Præite duplici face: Prætendat alteram necesse Hymen, alteram par est Amor.</field>
+      <field name="fulltext">Vniego mallemplacuisse docto, Candido, et fastu sine iudicanti, Millium quam millibus imperitorum In? videntûm.</field>
+      <field name="fulltext">In ancient times, wh? any man sought to shadowe or heighten his Inuention, he had store of feyned persons readie for his purpose; As Satyres, Nymphes &amp; their like: such were then in request and beliefe among the vulgar. But in our dayes, although they haue not vtterly lost their vse, yet finde they so litle credit, that our moderne writers haue rather transferd their fictions to the persons of Enchaunters &amp; Commaunders of Spirits, as that excellent Poet Torquato Tasso hath done, and many others. In imitation of them (having a presentation in for Persons of high State) I grounded my whole Inuention vpon Inchauntmens and severall transformations: The work-manship whereof was vndertaken by M. Constantine an Italian, Architect to our late Prince Henry: but he being too much of him selfe, and no way to be drawne to impart his intentions, fayled so farre in the assurance he gaue, that the mayne inuention euen at the last cast, was of force drawne into a farre narrower compasse then was from the beginning intended: The description whereof as it was performed, I will as briefely as I can deliver. The place wherein the Maske was presented, being the Banquetting house at White Hall: the vpper part, where the State is placed, was Theatred with Pillars, Scaffolds, and all things answerable to the sides of the Roome. At the lower end of the Hall before the Sceane was made an Arch Tryvmphall, passing beautifull, which enclosed the whole Workes: The Sceane it selfe (the Curtaine being drawne) was in this manner diuided.</field>
+      <field name="fulltext">On the vpper part there was formed a Skye with Clowdes very arteficially shadowed. On either side of the Sceane belowe was set a high Promontory, and on either of them stood three large pillars of golde: the one Promontory was bounded with a Rocke standing in the Sea, the other with a Wood; In the midst betwene them apeared a Sea in perspectiue with ships, some cunningly painted, some arteficially sayling. On the front of the Sceane, on either side was a beautiful garden, with sixe seates a peece to receaue the Maskers: behinde them the mayne Land, and in the middest a paire of stayres made exceeding curiously in the forme of a Schalop shell. And in this manner was the eye first of all entertayned. After the King, Queene, and Prince were placed, and preparation was made for the beginning of the Maske, there entred foure Squires, who as soone as they approached neare the Presence, humbly bowing themselues, spake as followeth. The first Squire. That fruite that neither dreads the Syrian heats, Nor the sharp frosts which churlish Boreas threats, The fruite of Peace, and Ioy our wishes bring To this high State, in a Perpetuall Spring. Then pardon (Sacred Maiestie) our griefe Vnseasonably that presseth for reliefe. The ground wherof (if your blest eares can spare A short space of Attention) we'le declare. Great Honors Herrald Fame hauing Proclaym'd This Nuptiall feast, and with it all enflam'd From euery quarter of the earth three Knights (In Courtship seene, as well as Martiall fights) Assembled in the Continent, and there Decreed this night A solemne Seruice here. For which, by sixe and sixe embarqu'd they were In seuerall Keeles; their Sayles for Britaine bent. But (they that neuer fauour'd good intent) Deformed Errour that enchaunting fiend, And wing-tongu'd Rumor his infernall freind, With Curiositie and Credulitie, Both Sorceresses, all in hate agree Our purpose to divert, in vaine they striue, For we in spight of them came neere t'ariue, When sodainly (as Heauen and hell had met) A storme confus'd against our Tackle beat, Seuering the Ships: but after what befell Let these relate, my tongu's too weake to tell. The second Squire. A strange and sad Ostent our Knights distrest, For while the Tempests fierye rage increast, About our Deckes and Hatches, loe, appeare Serpents, as Lerna had beene pour'd out there Crawling about vs, which feare to eschew The Knights the Tackle climb'd, and hung in view, When violently a flash of lighning came, And from our sights did beare them in the flame. Which past, no Serpent there was to be seene, And all was husht, as storme had neuer beene. The third Squire. At Sea, their mischeifes grewe, but ours at Land, For being by chance arriu'd, while our Knights stand To view their storme-tost friends on two Cliffes neere, Thence loe they vanish'd, and sixe Pillars were Fixt in their footsteps, Pillars all of golde, Faire to our eyes, but wofull to beholde. The fourth Squire. Thus with prodigious hate and crueltie, Our good Knights for their loue afflicted be, But, ô protect vs now, Maiesticke Grace, For see, those curst Enchanters presse in place That our past sorrowes wrought: these, these alone Turne all the world into confusion. Towards the end of this speech, two Enchanters, and two Enchanteresses appeare: Error first, in a skin coate scaled like a Serpent, and an antick habit painted with Snakes, a haire of curled Snakes, and a deformed visard. With him Rumor in a skin coate full of winged Tongues, and ouer it an antick robe, on his head a Cap like a tongue, with a large paire of wings to it. Curiosity in a skin coate full of eyes, and an antick habit ouer it, a fantastick Cap full of Eyes. Credulity in the like habit painted with eares, and an antick Cap full of eares. When they had whispered a while as if they had reioyced at the wrongs which they had done to the Knights, the Musick and their Daunce began: strait forth rusht the foure Windes confusedly, the Easterne winde in a skin coate of the colour of the Sunrising, with a yellow haire, and wings both on his shoulders and feete. The Westerne Winde in a skin coate of darke crimson, with crimson haire and wings. The Southerne Winde in a darke russet skin coate, haire and wings sutable. The Northern winde in a grisled skin coate, with haire and wings accordingly. After them in confusion came the foure Elements: Earth, in a skin coate of grasse greene, a mantle painted full of trees, plants, and flowers, and on his head an oke growing. Water, in a skin coate waved, with a mantle full of fishes, on his head a Dolphin. Ayre, in a skye coloured skin coate, with a mantle painted with Fowle, and on his head an Eagle. Fire, in a skin coate, and a mantle painted with flames: on his head a cap of flames, with a Salamander in the midst thereof. Then entred the foure parts of the earth in a confused measure. Europe in the habit of an Empresse, with an Emperiall Crowne on her head. Asia in a Persian Ladies habit with a Crowne on her head. Africa like a Queene of the Moores, with a crown. America in a skin coate of the colour of the iuyce of Mulberies, on her head large round brims of many coloured feathers, and in the midst of it a small Crowne. All these hauing daunced together in a strange kinde of confusion; past away, by foure and foure. At which time, Eternity appeared in a long blew Taffata robe, painted with Starres, and on her head a Crowne. Next, came the three Destinies, in long robes of white Taffata like aged women, with Garlands of Narcissus Flowers on their heads, and in their left hands they carried distaffes according to the descriptions of Plato and Catullus, but in their right hands they carried altogether a Tree of Golde. After them, came Harmony with nine Musitians more, in long Taffata robes and caps of Tinsell, with Garlands guilt, playing and singing this Song. Chorus. Vanish, vanish hence confusion, Dimme not Hymens goulden light With false illusion. The Fates shall doe him right, And faire Eternitie, Who passe through all enchantements free. Eternitie singes alone. Bring away this Sacred Tree, The Tree of Grace, and Bountie, Set it in Bel-Annas eye, For she, she, only she Can all Knotted spels vnty. Pull'd from the Stocke, let her blest Hands conuay To any suppliant Hand, a bough, And let that Hand advance it now Against a Charme, that Charme shall fade away. Toward the ende of this Song the three, destinies set the Tree of Golde before the Queene. Chorus. Since Knightly valour rescues Dames distressed, By Vertuous Dames, let charm'd Knights be released. After this Chorus, one of the Squires speakes. Since Knights by valour Rescue Dames distrest, Let them be by the Queene of Dames releast: So sing the Destinyes, who neuer erre, Fixing this Tree of Grace and Bountie heere, From which, for our enchaunted Knights we craue A branche, pull'd by your Sacred Hand, to haue; That we may beare it as the Fates direct, And manifest your glory in the'ffect. In vertues fauour then, and Pittie now, (Great Queene) vouchsafe vs a diuine touch't bough. At the end of this speech, the Queene puld a branch from the Tree and gaue it to a Nobleman who deliuered it to one of the Squires. A Song while the Squires descend With the bough, toward the Scene. Goe happy man like th'Euening Starre, Whose beames to Bride-groomes well-come are. May neither Hagge, nor Feind withstand The pow're of thy Victorious Hand. The Vncharm'd Knights surrender now, By vertue of thy raised Bough. Away Enchauntements, Vanish quite, No more delay our longing fight: 'Tis fruitelesse to contend with Fate, Who giues vs pow're against your hate. Braue Knights, in Courtly pompe appears, For now are you long look't for heere. Then out of the ayre a cloude descends, discouering sixe of the Knights alike, in strange and sumptuous atires, and withall on either side of the Cloud, on the two Promontories, the other sixe Maskers are sodainly transformed out of the pillars of golde, at which time, while they all come forward to the dancing place, this Chorus is sung, &amp; on the sodaine the whole Sceane is changed: for whereas before all seemed to be done at the sea and sea coast, now the Promontories are sodainly remooved, and London with the Thames is very arteficially presented their place. The Squire lifts vp the Bough. Chorus. Vertue and Grace, in spight of Charmes, Haue now redeem'd our men at Armes. Ther's no inchauntement can withstand, Where Fate directs the happy hand. The Maskers first Daunce. The third Song of three partes, with a Chorus of fiue partes, sung after the first Daunce. VVhile dancing rests, fit place to musicke graunting, Good spels the Fates shall breath, al enuy daunting Kind cares with Ioy enchaunting, chaunting. Chorus. Io, Io Hymen. Like lookes, like hearts, like loues are linck't together, So must the Fates be pleas'd, so come they hether, To make this Ioy perseuer euer. Chorus. Io, Io Hymen. Loue decks the spring, her buds to th'ayre exposing, Such fire here in these bridall Breasts reposing We leaue with charmes enclosing, closing. Chorus. Io, Io Hymen. The Maskers second Daunce. The fourth Song a Dialogue of three with a Chorus after the second Daunce. 1 Let vs now sing of Loues delight, For he alone is Lord to night. 2 Some friendship betweene man, and man prefer, But I th'affection betweene man and wife. 3 What good can be in life, Where of no fruites appeare? 1 Set is that Tree in ill houre, That yeilds neither fruite nor flowre. 2 How can man Perpetuall be, but in his owne Posteritie? Chorus. That pleasure is of all most bountifull and kinde, That fades not straight, but leaues a liuing Ioy behinde. After this Dialogue the Maskers daunce with the Ladies, wherein spending as much time as they held fitting, they returned to the seates prouided for them. Straight in the Thames appeared foure Barges with skippers in them, &amp; withall this song was sung. Come a shore, come merrie mates, With your nimble heeles, and pates: Summon eu'ry man his Knight, Enough honour'd is this night. Now, let your Sea-borne Goddesse come. Quench these lights, and make all dombe. Some sleepe, others let her call, And so Godnight to all, godnight to all. At the conclusion of this song arriued twelue skippers in red capps, with short cassocks and long slopps wide at the knees, of white canvas striped with crimson, white gloves and Pomps, and red stockins: these twelue daunced a brave and lively daunce, shouting and tryvmphing after their manner. After this followed the Maskers last daunce, wherewith they retyred. At the Embarking of the Knights, the Squires approach the state, and speake. The first Squire. All that was euer ask't, by vow of Ioue, To blesse a state with, Plentie, Honor Loue, Power, Triumph, priuate pleasure, publique peace, Sweete springs, and Autumn's filld with due increase, All these; and what good els, thought can supplie. Euer attend your Triple Maiestie. The second Squire. All blessings which the Fates, Propheticke Sung, At Peleus Nuptialls, and what euer tongue Can figure more, this night, and aye betide, The honour'd Bride-groome, and the honourd Bride. All the Squires together. Thus speakes in vs th'affection of our Knights, Wishing you health, and Miriads of goodnights. The Squires speeches being ended, this Song is Sung while the Boates passe away. Hast aboord, hast now away, Hymen frownes, at your delay: Hymen doth long nights affect; Yeild him then his due respect. The Sea-borne Goddesse straight will come, Quench these lights, and make all dombe. Some Sleepe, others she will call, And so godnight to all, godnight to all. FINIS.</field>
+      <field name="fulltext">CANTO. V. A Song, made by Th. Campion, and sung in the Lords Maske at the Count Palatines Marriage, we haue here added, to fill vp these emptie Pages. [1] Wooe her and win her hee that can, Each woman hath two Louers: This doth Ioue to shew that want makes beautie more respected So she must take and leaue a man, Till time more grace discouers. If faire Women were more scant, they would be more affected. 2 Courtship and Musicke sute with Loue; They both are workes of passion: Happy is hee whose words can moue, Yet sweet Notes help perswasion. Mixe your words with Musicke then, That they the more may enter: Bold assaults are fit for men, That on strange beauties venter.</field>
+   </doc>
+</add>

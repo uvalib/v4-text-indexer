@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Mayne, John, 1759-1836</field>
+      <field name="author_facet">Mayne, John, 1759-1836</field>
+      <field name="author_sort_facet">mayne john 1759 1836</field>
+      <field name="author_text">Mayne, John, 1759-1836</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1800's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.1234.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1803</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:465381</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Glasgow ; A poem. By John Mayne</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">Glasgow ; A poem. By John Mayne</field>
+      <field name="title_facet">glasgow</field>
+      <field name="title_sort_facet">glasgow</field>
+      <field name="title_text">Glasgow ; A poem. By John Mayne</field>
+      <field name="year_display">1803</field>
+      <field name="year_facet">1803</field>
+      <field name="year_multisort_i">1803</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:465381&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:465381&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Mayne, John, 1759-1836&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;mayne john 1759 1836&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Glasgow ; A poem. By John Mayne&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;glasgow&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1803&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1803&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Mayne, John&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1759&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1836&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Glasgow&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A poem. By John Mayne&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Sold by T. Cadell and W. Davies ... and W. J. and J. Richardson [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1803&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp2461&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;51 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Glasgow&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A poem. By John Mayne&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 27 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries, introductory matter and notes omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">GLASGOW. I Hail, Glasgow! fam'd for ilka thing That heart can wish, or siller bring! May Peace, wi' healing on her wing, Aye nestle here; And Plenty gar thy childer sing, The lee-lang year! II Within the tinkling o' thy bells, How mony a happy body dwells! Where they get bread, they ken themsels; But, I'll declare, They're aye bien-like; and, what precels, Ha'e fouth to spare! III If ye've a knacky son or twa, To Glasgow-College send them a': Wi' whilk, for Gospel, or for Law, Or classic Lair, Ye'll find few places hereawa', That can compare. IV There ane may be, for sma' propyne, Physician, Lawyer, or Divine: The gem, lang bury'd i' the mine, Is polish'd here, Till a' its hidden beauties shine, And sparkle clear! V Nor is it Students, and nae mair, That climb, in crouds, our College-stair: Thither the learn'd, far fam'd, repair, To clear their notions; And pay to Alma Mater there, Their warm devotions! VI Led by a lustre sae divine, Ev'n Geddes visited this shrine! Geddes! sweet fav'rite o' the Nine! Shall live in story; And, like yon constellation, shine In rays o' glory! VII O! Leechman, Hutcheson, and Wight! Reid, fu' of intellectual light! And Simpson, as the morning, bright! Your mem'ries here, Tho' gane to regions o' delight, Will aye be dear! VIII 'Mang ither names, that consecrate And stamp a country gude or great, We boast o' some that might compete, Or claim alliance, Wi' a' that's grand in Kirk or State— In Art or Science! IX Here great Buchanan learnt to scan The verse that makes him mair than man! Cullen and Hunter here began Their first probations; And Smith, frae Glasgow, form'd his plan— “The Wealth o' Nations!” X In ilka house, frae man to boy, A' hands, in Glasgow, find employ: Ev'n little maids, wi' meikle joy, Flow'r lawn and gauze, Or clip, wi' care, the silken soy For Ladies' braws. XI Their fathers weave, their mothers spin, The muslin robe, sae fine and thin, That, frae the ancle to the chin, It aft discloses The beauteous symmetry within— Limbs, neck and bozies! XII Look thro' the town, the houses here Like noble palaces appear: A' things the face o' gladness wear— The market's thrang, Bis'ness is brisk, and a's asteer The streets alang! XIII Clean-keepit streets! sae lang and braid, The distant objects seem to fade! And then for shelter, or for shade, Frae sun or show'r, Piazzas lend their friendly aid, At ony hour! XIV O! for the Muse o' Burns, sae rare, To paint the groups that gather there! The wives on We'n'sdays wi' their ware— The lads and lasses, In ferlying crouds, at Glasgow-Fair; And a' that passes! XV But, oh! his Muse, that warm'd ilk clod, And rais'd up flow'rs where'er he trod! Will ne'er revisit this abode! And mine, poor lassie, In tears for him, dow hardly plod Thro' Glasgow causae! XVI Wond'ring, we see new streets extending— New squares wi' public buildings blending! Brigs, stately brigs, in arches bending Across the Clyde; And turrets, kirks, and spires, ascending In lofty pride! XVII High owr the lave, St. Mungo rears His sacred fane, the pride of years; And, stretching upwards to the spheres, His spire, afar, To weary travellers appears A leading star! XVIII O! happy, happy were the hours When first, far aff on Crawfurd-Moors, I hail'd thee bright thro' sunny show'rs, As on I came Frae murm'ring Nith's romantic bow'rs, My native hame! XIX Blythe days! owr happy to remain! The Sire, wha led my steps, is gane! —Yet wherefore shou'd the Muse complain In dirge-like lines, When Heaven has only ta'en its ain, For wise designs! XX Still happy, happy be their hours Wha journey, Clydesdale, thro' thy bow'rs! And, blest amang th'angelic Pow'rs, Blest be the man Wha sav'd St. Mungo's hallow'd tow'rs Frae Ruin's han'! XXI And, O! Eternal Truth! all hail! May thy pure dictates aye prevail! But ne'er sic times let Scotia wail, When Reformation, Mad wi' a Kirk-destroying zeal, Spread devastation! XXII The Muse, whom ev'n the thought appals, Hies aff where Contemplation dwalls; And flighters round yon ivy'd walls, Where rooks are cawing— Round sacred Blantyre's roofless halls, To waste fast fa'ing! XXIII And thence to kindred ruins winging, Where a' the Arts their heads are hinging, Bewails sad Genius fondly clinging Around Melross!— But, hark! the music-bells are ringing At Glasgow-Cross! XXIV 'Tween twa and three, wi' daily care, The Gentry to the Cross repair: The Politician, wi' grave air, Deliberating; Merchants and Manufact'rers there Negociating. XXV It's not by slothfu'ness and ease, That Glasgow's canty ingles bleeze: To gi'e her inland trade a heeze, As weel's her foreign, She's join'd the East and Western Seas Together, roaring! XXVI Frae Forth, athort the land, to Clyde, Her barks, a' winds and weathers, glide; And, on the bosom o' the tide, Wi' gentle motion, Her vessels, like a forest, ride, And kiss Auld Ocean! XXVII Nor only her's what Trade imparts— She's great in Arms as weel as Arts: Her gallant Sons, wi' loyal hearts, A' tak the field; Resolv'd, when Knaves wou'd scatter darts, Their King to shield. XXVIII And yet, tho' arm'd they thus appear, They only arm while danger's near: When Peace, blest Peace! to them maist dear, Dispels the gloom, They for the shuttle change the spear, And ply the loom! XXIX Hail, Industry! thou richest gem That shines in Virtue's diadem! While Indolence, wi' tatter'd hem, Around her knee, Sits, chitt'ring, like the wither'd stem O' some boss tree! XXX To thee we owe the flocks o' sheep That glad Benlomond's cloud-capt steep— The pregnant mines that yield yon heap O' massy coals— And a' the tenants o' the deep, Caught here in shoals! XXXI And a' the villas round, that gleam Like spangles i' the sunny beam; The bonny haughs that laughing seem, Wi' plenty growing; And a' the bleach-fields on ilk stream Thro' Clydesdale flowing! XXXII Hence, Commerce spreads her sails to a' The Indies and America: Whatever makes ae penny twa, By wind or tide, Is wafted to the Broomielaw, On bonny Clyde! XXXIII Yet, shou'd the best exertions fail, And fickle Fortune turn the scale— Shou'd a' be lost in some hard gale, Or wreckt on shore— The Merchants'-House makes a' things hale As heretofore. XXXIV Wi' broken banes shou'd Labour pine, Or Indigence grow sick and dwine, Th'Infirmary, wi' care divine, Unfolds its treasure, And turns their wormwood cup to wine— Their pain, to pleasure! XXXV O! blessings on them and their gear, Wha thus the poor man's friends appear! While mony a waefu' heart they cheer, Revive and nourish— Safe thro' Life's quicksands may they steer! Like Glasgow, flourish! XXXVI Wow, Sirs! it's wonderfu' to trace How Commerce has improv'd the place! Changing bare house-room's narrow space, And want o' money, To seats of elegance and grace, And milk and honey! XXXVII But, to the philosophic mind, What's mair than wealth and grandeur, join'd, Man now meets man, a' frank and kind Wi' one another, And is, what Providence design'd, His friend—his brother! XXXVIII On Saturdays, the afternoon, When, for the week, their cares are doon, They dine, and set their heart aboon, And tak their coggie, And fix another meeting soon, They're a' sae voggie! XXXIX O! while they're a' carouzing there, Let me to Kelvin-side repair; Or Bothwell-banks that bloom sae fair, Where Lady Ann, Owr her sweet bairn, lamented sair The wiles o' man! XL Or, at Lang-side, past scenes review, And round yon thorn my sighs renew; Where, when the vanquish'd squadrons flew, That came to fend her, Lorn Mary bade a lang adieu To regal splendour! XLI Aft, Crookstone, frae thy castle-wa', The beugle-horn was heard to blaw! Again she cast a look, and saw Thy stately tow'rs— Lang ling'ring, till the last huzza O' rebel pow'rs! XLII Nae troops to guard her in her flight; Nae friends that durst assert her right; Nae bow'r-maids now, wi' fond delight, Their cares employ To cheer at morn, or soothe at night, Her great annoy! XLIII To where Dundrennan-Abbey lay, Far in the wilds o' Galloway! Owr moss, owr moor; up bank and brae, The Mourner goes; Nae mair, frae that disast'rous day, To taste repose! XLIV Still, at Lang-side, in hillocks green, The traces o' the camp are seen: Still, Fancy paints the conflict keen; And figures there, The angel-form o' Scotland's Queen, In deep despair! XLV But come, my Muse! O, come wi' me, And drap a tear at Ellerslee! Where patriot Wallace, bauld and free, Begood to bloom— Where Freedom still, wi' weeping eie, Laments his doom! XLVI O! Scotia! where was Virtue than? Say, was her influence a' withdrawn? To let a twa-fac'd villain's han', O! endless shame! Betray the godlike, glorious man, And stain thy name! XLVII It's late, owr late, to tak a stride To Leven-Water's bow'ry side— To scud across the Frith sae wide, Where ships come in— Or paint Barncluith, the Falls o' Clyde, And Corra-Linn. XLVIII O! cou'd I, wi' the ev'ning's beam, Hie aff where Lanark's turrets gleam! Thro' birks and wild-flow'rs, frae her dream, Awaken Flora; And woo the genius o' the stream, Romantic Corra! XLIX Some other time, when burdies sing, And gowans deck the teeming Spring, The Muse shall spread her eager wing, Their charms to see; And Clydesdale's banks and braes shall ring Wi' her and me! L Whae'er has danner'd out at e'en, And seen the sights that I ha'e seen! For strappan lasses, tight and clean, May proudly tell, That, search the country, Glasgow-Green Will bear the bell! LI There ye may find, in sweetness rare, The blooming rose—the lily fair— The winsome look—the gracefu' air— The taste refin'd— And a' that can the heart ensnare, In woman-kind! LII Yet, what avails't, to you or me, How bonny, gude, or rich, they be, If, when a lad, wi' langing eie, But mynts to woo, They, scornfu', toss their head ajee, And crook their mou'? LIII Wae's me for him, in life's sweet morn, The youth by hopeless passion torn! Toils, pains, and plagues, are eithly borne, And seem but sma', Till Beauty tips the rankling thorn Wi' bitter ga'! LIV Gin ony simple Lover chuse In humble verse his Joe to rooze, The eident Porters ne'er refuse, For little siller, To bear the firstlings o' his Muse, Discreetly, till her. LV But when the Youth, wi' meikle care, Has penn'd a sonnet on his Fair, O! but it grieves his heart right sair, When she, grown vain, Flings his epistle, Gude kens where, In proud disdain! LVI Hame, ere the grass is wet wi' dew, Hame as our belles are flocking now, Sair, sair the lazy Chairmen rue, Wi' heavy granes, That e'er our streets had ought to do Wi' braid plane-stanes. LVII Nae Lady wants a chair to hire! Nae skelping now thro' mud and mire, Wi' coaties kiltit high and high'r, Mid-leg at least— Eneugh to warm wi' young desire The aged breast! LVIII And, what relieves the Poet's care, When wi' his Joe he taks the air, His lugs will now be deav'd nae mair, When siller's doon, By Chairmen bawling, “Shuse a shair? “She'll fyle her shoon!” LIX Nae tongue can tell the taunts and rubs That he maun thole whom Poortith snubs: Afttimes frae rich unfeeling scrubs, Wha're meanly willing To trail their lasses thro' the dubs, To hain a shilling! LX O! Glasgow! fam'd for ilka thing That heart can wish, or siller bring! May nowther care nor sorrow ding Thy childer dear, But Peace and Plenty gar them sing Frae year to year!</field>
+   </doc>
+</add>

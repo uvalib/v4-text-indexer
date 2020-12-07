@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Onoto Watanna [pseud. Winnifred Eaton]</field>
+      <field name="author_facet">Onoto Watanna [pseud. Winnifred Eaton]</field>
+      <field name="author_sort_facet">onoto watanna pseud winnifred eaton</field>
+      <field name="author_text">Onoto Watanna [pseud. Winnifred Eaton]</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1900's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/EatBrid.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">1902</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:475910</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Bride of Yonejiro</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">The Bride of Yonejiro</field>
+      <field name="title_facet">bride of yonejiro</field>
+      <field name="title_sort_facet">bride of yonejiro</field>
+      <field name="title_text">The Bride of Yonejiro</field>
+      <field name="year_display">1902</field>
+      <field name="year_facet">1902</field>
+      <field name="year_multisort_i">1902</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:475910&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:475910&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Onoto Watanna [pseud. Winnifred Eaton]&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;onoto watanna pseud winnifred eaton&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Bride of Yonejiro&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;bride of yonejiro&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1902&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1902&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Onoto Watanna [pseud. Winnifred Eaton]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="editor"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Jean Lee Cole&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Bride of Yonejiro&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1902&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Blakely Hall&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1902&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="callNo"&gt;Source copy consulted:&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;pp. 603-607&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Bride of Yonejiro&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2004&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2004 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 13 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">The Bride of Yonejiro Metropolitan Magazine 15.5 (May 1902): 603-607. By Onoto Watanna The Sun-goddess had spread wide her arms and had taken the whole land into her embrace. So dazzling and joyous was her smile that Yonejiro Nishimura found the courage at last to defy the august will of his honorable parents and to secretly wed the maiden Matsuba. A little, garrulous nakoda[1] had rushed pellmell to the Nishimura castle, and between his catchings for breath and his perpetual kow-towings and bobbings he had told the haughty lord and his haughtier lady of the mésalliance of their only son. An hour later Yonejiro with his girl bride was turned away at the gates of the castle. The young husband patted the little, tremulous hand that clung to his arm. “This love of ours,” said he, “will atone for the displeasure of a million ancestors.” “Yes,” said the girl hopefully, “and, if we are deserving, perhaps the great Goddess of Mercy will bless us in a year with a man-child!” A shadow passed over the boy's face. “Psh! That is an honorably ancient ambition, Matsuba- san. I want no child to take thee from me,” he said. “But,” protested Matsuba, “if the gods blessed me with a man-child—a son—why then the august parents would surely forgive us.” “I desire not their forgiveness,” returned the boy proudly. “Listen, Matsuba-san. Last night the little yellow moon dropped down right to my window and crept in close to my heart. I could feel its warm, loving embrace against me. But gradually it began to drift from me further and further and further away, until it was nothing but a pale beam that I could only stretch out my hands toward and yearn to reach and hold, but could not. And I thought that thou wert the honorable moon, that had come to my heart to abide but a moment and then to leave me.” “Beloved,” she said softly, “I, too, had a strange dream. I thought that this dread Spirit of Death crept upon me with stealing step. But I dreamed also that the divine Goddess of Mercy had pity on us both, and while thou stretched out thy hands to hold me, a flower, strong and beautiful and shapely, grew up between us and joined our hearts once more in a union that no death could sever.” “Let us go to the old priest at the Temple Zuiganji,” said the boy fearfully; “perhaps he can tell us the meaning of our honorable dreams.” In the dazzling light and warmth of the sun-smile these two children, hand in hand, sought the temple. “Wear this honorable amulet, which contains a sacred seed, about thy neck,” said the priest; “the gods will bless you.” “Promise me,” said the girl later, laying his hands to her heart, “that if the Spirit of Death shall touch me, then thou wilt take this frail body of mine, cremate it to ashes, and in my ashes thou wilt plant the seed within this sacred amulet which the good priest has blessed. When a flower shall come to life out of my ashes, then will I return to thee. Promise, Yonejiro-sama.” “I swear!” said the youth solemnly. * * * The months sped by on airy wing. “Such months of joy!” sighed the girl, leaning back against his arm. Suddenly she straightened up, and, putting her hands on his shoulders, she looked bravely into his eyes. “But this is the day,” she said, “when thou must go to the honorable parents and tell the great news that will win their honorable forgiveness and that of all thy august ancestors.” * * * Up in the great castle the honorable parents received the news stoically. The Lady Nishimura spoke in a stately whisper to her lord: “An' it be a son?” “She will have earned a place in our noble household,” returned her husband, with an inward hope. “A daughter?” “They have marked their own destiny,” he returned coldly. With deep and graceful obeisances the boy made his farewells and travelled back to his humble abode. On the road his parents overtook him. On the threshold of his house a wailing servant flung herself at his feet, and, doubling over, beat her head there. He pushed her aside and strode within. They had dressed her in all vestal white, pure but ghastly. The Spirit of Death had kissed her gently, tenderly. Said the honorable mother to her lord: “The gods are very good.” His lordship raised high his brows. “They have taken her, this peasant girl, from our noble household,” went on the lady. She evidently was pleased. “Ah,” said Lord Nishimura, smacking his lips with satisfaction, “and left a man-child to uphold our noble ancestry and to save our mighty race from extinction!” A sobbing moon, behind a veil of clouds, peered out upon a winding highway. A desolate pilgrim, carrying under his hakama[2] a small lacquer box, tightly sealed. Years passed away. The great Lord Nishimura and his lady wife joined their countless noble ancestors. Yonejiro, the heir to the title and estates, came back to his ancestral home an old man. With the immense sum of money obtained from the disposal of the estates he purchased all the land within three hundred acres surrounding the little cottage wherein the gentle spirit of his girl bride had lived and died. On this site and adjoining the cottage he built a noble shrine to her memory, surpassing in grandeur the tombs of his feudal ancestors. He then shaved clean his head, changed his garments to robes of flowing white, and became a priest of the most rigid and retired order. His shrine was of a peculiar order and unlike that of any other known in Japan. One stately image alone sat upon a golden pedestal—Kwannon, the Goddess of Mercy, with the halo of the moon about her head, clothed only in the veil of her midnight hair, and with an expression of divine pity on her face as she bent over and blessed a little lacquer pot within which reposed the ashes of the bride of Yonejiro and the sacred seed blessed by the priest of the Zuiganji Temple. Years ago Yonejiro discovered that the dust in the box had moved; the following day his sharpened eye noted a little mound in the centre. In seven days' time one small green speck peeped out of the mound. With the passing of the days the speck enlarged, deepened its hue of green, spread out into thin but tangible leaves, grew in stature and in shape. One day when Yonejiro came into the darkened temple to softly spray the plant with subtly-perfumed water drawn from a well of sweetest water, he found a strange and shapely blossom had spring into life out of the plant. Softly and reverently he knelt before it. And while he knelt a strange thing happened. The doors of the temple were frantically thrown open and one entered with a little cry of fear and rushed headlong across the temple toward him, caught his robe affrightedly and crouched trembling at his feet. The priest laid his hand reassuringly on her head. “Thou art safe here in this sacred temple,” he said gently. “Pray speak thy trouble to me. I am a priest of the divine Goddess of Mercy. How can I serve thee?” With her face still hidden in the folds of his gown, the girl began to speak in a strangled whisper. “I am called Haru, the dancer. My master is Omi of the Sanzaeyemon Gardens in Yedo. At a fête to the moon I did please the fancy of the wicked Marquis Takahashi, to whom my master Omi has sold me for five hundred yen. I have fled from the city, and know not what paths I have followed or whither I have journeyed. They have followed my trail as the eagle its prey. Listen! Dost hear the sound of their shouting beyond thy lands? Oh, I pray thee, hide me and save me[3] in thy sacred temple!” The priest hesitated. The girl crept nearer to him on her knees, until her head came close on a level with the strange flower in the lacquer box, over which a lighted censer swung back and forth. The light from the censer broadened and spread and gathered into its halo with the flower the girl's upturned face. A great upheaval shook the soul of Yonejiro, the priest. “Anata![4]” The girl's eyes had become transfixed on the flower. Slowly he turned back the bosom of her silken kimono. Just below her long, slim throat Yonejiro saw the same strange flower, as it were stamped indelibly upon her breast. “Ah!” said the priest softly, “thou hast come back to me at last!” [1] nakodo: marriage broker. Traditional Japanese society arranged marriages. [2] hakama: formal outer garment traditionally worn by the samurai. [3] “hide me and save in thy secret temple” in original. [4] anata: you; dear</field>
+   </doc>
+</add>

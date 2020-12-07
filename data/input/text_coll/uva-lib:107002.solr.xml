@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia</field>
+      <field name="author_facet">University of Virginia</field>
+      <field name="author_sort_facet">university of virginia</field>
+      <field name="author_text">University of Virginia</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1900's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2005_Q2_1/uvaBook/tei/z000000192.xml</field>
+      <field name="date_indexed_facet">201909240341</field>
+      <field name="date_text">March, 1908</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:107002</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The University of Virginia record. Vol. 1, No. 7, March, 1908</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia -- Periodicals</field>
+      <field name="subject_text">University of Virginia -- Periodicals</field>
+      <field name="title_display">The University of Virginia record.  Vol. 1, No. 7, March, 1908</field>
+      <field name="title_facet">university of virginia record</field>
+      <field name="title_sort_facet">university of virginia record</field>
+      <field name="title_text">The University of Virginia record.  Vol. 1, No. 7, March, 1908</field>
+      <field name="year_display">March, 1908</field>
+      <field name="year_facet">1908-03</field>
+      <field name="year_multisort_i">1908</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:107002&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:107002&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The University of Virginia record. Vol. 1, No. 7, March, 1908&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;university of virginia record&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;March, 1908&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1908-03&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The University of Virginia record&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="volume"&gt;Vol. 1&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="issue"&gt;No. 7&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;March, 1908&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Va.&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="LC call number"&gt;LD5667 .A43&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;LD5667.2&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;X000896178&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;o07560180&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;4 p. ; 23 cm.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia -- Periodicals&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The University of Virginia Record&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="volume"&gt;1&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="issue"&gt;7&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1908-03&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2005&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2005 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 25 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">UNIVERSITY OF VIRGINIA RECORD Vol. 1 Charlottesville, Va., March, 1908 No. 7. The University of Virginia Record is published monthly, except July and August, by the University of Virginia, Charlottesville, Va., for the purpose of disseminating information regarding the University, its organization, activities, and growth. The Record is intended primarily for the alumni and friends of the Institution and for the press of the State, but will be sent to any address upon receipt of the subscription price, 25 cents a year. Entered as second-class matter at the postoffice at Charlottesville (University Station), Va. A LIST OF GIFTS TO THE UNIVERSITY—Continued. (Note.—Other parts will appear in order in subsequent issues of the Record. The series is published for its intrinsic interest and historical value, and for the information of the alumni and friends of the Institution. The editors will be grateful for the correction of any errors; or, when the series is complete, for the pointing out of any omissions that may unintentionally be made.) CLASS A. Those Constituting no Part of the Fixed and Permanent Endowment of the Institution. Corrections of Class A, as published in January:— (1) Under 1870-1876, instead of "Library for the Chemical Department," read "For the Library." (2) Under 1902-1903, instead of "in memory of," read "in honor of." (3) The Austin bequest has not yet come into the control of the University; but several years ago Mr. Austin's daughter, who was to receive the earnings of the estate during her lifetime, very generously transferred to the University all of the annual income except about $5000.00. Additions to Class A, as published in January:— (1) The address of M. K. Karr is Washington, D. C. (2) Donations in 1903-1904 to the Physical Laboratory for equipment: Joseph Bryan, Richmond, Va., $200; Warren, Jones &amp; Gratz, St. Louis, Mo., $100; Samuel Spencer, New York City, $100; Dr. H. S. Hedges, Charlottesville, Va., $100; C. Steele, New York City, $50; Thomas Nelson Page, Washington, D. C., $25; Lambert Bros., St. Louis, $25; Anderson Bros., University, $25. CLASS B. Donations for Permanent and Fixed Endowments. Not Including the Jefferson Million-Dollar Memorial Fund. 1836. By will of Ex-President Madison, for Library, $ 1,500 00 1869-1881. By A. A. Low, New York, for Library, 1,000 00 1869-1881. By W. M. Meigs, Philadelphia, Pa., for Library, 100 00 1869-1881. By Robert Gordon, New York, for Library, 500 00 1869. By Samuel Miller of Campbell Co., Va., to endow a department of scientific and practical agriculture, 100,000 00 1869-1871. Gift of Thompson Brown Scholarship, by ——; appointment by donor's representative, 1,500 00 1876. By W. W. Corcoran, Washington, D. C., to endow the existing school of Moral Philosophy, and those of History and Literature, 50,000 00 1878. By W. W. Corcoran, Washington, D. C., to endow a new chair of Natural History and Geology, 50,000 00 1878-1881. By W. H. Vanderbilt of New York, and sundry liberal friends, chiefly Alumni, to endow Directorship of Observatory, 76,000 00 1883. By will of Douglas H. Gordon of Baltimore, for Library, 5,000 00 1883. By will of Isaac Cary, Richmond, Va., to found a scholarship for poor and deserving young men, 7,000 00 1888. By will of Mrs. E. S. Birely, Frederick, Md., to endow a scholarship for Maryland students, 5,000 00 1887-1888. By Archer Anderson, Richmond, Va., to found the John Y. Mason Fellowship for Graduate Students, 7,000 00 1892. By Mrs. Linden Kent, Washington, D. C., to endow the chair of English Literature, 60,000 00 1897. By Hon. W. J. Bryan of Nebraska, for permanent investment; annual income to be used in purchase of Medal to be given to the author of the best original article on the "Theory of Government," 250 00 1899. By George H. Byrd, New York, to endow the Alfred Henry Byrd Library, 10,000 00 1899. By Mrs. D'Arcy Paul, for Library (special), 500 00 1903. By Mrs. Kate Cabell Claiborne, Richmond, Va., to establish a scholarship in the department of English Literature, 1,200 00 1904. By Mrs. Sarah F. Scott, through F. W. Scott, Richmond, Va., for the "John Waverly Scott Memorial Laboratory" in connection with the Engineering Department, 5,000 00 $381 550 00 CLASS C. Special Gifts to the Hospital. 1901. From Capt. Lorraine F. Jones, St. Louis, through Dr. Barringer, $ 1,500 00 1901. From ——, through Dr. Barringer, 400 00 1901. From Edward Coles, through Dr. Barringer, 200 00 1901. From Mrs. Peyton and others, through Dr. Barringer, 148 70 1901. From Mrs. Nancy L. Shaw, through Dr. Barringer, 1,250 00 1901. From G. R. Tuska, through Dr. Barringer, 200 00 1901. From —— , (special) through Dr. A. H. Buckmaster, 150 00 1901. From the Children's Guild, through the Misses Meade, 5 00 1901. From Drs. Barringer and Lambeth, 150 00 1901. From Dr. Barringer from Donor, through Dr. W. G. Christian, 20 00 1901. From Dr. M. L. Crimmins, through Dr. Barringer, 100 00 1901. From Mrs. Francis Wilson, Boston, Mass., through Dr. Barringer, 100 00 1901. From William F. Mott, through Dr. Barringer, 25 00 1902. From Mrs. Nancy L. Shaw, through Dr. Barringer, 250 00 1902. From "King's Daughters" (for ambulance), through Dr. Davis, 440 00 1903. From Mrs. Nancy L. Shaw, through Dr. Barringer, 100 00 1903 From V V V Dramatic Club, 494 11 1903. From "King's Daughters", through Miss Cocke, 40 00 1903. From Unknown Donor in memory of "C. M. V. D.," through Dr. Davis, 25 00 1905. From "King's Daughters," through Dr. Barringer, 35 00 1906. From "King's Daughters," through Miss F. E. Besley, 21 00 1906. From "King's Daughters," through Mrs. Lambeth, Sec'y, 10 00 $5,663 81 Geological Survey. Last month (February) a bill was passed by the Virginia legislature establishing a bureau to be known as the Virginia State Geological Survey. This is a measure of great importance, and should prove of great value to the Commonwealth. The bureau is to have its headquarters at the University; and the board is to be composed of the Governor (ex-officio), the president of the University, the president of the Virginia Polytechnic Institute, and two citizens at large. An annual appropriation of ten thousand dollars is provided for in the bill. University Band. On February 14 a number of students met at Madison Hall and organized a band. Sixteen men, all of whom have had experience in band work, have been enrolled; and the following officers have been elected: Director, M. R. Faville; assistant director, A. H. Lueders; manager, Thos. V. Williamson; assistant manager, W. G. Kollock. The main need of the band at this juncture is money to pay for the instruments; but students, teachers, and alumni are aiding the project, and the need will likely be met in due time. On March 22 President Alderman will make an address on "The Constructive South" before the Civic Forum, in Carnegie Hall, New York City. Other eminent speakers from America and Europe will participate in the discussions of the organization. A copy of the Jewish Encyclopedia, recently issued by Funk &amp; Wagnalls in 12 magnificent volumes, has been presented to the University library through the initiative of Rev. E. N. Calisch, Richmond, Va. James Bequest. By the provisions of the will of the late E. W. James, Esq., of Norfolk, Va., the sum of $250,000, in round numbers, —the bulk of his estate,—will come to the University. One-half of the income from the bequest, however, is to be paid for the period of fifteen years to the Soldiers' Home at Richmond. New Requirement for Ph. D. Men. At a meeting of the Academic Faculty, December 7, 1907, the following regulation was passed in reference to candidates for the degree of Doctor of Phils- ophy: "The candidate's `reading knowledge of French and German' must be tested at the beginning of the first year of his candidacy, by examination on these languages in the presence of a committee consisting of the professor of the candidate's major subject and the professors of French and German. In case of failure on either or both of the examinations, he shall be required to enter the appropriate class or classes in one or both of the languages, and shall not be regarded as a regular candidate for the Ph. D. degree until he has fulfilled the requirements in French and German. "It is provided, however, that any student who has already passed on the regular B. A. course in either or both of these languages at this University shall be considered as having the requisite knowledge of either or both of them, as the case may be." Summer School. The University of Virginia Summer School, for high school teachers and principals, will begin on June 18, 1908, and continue till July 31. Full information may be obtained by addressing Bruce R. Payne, Director, Charlottesville, Va. Dr. John Beverley Pollard, who graduated in the medical department in 1905 after a brilliant record as student and athlete, has been secured as coach for the baseball team this spring. Prof. W. M. Thornton delivered an admirable address to the students at the inauguration of "College Hour," January 16. On February 11 he spoke on "The Larger Hope of the Commonwealth" in Winchester, Va., at the ninth annual banquet of the Charley Rouss Fire Company. Mr. Herbert Massey Peck, the new General Secretary of the Y. M. C. A., represents at least five phases of student life—scholarship, athletics, forensics, fraternity, and Christianity—and is proving the right man for the position he holds. The Arcadians, the University dramatic club, are presenting this spring the "Merry Mexican Comedy," La Serena. They have played in Staunton, at the University, in Norfolk, Petersburg, Richmond, Lynchburg, and Roauoke, with great success. Washington's Birthday. Lectures were suspended from 12 till 2 on February 22, and the teachers and students, with a number of other persons, assembled in Madison Hall where Dr. Albert Shaw, editor of the American Review of Reviews, delivered an address fitting to the occasion. The speaker referred to a former visit to the University, when he spoke upon the occasion of a Jefferson birthday celebration; and remarked that one can hardly come to Virginia at all without finding the day worthy of celebration on account of some great man or his deeds. The address centered chiefly about the year 1808— just a hundred years past—and the end that year of the importation of slaves. The far-reaching significance of this event was pointed out, and the relation of Washington and Jefferson to the great questions at issue was shown in a masterly way. Lecture on Mathematics. On the evening of January 28, Dr. C. J. Keyser, Adrain Professor of Mathematics in Columbia University, spoke to a large audience in Madison Hall. The subject of Mathematics was treated with the skill of mastery, and was presented in its practical and poetical as well as in its abstract and theoretical aspects. The relation of mathematics to logic, psychology, and other sciences was pointed out, and many interesting questions suggested. College Hour. The University has recently inaugurated "College Hour"—a single hour that comes once each month—when faculty and students meet together in Cabell Hall, sing songs, practice yells, listen to the organ, and talk. One man does not do it all, but every man has a chance to say what he thinks will be for the good of all. An opportunity is thus afforded to discuss vital and interesting current questions, and to get acquainted. The president of the graduate school had the chair at the first "hour," January 16; the president of the academic class presided the next time, February 8. On Friday, March 6, the president of the law class was in charge, and Prof. T. W. Page was the chief speaker. Prof. J. B. Henneman of Sewanee, an old student, was present and made a short address.</field>
+   </doc>
+</add>

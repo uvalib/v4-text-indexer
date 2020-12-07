@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Oxford University Press</field>
+      <field name="author_facet">Oxford University Press</field>
+      <field name="author_sort_facet">oxford university press</field>
+      <field name="author_text">Oxford University Press</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1970's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.0467.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1970</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459189</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Shrewsbury Fragments</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 20th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 20th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Shrewsbury Fragments</field>
+      <field name="title_facet">shrewsbury fragments</field>
+      <field name="title_sort_facet">shrewsbury fragments</field>
+      <field name="title_text">The Shrewsbury Fragments</field>
+      <field name="year_display">1970</field>
+      <field name="year_facet">1970</field>
+      <field name="year_multisort_i">1970</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459189&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459189&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Shrewsbury Fragments&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;shrewsbury fragments&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1970&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1970&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Shrewsbury Fragments&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London, New York, Toronto&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Oxford University Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1970&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873692-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv10467&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Shrewsbury Fragments&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 21 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries, introductory and editorial matter omitted&lt;lb/&gt;Source texts incomplete&lt;lb/&gt;The following plays have been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Copyright (c) 1970 Early English Text Society. This text may not be reproduced, except for fair dealing purposes, without the express permission of Chadwyck-Healey and the copyright holder.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The Shrewsbury fragments.</field>
+      <field name="desc_meta_file_display">Genre: English mystery and miracle plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1400 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1280–1320 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Square brackets represent sections of text unclear in the original and supplied by a previous or the current editor.&lt;lb/&gt;Source text incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE SHREWSBURY FRAGMENTS</field>
+      <field name="fulltext">A. [Officium Pastorum] Pastores erant in regione eadem uigilantes et custodientes gregem suum. Et ecce angelus Domini astitit iuxta illos et timuerunt timore magno. iijus Pastor [II. Pastor.] ?We, Tib! III. Pastor. Telle on! [II. Pastor.] ?þe nyght. III. Pastor. Brether, what may þis be, Þus bright to man and best? [II. Pastor.] ?at hand. III. Pastor. Whi say ?e so? [II. Pastor.] ?warand. III. Pastor. Suche si?t was neuer sene Before in oure Jewery; Sum merueles wil hit mene Þat mun be here in hy. [II. Pastor.] ?a sang. III. Pastor. ?e lye bothe, by þis li?t, And raues as recheles royes! Hit was an angel bri?t Þat made þis nobull noyes. [II. Pastor.] ?of prophecy. III. Pastor. He said a barn schuld be In þe burgh of Bedlem born; And of þis, mynnes me, Oure fadres fond beforn. [II. Pastor.] ?Jewus kyng. III. Pastor. Now may we see þe same Euen in oure pase puruayed; Þe angel nemed his name— ‘Crist, Saueour,’ he saied. [II. Pastor.] ?not raue. III. Pastor. ?one brightnes wil vs bring Vnto þat blisful boure; For solace schal we syng To seke oure Saueour. Transeamus usque Bethelem et uideamus hoc verbum quod factum est, quod fecit Dominus et ostendit nobis. [II. Pastor.] ?to knawe. III. Pastor. For noþing thar vs drede, But thank God of all gode; Þis light euer wil vs lede To fynde þat frely fode. [II. Pastor.] ?I mene. Saluatorem, Christum Dominum, infantem pannis inuolutum, secundum sermonem angelicum. III. Pastor. A, loke to me, my Lord dere, All if I put me noght in prese! To suche a prince without[en] pere Haue I no presand þat may plese. But lo! a horn-spone haue I here Þat may herbar an hundrith pese: Þis gift I gif þe with gode chere, Suche dayntese wil do no disese. Farewele now, swete swayn, God graunt þe lifyng lang!</field>
+      <field name="fulltext">B. [Officium Resurrectionis] Hic incipit Officium Resurreccionis in die Pasche. III. Maria. Heu! Redemcio Israel, Vt quid mortem sustinuit! [II. Maria.] ?payne. III. Maria. Allas! he þat men wend schuld by All Israel, bothe knyght and knaue, Why suffred he so forto dy, Sithe he may all sekenes saue? Heu! cur ligno fixus clauis Fuit doctor tam suauis? Heu! cur fuit ille natus Qui perfodit eius latus? [II. Maria.] ?is oght. III. Maria. Allas, þat we suche bale schuld bide Þat sodayn sight so forto see, Þe best techer in world wide With nayles be tacched to a tre! Allas, þat euer so schuld betyde, Or þat so bold mon born schuld be For to assay oure Saueour side And open hit withoute pité! [All Three.] Iam iam, ecce, iam properemus ad tumulum, Vnguentes Dilecti corpus sanctissimum! Et appropiantes sepulcro cantent: O Deus, quis reuoluet nobis lapidem Ab hostio monumenti? [II. Maria.] ?him leid. III. Maria. He þat þus kyndely vs has kend Vnto þe hole where he was hid, Sum socoure sone he wil vs send, At help to lift away þis lid. III. Maria. Alleluya schal be oure song, Sithen Crist, oure Lord, by angellus steuen, Schewus him as mon here vs among And is Goddis Son, heghest in heuen. [II. Maria.] ?was gon. III. Maria. Surrexit Christus, spes nostra; Precedet vos in Galileam. Crist is rysen, wittenes we By tokenes þat we haue sen þis morn! Oure hope, oure help, oure hele, is he, And hase bene best, sithe we were born! If we wil seke him for to se, Lettes noght þis lesson be forlorn; But gose euen vnto Galilee— Þere schal ?e fynd him ?ow beforn!</field>
+      <field name="fulltext">C. [Officium Peregrinorum] Feria secunda in ebdomada Pasche discipuli insimul cantent: [Chorus.] Infidelis incursum populi Fugiamus, Ihesu discipuli! Suspenderunt Ihesum patibulo; Nulli parcent eius discipulo. [Luke.] ?fast to fle. [Cleophas.] But if we fle þai wil vs fang, And ful felly þai wil vs flay; Agayn to Emause wil we gang, And fonde to get þe gaynest way. And make in mynd euer vs amang Of oure gode Maister, as we may, How he was put to paynes strang— On þat he tristed con him betray! [Luke.] ?but agayn. [Cleophas.] By wymmen wordis wele wit may we Crist is risen vp in gode aray; For to oureself þe sothe say[d] he, Where we went in þis world away Þat he schuld dye and doluen be, And rise fro þe dethe þe thrid day. And þat we my?t þat si?t now se, He wisse vs, Lord, as he wele may! [(?) Luke.] ?resoun ri?t. [Cleophas.] Et quomodo tradiderunt eum summi sacerdotes et principes nostri in dampnacionem mortis et crucifixerunt eum. Right is þat we reherce by raw Þe materes þat we may on mene, How prestis and princes of oure lawe Ful tenely toke him hom betwen, And dampned him, withouten awe, For to be dede with dele bedene; Þai crucified him, wele we knaw, At Caluary, with caris kene. [Luke.] ?wraist. [(?) Cleophas.] Dixerunt eciam se visionem angelorum vidisse, qui dicunt eum viuere. Þe wymmen gret, for he was gon; But ?et þai told of meruales mo: Þai saw angellus stondyng on þe ston, And sayn how he was farne hom fro. Sithen of oures went ful gode wone To se þat sight, and said right so. Herfore we murne and makis þis mon; Now wot þou wele of all oure wo. [(?) Jesus.] ?in pese. [Cleophas and Luke.] Mane nobiscum, quoniam advesperascit et inclinata est iam dies. Alleluya! [Jesus] ?wight. [Cleophas.] Amend oure mournyng, Maister dere, And fonde oure freylnes for to fell! Herk, broþer! help to hold him here, Ful nobel talis wil he vs tell. [Luke.] ?lent. [Cleophas.] And gode wyne schal vs wont non, For þerto schal I take entent. [Luke.] ?he went. [Cleophas.] Went he is, and we ne wot how, For here is noght left in his sted. Allas! where were oure wittis now? With wo now walk we, wil of red. [Luke.] ?oure bred. [Cleophas.] Oure bred he brak and blessed hit; On mold were neuer so mased men When þat we saw him by vs sit, Þat we couthe noght consayue him þen. [Luke.] ?ay. [Cleophas and Luke.] Quid agamus uel dicamus, Ignorantes quo eamus, Qui doctorem sciencie Et patrem consolacionis Amisimus? [Luke.] ?gode state. [Cleophas.] We schal hom tell, withouten trayn, Bothe word and werk, how hit was, I se hom sitt samyn in a playn. Forthe in apert dar I not pas. [Luke.] ?and wife. [Cleophas.] We saw him holl, hide and hewe; Þerfore be still, and stint ?oure strife. Þat hit was Crist ful wele we knewe, He cutt oure bred withouten knyfe. [Chorus.] Gloria tibi, Domine, Qui surrexisti a mortuis, Cum Patre et Sancto Spiritu, In sempiterna secula. Amen. [Chorus.] Frater Thoma, causa tristicie, Nobis tulit summa leticie!</field>
+   </doc>
+</add>

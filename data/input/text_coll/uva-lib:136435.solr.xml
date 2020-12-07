@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia</field>
+      <field name="author_facet">University of Virginia</field>
+      <field name="author_sort_facet">university of virginia</field>
+      <field name="author_text">University of Virginia</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2005_Q4_2/uvaBook/tei/z000000107.xml</field>
+      <field name="date_indexed_facet">201909240342</field>
+      <field name="date_text"/>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:136435</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">A catalogue of the officers and matriculates of the University of Virginia. Session, 1829-30</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia -- Periodicals</field>
+      <field name="subject_text">University of Virginia -- Periodicals</field>
+      <field name="title_display">A catalogue of the officers and matriculates of the University of Virginia.  Session, 1829-30</field>
+      <field name="title_facet">catalogue of the officers and matriculates of the university of virginia</field>
+      <field name="title_sort_facet">catalogue of the officers and matriculates of the university of virginia</field>
+      <field name="title_text">A catalogue of the officers and matriculates of the University of Virginia.  Session, 1829-30</field>
+      <field name="year_multisort_i">1829</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:136435&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:136435&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A catalogue of the officers and matriculates of the University of Virginia. Session, 1829-30&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;catalogue of the officers and matriculates of the university of virginia&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A catalogue of the officers and matriculates of the University of Virginia&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1829-1830&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Va.&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;The University&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;LD5667&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;X004575773&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;o05654199&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;11 p. ; 18-23 cm.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia -- Periodicals&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A catalogue of the officers and matriculates of the University of Virginia&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1829-1830&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Va.&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2004&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2004 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 26 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">BOARD OF VISITORS. JAMES MADISON, Esq. Rector, Gen. JAMES BRECKENRIDGE, JOSEPH C. CABELL, Esq. Gen. JOHN H. COCKE, CHAPMAN JOHNSON, Esq. JAMES MONROE, Esq. THOMAS JEFFERSON RANDOLPH, Esq. JOHN A. G. DAVIS, Esq. Secretary.</field>
+      <field name="fulltext">FACULTY. Dr. GESSNER HARRISON, Professor of Antient Languages. Dr. GEORGE BLÆTTERMANN, Professor of Modern Languages. CHARLES BONNYCASTLE, Esq. Professor of Mathematics. Dr. ROBERT M. PATTERSON, Professor of Natural Philosophy. Dr. JOHN P. EMMET, Professor of Chemistry and Materia Medica. Dr. ROBLEY DUNGLISON, Professor of Medicine. GEORGE TUCKER, Esq. Professor of Moral Philosophy and Political Eeconomy. JOHN TAYLOE LOMAX, Esq. Professor of Law. Dr. THOMAS JOHNSON, Demonstrator of Anatomy and Surgery.</field>
+      <field name="fulltext">OFFICERS OF THE FACULTY. Dr. ROBLEY DUNGLISON, Chairman. WM. WERTENBAKER, Esq. Secretary. ARTHUR S. BROCKENBOROUGH, Esq. Proctor. WM. WERTENBAKER, Esq. Assistant Proctor. ALEXANDER GARRETT, Esq. Bursar. WM. WERTENBAKER, Esq. Librarian.</field>
+      <field name="fulltext">CATALOGUE OF MATRICULATES. NAMES. COUNTIES. STATES. Meriwether L. Anderson, Albemarle, Virginia. William A. Baynham, Essex, Virginia. John M. Baynham, Essex, Virginia. John W. Bankhead, Albemarle. Virginia. George P. Bierne, Monroe, Virginia. Henry M. Bentley, Powhatan, Virginia. David Barclay, Richmond City, Virginia. John F. Brockenbrough, Essex, Virginia. William H. Brockenbrough, Albemarle, Virginia. Theodore W. Brevard, Colombia, South Carolina. Francis E. Brooke, Spotsylvania, Virginia. Thomas Bibb, Huntsville, Alabama. John H. Carr, Baltimore, Maryland. William G. Carr, Albemarle, Virginia. James L. Carr, Albemarle, Virginia. James L. Cabell, Nelson, Virginia. John M. Chapman, Orange, Virginia. Heath J. Christian, New Kent, Virginia. George Cobb, Southampton, Virginia. William B. Cochran, Loudoun, Virginia. John H. Cochran, Loudoun, Virginia. F. F. Conway, Albemarle, Virginia. Abel S. Cunningham, Hardy, Virginia. Benjamin F. Dabney, Glouecster, Virginia. Benjamin J. Darnielle, Albemarle, Virginia. James H. Davis, Albemarle, Virginia. Marion Deveaux, Charleston District, South Carolina. Parkes M. Dickerson, Louisa, Virginia. Edmund Dyer, Pendleton, Virginia. John R. Edmunds, Halifax, Virginia. Willie J. Eppes, Cumberland, Virginia. John A. Gretter, Richmond City, Virginia. Carlos A. Gooch, Albemarle, Virginia. John W. Gilliam, Brunswick, Virginia. John H. Gilmer, Albemarle, Virginia. John B. Garrett, Albemarle, Virginia. James L. Gordon, Albemarle, Virginia. Algernon S. Gray, Rockingham, Virginia. William F. Gray, Albemarle, Virginia. Thomas L. Hamner, Prince Edward, Virginia. Austin M. Hamner, Albemarle, Virginia. J. B. Harvie, Powhatan, Virginia. James P. Henderson, Nelson, Virginia. Archibald Henderson, Salesbury, North Carolina. Walker M. Hite, Frederick, Virginia Joseph V. Hobson, Powhatan, Virginia John J. Hoskins, King William, Virginia Warren G. Huie, Salesbury, North Carolina. George W. Huston, Shenandoah, Virginia. Charles E. Johnson, Chowan, North Carolina. George N. Johnson, Richmond City, Virginia. James L. Jones, Albemarle, Virginia. Peter B. Jones, Nottoway, Virginia. George R. King, Opelusas, Louisiana. Randolph Kownslar, Berkely, Virginia. Franklin A. Kownslar, Berkely, Virginia. Benjamin W. Leigh, Halifax, Virginia. James A. Leitch, Albemarle, Virginia. Norborne W. Lewis, Brunswick, Virginia. John T. Lomax, Jr. Albemarle, Virginia. Socrates Maupin, Albemarle, Virginia. Henry M. Marshall, Frederick, Virginia. Daniel F. McMahon, Pinckneyville, South Carolina. Thomas S. McLelland, Nelson, Virginia. James A. Meriwether, Lynchburg, Virginia. William N. Meriwether, Lynchburg, Virginia. Benjamin F. Minor, Albemarle, Virginia. Charles Minor, Louisa, Virginia. William W. Minor, Albemarle, Virginia. William J. Michie, Louisa, Virginia. James Michie, Albemarle, Virginia. Daniel S. Morgan, Richmond City, Virginia. Alexander Moseley, Buckingham, Virginia. Benjamin T. Moseley, Greensboro, Georgia. William B. Napton, Albemarle, Virginia. James F. Neal, Mecklenburg, Virginia. George Nicholson, Sussex, Virginia. John S. Nicholas, Buckingham, Virginia. C. J. Nixon, Camden, South Carolina. Cary S. Page, Frederick, Virginia. Samuel A. Patteson, Chesterfield, Virginia. William H. Perry, Prince Edward, Virginia. Dr. L. P. Perry, Albemarle, Virginia. Calvin L. Perry, Albemarle, Virginia. Thomas W. Peyre, Charleston District, South Carolina. William B. Price, Brunswick, Virginia. Zebulon M. P. Powers, King &amp; Queen, Virginia. William M. Radford, Campbell, Virginia. Edwin H. Randolph, Amelia, Virginia. Robert Randolph, Hanover, Virginia. Benjamin F. Randolph, Albemarle, Virginia. Marcus W. Reinhardt, Lincolnton, North Carolina. William W. Richeson, Albemarle, Virginia. William F. Ritchie, Richmond City, Virginia. Erasmus T. Rose, Madison, Alabama. John N. Rose, Jr. Albemarle, Virginia. Samuel H. Royal, Powhatan, Virginia. Littleton Savage, Richmond City, Virginia. Robert M. Saunders, Henrico, Virginia. Aurelius Sallé, Chesterfield, Virginia. Samuel Scott, Buckingham, Virginia. William C. Scott, Powhatan, Virginia. Alexander H. Sheppard, Henrico, Virginia. Jacob A. Smith, Richmond City, Virginia. William B. Smith, Brunswick, Virginia. Richard A. Springs, Lancaster District, South Carolina. Francis T. Stribbling, Augusta, Virginia. George E. Tabb, Gloucester, Virginia. John Taylor, Caroline, Virginia. Creed Thomas, Richmond City, Virginia. Charles S. Trueheart, Powhatan, Virginia. Thomas G. Tucker, Brunswick, Virginia. Philip Turpin, Powhatan, Virginia. Henry Tutwiler, Rockingham, Virginia. Peyton Tutwiler, Rockingham, Virginia. A. B. Urquhart, Southampton, Virginia. Warner L. Underwood, Bowling Green, Kentucky. Joseph H. Vincent, Lunenburg, Virginia. Benjamin J. Walker, Brunswick, Virginia. Robert W. Walton, Pensacola, Florida. Edward F. Watkins, Albemarle Virginia. Shelton Watson, Louisa, Virginia. John W. C. Watson, Albemarle, Virginia. Egbert R. Watson, Albemarle, Virginia. Overton D. Watson, Albemarle, Virginia. Fleming T. Wells, Albemarle, Virginia. Cary S. Wickham, Richmond City, Virginia. John Willis, Orange, Virginia. John W. Wimbish, Abbeville, South Carolina. William P. Winfree, Chesterfield Virginia. Benjamin B. Winn, Albemarle, Virginia. Thomas Wood, Albemarle, Virginia. A. G. Wortham, Richmond City. Virginia.</field>
+      <field name="fulltext">UNIVERSITY OF VIRGINIA. The next session will begin on the 10th of September and continue till the 20th of July following. The expenses for the session of upwards of ten months are as follows:— Board, including bed and other room furniture, washing and attendance. $100 Fuel and Candles to be furnished by the Proctor at cost, and five per cent, estimated at 20 Rent of an entire Dormitory $16; for half if occupied by two students. 8 Use of Library and public rooms, 15 Professors' fees, if one professor be attended, $50; if two, each $30; if more than two, each $25. 75 $218 The instruction is conveyed, partly by lectures, and partly by the study of approved text books, and in all cases the assiduity of the student is tested by a rigid system of examination. Every student, under the age of twenty-one years, is required to attend at least three Professors, or two Professors and the Demonstrator of Anatomy and Surgery, unless, when he matriculates, his parent or guardian shall have prescribed in writing the schools which he is required to attend, or unless the Faculty, for good cause shewn, shall allow him to attend less than three. Monthly circulars are written to the parents and guardians, stating the attendance of each student at lecture, and exhibiting his proficiency and deportment. To be admitted, the student must be sixteen years of age. He is required to wear a uniform dress, the particulars of which are detailed in the enactments. This rule will be rigidly enforced; the prescribed uniform will have to be worn on all occasions, both within and without the precincts when the student appears out of his room, except that in warm weather he may wear such light gown or coat within the precincts, as the Chairman may approve. The attention of parents and guardians is particularly drawn to this enactment, in order that their sons or wards may not be provided with clothes which cannot be permitted to be worn. Students entering the University after the commencement of the session, shall pay board only for the time unexpired at the yearly rate, but they shall pay the full fees and rents at whatever time they may enter. In the Medical School, one full course at the University is considered by the authorities of the University of Pennsylvania as equal to one course there.</field>
+   </doc>
+</add>

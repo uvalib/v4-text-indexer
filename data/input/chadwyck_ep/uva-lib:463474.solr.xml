@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Philipot, Thomas</field>
+      <field name="author_facet">Philipot, Thomas</field>
+      <field name="author_sort_facet">philipot thomas</field>
+      <field name="author_text">Philipot, Thomas</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.0708.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1641</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:463474</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">A Congratulatory Elegie Offered up to the Earle of Essex ; Upon his Investiture with the Dignitie of Lord Chamberlaine. By Thomas Philipot</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">A Congratulatory Elegie Offered up to the Earle of Essex ; Upon his Investiture with the Dignitie of Lord Chamberlaine. By Thomas Philipot</field>
+      <field name="title_facet">congratulatory elegie offered up to the earle of essex</field>
+      <field name="title_sort_facet">congratulatory elegie offered up to the earle of essex</field>
+      <field name="title_text">A Congratulatory Elegie Offered up to the Earle of Essex ; Upon his Investiture with the Dignitie of Lord Chamberlaine. By Thomas Philipot</field>
+      <field name="year_display">1641</field>
+      <field name="year_facet">1641</field>
+      <field name="year_multisort_i">1641</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:463474&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:463474&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Philipot, Thomas&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;philipot thomas&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A Congratulatory Elegie Offered up to the Earle of Essex ; Upon his Investiture with the Dignitie of Lord Chamberlaine. By Thomas Philipot&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;congratulatory elegie offered up to the earle of essex&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1641&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1641&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Philipot, Thomas&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Congratulatory Elegie Offered up to the Earle of Essex&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Upon his Investiture with the Dignitie of Lord Chamberlaine. By Thomas Philipot&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1641&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp3062&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;6 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Congratulatory Elegie Offered up to the Earle of Essex&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Upon his Investiture with the Dignitie of Lord Chamberlaine. By Thomas Philipot&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 9 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">A Congratulatory Elegie offered up to the Earle of Essex upon his Investiture with the Dignitie of Lord Chamberlaine. My Lord, Twere malice to your fame not to comply With the worlds publike joy, and amplifie My thoughts to such extent of mirth, they might Digest themselves to action, and indite Something to shew that I had found the art, To write with inke compounded with my heart; For every vulgar spirit can improve His joy to shouts, and can exhale his love To clamorous acclamations, which he Is eas'ly steer'd to be that sympathy, Which does the people in one vote combine, And like a thred does all their hearts entwine: So when a Lute string is but touch'd, each string That does confine upon it seemes to ring A peal of musicke too, and the first note Repeats, as it 'twas eccho'd forth by rote. But when a Poet writes, he should distill, And melt his very brain into his quill, And strive to shake off all that envious weight Of earth, which does controwle the growing height Of his exalted thoughts, that being redeem'd From that rude heap of drosse, which onely teem'd With faint and sickly numbers, he might turne All soules and fire which might so clearly burne. The flame might from his inke all dregges assoil, And that dull juyce to air and spirit boil, So that each drop his flowing pen lets fall Might be like that too immateriall. This I pretend to, if it be my crime, T'ave wrapt my joy up in unseason'd rime, Ile weep so many teares for this offence, They shall to every line some salt dispence, To which, although I could no brain impart, Into each word I have distill'd my heart, For my extended joy did so dilate Each angle of it, it did e'en estate A Pleurisie upon it, which was then Dissolv'd and scatter'd when 'twas by my pen Extracted into verse, to celebrate Your rising like a star ith' sphear of State, Who dart such chearfull beames forth that we might Turne superstitious, and e'en court their light, Which will to our enlivened State dispense Such a benigne propitious influence; It will those clouds of discontent dispell Which did before in our Horison dwell: And may you in this Orbe shine ever bright, Not blear'd with any sullen mist or night, Exhal'd from blacke detraction, that you may Still with your beames improve and guild our day, Still may you in your course as y'ave begun, Like Mercuries bright star, move nere the Sun, Like Aarons Rod may your Staffe fruitfull be, And bud each year, with a new Dignity, May sprigges of hallow'd Mirtle on it grow, May peacefull Olive spring from thence, that so The world may be induc'd at your Decease To say your Staffe became the tree of peace, May you be still inskons'd in every heart, That when pale Envy has discharg'd each dart, She tipt with malice, 'gainst your name, and found By their recoil they did her selfe but wound, She may insert this in your Epitaph, You innocence was whiter than your Staffe, And when Deaths frost your blooming Honour nips And all your star-light suffers an Ecclipse, By an eternall night, and your great soul Having throwne off that dust which did controul Her glorious flight, and purchas'd her release, Soares up to Heaven, borne on the wings of peace And innocence, as here a star you shone, May you shine there a Constellation, And make it by this brave retreat appear You chang'd your life, that you might change your Speare, Which this assertion will with truth improve, That your decease was onely a Remove, And if weel'd know the tombe that's put in trust, To be the Treasurer of your pretious dust, May it be found after a stocke of cares Spent in its search, orewhelm'd in good mens teares. FINIS.</field>
+   </doc>
+</add>

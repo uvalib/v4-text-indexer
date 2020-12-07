@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Watson, William, 1858-1935</field>
+      <field name="author_facet">Watson, William, 1858-1935</field>
+      <field name="author_sort_facet">watson william 1858 1935</field>
+      <field name="author_text">Watson, William, 1858-1935</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1920's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_3.2433.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1921</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:467484</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Ireland unfreed ; Poems and verses written in the early months of 1921 by Sir William Watson</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 20th century</field>
+      <field name="subject_text">English poetry -- 20th century</field>
+      <field name="title_display">Ireland unfreed ; Poems and verses written in the early months of 1921 by Sir William Watson</field>
+      <field name="title_facet">ireland unfreed</field>
+      <field name="title_sort_facet">ireland unfreed</field>
+      <field name="title_text">Ireland unfreed ; Poems and verses written in the early months of 1921 by Sir William Watson</field>
+      <field name="year_display">1921</field>
+      <field name="year_facet">1921</field>
+      <field name="year_multisort_i">1921</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:467484&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:467484&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Watson, William, 1858-1935&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;watson william 1858 1935&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Ireland unfreed ; Poems and verses written in the early months of 1921 by Sir William Watson&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;ireland unfreed&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1921&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1921&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Watson, William&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1858&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1935&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Ireland unfreed&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Poems and verses written in the early months of 1921 by Sir William Watson&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;John Lane: The Bodley Head&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1921&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp4191&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;46 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Ireland unfreed&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Poems and verses written in the early months of 1921 by Sir William Watson&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 19 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted; verse reproduced elsewhere in the English Poetry Full-Text Database omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Dedication To you, my little daughters, happy in being The daughters also of an Irish mother, And happiest when no other Than the sweet Irish air Is on your cheeks; to you that blithely share The gleesome hours, and catch their bliss a-fleeing, I, with grave pen, inscribe this little book; Desiring—nay, foreseeing— That you shall live to look On Ireland's Freeing. W. W. IRELAND UNFREED THE BOUND ONE Thou whom not joys but perils and pangs allure: The white foam's sister, as the white foam pure: The dark storm's daughter, guarding long and late That far-descended heirloom, ancient hate: I cannot say—“In all things that concerned Thee and thy hopes I never swerved or turned, Or held with stumbling mind a wavering creed. But this at least I can declare indeed: Through days with tempest packed, with thunder piled, My dream was of an Ireland Reconciled By utter undoing of wrongs all Earth saw done, And by full freedom to fair friendship won: Not mocked and cheated, conquering some vain goal That could but foil the hunger of the soul, And left as now, with the inmost ills unchanged, The Spouse whom wedlock hath the more estranged, Whom bonds do the more direly rend apart; No—but from long, long sickness of the heart Delivered: healed with a more sovereign balm Than the old deep hurts have known: and in blest calm— An Ireland willing to be loved at last— Risen from the agonies of the loveless Past, Risen from a hundred shatterings, great and new. O that 'twere mine to see that dream come true! MORE THAN TROPHIES Ev'n were thy freeing complete, The marks thy fetters made Could not for ever in a moment fade, O Erin, from thy feet! Why should they? 'Twere more meet That they remained, to be in times afar Held sacred, when perhaps mere glorying Power, And all its idols of an age or hour, Unreverenced are. REPRISAL BY FIRE And this, is this the justice that we claim To have kept untarnished in all realms we sway— This revel of vengeance, blotting the pure day— These barbarous deeds, that well might make our name A byword and a hissing and a shame Throughout the Earth? This is the doom-paved way By which great Empires in august array March to their thunderous deaths 'mid rage and flame. These are the acts that in an hour unblest Cancel a thousand deeds benignly done, Fling far away the good gains Wisdom won, And striking home to Man's most inward breast Make Domination seem a maniac jest Heard 'mid the flare of a distempered sun. TO THE PRIME MINISTER (The Rt. Hon. D. Lloyd George) When France was flame, and Belgium ashes, and while O'er us the flying Death continually Hung near, you rose to greatness. You were he Who in the teeth of the enemy's might and guile Did set a-whirring throughout all this isle The Wheels of the Machine of Victory. And when shall we forget it? When the Sea Forgets his thunder, or the Morn her smile. But O sad change! Chiefly, to-day, in this Your mastery towers—that you forbear to stir A finger, while your minions fierce and fell Shatter doomed Ireland's homes, and build in her A suburb of the great metropolis Of evil and woe, whose name on earth is Hell. TO SIR HAMAR GREENWOOD No thin, pale fame, no brief and poor renown, Were thy just due. Of thee shall wise Time say: “Chartered for havoc, 'neath his rule, were they Whose chastisement of guilt was to burn down The house of innocence, in fear-crazed town And trembling hamlet. While he had his way, Converts untold did this man make each day To savage hate of Law and King and Crown.” Great propagandist of the rebel creed! Proselytiser without living peer! If thou stand fast—if thou but persevere— 'Twill be thy glory to complete indeed Valera's work, that doth ev'n now so need Thy mellow art's last touches, large and clear! WASTED BLANDISHMENTS Yes, we do justice—here and there; And patch and peddle and repair; And even sometimes wonder still Whether our Rule be good or ill; And marvel much, when Ireland's Soul Defies a Government's control! We spread before her that vain bait, Co-partnership in our proud fate; But waywardly and wildly wise, She turns thereon undazzled eyes. For she accounts of far more worth Each foot of that green piece of earth Yonder amid the Atlantic spray, Where 'tis her children's dream to say: “This is indeed our Isle—our own! This is our Land—and ours alone.” TO AMERICA CONCERNING IRELAND Friend with frank tongue, who o'er the unflattering sea Dost likewise flatter not: who view'st the maze And tangle of things through no vague-shimmering haze: Pledge thou thy word, that if, long urged by thee, We loose her bonds and set the Thralled One free, That Morn-fair deed, crowned with Man's golden praise, Shall not for us, in thy consenting gaze, Prove the bright Mother of dark calamity! Then shall we know that some who else might mar The Dayspring, and drag Midnight from its grave— Some whose imperial dreams are loth to die— Will listen first beside the Western Wave: Will hear thy thundered interdict afar, And flee in terror lest they hear it nigh. COMPLETE DELIVERANCE “A leap in the Dark,” say the champions of Night. O surely a leap from the Dark, into Light! A GLORIOUS IMMUNITY Thee, wounded Ireland, thee I gratulate; First, on thy wounds; next, on that very fate Whose malice hath yet spared thee one worse woe Than even thou hast tasted. For although Grievous is thraldom, in a world bethronged With the proud wrongers and the prostrate wronged, Far deeper is the unconscious misery Of them that shackle those who would be free! And though the thralled seem hapless, theirs who thrall Is the most dark, lost, heavenless state of all. TO ERIN ONCE MORE Upon that Day when thou among thy peers Shalt take the place that is by right thine own, Judge not of England with a mind too prone To harsh, hard thoughts! Though oft her palsying fears Did freeze up noble purpose, hers were tears For the world's heartache—hers no breast of stone. She wronged thee much: but speak not blame alone, When forth thou step'st into the happier years. And when, disburdened of a cumbering weight, Thou from the transitory and fugitive— From thy dead yesterdays—art loosed, to live At peace with God and Man and Time and Fate, Be thine the greatness of the more than great, Whose glory it is, divinely to forgive. AFTER NEWS OF AN EXECUTION Was it all folly—yonder, hour by hour, To choose, not peace, but strife, and thereto dare The lion couched in his unnative lair, The world-feared lion, mighty to devour? O that some folly as splendid were a flower Not, on all shores but those, so wondrous rare! Common as weed in Ireland everywhere That splendid folly blooms, and hath the power To make a mere slight boy not only face Death with no tremblings, with no coward alarms, But like a lover woo it to his arms, Clasp with a joyous and a rapt embrace Death's beauty, Death's dear sweetness, Death's pure grace, And count all else as nought beside Death's charms. TILL IRELAND HAS HER OWN To all who heed, to all the freed, To all the unfreed, 'tis known, There'll be no rest for Ireland's breast Till Ireland Has Her Own. Age after age will nurse the rage That breeds not rage alone, Bringing no rest to Ireland's breast Till Ireland Has Her Own! And tell me, when may Englishmen Win back the peace that's flown? There'll be no rest for Englands breast Till Ireland Has Her Own. Each day, each hour, unhappier Power, On an unsurer throne! No rest, no rest for England's breast Till Ireland Has Her Own. TO THE PRIME MINISTER YET AGAIN (The Rt. Hon. D. Lloyd George) Like your renown-clad namesake, who did slay, Far across Time and its vast charnels drear, If only with a legendary spear A fabled dragon, you in your midday Did unto ravening things give battle, and they Felt your light lance through all their scales! They fear That lance no more, perceiving but too clear How rusted is its chivalry away. Plunged is that spear in no foul monster's side, But pointed at the Captive Maiden's breast, Who, greenly robed, sits pining to be free. For not as her Deliverer do you ride Forth, but to bid her guards be adamant, lest She escape i' the tempest from captivity. TO AN IRISH PATRIOT Your cause at its centre is pure: the wise plan Is to keep its circumference pure—if you can. TO AN OPPRESSOR Come down from thy high seat! If with the blood of men Its steps be slippery, the more easy, then, The offsliding of thy feet! And back thou never shalt be asked to climb While this tired World ascends the stairs of Time. THE TWO PUISSANCES Ireland, two Puissances there are, that claim Untrammelled sovereign lordship and control, This o'er thy body, thy fair outward frame, That o'er the innermost places of thy soul. One, by the Thames, of perishing clay and lime Built its chief seat, and of mere crumbling stone. One beside Tiber, gazing beyond Time, Hath its unfrail, unmundane, mystic throne. And great and mighty are both these Powers on earth, O Ireland! But all men that breathe can see— Except the sightless who are blind from birth— Which of the twain doth verily reign in thee. THE VISION I looked forth through the Void, And a dark Hand did draw From the near West a curtain, and I saw Dull Tyranny, on the breath of Folly upbuoyed; And a blind surgeon, Statecraft, there employed To keep the wounds of Ireland ever raw; And Rapine, masked as Order, his vast maw With vengeance still uncloyed; And round these forms, a dance of lawless Law O'er Liberty Destroyed.</field>
+   </doc>
+</add>

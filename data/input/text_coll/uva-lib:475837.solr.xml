@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Stephen Crane</field>
+      <field name="author_facet">Stephen Crane</field>
+      <field name="author_sort_facet">stephen crane</field>
+      <field name="author_text">Stephen Crane</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1890's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/CraBaby.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">May 1894</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:475837</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">"An Ominous Baby</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">"An Ominous Baby</field>
+      <field name="title_facet">an ominous baby</field>
+      <field name="title_sort_facet">ominous baby</field>
+      <field name="title_text">"An Ominous Baby</field>
+      <field name="year_display">May 1894</field>
+      <field name="year_facet">1894-05</field>
+      <field name="year_multisort_i">1894</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:475837&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:475837&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Stephen Crane&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;stephen crane&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;"An Ominous Baby&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;an ominous baby&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;May 1894&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1894-05&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Stephen Crane&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;"An Ominous Baby"&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;May 1894&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Boston, MA&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;The Arena Publishing Co.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;May 1894&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;UVa. Library Call Number: AP 2 .A6&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;"An Ominous Baby"&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 9 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">AN OMINOUS BABY. BY STEPHEN CRANE. A BABY was wandering in a strange country. He was a tattered child with a frowsled wealth of yellow hair. His dress, of a checked stuff, was soiled and showed the marks of many conflicts like the chain-shirt of a warrior. His sun-tanned knees shone above wrinkled stockings which he pulled up occasionally with an impatient movement when they entangled his feet. From a gaping shoe there appeared an array of tiny toes. He was toddling along an avenue between rows of stolid, brown houses. He went slowly, with a look of absorbed interest on his small, flushed face. His blue eyes stared curiously. Carriages went with a musical rumble over the smooth asphalt. A man with a chrysanthemum was going up steps. Two nursery-maids chatted as they walked slowly, while their charges hob-nobbed amiably between perambulators. A truck wagon roared thunderously in the distance. The child from the poor district made way along the brown street filled with dull gray shadows. High up, near the roofs, glancing sun-rays changed cornices to blazing gold and silvered the fronts of windows. The wandering baby stopped and stared at the two children laughing and playing in their carriages among the heaps of rugs and cushions. He braced his legs apart in an attitude of earnest attention. His lower jaw fell and disclosed his small even teeth. As they moved on, he followed the carriages with awe in his face as if contemplating a pageant. Once one of the babies, with twittering laughter, shook a gorgeous rattle at him. He smiled jovially in return. Finally a nursery maid ceased conversation and, turning, made a gesture of annoyance. "Go 'way, little boy," she said to him. "Go 'way. You're all dirty." He gazed at her with infant tranquillity for a moment and then went slowly off, dragging behind him a bit of rope he had acquired in another street. He continued to investigate the new scenes. The people and houses struck him with interest as would flowers and trees. Passengers had to avoid the small, absorbed figure in the middle of the sidewalk. They glanced at the intent baby face covered with scratches and dust as with scars and powder smoke. After a time, the wanderer discovered upon the pavement, a pretty child in fine clothes playing with a toy. It was a tiny fire engine painted brilliantly in crimson and gold. The wheels rattled as its small owner dragged it uproariously about by means of a string. The babe with his bit of rope trailing behind him paused and regarded the child and the toy. For a long while he remained motionless, save for his eyes, which followed all movements of the glittering thing. The owner paid no attention to the spectator but continued his joyous imitations of phases of the career of a fire engine. His gleeful baby laugh rang against the calm fronts of the houses. After a little, the wandering baby began quietly to sidle nearer. His bit of rope, now forgotten, dropped at his feet. He removed his eyes from the toy and glanced expectantly at the other child. "Say," he breathed, softly. The owner of the toy was running down the walk at top speed. His tongue was clanging like a bell and his legs were galloping. An iron post on the corner was all ablaze. He did not look around at the coaxing call from the small, tattered figure on the curb. The wandering baby approached still nearer and, presently, spoke again. "Say," he murmured, "le' me play wif it?" The other child interrupted some shrill tootings. He bended his head and spoke disdainfully over his shoulder. "No," he said. The wanderer retreated to the curb. He failed to notice the bit of rope, once treasured. His eyes followed as before the winding course of the engine, and his tender mouth twitched. "Say," he ventured at last, "is dat yours?" "Yes," said the other, tilting his round chin. He drew his property suddenly behind him as if it were menaced. "Yes," he repeated, "it's mine." "Well, le' me play wif it?" said the wandering baby, with a trembling note of desire in his voice. "No," cried the pretty child with determined lips. "It's mine! My ma-ma buyed it." "Well, tan't I play wif it?" His voice was a sob. He stretched forth little, covetous hands. "No," the pretty child continued to repeat. "No, it's mine." "Well, I want to play wif it," wailed the other. A sudden, fierce frown mantled his baby face. He clenched his thin hands and advanced with a formidable gesture. He looked some wee battler in a war. "It's mine! It's mine," cried the pretty child, his voice in the treble of outraged rights. "I want it," roared the wanderer. "It's mine! It's mine!" "I want it!" "It's mine!" The pretty child retreated to the fence, and there paused at bay. He protected his property with outstretched arms. The small vandal made a charge. There was a short scuffle at the fence. Each grasped the string to the toy and tugged. Their faces were wrinkled with baby rage, the verge of tears. Finally, the child in tatters gave a supreme tug and wrenched the string from the other's hands. He set off rapidly down the street, bearing the toy in his arms. He was weeping with the air of a wronged one who has at last succeeded in achieving his rights. The other baby was squalling lustily. He seemed quite helpless. He wrung his chubby hands and railed. After the small barbarian had got some distance away, he paused and regarded his booty. His little form curved with pride. A soft, gleeful smile loomed through the storm of tears. With great care, he prepared the toy for travelling. He stopped a moment on a corner and gazed at the pretty child whose small figure was quivering with sobs. As the latter began to show signs of beginning pursuit, the little vandal turned and vanished down a dark side street as into a swallowing cavern.</field>
+   </doc>
+</add>

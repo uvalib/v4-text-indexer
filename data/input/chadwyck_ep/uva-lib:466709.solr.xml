@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Thelwall, John, 1764-1834</field>
+      <field name="author_facet">Thelwall, John, 1764-1834</field>
+      <field name="author_sort_facet">thelwall john 1764 1834</field>
+      <field name="author_text">Thelwall, John, 1764-1834</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1800's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_3.1296.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1806</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:466709</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Monody On The Right Honourable Charles James Fox ; By Mr. Thelwall. The Second Edition, Corrected</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">Monody On The Right Honourable Charles James Fox ; By Mr. Thelwall. The Second Edition, Corrected</field>
+      <field name="title_facet">monody on the right honourable charles james fox</field>
+      <field name="title_sort_facet">monody on the right honourable charles james fox</field>
+      <field name="title_text">Monody On The Right Honourable Charles James Fox ; By Mr. Thelwall. The Second Edition, Corrected</field>
+      <field name="year_display">1806</field>
+      <field name="year_facet">1806</field>
+      <field name="year_multisort_i">1806</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:466709&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:466709&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Thelwall, John, 1764-1834&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;thelwall john 1764 1834&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Monody On The Right Honourable Charles James Fox ; By Mr. Thelwall. The Second Edition, Corrected&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;monody on the right honourable charles james fox&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1806&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1806&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Thelwall, John&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1764&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1834&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Monody On The Right Honourable Charles James Fox&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;By Mr. Thelwall. The Second Edition, Corrected&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed ... by J. M'Greery ... And sold by Mr. Phillips [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1806&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp3884&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;10 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Monody On The Right Honourable Charles James Fox&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;By Mr. Thelwall. The Second Edition, Corrected&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 16 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">MONODY ON THE RIGHT HONOURABLE CHARLES JAMES FOX. Oh Friends! oh Britons!—if, with tearful eyes, And heaving breast, slow, from your Patriot's grave, You hither turn,—in hopes some strain to hear May soothe your sufferings,—some melod?ous lay, Fit to embalm his mem?ry, and record His worth unequall'd,—ah! that hope forego; For I have nought but sorrow to return To your mute sorrows: I must echo back (In place of Eulogies of lofty strain) Sighs to your sighs, and to your tears repay Tears all as fruitless: I, with you, can bend Prone o'er the earth, whose cold—cold breast inurns Nature's chief pride;—the intellectual boast— The grace—the glory of a widow'd age; But can, alas! no more. Or if, amid My frequent heaving sobs, the struggling voice, Should, plaintive, force its intermittent way, And the big heart unburthen,—can that voice (By sorrow thus untun'd) e'er reach those notes Of highest rapture, whose accordant swell Should sound the Patr?ot's, sound the Statesman's praise, —The Sage—the Orator—the all-inspir'd, And all-inspiring, comprehensive mind! Ah no! (for me unstrung) the Epic Lyre Passes to other hands. Not mine to wake The sounding strings—that, with responsive swell, Should ring,—re-ech?ing to thy matchless praise, Thrice-honour'd Fox!—Yet, may thy loftier Fame Claim its full record from a heart as warm,— A soul as conscious of thy worth sincere And energy benignant!—from a hand More skill'd—more free to dwell on ev?ry chord May vibrate to thy glory! I, the while, Will, o'er the plaintive Lute, in humbler strains, Dwell on thy Moral Worth:—thy social praise, In the calm walks of Friendship;—in the scenes Of still retirement,—where each milder grace (That from the heart's warm fountain, undefil'd, Drinks its pure nurture) blossoms into life!— My humbler verse (the Statesman's praise foregone) Shall hail the Man!—the social heart shall hail, Benignant and urbane!—a dearer theme, And less obnoxious to the partial taint Of prejudice and passion! Here, O Fox! Thy praise resounds unquestion'd:—Here the crest Of Envy shrinks, in impotence, abash'd, And all her snakes are stingless. To this theme, In full accordance, ev?ry ear shall bend, And ev?ry bosom vibrate: nor, while yet Rememb?rance in the vital seat remains Of one who knew thy virtues, e'er shall cease The cordial retrospection. Oft the Friend, In bursting agony of soul, shall sob, Tear-choak'd, thy praises;—the Companion gay Of thy unbending hours,—oft as the cup You wont to pledge, shall take th? accustom'd round, Shall pause in musing sadness;—they who mark'd, At cas?al distance, or with passing glance, Chance led, thy artless manners,—thy mild port And affable demeanour, shall respond The grateful theme; and ev?n thy bitterest foe— (For who thro public scenes and life's turmoil Can walk, with conscious energy erect, Foeless or unrevil'd?)—thy bitt?rest foe Shall join with friends and strangers, here, to own Thy praise unrivall'd:—to thy grave shall press, Amid the throng promisc?ous;—and, if He hath a heart, (rememb?ring what thou wert— To friend how ardent! and to foe how mild!— How like a rock, in all the fix'd regards Of gratitude and kindness; but to wrongs How unretentive!—flexible and soft As yielding childhood, that impression takes But as a passing shadow!)—even he, Shall all his rankling enmities resign, And weep—he e'er was hostile. And O thou!— (Could earth once more re-claim thee!)—even thou —Spirit of fire! that, in eccentric course, Rov'd thro each sphere of science!—o'er-illum'd With Heav?n's too ardent flame!—intemperate Of gen?us, as of Passion!—even thou, Soul-kindling Burke! hadst thou beheld this day, Had melted to rememb?rance; and, with voice All eloquent of sorrow, had confess'd,— With pride, the Pupil; with despair, the friend. Yes, such the boundless sympathy shall swell, Thy solemn Dirge—O honour'd! O rever'd In ev?ry social sphere!—thy virtues such,— Transcending o'er my praise, lamented Fox!— Virtues—that, thro the tenour of thy Life Have flow'd unmingled,—save by such alloy, As from the untam'd energies of youth Too frequent spring:—taints of o'er-vig?rous sap; That, in the vernal season, burst, too oft, The swelling rind, and take a canker in, That hastens (immature) th? autumnal fall. And such, perhaps, thy penance!—Hence, perhaps, So soon we mourn thee lost.—The sentient nerve, First by the error, the contrition next O'erstrain'd and harrass'd, yielded, ere its hour, To Time's sure inroad; and Affection mourns,— Of half her hopes defrauded. Yet—to us, If, from th? o'erwhelming flood and heedless tide Of youthful ebullition, thus remain Lasting regret;—yet, not to thee remains Opprobr?um's lasting taint:—how well redeem'd!— When, in maturer years, and in the hour Of sharp corrosive trial, full appear'd, In Truth's clear mirror, the reflected scene Of Folly's wild career. Resurgent, then, With what elastic energy, upsprung Thy buoyant mind! and how sublimely soar'd! Beyond example, constant in resolve: Reforming and atoning. Nor in vain, For thine, or Nature's glory, came the hour Of such afflictive trial:—blest in this— That 'twas thy fav?uring destiny to prove Friendship no empty name;—to blend with hearts True to themselves in thee: whose justice prov'd Them not unworthy of the age—the clime Thy manly worth adorn'd!—Ah doubly blest— There (where 'tis dearest to the soul, to find A faithful friend)—to find such friend thy own,— Ev?n where the settled Prudence of the world Would least have sought; and, the rich treasure prov'd, T? have turn'd thy frailty to an act of grace And soar'd to Justice, where no Custom bound. But cease, my heaving bosom!—check the strain, Inadequate and faint! that vainly seeks T? enumerate his virtues;—to reveal The heart—the soul, that nobly soar'd above The vulgar limits of Tradition's rule— Expansive and sublime. Let, those who knew, From intimate affiance,—who have shar'd His bosom's confidence,—the cordial flow Of his attractive converse;—who have seen His eye, expressive of th? awaken'd heart, Beaming in all its fulness;—Let them pour From the abundant treas?ry of their griefs The copious eulogy; in ample Lay, His ampler heart delin?ate; and record What the swoln breast has treasur'd. Chiefly thou— By either Muse, inspir'd!—by friendship more; O Sheridan! indulge the mournful theme That claims thy flowing verse. Thou, skill'd alike, To pour the stream of Helicon?an song, Inspiring; or the not less rapt?rous tide Of soul-exciting eloquence!—O seize, Once more the Lyre; and call, from ev?ry eye, The Tear's full torrent!—wake in ev?ry heart The glow of admiration:—the strong throb Of emulous regret,—that what, it mourns, Pants to resemble. In some deathless Lay Sound—sound his praises! that the world may hear, And consecrate thy friendship and his worth. We, sad, the while, will, o'er his hallow'd urn, Pour our full sorrows; and full oft invoke His venerable name: with cherish'd love, From sire to son (while generations last) Transmit his mem?ry:—for, oh! if e'er Virtue was sacred held,—if excellence Of heart and head,—if large capacious soul,— If lib?ral Feelings join'd with Thought profound, And Eloquence with Wisdom's strength sustain'd; —If Knowledge wedded to Simplicity,— The Maiden's meekness, with the Sage's lore;— If these, can claim our rev?rence, and command A lasting admiration,—then; as long As record lives,—as Mem?ry loves to dwell On past example, Fox, in ev?ry heart Shall find a Cenotaph: His image there Shall live, inscrib'd with characters of truth; And Time (while Time shall last) preserve the Name —To Albion, and to social Virtue dear. FINIS.</field>
+   </doc>
+</add>

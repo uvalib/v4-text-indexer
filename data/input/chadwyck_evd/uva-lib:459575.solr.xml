@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Wager, W., (William)</field>
+      <field name="author_facet">Wager, W., (William)</field>
+      <field name="author_sort_facet">wager w william</field>
+      <field name="author_text">Wager, W., (William)</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1910's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.0945.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1911-1923</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459575</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The cruell Debtter</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 20th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 20th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The cruell Debtter</field>
+      <field name="title_facet">cruell debtter</field>
+      <field name="title_sort_facet">cruell debtter</field>
+      <field name="title_text">The cruell Debtter</field>
+      <field name="year_display">1911-1923</field>
+      <field name="year_facet">1911</field>
+      <field name="year_multisort_i">1911</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459575&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459575&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Wager, W., (William)&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;wager w william&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The cruell Debtter&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;cruell debtter&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1911-1923&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1911&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Wager, W., (William)&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The cruell Debtter&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Oxford&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1911-1923&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872051-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv10945&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The cruell Debtter&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 25 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and editorial matter omitted&lt;lb/&gt;Source text incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Copyright (c) 1911–1923, The Malone Society. This text may not be reproduced, except for fair dealing purposes, without the express permission of Chadwyck-Healey and the copyright holder.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The cruell debtter.</field>
+      <field name="desc_meta_file_display">Genre: Interlude.</field>
+      <field name="desc_meta_file_display">Date first published: 1566 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1560–1565 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Source text incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">The cruell Debtter.</field>
+      <field name="fulltext">To them thou shalt be welcome I warant thee, Yea, and in great acceptacy? also (sayd hee.) Now the thynge whearfore I was so angry &amp; mad, Was thys, I forgate the councell that of him I had. Flateri The goodlyest thing in the world is c?munication For what bryngeth thynges to our memoratyon, Thou and I had lyke fortune wyth Basileus, After that maner to thee I wyll playnly dyscusse: I remembred a sayenge of Seneca in a Tragedy, Worthy to be prynted of such as loues Flatery. Fraus sublimi regnat in aula. The higher that the court is &amp; the more of nobylytie, The more falsehed is thearin, &amp; the more Iniquytie, More flatery is not in the worlde reygnynge Then is in the courte of any noble kynge. Now Bus is a kynge of most honoration In whose house I thought to haue my habytacyon, But I came not so sone wythin Basileus Palace, But they dysclosed me openly vnto my face, And whan they had once so bewrayed my name I myght no lenger tary in that court for shame, Than (as thou dyddest) I toke my freyndes councell Askyng hym wheare it was best for me to dwell He named them of whom we haue spoke before Sayeng, that wyth them you may dwell euermore. And euen now my purpose was to go thyther. Rigor. Of all good fellowshyp let vs go together: I do not passe in kynge Basileus house to dwell I doubt not but that we shall do euen as well: But syra, what diddest thou see Symulation? Flateri Thys day he and I had c?munication, romysed me straightway to come hether Four «fr»eyndes we shuld go together: In the worlde is not so false a knaue as hee, For by hym all states of people deceyued bee. In Byshops and pastors he is humylitie And yet must be full of pryde and crudelytie: In all the Clergy he semeth to be holynes, Whan in them is a multytude of wyckednes. In Magystrates he semeth to be Affabylitie, Yet theare lurketh dysdayne and Austerytie, In the c?mons he semeth to be neyghbourlynes, Yet is theare enuye, hate, and coueytousnes. I dare say that hys deceyte further doth wander Than all the domynyon of kynge Alexander. Rigor. Deceyueth he so, and is neuer deceyued agayne? Flateri Sildome or neuer that I here of, I tel thee plaine. Rigor, By the masse it were a good deede to deceyue him And I will tell thee which way we may do it t Thou sayest yt he will be here without doubt to day, Flateri That is wythout question, (truly I dare say.) Rigor. Well, whan he c?meth we wyll semble out to fall, we wil strike one at another as though we did brawl What we meane by that he wyll greatly wonder, Than he wyll come intendyng vs to sunder: Thou shalt stryke at me, and I at thee wyll swacke But let all the strypes lyght vpon hys backe. Flateri Of good fellowshyp let it be so euen indede Let the semblyng knaue haue somwhat for his mede, Begyn to fight Harke, by my fayth &amp; trouth I here hym spyt: Nay holde thy hande, thou mayst not fyght yet. Rigor. We must be fyghtyng when he doth enter neades, Or else for the sporte I wyll not geue two threades. Here enter Symylatyon. Symulatyon. Dominus vobiscum, In principio erat verbum. Yea? are you fyghtyng? I purpose no nere to cum. Nemo tute se periculis offerre potese. He that putteth hym selfe in forewarde Can not be sure, but putteth hym selfe id hazard. Rygor. A horeson, by the masse it shall cost thee thy lyfe. Flateri I wyll cut thee as small as a knaue wt my knyfe. Symulatyon. Good Lord, what meaneth these folkes to fyght? Holde your handes maysters, I pray you no more, I trow that it is not best to approche to nere Lesse perchaunce we lyke some of theyr euell chere. Rygor. I wyll teach you horson vyllayne to medle wt mee. Flateri Doubt thou not but euen with thee I wyll be. Symulatyon. Passyon of God, one of them is my cosyn Flatery, I wyll see hym take no hurte here verely. For Gods sake Gentleman holde your hand, Goe to them. Thys is an honest man, you shall vnderstand. Rigor. Horeson knaue, c?mest thou to take hys parte? Beate Simulation. Symu. You haue broken my head (I beshrew your harte.) Flateri Art thou medleng betweene vs naughty knaue? Sumwhat for thy presumption thou shalt haue. Symu. No more good cosyn for Gods passyon, No more, alas, I am your cosyn Simulation. Flateri For the body of god holde thy hand Rigor, If thou be a man of thy hand, stryke no more: I wene we haue hurt my cosyn by the masse, I had leuer th? twenty po?d it had not come to passe Rygor. I can not be content tyll I haue a leg or an arme Here Flatery muste holde Rigor. but at this time for his sake I wil do no more harme. Symulatyon. Alas, synce I was borne dyd neuer m? so me beate I fear yt I shal neuer after this day more bread eate, O my arme, my arme, now alas what shall I do? I wene that my back bone be broken in two. Rygor. It is madnes to medle betwene men in theyr fury. they know not theyr owne father wh? they be angry Flateri Furor ira? mentem precipitant. Fury and wroth (as in Vyrgyll I fynde) Do wythdraw and precipitate a mans mynde, In fayth cosyn, if I had knowen that it had ben you I wolde not haue hurte you for the pryce of a cow: Alas good cosyn, now by my trouth I am sory, I promyse you cosyn, you are all my ioy &amp; glory: By my fayth and trouth you will not beleeue How the sorenes of your backe doth my backe greeue the strypes that on your armes &amp; shoulders did light I wysh them on myne owne, by god &amp; by thys night A good cosin, cosyn, I pray you be of good chere, Let me see your armes, do any of your stripes appere. Symulatyon. A vengeance on your false subtle smylyng harte, Full like a false knaue you can play your parte. Flateri Of lytle falsehed truly I had probation Before I learned it of you Symulation. Symulatyon. Thys was done of a set purpose (I dare say,) But trust to it, I wyll be euen wyth you one day. Rigor. To deceiue such one as is knowen deceiuable Is no deceyte, as by thee now it is probable: All the worlde you deceiue (your cosyn doth say) Thynkyng it not possible to deceiue you any way, Than I heryng that you weare so conyng in deceyte To deceyue you agayne, a tyme I dyd wayte. Lo here see, he that to deceiue al, hys mind doth cast By some meane is deceyued hym selfe at the last. Flateri Put me in no fault cosyn I you desyre, For Rigor so to do dyd me instantly requyre. I trust cosyn that you wyll forggiue me for this once For I wil do no more so I warr?t you by these bones. S«ymu»la«tyon». I forgeue you as chrysten men theyr brother, til they spy a time to do one shrewd turne for another Hange me if I wayte not for you a knauysh towche Yea, or it shall cost me all that is in my powche, A vengeance on you for workyng of the same, For you haue almost made my armes and back lame. Flateri God requyreth no more but a penytent harte. Symulatyon. Mary but he wolde requyre more if he felt smarte. Here entreth Ophiletis. Rygor. Peace, no more words, yonder c?meth a gentlem?. Symu. By Iesu I wyll be euen wyth you both if I can. Rigor. Do what thou canst, I set not by thee a louse. Flateri It is a gentleman of kyng Basileus house, He is not mery, some thyng wythout doubt is amysse If thou wylt be stil you shal know what the cause is. Rigor. Let vs semble our selues to be persons of grauytie. Symulatyon. I could fynd in my harte to dysclose your knauitie, By my fayth if I knew my selfe to scape harmelesse I wold declare (to your shame) all your wickednesse. Rygor. We may be glad at the harte verely That thou art as farre furth as we in knauery, Whearfore if any of our feates thou wylt dysclose, the worst payne &amp; shame shal light on thy owne nose. Ophiletis. A good Lord, I am vndone and all myne, I haue lyued lyke a gentleman all my lyfe, But now I am lyke to come to vtter ruyne Yea, and all my goods, chyldren and wyfe: He that wolde hange me, or kyll me wyth a knyfe I wolde forgeue hym, yea, euen wyth a good wyll, For I am not worthe so much as an Oyestershyll. The hygher that any man presumeth to clyme The sorer is hys hurte whan he cha?ceth to fall, Wolde to god that I had loked vpon this in tyme, Than had I not ben so myserable and thrall: I had not the grace to be wyse and polytycall, I neuer mynded to gather any good or treasure Onely my harte was set to lyue in pleasure. I thouht my selfe so much in fauour wyth the kynge Trustyng in hys goodnes onely from day to day, Euer thynckyng that I should want nothynge And also impossyble that euer I should decay, I spent styll, borowed of the king, promysyng to pay, But now Proniticus hath s?moned me to a compte, And alas, my debtes do all my goods surmount. Rygor. Syrs here you not? thys is a fyt mater for vs, Speke amonge your selfes a good way of. If we had imagined amonge vs a whole yere, We could not haue such a thyng against Basileus As we haue occasyon now in thys man here, Basileus loueth none of vs it doth well appere, And as it semeth by thys mans behauour, Vnto hym he oweth no very great fauour. Flateri Now to talke wyth hym is a tyme conueuyent, For any man being in sorow and desolation, To here good councell wyll be glad and dylygent, Namely in a mater of peryll and dubytation. Symulatyon. Let vs go vnto hym, and by hys c?munication We shall know more, and then as we do in him see So in our councell freyndly to hym we wyll bee. Rigor. God spede you sir, &amp; you ar welcome into this place By my faith you are welcome as my harte can thinke Alack, you are not mery (it semeth by your sace,) Wyll it please you a cup of good wyne to drynke? Wyll it please you to go to the goodwife of the clinke? To speke of good wyne, in London I dare say Is no better wyne than thear was once to day. Flateri Viro autem defatigato, magnum robur vinum auget. Ophiletis. It was tyme to haue in a redynes all thynge For yonder c?meth Basileus my Lord and kynge. Rygor. As far as we can let vs stande asyde, Tyll he sendeth for you let vs yonder abyde. Basileus. I thanke you proniticus for your dylygence, Doubt you not, but your paynes we wyll recompence I am pleased wt the accomptes that you haue taken, None of your bookes nor bylles shalbe forsaken The moste parte of my debtters haue honestly payed Ad they that weare not redy I haue gently dayed. Proniticus. f it plese your grace we haue not finisht your mind Thear is one of your greatest debtters yet behind, We haue perused the parcelles in your bookes set, And we fynd him ten thousand talents in your debt, So we assygned hym before your grace to come And to make a rekenyng for the whole s?me. Basi. I wene it be that vnthryfty fellow Ophiletis. Proniticus. Yea truly, if it lyke your grace the same it is, I c?maunded hym to be redy here in place That we myght brynge hym before your grace. Basy. Wythtytie I wolde haue hym sought And before myne owne presence to be brought. Proni. I perceyue that he is euen here at hand, I see that in a redynes yonder he doth stand. Basile. Cause him before vs in his owne person to appere. Proni. It shall not be longe before he be here. Rigor. Plucke vp your heart and be of good chere, Feare not I warent you, good fortune is nere. Proniticus. Ophiletis it is the kyng Basileus c?maundement That you come before hys maiesty now incontinent. Ophiletis. I am in a redynes truly wyth all humylytie To come into the presence of hys maiestye. Rigor. I pray you syr speke a good word for him to ye king. Proni. He knoweth that I am hys owne in all thynge. Ophiletis. God saue your lyfe the fountayne of nobilitie, All hayle the very patron of Magnanymytie, Blessed be you the author of all worthynes, Honour &amp; prayse to you the head sprynge of goodnes. Rigor. O most myghty, most valyant and noble kynge God saue you, god saue you, of all vertue the sprynge. Basi. whom hast thou brought into our presence wt thee? Ophi. If it lyke your grace, hys name is Humylytie. Rigor, Yea, from hys harte I am neuer absent, Nor I thynke neuer shalbe by hys intent. Basileus. In our accomptes tak? by our stuard you do know What a sum of money vnto vs you do owe. Haue you brought hether suffycient payment To make your compte, after our c?maundement? Ophiletis. O syr, I beseche you to be mercyfull to mee, For I knowledg my selfe so farre in your debt to bee That all that I haue is not suffycient Of a quarter of my debtes to make payment. Rigor. Weepe, body of god can you not weepe for a neede? Speke asyde. You must loke pyteously if you intende to speede, If you can not weepe, I wyll weepe for you: Ho, ho, ho, I pray you be good to vs now. Proni. What meane you in this place to play such a parte? Rigor. O syr, I declare the effect of this mans meke hart. Basileus. Thear is no more of the mater but onely thys, Thou art a ryotous person (doubtles Ophyletis,) Pryde and presumtyon hereto haue thee brought, Much to spend and lash out, was euer thy thought, A sumptous table thou woldest keepe euery day, Beyonde thy degree thou dydest excede in aray. Rygor. that I may speke one word, please it your maiesty? Basy. Say whatsoeuer you wyll, we geue you lyberty.</field>
+   </doc>
+</add>

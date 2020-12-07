@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Mark Twain, pseud. Samuel Langhorne Clemens</field>
+      <field name="author_facet">Mark Twain, pseud. Samuel Langhorne Clemens</field>
+      <field name="author_sort_facet">mark twain pseud samuel langhorne clemens</field>
+      <field name="author_text">Mark Twain, pseud. Samuel Langhorne Clemens</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/TwaStlo.xml</field>
+      <field name="date_indexed_facet">201909240358</field>
+      <field name="date_text"/>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476432</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Arousing Interest</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">Arousing Interest</field>
+      <field name="title_facet">arousing interest</field>
+      <field name="title_sort_facet">arousing interest</field>
+      <field name="title_text">Arousing Interest</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476432&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476432&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Mark Twain, pseud. Samuel Langhorne Clemens&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;mark twain pseud samuel langhorne clemens&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Arousing Interest&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;arousing interest&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Mark Twain, pseud. Samuel Langhorne Clemens&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Arousing Interest&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Sacramento&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Sacramento Union&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="callNo"&gt;Source copy consulted:&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Arousing Interest&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2001&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2001 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 7 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Arousing Interest EDITOR, Sunday Republican: You may not know that I am going to lecture at Mercantile Hall tomorrow night for the benefit of the South St. Louis Mission Sunday School, but I am. I do not consider any apology necessary. I would like to have a Sunday School of my own, but I would not be competent to run it, you know, because I have not had experience, and so I have thought that the next most gratifying thing I could do would be to give somebody else's Sunday School a lift. I used to go to Sunday School myself, a long time ago, and it is on that account that I have always taken a powerful interest in such institutions since. I even rose to be a teacher in one once, but they discharged me because they said the information I imparted was of too general a character. I have done some good in my time though. When I was elected to the Chief Magistry of the Burlesque Government of the territory of Nevada, I delivered my annual message to the Legislature for the benefit of a church, and charged double admission. The proceeds enabled them to put a new roof on that church, and everybody said that that roof would cave in, some time or other, and mash the congregation, because I was one of those sinful newspaper men, but it never did. Ever since that I have been ambitious to put a roof on a Sunday School and see if it could stand it, and now I got a chance. I feel a little proud about it, and I wish you would mention in your paper that I am going to lecture for the benefit of a Sunday School, so that they will see it in California, because, you know, if I were merely to say it myself, without any endorsement, they would copper it. (That is a Californian poetical simile; when they don't believe a statement there, they say copper it.) I want this Sunday School experiment of mine to be a success, now that I have got this opening, and so I offer the following splendid prizes to encourage an interest among the public. (One has got to turn everything into a lottery now-a-days, to make it popular. However, there is no harm in it maybe, because even the church festivals have their little lottery arrangements, you know.) For the best conundrum, first prize, a beautiful elephant. N.B. He is a little cadaverous, now, but a few tons of hay and confectionery would soon feed him up to a condition of symmetry and vivacity that would render him a favorite at the fireside, and the pet of the household. It is far better to have an elephant around than a cat, because cats sleep on the bed, but an elephant never. For the best poem on Summer or Summer Complaint (option with the author), the second prize, consisting of eighteen hundred Auger Holes, will be awarded. These auger holes are really magnificent specimens of the carpenter's beautiful art, and have elicited the wildest burst of admiration wherever they have been exhibited, both in America and among the crowned heads of Europe. QueenVictoria observed of them that she only wanted to see these auger holes once more and then die. Competitors for this prize may crawl around and look through them free of charge, if they desire it. They will be found to possess as many virtues as any auger holes. For the most splendid essay on Female Suffrage the Third prize, consisting of that splendid piece of property known as Lafayette Park, is offered. This beautiful park lies out toward Compton Hill, and is tastefully laid out in walks, and bridges, and holes in the ground, and piles of dirt, and has neat legible signs to tell you where the grass is when there is any there. The iron fence around it is a gem in itself. Few people can contemplate it without emotion, and nobody can climb it without stilts. Lafayette Park would cut up handsomely for city lots, and bring enormous prices. The winner of the Third prize will be awarded it. The diversion he will experience in trying to get possession of the property, must be a fortune in itself, and will afford him the liveliest entertainment as long as he lives. How's that? N.B. This moral lecture on the Sandwich Islands, which I am going to deliver, is a separate institution all by itself, and is not connected with any other circus. MARK TWAIN</field>
+   </doc>
+</add>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Arthur Waley</field>
+      <field name="author_facet">Arthur Waley</field>
+      <field name="author_sort_facet">arthur waley</field>
+      <field name="author_text">Arthur Waley</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1920's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/WalKage.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">1922</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476453</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Kagekiyo</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">Kagekiyo</field>
+      <field name="title_facet">kagekiyo</field>
+      <field name="title_sort_facet">kagekiyo</field>
+      <field name="title_text">Kagekiyo</field>
+      <field name="year_display">1922</field>
+      <field name="year_facet">1922</field>
+      <field name="year_multisort_i">1922</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476453&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476453&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Arthur Waley&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;arthur waley&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Kagekiyo&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;kagekiyo&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1922&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1922&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Arthur Waley&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Kagekiyo&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;1st Edition&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Alfred A. Knopf&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1922&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="callNo"&gt;Print copy consulted: UVa Library call number PL 782 .E5W3 1922&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;rj&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;pp. 89-99&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Kagekiyo&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1997&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1997 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 25 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Footnotes in the print source have been moved to the end of the</field>
+      <field name="desc_meta_file_display">electronic document and numbered consecutively. For descriptive</field>
+      <field name="desc_meta_file_display">purposes, words and phrases preceding footnote markers in the print</field>
+      <field name="desc_meta_file_display">source have been added to notes at the end of the electronic document.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">KAGEKIYO By SEAMI PERSONS A Girl (Kagekiyo's daughter). Her Attendant Kagekiyo the Passionate. A Villager. Chorus. Girl and Attendant Late dewdrops are our lives that only wait Till the wind blows, the wind of morning blows. Girl I am Hitomaru. I live in the valley of Kamegaye. My father Kagekiyo the Passionate fought for the House of Hei [1] and for this was hated by the Genji. [2] I am told they have banished him to Miyazaki in the country of Hy?ga, and there in changed estate he passes the months and years. I must not be downcast at the toil of the journey; [3] for hardship is the lot of all that travel on unfamiliar roads, and I must bear it for my father's sake. Girl and Attendant Oh double-wet our sleeves With the tears of troubled dreaming and the dews That wet our grassy bed. We leave Sagami; who shall point the way To To?t?mi, far off not only in name? [4] Over the sea we row: And now the eight-fold Spider Bridge we cross To Mikawa. How long, O City of the Clouds, [5] Shall we, inured to travel, see you in our dreams? Attendant We have journeyed so fast that I think we must already have come to Miyazaki in the country of Hyu?ga. It is here you should ask for your father. The voice of Kagekiyo is heard from within his hat. Kagekiyo Behind this gate, This pine-wood barricade shut in alone I waste the hours and days; By me not numbered, since my eyes no longer See the clear light of heaven, but in darkness, Unending darkness, profitlessly sleep In this low room. For garment given but one coat to cover From winter winds or summer's fire This ruin, this anatomy! Chorus speaking for Kagekiyo. Oh better had I left the world, to wear The black-stained sleeve. Who will now pity me, whose withered frame Even to myself is hateful? Or who shall make a care to search for me And carry consolation to my woes? Girl How strange! That hut is so old, I cannot think that any one can live there. Yet I heard a voice speaking within. Perhaps some beggar lodges there; I will not go nearer. She steps back. Kagekiyo Though my eyes see not autumn Yet has the wind brought tiding Girl Of one who wanders By ways unknown bewildered, Finding rest nowhere — Kagekiyo For in the Three Worlds of Being Nowhere is rest, [6] but only In the Void Eternal. None is, and none can answer Where to thy asking. Attendant going up to Kagekiyo's hut. I have come to your cottage to ask you something. Kagekiyo What is it you want? Attendant Can you tell me where the exile lives? Kagekiyo The exile? What exile do you mean? Tell me his name. Attendant We are loking for Kagekiyo the Passionate who fought for the Taira. Kagekiyo I have heard of him indeed. But I am blind, and have not seen him. I have heard such sad tales of his plight that I needs must pity him. Go further; ask elsewhere. Attendant to Girl, who has been waiting. It does not seem that we shall find him here. Let us go further and ask again. They pass on. Kagekiyo Who can it be that is asking for me? What if it should be the child of this blind man? For long ago when I was at Atsuta in Owari I courted a woman and had a child by her. But since the child was a girl, I thought I would get no good of her and left her with the head-man of the valley of Kamegaye. But she was not content to stay with her foster-parents and has come all this way to meet her true father. Chorus To hear a voice, To hear and not to see! Oh pity of blind eyes! I have let her pass by; I have not told my name; But it was love that bound me, Love's rope that held me. Attendant calling into the side-bridge. Hie! Is there any villager about? Villager raising the curtain that divides the side-bridge from the stage. What do you want with me? Attendant Do you know where the exile lives? Villager The exile? What exile is it you are asking for? Attendant One called Kagekiyo the Passionate who fought for the Taira. Villager Did you not see some one in a thatched hut under the hillside as you came along? Attendant Why, we saw a blind beggar in a thatched hut. Villager That blind beggar is your man. He is Kagekiyo. The Girl starts and trembles. But why does your lady tremble when I tell you that he is Kagekiyo? What is amiss with her? Attendant No wonder that you ask. I will tell you at once; this lady is Kagekiyo's daughter. She has borne the toil of this journey because she longed to meet her father face to face. Please take her to him. Villager She is Kagekiyo's daughter? How strange, how strange! But, lady, calm yourself and listen. Kagekiyo went blind in both his eyes, and finding himself helpless, shaved his head and called himself the beggar of Hyu?ga. He begs a little from travellers; and we villagers are sorry for him and see to it that he does not starve. Perhaps he would not tell you his name because he was ashamed of what he has become. But if you will come with me I will shout "Kagekiyo" at him. He will surely answer to his own name. Then you shall go to him and talk of what you will, old times or now. Please come this way. They go towards the hut. Hie, Kagekiyo, Kagekiyo! Are you there, Kagekiyo the Passionate? Kagekiyo stopping his ears with his hands, irritably. Noise, noise! Silence! I was vexed already. For a while ago there came travellers from my home! Do you think I let them stay? No, no. I could not show them my loathsomeness. . . . It was hard to let them go, — not tell them my name! A thousand rivers of tears soften my sleeve! A thousand, thousand things I do in dream And wake to idleness! Oh I am resolved To be in the world as one who is not in the world. Let them shout "Kagekiyo, Kagekiyo": Need beggars answer? Moreover, in this land I have a name. Chorus "In Hyu?ga sunward-facing A fit name found I. Oh call me not by the name Of old days that have dropped Like the bow from a stricken hand! For I whom passion Had left for ever At the sound of that wrathful name Am angry, angry." While the Chorus speaks his thought Kagekiyo mimes their words, waving his stick and finally beating it against his thigh in a crescendo of rage. Kagekiyo suddenly lowering his voice, gently. But while I dwell here Chorus "But while I dwell here To those that tend me Should I grow hateful Then were I truly A blind man staffless. Oh forgive Profitless anger, tongue untended, A cripple's spleen." Kagekiyo For though my eyes be darkened Chorus "Though my eyes be darkened Yet, no word spoken, Men's thoughts I see. Listen now to the wind In the woods upon the hill: Snow is coming, snow! Oh bitterness to wake From dreams of flowers unseen! And on the shore, Listen, the waves are lapping Over rough stones to the cliff. The evening tide is in. Kagekiyo fumbles for his staff and rises, coming just outside the hut. The mention of "waves," "shore," "tide," has reminded him of the great shore-battle at Yashima in which the Tairas triumphed. "I was one of them, of those Tairas. If you will listen, I will tell you the tale. . ." Kagekiyo to the Villager. There was a weight on my mind when I spoke to you so harshly. Pray forgive me. Villager No, no! you are always so! I do not heed you. But tell me, did not some one come before, asking for Kagekiyo? Kagekiyo No, — you are the only one who has asked. Villager It is not true. Some one came here saying that she was Kagekiyo's daughter. Why did you not tell her? I was sorry for her and have brought her back with me. To the Girl. Come now, speak with your father. Girl going to Kagekiyo's side and touching his sleeve. It is I who have come to you. I have come all the long way, Through rain, wind, frost and dew. And now — you have not understood; it was all for nothing. Am I not worth your love? Oh cruel, cruel! She weeps. Kagekiyo All that till now I thought to have concealed Is known; where can I hide, I that have no more refuge than the dew That finds no leaf to lie on? Should you, oh flower delicately tended, Call me your father, then would the World know you A beggar's daughter. Oh think not ill of me That I did let you pass! He gropes falteringly with his right hand and touches her sleeve. Chorus Oh sad, sad! He that of old gave welcome To casual strangers and would raise an angry voice If any passed his door, Now from his own child gladly Would hide his wretchedness. He that once Among all that in the warships of Taira Shoulder to shoulder, knee locked with knee, Dwelt crowded — Even Kagekiyo keen As the clear moonlight — Was ever called on to captain The Royal Pinnace. And though among his men Many were brave and many of wise counsel, Yet was he even as the helm of the boat. And of the many who served him None cavilled, disputed. But now He that of all was envied Is like Kirin [7] grown old, By every jade outrun. Villager seeing the Girl standing sadly apart. Poor child, come back again. She comes back to her father's side. Listen, Kagekiyo, there is something your daughter wants of you. Kagekiyo What is it she wants? Villager She tells me that she longs to hear the story of your high deeds at Yashima. Could you not tell us the tale? Kagekiyo That is a strange thing for a girl to ask. Yet since kind love brought her this long, long way to visit me, I cannot but tell her the tale. Promise me that when it is finished you will send her back again to her home. Villager I will. So soon as your tale is finished, I will send her home. Kagekiyo It was in the third year of Juyei, [8] At the close of the third month. We of Heike were in our ships, The men of Genji on shore. Two armies spread along the coast Eager to bid in battle For final mastery. Then said Noritsune, Lord of Noto, "Last year at Muro Hill in the land of Harima, At Water Island, even at Jackdaw Pass, We were beaten again and again; outwitted By Yoshitsune's strategy. Oh that some plan might be found, some counsel given For the slaying of Kur?." [9] So spoke he. Then thought Kagekiyo in his heart, "Though he be called 'Judge,' Yet is he no god or demon, this Yoshitsune. An easy task! Oh easy for one that loves not His own life chiefly! So he took leave of Noritsune And landed upon the beach. The soldiers of Genji "Death to him, death to him!" cried As they swept towards him. Chorus And when he saw them, "What great to-do!" he cried, then waving His sword in the evening sunlight He fell upon them swiftly. They fled before his sword-point, They could not withstand him, those soldiers; This way, that way, they scuttled wildly, and he cried, "They shall not escape me!" Kagekiyo breaking in excitedly. Cowards, cowards all of you! Chorus Cowards, all of you! Sight shameful alike for Gen and Hei. Then, thinking that to stop one man Could not but be easy, Sword under arm, "I am Kagekiyo," he cried, "Kagekiyo the Passionate, a captain of the soldiers of Hei." And swiftly pursued, with naked hand to grasp The helm that Mionoya wore. He clutched at the neck-piece, Twice and again he clutched, but it slipped from him, slid through his fingers. Then crying "He shall not escape me, this foe I have chosen," Swooped like a bird, seized upon the helmet, "Eya, eya," he cried, tugging, Till "Crack" — the neck-piece tore from the helm and was left in his hand, While the master of it, suddenly free, ran till he was come A good way off, then turning, "O mighty Kagekiyo, how terrible the strength of your arm!" And the other called back to him, "Nay, say rather 'How strong the shaft Of Mionoya's neck!'" So laughed they across the battle, And went off each his way. Kagekiyo, who has been miming the battle, breaks off abruptly and turns to the Villager. The Chorus speaks for him. Chorus "I am old: I have forgotten — things unforgettable! My thoughts are tangled: I am ashamed. But little longer shall this world, This sorrowful world torment me. The end is near: go to your home; Pray for my soul departed, child, candle to my darkness, Bridge to salvation! He rises to his feet groping with his stick, comes to the Girl, and gently pushes her before him towards the wing. "I stay," he said; and she "I go." The sound of this word Was all he kept of her, Nor passed between them Remembrance other.</field>
+      <field name="fulltext">Footnotes [1: the House of Hei] The Tairas. [2: the Genji] The Minamotos, who came into power at the end of the twelfth century. [3: I must not be downcast at the toil of the journey] The journey to look for her father. [4: T?t?mi] T?t?mi is written with characters meaning "distant estuary." The whole passage is full of double-meanings which cannot be rendered. [5: City of Clouds] The Capital. [6: For in the Three Worlds of Being / Nowhere is rest"] Quotation from the Parable Chapter of the Hokkeky?. [7: Kirin] A Chinese Pegasus. The proverb says, "Even Kirin, when he was old, was outstripped by hacks." Seami quotes this proverb, Works, p. 9. [8: It was in the third year of Juyei. . .] "Le vieux guerrier avengle, assis devant sa cabane d'exilé, mime son dernier combat de gestes incertains et tremblants" (Péri). [9: Kur?] Yoshitsune.</field>
+   </doc>
+</add>

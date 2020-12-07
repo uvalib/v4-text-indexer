@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1950's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2006_10/uvaGenText/tei/bov_19511109.xml</field>
+      <field name="date_indexed_facet">201909240346</field>
+      <field name="date_text">November 9, 1951</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:350729</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. November 9, 1951</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  November 9, 1951</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  November 9, 1951</field>
+      <field name="year_display">November 9, 1951</field>
+      <field name="year_facet">1951-11-09</field>
+      <field name="year_multisort_i">1951</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:350729&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:350729&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. November 9, 1951&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;November 9, 1951&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1951-11-09&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;November 9, 1951&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Official minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;3 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1951-11-09&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 18 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">9 November 1951 The regular monthly meeting of the Board of Visitors of The Rector and Visitors of the University of Virginia was held on this date in the Office of the President of Mary Washington College, Fredericksburg, Virginia, with the following present: The Rector, Barron F. Black, President Colgate W. Darden, Jr., of the University of Virginia, Dr. M. L. Combs, President of Mary Washington College, Visitors Barksdale, Garnett, Gay, Gravatt, Mears, Smith, Talbott, Wailes and Willis. Absent: Visitors Anderson, Carrington, Emmett and Howard The minutes of the meeting of October 12, 1951, which had been copied and mailed to the members, were approved. DEATH OF DR. NORTON Dr. Daniel S. Norton, Associate Professor of English, who had been a member of the faculty of the University since 1940, died October 26, 1951. PROMOTIONS The following promotion was approved. Dr. Preston B. Lowrance, Instructor in Medicine, promoted to Assistant Professor of Internal Medicine as of September 1, 1951. Dr. Lowrance is a Scholar in Medical Science supported by The John and Mary R. Markle Foundation. ELECTIONS The following elections were approved Mr. Roderick Diarmid Maclennan as Visiting Professor of Philosophy for the second semester of the session of 1951-52, at a salary of $3,750. Dr. Walter Scott Gilmer as Instructor in Pathology, effective November 1, 1951, at a session salary of $3,600. This is a replacement for Dr. Eversole who has resigned. BUILDING PROGRAM Naval Armory The President requested approval of the Board for the construction of the Naval Armory, stating that there was a Legislative appropriation for this building, which had been supplemented by the Governor. The President pointed out that it was essential that this building be completed to provide facilities for instruction. Upon the recommendation of the architects, Taylor and Fisher, the bid of John W. Daniel and Company, Incorporated, in the amount of $106,442 was accepted as the lowest and best bid. Medical Center The matter of the adoption of the proposal for the execution of plans for the Addition to the Medical School and a Cancer Laboratory, with approximate cost, having been presented at the June, 1950 meeting of the Board by the President, and tentative approval having been secured at that time, the following resolution was adopted. BE IT RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that the action of the President in awarding contracts for the Addition to the Medical School and for the Cancer Laboratory, as set forth below, be and is hereby approved: Medical School Addition (Eggers and Higgins, Architects) Wise Contracting Co., Inc. Construction Work $510,691 W. A. Christian Electrical Work 48,742 S. H. Guza Plumbing and Heating 103,733 Salem Foundry and Machine Works, Inc. Elevator 15,940 N. W. Martin and Bros., Inc. Air Conditioning 4,200 Cancer Research Building (Baskervill and Son, Architects) Laburnum Construction Corp. Construction Work $110,342 Godwin-Holstead Electric Co. Electrical Work 13,654 C. P. Martin Plumbing and Heating 51,232 Hospital Accommodations for Negro Patients The President reported that plans were under way for a new wing to the Hospital which would join the present Barringer and Davis buildings and reduce the crowding in the Hospital, thus releasing excellent facilities in the Hospital which will be made available for Negro patients. HUGH E. VINCENT ESTATE The President reported that he had investigated the matter with the University attorney to insure that the University's interest in the corpus of this estate would be properly protected. He reported that the investments of the estate were to be handled by the Trust Committee of the Whitney National Bank of New Orleans. The President stated that he had a letter from Mr. Perkins concerning representation of the University in New Orleans by counsel. He was requested to confer with Mr. Perkins concerning the selection of counsel. CARNEGIE ENDOWMENT FOR INTERNATIONAL PEACE CONFERENCE The President reported that the Carnegie Endowment for International Peace had scheduled a conference at the University, November 18-20, of representatives of the leading colleges in Virginia and adjoining states and asked that a delegate from the Board be appointed The Rector was asked to appoint a delegate. STRINGFELLOW BARR The Rector reported that he had written Mr. Wright concerning Mr. Barr, in accordance with the instructions of the Board. Professor Wright replied that he did not wish to make any charges against Professor Barr at this time. However, he asked permission of the Board to appear before it, should the Board consider giving Mr. Barr a permanent appointment to the faculty of the University. The President was asked to secure for the Board an outline of the courses taught by Professor Barr STORM SEWER AT SITE OF REFLECTION POOL The President asked permission of the Board to install a storm sewer where the Reflection Pool is now located adjacent to the Gymnasium. The last State Legislature appropriated $50,000 conditionally for this project. Whereupon a resolution was adopted authorizing the President to proceed with this work if the Governor releases the funds. RICHMOND PROFESSIONAL INSTITUTE The President reported that Admiral Chandler, now President of William and Mary, and Mr. Duke, the Bursar, had discussed with him the status of R.P.I. President Chandler stated that William and Mary desired to continue the operation of R.P.I. and would attempt to improve the academic standing. MCINTIRE SCHOOL OF BUSINESS ADMINISTRATION The President pointed out that the McIntire School of Business Administration was under the same chairmanship as the James Wilson School of Economics, and stated that there was considerable friction between the faculties of the two schools as to the type of training that should be offered. The President stated that he believed two steps were necessary to correct the difficulties: (1) to separate the schools and appoint a chairman of the McIntire School of Business Administration; and (2) at a later date, if funds were secured for a graduate school of business administration, then to establish a separate professional department in the University to offer training at both the graduate and undergraduate level in business administration. INSTRUCTION IN THE COLLEGE OF ARTS AND SCIENCES The President reported that the Lower Division Committee was doing a superb job in reshaping the quality of the teaching in the College. ATHLETICS The President read a letter from Mr. Joe Noertker, a basketball star who graduated in 1950, concerning the athletic situation at the University. The Rector then read a letter from Mr. James G. McManaway, President of the Washington, D. C. chapter of Virginia alumni, endorsing the present athletic policy of the University and repudiating the Gooch report. Mr. Black proposed that he answer the letter in a sympathetic manner, enclosing a copy of the statement the President had made concerning this issue and pointing out that the Board does not wish to make any further statement at this time until the matter is acted upon by the University Senate and submitted to the Board for action Mr. Talbott expressed concern over the resolution of the faculty adopting the report of the Gooch Committee, which implies that faculty authority is paramount in this matter without any voice by the Board. Mr. Black said that he did not believe this to be the intent of the resolution The President stated that he believed the faculty felt they were the proper body to exercise control over athletics and did not question the ultimate authority of the Board of Visitors in this matter. The President asked authority of the Board to suggest to the University Senate that a committee of the Board had been studying this matter for a year and a half and that the Senate work with this Committee of the Board in a solution to the athletic problem RICHEY REPORT Mr. Black presented the revised report of the Committee to record the Board's reasons for action taken with respect to the petition of Professor Homer Richey. It was the sense of the Board that the report should be mimeographed and distributed to the members prior to the December meeting. USE OF RUCKER FUNDS FOR PSYCHIATRY CLINIC The Board authorized the use of money, as necessary, from the Rucker Fund for remodeling the former quarters of the University Press for a psychiatry clinic. The President stated that the expenditure would be kept to a minimum. MARY WASHINGTON COLLEGE MATTERS Dr. Combs, Dean Alvey and Mr. Edgar E. Woodward, Bursar of Mary Washington, were present for discussion of these matters. MUSIC SUMMER SCHOOL President Combs presented a proposal for the institution of a special school of music during the summer session of 1952. It was estimated that the cost of this program would be approximately $10,000, the major portion of which would be paid in to the college in the form of fees and other charges. President Combs stated that the matter had been carefully studied and it was believed that in two or three years such a project could become self-supporting. The Mary Washington Committee recommended to the Board that Mary Washington College be authorized to conduct a music summer school on an experimental basis during the summer of 1952. This recommendation was approved by the Board. LIBRARY REPORT President Combs presented to the Board copies of the report which Mr. Quenzel had submitted on the operation of the E. Lee Trinkle Library for the year 1950-51. REPORT ON STUDENT FIELDS OF INTEREST A report on fields in which Mary Washington students intend to specialize, as compiled by the Registrar's Office, was distributed to members of the Board. - - - - - - On motion, the meeting was then adjourned. Barron F. Black Rector Vincent Shea Secretary</field>
+   </doc>
+</add>

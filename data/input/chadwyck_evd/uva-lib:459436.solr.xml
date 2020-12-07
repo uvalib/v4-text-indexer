@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Middleton, Thomas</field>
+      <field name="author_facet">Middleton, Thomas</field>
+      <field name="author_sort_facet">middleton thomas</field>
+      <field name="author_text">Middleton, Thomas</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.0743.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1617</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459436</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Tryumphs of Honor and Industry [by Thomas Middleton</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 17th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 17th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Tryumphs of Honor and Industry [by Thomas Middleton</field>
+      <field name="title_facet">tryumphs of honor and industry by thomas middleton</field>
+      <field name="title_sort_facet">tryumphs of honor and industry by thomas middleton</field>
+      <field name="title_text">The Tryumphs of Honor and Industry [by Thomas Middleton</field>
+      <field name="year_display">1617</field>
+      <field name="year_facet">1617</field>
+      <field name="year_multisort_i">1617</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459436&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459436&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Middleton, Thomas&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;middleton thomas&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Tryumphs of Honor and Industry [by Thomas Middleton&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;tryumphs of honor and industry by thomas middleton&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1617&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1617&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Middleton, Thomas&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Tryumphs of Honor and Industry [by Thomas Middleton]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed by Nicholas Okes&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1617&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3871543-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv10743&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 17th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;17th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Tryumphs of Honor and Industry [by Thomas Middleton]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 26 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The tryumphs of honor and industry.</field>
+      <field name="desc_meta_file_display">Genre: Entertainment.</field>
+      <field name="desc_meta_file_display">Date first published: 1617.</field>
+      <field name="desc_meta_file_display">Date first performed: 29 Oct 1617.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">The Tryumphs of Honor and Industry. A Solemnity performed through the City, at Confirmation and establishment of the Right Honorable, George Bovvles In the Office of his Maiesties Lieuetenant, the Lord Mayor of the famous Citty of London.</field>
+      <field name="fulltext">To the Worthy Deseruer of all the Costs and Triumphs, which the Noble Society of Grocers in bounteous measure bestow on him, the Right Honourable, George Bovvles, Lord Mayor of the famous City of London.</field>
+      <field name="fulltext">It hath beene twice my fortune in short time to haue imploiment for this Noble Societye, where I haue alwayes mette with men of much vnderstanding, and no lesse bounty, to whom cost appeares but as a shadow, so there be fulnesse of content in the performance of the solemnity, which that the world may iudge of, for whose pleasure &amp; satisfaction, custome hath yeerly framde it, (but chiefly for the honor of the City) it begins to present it selfe, not without forme and order, which is required in the meanest emploiment.</field>
+      <field name="fulltext">The first Inuention. A company of Indians, attired according to the true Nature of their Country, seeming for the most part naked, are set at worke in an Iland of growing spices, some planting Nutmeg Trees, some other spice trees, of all kinds, some gathering the fruits, some making vp bags of Pepper, euery one seuerally imploide; These Indians are al actiue youths, who ceasing in their labours, dance about the trees, both to giue content to themselues and the spectators. After this shew of dauncing Indians in the Iland, followes triumphantly a rich personage, presenting India, (the Seate of Merchandise) this India sits on the top of an Illustrious Chariot, on the one side of her sits trafficke or merchandize, on the other side, Industry, both fitted and adorned according to the property of their natures, Industry holding a golden Ball in her hand vpon which st?ds a Cupid, signifying that Industry gets both wealth and loue, and with her associate Trafficke or Merchandize, who holds a Globe in her hand, knits loue and peace amongst all Nations, to the better expressing of which, if you giue attention to Industry, that now sets forward to speake, it will be yours more exactly. The speech of Industry in the Chariot. I was iealous of the shadowing of my grace, But that I know this is my time and place; Where ha's not Industry a noble friend, In this Assembly, euen the best extend Their grace and loue to me, (ioyde or amazde) Who, of true Fame possest but I haue raysde, And after added Honors to his dayes, For Industry is the life-bloud of praise, To rise without mee, is to steale to glory, And who so abiect to leaue such a story, It is as cleere as Light, as bright as truth, Fame waytes their age, whom Industry their youth. Behold this Ball of Gold, upon which stands A golden Cupid wrought with curious hands, The mighty power of Industry it showes, That gets both wealth, and loue, which ouerflows With such a streame of Amity an a peace, (Not onely to it selfe adding increase) But seuerall nations where commerce abounds Taste the harmonious peace, so sweetly sounds, For instance, let your gracious eye be fixt, Vpon a Ioye, true, though so strangely mixt. And that you may take the better note of their adornments, India whose seate is the most eminent, for her expression, holdes in her hand a wedge of golde, trafficke her associate, a Globe, Industry a faire golden Ball in her hand, vpon which stands a gold? Cupid, Fortune exprest with a siluer wheele, Successe holding a painted Ship in a Hauen, wealth a golden key where her heart lyes, Vertue bearing for her manifestation, a siluer shield, Grace holding in her hand a booke, Perfection, a crowne of gold. At which words the Pageant of seuerall Nations, which is purposely planted neer the sound of the words, mooues with a kind of affectionate ioy, both at the honor of the dayes triumph, and the prosperity of Loue, which by the vertue of Traffick, is likely euer to continue, and for a good Omen of the Euerlasting continuance of it, on the top of this curious and triumphant Pageant, shoots vp a Laurell tree the leaues spotted with gold, about which sit six celestial figures, presenting Peace, Prosperity, Loue, Vnity, Plenty, &amp; Fidelity, Peace holding a branch of Palme, Prosperity a Laurell, Loue, two ioynd hands, Vnity two Turtles, Plenty holding fruits, Fidelity a siluer anchor. But before I entred so far I should haue showde you the zeale and loue of the Frenchman and Spaniard, which now I hope will not appeare vnseasonably, who not content with a silent ioy like the rest of the Nations, haue a thirst to vtter their gladnesse, though vnderstood of a small number, which is this. The short speech deliuered by the Frenchman in French. La multitude m'ayant monte sur ce haut lieu, pour contempler le glorieux triumphe de ceste Iournee, Ie voy quen quelque sorte la noble dignite de la treshonorable societe des Grociers yest representee, dont mesiouissant par dessus tous, le leur souhaite &amp; a Monsegneur le Mayre le Comble de touttes nobles &amp; heureuses fortunes. The same in English. It is my ioy chiefly, (and I stand for thousands) to see the glory of this triumphant day, which in some measure requites the noble worthinesse of the Honourable Society of Grocers, to whom and to my Lord Mayor I wish all good successes. This Frenchman no sooner sets a period to his speech, but the Spanyard in zeale as vertuous as he, vtters himselfe to the purpose of these words. The Spanyards speech in Spanish. Ningunas de todas estas naciones conciben maior y ver dadera alegria en este triumphante y glorioso dia que yo, no, minguna de todas ellas, porque agora que me parece que son tan ricas, es senal que los de my naciòn en tratando con ellas receberan, mayor prouecho dellas, Al my senior Don Maior todas buenas y dichosas fortunas, Y a los de la honrada Compania de Especieros dichosos dessi eos, Y assi dios guarde a my senior Don Maior, y rogo à dios que todo el anno siguiente, puede ser tan dichoso, como esta entrada suya, a la digmday de lu seniora, Guarde dios a su sennoria. The same in English. None of all these Nations, conceiue more true ioy at this triumphant day, then my self, to my Lord Mayor all faire and noble fortunes, and to the worthy Society of Grocers, all happy wishes, and I pray heauen, that all the yeere following may be as happy and successefull, as this first entrance to your dignity. This expression of their ioy and loue hauing spent it selfe, I know you cannot part contented, without their seuerall inscriptions; now the fauour and helpe must be in you, to conceiue our breadth and limits, and not to thinke we can in these customary bounds comprehend all the nations, but so many as shall serue to giue content to the vnderstander, which thus produce themselues. An Englishman. A Frenchman. An Irishman. A Spanyard. A Turke. A lew. A Dane. A Polander. A Barbarian. A Ruscian or Moscouian. This fully exprest, I arriue now at that part of Tryumph, which my Desire euer hastned to come to, this Castle of Fame or Honor, which Industry brings her Sonnes vnto in their Reuerend Ages. In the front of this Castle, Reward and Industry deckt in bright Robes, keepe a Seate betweene them for him to whom the Dayes honour is dedicated, shewing how many worthy Sonnes of the Citty, and of the same Society, haue by their Truth, Desert and Industry come to the like honour before him, where on a sudden is shewne diuerse of the same Right Worshipfull Society of Grocers, manifested both by their good gouernment in their Times, as also by their Escuchions of Armes, as an example and encouragement to all Vertuous and Industrious deseruers in time to come: And in honour of Antiquity is shewne that Antient and Memorable Worthy of the Grocers Company, Andrew Bockrill, who was Maior of London the sixteenth yeare of Henry the third, 1231. and continued so Mayor seuen yeares together. Likewise for the greater honour of the Company, is also shewne in this Castle of Fame, the Noble Allen de la Zouch, Grocer, who was Maior of London the two and fiftieth yeare of the same Henry the third, which Allen de la Zouch, for his good Gouernement in the Time of his Maioralty, was by the sayd King Henry the third, made both a Baron of this Realme, and Lord Chiefe Iustice of England: Also that Famous Worthy, Sir Thomas Knoles, Grocer, twice Maior of this Honorable Citty, which Sir Thomas begunne at his owne charge that famous building of Guild-hall in London, and other Memorable workes, both in this Citty, and in his owne Company, so much Worthinesse being the Lustre of this Castle, and ought indeed to be the Imitation of the Beholder. My Lord no sooner approaches, but Reward a Partner with Iustice in keeping that Seate of Honor, as ouer-ioyde at the sight of him, appeares too free and forward in the Resignation. Reward. VVelcome to Fames bright Castle, take thy place, This seate's reserud to doe thy vertues grace. Iustice. True, but not yet to be possest, heare me, Iustice must flow through him, before that bee, Great works of Grace must be requird and done, Before the honor of this seate be won. A whole yeeres reuerend care in righting wrongs, And guarding Innocence from malicious tongues. Must be imployde in Vertues sacred right, Before this place be fild; tis no meane fight, That wins this Palme, truth, and a vertuous care, Of the oppressed, those the Loadstones are, That will gainst Enuies power drawe him forth, To take this merit in this seat of worth: Where all the memorable worthies shine, In works of brightnesse, able to refine, All the beholders minds, and strike new fire, To kindle an industrious desire, To imitate their actions, and their Fame, Which to this Castle addes that glorious Name. Wherefore Reward, free as the Ayre or Light, There must be Merit, or our work's not right. Reward. If there were any error twas my loue, And if it be a fault to be too free, Reward commits but once such heresie. How ere, I know your worth will so extend, Your fame will fill this seat at twelue months end. About this Castle of Fame are plast many honorable figures, as Truth, Antiquity, Harmony, Fame, Desert, Goodworks, on the top of the castle, Honour, Religion, Piety, Commiseration; the workes of those whose memories shine in this Castle. If you looke vpon Truth first, you shall finde her properly exprest, holding in her right hand a Sunne, in the other a Fanne of Stars, Antiquity with a scrowle in her hand, as keeper of Honors Records; Harmony holding a golden Lute, and Fame not without her siluer trumpet, for desert tis glorious through her owne brightnesse, but holdes nothing; good works exprest with a Colledge or Hospitall. On the toppe of the Castle, Honor manifested by a faire Starre in his hand, Religion with a Temple on het head, Piety with an Altar, Commiseration with a melting or burning Heart. And not to haue our speakers forgotten, (Reward and Iustice) with whom wee entred this part of Triumph, Rewarde holding a wreath of gold, ready for a deseruer; and Iustice furnisht with her Sword and ballance. All this seruice is performed before the Feast, some in Pauls Church-yard, some in Cheap-side, at which place the whole Triumphe meets, both Castle and Iland, that gaue delight vpon the water, And now (as duety binds me) I commend my Lord and his right honorable Guesse to the solemne pleasure of the feast, from whence I presume all Epicurisme is banisht; for where Honor is master of the feast, Moderation and Grauity are alwayes attendants. The feast being ended at Guild-hall, my Lord (as yeerly custome inuites him) goes accompanied with the triumphe towards S. Pauls, to performe the noble and reuerend ceremonies which diuine Antiquity vertuously ordained, and is no lesse then faithfully obserude, which is no meane lustre to the City, Holy seruice and ceremonies accomplisht, he returnes by torch-light to his owne house, the whole triumphe plac't in comely order before him, and at the entrance of his gate, Honor a glorious person, from the top of the Castle giues life to these following words. The speech of Honor from the top of the Castle, at the entrance of my Lord Mayors Gate. Honor. There is no humane glory or renowne, But haue their euening &amp; their sure sun-setting, Which shews that we should vpward seeke our Crown And make but vse of time for our hopes bettering, So to be truely mindfull of our owne, Is to performe all parts of good in one; The close of this triumphant day is come, And Honor stayes to bid you welcome home, All I desire for my Grace and good, Is but to be remembred in your bloud, With Honor to accomplish the faire time, Which power hath put into your hands; A crime As great as euer came into sins band, I doo entitle a too sparing hand, Nothing deads Honor more, then to behold Plenty coopt vp; and Bounty faint and cold; Which ought to be the free life of the yeere, For bounty twas ordaynd, to make that cleere Which is the light of goodnesse and of Fame, And puts by Honor from the cloude of shame. Great cost and loue hath nobly bin bestowd, Vpon thy triumph, (which this day hath showd: Embrace 'em in thy heart, till times afford Fuller expression; in one absolute word, All the content that euer made man blest, This triumph done, make a triumphant brest. No sooner the speech is ended, but the triumph is dissolud, and not possible to scape the hands of the defacer, things that for their quaintnesse (I dare so farre commend them) haue not beene vsually seen throgh the City; the credit of which workm?ship I must iustly lay vpon the deserts of Mr. Rowland Bucket, chiefe master of the work; yet not forgetting the faithfull care and industry of my well approoued friend, Master Henry Wilde, and Master Iacob Challoner, partners in the businesse. The season cuts me off, &amp; after this dayes trouble I am as willing to take my rest. FINIS.</field>
+   </doc>
+</add>

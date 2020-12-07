@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1950's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2006_10/uvaGenText/tei/bov_19530410.xml</field>
+      <field name="date_indexed_facet">201909240346</field>
+      <field name="date_text">April 10, 1953</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:350747</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. April 10, 1953</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  April 10, 1953</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  April 10, 1953</field>
+      <field name="year_display">April 10, 1953</field>
+      <field name="year_facet">1953-04-10</field>
+      <field name="year_multisort_i">1953</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:350747&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:350747&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. April 10, 1953&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;April 10, 1953&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1953-04-10&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;April 10, 1953&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Official minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;4 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1953-04-10&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 22 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">10 April 1953 The regular monthly meeting of the Board of Visitors of The Rector and Visitors of the University of Virginia was held on this date in the Office of the President of the University of Virginia, Charlottesville, Virginia, with the following present: The Rector, Barron F. Black, President Colgate W. Darden, Jr., of the University of Virginia; Visitors Coxe, Gravatt, Howard, Mears, Mrs. Smith, Talbott, Wailes, and Wheeler. Absent: Dr. M. L. Combs, President Mary Washington College, Visitors Barksdale, Carrington, Emmett, Gay, and Mr. Smith The minutes of the meeting of March 13, 1953, which had been copies and mailed to the members, were approved. GIFTS The President reported receipt of the following gifts and grants From Mr. and Mrs. Prewitt Semmes, Jr., securities, the proceeds to be used for the Pediatrics Department, valued at $ 2,348.86 From the Taraknath Das Foundation, for use by the Woodrow Wilson Department of Foreign Affairs, in promotion India studies 100.00 From Parke, Davis and Company, for a fellowship in Chemistry under Dr. Alfred Burger, during the session of 1953-54 1,800.00 From Dr. W. G. Trow, for the medical library, to purchase books in the field of otolaryngology 100.00 From the Eli Lilly Company, in support of hematology research by Dr. Byrd S. Leavell 600.00 From the Callery Chemical Company, for research under Dr. Thomas Crowell of the Department of Chemistry for one year beginning January 15, 1953 5,675.00 From the Shell Development Company, for research under the direction of Dr. Alfred Chanutin of the Department of Biochemistry, for the period of April 1, 1953 through April 30, 1954 $23,731.00 From the Department of the Navy, for research under Dr. C. L. Gemmill of the Department of Pharmacology for one year beginning February 1, 1953 6,480.00 From the American Trudeau Society, for research under the direction of Dr. Quentin N. Myrvik, for one year beginning April 1, 1953 5,940.00 LEAVE OF ABSENCE The following resolution was adopted by the Board. RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that Mr. Harry Rogers Pratt, Associate Professor of Music and Drama, be and he is hereby granted leave of absence without pay for the session of 1953-54, to give full time to other interests. ELECTIONS The following resolution was adopted by the Board: RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that the following persons be and they are hereby elected to the faculty of the University. Dr. Julian Beckwith, Assistant Professor of Medicine, effective July 1, 1953. Dr. Francis H. McGovern, Clinical Instructor in Otolaryngology, without salary from the University, effective June 1, 1953. Dr. Warren Collins Gregory, Instructor in Pediatrics, as of July 1, 1953. UNCOLLECTIBEL HOSPITAL ACCOUNTS The Board adopted the following resolution RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that the Hospital Accounts Committee be and it is hereby authorized to charge off as uncollectible accounts Schedules 349, 352, and 353, aggregating $25,654.59, recommended by them for cancellation MCINTIRE JEWELRY The President reported that in the early 1920's Mr. Paul G. McIntire had given to the University Museum various pieces of jewelry which had been stored in a vault at a local bank. The director of the Museum has stated that this jewelry is not suitable for museum display but the stones might be sold. It is suggested that the money received from the sale be set up as an endowment for the museum in the name of Mr. McIntire The Board authorized the President to secure an appraisal of the jewelry and attempt to sell it at the appraised price. If it is not possible to get the appraised price then the matter should be referred back to the Board for instructions. REPORT OF ATHLETIC COMMITTEE Mr. Talbott, Chairman of the Athletic Committee, presented the following report: TENTATIVE REPORT OF ATHLETIC COMMITTEE The undersigned committee recommends that the following be stated as the policy of the University concerning grants-in-aid to students from funds supplied by the University of Virginia Alumni Association or the Virginia Student Aid Foundation. 1. The purpose of the named organizations to provide funds for the education of qualified students is recognized and considered to be desirable. 2. Funds or securities provided for such grants-in-aid shall be deposited with the Bursar of the University and, after acceptance as hereinafter provided, shall be applied by him toward payment of University fees and the reasonable cost of board, room, laundry and books incurred by students to whom award shall be made. 3. The Committee on Scholarships, Loans, and Employment will have responsibility to make all such awards upon nominations of the donors, respectively. If any nominee is rejected by the Committee, it may not make an award to another not so nominated 4. Funds deposited with the Bursar unexpended and uncommitted for grants-in-aid shall be refunded to the donor by the Bursar, on written request therefor 5. Awards shall be available only to students in good academic standing and to prospective students, but conditioned as to the latter upon their meeting established entrance requirements 6. Such grants-in-aid shall be awarded and administered in strict compliance with the rules and regulations of the National Collegiate Athletic Association 7. The Board of Visitors will, by resolution, accept funds or securities deposited with the Bursar, by the donors respectively, for disposition under the conditions here specified Respectively submitted, /s/ Frank Talbott, Jr., Chairman /s/ Whitwell W. Coxe /s/ Bm W. M Mr. Gay did not participate in the discussion nor have a chance to present his views concerning this matter, being unable to attend either the committee meeting or the Board meeting. Mr. Talbott stated that all parties concerned had approved the proposal with the exception of the Student Aid Foundation, which wished more restrictions placed on the award of the scholarships. After discussion of the matter, the Board received the report in tentative form and requested the Secretary to have the report mimeographed and distribute copies to the members of the Board of Visitors, the Director of Athletics, the President of the Alumni Association, the Chairman of the Advisory Council on Athletics, and the President of the Student Aid Foundation. The Chairman of the Athletic Committee was requested to meet with the Director of Athletics and arrange a conference with the officers of the Student Aid Foundation to attempt to reconcile their views with the report of the Athletic Committee. If unable to get their agreement, the Chairman should request suggestions which could be presented to the Board at its next meeting. LAW ALUMNI ASSOCIATION Mr. Stuart Campbell, Chairman, Mr. Thomas Michie, Mr. O'Conor Goolrick, and Mr. George Cochrane of the Law Alumni Association, appeared before the Board to request an increase in the salary scale of the Law Faculty. Mr. Campbell spoke for the Law Alumni. Specifically, they requested the following 3 Professors at $12,500 4 Professors at 10,000 1 Professor at 8,500 4 Professors at 8,000 2 Assoc. Professors at 6,000 They estimate that this will cost the University $9,700 per year if the present bonus is continued, or $14,000 per year if the bonus is discontinued. In support of their request, Mr. Campbell stated that the University Law School is classified by the American Bar Association among the top 13 schools, but that its salary scale placed it 12, as shown in the table below. The increases proposed would make us rank 8 Name of University Professors Assoc. Professors High Low High Low Columbia (Not given) Start at $8,000 Objective $15,000 for all full professors, but average is about $14,000 Duke $11,000 $ 9,100 $8,500 $7,500 Harvard 15,000 10,000 -- -- Illinois 12,900 9,000 7,900 7,900 Indiana (Bloomington) 11,750 10,500 8,500 7,000 Iowa 11,500 8,000 -- -- Michigan 15,160 10,500 12,700 10,000 Northwestern 13,000 9,750 9,000 7,500 Pennsylvania 15,000 11,700 10,000 9,200 Texas 9,600 9,600 (Distinguished Profs.) 7,900 5,900 5,700 4,800 (Professors) Wisconsin 11,150 8,000 8,000 5,750 Yale 15,00 10,000 10,000 7,500 - - - - - - - - Messrs. Michie, Goolrick, and Cochrane spoke briefly in support of Mr. Campbell's proposal. Mr. Black, on behalf of the Board, stated that the Board was in a dilemma as there was now a sizeable disparity between the salary scale in the Law and Medical Schools and the other schools of the University. He thought it would be most difficult for the President and the Board to request an increase for the Law School without a comparable increase for the other schools. He suggested that efforts be made through the recently established Law School Foundation to raise the $9,700 necessary to make this scale possible. He said he believed that enough funds could be raised to increase the scale to $15,000 Mr. Campbell stated that the Committee hoped that the State would provide the scale requested and that the Law Alumni would raise the additional amount necessary to make possible a top pay of $15,000 for the faculty The Rector thanked the members of the Law Alumni Association for appearing, whereupon, they left the meeting. After further discussion of the matter, the President was asked to meet with the Law Alumni and discuss (1) the raising of funds necessary through private gifts, and (2) the presentation to the Legislature of a request for a general increase in faculty salaries in the University MARY WASHINGTON COLLEGE MATTERS RESIGNATION Dr. Arthur L. Vogelback, Professor of English, resigned to accept the position as Dean of Ripon College, Ripon, Wisconsin. LEAVE OF ABSENCE The following resolution was adopted by the Board: RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that the request of Dr. Almont Lindsey, Professor of History, for a leave of absence for the session 1953-54 be and the same is hereby granted. PROMOTIONS The following resolution was adopted by the Board: RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that the following promotions be and they are hereby made: Dr. E. Boyd Graves, Associate Professor, to Professor of Philosophy, effective September 1953, with a salary of $5,200 for the academic year. Dr. William Wayne Griffith, Assistant Professor to Associate Professor of English, effective September 1953, at a salary of $4,200. Dr. Myrick H. Sublette, Assistant Professor to Associate Professor of Political Science, effective September 1953, at a salary of $4,200. REPORT ON DISTRIBUTION OF ACADEMIC GRADES A mimeographed report on the distribution of academic grades for the first semester of 1952-53 was distributed to members of the Board. - - - - - - - - - - On motion the meeting was then adjourned. Barron F. Black Rector Vincent Shea Secretary</field>
+      <field name="fulltext">TENTATIVE REPORT OF ATHLETIC COMMITTEE The undersigned committee recommends that the following be stated as the policy of the University concerning grants-in-aid to students from funds supplied by the University of Virginia Alumni Association or the Virginia Student Aid Foundation. 1. The purpose of the named organizations to provide funds for the education of qualified students is recognized and considered to be desirable. 2. Funds or securities provided for such grants-in-aid shall be deposited with the Bursar of the University and, after acceptance as hereinafter provided, shall be applied by him toward payment of University fees and the reasonable cost of board, room, laundry and books incurred by students to whom award shall be made. 3. The Committee on Scholarships, Loans, and Employment will have responsibility to make all such awards upon nominations of the donors, respectively. If any nominee is rejected by the Committee, it may not make an award to another not so nominated 4. Funds deposited with the Bursar unexpended and uncommitted for grants-in-aid shall be refunded to the donor by the Bursar, on written request therefor 5. Awards shall be available only to students in good academic standing and to prospective students, but conditioned as to the latter upon their meeting established entrance requirements 6. Such grants-in-aid shall be awarded and administered in strict compliance with the rules and regulations of the National Collegiate Athletic Association 7. The Board of Visitors will, by resolution, accept funds or securities deposited with the Bursar, by the donors respectively, for disposition under the conditions here specified Respectively submitted, /s/ Frank Talbott, Jr., Chairman /s/ Whitwell W. Coxe /s/ Bm W. M</field>
+   </doc>
+</add>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Austin, Alfred, 1835-1913</field>
+      <field name="author_facet">Austin, Alfred, 1835-1913</field>
+      <field name="author_sort_facet">austin alfred 1835 1913</field>
+      <field name="author_text">Austin, Alfred, 1835-1913</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1890's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_3.0054.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1897</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:466003</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Victoria ; June 20, 1837: June 20, 1897: By Alfred Austin</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">Victoria ; June 20, 1837: June 20, 1897: By Alfred Austin</field>
+      <field name="title_facet">victoria</field>
+      <field name="title_sort_facet">victoria</field>
+      <field name="title_text">Victoria ; June 20, 1837: June 20, 1897: By Alfred Austin</field>
+      <field name="year_display">1897</field>
+      <field name="year_facet">1897</field>
+      <field name="year_multisort_i">1897</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:466003&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:466003&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Austin, Alfred, 1835-1913&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;austin alfred 1835 1913&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Victoria ; June 20, 1837: June 20, 1897: By Alfred Austin&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;victoria&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1897&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1897&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Austin, Alfred&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1835&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1913&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Victoria&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;June 20, 1837: June 20, 1897: By Alfred Austin&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Macmillan and Co.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;The Macmillan Company&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1897&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp0171&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;8 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Victoria&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;June 20, 1837: June 20, 1897: By Alfred Austin&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 13 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Victoria June 20, 1837 June 20, 1897 I The lark went up, the mower whet his scythe, On golden meads kine ruminating lay, And all the world felt young again and blithe, Just as to-day. II The partridge shook her covey from her wings, And limped along the grass; on leaf and lawn Shimmered the dew, and every throat that sings Chanted the dawn. III The doe was followed by her new-dropped fawn, And, folding all her feathers on her breast, The swan within the reedmace deep withdrawn Dreamed on her nest. IV In the green wheat the poppy burst aflame, Wildrose and woodbine garlanded the glade, And, twin with maiden Summer, forth there came A summer Maid. V Her face was as the face of mid-June when Blossoms the meadowsweet, the bindweed blows: Pale as a lily first She blenched, and then Blushed like a rose. VI They placed a Crown upon her fair young brow, They put a Sceptre in her girlish hand, Saying, “Behold! You are Sovereign Lady now Of this great Land!” VII Silent She gazed, as one who doth not know The meaning of a message. When She broke The hush of awe around her, 'twas as though Her soul that spoke. VIII “With this dread summons, since 'tis Heaven's decree, I would not palter, even if I could; But, being a woman only, I can be Not great, but good. IX “I cannot don the breastplate and the helm, To my weak waist the sword I cannot gird, Nor in the discords that distract a Realm Be seen or heard. X “But in my People's wisdom will I share, And in their valour play a helpful part, Lending them still, in all they do or dare, My woman's heart. XI “And haply it may be that, by God's grace, And unarmed Love's invulnerable might, I may, though woman, lead a manly race To higher height; XII “If wise will curb disorderly desire, The Present hold the parent Past in awe, Religion hallowing with its sacred fire Freedom and Law. XIII “Never be broken, long as I shall reign, The solemn covenant 'twixt them and me, To keep this Kingdom, moated by the main, Loyal yet free.” XIV Thus with grave utterance and majestic mien She with her eighteen summers filled the Throne Where Alfred sate: a girl, withal a Queen, Aloft, alone! XV But Love that hath the power to force apart The bolts and baulk the sentinels of Kings, Came o'er the sea, and in her April heart Folded his wings. XVI Thenceforth more dear than diadem She owned A princely helpmate, sharer in her trust, If not her Sceptre:—since, withal, enthroned By Time the just. XVII Scorner of wrong, and lover of the right, Compounded all of nobleness he seemed, And was indeed the perfect gentle Knight The poet dreamed. XVIII So when the storm of wrath arose that drave Scared Rulers from their realms, Her Throne, deep laid In liberty and trust, calm shelter gave To Kings dismayed. XIX And stronger grew the bond of love and grace Betwixt Her and her People, while that She Reigned the glad Mother of a Royal race, Rulers to be. XX But Death that deepens love in darkening life Turned to a pall the purple of her Throne. Then, more than once the maid, the widowed wife Reigned all alone! XXI “Leave me awhile to linger with the dead,” Weeping, She sued. “But doubt not that I still Am nuptialled to my People, and have wed Their deathless will. XXII “Their thoughts shall be my thoughts, their aim my aim, Their free-lent loyalty my right divine; Mine will I make their triumphs, mine their fame, Their sorrows mine. XXIII “And I will be the bond to link them all In patriot purpose till my days be done, So that, in mind and might, whate'er befall, They still keep One.” XXIV Then to the winds yet wider was unfurled The Flag that tyrants never could enslave, Till its strong wisdom governed half the world, And all the wave! XXV And, panoplied alike for War or Peace, Victoria's England furroweth still the foam To harvest Empire, wiser than was Greece, Wider than Rome! XXVI Therefore with glowing hearts and proud glad tears, The children of her Island Realm to-day Recall her sixty venerable years Of virtuous sway. XXVII Now too from where Saint-Lawrence winds, adown 'Twixt forests felled and plains that feel the plough, And Ganges jewels the Imperial Crown That girds her brow; XXVIII From Afric's Cape, where loyal watchdogs bark, And Britain's Sceptre ne'er shall be withdrawn, And that young Continent that greets the dark When we the dawn; XXIX From steel-capped promontories stern and strong, And lone isles mounting guard upon the main, Hither her subjects wend to hail her long Resplendent Reign. XXX And ever when mid-June's musk-roses blow, Our Race will celebrate Victoria's name, And even England's greatness gain a glow From Her pure fame. ALFRED AUSTIN.</field>
+   </doc>
+</add>

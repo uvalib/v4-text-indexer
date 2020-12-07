@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Hopkins, John</field>
+      <field name="author_facet">Hopkins, John</field>
+      <field name="author_sort_facet">hopkins john</field>
+      <field name="author_text">Hopkins, John</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1700's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.0139.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1700</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464760</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">Gloria ; A Poem, In Honour of Pious Majesty, Occasioned by the Safe, Happy, and Much-wish'd for Return of our Dread Soveraign Lord King William. By, Mr. Hopkins</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 18th century</field>
+      <field name="subject_text">English poetry -- 18th century</field>
+      <field name="title_display">Gloria ; A Poem, In Honour of Pious Majesty, Occasioned by the Safe, Happy, and Much-wish'd for Return of our Dread Soveraign Lord King William. By, Mr. Hopkins</field>
+      <field name="title_facet">gloria</field>
+      <field name="title_sort_facet">gloria</field>
+      <field name="title_text">Gloria ; A Poem, In Honour of Pious Majesty, Occasioned by the Safe, Happy, and Much-wish'd for Return of our Dread Soveraign Lord King William. By, Mr. Hopkins</field>
+      <field name="year_display">1700</field>
+      <field name="year_facet">1700</field>
+      <field name="year_multisort_i">1700</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464760&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464760&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Hopkins, John&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;hopkins john&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Gloria ; A Poem, In Honour of Pious Majesty, Occasioned by the Safe, Happy, and Much-wish'd for Return of our Dread Soveraign Lord King William. By, Mr. Hopkins&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;gloria&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1700&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1700&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Hopkins, John&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Gloria&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Poem, In Honour of Pious Majesty, Occasioned by the Safe, Happy, and Much-wish'd for Return of our Dread Soveraign Lord King William. By, Mr. Hopkins&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for H. Newman [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1700&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp1806&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;8 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Gloria&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Poem, In Honour of Pious Majesty, Occasioned by the Safe, Happy, and Much-wish'd for Return of our Dread Soveraign Lord King William. By, Mr. Hopkins&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 20 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Perituro Ingenio; Gloria Perennis. TO HIS GRACE JAMES Duke of ORMOND, &amp;c. TO THE MUSE. A PINDARICK. I. Sing Muse, the Man, Muse, praise the Godlike Man! And bid him welcome ore; Welcome him Muse to his own Albion Shore: The lofty Trumpet of whose Fame, First blew thy daring Fancy to a Flame: Soon as thy downy Flight began, Rouz'd Thee to stretch thy unexperienc'd Wing. To Mount, to Soar, and Sing Triumphant Peace, the Conqueror and the King. II. Not now in quest what Hero thou shalt raise, Praise Nassaw, Muse, Nassaw claims all thy Praise. Mount, mount, and beat the Sky of Fame, Bear on thy leaded Wings the weighty Name. Up to the utmost Limits fly, The utmost Limits of the Muse's Sky, Thro' the Aerial Regions of the Mind, And leave dull Judgment, gravely slow, behind. III. How can thy trackless Course in Verse be taught, How in Judicious Method brought. Notions unform'd, and Clouds of misty Thought! Where lightning Fancy, quick in Flashes breaks, And paints the guilded way with gay discolour'd streaks. IV. Strike, strike my Muse, bold, strike the lofty Stars, Once Mortal Heroes in Illustrious Wars; There the great Name of NASSAW bear, Exalted high, above all others far, Mount the transcendant Star, And fix, for ever fix it there. V. Thence thy unshady Wings extend, And thy strong Course to thy own Phœbus bend: Within the Lust'rous Chariot of the Sun, The Goddess Gloria's Seat behold, Where sparkling Jewels deck the polish'd Gold. Clap, clap thy Wings at her Immortal Throne, Whose Regal Globe, unfix't, turns ever round, On which no rest for Gloria's Feet is found. VI. Loose, in a Garment of Cœlestial Air, Behold, behold, she hovers there; With Wings of Adamant she flys; Her Face divinely bright, Quick, tremulous Rays stream from her glowing Eyes, And dazzle Phæbus Sight. VII. In her Right Hand she bears a Starry Crown, Whose weight bends even her Arm, the Arm of Gloria down. This Prize to Nassaw, She shall thence transfer; Nassaw has purchas'd that by winning her. Her other Hand a Golden Trumpet bears, Which sets Heroick Souls on Flame, And gives the Signal to the Trump of Fame. Perch'd on her Head an Eagle fierce appears, Which, whensoe'er the Noble Signal's given, Shakes her strong Wings, and Soaring, Strikes at Heaven. VIII. Hark! hark! the lofty Charge She sounds, And from her Sacred Stand, Loe! How the glowing Goddess bounds, Stretching to thee, Dread Muse! her loaded Hand. Hark! Hark the Trumpets Voice-Receive This Crown, she sounds, and to my Nassaw give, Descend my Muse, thou Gloria be obey'd. The Crown is Nassaw's, tho' not given, but paid. TO THE KING. Welcome, thrice welcome to thy happy Shore. Albion, made happy by thy coming or'e. Welcome again, while at thy safe Return Thy People smile, who did thy Absence mourn. Scarce from continu'd Welcomes can we cease, Welcome—as when at first thou brought'st us glorious Peace. Blest be the smiling Surges of the Sea, Which thro' their cleaving bosom yield their way; The Conscious Floods the Ocean's Lord, obey. Thy bosom'd Sails young sportive Zephirs bear, And court thy waving Streamers in the Air. The tuneful Air does to their Musick yield, And the Waves dance along the watry Field. Thy swelling Canvas seems the Winds to blame, Swol'n not with Breezes, but the Breath of Fame. Officious Winds! restrain your useless Gales, Immortal Glory fills her Nassaw's sails. Before thy Ship, Smooth spreads the Liquid Plain, Down dost thou glide, down thy descending Main, The happy Emblem of thy prosp'rous Reign. The Vessel thus does with the Oceans flow; So dost thou Rule us, condescending so; With easie Pow'rs thy Beaks thro' Waters sweep, Thou cleav'st our Bosoms, as they cleave the Deep. Short is thy Passage from the Belgian Port, Short tho' it be, yet it appears not short. Behind thy Ship the conscious Oceans roar, Dash their big rolling Waves— And urge their Monarch to his Albion shore. Whilst from Batavia thy swift Vessel flies, As Belgia lessens, shall Brittania rise. Belgia and Brittain claim alike their Lord, Both dost thou Sway, and art in both ador'd. Great is the love thy Belgia does express, Great tho' it be, yet is not Brittain's less. May thy blest Reign still thus auspicious prove, Still live they Rivals in their Loyal Love. Roll on ye Tides, ye swelling Surges roll, Reviving Albion shall receive her Soul. Now heave the watry Mountains of the Main, And seem to feel, but with the Lover's pain, The pressing weight of Empire they sustain. Thus, when the Ark was o'er the Oceans hurl'd. The Oceans groan'd beneath the pond'rous World. The massy State of the whole World they bore, Of the whole World which they had drown'd before. When the Almighty his Creation made, The vast Design was on the Waters lay'd, On Mother Deep the forming Godhead lay, And from her gloomy Womb sprung the Light, active day. Thus rose the World by the Creative Will, And as at first 'twas form'd, 'tis Govern'd still. Nassaw, to Thee this secret Charge is given, To Thee, the Darling Substitute of Heaven. Like Justice Self, thou dost Heaven's Aims pursue, Weild'st the strong Sword, and hold'st the Ballance too. Thou, the vow'd Foe to the Almighty's Foes, Giv'st Bliss to Europe, to the World Repose. Kingdoms, once Rivals, thro' their Fears agree, Who offers Wrong, proclaims the War with Thee. Thus their old Crowns the Heads of Monarchs wear, Possest of Empire, not thro' Force, but fear. Princes to Thee their Purple Honours owe; From Thee, the Source of Majesty they flow. Sheathing their Swords, their Scepters they may use, But weilding those, they must their Scepters lose. Thus, thus, behold the Glorious Nassaw stands, Monarchs, and Thrones, and Kingdoms he Commands, Three on his Regal Head.— But Universal Empire in his Hands. Thus Reign'd Augustus, thus his Sway was hurld, Thus Ruling Rome; he over-rul'd the World. Repine not Albion, let no Breath complain, Jove does not ever on Olympus reign. Where Nassaw goes, his Fame, thy Safety call; His Tread must poize the partial pendent Ball; The Lord of Britain Reigns the Lord of all. As well we might at the Sun's Course repine, The Sun, which round the Universe must shine. Like his, diffusive is our Nassaw's Light, Present, 'tis Day, but when he leaves us, Night. Like his, have Nassaw's mighty Labours prov'd, He ripens Fruits, when from our view remov'd. Great! Good! and Just! What Pillars shall I raise? Verse, dying Verse supports not Nassaw's Praise. The Invocation. Whom shall I urge, whose happier Muse to sing, Welcomes return'd to our returning King? Shall Dorset, Cutts, shall Montague be Nam'd, For Numbers Nobly as for Honours fam'd? Hail, great Triumvirate of sacred Wit! Great is your Fame, who have so greatly writ. The noblest ends of Greatness you pursue, The best of Poets, best of Patrons too. What tuneful Muse, tho' soaring can rehearse Which sweetest flows, your Bounty, or your Verse? Both flow from Nature, unconstrain'd and free; Praise you your Nassaw, be ador'd by me; Parnassus Heads shall be reputed three. On lasting Pyramids his Name be rais'd, Praise God-like Nassaw, if he can be prais'd. Weakly my Muse attempts in vain to rise, Blasted by Fate, groveling, and low she lies, Claps oft her sickly Wings—but never, never flies. For Nobler Ends than fancy'd Praise you shine, Not to be reach'd by any Muse At distance to be seen, rever'd by mine. Shall Congreve rise? successful, high in Fame; Congreve has gain'd, and he deserves a Name. Unenvy'd rise, exert thy utmost, skill, And grow, tho now the greatest, greater still. In vain I court, as I admir'd in vain, With Lover's Transport, yet with Lover's Pain. Even Nassaw's Fame, while I invoke, you flee, Yet sure my Verse ne're iniur'd ought—but me. Let conscious Criminals for Crimes submit, I should not guiltless bend— Were you your self Immortal as your Wit. Rise Congreve, rise with thy unequal'd Charms, And sing the Man, the God-like Man, and Arms, Quit the false Promp, the shaddow'd Scene displays, And make not Heroes, but the Hero praise. Draw him, whose Glories Fancy's Beams out-shine, The Hero, Great, Illustrious and like thine The Hero, worthy of a Muse Divine. Spread our Immortal Nassaw's Actions far, As Fam'd in Verse, as Nassaw's self in War. Oft strikes thy Muse bright Fame's Cærulean Skies, Yet art thou rising still, and still to rise. Sill may you rise, still so sublimely Soar. Your Fame so much, till I can't wish it more. My Muse mounts too; exalted thus she sings; As Wrens Tow'r high, born on the Eagle's Wings. Pitcht for the Flight, bear Sir, aspiring bear The Glorious Nassaw thro' the fiery Air. Whilst on this Theam thy glowing thought shall dwell, Excel—if possible, thy self excel. Lose then thy pow'rs, thy strugling Genius lose, The noblest Hero claims the noblest Muse. Instructions to a Painter. Before Thee there the ready Painter stands, Inspire his Fancy, and inspire his Hands. Thou Nassaw's Glories to the Artist show, So shall he paint, that all the Draught may know, Nassaw, who seems Immortal, shall be so. Paint him Triumphant ore the peaceful Ball, And at his Feet let Europe's Scepters fall. Paint him Instructing heroes in the Field, Paint him at once War's Thunderbolt and Sheild. Paint him unmov'd in Dangers and in Blood, Yet paint him Mild, and mercifully good. Behind this Mars let fierce Bellona stand, But paint Astræa smiling in his Hand. To him be every mortal Vertue given, Paint him the Conqu'ror of the Earth— Paint too the pious Hero Conqu'ring Heaven, Beneath his Throne, let the Iust Pencil draw That ill fam'd Chief, who kept the World in awe. Fix on the Ground Macedo's weeping Eyes, But fix the loftier Nassaw's on the Skies A future World this Monarch holds in view, By pious force he shall that World subdue. Abroad, he leading, we our Foes or'ecome, And o'er our Selves grow Conquerors at home. Whilst our own Will our Passions shall restrain, He gives us each an Empire where to Reign. What Pen, what Pencil strikes the vast Extent? The Godhead can't be shaddow'd out by Poetry or Paint. FINIS.</field>
+   </doc>
+</add>

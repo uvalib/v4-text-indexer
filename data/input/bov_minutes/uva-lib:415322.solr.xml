@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1930's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2007_03/uvaGenText/tei/bov_19370505.xml</field>
+      <field name="date_indexed_facet">201909240347</field>
+      <field name="date_text">May 5, 1937</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:415322</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. May 5, 1937</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  May 5, 1937</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  May 5, 1937</field>
+      <field name="year_display">May 5, 1937</field>
+      <field name="year_facet">1937-05-05</field>
+      <field name="year_multisort_i">1937</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:415322&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:415322&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. May 5, 1937&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;May 5, 1937&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1937-05-05&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;May 5, 1937&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Official minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;2 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1937-05-05&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 18 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">May 5, 1937 A called meeting of the Board of Visitors was held on this date with the Rector, Frederic W. Scott, Visitors Corbitt, Lewis C. Williams, R. Gray Williams, Wm. A. Stuart, Hollis Rinehart, C. B. Garnett and President Newcomb, present. The President submitted the following report. Enrollment, 2,584. GIFTS: From Mr. J. E. N. Hume as a memorial to his father, a Drinking Fountain and seat, costing $7,500 From the Seven Society, the annual gift to be added to the General Loan Fund $7 From the Estate of Miss Jennie Davis, of harrisonburg, a very handsome bookcase and 367 valuable books. RESIGNATIONS: Dr. John Calvin Metcalf, Dean of the Department of Graduate Studies, Mr. Stringfellow Barr, Professor of History. Dr. Piet vande Kamp, Assistant Prof. of Astronomy. The following motion was unanimously adopted: RESOLVED, by the Rector and Visitors of the University of Virginia that the resignation of Dr. John Calvin Metcalf as Dean of the Department of Graduate Studies be accepted with very keen regret. The members of the Board appreciate his desire to be relieved of further administrative duties in order that he may devote his full time to teaching; and they desire to record their appreciation of his distinguished service in building up the Department during the fourteen years that he has been its administrative head. This resignation is effective July 1, 1937. The following motion was unanimously adopted: RESOLVED, by the Rector and Visitors of the University of Virginia that the resignation of Mr. Frank Stringfellow Barr as Professor of History in the University be accepted with deep regret. The members of the Board wish him the highest success in his work as Visiting Professor of Liberal Arts in the University of Chicago. The following motion was unanimously adopted: RESOLVED, by the Rector and Visitors of the University of Virginia that the resignation of Dr. Piet van de Kamp, Assistant Professor of Astronomy in the University, be accepted with regret. Dr. van de Kamp has carried forward his duties at this Institution with devotion and skill and the members of the Board wish for him continued success in his new field. ELECTIONS: Upon recommendation of the President Dr. James Southall Wilson was elected Dean of the Department of Graduate Studies at a Salary of $500., as set forth in the following resolution adopted: RESOLVED, by the Rector and Visitors of the University of Virginia that Dr. James Southall Wilson be and is hereby elected Dean of the Department of Graduate Studies at a salary of $500.00. Upon recommendation of the President the following resolutions were adopted: RESOLVED, by the Rector and Visitors of the University of Virginia that Mr. John Henry Rushton be and he is hereby elected Professor of Chemical Engineering in the University, at a salary of $4500., incumbency to begin September, 15, 1937. RESOLVED, by the Rector and Visitors of the University of Virginia that Dr. Claude C. Coleman be and he is hereby elected Clinical Professor of Neurological Surgery in the University, without salary. RESOLVED, by the Rector and Visitors of the University of Virginia that Dr. William Gayle Crutchfield be and he is hereby elected Associate Clinical Professor of Neurological Surgery, without salary. RESOLVED, by the Rector and Visitors of the University of Virginia that Dr. John Moyer Meredith be and he is hereby elected Assistant Clinical Professor of Neurological Surgery at a salary of $3,000. RESOLVED, BY THE Rector and Visitors of the University of Virginia that 1. Martin Leavitt be and he is hereby elected Acting Assistant Professor of Law for the Session of 1937-38 at a salary of $2,400, incumbency to begin September 13, 1937. RESOLVED, by the Rector and Visitors of the University of Virginia that John Black Sirich be continued as Acting Assistant Professor of History for the Session of 1937-38, at a salary of $2,800. RESOLVED, by the Rector and Visitors of the University of Virginia that Mr. Claude M. Anderson be and he is hereby elected Instructor in Astronomy for the Session of 1937-38, at a salary of 1,800. PROMOTIONS: Upon the recommendation of the President the following promotions were made: Frank A. Geldard Associate Professor of Psychology to Professor of Psychology, at a base salary of $4,500. Charles P. Nash, Associate Professor of Law to Professor of Law, at a base salary of $4,500. Alexander Vyssotsky, Assistant Professor of Astronomy to Associate Professor of Astronomy, at a base salary of $3,750. Cuthbert Tunstall, Instructor, to Assistant Professor of Diseases of Nose and Throat, without salary. R. R. Thompson, to Full Time Instructor in Ancient Languages, at a salary of $1,800. A request was made to fix a price on the Miller Farm at Elkton, Virginia. This matter was referred to Mr. R. Gray Williams for investigation and Mr. Williams will make a report at a future date. An architect's sketch of the Memorial Fountain given by Mr. J. E. N. Hume was presented to the Board and approved. A proposal to widen Route 250 from Rugby Road to Route 29 was approved subject to inspection. Dr. Geo. O. Ferguson, Jr., Chairman of the Students Admission Application Committee, appointed at a meeting of the Board June 8, 1936, under provisions of Chapter 352 of the Acts of the General Assembly of 1936, reported that admission had been denied to the following qualified students to enter the Graduate Department of the University; that they had made arrangements to enter these schools and to receive the amounts as follows: Residence Institution Amount Belong on the Summer list p. 235 Bass, Henry M. Suffolk Howard U. 50.00 Gardner, Arthur Lee Richmond Was. Sq. Col. NYC 75.00 Harris, Ethel Ramsey Richmond U. of Chicago 50.00 Jackson, Alice C. Richmond Columbia U. 75.00 Vick, Geo. L. Portsmouth Cornell U. 75.00 Barksdale, bessie C. So. Boston Michigan 56.85 Boone, Elwood Bernard Petersburg Michigan 56.85 Lyman B. Brooks Blakes Michigan 56.85 Cavell, Winston, W. Richmond Michigan 56.85 Cox, Frances Catherine Ettrick Columbia 75.00 Davis, Arthur P. Richmond Columbia 75.00 Ealey, Roland Duek Richmond Howard-Law 50.00 Eason, John Corbett, Jr. Richmond Howard-Law Grad/ 50.00 Foster, Richard W. Richmond U. Mich. 56.85 Foster, Virginia P. Petersburg Columbia 75.00 Gardner, Arthur L. Richmond N. Y. U. 75.00 Greer, Louise E. Charlottesville Cornell U. 75.00 Harris, Ethel R. Richmond Chicago U. 100.00 Henderson, Annie Va. Richmond Michigan 56.85 Jackson, Alice C. Richmond Columbia U. 75.00 Jeffreys, Richard L. Chase City Michigan 56.85 Jeffries, Louise F. Richmond Chicago 100.00 Kyles, Blanche Marie Norfolk Columbia 75.00 Lockett, J. L. Ettrick Rutgers $75.00 Miller, Allie Mildred Clifton Forge Columbia 75.00 Mitchell, Wm. E. Jr. Richmond Columbia 75.00 Palmer, Edward N. Newport News Michigan 56.85 Porter, Mrs. Harriet B. Petersburg Columbia 75.00 Pretlow, Joselyn C. Smithfield Columbia 75.00 Robinson, Celina B. Ettrick Penna. 75.00 Segear, James E. Richmond Penna. 75.00 Shaw, Mrs. Marg. Wysong Salem Fisk 50.00 Smith, Bernard S. Richmond Chicago 50.00 Smith, Ola M. Richmond Michigan 56.85 Spaulding, Julia E. Newport News Chicago 50.00 Spencer, Alroy Lynchburg Columbia 75.00 Spiller, Wm. M. Norfolk Michigan 56.85 Tidline, Nellie Frances Richmond Cornell 75.00 Turner, Henry V. Norfolk C. C. Ny. 50.00 Vick, Geo. L. Portsmouth Cornell 75.00 Wingo, Donald C. Amelia Michigan 56.85 Melvin, Horace W. Newport News Fisk 50.00 Total $2,977.83 The 1937-38 Budget was presented to the Board and Mr. R. Gray Williams offered a resolution of approval which was unanimously adopted. The Budget carried estimated receipts of $2,306,684, and estimated expenditures of $2,296,745. A copy will be found filed in the Budget File in the Secretary's Office. The New Building Committee was given authority in the matter of the fill of dirt for the New Library. It was decided that in the event of Pantops Farm being sold, that the President would communicate with Mr. McIntire before any action was taken. A committee of the Board consisting of William A. Stuart, Chairman, James H. Corbitt, Lewis C. Williams, C. O'Conor Goolrick, R. Gray Williams and C. B. Garnett, was appointed to confer with a committee of the Law School and the President concerning the subject of the failure of graduates of our Law School before the Virginia State Board of Law Examiners. The meeting then adjourned. C. Harding Walker RECTOR. E. I. Carruthersa SECRETARY. Pro Tem.</field>
+   </doc>
+</add>

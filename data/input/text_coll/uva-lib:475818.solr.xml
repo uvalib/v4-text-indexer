@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Kate Chopin</field>
+      <field name="author_facet">Kate Chopin</field>
+      <field name="author_sort_facet">kate chopin</field>
+      <field name="author_text">Kate Chopin</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1890's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/ChoKiss.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">January 17, 1895</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:475818</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Kiss</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">The Kiss</field>
+      <field name="title_facet">kiss</field>
+      <field name="title_sort_facet">kiss</field>
+      <field name="title_text">The Kiss</field>
+      <field name="year_display">January 17, 1895</field>
+      <field name="year_facet">1895-01-17</field>
+      <field name="year_multisort_i">1895</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:475818&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:475818&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Kate Chopin&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;kate chopin&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Kiss&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;kiss&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;January 17, 1895&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1895-01-17&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Kate Chopin&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Kiss&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;January, 1895&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Conde Nast Publications&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;January 17, 1895&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="callNo"&gt;Source copy consulted: Clemons Library, University of Virginia TT 500 .V7&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;1 page&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Kiss / by Kate Chopin&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2000&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2000 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 9 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">The Kiss It was still quite light out of doors, but inside with the curtains drawn and the smouldering fire sending out a dim, uncertain glow, the room was full of deep shadows. Brantain sat in one of these shadows; it had overtaken him and he did not mind. The obscurity lent him courage to keep his eves fastened as ardently as he liked upon the girl who sat in the firelight. She was very handsome, with a certain fine, rich coloring that belongs to the healthy brune type. She was quite composed, as she idly stroked the satiny coat of the cat that lay curled in her lap, and she occasionally sent a slow glance into the shadow where her companion sat. They were talking low, of indifferent things which plainly were not the things that occupied their thoughts. She knew that he loved her-a frank, blustering fellow without guile enough to conceal his feelings, and no desire to do so. For two weeks past he had sought her society eagerly and persistently. She was confidently waiting for him to declare himself and she meant to accept him. The rather insignificant and unattractive Brantain was enormously rich; and she liked and required the entourage which wealth could give her. During one of the pauses between their talk of the last tea and the next reception the door opened and a young man entered whom Brantain knew quite well. The girl turned her face toward him. A stride or two brought him to her side, and bending over her chair—before she could suspect his intention, for she did not realize that he had not seen her visitor—he pressed an ardent, lingering kiss upon her lips. Brantain slowly arose; so did the girl arise, but quickly, and the newcomer stood between them, a little amusement and some defiance struggling with the confusion in his face. "I believe," stammered Brantain, "I see that I have stayed too long. I—I had no idea—that is, I must wish you good-by." He was clutching his hat with both hands, and probably did not perceive that she was extending her hand to him, her presence of mind had not completely deserted her; but she could not have trusted herself to speak. "Hang me if I saw him sitting there, Nattie! I know it's deuced awkward for you. But I hope you'll forgive me this once— this very first break. Why, what's the matter?" "Don't touch me; don't come near me," she returned angrily. "What do you mean by entering the house without ringing?" "I came in with your brother, as I often do," he answered coldly, in self-justification. "We came in the side way. He went upstairs and I came in here hoping to find you. The explanation is simple enough and ought to satisfy you that the misadventure was unavoidable. But do say that you forgive me, Nathalie," he entreated, softening. "Forgive you! You don't know what you are talking about. Let me pass. It depends upon—a good deal whether I ever forgive you." At that next reception which she and Brantain had been talking about she approached the young man with a delicious frankness of manner when she saw him there. "Will you let me speak to you a moment or two, Mr. Brantain?" she asked with an engaging but perturbed smile. He seemed extremely unhappy; but when she took his arm and walked away with him, seeking a retired corner, a ray of hope mingled with the almost comical misery of his expression. She was apparently very outspoken. "Perhaps I should not have sought this interview, Mr. Brantain; but—but, oh, I have been very uncomfortable, almost miserable since that little encounter the other afternoon. When I thought how you might have misinterpreted it, and believed things" —hope was plainly gaining the ascendancy over misery in Brantain's round, guileless face—"Of course, I know it is nothing to you, but for my own sake I do want you to understand that Mr. Harvy is an intimate friend of long standing. Why, we have always been like cousins—like brother and sister, I may say. He is my brother's most intimate associate and often fancies that he is entitled to the same privileges as the family. Oh, I know it is absurd, uncalled for, to tell you this; undignified even," she was almost weeping, "but it makes so much difference to me what you think of— of me." Her voice had grown very low and agitated. The misery had all disappeared from Brantain's face. "Then you do really care what I think, Miss Nathalie? May I call you Miss Nathalie?" They turned into a long, dim corridor that was lined on either side with tall, graceful plants. They walked slowly to the very end of it. When they turned to retrace their steps Brantain's face was radiant and hers was triumphant. * * * * * * * * * * * * * * * * * * * Harvy was among the guests at the wedding; and he sought her out in a rare moment when she stood alone. "Your husband," he said, smiling, "has sent me over to kiss you. " A quick blush suffused her face and round polished throat. "I suppose it's natural for a man to feel and act generously on an occasion of this kind. He tells me he doesn't want his marriage to interrupt wholly that pleasant intimacy which has existed between you and me. I don't know what you've been telling him," with an insolent smile, "but he has sent me here to kiss you." She felt like a chess player who, by the clever handling of his pieces, sees the game taking the course intended. Her eyes were bright and tender with a smile as they glanced up into his; and her lips looked hungry for the kiss which they invited. "But, you know," he went on quietly, "I didn't tell him so, it would have seemed ungrateful, but I can tell you. I've stopped kissing women; it's dangerous." Well, she had Brantain and his million left. A person can't have everything in this world; and it was a little unreasonable of her to expect it. Kate Chopin</field>
+   </doc>
+</add>

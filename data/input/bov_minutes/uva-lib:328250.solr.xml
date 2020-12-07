@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1910's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2006_09/uvaGenText/tei/bov_19171228.xml</field>
+      <field name="date_indexed_facet">201909240346</field>
+      <field name="date_text">December 28, 1917</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:328250</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. December 28, 1917</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  December 28, 1917</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  December 28, 1917</field>
+      <field name="year_display">December 28, 1917</field>
+      <field name="year_facet">1917-12-28</field>
+      <field name="year_multisort_i">1917</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:328250&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:328250&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. December 28, 1917&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;December 28, 1917&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1917-12-28&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;December 28, 1917&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Public minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;0 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information. Access to minutes containing salary information will be granted only under the procedures of the Virginia Freedom of Information Act (Code of Virginia-2.1-340 ff.) or if permission is granted by the Secretary of the Board. Researchers interested in obtaining access to these records should direct a request in writing to the Office of the Legal Adviser, Madison Hall, University of Virginia. These public minutes have had salary information deleted and bear no restrictions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1917-12-28&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 17 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">University of Virginia, December 28, 1917. A special meeting of the Rector and Visitors was held on this date at 8 Oclock P. M. There were present Rector Gordon and Visitors Craddock, Michie, Irvine, Stearnes, Turnbull and Walker, and President Alderman. President Alderman announced the following gifts to the University: Flag pole from Mr. P. G. McIntire, (Cost $2250.) Memorial to McConnell from French Government, Memorial to McConnell from friends, Library from Miss Mary P. Morriss, Library from President J. D. Eggleston, V. P. I., Barometer to Physical Laboratory from A. M. Steger, Portrait of John Herndon Maury, by Mrs. J. H. Werth, Scientific Journals to Engineering Library by Mr. Weaver. President Alderman stated that he had received an invitation from the British Government to visit Great Britain at an early date in company with other Americans to prosecute what is known as the Anglo-American Educational Campaign, and that while he desired very much to have a part in the work in hand, yet he felt that he could not leave the University at this time, and that if it were possible for him to get away later, he might avail himself of the opportunity. While no formal action was desired by the President in the matter at this time, yet it was the consensus of opinion of the Board that he be granted the leave if he so desired. It being brought to the attention of the Board that there existed two vacancies in the Ryan Scholarships, caused by the holders having entered the service of the United State, said vacancies being in the Third and Fourth Districts, the Board proceeded to fill the same for the unexpired terms, and the following were appointed: Third District, Frank D. Leach, Fourth District, E. Goodrich. The Board, upon being advised of the expiration of Dr. J. M. page's term as a member of the State Board of Education, and that it would be agreeable to him to serve another term, unanimously nominated him to the Senate for re-election. The Bursar submitted the following report as to items of expenditure which exceeded the several appropriations, for the year 1916-17, and asked that an appropriation be made to cover, which was granted. (Bursar's Report) "I beg to submit the following report as to items of expenditure which exceeded the appropriations for the year 191617, and ask that the several amounts be appropriated, so that my accounts may be properly closed: Appropriation Expenditure Excess GENERAL ADMINISTRATION: Advertising, $3,300.00 3,411.03 111.03 Alumni Bulletin, 1,200.00 1,202.05 2.05 Catalogue, 1,850.00 2,062.82 212.82 Stationery &amp; Office Supplies, 500.00 675.68 175.68 Stamps &amp; Stamped Envelopes, 650.00 181.52 531.52 Telephones &amp; Telegraphing, 100.00 335.84 235.84 Printing, all departments, 700.00 964.05 264.05 Traveling expenses, 500.00 758.58 258.58 Miscellaneous General Expense, 2,550.00 3,047.28 497.28 INTEREST ON DEBT, 9,498.00 9,605.46 107.46 BUILDINGS &amp; GROUNDS, 30,669.00 31,887.00 1,218.0 ORGAN AND ORGAN REPAIRS &amp; UPKEEP, 400.00 527.22 127.22 Total, $ 3,741.5 (signed) E. I. Carruthers, Bursar. An appropriation of $225. was made to cover the cost of repairs to the Chapel furnace. The sum of $1,000. remaining from the appropriation to Alumni Secretary was transferred to the Advertising Fund to cover campaign for students. The Bursar reported that Leon R. Whipple had returned to him the sum of $112.50, being one-half of the sum allowed Mr. Whipple by the Board, following his dismissal from the faculty of the University on November 27, 1917. The amount granted was intended to cover his salary for December and January; but Mr. Whipple stated that he did not feel that he was entitled to the January payment, and therefore returned it to the Bursar. The following, offered by Mr. Michie, was adopted: RESOLVED: That the action of Professors Lewis, Heck and Johnson in enlisting in the Albemarle Rifles, Virginia Volunteers, be and is hereby approved and commended. A Bill to establish a college for women co-ordinate with the University of Virginia, to be located at or near the University, which certain advocates of the Co-ordinate College proposed to have introduced in the General Assembly of Virginia, was presented for consideration of the Board. Following a general discussion of the proposed Bill, and the conditions related to the establishment of such college at this time, during which Prof. W. M. Thornton was heard in advocacy of the measure, the following resolution was unanimously adopted: RESOLVED: Though repeatedly committed by formal resolutions to the wisdom of the establishment of a woman's college, co-ordinate with the University of Virginia, the Rector and Visitors, in view of the engrossing calls upon the energies of the state and nation during the world war, deem it unwise at the time to press the consideration of this measure on the attention of the General Assembly of Virginia. It having been brought to the attention of the Board by the Bursar that the bond given the University by Dr. Philip Percy Parrish, arising out of the settlement of the legacy to the University under the will of the late Robert L. Parrish, has been paid in full, necessitating the release of the lien to secure said bond, the following action was taken: RESOLVED: That the Rector of the University be and he is authorize to release any and all liens in favor of the University of Virginia upon the property of Dr. Philip Percy Parrish, arising out of the settlement of the legacy to the University under the will of the late Robert L. Parrish. The request of Dr. W. H. Goodwin for a leave of absence, beginning January 1, 1918, and continuing until the National Government dispenses with his services, he having been detailed for active service as Director of the University of Virginia Base Hospital # 41, was granted. It having been brought to the attention of the Board that the resolution adopted at the November meeting, granting to Prof. Francis H. Smith the use of Pavilion V, did not set out on what date the usual rent would begin, it was ordered that Prof. Smith should have the use of the house free of rent until September 1, 1918. President Alderman brought to the attention of the Board the question of postponing the Centennial Celebration set for October 1919, and stated that the Centennial Committee had acted in favor of postponement. The minutes of the meeting of the Committee, at which this action was taken, were read; whereupon, the following resolution was adopted: RESOLVED: That the Faculty of the University having adopted the following resolution in regard to the Centennial Celebration: "Resolved, That the date of October 1919, set for the Centennial Celebration, be cancelled; that the work of gathering materials, records, etc., be continued as actively as conditions will allow, and that the Centennial celebration itself be postponed to such time in the future as it may be feasible and possible to hold it." the Rector and Visitors approve the action of the Faculty; and that the Secretary of the Board be directed to communicate a copy of this minute to the President of the General Alumni Association, with the request that the Executive Committee of the Association approve the action of the Faculty and Board. The following offered by the Rector, was adopted: RESOLVED: That the action of the Rector and the Chairman of the Executive Committee, upon the legal advice of the counsel for the University, in authorizing said Counsel to take the necessary steps to intervene on behalf of the University of Virginia, in order to test the liability of the personal property conveyed by John Armstrong Chaloner for the benefit of the University against levies of executions against said Chaloner upon said personal property, and the further action of the Rector in executing the necessary forthcoming bond incident to said proceedings, be ratified and approved. Questions touching salaries of H. H. Lannigan and W. P. Lang were referred to the President and Mr. Michie for action. The President went over the program of the needs of the University for the ensuing biennium, to be presented to the approaching meeting of the Legislature, which was approved by the Board. The meeting then adjourned. [signed] R. T. Irvine For Rector. [signed] E. I. Carruthers Secretary</field>
+   </doc>
+</add>

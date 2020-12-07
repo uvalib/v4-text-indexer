@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Don Marquis</field>
+      <field name="author_facet">Don Marquis</field>
+      <field name="author_sort_facet">don marquis</field>
+      <field name="author_text">Don Marquis</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1910's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/MarGoos.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">1919</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476171</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Mother Goose, Propagandist</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">Mother Goose, Propagandist</field>
+      <field name="title_facet">mother goose propagandist</field>
+      <field name="title_sort_facet">mother goose propagandist</field>
+      <field name="title_text">Mother Goose, Propagandist</field>
+      <field name="year_display">1919</field>
+      <field name="year_facet">1919</field>
+      <field name="year_multisort_i">1919</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476171&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476171&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Don Marquis&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;don marquis&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Mother Goose, Propagandist&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;mother goose, propagandist&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1919&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1919&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Don Marquis&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="editor"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;William Dean Howells&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Mother Goose, Propagandist&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1919&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Harper &amp;amp; Bros.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1919&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="callNo"&gt;Source copy consulted: UVa Alderman Library AP2.H3&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;pp. 439-440&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Mother Goose, Propagandist&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2001&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2001 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 8 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">MOTHER GOOSE, PROPAGANDISTBY DON MARQUIS MOTHER GOOSE has never had the recognition which she deserves for the part she has played in making the world unsafe for anti-democracy. A young fellow who will be four years old by the time he is half a year older, asked me the other day just what a crown is. I explained that it is a style of head-dress affected by kings, in their more formal and regal moods and tenses. He accepted the explanation so readily that I wondered what he knew about kings, and asked him. Kings, he told me, were persons who stole things. They stole meal and made puddings out of it. Queens were the same as cooks. Queens fry things for breakfast. He had known about kings and their thieving propensities for a long time. Kings were the same as Arfurs. There was a picture of a king who was an Arfur in his Mother Goose Book stealing a bag of meal. My own introduction to kings was the same as this young person's. . . . The King Arthur in my Mother Goose Book who stole three pecks of barley meal to make a bag pudding was the first king I ever knew. I am no Bolshevist by temperament or trade, but to this day I cannot think of kings as quite honest persons. Even the jovial King Cole did not quite reassure me with regard to kings; I seemed to see a something cunning in his eye. While ostensibly occupied with his pipe, his bowl, and his fiddlers three, he was likely thinking up some scheme to purloin edibles. The king who sat in his counting-house, counting out his money, after having had the four-and-twenty blackbirds baked within a pie, all but confirmed my youthful suspicion of kings as a class. . . . I was sure that the money really belonged to some one else; he counted it, in the picture, with a guilty air. Possibly he had stolen the blackbirds, to begin with. Later, when I read Lanier's version of the Arthurian legend, I was still unable to banish the thought of King Arthur as a fat rogue with a sack of meal slung over his shoulder and a hang-dog eye beneath his crown. Still later, Tennyson could do nothing for me. The Tennysonian Arthur was very pure and noble and brave, to the eye, but beneath the royal mail there was a horrid secret; disguise himself as he would, I knew that he had once been a meal-stealer; for me, he could never live it down. It influenced me in my judgment of him and Guinevere. I felt that Guinevere was unable to forget it, too, and that she justified, in some measure, her relations with Lancelot, with the reflection that the Arthur whom she deceived had, after all, the soul of a pudding-thief under his splendid exterior. As for Guinevere herself, I could never feel so very sorry for her when she was flung from her place beside the king and compelled to enter a convent and scar her dainty fingers embroidering heavy tapestries for the Camelot trade; she had done rough work before, and she could do rough work again, and get no pity of mine. I remembered her from the old kitchen days; at one time in her career she had fried mush for breakfast -- stolen mush -- with her hair straggling unqueenly down from her coronet, and with a look upon her face that showed her glad enough to get that mush to fry. A friend and I once paid a visit to the Eden Musee, and saw in the Chamber of Horrors we saw two females showing the great gouts of blood and severed heads to their offspring, nine or ten in number, and all between the ages of three and eight. The little boys and girls were in a state of agreeable hysteria, evidently supposing all this blood to be real; nothing in after-life would make the impression upon them that this shambles was making. "The mind of youth," quoted my friend, eying the group reflectively, "is wax to receive and marble to retain." It is possible that young Hohenzollerns were trained in a similar manner. It took me a long time to live down an impression of Welshmen, gained from the same source as the notion about kings . . . and even now, when I contemplate Mr. Lloyd George and the list of things that he is taking home from Paris, I murmur that the hand is quicker than the eye. But what I started out to say was that the world of to-morrow is not being made in the school-rooms of to-day; it is being made before the children get as far as the school-rooms. I warn all kings that Mother Goose will bear watching.</field>
+   </doc>
+</add>

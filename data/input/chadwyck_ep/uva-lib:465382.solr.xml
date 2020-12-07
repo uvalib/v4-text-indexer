@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Mayne, John, 1759-1836</field>
+      <field name="author_facet">Mayne, John, 1759-1836</field>
+      <field name="author_sort_facet">mayne john 1759 1836</field>
+      <field name="author_text">Mayne, John, 1759-1836</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1850's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.1235.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1855</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:465382</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The modern Scottish minstrel</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">The modern Scottish minstrel</field>
+      <field name="title_facet">modern scottish minstrel</field>
+      <field name="title_sort_facet">modern scottish minstrel</field>
+      <field name="title_text">The modern Scottish minstrel</field>
+      <field name="year_display">1855</field>
+      <field name="year_facet">1855</field>
+      <field name="year_multisort_i">1855</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:465382&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:465382&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Mayne, John, 1759-1836&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;mayne john 1759 1836&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The modern Scottish minstrel&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;modern scottish minstrel&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1855&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1855&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Mayne, John&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1759&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1836&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The modern Scottish minstrel&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Edinburgh&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Adam and Charles Black&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1855&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp2462&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;6 v.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The modern Scottish minstrel&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 13 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only verse by Mayne included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">LOGAN BRAES. By Logan's streams, that rin sae deep, Fu' aft wi' glee I've herded sheep, I've herded sheep, or gather'd slaes, Wi' my dear lad, on Logan braes. But, waes my heart! thae days are gane, And I wi' grief may herd alane; While my dear lad maun face his faes, Far, far frae me and Logan braes. Nae mair at Logan kirk will he Atween the preachings meet wi' me, Meet wi' me, or, whan it's mirk, Convoy me hame frae Logan kirk. I weel may sing thae days are gane— Frae kirk and fair I come alane, While my dear lad maun face his faes, Far, far frae me and Logan braes. At e'en, when hope amaist is gane, I daunder dowie and forlane; I sit alane, beneath the tree Where aft he kept his tryste wi' me. Oh, could I see thae days again, My lover skaithless, and my ain! Beloved by friends, revered by faes, We'd live in bliss on Logan braes. HELEN OF KIRKCONNEL. I wish I were where Helen lies, For night and day on me she cries; And, like an angel, to the skies Still seems to beckon me! For me she lived, for me she sigh'd, For me she wish'd to be a bride; For me in life's sweet morn she died On fair Kirkconnel-Lee! Where Kirtle waters gently wind, As Helen on my arm reclined, A rival with a ruthless mind Took deadly aim at me. My love, to disappoint the foe, Rush'd in between me and the blow; And now her corse is lying low, On fair Kirkconnel-Lee! Though Heaven forbids my wrath to swell, I curse the hand by which she fell— The fiend who made my heaven a hell, And tore my love from me! For if, when all the graces shine, Oh! if on earth there's aught divine, My Helen! all these charms were thine, They centred all in thee! Ah! what avails it that, amain, I clove the assassin's head in twain? No peace of mind, my Helen slain, No resting-place for me. I see her spirit in the air— I hear the shriek of wild despair, When murder laid her bosom bare, On fair Kirkconnel-Lee! Oh! when I'm sleeping in my grave, And o'er my head the rank weeds wave, May He who life and spirit gave Unite my love and me! Then from this world of doubts and sighs, My soul on wings of peace shall rise, And, joining Helen in the skies, Forget Kirkconnel-Lee. THE WINTER SAT LANG. The winter sat lang on the spring o' the year, Our seedtime was late, and our mailing was dear; My mither tint her heart when she look'd on us a', And we thought upon those that were farest awa'. Oh, were they but here that are farest awa'! Oh, were they but here that are dear to us a'! Our cares would seem light and our sorrow but sma', If they were but here that are far frae us a'! Last week, when our hopes were o'erclouded wi' fear, And nae ane at hame the dull prospect to cheer; Our Johnnie has written, frae far awa' parts, A letter that lightens and hauds up our hearts. He says, “My dear mither, though I be awa', In love and affection I'm still wi' ye a'; While I hae a being ye'se aye hae a ha', Wi' plenty to keep out the frost and the snaw.” My mither, o'erjoy'd at this change in her state, By the bairn she doated on early and late, Gi'es thanks night and day to the Giver of a', There's been naething unworthy o' him that's awa'! Then here is to them that are far frae us a', The friend that ne'er fail'd us, though farest awa'! Health, peace, and prosperity wait on us a'; And a blithe comin' hame to the friend that's awa'! MY JOHNNIE. Air—“Johnnie's Gray Breeks.” Jenny's heart was frank and free, And wooers she had mony, yet The sang was aye, “Of a' I see, Commend me to my Johnnie yet. For ear' and late, he has sic gate To mak' a body cheerie, that I wish to be, before I dee, His ain kind dearie yet.” Now Jenny's face was fu' o' grace, Her shape was sma' and genty-like, And few or nane in a' the place, Had gowd or gear mair plenty, yet Though war's alarms, and Johnnie's charms, Had gart her oft look eerie, yet She sung wi' glee, “I hope to be My Johnnie's ain dearie yet. “What though he's now gane far awa', Whare guns and cannons rattle, yet Unless my Johnnie chance to fa' In some uncanny battle, yet Till he return my breast will burn Wi' love that weel may cheer me yet, For I hope to see, before I dee, His bairns to him endear me yet.” THE TROOPS WERE EMBARKED. The troops were all embark'd on board, The ships were under weigh, And loving wives, and maids adored, Were weeping round the bay. They parted from their dearest friends, From all their heart desires; And Rosabel to Heaven commends The man her soul admires! For him she fled from soft repose, Renounced a parent's care; He sails to crush his country's foes, She wanders in despair! A seraph in an infant's frame Reclined upon her arm; And sorrow in the lovely dame Now heighten'd every charm: She thought, if fortune had but smiled— She thought upon her dear; But when she look'd upon his child, Oh, then ran many a tear! “Ah! who will watch thee as thou sleep'st? Who'll sing a lullaby, Or rock thy cradle when thou weep'st, If I should chance to die?” On board the ship, resign'd to fate, Yet planning joys to come, Her love in silent sorrow sate Upon a broken drum. He saw her lonely on the beach; He saw her on the strand; And far as human eye can reach He saw her wave her hand! “O Rosabel! though forced to go, With thee my soul shall dwell, And Heaven, who pities human woe, Will comfort Rosabel!”</field>
+   </doc>
+</add>

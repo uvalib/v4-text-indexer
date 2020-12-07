@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1940's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2006_10/uvaGenText/tei/bov_19491111.xml</field>
+      <field name="date_indexed_facet">201909240346</field>
+      <field name="date_text">November 11, 1949</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:350702</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. November 11, 1949</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  November 11, 1949</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  November 11, 1949</field>
+      <field name="year_display">November 11, 1949</field>
+      <field name="year_facet">1949-11-11</field>
+      <field name="year_multisort_i">1949</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:350702&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:350702&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. November 11, 1949&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;November 11, 1949&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1949-11-11&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;November 11, 1949&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Official minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;4 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1949-11-11&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 22 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">11 November 1949 The regular monthly meeting of the Board of Visitors of The Rector and Visitors of the University of Virginia was held on this date in the Office of the President of the University of Virginia, Charlottesville, Virginia, with the following present: The Rector, Barron F. Black; President Colgate W. Darden, Jr., of the University of Virginia; Visitors Anderson, Barksdale, Carrington, Garnett, Gay, Gravatt, Howard, Mears, Trout, Wailes, and Willis. Absent: Dr. M. L. Combs, President of Mary Washington College; Visitors Smith and Talbott. The minutes of the meeting of October 14, 1949, which had been copied and mailed to the members, were approved. GIFTS The President announced receipt of the following gifts. From the Charlottesville Kiwanis Club, for the purchase of children's invalid chairs for the Hospital $ 110.00 From proceeds of the 1949 Medical School Show, to be added to the Harvey E. Jordan Lectureship Fund 104.14 From the General Education Board, for a survey of administrative practices of American libraries by Mr. Jack Dalton 2,500.00 From Dominion Theatres, Inc., to establish a loan fund for graduates of The Miller School 1,893.60 From the estate of the late Christopher G. Memminger, to be used for education in mechanical engineering, cash 116,000.00 and securities valued at 186,775.00 RESIGNATIONS The following resolutions were adopted. RESOLVED that the resignation of Dr. Herbert D. Hebel, Associate Professor of Roentgenology, be and the same is hereby accepted, effective January 1, 1950. We wish for him the highest success in his new undertaking RESOLVED that the resignation of Dr. Alfred R. Berkeley, Jr., Instructor in Orthopedics, be and the same is hereby accepted, effective December 31, 1949. We wish for him the highest success in his new undertaking. Upon recommendation of the President, the following promotion and election were approved PROMOTION Dr. Fredson Thayer Bowers, promoted from Associate Professor to Professor of English, effective November 1, 1949 ELECTION Dr. Ernest G. Edwards, elected Instructor in Orthopedics, effective January 1, 1950. RESOLUTION IN MEMORY OF E. R. STETTINIUS, JR. A committee was appointed to prepare a resolution in memory of Edward R. Stettinius, Jr., former Rector of the University, who died October 31, 1949. Members of the committee are Mr. Gay, Chairman, and Mr. Talbott MICHIE COMPANY SCHOLARSHIP PROPOSAL The Board approved the proposal of The Michie Company of Charlottesville to establish a scholarship which would be available to the son or daughter of an employee of the company. The Rector was requested to write the donor. The Secretary was asked to express the appreciation of the University for this gift. MEDICAL ALUMNI ASSOCIATION The following resolution was adopted WHEREAS, it has come to the attention of the Board of Visitors of the University of Virginia that interested alumni of the Department of Medicine of the University of Virginia met in June, 1949, elected officers and initiated a program designed to establish and develop a permanent association of the alumni of the Medical School of the University, and WHEREAS, the Board of Visitors believes that the establishment of the permanent association of the medical alumni of the University of Virginia will afford enlarged opportunity for its members to render constructive and valuable service to the University and particularly to the Medical School, Now, therefore, upon the request of the officers of said association, elected as above mentioned, and in order to encourage this endeavor and to foster its success, Be it resolved that, in the event the dues and other contributions coming into the hands of those who have taken the responsibility of developing and establishing said association of medical alumni shall not be sufficient to meet the expenses incident thereto, the Board of Visitors doth agree to make available from proper funds under its control, the sum of not exceeding Two Thousand Dollars ($2,000.00) for any deficiency of expenses incurred by the officers of said association as aforesaid for the year June, 1949 to June, 1950. UNCOLLECTIBLE HOSPITAL ACCOUNTS The following resolution was adopted RESOLVED that approval be and is hereby given to charging off schedules 84-B, 84-D, 84-E, 86, and 87 of uncollectible hospital accounts, aggregating $47,673.43, recommended for cancellation by the Hospital Accounts Committee. ACCOUNT OF MRS. HAROLD HAUSENFLUCK The account of Mrs. Harold Hausenfluck with the University Hospital, in the amount of $1,188.65, was presented to the Board for instructions. The Board was in accord with the recommendation of the Hospital Accounts Committee that the account be charged off. MARY WASHINGTON DINING HALL ADDITION The recommendation of the architects that contracts be awarded to the low bidders on an addition to Seacobeck Hall was approved by the Board. The low bids are as follows General Construction - Mr. C. E. Nuckols Base Bid $333,175.00 Less Alternate B 8,582.00 Total $324,593.00 Refrigeration Equipment - Virginia Ice Machine Corporation Base Bid $24,331.00 Less Allowance for present equipment 500.00 Total $23,831.00 REPORT OF SPECIAL MEDICAL COMMITTEE The Board accepted with thanks the report of the Special Committee to Study Possibilities of a New Medical Center, and directed that the recommendations of said committee be spread on the minutes Recommendations of the Special Committee To Study Possibilities of a New Medical Center The Committee presents the following report. 1. Whereas, all present recognized the fact that a new medical center would provide the most desirable modern institution, the assembled Committee is of the unanimous opinion that without substantial supplementary funds a new construction is not justified. 2. Whereas the Committee has been assured by Dr. Lippard that a modern functional institution can be developed at the present location by increasing capacity, by providing additional equipment, and by disposing of outmoded sections to be replaced by a new building, so constructed that there may be future expansion through superimposing additional floors, the Committee recommends the approval of the request for $9,000,000 for capital outlay for the development of the present Hospital and Medical School in the following stages: A. Development of Ward Building, increasing the capacity by 250 beds, at a roughly estimated cost of $3,500,000. B. Development of a central diagnostic service unit, including Out-Patient Department, X-Ray Department, central Clinical Pathology and Laboratories, at a roughly estimated cost of $5,000,000. C. Additional unit in the Medical School Building. General expansion of class rooms and laboratories for pre-clinical medical sciences, at a roughly estimated cost of $1,000,000. Presuming that the instruction as to a report on maintenance was related to the new medical center, the Committee is making no report on maintenance, other than the suggestion that the general question of maintenance may be deserving of further study The Committee Hugh H. Trout, Sr., M.D. Frank Talbott, Jr. Mrs. Herbert McK. Smith, Chairman TUITION AND FEES The Bursar presented data showing tuition at other universities requested by the Board at its previous meeting, namely, University of Alabama, Harvard University, University of Maryland, University of North Carolina, University of Pennsylvania, Princeton University, Tulane University, Washington and Lee University, and Yale University. He presented also a study of instructional costs in the several departments of the University. After careful consideration, the Board approved the following schedule of increases in tuition and fees, to be effective in September 1950 SCHEDULE OF TUITION CHANGES EFFECTIVE SEPTEMBER 1950 Tuition for Non-Virginians Department Tuition 1949-50 Tuition 1950-51 College $350 $450 Medicine 600 800(a) (a) Tuition limited to $700 for 1950-51 third and fourth year classes until graduation Engineering 350 450 Education 350 450 Education 275 450 Tuition for Virginians* * Increases in tuition for Virginia students are in lieu of laboratory fees Department Tuition 1949-50 Tuition 1950-51 Medicine $350 $400(b) (b) Tuition limited to $350 for 1950-51 third and fourth year classes until graduation College 150 160 Engineering 200 210 ALL LABORATORY FEES ARE TO BE ABOLISHED. THE STUDENT HEALTH FEE WILL BE INCREASED TO $20.00 PER SESSION. Law School Tuition Action on an increase in tuition in the Department of Law was deferred until after a conference between the President and the Law Alumni Association, scheduled for Friday, November 18. The President was authorized, after this conference, to increase the Law School tuition if he deemed it advisable. Mr. Darden asked for an expression of opinion by the Board concerning the advisability of increasing this tuition, and it was the sense of the Board that the non-resident tuition in the Department of Law should be increased by $100 APPOINTMENT OF INSTRUCTORS A resolution was adopted authorizing the President to appoint instructors without securing the approval of the Board DEFINITION OF VIRGINIA STUDENT The attention of the Board was directed to several cases in which certain students who, it was believed, should be classified as Virginians were excluded from such status under present regulations of the University. Because of the importance of this matter, it was deemed advisable to appoint a special committee to study the problem and make recommendations to the Board. The Rector was requested to appoint such a committee CHRISTOPHER G. MEMMINGER FUND The Rector was requested to write to the nearest Memminger relative and the trustees of the Memminger Estate, expressing the appreciation of the University for the handsome gift NCAA REGULATIONS A mimeographed report prepared by Captain Pritchett on the NCAA Regulations with a proposed statement to be submitted by the University was distributed to the members of the Board. After discussion of this document and other related problems, a resolution was adopted requesting the Athletics Committee to prepare a proposed amendment to the NCAA Code which would authorize scholarships sufficient in amount to cover room, board, tuition and fees, and books for each recipient. The Athletic Committee was requested to prepare the University's case for submission to the NCAA meeting in January, and to join with the President in attending this meeting. A further resolution was adopted requesting the Athletic Committee to associate with it Captain Pritchett, Mr. Nicholas P. Wilson, and Mr. Gus Tebell. The Board requested this group to visit other institutions in this section of the United States and ascertain whether or not they would support an amendment to the NCAA Constitution, enlarging the scope of the scholarships authorized to include room, board, tuition and fees, and books President Darden stated that he would be leaving for India about the first of December and would be unable to assist the committee in the preparation of the University's case, but he would join them in New York upon his return and assist in every way possible in presenting the matter to the NCAA meeting DECEMBER BOARD MEETING The Board adopted a resolution to hold the December meeting at a place and time to be determined by the Rector, the place to be Fredericksburg if possible - - - On motion the meeting then adjourned Barron F. Black Rector Vincent Shea Secretary</field>
+      <field name="fulltext">Recommendations of the Special Committee To Study Possibilities of a New Medical Center The Committee presents the following report. 1. Whereas, all present recognized the fact that a new medical center would provide the most desirable modern institution, the assembled Committee is of the unanimous opinion that without substantial supplementary funds a new construction is not justified. 2. Whereas the Committee has been assured by Dr. Lippard that a modern functional institution can be developed at the present location by increasing capacity, by providing additional equipment, and by disposing of outmoded sections to be replaced by a new building, so constructed that there may be future expansion through superimposing additional floors, the Committee recommends the approval of the request for $9,000,000 for capital outlay for the development of the present Hospital and Medical School in the following stages: A. Development of Ward Building, increasing the capacity by 250 beds, at a roughly estimated cost of $3,500,000. B. Development of a central diagnostic service unit, including Out-Patient Department, X-Ray Department, central Clinical Pathology and Laboratories, at a roughly estimated cost of $5,000,000. C. Additional unit in the Medical School Building. General expansion of class rooms and laboratories for pre-clinical medical sciences, at a roughly estimated cost of $1,000,000. Presuming that the instruction as to a report on maintenance was related to the new medical center, the Committee is making no report on maintenance, other than the suggestion that the general question of maintenance may be deserving of further study The Committee Hugh H. Trout, Sr., M.D. Frank Talbott, Jr. Mrs. Herbert McK. Smith, Chairman</field>
+   </doc>
+</add>

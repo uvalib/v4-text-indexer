@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Smith, Seba, 1792-1868</field>
+      <field name="author_facet">Smith, Seba, 1792-1868</field>
+      <field name="author_sort_facet">smith seba 1792 1868</field>
+      <field name="author_text">Smith, Seba, 1792-1868</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1840's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ap/uvaGenText/tei/chap_AM1199.xml</field>
+      <field name="date_indexed_facet">201909240350</field>
+      <field name="date_text">1840</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey American Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey American Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:440612</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">[Poems by Smith in] The Bowdoin poets</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">American poetry -- 1783-1850</field>
+      <field name="subject_text">American poetry -- 1783-1850</field>
+      <field name="title_display">[Poems by Smith in] The Bowdoin poets</field>
+      <field name="title_facet">poems by smith in the bowdoin poets</field>
+      <field name="title_sort_facet">poems by smith in the bowdoin poets</field>
+      <field name="title_text">[Poems by Smith in] The Bowdoin poets</field>
+      <field name="year_display">1840</field>
+      <field name="year_facet">1840</field>
+      <field name="year_multisort_i">1840</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:440612&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:440612&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Smith, Seba, 1792-1868&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;smith seba 1792 1868&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;[Poems by Smith in] The Bowdoin poets&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;poems by smith in the bowdoin poets&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1840&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1840&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Smith, Seba&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1792&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1868&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;[Poems by Smith in] The Bowdoin poets&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Brunswick&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Published by Joseph Griffin&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1840&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3866163-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;cham1199&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;American poetry -- 1783-1850&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1783&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1850&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;[Poems by Smith in] The Bowdoin poets&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Alexandria, VA&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Inc.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 13 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only poems by Smith included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-AmPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE MOTHER PERISHING IN A SNOW-STORM. “In the year 1821, a Mrs. Blake perished in a snow-storm in the night time, while traveling over a spur of the Green Mountains in Vermont. She had an infant with her, which was found alive and well in the morning, being carefully wrapped in the mother's clothing.” The cold wind swept the mountain's height, And pathless was the dreary wild, And 'mid the cheerless hours of night A mother wandered with her child. As through the drifting snow she pressed, The babe was sleeping on her breast. And colder still the winds did blow, And darker hours of night came on, And deeper grew the drifting snow; Her limbs were chilled her strength was gone. ‘Oh, God!’ she cried, in accents wild, ‘If I must perish, save my child!’ She stripped her mantle from her breast, And bared her bosom to the storm, And round the child she wrapped the vest, And smiled to think her babe was warm. With one cold kiss one tear she shed, And sunk upon her snowy bed. At dawn a traveler passed by, And saw her 'neath a snowy veil; The frost of death was in her eye, Her cheek was cold, and hard, and pale;— He moved the robe from off the child, The babe looked up and sweetly smiled! TO THE AUTHOR'S WIFE, ABSENT ON A VISIT. Come home my dear Elizabeth; I'm sure could you but know The sadness of my lonely hours, You would not leave so. If love could not restrain you, Sure the kindness of your heart Would not allow that mine so long Should feel this aching smart. Like the dove that found no resting On the weary waters wide, I wander, but I find no rest Apart from thee, my bride. Yes bride I still must call thee, Though sixteen years have fled, Fraught with the ills and joys of life, Since the day that saw us wed. Yes bride I still must call thee, For still I feel thou art The morning light unto mine eyes, And the life-blood to my heart. Kind friends may be around me, With gentle words and tone, And all the light, gay world may smile, But still I am alone. The bright bird that you left me, Chirps often through the day, And his music but reminds me That you are far away. For your sake I will feed him With fresh seeds and with flowers, And his morning and his evening song Shall count my weary hours. And oft our little Edward Comes clinging to my knee, And says with loud and hearty laugh, ‘Dear Father, play with me.’ And when I kiss his little cheek, His bright blue eyes look glad; And I talk with him and play with him, But still my heart is sad. My sun of life, Elizabeth, Hath passed its fervent noon; I feel the ‘sear and yellow leaf’ Will be upon me soon:— But though misfortunes press me, And the world be false and cold, Let thy love and presence bless me And I'll mind not growing old. And I'll mind not fortune's frowning, Nor the heartlessness of men, When I see thee home returning, Our abode to cheer again. THE LITTLE GRAVES. BY SEBA SMITH. 'Twas autumn, and the leaves were dry, And rustled on the ground, And chilly winds went whistling by With low and pensive sound, As through the grave yard's lone retreat, By meditation led, I walked with slow and cautious feet Above the sleeping dead. Three little graves, ranged side by side, My close attention drew; O'er two the tall grass bending sighed, And one seemed fresh and new. As lingering there I mused awhile On death's long, dreamless sleep, And morning life's deceitful smile, A mourner came to weep. Her form was bowed, but not with years, Her words were faint and few, And on those little graves her tears Distilled like evening dew. A prattling boy, some four years old, Her trembling hand embraced, And from my heart the tale he told Will never be effaced. ‘Mamma, now you must love me more, ‘For little sister's dead; ‘And t'other sister died before, ‘And brother too, you said. ‘Mamma, what made sweet sister die? ‘She loved me when we played: ‘You told me, if I would not cry, ‘You'd show me where she's laid.’ ‘'Tis here, my child, that sister lies, ‘Deep buried in the ground; ‘No light comes to her little eyes, ‘And she can hear no sound. ‘Mamma, why can't we take her up, ‘And put her in my bed? ‘I'll feed her from my little cup, ‘And then she wont be dead. ‘For sister 'll be afraid to lie ‘In this dark grave to-night, ‘And she'll be very cold, and cry, ‘Because there is no light.’ ‘No, sister is not cold, my child, ‘For God, who saw her die, ‘As He looked down from Heaven and smiled, ‘Called her above the sky. ‘And then her spirit quickly fled ‘To God by whom 'twas given; ‘Her body in the ground is dead, ‘But sister lives in Heaven.’ ‘Mamma, wont she be hungry there, ‘And want some bread to eat? ‘And who will give her clothes to wear, ‘And keep them clean and neat? ‘Papa must go and carry some, ‘I'll send her all I've got; ‘And he must bring sweet sister home, ‘Mamma, now must he not?’ ‘No, my dear child, that cannot be; ‘But if you're good and true, ‘You'll one day go to her, but she ‘Can never come to you. ‘Let little children come to me, ‘Once the good Savior said; ‘And in his arms she'll always be, ‘And God will give her bread.’</field>
+   </doc>
+</add>

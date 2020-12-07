@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Beaumont, John, Sir, 1583-1627</field>
+      <field name="author_facet">Beaumont, John, Sir, 1583-1627</field>
+      <field name="author_sort_facet">beaumont john sir 1583 1627</field>
+      <field name="author_text">Beaumont, John, Sir, 1583-1627</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1920's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.0947.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1926</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459577</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Theatre of Apollo</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 20th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 20th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Theatre of Apollo</field>
+      <field name="title_facet">theatre of apollo</field>
+      <field name="title_sort_facet">theatre of apollo</field>
+      <field name="title_text">The Theatre of Apollo</field>
+      <field name="year_display">1926</field>
+      <field name="year_facet">1926</field>
+      <field name="year_multisort_i">1926</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459577&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459577&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Beaumont, John, Sir, 1583-1627&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;beaumont john sir 1583 1627&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Theatre of Apollo&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;theatre of apollo&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1926&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1926&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Beaumont, John, Sir&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1583&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1627&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Theatre of Apollo&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Frederick Etchells &amp;amp; Hugh Macdonald&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1926&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872056-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv10947&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Theatre of Apollo&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 23 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and editorial matter omitted&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The theatre of Apollo.</field>
+      <field name="desc_meta_file_display">Genre: Entertainment.</field>
+      <field name="desc_meta_file_display">Date first published: 1926.</field>
+      <field name="desc_meta_file_display">Date first performed: 1625.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE THEATER OF APOLLO Where Fires of Ioy are raised: sacred to the euer happie and æternall memory of our SOVERAYGNE the Great Apollo, and his most Roiall Ofspring. Before prepared to be offered to the sacred Maiesty of our deceased Souereigne King IAMES. And now presented to the Roiall handes of our Gracious Lord, King CHARLES, heire of the Kingdoms, Vertues, and glories of his Father.</field>
+      <field name="fulltext">THE SCENE. PARNASSVS. Glorified, through innumerable lights, flowing from the Beames of the bright Apollo. Who seated in a high, and glorious Throne, crowned with Lawrells, holdes in his hand a Crowne, the reward of some noble Poett, whom he pleaseth most to honour. Beneath Apollo, on the right hand of the Theater, is placed the Prjnce his Highness, in a Triumphant Charriott, drawne by Fame. Ouer against him, the Queene of Bohemia, with her Royall Progeny, all Laureat, in a Triumphant Charriot, drawne by Peace. Jn the mid'st, at Apollo's feete; breakes forth the fountaine of Aganippe, mother of Poetts, which falling by degrees vppon seuerall pretious, &amp; transparent Rocks, setteth forth the variety of Witts jmployment. MUSICK. And now the goulden Charriot of the Sunne, Had more then halfe his glorious Course begunn, The fiery Steedes drewe neere those waving streams, That vse to coole their mouths, and quench their beams. And Phebus wearied, longs for Thetis bedd: Yet in his passage, turnes his radiant head Vppon Parnassus; thence hee flyes away, And flying Cries, Apollo, rule the Day. Chorus with voyces: Nowe the Sunne makes hast away, Lett Apollo rule the Day. Who out-shines the sunne as farre, As the Sunne, some lesser starre. MUSICK. To the greatest of Maiestie, our Soueraigne, glorious Emperour of Parnassus, most happy King of the Muses, &amp; incomparable Monarck of Light. Behould Apollo, Monarck of this Light, The Heau'ns, and Earth, conspire to make him bright. See howe theis flames, changing their wonted Sky, Receive their luster, from his sacred Eye. Well may the Sunne, leave shining, &amp; give way; To see this newe Commander of the Day. The Princes.But shine thou still; and maye these Starrs beneath Make to thy forehead an immortall Wreath. Chorus Proud Parnassus in this King, Offers sacred Crownes to bring; Which might seeme to others, bright, But Apollo dimms their light. And with one commanding eye, Rules the beauties of this skye. MUSICK. To the high, and mighty Prince, heire apparent, to the great illuminat Apollo; famous Protector of the Nation Laureat. Thou in thy Charriot, drawne by winged Fame, That sendes forth Eccho's of thy glorious Name; Great Charles, high heire, to all Apollos rights, To thee Parnassus consecrates theis lights. Thou Authour of my Muse, make smooth my verse, When I shall dare thy greatnes to reherse; Till then, to sing thee, I might seeme as vayne, As some small streame, that thinckes t'increase the Mayne. And though yet absent, still my thoughtes adore Thy heav'nly Nymphe, borne to inritch this Shore. Shee must increase our ioys, crowne our desires, And ioyne her flames, vnto Apolloes fires. Chorus. Happy Charles, o Eye of Fame; Lett mee sing thy sacred Name, Thou that art in all this Quire, Placed next Apollo's fire. And thy Nimphe, that coms from farre, When shee sees her Charles his Starre; The Duke of Buckingham.Shall with ioy receiue that ? guide, That shall make her Charles his Bride. MUSICK. To the most heroick Princesse of all Princes, Eliza Berecinthia, Mother of the Gods. Queene of Beauty. Sound on sweete strings, supply my ruder voice, While I astonisht stand, in midst of Choice, Of heave'nly Beauties, which, in thee, and thyne; Most faire Eliza, like the Morning shyne. Parnassus crownes thee, with his laureat armes, Free as the Eagle, from fearce thunders harmes. Beholde the Raynbowe, mirror of the Sunne, Ritch Scarfe of varied ayre, (firme Peace begun) Smiles on thy cleerer Tymes, conspires with Fate, To build thy Fortune a triumphant Gate, And Peace shall drawe thy Chariott, while the Day, Shall wake the Morne, and with her blushes play. Chorus. Heere I still admiring stande, At that dainty-fingred hand, That could cast within that measure, Such a boundlesse Sea of treasure. Her the Gods have sworne to raise, To a Crowne of happy daies. MUSICK. To the most Roiall Progenye, of the Great Emperour of Parnassus, the glorious expectations of Europe, and shyning hopes of the Vniuersall Worlde. Smile still sweete Cherubins, raise vp those wings; And see what Fortune, Queene of Kingdoms brings; Shee in the midst of glorious Scepters standes, Made by the Gods, fitt for no mortall handes, But yours: and Earth, proclayming you for Kings, New-found Dominions to your Scepters bringes. Chorus. These soe soft, and tender things, Must be framed into Kings; Wanton Tyme as yet delayes, And with cheeks of Roses playes; But their births soe blest by starres, Doe fore-tell triumphant warrs. MUSICK. The Close to Apollo. Heere with these Muses, our Apollo lives, And heere to men his sacred aunsweres gives: And vnto him as King, and to his Race, Are onely due the beauties of this place. But see that hand; charg'd with triumphant Bays, To crowne that Muse, that best should sing his praise. Ofte have the Sisters mett in Choisest Quires, To sing the pleasures of Apollos fires; Oft have they labour'd, to expresse his might, As King of Muses, Emperour of Light. Yet still the Laurell standes, as due to none, But her, whom greatest Villiers brought vnknowne, Beaumonts Muse.Before Apollo's throne, and made her sing With heave'nly tunes, the greatnes of his King. To the admired Fountayne of Aganippe. Slide fairely Nimph, runn not soe fast awaye, These shining Rocks deserve a longer staye; Eridanus shall quench his heavenly beames, At sight of Aganippes varied streames; And Iris shall for greefe hang downe her head, When shee behouldes theis coulors on thy bed. That winged Atlas, chiefe of Iuno's spies, Shee that is deckt with Argo's watchfull eyes, Shall strike her colour'd sayles, teare downe her fights, And yeild to Aganippes conque'ring lights. But yee Apollo's Preests, who from these vaynes, Receive your fullnesse, in your diff'rent straynes; Strike gently with your Censures, nor refuse, Ambitious of your grace, my straunger Muse; While shee shall followe Aganippes waves, From Hiacinthin heav'ns, to sable Graues. MUSICK. The first fall of the Fountayne Vpon a Rock of Hiacinthes. To this first streame of Hiacinthes, belong Those Poetts, who to Heau'n have rays'd their song; Heere Erythræa dipt her sacred tung, When shee of Gods descent soe deepely sung; Heere did the Ancients tune their curious strings, To their delightfull songs of heav'nly things, Of that great triumph, when confirmed in Grace, The Angells sawe their Makers glorious Face, Mans clayme to Heau'n, through Sinne condemn'd to payne, And Man, by God and Man, redeem'd againe. Theis, and a thousand more mysterious stopps, Were play'd vppon by vertue of these dropps; But nowe these bancks forlorne, the waters flye, Downe to these earthly streames, and in them dye. MUSICK. The second fall of the Fountayne vpon a Rock of Emeralds. This Rock of Emralds, showes in youthfull robe, The seate of Man, Prince of this Earthly Globe. The Scene is morall action, oft exprest By pure, and spotlesse Poetts; for the rest, This Fountaine never fed them, whom we showe, Lye heere tormented on this Rock belowe. MUSICK. The third fall, vpon a fiery Rock of Pyropus. Hould of rash hands, sett not the world on fire, With hart-consuming flames, Loues fond desire. Oh howe their mouths lye bathing! gorg'd with meats, That fill not, but torment with endlesse heats! Poore Aganippe, shall thy waters bring To men a poyson, worse then Serpents sting? Noe thou art cleere, it is our venom'd harte, That hath infected Loues, pure, harmlesse darte. Loue was a gentle heate, sent from aboue, To soften stony harts, and hate remove; But now Loue is an Art, where foule Desire, Takes his Degrees, in seats of scorching fire. MUSICK. The fowrth fall, vpon a Rock of Rubies. Behould, within this Rubies sanguin brest, The firy streames of Loue would seeme to rest; But Loue is restlesse; heere the Poetts sing, Of those sharpe warrs, which from this passion spring. The Flames of Ilium, Romes, and Sabins stryfe, Prowd Tarquins error, to that fayre, chast Wyfe. Thus Loue inflam'd the bloud, and bloud thus fir'd, For due revenge, a sea of bloud requir'd. MUSICK. The fifth, and last fall, vpon a Rock of Agatts. On this Darke Rock of Agatts, waters fall, That showe lifes period, Death, the ende of All. But hetherto my Muse hath trode the ground, In which our great Apollo's fame is Crown'd; This day is due to Triumphs; let that Muse Vntimely weepe, that can these ioyes refuse. Wee now pay vowes, yeeres of our yeeres wee give, That this our bright Apollo long may live, And see his foes, if any suche aspire, To stopp the Musick of this glorious Quire, Lye prostrate at his feete, and mercy crye, Till pardon flowe, from His appeased eye. Chorus. And thus bright Apollo shines, While the Sunne his way declines; Since the heau'n, vpon his spheare, Can not two Apollo's beare.</field>
+   </doc>
+</add>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Ellwood, Thomas, 1639-1713</field>
+      <field name="author_facet">Ellwood, Thomas, 1639-1713</field>
+      <field name="author_sort_facet">ellwood thomas 1639 1713</field>
+      <field name="author_text">Ellwood, Thomas, 1639-1713</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1860's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.0105.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1867</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464742</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">The Penns &amp;amp; Peningtons</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">The Penns &amp; Peningtons</field>
+      <field name="title_facet">penns &amp; peningtons</field>
+      <field name="title_sort_facet">penns peningtons</field>
+      <field name="title_text">The Penns &amp; Peningtons</field>
+      <field name="year_display">1867</field>
+      <field name="year_facet">1867</field>
+      <field name="year_multisort_i">1867</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464742&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464742&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Ellwood, Thomas, 1639-1713&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;ellwood thomas 1639 1713&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Penns &amp;amp; Peningtons&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;penns &amp;amp; peningtons&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1867&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1867&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Ellwood, Thomas&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1639&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1713&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Penns &amp;amp; Peningtons&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;F. Bowyer Kitto&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1867&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp1269&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;xiv, 430 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Penns &amp;amp; Peningtons&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 17 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only verse by Ellwood included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">SOLITARY THOUGHTS ON THE UNCERTAINTY OF ALL HUMAN THINGS. “Transibunt cito, quæ vos mansura putatis.” What ground, alas! has any man To set his heart on things below, Which, when they seem most like to stand, Fly like an arrow from a bow? Things subject to exterior sense Are to mutation most prepense. If stately houses we erect, And therein think to take delight, On what a sudden are we checked, And all our hopes made groundless quite! One little spark in ashes lays What we were building half our days. If on estates an eye we cast, And pleasure there expect to find, A secret providential blast Brings disappointment to our mind. Who's now on top ere long may feel The circling motion of the wheel. If we our tender babes embrace, And comfort hope in them to have, Alas! in what a little space Is hope laid with them in the grave! Whatever promiseth content Is in a moment from us rent. But is there nothing, then, that's sure For man to six his heart upon? Nothing that always will endure When all these transient things are gone? Sad state where man, with grief oppress'd, Finds nought wherein his mind may rest. Oh yes! there is a God above, Who unto men is also nigh, On whose unalterable love We may with confidence rely. No disappointment can befall While trusting Him that's All in All. In Him o'er all if we delight, And in His precepts pleasure take, We shall be sure to do aright. Tis not His nature to forsake. A proper object He alone For man to set his heart upon. T. E. Kent, 4th, 7th mo. 1670. TO THE HOLY ONE. Eternal God! Preserver of all those (Without respect of person or degree,) Who in thy faithfulness their trust repose, And place their confidence alone in thee, Be Thou my succour; for thou know'st that I On thy protection, Lord, alone rely. Surround me, Father, with thy mighty power; Support me daily by thine holy arm; Preserve me faithful in the evil hour; Stretch forth thine hand to save me from all harm; Be thou my helmet, breastplate, sword, and shield, And make my foes before thy power to yield. Teach me the spiritual battle so to fight That when the enemy shall me beset, Armed cap-a-pie with armour of thy light, A perfect conquest o'er him I may get, And with Thy battle-axe may cleave the head Of him who bites that part whereon I tread. Then, being from domestic foes set free, The cruelties of men I shall not fear, But in thy quarrel, Lord, undaunted be, And for Thy sake the loss of all things bear, Yea, though in dungeons lock'd, with joy will sing A song of praise to Thee, my God, my King. T. E. Sussex, 11th mo. 1669. A SONG OF PRAISE. Thy love, dear Father! and thy tender care Have in my heart begot a strong desire To celebrate thy name with praises rare, That others, too, thy goodness may admire, And learn to yield to what thou dost require. Many have been the trials of my mind, My exercises great, great my distress; Full oft my ruin hath my foe designed; My sorrows then my pen cannot express, Nor could the best of men afford redress. When thus beset to Thee I lift mine eye, And with a mournful heart my moan do make. How oft with eyes o'erflowing did I cry, My God, my God, oh do not me forsake, Regard my tears, some pity on me take! And to the glory of thy holy Name, Eternal God! whom I both love and fear, I hereby do declare I never came Before thy throne, and found thee loth to hear, But always ready with an open ear. And though sometimes tho seem'st thy face to hide, As one that had withdrawn thy love from me, 'Tis that my faith may to the full be tried, And that I thereby may the better see How weak I am, when not upheld by thee. For underneath thy holy arm I feel, Encompassing with strength as with a wall, That if the enemy trip up my heel, Thou ready art to save me from a fall. To thee belong thanksgivings over all! And for thy tender love, my God, my King, My heart shall magnify thee all my days; My tongue of thy renown shall daily sing; My pen shall also grateful trophies raise, As monuments to thy eternal praise. Upon the Excellently Learned JOHN MILTON. An Epitaph. Within this arch embalm'd doth lie One whose high fame can never die; Milton, whose most ingenious pen Obligéd has all learnéd men. Great his undertakings were, (None greater of their kind,) Which sufficiently declare The worth and greatness of his mind. Mean adversaries he declin'd, And battle with the chiefest join'd. Not e'en the Royal Portraiture Proudly could before him stand, But fell and broke, Not able, as it seems, t'endure The heavy stroke Of his Iconoclastes hand. Thus the so-fam'd Eikon Basilike Became the trophy of his victory. On his triumphant chariot too did wait One who had long the crown of learning wore, And of renown had treasur'd up good store, But never found an equal match before, Which puff'd him up, and made him too elate. This was the great Salmatius, he whose name Had tower'd so high upon the wing of fame, And never knew till now What 'twas, alas! to bow; For many a gallant captive by the heel Had he in triumph dragg'd at's chariot-wheel. But now is fain to stoop, and see the bough Torn from his own to deck another's brow. This broke his heart; for, having lost his fame, He died 'tis hard to say whether thro' grief or shame. Thus great Salmatius, in his winding sheet, Lies prostrate at far greater Milton's feet— Milton in whom all brave endowments meet! The majesty of Poesy he reviv'd, The common road forsaking, And unto Helicon a new track making, To write in measures without rhyme contriv'd. He knew the beauty of a verse well made Doth in a just and due proportion lie Of parts, true feet, right cadence, symphony, (A thing by vulgar poets lightly weigh'd,) Not in the tinkling chime Of a harsh and far-fetch'd rhyme. Two great examples of this kind he left, (The natural issue of his teeming brain); One shows how man of Eden was bereft; In t'other man doth Paradise regain, So far as naked notion can attain. Nature in him a large foundation laid, And he had also superbuilt thereon A structure great, indeed, and fair enough, Of well-prepar'd and finely-polish'd stuff, Admir'd by all but equalléd by none. So that of him it might be said (And that most truly too,) Nature and Art Had play'd their part, As if they had a wager laid Which of them most for him should do. His natural abilities Were doubtless of the largest size; And thereunto he surely had acquir'd Learning as much as could be well desir'd. More known his learning was not than admir'd. Profound his judgment was and clear; His apprehension of the highest strain; His reason all before it down did bear, So forcible, demonstrative, and plain It did appear. Lofty fancy, deep conceit, Style concise and language great Render'd his discourse complete, On whatsoever subject he did treat. Invention never higher rose In poetic strains or prose. In tongues he so much skill had got, He might be called The Polyglott. Even they 'gainst whom he writ Could not but admire his wit, And were forcéd to confess (For indeed it was in vain To deny a thing so plain,) That their parts than his were less. Unto him the Muses sent,— And that, too, not in compliment; For doubtless 'twas his due, As all that knew him knew— The title of Most Excellent, Of which title may he rest Now and evermore possess'd! T. E.</field>
+   </doc>
+</add>

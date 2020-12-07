@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Hamlin Garland</field>
+      <field name="author_facet">Hamlin Garland</field>
+      <field name="author_sort_facet">hamlin garland</field>
+      <field name="author_text">Hamlin Garland</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1900's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/GarOkla.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">1904</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:475979</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Two Stories of Oklahoma</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">Two Stories of Oklahoma</field>
+      <field name="title_facet">two stories of oklahoma</field>
+      <field name="title_sort_facet">two stories of oklahoma</field>
+      <field name="title_text">Two Stories of Oklahoma</field>
+      <field name="year_display">1904</field>
+      <field name="year_facet">1904</field>
+      <field name="year_multisort_i">1904</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:475979&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:475979&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Hamlin Garland&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;hamlin garland&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Two Stories of Oklahoma&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;two stories of oklahoma&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1904&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1904&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Hamlin Garland&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Two Stories of Oklahoma&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1904&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Century Magazine&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1904&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;pp. 328-329&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Two Stories of Oklahoma&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 9 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">I. NUKO'S REVENGE NUKO, an Arapahoe warrior, owned a rooster which he kept in his camp near the agency on the Canadian River of Oklahoma. He guarded his pet with zealous care. It was his inseparable companion, often carried under his arm as he galloped across the prairie on his visits to his friends and relatives. No ridicule could cause him to neglect his pet. One day the camp police — the Dog Soldiers — passed through the village, ordering the tepees to be packed, announcing that the tribe was about to start on a buffalo-hunt in the foothills to the west. Nuko, much concerned about his pet, went at once to the agency doctor, and presenting the rooster very tenderly in his hands, thus began: "My friend, I am about to go on the hunting-trail with my people, and I want to leave my chicken with you. You see him, how gaily colored he is, how tame. I wish to have him well cared for, therefore I bring him to you. Keep him for me. I am very fond of him. He sits every night on my couch. He has a fine voice — you will enjoy hearing him cry out at dawn. It is like a soldier's bugle, his song. He will always tell you when the light is coming. You will never oversleep while he sits on your bed. You will never be lonely. He helps to pass the time. Like me, you have no wife. He will therefore be company for you, and if he is sick you can give him medicine to make him well." The doctor declined the rooster with many thanks, but very definitely, and Nuko went away disconsolate and deeply disappointed with his friend. The agency farmer listened to his plea and consented to take the rooster. "I don't want him in the house," said he, "but I will put him among the fowls of my barn-yard." To this Nuko consented, and went away on the western hunting-trail quite cheerfully. Some months later, as the farmer was soundly sleeping after his Sunday dinner, Nuko entered and touched him on the shoulder. "How, how, my friend! I have returned, you see. My tepee is again in its place, and I have come for my rooster." The farmer looked surprised and a little disturbed, and after a moment's hesitation said: "Nuko, your rooster is dead." Then, as Nuko's face fell and his lips quivered, the white man added, exultantly, with intent to console: "But he died like a warrior. He fell in battle. He fought every other rooster in the barnyard and beat them all — only the turkey-gobbler could master him. There is the killer of your pet." He pointed from the door at the puffed-out, vainglorious, insolent turkey-cock, strutting with rustling wings about one of his meek and complacent wives. A fierce gleam came into Nuko's eyes. "Ho!" said he, "so you are the assassin of my little brave. You shall be punished." And flinging his hunting-knife with miraculous skill, he snipped the head from the arrogant boaster's neck. "Hold!" shouted the farmer, "that turkey belongs to the Great Father at Washington." "Nevertheless, I shall eat him," replied Nuko. "He slew my little Golden Voice, and now, behold, I take his scalp. It is the law of my people." Thereupon he flung the fallen braggart over his shoulder and strode away.</field>
+      <field name="fulltext">II. A RED MAN'S VIEW OF EVOLUTION ONE time, while we were camped on the Washita, said the agency farmer, we were visited by an old Kiowa, a dignified and serious old man. I was introduced to him as the "white father," out there to help the red men work and to show them the white man's road. The old man said, "Aye, is that so!" but didn't seem very much impressed. After a moment's silence he got out his buffalo-horn tinder-box, and, after carefully examining the punk with which it was filled, began pecking with his flint in an effort to light his tinder-box. I watched him pecking away for a while, sometimes hitting the flint, oftener barking his leathery fingers, and at last I said to a Cheyenne: "Why doesn't he use a match and done with it, not sit there pecking away all night?" This being translated to the old Kiowa, he began to speak, but never for a moment interrupted his play with the flint, and this is what he said: "You white men think you are very wise [peck, peck]. You have made little fire-sticks, and you think the red men can't get along without them [peck, peck]. I will tell you, we didn't have so much trouble in the good old days as we do now [peck, peck. The old man's stroke grew a little vicious.] Before the red man had the white man's fire-stick, we didn't have so many fires and we didn't have to move every few days on account of the prairie burning black." At this point he struck out his spark and hurriedly lighted his pipe. After puffing vigorously a few times, he continued calmly: "Now the red man uses the white man's fire-stick; he lights his pipe, he throws away the end: the grass blazes up, and then the ponies grow hungry. It is all bad business." The old man smoked in silence for a few moments, but at last resumed: "Yes, these white men think they are very clever, but they are really very foolish; they are very ridiculous [puff, puff]. They think they are men, but look at them [puff], see the hair on their faces; they are not men, they are only hair-covered animals." At this everybody in the tepee cried out with delight, and I, in self-defense, joined in the laughter, but the old man remained as grave as a bronze image. Reaching up with his forefinger, he outlined the beard upon my face and said slowly, hopefully, as if to be gently encouraging: "But they are changing. You see, the hair is wearing away — in spots." Then settling back, he blew out a great cloud of smoke, and with patient paternal benignity concluded: "They'll be men by and by." Hamlin Garland. WEST SALEM, WISCONSIN.</field>
+   </doc>
+</add>

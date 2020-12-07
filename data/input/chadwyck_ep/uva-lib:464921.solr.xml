@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Cobb, Samuel, 1675-1713</field>
+      <field name="author_facet">Cobb, Samuel, 1675-1713</field>
+      <field name="author_sort_facet">cobb samuel 1675 1713</field>
+      <field name="author_text">Cobb, Samuel, 1675-1713</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.0399.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1694</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464921</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Greek, Modern (1453- )</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">A Pindarique Ode: Humbly Offer'd to the Ever-Blessed Memory Of our Late Gracious Sovereign Lady Queen Mary. Written by J. D</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">A Pindarique Ode: Humbly Offer'd to the Ever-Blessed Memory Of our Late Gracious Sovereign Lady Queen Mary. Written by J. D</field>
+      <field name="title_facet">pindarique ode humbly offerd to the ever blessed memory of our late gracious sovereign lady queen mary written by j d</field>
+      <field name="title_sort_facet">pindarique ode humbly offerd to the ever blessed memory of our late gracious sovereign lady queen mary written by j d</field>
+      <field name="title_text">A Pindarique Ode: Humbly Offer'd to the Ever-Blessed Memory Of our Late Gracious Sovereign Lady Queen Mary. Written by J. D</field>
+      <field name="year_display">1694</field>
+      <field name="year_facet">1694</field>
+      <field name="year_multisort_i">1694</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464921&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464921&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Cobb, Samuel, 1675-1713&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;cobb samuel 1675 1713&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A Pindarique Ode: Humbly Offer'd to the Ever-Blessed Memory Of our Late Gracious Sovereign Lady Queen Mary. Written by J. D&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;pindarique ode humbly offerd to the ever blessed memory of our late gracious sovereign lady queen mary written by j d&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1694&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1694&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Cobb, Samuel&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1675&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1713&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Pindarique Ode: Humbly Offer'd to the Ever-Blessed Memory Of our Late Gracious Sovereign Lady Queen Mary. Written by J. D.&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for John Whitlock [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1694&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp0790&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;gre&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;12 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Pindarique Ode: Humbly Offer'd to the Ever-Blessed Memory Of our Late Gracious Sovereign Lady Queen Mary. Written by J. D.&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 31 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Pallida mors æquo pulsat pede pauperum tabernas, Regumque turres. Hor.lib.I.Carm.</field>
+      <field name="fulltext">A Pindarique ODE, UPON THE Death of the QUEEN. I. The Mighty Work is done, which in his Heav'nly Mind, Th' Immortal Pow'r above had long before design'd. See, the Great Pillar of the World lies Dead, Consum'd by unavoided Fate! See, what old Prophets in their Verses said, Who of this fatal Day did wondrous Things relate! O Sacred Shade, why didst Thou silent go? Why stood the solid Earth so firm at such a Blow? Ye Heavens, why shook ye not? why did not Storms arise, And Darkness overflow the Skies? Or hairy Comets this strange Revolution show? As that Great Ol. Comwel. Monster of the World, Who every Kingdom with fierce Wars did rend, Who all things in disorder hurl'd, In Thunder, and in Hurricanes did to the Shades descend. But Heav'n of Her far better things did know, And She who no disturbance made below, Twas just She should to Heav'n in Peace and Silence go. II. Ah wretched Nation! thrice unhappy Land! Which dost on ev'ry side on ruine stand; Become a Wonder to thy Friends and Foes. How art Thou mourn'd by these! how scorn'd by those! Insulting Paris, with a wicked Joy, Laughs at thy Sorrow and thy Tears, And that Lewis, XIV. Old Serpent, who does all destroy, Hisses, and shakes his Tail, when the glad News he hears. Empress of Islands once! the Glory and the Pride Of all the Spacious Universe beside: Thy Valour show, thy Courage now declare, Where is thy Strength? Thy Beauty where? Thee Nations lov'd, thee Kingdoms did adore, And thy unbounded Pow'r, did stretch from Shore to Shore; And thy Imperial The arms of England. Lions through the World did Roar. Heaven's brooding Seed on all thy Fields did lie, And thy large Fleece was never dry. Be, Happy Isle, (said God) for ever be From Hostile Arms, and from Invasion free: Thee let no cruel Troops assault, no mighty Host, No foreign Prince invade thy Armed Coast. Then round thy Bosom the wide Sea He threw, And made the Waves a Shield, and Castle too. But, Darling of the Gods! The Care of Heav'n alone! Oh! say, Where are thy Mighty gone? Where are they now who guarded thee from Violence &amp; Wrong? Justly we're fill'd with Wonder and with Dread, Since all that e're was lovely, now is fled, The Great, I mean the Good, and Vertuous MARY's dead. III. Tell, O ye Winds, Fate's rigid Law, Spread all around the mournful Voice; Let Belgia hear th' unhappy Noise, And bear it to Fam'd Orange, and Nassau. Say their Great Hero trembles now, A Royal Sorrow sits upon his Brow; And underneath the Weight His Valiant Soul does bow. He, whom nor barb'rous Turks, nor France could e're With their unnumbred Armies terrify, Death He hath seen in War, yet never fear'd Him there, Nor trembled when the Bloody Standard rose; Nor was afraid in Martial Camps to die: Whose single Valour can oppose A Universe of Stubborn and resisting Foes; The only Hero, th' universal He, That ne're was Conquer'd yet, and ne're will be: At last His Love above His Heart prevails, His Strength eclips'd, and all His Courage fails. As the Alexander moan'd his dear Friend Clitus. Pellæan did his Friend bemoan, And breath'd forth many a Sigh and many a Groan: Soft Tears unbuckl'd His Heroick Soul, Nor could He tame His Grief, nor could His Heart controul. IV. Ye Ships made of Pine, Piny Fishes, wheresoe're you go, Let remote Kingdoms our Great Sufferings show: Where're your flying Canvass does its Wings display, Where're through the large Regions of the Main You cut your liquid Way, To Nations, as you pass, complain; Tell ev'ry Coast, and ev'ry Shore, Say the Great Alluding to that noted Story of ??? ? ????? ???????, The Great God Pan is dead. Pana's dead, say England is no more. The Winds shall bear it to some distant Clime, Whether fam'd China or Japan it be, There to Her Name shall live, and conquer aged Time; And role with ev'ry Wave along the Sea. Beyond where the known The Pillars of Hercules. Ne plùs ultrà. Columns stood of Old, Beyond what Mariners shall e're descry, Beyond those Worlds unknown, where're they lie; Her Glory, and Her Virtue shall be told. And if by me Thy Name is e're forgot; If e're Great Ghost, it slips out of my mindful Thought; May Art forsake me! and my Muse become, For ever silent, and forever dumb! O may it never more my Mind inflame, If I shall once forget Thy Memory and Name! V. But say, What shall I worthy Thee rehearse? Too high my Subject, and too mean my Verse. Say in what Lays, in what immortal Strain, In what bright Numbers wilt thou live again? For tho' thy Body mingled in the Dust does lie, Thy Soul, which never is to die; Thy mighty Soul, stamp'd of Heav'n's noblest Coin, More Pure than Gold, more Precious and Divine, Does in thy Everlasting Vertues shine: Thy Everlasting Vertues did I say? Yes, sure, they will remain; Yes, sure they will for ever last, and reign, Beyond the Last and Everlasting Day. Nor art Thou gone, whilst there is left behind The best and truest Image of Thy Mind. Vertue does Thy resemblance show, And still Thou breathest in th' Example which Thou gav'st below. As when the God of Light descends to rest In the deep Ocean of the sultry West, Some steps of Phœbus we may still behold, He fringes all the Clouds with Silver and with Gold. VI. Say, mighty Shade, to whom hast thou assign'd Thy noble Spirit? to whom's Thy Mantle left behind? Speak; Does that happy Mortal breathe below Who can compare with Thee? Who can Thy Praises show? Smile but upon me, and Thy Smiles will raise Me to so vast and lofty Pitch, that I Shall soon forget my-self, and learn to fly With other Poets, whose immortal Lays Do pierce the gilded Sky; Where meaner Birds did never stretch their Wings, and where Only Jove's Royal Eagles sail thro' the unbounded Air. Only Eagles can look against the Sun stedfastly.These with a steddy Eye behold the Sun, And see the shining God in his Meridian run. Strictly they view the Glories of his Face, How bright his Beauties, and how swift his Race: Whilst others standing on the Ground below, Look up, and faint, and weak, and weary grow; No longer able on his Light to gaze; No longer able to endure the Vertue of his Rayes. VII. How then shall I, a meaner Bird, begin? Which of thy num'rous Vertues shall I sing? Or thy Religion and Piety, Thy Patience, and Thy Clemency, Thy Mildness, and Humility, And wide extended Charity, Which thro' the British World did run. Which with the Sun it's Morning Race begun, And ended with the lab'ring Sun. Widely and far Thy Princely Bounty reach'd, And, like the From Pharos, an Island in Egypt, lying at the Mouth of Nile. Pharian Nile, o'er all our Nation stretch'd; But far more happy did it glide, With a more fruitful and more Nile flows but once a Tear. constant Tide, And water'd all the World beside. Forgive me, Son of God! and pardon if I say Like Thee She spent her Night, like Thee Her Day; Like Thee She could Create anew; So far Her winged Bounty flew: Thousands, like Thee, She often fed, And oft She heal'd the Sick, and oft reviv'd the Dead. VIII. Nor did She spread Her Charity alone; To Heav'n, and all the World Her Piety was known: Religion did Her Actions sway; Religion's Precept She did still obey, And every Hour did Praise, and ev'ry Hour did Pray. She, like th' old Hebrew Moses. Prophet, did with Heaven discourse, Her Prayers obtain'd such mighty force. She talk'd with the Creator Face to Face; And thence Her Beauty shone, and thence Her Heav'nly Grace. But all our Opticks of Philosophy, All our faint Reason is to weak to see Whether She was a part of the Blest Trinity: Whether She was the Holy Ghost, or no, And came in Human Flesh to visit us below; For since She liv'd by Prayer, we may suppose it so. IX. She, like Elias, when the Land was parch'd and dry, Unlock'd the watry Chambers of the Skie. Her Pray'rs such Blessings did obtain, She from above could call the Dew and fruitful Rain. Nor need we wonder at her living Power, Since being dead She caus'd a greater Shower. Her Prayers were equal to Her Friends and Foes, She pray'd for these, and pray'd for those. And when the Scepter fill'd Her Royal Hand, Of Idols how She purg'd the Christian Land! Destroy'd the Golden Calves which did in The Church; for Beth-el by interpretation signifies, The House of God. Bethel stand. Strong, tho' a Woman, like some Rock She stood, And frightn'd all the Hellish Brood: By Vulturs and the rest are meant Roman Catholicks.Vulturs, and wild Birds of prey, Owls, and Bats, which hate the Day, From Her Divinity did haste away. Thou North, (and then in God's great Dialect She spake. God's Dialect became Her well) Those cruel Foes to Us, O North, in pieces break; And, O ye Winds, that stubborn Off-spring quell: Drive those Swine headlong in the The Tyrrhene is put for any Sea. Tyrrhene Main, said She, For since they harmful and pernicious be, And cannot live by Land, 'tis fit they should by Sea. X. Tho' Heav'n Her num'rous Vertues knew, To Heav'n Her num'rous Vertues flew: Tho' She had all the Glory that Mortality could have, (Glory! that Cloud, which, like a Shadow, runs, And, like a Daphne, our Embraces shuns) Tho' none was e'er more Good, more Vertuous, and more Brave, Yet was Her Soul as Low and Humble as the Grave: For ev'ry Night She spent, and ev'ry Day, In contemplation on Her native Clay. Upon the Dust Her mindful Thought She kept, And often at Her fading Glories wept: Majestick Sorrow in Her Breast did rise, And divine Tears stream'd from Her noble Eyes: While Angels bore Her to the Land of Rest, Such humble Thoughts Her gracious Mind possess'd, She thought Her-self too mean to dwell among the Bless'd. XI. Henceforth ye Mountains which adorn fair Albion's Sea, For ever Black and Mournful be; O never more be White, Nor kind to the returning Saylor's fight! Whether from Guinea he his Riches show: Or where wide Indus Silver Waters flow; Or where Arabia's Spicy Forrests grow. And Thou, O France whilst Europe's Princes Mourn, Since thou dost laugh, and all their Sorrow scorn; Be Curst I May Heav'n with Bloody Int'rest repay Thy Cruelty, and most Inhumane Joy! And may thy Rhine and rapid A River in Paris. Sein, Role to the Ocean Bloody with thy Slain, And make a truly Red, a truly Purple Main XII. And thou, O Kensington! Great Kensington! (But Ah! why do I call thee so, Since now the Beaut'ous and the Mighty's gone?) Curst Kensington! the cause of all our Woe. Henceforth become a wild, uncultivated Place, And like some barren Desert be; Let never Dew, nor Showers descend on thee; Nor let a Kingly Court thy Countries ever grace: The Sun.Fair Eye of Heav'n, ne're on their Mountains shine, Never thy usual Ray of Favour give, As when the Beauty of the Place did live; Whose Influence was more Pow'rful than thine: Their Fields let never Plough-Men dress, Their Trees no fruitful Branches bear; Be only Cypresses and Willows there, And all beside a stony, Libyan Wilderness! XIII. But, now She sees how vainly we lament, Whilst She adorns the Starry Firmament. Whilst Hallelujahs waft Her to the Heav'nly Shore, Where Sancroft and Great Tillotson have sail'd before; And as She passes through the Milky-Way, Which leads to the White-Hall of God, Where Stars innumerable are spread abroad, She looks with Wonder and Amazement round the Realms of Day; And as She Piously looks every where, The Blessed Virgin, first Salutes her there. Two Maries now in Heav'n are seen, The Blessed VIRGIN, and the Blessed QUEEN. Immortal Joy among the Just does grow, The Blessed QUEEN does such a Ray bestow. Heav'n with Triumphant Echoes does abound, And greater Gladness does through the Bright Fabrick sound, Than when a Hundred Sinners that repent are found. XIV. Fly, fly, pure Saint, to Thine own Kingdoms fly, And fix Thy Station in Thy Native Sky. Go, Royal Spirit, lead on the Glorious Way, Whilst Clouds and Stars beneath Thy Feet do lie; Whilst Saints of Honour on their Musick play, And all the Peers of Heav'n, for Thy Arrival stay. Lo! up to th' highest Firmament She flies, And there augments the Glory of the Skies: There does the Pure, and Innocent Soul remain; There does She ever Live, and ever Reign. There sits She Cloth'd in pure refined Rays, And hears Resounding Heav'n sing Her Eternal Praise. So after the Redemption of Mankind, After the Storms which the Great Ransome bore, To Heav'n He did return, from whence He came before, And left His grieving Twelve behind: As through the City of the Stars He rode, Angels and Saints met the Triumphant God, And full of Adoration, and of Love, Around him the bright Company did move, And blest him as He past to fill His empty Throne above. XV. Look down, Triumphant Goddess, and some Pity show On us, Thy Subjects truly Militant below: Favour our Pious Cause, and let Thy Beaut'ous Star Defend and Guide us, in our Noble WAR. Let Thy Star fight for us, I say, For Stars of Old have fought in their Battalia; And did their Bloody Banners against Jud. 5. 20. The Stars in their courses fought against Sisera. Israel's Foe display. See, how Thy Hero toils on this laborious Stage, And struggles with an Impious Age. See what vast weight Thy WILLIAM does sustain, Whilst Monstrous Tygers, and fierce Beasts of prey, And stubborn Men more fierce than they, Cross His strong Rage in vain. Now, valiant Prince, lament no more, But to Thy streaming Sorrow place some Bound or Shore, And the Hercules, so called from Tyrinthea, a City near Argos, where he was nurs'd. Tyrinthean Champion's steps pursue, Who Dragons, Beasts, and Birds, a mighty number slew: At last by the Decrees of his great Father Jove, He was translated to the Gods above; And as through the bright Pavement he does walk, And with his Heav'nly Brethren talk, He does the Starry Monsters scare, (In Heav'n they're fearful, as on Earth they were) And frightens all the Birds, the Beasts, and Serpents there. FINIS.</field>
+   </doc>
+</add>

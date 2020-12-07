@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University Press</field>
+      <field name="author_facet">University Press</field>
+      <field name="author_sort_facet">university press</field>
+      <field name="author_text">University Press</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1910's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.0549.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1911-1956</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459267</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Love Feigned and Unfeigned ; a fragmentary morality</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 20th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 20th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Love Feigned and Unfeigned ; a fragmentary morality</field>
+      <field name="title_facet">love feigned and unfeigned</field>
+      <field name="title_sort_facet">love feigned and unfeigned</field>
+      <field name="title_text">Love Feigned and Unfeigned ; a fragmentary morality</field>
+      <field name="year_display">1911-1956</field>
+      <field name="year_facet">1911</field>
+      <field name="year_multisort_i">1911</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459267&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459267&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Love Feigned and Unfeigned ; a fragmentary morality&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;love feigned and unfeigned&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1911-1956&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1911&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Love Feigned and Unfeigned&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;a fragmentary morality&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Oxford&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1911-1956&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873450-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv10549&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Love Feigned and Unfeigned&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;a fragmentary morality&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 24 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Moralities.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries, introductory and editorial matter omitted&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Source texts incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Copyright (c) 1911 The Malone Society. This text may not be reproduced, except for fair dealing purposes, without the express permission of Chadwyck-Healey and the copyright holder.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Love feigned and unfeigned.</field>
+      <field name="desc_meta_file_display">Genre: Moralities.</field>
+      <field name="desc_meta_file_display">Date first published: 1911.</field>
+      <field name="desc_meta_file_display">Date first performed: 1540–1560.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Source text incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">LOVE FEIGNED AND UNFEIGNED A FRAGMENTARY MORALITY.</field>
+      <field name="fulltext">howe may I do wyth hime to mete my hert ys set on fire till I hime se in prsent place which is my hart? desyre familiaritie No doubt but love will present be his succour for to lend he will vnto youe feloshipe his favors Large extend enter love vnfayned loe where he dothe approch one vertewes which doth smell his nature lo e in vertewous wayes dothe passinglie excell oh wellcome sure vnfayned love right welcome loving brother whome I (as nature doth me bynd) I love above all other love vnfayned I thancke youe familiaritie for youre curtesye allwayes right glad I ame your healthe to se condigne of worthie prayse but who ys this which by youe stand? declare my loving brother familiarytie yea feloship which should you love in harte above all other love o feloship right glad I ame to se youe in god healthe and wishe frome herte that youe may live in like increase of wealthe familiaritie Prayse be to chryst wc h love hath to me sent god give me grace not frome his counsailes to relent youre ayd I crave me to assist agaynst my deadlie foe youe ar the same wc h may me ayd and bringe me out of woe Love vnfayned Since my advise ye do desyre yf me ye would Imbrace my qwaleties and fotestep all ye must pursewe apace love ys my name indede whome all m? do pursew the sinfull creatures and lovers of vertewe bute marke what added ys vnto my name of love vnfayned by which word by reason we may ?ve that love vnfayned meanethe well and fre frome crewell vice the holie wryt doth tearme me grave &amp; wise love by yt selfe may be addyct as we may ?ve by reason to vertewe or to vice accordinge to the season there ys love fayned contrarye to my kynd which will provide the to assalt and change frome the my mynd I knyt betwixe god and his churche tranquilitie &amp; peace in labors good to spend my tyme I love do never cease as my belovers may by paule declare whose word? ar these who can devyde th? frome the love of christ wc h wold hime pleas wherfore me love Imbrace for paule dothe mention make to people of corinthia myne Autor whome I make with tonge evangelicall my word? thoughe I should showe and have no love in me nor to his wishes should ?????? a soundinge brasse I should be calld of reputation small in happie state that m? doth live wc h to me is bovnd &amp; thrall I love ame stedfast &amp; in conversation myld I do not swell nor envye m? wom? or child Saint Iohn in his thyrd episle me love commendeth Saint peter like wyse whose wrytinge wnto me greting sendeth the holie ?phete salomon in eclesiastic? declareth that eche beaste for his owne passinglye carethe whense let one m? an other Imbrace that ys the meane to attayne god his grace christ in his gospell had me in mynd as a thinge most certayne the learned may fynd thoughe a m? had of treasures aboundanc? and lived with out love or his vertewous assistanc? all were as nothinge &amp; assuredlye vayne wherefore good feloship me love vnfayned attayne feloshippe staye these yr exhortatons o frend love celestiall I give youe harte thanck? as one of my frend? principall I feloship cannot quale whil familiaritie and love to me be assistant no vice my sense may move familiaritie well brother love vnfayned since feloshippe is bent our advise to Imitate he will sure be obsequent let vs departe for a season out of place feloshipe I will awayte on youe go we in god? grace love vnfayned content go we exeunt enter Enter falshode falshode God save ye my mr s god save ye this blessed day why stare ye at me thus I wene ye be come to se a play and in faythe so ??me I can teach youe yf youe come to my schole for of all worldlye thing? I disdayne a foole salomon in his ?verb? disdanethe foles so do I yf ye rede his boke of wysdome ye may se yf I lye yt ys a strange world when a foole begynes thus to prayt of holye scripture ye may se I ame a m? of blessed stayt my name ys falshode and of great reputa?on all wordlye m? and wyse hav me in admiration I can speake fare to a m? and Imbrace hime as my brother whome Inwardlie I disdayne and hate above all other all states of m? me cherishe and falshode Imbrace I ame accepted as a m? of noble grace falshod by ye mas ys beloved none at all hime detest but such as be Idyetes and wyth beggrye opprest wherefore my masters yf in riches and wealthe ye would abound ye must practise deceipt and stealth fere nothinge to sweare by his nales wound? or blode so thowe may have thy purpose and increase thy good thoughe some m? should say that of wealthe thowe hast pl?tye thowe must allwayes fayne that thy purse ys but emptye I praye ye what m? goeth throwe the wode but he that can play two faces in one hode by the mas he may live in tranquilitie &amp; ease everye m? will be glad &amp; studious hime to please but some m? would marvill admiration have what I do prate here ever as god me save to speake with one feloshippe whome I thought to be in place but god? knowes I must wepe loe I must wepe apace Eter love fayned becawse I cannot fynd hime but who ys this love fayned alas deare brother vp? feloship we shall both be disdaned oh I must nedes wepe I oh I have a great losse feloship ?misd to be here but he is a knave by ye mas Love fayned be merye m? let lamentations pa? feloship will be our owne as he ever wa? feloshippe quoth he yf he want h?? and his me??? by the mas I love shall cawse hime his ????????????????????????? yf feloshippe be long absent I sweare by my finger I will fetche hime out by ye masse yf that he do linger falshode oho yf that feloshippe were here present he should se what I could do I falshode could ?perlie alure hime frome love to great wo but loe by the masse here he commethe vnto place youe shall se how brave I shall shall salute his grace Enter felo -shpp fayned love nowe by the masse I ame glad of this hys prsenc? feloshippe O heavenly father of an celestiall Intelligenc? to the be prayse for thy gift? Innumerable through thy vertewous I ame bec?me stable to knowe thy blessed will and such c?panye to vse as may be for thy glorye god bless me frome abuse thie favor I aske my lyfe to direct and frome my enemyes my deadlye foes abiect falshode ah gogs blode here ye all holye popeholye by the masse good m? feloshippe is more holie th? ever he was love fayned we must worke by pollicyes for to c?verte his mynd or els our labor is lost we shalbe sure to fynd feloshippe but oh Loving god what wight? be there in sight falshode youre frends mr feloshipe yf ye vs merke aright feloshipe yf yowe be my frend? the more welc?e to my pr? love fayned syr we would gladlie make youe a m? of Intelligenc? yf youe to our counsailes attendanc? would give we shall teach youe a passinge trade to live falshode oh god I ame sorye I must wepe at yr loste stat that youe make youe a foole and wyth fooles yo w mate those wc h be youre frend? be sorye for yr case to se such beastlie fooles your woship disgrace love fayned yea and I frome wepinge may not my selfe refrayne alle m? of honestye youre follyes disdayne a begger they do tearme youe they say ye so will d consyder m? consyder familiarytye eschewe with love vnfayned that brother followe me vertewe hange the slaves hang th? yf they c?e in my wa what do I force withe my sword theme to slaye feloshippe yf anye I should displeased th? of mrcye I crave at their obidienc? or ther pleasure they surelye -shall me have falshode oh livelye sayd by gog? wound? I se yowe wilbe a m? feloshippe is ours say nay who can yea but feloshipe since to hus ye do Inclyne ye must eschewe familiaritie that lout &amp; swyne must youe be a c?panion wythe everye slave must youe give to ye beggers all that youe have let th? goon packinge to sainct quintans hall whip th? out of your c?panye wh? on youe ye i call marke there wede &amp; there prtensed holynes theye would make one beleve theye were m? of greate godline? yf youe accord with solom? my counsales Imbrace for he all fooles disdanethe as m? devoyd of grace love fayned yea and youe must love faynedlie your christi? brother tell hime one tale and thinke in herte one other should everye slave knowe the secret? of your mynd no no I would deceve th? thus e????rs be?s?????? ??? p?y??????????? marke me nowe adayes yf there be an heire of land? howe they practyse by falshode to have yt out of his hand? well yf youe should studye familiarite to please where youe be a gentle m? should not be worthe two p???? oh they will cap hime and sugred word? render they will seme as that much your selfe they do tender all is to have your land? in theyre posession which yf the may attayne by any condicion then may ye go alone wyth a flea in youre eare yender goeth the ayre of lyn ye may se by his geare let hime packe as a begger vnto the begger? shoole such ys the end of everye foole falshode Love fayned hath touched your state verye learnedlye wherfore Imytate hime &amp; his wayes attentivelye feloshippe yea surelie that he hath I ?ceve by reason that feloship came hither in a verye fyt season I se my land? might have come frome hundreth to penc? they would have Intysed me to suche expence? thene youe as my lovers I feloshippe Imbrace desyring your assistanc? as god shalle give me grace I ?ceve by your comunication and Ingenious talke ye can easilye descerne good chese frome chalke falshode yea or els god defend I ame one of Antiquitye I have regned many yeares ago in the ancyent ?genye yf Rebecca &amp; Iacob had not had my advice they had not wrought Esawe such a ?per guise feloship I se youe feloshipe have Intelligenc of divinitye falshod be sure the best learned be of my affinitye I reigne as an Imperiall magystrate at rome I ame honored in all nations whersoe I come he that hath not my practyse in his conversation ys tearmed an asse and rude in comunicatyon love fayned since we well accord and have Ioyes at our pleasure let vs Indyte a songe for myrth ys a treasure feloshippe to that I coud I my selfe will sustayne wyth youe a part falshode &amp; I will followe youe wyth all my hart cantant Singe we Singe we wyth Ioyfull harte Since feloship so doth Inclyne a trustye frende wich will not start but be a faithfull frende in fyne let one an other his Imbrace as faithfull frend? be wont to do where love comaunds there ys god? grace they leade there lives devoyd of wo me feloshipe Imbrace so deare thee lovinge as my senses meve oh pleasant frend oh brother neare in health &amp; wealthe god grant ye grow god give vs Ioyes and nestors daye a lyfe in vertewes to excel for thy vertewes I must ye prayse &amp; so I must for ay fare well feloshippe well songe my frend? I would we shulld go henc? go we to banquete &amp; spare no penc? falshode content go we ye marrye mr s falshode cannot quale love fayned bee sure then I shall allways prvaile exeunt</field>
+   </doc>
+</add>

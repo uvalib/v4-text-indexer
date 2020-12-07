@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Tutchin, John, 1661-1707</field>
+      <field name="author_facet">Tutchin, John, 1661-1707</field>
+      <field name="author_sort_facet">tutchin john 1661 1707</field>
+      <field name="author_text">Tutchin, John, 1661-1707</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.0245.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1694</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464830</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">An Epistle to Mr. Benjamin Bridgwater ; Occasion'd by the Death Of the late Queen Mary. By Mr. Tutchin</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">An Epistle to Mr. Benjamin Bridgwater ; Occasion'd by the Death Of the late Queen Mary. By Mr. Tutchin</field>
+      <field name="title_facet">epistle to mr benjamin bridgwater</field>
+      <field name="title_sort_facet">epistle to mr benjamin bridgwater</field>
+      <field name="title_text">An Epistle to Mr. Benjamin Bridgwater ; Occasion'd by the Death Of the late Queen Mary. By Mr. Tutchin</field>
+      <field name="year_display">1694</field>
+      <field name="year_facet">1694</field>
+      <field name="year_multisort_i">1694</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464830&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464830&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Tutchin, John, 1661?-1707&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;tutchin john 1661 1707&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;An Epistle to Mr. Benjamin Bridgwater ; Occasion'd by the Death Of the late Queen Mary. By Mr. Tutchin&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;epistle to mr benjamin bridgwater&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1694&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1694&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Tutchin, John&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1661&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1707&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;An Epistle to Mr. Benjamin Bridgwater&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Occasion'd by the Death Of the late Queen Mary. By Mr. Tutchin&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for Richard Baldwin [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1694&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp4008&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;5 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;An Epistle to Mr. Benjamin Bridgwater&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Occasion'd by the Death Of the late Queen Mary. By Mr. Tutchin&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 11 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">AN EPISTLE TO Mr. Benjamin Bridgwater, Occasion'd by the DEATH Of the late Queen Mary. Oft have I vow'd, and to the Muses swore, In these dull Times, I'de trouble Rhyme no more: But since, dear Ben! I've waited long in vain, To see the Happy Offspring of your Brain Bless our dull World in unaccustom'd Layes, Singing your own, and great Maria's Praise; In spite of Nature and my Vows I'le Write, And once again the glowing Embers light. Not that the Muses can have Honours done, By their Unskilful and their Youngest Son; Or that Maria's Praise by him set forth, Can form a Statue equal to Her Worth: Provoke't by this, if you the Theam embrace, I have my Aim, and dead Maria Praise: Then sit no longer, groaning like the Stream, Sad as the Times, and gloomy as our Theam. Your Quiver broke, your fatal Bow unstrung, And your lov'd Harp upon the Willows hung, With one, in Artful Notes Her Praise disclose; And with the other, kill Maria's Foes; Those worst of Monsters, wou'd asperse Her Name, Tread on Her Ashes, and destroy Her Fame, Justly deserve, when they good Gifts refuse, Should feel the Fury of an incens'd Muse: Pour then your charming Thunder on their Head, With pointed Satyr strike the Monsters dead. These base Ingrates, no Act of Grace can bind, Perverse in Judgment, and disturb'd in Mind; Impatient to recover what they've lost, Tho' at their Country's Ruine and their Cost; Do Tyrant Laws before our Rights preferr, And would call home their perjur'd Wanderer. Strange, that this foolish unperforming Herd Of Trait'rous Villains, for ill Deeds preferr'd, Should talk of Bondage, of hard Fate complain, Beneath the Blessings of a gentle Reign; Think ill of Ease; in being Free, opprest: A true-bred Tory will be still a Beast. Censure me not, I common paths refuse, For indignation will transform a Muse; I know our Loss commands another Stile, And not to Mourn's the same as to Revile; Cou'd Tears have Brib'd th' impartial hand of Death, Detain'd our Joy, prolong'd Maria's Breath, I'de wish'd for Her and my dear Country's good, Each Eye a fountain, and each Tear a flood: But since She's gone, let us our dues prepare For Him, was once the Partner of Her care, Now left forlorn, His other Self being gone, Like Hercules must bear the World alone. Methinks I hear the Genius of our Isle Prompt him to Foreign Wars and Glorious Toil, Soft as the Murmurs of the Winds express Her solid Councils in such words as these: Weep, weep no more! Maria's softer Charms! When War and Honour call you to your Arms; Let dastard Lewis for a loss retreat, All sense of Sorrow is beneath the Great, Your num'rous Army marshall'd on the Strand In expectation cry, will Cæsar Land? A long, long Winter, we his absence mourn, But sure, ye Gods! He must, He must return! Their glitt'ring Swords and trembling Spears they weild, And Fate stands wishing 'till you take the Field: Tho' Trophies may reward your Souldiers pains, Your single presence half a Conquest gains; Then to your Armies and your Honours go, And be our just Palladium from the Foe, Defeat their Squadrons, from destruction save Those Crowns, those Kingdoms, which your People gave; As at Seneffe such always be your fate, Let French as Irish on your Triumphs wait, From Conquer'd Fields the Golden Prize you bore, Without the Charms a curst Medea wore, Still for your Brows shall fresher Lawrels grow, While Thames shall flourish, and the Boyne shall flow: Your early Valour in your tender Years Matur'd by Age more Beautiful appears; And Heroes Fame at Death much brighter shines, Thus Shadows lengthen as the Sun declines. You to the Gods have ever been most dear, Destin'd for Business, and design'd for War, By Belgia lov'd, and Albion much ador'd, One sings her King, the other sings her Lord; Thus Rival Kingdoms for your Aid contend, And every Senate wishes you its Friend, What e're the Cowards say, you always have The Prayers, the Vows, the Wishes of the Brave; True to our Laws Tyrannick sway you damn, In War a Lyon, and in Peace a Lamb: Such were our Ancient Brittains fam'd of old, Prudently Good, and desperately Bold. Thus far the Heroe; for his Fame will grow, As to the Seas the Rivers onwards flow; But great MARIA we can Sing no more, Blest with a Gale, sh'as reach'd the other Shoar, Happy those Mortals who are sail'd before; So much for Virtue and for Sense renown'd, By willing Peoples just Applauses Crown'd, What Artless Bard wou'd tread her Sacred Ground? To you, Dear Ben, the glorious Theam I leave, You can her Fame Eternal Honours give; Thus some good Patriot conscious of his Worth, Provokes some bold, some abler Champion forth; Who with his Sword so often dipt in Blood, Slaughters vast Numbers for his Country's Good. FINIS.</field>
+   </doc>
+</add>

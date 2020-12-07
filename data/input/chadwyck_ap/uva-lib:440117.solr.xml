@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Miller, Joaquin, 1837-1913</field>
+      <field name="author_facet">Miller, Joaquin, 1837-1913</field>
+      <field name="author_sort_facet">miller joaquin 1837 1913</field>
+      <field name="author_text">Miller, Joaquin, 1837-1913</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1900's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ap/uvaGenText/tei/chap_AM0673.xml</field>
+      <field name="date_indexed_facet">201909240350</field>
+      <field name="date_text">1902</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey American Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey American Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:440117</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Complete poetical works of Joaquin Miller ; Revised Edition (With Illustrations</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">American poetry -- 20th century</field>
+      <field name="subject_text">American poetry -- 20th century</field>
+      <field name="title_display">The Complete poetical works of Joaquin Miller ; Revised Edition (With Illustrations</field>
+      <field name="title_facet">complete poetical works of joaquin miller</field>
+      <field name="title_sort_facet">complete poetical works of joaquin miller</field>
+      <field name="title_text">The Complete poetical works of Joaquin Miller ; Revised Edition (With Illustrations</field>
+      <field name="year_display">1902</field>
+      <field name="year_facet">1902</field>
+      <field name="year_multisort_i">1902</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:440117&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:440117&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Miller, Joaquin, 1837-1913&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;miller joaquin 1837 1913&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Complete poetical works of Joaquin Miller ; Revised Edition (With Illustrations&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;complete poetical works of joaquin miller&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1902&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1902&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Miller, Joaquin&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1837&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1913&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Complete poetical works of Joaquin Miller .&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Revised Edition (With Illustrations)&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;San Francisco&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;The Whitaker &amp;amp; Ray Company (Incorporated)&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1902&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3865990-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;cham0673&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;American poetry -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Complete poetical works of Joaquin Miller .&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Revised Edition (With Illustrations)&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Alexandria, VA&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Inc.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 18 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted ; verse reproduced elsewhere in American</field>
+      <field name="desc_meta_file_display">Poetry omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-AmPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">TO COLLIS P. HUNTINGTON, Who was first to lead the steel-shod cavalry of conquest through the Sierras to the Sea of Seas, and who has done the Greater West and South more enduring good than any other living man, I dedicate this final revision of my complete poems. JOAQUIN MILLER. The Hights, California, 1897. NEW POEMS. ENGLAND'S LION. And England's lion is shorn and shamed? And England's valor is dead to-day? And England's daring is dulled and tamed? And England's heart is unmanned, men say? No, never a whit; give England's men A cause, fit cause, and behold them then! But send them forth to loot and to burn, Turn babes and women and bent old men Unhoused to the rain, to ruthless turn The plowshare back to the sword, and then Ask them to believe that this blood-soaked sod Is won from women in the name of God. Your soldier is scarce the “machine” to-day You mowed with at Lexington, Waterloo. He is learning to read, to think, and to say, To see and to feel, as well as to do. And he feels how braver to build a town Or a home for babes than to burn one down. He remembers a pale Boer lad who bled— Bled praying and fighting, and fighting alone— Fighting and dying 'mid a ring of dead Gathered about in a gory zone. And he almost envies that dead boy there In battle harness, with his yellow hair. Listen to this! A battle was on; The usual battle of twenty to one ... The battle was over, the British were gone; Their officer dead; one empty gun ... Yes, your “machine,” in the heat of the fray, Had dared to think and to do, that day. THE FOURTH OF OUR FATHERS. Read in many cities, July 4, 1900. Come, let us light the torch anew, The old-time torch, in triple flame, And keep it flaming, fierce and true, On Freedom's height, in Freedom's name. Forgive us, Washington, that we Forgot a time, and turned an ear To England's clink of gold, to hear Her siren songs of flattery. Forgive us, Franklin, Warren, Hale; We half-believed her: now we know Her friendship, flattery but show, Her shot, where bullets fail. What mean yon hundred thousand swords, The thousand cannons' angry roar, Armed hosts in helmets, hordes on hordes, Hurled at the peaceful, free-born Boer? They mean that England dares to say, Set back the clock; that might is right,— As when the wolf's whelp howled her day, Then slunk back, whining, into night. They mean, she mocks the rights of man; They mean, that she is mouthing yet, “Now let him get who dares to get, And let him keep who can.” What means this sea-girt citadel, With guns that shake Pacific's shores? This new Gibraltar, shot and shell In pyramids piled at our doors? Shot and shell, and guns that sweep Our inland seas, Alaska's bay? What! needs she these great guns to keep The peace in peaceful Canada? We hear kind words, most cunning fair, Yet see that fortress rise and rise! Are kindly words but cunning lies? What means that fortress there? Such cunning words, such coward lips,— Aye, aye, forgive, but not forget: Our dying, starved in prison-ships; Our dying, thrust with bayonet,— Just as to-day she treats the Boer, Just as she treats all weaker ones Who dare defend an humble door With dauntless hearts and honest guns; Just as she would, did she but dare, Treat us again; just as she will, The day we swallow her sweet snare Of “diplomatic” swill. Diplomacy? Despise the name; Despise that “diplomatic” Power, That sends a sister Queen to shame, That strangles Princes in her Tower, That courts the rich, that robs the poor, That scorns the weak, yet bends the knee To strength, that begs from door to door,— And calls it all diplomacy! We will not this. No midnight way! We could not match this if we would; We would not match this if we could: For Us, full, frank, white day. Come, let us show this cringing Power, That sacked our cities, burned our Fane, That Freedom keeps her high watch-tower; That Bunker Hill was not in vain! Come, let us heap the altar's flame, And swear our sons as Hamilcar Sware Hannibal, to hate, abhor, Her cunning, crimes, her shameless shame. Yet fear not ship nor battle square: Let laugh at these, or far or near. Fear not her hate, but rather fear Her love: her love beware! Her plundered millions starving die, The while she wades blood to the knee! Her love of Jesus is a lie, A Judas kiss,—Gethsemane! She wears a cloak but to decoy. This land she hates; hates, as she fears; This land she twice strove to destroy,— Twice drenched in blended blood and tears. Keep her arm's-length, a great gun's-length! Her creed is but the creed of gain, Low lust of gain, on land or main: Her god, the god of strength! The crouching, cat-like lion lifts A paw to show the claws are sheathed: “Beware the sleek Greek bearing gifts Of honey, with white roses wreathed.” One paw for peace, one merged in gore; One reached to beg alliance, one To crush fair Freedom and the Boer, Or coward lies or lyddite gun! Are we but babes! Shall we receive One outstretched paw, one reeking thus? Who but a child can but believe They build to next strike Us? Brave lads of Lexington, brave men Of Concord farms, who fired the gun Heard round the world, heard now as then; Brave Boer-land or brave Lexington, We pledge ye we will not forget; We pledge ye, this new hundred-year, That yon merged paw, all reeking wet With Freedom's blood, shall not rule here, Not rest here, reach here, while we live! Ye gave us Freedom: what can we Give less to Freedom than to give And consecrate this Century? USLAND TO ENGLAND. The committee which climbed my Hights to ask a poem for the Fourth, 1901, was partly English. I declined, having done some lines only the year before. But the parties still insisted; and none so persistently as the English part of the committee. I protested, that I could only write as I felt. The committee still begged, and I wrote this, with all my heart. A Plea in Equity.—July 4, 1901. Blind bully, Samson, grinding so, We laugh, we laugh to hear you roar, The while you boast you shot a Boer And burned his house and all within! Why, donkey with the lion's skin, You did all this to Us of yore, And yet—we banged you, doan-cher-kneow! We banged you, banged you, laid you low, At Saratoga, York, and such— We Irish, English, Scotch, and Dutch! Then learn to let such folks alone; Then learn to let King George's throne Remember; it won't cost you much— But then—you 're English, doan-cher-kneow! And we 're your sons! But we shall grow, Grow fairly, squarely, tall, alone— A continent that scorns a throne! What makes us Usmen want the earth, And all Acadia's wealth and worth— And all earth and Canada, our own? Why, we 're part English, doan-cher-kneow! Invader, vandal, Freedom's foe, The time has come when you must pay For towns you burned, or—Canada! We banged you twice, can bang you thrice— Old man, there's music in the air! Get out, get off, and call it square, Or music, music, doan-cher-kneow! Fair sister of the sun and snow, Broad Canada, brave, stanch, and true— What star to stud our field of blue! And if your king, Edward the Fat, Should signify he don't like that, Why, we'll annex old England too— We yearn for islands, doan-cher-kneow! CALIFORNIANS. “There were giants in the earth in those days, ... mighty men, ... men of renown.” Not Roberts, he of Candahar, Not Cronje with his scar-seamed men, Not any man of noisy war, Nor boastful man with blood-dipt pen:— No, no, the hero of the strife Is he who deals not death, but life:— I count this man the coming man, The rounding glory of God's plan. The heroes of the firing line? They housed with God upon the height, Companioned with the peak, the pine; They read His open Book by night; They drank His star-distilled perfume, Walled round by room and room and room; By day they faced the trackless West And chased the yellow sun to rest. Such sad, mad marches to the sea! Such silent sacrifice, such trust! Three thousand miles of misery, Three thousand miles of heroes' dust! But then such stout thews of the few Who knew the Promised Land, who knew The cleansing fire, and then laid hold To hammer out God's house of gold! Hear, hear, their thousand cannon roar Against the knock-kneed mountain gnome, Where never man set foot before, Where monsters only had made home! Hear, hear, the treasure-house is free, A stream of gold flows to the sea, And where a foolish king would rear A castle, lo, a college here! Their cities zone the sundown seas, Their white tents top the mountain crest. The coward? He trenched not with these. The weakling? He is laid to rest. Each man 's a man, such dauntless man As God wrought not since time began. His sons are as the sons of Saul, With David's daring, soul of Paul. Each man a hero, lion each! Behold what length of limb, what length Of life, of love, what daring reach To deep-hived honeycomb! what strength! Clean out-door Adams, virile, clean As nature in her vernal green; He hears, hears as a prophet hears The morning music of the spheres. Behold how fair, how wondrous fair, His daughter of the yellow sun! Her sunlit length and strength of hair, Seems as if sun and hair were one! Behold where, silent, unaware, As some strange being just begun, She stands forth tall and fair, so fair, And combs her mighty Titian hair!</field>
+   </doc>
+</add>

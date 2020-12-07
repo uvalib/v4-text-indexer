@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Barnes, William, 1801-1886</field>
+      <field name="author_facet">Barnes, William, 1801-1886</field>
+      <field name="author_sort_facet">barnes william 1801 1886</field>
+      <field name="author_text">Barnes, William, 1801-1886</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1820's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_P10007.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1820</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:467595</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">Poetical pieces ; By William Barnes</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">Poetical pieces ; By William Barnes</field>
+      <field name="title_facet">poetical pieces</field>
+      <field name="title_sort_facet">poetical pieces</field>
+      <field name="title_text">Poetical pieces ; By William Barnes</field>
+      <field name="year_display">1820</field>
+      <field name="year_facet">1820</field>
+      <field name="year_multisort_i">1820</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:467595&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:467595&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Barnes, William, 1801-1886&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;barnes william 1801 1886&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Poetical pieces ; By William Barnes&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;poetical pieces&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1820&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1820&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Barnes, William&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1801&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1886&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Poetical pieces&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;By William Barnes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Dorchester&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed by G. Clark [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1820&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp5013&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;28 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Poetical pieces&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;By William Barnes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 24 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">DESTINY. “Safe in the hand of one disposing power.” Pope's Essay on Man. I Her fortunate stars had to Julia given, Of lovers a numerous train, Who for twelvemonths, or more, had incessantly striven To win her fair hand—but in vain. They were all youths of merit, although they were poor, And to one she'd nigh given her heart; But her father he lik'd the pecun'ary ore, Insomuch that in one of his passions he swore That Julia should ne'er again enter his door, If to him she her hand should impart. II Her mama urg'd with much assiduity too, When she thought of becoming a wife, The advantage of keeping the maxim in view, That ‘gold's the best passport thro' life.’ And she too, like papa, was a little severe In adverting to Julia's love; Who, she said, was but just in her seventeenth year, And had beauty, forsooth, which she'd not the least fear, Would raise her some day to a much higher sphere, Than that in which Cyprian could move. III Now Julia's mama, I am asham'd to declare, Talk'd much of the volume of Fate, Thought the marriage of people was register'd there, Ere they came to this sublun'ry state. Thought 'twas Fate, and not Heaven's immediate will, By which human affairs were controll'd; And took care into Julia's mind to instil The same doctrine, whence sprung a most serious ill, Which, that others may shun it, I've taken my quill, With all due respect, to unfold. IV It was late on the close of an estival day, When Julia, in serious mood, Stole out unperceived, and pursued her lone way By the verge of a neighbouring wood; And the sun, in his last golden splendor array'd, Had long sunk from the occident sky, And the landscape around seem'd dissolving to shade, For the last evening twilight had almost decay'd When under an oak the contemplative maid Sat, to ponder on moments gone by. V But lo! by the moon indistinctly reveal'd, A strange figure poor Julia perceives, And behind the bare trunk of the oak, half conceal'd, She is trembling with fear, like its leaves. A strange figure indeed—is it human?—oh no, Else where is its hat or its bonnet? And yet it is bent, as with age like a bow, And it walks with a stick, and its head is hung low, But so monstrous a hump on its back seems to grow, That it freezes her blood to look on it. VI Each step that it treads adds to Julia's fear, She moves not—her breath is suspended; And still it approaches more near—still more near, They speak,—and her fears are all ended. 'Twas a gipsy proceeding fatigu'd to the tent That was pitch'd in a neighbouring nook, And her gait was inclin'd and her strength was nigh spent, For under the weight of two infants she bent, And hobbling, and grumbling, and poking she went, Nor behind or before deign'd to look. VII She told Julia she saw (so endow'd were her eyes) Each event that hung over her head, And nam'd certain amours, and some scandal and lies, That her envious neighbours had spread. She moreover describ'd each of Julia's beaus, (When the silver she once had possessed) Of whom one was genteel, and as fair as a rose, With hair like a raven, and eyes black as sloes, And that he, whate'er she might at that time suppose, Was destin'd with her to be blest. VIII The gipsy retir'd, and young Julia reclin'd Once again in the shade of the oak, And revolving the thing once or twice in her mind, In these words she her sentiments spoke: ‘Her description of Cyprian is all very right, ‘(Yet I cannot believe the prediction) ‘He is rather genteel, his complexion is light, ‘His eyes are rather dark, and his hair black as night, ‘And I certainly think I his love should requite, ‘Were it not for my father's restriction. IX ‘Well, my parents say this, “if you e'er give your hand “To that Cyprian, you'll certainly rue it;” ‘And yet, against all they so justly command, ‘My planet compels me to do it. ‘My parents' advice should, I know, be pursued, ‘As should all their commands be obey'd; ‘And could I but do it, obey them I would, ‘Because I'm aware they are meant for my good, ‘But what Fate has appointed can not be withstood, ‘As mama has herself often said.’ X She finish'd,—and had she been left to her choice, It would, I conceive, have been clear, That it was, of the two, Mother Destiny's voice Which she seem'd most inclin'd to revere. She did so,—and now she is Cyprian's bride, (And may joy on their nuptials await); And the gold that her father in anger denied, Is by Cyprian's industry partly supplied, And they never repine—no, whate'er may betide, They never repine at their fate. THE FAREWELL. Adieu, 'tis for ever I bid thee adieu, Thou dear spot of my first youthful love; Thy moss-coated tow'r fast recedes from my view, On the verge of thy precincts I move. To thy daughters adieu!—and tho' when I'm away I angelical forms may still see; And tho' Phœbus may shine on the land where I stray, As bright as he shines upon thee: 'Tis in vain!—her whose beauty can alien my love From Eliza, I never shall find; And nought but the sheen of her eyes can remove The gloom that envelopes my mind! ON WOMAN's LOVE. “Si habeamus nummos, habebimus amicos.” And think'st thou that Woman will smile upon those, Whom Adversity marks for her own? Ah, no!—hand in hand with dame Fortune she goes, On the affluent only her love she bestows, And thinks that the fount from which happiness flows, Is splendor and riches alone. I hop'd that my Emily's love would not fade, Though fortune and friends were all flown; Foolish thought!—with my hopes her feign'd passion decay'd, And deserted and spurn'd by the treacherous maid, Adversity's storm I am doom'd to pervade, Unpitied, uncheer'd, and alone! THE HOME OF MY HEART. When with Anna beneath this green canopy straying, The sun to the western horizon drew nigh; And his last feeble rays o'er her features were playing, When she gave the last smile that will gladden my eye, And the knell of the curfew forewarn'd me to part With her, and these woodlands, the Home of my Heart. And now, like yon sun-flow'r that by the god slighted, All wet with the cold dew of evening appears, Though with anguish unpitied, and love unrequited, Thus lonely I wander in darkness and tears; Yet these objects around me a feeling impart, Which tells me that here is the Home of my Heart. Though to some remote spot, or frequented or lonely, My fortune may lead me my sad life to spend, Where her beauty and name shall be known to me only, Where brows never low'r, &amp; where mirth knows no end; Yet my mem'ry, believe me, will never depart From the Frome's belov'd margin, the Home of my Heart. LINES Addressed to an Oak near my Father's Cottage. Yes, lonely tree, th'autumnal gust assails Thy naked limbs, that tremble as it blows; Ah! soon, full soon, expos'd to colder gales, Those limbs may bend beneath December snows. Oft have I sat in thy expansive head, A fancied monarch of the space below; Oft on thy trunk my youthful cheek I've laid, Wet with the tears I shed for fancied woe. Subdued by time, full many a branch decays, That green and flourishing thou borest then; Subdued by time, the passions of those days Will never bloom within my breast again. No more, persisting through the tangled briar, To pluck the primrose from yon bank I try; No more I feel the puerile desire To seize each bird that whistling flutters by. The objects that in infancy we crave, Cease to delight us as we grow in years; Th' expanding mind, as we approach the grave, To trivial youthful joys no more adheres. Till ling'ring joyless, impotent, and old, The man around him casts his torpid eyes; And cold to life, to all its pleasures cold, Just heaves his aged breast, and calmly dies. THOUGH YOU SMILE AT MY ZEAL. Though you smile at my zeal, love, and say 'tis pretended, Ah! time to its truth will win o'er thy belief; But when my warm heart with the dust shall be blended, Who'll kiss off the tear that you shed for its grief. Then, dearest, bestow thou thy heart while I live, To show how I value the boon that you give. Though you smile at my zeal, like yon lily that tells By its slow graceful bend the existence of air, At the tale of my love as thy fair bosom swells, It silently tells me that pity is there. Then, dearest, bestow thou thy heart while I live, To show how I value the boon that you give. TO JULIA. When the moonlight is spread on those meadows so green, Which the Frome's limpid waters glide by, To mark its calm progress, to gaze on the scene, May delight a poetical eye. To one who in some remote climate has pass'd A long absence from all he loves here, How sweet the first glance of the land, as at last To his own native Isle he draws near. But by far more delightful and sweet 'tis to gaze On thy bright azure eyes, as they dart From under those tremulous lids their bright rays, And glances for glances impart. The smile of the Muse may the poet beguile, Or the smile of gay Nature in spring; To others dame Fortune's precarious smile, Its many enjoyments may bring. I would envy no poet with thy smile if blest, Nor at Fortune's dire frown e'er repine; For Muse's or Fortune's smile never possess'd Aught to rival the sweetness of thine. DANGER. I Danger awaits us in each time and place, On sea, on shore, in darkness, and in day; And unconfin'd to us the human race, O'er every thing that breathes extends its sway. As the fierce eagle hovers o'er its prey Denouncing Death it hovers o'er each head, And even where I write this humble lay, Reclining by the streamlet's winding bed, 'Tis scarce more safe than where the flag of war is spread. II Yes, there is danger where the warrior bleeds, Where o'er the plain sanguineous currents run; For danger still attends on martial deeds, And on the brave by whom those deeds are done. Yet even there, before the yawning gun, That danger does a smiling aspect wear, For woman's heart is oft by valor won, And cowards merit not her love to share, On this the soldier thinks, and banishes each care. III That danger wears the most horrific form Which meets the sailor on the ocean wide, When the wild sea is troubled by the storm, And nought but foaming waters is descried; When rolls the shiv'ring bark upon its side, Depress'd by furious wind and rolling surge, Until the pennant sweeps the angry tide: Or launching from the billows dang'rous verge, Far in the briny deep the trembling crew immerge. IV For who amidst that elemental strife, Far from his home, and far from ev'ry friend, And, with a kiss to soothe departing life, Where no lov'd partner o'er his bed can bend;— Who in that fearful moment can descend With calmness to the watery grave profound, Where monsters prowl exulting in his end, And deaf'ning thunder-peals his death-knell sound, Nor crave a calmer death upon his native ground? V Distress may come, and may again depart, And mis'ry may not sadden all our days; Age may arrive,—and in the aged heart The frown of beauty can no tumult raise: But when distress is past and love decays, In happiness and grief, still danger reigns; Reigns o'er the child that by the streamlet plays, Reigns o'er the aged whom the crutch sustains. Nor e'er resigns its sway as long as life remains. FAITHFUL ISABEL. “Nec lacrymis crudelis amor, nec gramina rivis, Nec cytiso saturantur apes.”— Virgil. The sun glimmer'd pale and the north-wind was bleak, When, dejected, young Isabel stray'd o'er the plain; Her tears had effac'd the sweet bloom of her cheek, And she sung in her grief this disconsolate strain: “Thou faint-gleaming Phœbus that now from afar “Feebly shin'st on the earth with a wintery ray, “As pale and as cold as the beams of the star “That illumines my path at the close of the day; “Yes, thou wilt soon finish thy wintery race, “And chace the cold snow from the hill and the plain; “And dispelling the clouds that o'ershadow thy face, “Thou wilt raise this sad land from dejection again. “But my Cyprian's coldness no change will e'er know, “'Tis the cold northern winter where coldness reigns still; “'Tis the cold indissolvable stratum of snow, “That eternally crowns the Olympian hill.” The summer returned with her bright sunny days, But past, ere those days, was young Isabel's doom: The sun shone,—but she felt not the pow'r of his rays, He shone,—but he shone upon Isabel's tomb.</field>
+   </doc>
+</add>

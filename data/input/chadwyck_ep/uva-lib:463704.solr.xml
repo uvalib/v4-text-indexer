@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="composition_era_facet">16th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.1024.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">[1530?]</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:463704</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">Lord's Prayer ; a metricall declaration of the .vij. petitions of the pater noster</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">Lord's Prayer ; a metricall declaration of the .vij. petitions of the pater noster</field>
+      <field name="title_facet">lords prayer</field>
+      <field name="title_sort_facet">lords prayer</field>
+      <field name="title_text">Lord's Prayer ; a metricall declaration of the .vij. petitions of the pater noster</field>
+      <field name="year_display">[1530?]</field>
+      <field name="year_facet">1530</field>
+      <field name="year_multisort_i">1530</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:463704&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:463704&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Lord's Prayer ; a metricall declaration of the .vij. petitions of the pater noster&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;lords prayer&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;[1530?]&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1530&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Lord's Prayer&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;a metricall declaration of the .vij. petitions of the pater noster&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;[London]&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;[1530?]&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp2288&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;[10] p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Lord's Prayer&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;a metricall declaration of the .vij. petitions of the pater noster&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 27 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">A metricall declaration of the, vij, petitions of the pater noster when ye pray, saye. Our father whiche arte in heuen. &amp;c. Luce. xi. Though I be wyllynge and feruent of desyre yet for vnkonnynge I dare not me auaunce Of y? heu?ly misteryes though ye wold requyre Of the pater noster to declare in substaunce Recordyd in scrypture/yf ye call to remembraunce This prayer exciteth cryst? hartes w? deuout maters Onely in chryst Iesu to fynde all suffysaunce As therin is taught by the .vii. prayers Groundely and bryefely also comprehendyd whyle he was here/of trouth it is thus falle Taught his dyscyples/which may not be amendyd For it transcendeth other prayers all Most auctorysed/whan we for socour call Most celestyall and most of dygnite Crouned amonge prayers in the heuenly stall yf it be sayd in perfyt cheryte I haue no mouth/playnly to deuyse Fyrst to remembre/the great dygnyte Ferefull to take/on me so hygh enterpryse Moste celestiall/most aungelyk of degre For to the hygh myghty trinyte It is dyrecte/lorde of most puissaunce whiche called is/one two and thre All one in vertue/and all one in substaunce This worde pater sheweth in substaunce His myght is most greatest of excellence Of heuen and erth/hath all the ordynaunce Called welle of grace/myrour of sapyence whiche to his chyldren/of fatherly prouydence Hath gyue a fraunchyse/aboue fraunchyses all That we may boldly/with deuout reuerence Agayne all myschyefe/to hym for helpe call Fyrst this worde Pater/set vs in assuraunce And this worde/noster/gyueth vs humblenesse Of hym to requyre with deuout obeysaunce Remedy/agayne all worldly dystresse So that charyte with her suster mekenesse Fayth/trust/and hope/be with them present Then whan we praye/and saye of faythfulnesse Pater noster/we shall haue our entent In this worde Pater standeth all our confidence Our hole beleue/whan we say Qui es Our stedfast fayth/and fully our credence In heuen abydynge/as souerayne lorde of peas where thre ierachyes/day and nyght not ses To crye in celis/with heuenly melodye Cherubyn nor seraphyn/not slouth nor reckles Synge Osanna/with feruent armonye. whose gloryous name/for to magnyfye Mouth and tonge/be lame of theyr langage But the holy gost/by grace lyst vs to guye Us to enspyre/in our mortall passage As goostly chyldren/borne of hye lynage Neuer to thyne hyghnesse/be no mortall offence In this dredfull perylous pylgrymage Tyll clere contrycion/our gyltes recompence we were renewed/full nye to thyne alye By the holy gostes/gracyous influence Fyrst by baptyme/to begynne at that partye Next confermed/by thy magnyfycence To ben acceptyd/to thy beniuolence As chose chylderne to thyne herytage That we may saye/with deuout reuerence Lorde haue mercy/on all our olde outrage These .vii. peticions/be of vertue most Onely to god/of hole harte applyed To the .vii. vertues/of the holy gost Fyrst whan we saye/this name be sanctifyed Name of all names/halowed and gloryfyed As the gospell playnly doth commaunde But here my symplenesse/with Argus not clere eyed Meue this questyon/askynge this demaunde How myght in vs be kynled suche desyre Boldly to saye/conceyued our feblenesse Though charyte brent in vs as flame of fyre Lyke as in Seraphyn/brenneth all perfytnesse I answere thus/a ground take of mekenesse Uertue of vertues/doctours saye the same Under support/of his paternall goodnesse To say or thynke/halowed be thy name without addicyon to sette our harte at reste That therwithall we haue this sentence For our party/to conclude for our beste In our inwarde/gostly intellygence Fyrst that his name/name of moste excellence within hym selfe/euery houre and space Be sanctifyed so/that by his prouidence It maye in vs/be sanctifyed by his grace. Adueniat regnum tuum. Thy kyngdome lorde illumined with thy face where is full gladnes/of all goostly lyght May come to vs at the tyme set and space whan thou assygnest/by thyne eternall myght Of thy presence/that we maye haue a syght O gracyous lorde/our tyme, so prouyde Claymed with mekenesse/of mercy more than ryght Be mene of thy passyon/that we may there abyde Thy kyngdome lorde fyrst in this present lyfe Come to vs/to rewle vs and gouerne Agayne the assawtes/and the treble stryfe Of our thre ennemyes/lorde holde so the lanterne By thy grace whiche that is eterne Reygne so in vs/of reason holde so our brydell Betwene good and euyll/we may so dyscerne Agayne thy pleasure/to do nothynge in idell Lorde by thy mercy/reygne in vs so here Of all vyces/that we maye haue vyctory To clayme a tytle/aboue the sterrys clere Thy passyon chyefe/set fyrst in memory with the to reygne/in thyne eternall glory Asked by bylle wrytte/with thy precyous blood Sheed from thy body for our carefull mysery On hygh vppon the mount/at caluary on the rood Fiat voluntas tua. So as thy wyll fulfylled is in heuen Ryght so in erth/fulfylled mout it be Lyke as the court/aboue the sterres seuen Of orders nyne/and ierarchyes thre Syngynge sanctus/thryes before the trinyte So make vs lorde/with deuout obseruaunce Daye and nyght/knelynge on our kne Thy deth thy passyon to haue in remembraunce Fyrst thy preceptes/and ten coma?dementes we may fulfylle bytwene hope and drede And forsake with all our hole ententes All that sholde dysplease the in dede Syth to a pyller/thou lyst for vs to blede Therwith to do/all that thou lyste c?maunde Suffre thy mercy/so vppon vs sprede Part to receyue/that thou gafe at thy maunde To thy dyscyples for a memoryall For a perpetuall c?memoracyon Of thy fleshe and thy blood/take in especyall Of a pure mayde/thyne incarnacyon Thy meke sufferaunce/for our redempcyon with minde also/thou lyst for vs be ded That we may clayme for our saluacyon Receyue thy body amonge in fourme of bred Panem nostr? quotidian? da nobis hodie That we dare say with all humilyte Under the wenges of thy proteccyon Panem nostrum da nobis hodie Knoden afore Pilat/vaken in thy passyon Our dayly brede our restauracyon Our fode our manna/agayne fendes violence Stronge with Helyas/byble maketh mencyon To mount Oreb/to haue there resydence This brede of lyfe gyueth vs force &amp; myght Agayne gostly enemyes/when they wolde assayle Helthe of the soule oure body stronge in fyght with spyrites infernall/to holde a batayle Sathan abydeth not for all his apparayle where this brede is sacred with chrystes mouth Clenly receyued/the fende may not auayle So great vertue/this brede hath east and south This brede of aungels/brede celestyall Brede that excellyth/reason and nature Callyd brede of lyfe/and repast eternall Gyueth lyfe euer lastynke/and euer shall endure Most c?mendyd by prophetes in scrypture Bothe to soule and body/brede of most comfort Folke in sykenesse/this bred doth them recure To poore pylgrymmes restoratyfe and support Et dimitte nobis debita nostra &amp;c. In this peticion o lorde do vs socourre Fyrst consyderynge/our fragilitye Forgyue our dettes/as we forgyue oure Aboue all thynge/to loue and drede the Next our neyghbour/in perfyt cheryte Fyrst deme my selfe/worst of any man Uoyde of presumpcyon/bowynge done my kne And to remembre vppon the publican Durst not lyfte his eyen/vp vnto heuen To loke vp ferefull/on the sonne streme And I am soyled with the synnes seuen That in myne eyen/can not se a large beme Though it spredde/all abrode this reame yet can I se well motys in other mennes syght A small sparke/that castyth out no beme Blent in fautys/though torches were clere lyght This to saye I can be well vengeable when my neyghbour/doth a small trespace Though I be gylty/and horryble coulpable Can fynde wayes/lyghtly for to passe And agaynst my brother/great gyltes compasse My selfe also excuse/and put on hym the wrake with lyke fals assemblaunt/shew out a fayre face As in my selfe there founde were no lacke And to conclude who wyll no mercy haue At his most nede he shall go mercyles And who is besy his neyghbour to depraue By fals report/escapeth not harmeles Mourder at the back/and language rekles Ipocrysye/fraude/compassyth guyle Symulacyon and flatry put in presse This sort wyll out/though they dure a whyle But yf thou stonde in perfyt cheryte To loue thy frende/and also thyn enemye without faynynge/or duplycyte That there be no faute couertly To shewe one outwarde/and another inwardly In such wyse/thy prayer is not good I dare affyrme/and wryte trewly God louyd neuer/two faces in one hood Et ne nos inducas in temptacion? O lorde Iesu of mercyfull pyte Under the banner of thy passyon Agayne our dedly/dredfull foys thre Suffer vs to falle/in no temptacyon The fleshe the feende/by fals collusyon The olde serpent/with many thousande treyne without blood/shad for our redempcyon we may in charyte/not well this prayer saye It is remembred/of Mathees the gospell Of a seruaunt/as made is mencyon Bycause his lorde/was agayne hym fell He was feteryd and sygned to pryson In sygne/who wyll do no remyssyon At suche a streygth/his seruaunt for to saue Dimitte nobis/put from this orison who doth no mercy/he shall no mercy haue Sed libera nos a malo. Of thy benygne/mercyfull pyte Lorde in this perilous/dredfull pylgrymage Saue vs from daunger/and all aduersyte And vs delyuer/from all foreyn damage From peryll passed/without present passage Future swalowyng of fortunes floodes Dredfull carybdys/syrenes mortall rage And transmutacyon/of all worldly goodes. Pater noster this prayer vertuous yf it be sayd/with dew reuerence Of all prayers is most victorious Agayne our thre enemyes/to stonde at dyffence So that Maria lyst shewe her presence And feruent charyte/be captayne of the felde Fy on all infernall violence So chrystes passyon/be portrayed in our shelde Lyke a glenare vppon a large londe Amonge shokkes plentuous of auctours Though I were besy/to gader with my honde Lyke myne desyre to haue founde out some flours The grene was ropen/russet were the colours I fo?de no suger/in my small liberary Soil dryed vp/of Tullius syluer shours Ferefull and dull/there longer for to tarry In this processe any more to saye Good wyll abode in my inwarde entent The aureate lycour was in my study dreye Of callyope/and all her fauour spent Founde there no causes/but scrowles all to rent Nothynge ellumyned/with golde asure nor red whiche shalbe ioyned/with my testament Layde on my brest/the houre whan I shall be ded Though I was dull/in my deuocyons Duryng my lyfe/with cordyall reuerence Dayly to saye/these .vii. peticyons Herte and mouth accordynge in sentence with cyrcumstaunces/of intellygence To please the lorde/with hole affeccyon Ueyne thoughtes/voyde slouth and neglygence Mor than a thousand without deuocyon Lenuoy. To all my maysters knelynge on my kne That shall rede this compylacyon I praye them mekely/of theyr benygnyte Fyrste dewly done/examynacyon And folowynge after iuste correccyon whan they haue leysoure and couenable space That I maye fynde supportacyon By godly fauour/to correcte of theyr grace. Man lyfte vp thy harte/to the father in heuen And praye vnto hym/whiche is eternall That sytteth so farre/aboue ther sterres seuen In his palays most imperyall To graunte vs grace here in this lyfe mortall Contricyon of synne/afore our departynge And or we passe/remyssyon finall Towards that lyfe/where ioye is euerlastynge. Amen.</field>
+   </doc>
+</add>

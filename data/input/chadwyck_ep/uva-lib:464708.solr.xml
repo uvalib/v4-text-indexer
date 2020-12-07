@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Arwaker, Edmund</field>
+      <field name="author_facet">Arwaker, Edmund</field>
+      <field name="author_sort_facet">arwaker edmund</field>
+      <field name="author_text">Arwaker, Edmund</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.0032.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">1694</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464708</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">An Elegy On His Excellency Lieutenant-General Tolmach ; By Edm. Arwaker</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">An Elegy On His Excellency Lieutenant-General Tolmach ; By Edm. Arwaker</field>
+      <field name="title_facet">elegy on his excellency lieutenant general tolmach</field>
+      <field name="title_sort_facet">elegy on his excellency lieutenant general tolmach</field>
+      <field name="title_text">An Elegy On His Excellency Lieutenant-General Tolmach ; By Edm. Arwaker</field>
+      <field name="year_display">1694</field>
+      <field name="year_facet">1694</field>
+      <field name="year_multisort_i">1694</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464708&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464708&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Arwaker, Edmund&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;arwaker edmund&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;An Elegy On His Excellency Lieutenant-General Tolmach ; By Edm. Arwaker&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;elegy on his excellency lieutenant general tolmach&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1694&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1694&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Arwaker, Edmund&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;An Elegy On His Excellency Lieutenant-General Tolmach&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;By Edm. Arwaker&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Francis Saunders&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1694&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp0131&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;8 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;An Elegy On His Excellency Lieutenant-General Tolmach&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;By Edm. Arwaker&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 17 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">AN ELEGY ON His Excellency Lieutenant-General TOLMACH. [I.] Since Heav'n, from Albion's once lov'd Isle estrang'd, Has into frowns its benign Aspect chang'd; And pleas'd to interrupt her joys, The blessings she in her great Tolmach found, With which her Fields, while grac'd with him, were crown'd, Severely in their Author them destroys, And in her tenderest part gives her a Mortal Wound: Why, in this great occasion to complain Does Albion seem insensible? O why suppress her Sighs, her Tears restrain? Nor offer at her Patron's Herse A Sacrifice of Monumental Verse? That might her grief great as her suff'rings tell; And Celebrate the mighty name That swells the Registrys of Fame, That Name, whose just Applause is the main source of hers? II. Rouze, you ungrateful Scribling Crew, Who with your tribute of gross flatteries come To wait on every meaner Tomb, But where you shou'd be loudest-tongu'd, are Dumb; Think what is to the name of Tolmach due; Of whom the wonders you declare So far from Adulation will appear, They cannot reach his glorious Character. Justly to him your praise belongs, Whose great exploits gave you a copious theme, And did inspire each Muse with thoughts sublime, In imitation of them, But still, alas! inferiour to him, The noblest Subject; and the best rewarder of your Songs. For as his Virtue did exalt your strains Above the pitch of Common thought and sense, He amply did requite your pains By his unparalel'd Munificence; He made your Laurels fructifie, And rais'd you to the heights of Poetry, Freed from the pressure of its Indigence. III. Raise then your Voices, and his Praise declare, Thus to the World you will your Verse endear, And ravish every list'ning Ear. Tell of his Noble Aspect, graceful Mein, In which beholders took a strange content, Fitted to hold the glorious Things within, And what it did contain, to represent. There Wit and Sense were in abundance found; But least, as Waters that their Banks o'erflow, These streams shou'd shallow by dilation grow, A solid Judgment did their courses bound, Which still preserv'd their Depth and Current too, And made their Silence as themselves, profound; Not noisie with impertinence, The certain mark of a low Ebb of Sense. IV. Nor did his Courage to his Wit give place; As great, and yet as quiet too it was; Free from all offers of offence, Conceal'd within his Breast it lay, As Seeds of Fire hid in their Parent Stone, Nor easily wou'd it be tempted thence, Till urg'd by Provocation, The angry Sparks forc'd thence their burning way, And made his real Brav'ry known, That cou'd resent a wrong as well as offer none. But if his Country, dear as Life or Fame, Bid him unsheath his Sword in its defence, His Blood was quickly in a flame, And in each Vein beat brisk alarms, To call her great Defender out to Arms; Such for her weakness was his shame, Such of her Suff'rings was his tender Sense. V. Hibernia, that unhappy Land That boasts her wholsome Soil no Venom breeds, Yet never wants Rebellion's poys'nous Seeds, Her Empress Albion durst withstand, And strove to wrest the Scepter from her Hand; Who then so fit in Albion's Cause to Fight, As he who did in Albion's Peace delight: And was the great Asserter of her Right? Tolmach is sent her Vassals to reduce; Tolmach the Brave, who cou'd not brook to see An Arbitrary Pow'r her Laws abuse, And cramp her Native Liberty: Him she desires, him she's oblig'd to choose; Nor cou'd she find, in her Heroick Store, One that wou'd study her Advantage more, Or in her Cause be more of Life profuse. VI. Athlone, by Art and Nature Fortified, Put a strange Non-plus to the English Arms, Their Courage baffled, and their strength defied, Doubly secur'd from Harms, Till Tolmach found away they did not dread, (Since such a dangerous Enterprise No Courage durst attempt, no Thought design, but his) A way as unsuspected as unknown, At once to gain their River and their Town; Follow'd by Numbers of admiring Friends (Who wou'd not follow where he led?) Into the Shannon boldly he descends, As Cæsar once into the Rubicon; Th'affrighted River from him fled, Quitted its Post, and did to Lym'rick haste, (The Rebels strongest Refuge and their last,) Nor thought its Stream had now sufficient speed; While to th'astonish'd Town he safely pass'd, And on the conquer'd Walls his flying Ensigns plac'd. Thus daring Minds no difficulty know, The Courage that in great Attempts they shew, Enables them to conquer what it leads them to. Soon Wars loud Tumults in Hibernia cease, Subjected to her Soveraigns Pow'r: Pleas'd with the Blessings of his gentle Reign, The Golden Plenty, and the Downy Peace, Which, as his happy Conquest did restore, His more triumphant goodness does encrease; And now she tunes her silver Lyre again, To Sing her Liberty regain'd, Which, if unconquer'd, she had ne'r obtain'd, Since she no longer business does afford, To exercise our Heroes Sword, He hastens to the Belgick shore, That does his strong successful Arm implore, To free it from th'encroaching Gallick Pow'r, Which with the Title of Most Christian dress'd, Does Christendom worse than the Turk infest. VIII. But to suppress this pow'rful Foe, And wound him deeper with a nearer blow, The British Navy is for France design'd, France must again that dreaded Courage know, That Courage that had often brought her low; And whom cou'd Albion, but her Tolmach find That with more Vigour wou'd her Armies head, Or one by whom they wou'd be rather led? Whose dreaded name, like Talbot's heretofore, Wou'd through those Fields her Fame more largely spread, And fright French Children, but their Fathers more? The English Bravery in France well known And own'd peculiarly Ours, Which last inglorious Age out-liv'd, And long lay buried with our Ancestors In Tolmach was reviv'd, And we th'Original must own Amended and Enlarg'd in this Edition. IX. But, Oh! what Pow'r, envious at Albion's joy, Blasts her with a malignant breath, And does her gawdy blooming Hopes destroy! Scarce had he touch'd th'inhospitable Shore, Which all around for fear began to roar; When from th'Encounter of a fiery Storm A swift, tho' heavy Messenger of Death Too well its hateful Errand did perform And forcing a remoter part Made way for Fate too soon to reach his heart, And boldly tell him he must be no more. When this th'advancing Soldiers knew, Cold as he their Courage grew, France had no way but this to shock them so: Their General's Life is all their care, Which to preserve they hastily retreat, The Fate of France and their Revenge defer, To wait on a concern more near and great. X. Back to his Native soil convey'd, His drooping Head he on her Bosom laid, And in her Service wasted, yet untir'd, As fearless as he liv'd, expir'd, And for the Breath she gave too largely paid. France by his Death already grown too proud, Wanted the honour of his grave, This privilege injurious Fate allow'd To be for Albion reserv'd, Whom as his Life he lov'd, whom with his Life he serv'd: Nor cou'd she next his Life, a greater blessing crave Than to preserve him, Dead, who her, alive did save. XI. See Albion, see thy General brought home, Not crown'd with Conquest, as he us'd to come, But by Inconstant Fate betray'd, Himself a bleeding Victim made; Ah then dissolve into a briny Flood, And let it flow in Consort with his Blood. But, Oh! The precious Balm is shed in vain, No Virtue is in that or Physick found To keep out death, and heal the gaping wound: That Sluice does Life's whole treasure drain. Not all thy Sighs can him with Breath supply, Not all thy Pray'rs his fleeting Soul recal, But in thy Arms thy Champion must dye, Pleasing himself with what thou do'st lament, The loss of Life in thy lov'd Service spent, And only deems the Sacrifice too small. Since then for thee, the gen'rous Tolmach dies, To his great Memory just Trophies raise, For which he Death may prize! That his pleas'd Soul from its exalted Seat May triumph in his Fate, So well deserving, and so full of praise. While in a peaceful Grave his Body lies, The Guardian Relick of our Isle Berkeley in France performs his Obsequies, And makes whole flaming Towns become his Fun'ral Pile. FINIS.</field>
+   </doc>
+</add>

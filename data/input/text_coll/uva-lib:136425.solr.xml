@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia</field>
+      <field name="author_facet">University of Virginia</field>
+      <field name="author_sort_facet">university of virginia</field>
+      <field name="author_text">University of Virginia</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2005_Q4_2/uvaBook/tei/z000000106.xml</field>
+      <field name="date_indexed_facet">201909240342</field>
+      <field name="date_text"/>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:136425</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">A catalogue of the officers and students of the University of Virginia. Fifth session, 1828-1829</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia -- Periodicals</field>
+      <field name="subject_text">University of Virginia -- Periodicals</field>
+      <field name="title_display">A catalogue of the officers and students of the University of Virginia.  Fifth session, 1828-1829</field>
+      <field name="title_facet">catalogue of the officers and students of the university of virginia</field>
+      <field name="title_sort_facet">catalogue of the officers and students of the university of virginia</field>
+      <field name="title_text">A catalogue of the officers and students of the University of Virginia.  Fifth session, 1828-1829</field>
+      <field name="year_multisort_i">1828</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:136425&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:136425&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A catalogue of the officers and students of the University of Virginia. Fifth session, 1828-1829&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;catalogue of the officers and students of the university of virginia&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A catalogue of the officers and students of the University of Virginia&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1828-1829&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Va.&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;The University&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;LD5667&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;X004575773&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;o05654199&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;9 p. ; 18-23 cm.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia -- Periodicals&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A catalogue of the officers and students of the University of Virginia&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1828-1829&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Va.&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2004&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2004 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 28 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">May 1st, 1880. Catalogues of the students attending the early sessions have never before been published. James F. Harrison, Chairman.</field>
+      <field name="fulltext">BOARD OF VISITORS. JAMES MADISON, Rector. JAMES MADISON, CHAPMAN JOHNSON, JOSEPH C. CABELL, JAMES BRECKENRIDGE, JOHN H. COCKE, JAMES MONROE. WM. C. RIVES. Secretary of the Board, NICHOLAS P. TRIST.</field>
+      <field name="fulltext">FACULTY AND OFFICERS. ROBLEY DUNGLISON, Chairman of the Faculty. GESSNER HARRISON, Professor of Ancient Languages. GEO. BLÆTTERMANN, Professor of Modern Languages. CHARLES BONNYCASTLE, Professor of Mathematics. ROBERT M. PATTERSON, Professor of Natural Philosophy. JOHN P. EMMET, Professor of Chemistry and Mat. Med. GEORGE TUCKER, Professor of Moral Philosophy. ROBLEY DUNGLISON, Professor of Physiology, Medicine, Obstetrics and Medi cal Jurisprudence. JOHN TAYLOE LOMAX, Ppofessor of Law. THOMAS JOHNSON, Demonstrator of Anatomy and Surgery. WILLIAM WERTENBAKER, Librarian and Secretary of the Faculty. ARTHUR S. BROCKENBROUGH, Proctor. ALEXANDER GARRETT, Bursar.</field>
+      <field name="fulltext">CATALOGUE OF STUDENTS. FIFTH SESSION.—1828—1829. ABBREVIATIONS. A. L.—Ancient Languages. M. L.—Modern Languages. M.—Mathematics. N. P.—Natural Philosophy. C.—Chemistry. M. P.—Moral Philosophy. MED.—Medicine. A. &amp; S.—Anatomy &amp; Surgery. NAMES. RESIDENCES. SCHOOLS ATTENDED. SES. Anderson, M. L. Albemarle co., Va. A &amp; S, 1 Aylett, Patrick H. King William co., Va. N P, LAW, 4 Baker, Jerman Richmond, Va. MED, A &amp; S, 3 Bagby, Thos. H. Accomack co., Va. LAW, 2 Baylor, G. R. Jefferson co. Va. M L, M, 1 Baynham, John Essex co., Va. A L, M, 1 Baynham, Wm. A. Essex co., Va. A L, M, 1 Beirne, Geo. P. Monroe co., Va. M, N P, LAW, 1 Bentley, Henry M. Powhatan co., Va. C, MED, A &amp; S, 1 Botts, Charles T. Fredericksburg, Va. M P, LAW, 3 Botts, Wm. S. Flemingsburg, Ky. M P, LAW, 2 Brockenbrough W. H. University of Va. A L, M, 1 Brown, Geo. F. Westmoreland co., Va. M, N P, C, 1 Caperton, Alien T. Monroe co., Va. A L, M L, M, 1 Carr, John H. Baltimore, Md. A L, M, 1 Carr, Wm. G. Albemarle co., Va. A L, M L, 1 Carter, Champe Amherst co., Va. LAW, 2 Clagett, Henry Leesburg, Va. M P, N P, 5 Conway, Francis F. University of Va. C, A &amp; S, 1 Cooke, Thomas A. Opelousas, Ala. MED, 1 Dabney, George C. Campbell co., Va. M L, M P, LAW, 1 Dangerfield, Wm. H. Alexandria, Va. N P, C, M P, Daniel, William Jr. Lynchburg, Va. LAW, 3 Edmunds, John R. Halifax co., Va. A L, M, 1 Garber, Wm. H. Staunton, Va. LAW, 1 Garnett, Chas. F. Essex co., Va. A L, M, M P, 1 Garnett, Theo. S. Essex co., Va. A L, M, 1 Garrett, John Bolling Charlottesville, Va. A &amp; S, 4 Gillespie, William A. Louisa co., Va. A &amp; S, 1 Graham, George Washington, D. C. A L, M, 1 Gray, Wm. Farley University of Va. M L, LAW, 5 Gretter, John A. Richmond, Va. N P, C, M P, 3 Harper, Rich'd W. Dinwiddie co., Va. N P, C, 2 Haskins, James Brunswick co., Va. N P, C, 1 Henderson, Arch. D. Salisbury, N. C. A L, N P, 1 Holman, Nathan A. Buckingham co., Va. A L, M L, M, 2 Hooe, Thomas P. Alexandria, Va. M L, 1 Hoyle, Laban I. Hoylesville, N. C. A L, M, 1 Hubard, Robert T. Buckingham co., Va. M L, M, M P, 1 Huie, Warren G. Salisbury, N. C. A L, N P, 1 Hunter, Robert M. T. Essex co., Va. LAW, 4 Hunter, W. G. Essex co., Va. A L, M L, N P, 1 Jackson, Thomas M. Fredericksburg, Va. N P, C, 2 Johnson, Charles E. Chowan, N. C. A L, M, 1 Johnson, George N. Richmond, Va. A L, M L, M, 1 Johnson, Henry W. Louisa co., Va. A L, M L, M, 1 Johnston, Andrew Richmond, Va. N P, C, M P, 2 Jones, Francis Wm. Charlottesville, Va. A L, 1 Jones, I. Walter Washington, D. C. A L, M, 1 King, George R. Opelousas, La. M P, LAW, 2 Kownslar, Randolph Berkeley co., Va. C, MED, A &amp; S, 3 Lee, George Hay Winchester, Va. A L, M L, N P, 2 Lee, Robert E. Fanquier co., Va. N P, C, M P, 3 Leigh, Junius E. Amelia, co., Va. A L, M L, M, N P, 1 Lightfoot, Wm. B. Port Royal, Va. A L, M, 1 Lomax, John T., Jr. University of Va. A L, M, 1 Luckett, Robert T. Loudoun co, Va. N P, LAW, 2 McClelland, Thos. S. Nelson co., Va. M, N P, M P, 2 McMahon, D. F. Pinckneyville, S. C. N P, C, LAW, 2 Mathews, Joel E. Georgia, M P, LAW, 4 Martin, Edmund H. Nelson co., Va. M, N P, C, 2 Maupin, John T. Albemarle, co., Va. C, MED, A &amp; S, 2 Maupin, Socrates Albemarle co., Va. C, MED, A &amp; S, 1 Meriwether, Wm. D. Clarksville, Tenn. M L, M, C, 1 Michie, James Albemarle co., Va. C, MED, A &amp; S, 1 Michie, J. B. Albemarle co., Va. A &amp; S, 1 Michie, Wm. S. Louisa co., Va. C, MED, A &amp; S, 1 Miller, Charles E. Charlotte co., Va. C, MED, A &amp; S, 1 Morgan, Daniel S. Richmond, Va. C, MED, A &amp; S, 1 Morgan, Wm. J. Fauqnier co., Va. M, N P, 1 Morgan, Wm. K. Abingdon Va. C, MED, A &amp; S, 1 Mosby, Charles L. Powhatan co., Va. M. P, LAW, 2 Moseley, Alexander Buckingham co., Va. A L, M L, M, 1 Moseley, Benj. T. Greenesboro', Ga. LAW, 1 Munford, John D. Richmond, Va. M L, N P, M P, 2 Neal, James F. Mecklenburg, co., Va. A L, M L, N P, 2 Newsum, William H. Columbia, Tenn. C, MED, A &amp; S, 4 Nicholas, John S. Buckingham co., Va. C, MED, A &amp; S, 1 Nixon, Columbus J. Camden, S. C. LAW, 1 Norvell, Fayette H. Lynchburg, Va. M L, N P, C, 2 Parker, Richard Norfolk, Va. A L, M, C, 2 Perry, Lilburn P. Albemarle co., Va. C, MED, A &amp; S, 3 Price, James L. Richmond, Va. M P, LAW, 2 Preston, John T. L. Lexington, Va. M L, N P, M P, 1 Purdom, Wilson A. Gainesborough, Ala. M L, M P, 2 Randolph, James H. Lynchburg, Va. C, MED, A &amp; S, 1 Rives, Alexander Nelson co., Va. M P, LAW, 1 Rodes, Tyree Albemarle co., Va. C, MED, A &amp; S, 3 Rose, Erasmus T. Lynchburg, Va. A L, M L, M, 1 Royal, Samuel H. Powhatan co., Va. C, MED, A &amp; S, 2 Saunders, Robert M. Henrico co., Va. M L, N P, C, 2 Scott, Samuel Buckingham co., Va. C, MED, A &amp; S, 2 Shackelford, Wm. B. Culpeper, Va. C, MED, A &amp; S, 1 Sheppard, Alex. H. Richmond, Va. A L, M, 1 Shreve, Charles Loudoun co., Va. LAW, 2 Sims, Hiram Orange co., Va. A L, M, 1 Springs, Richard A. Lancaster, S. C. LAW, 3 Stuart, Richard H. King George co., Va. C, MED, A &amp; S, 5 Tabb, George E. Gloucester co., Va. M M, LAW, 1 Taliafero, Alfred Orange co., Va. A L, M, 1 Temple, H. W. L. King and Queen co., Va. A L, M, 1 Thomas, Wray Richmond, Va. M, N P, 2 Toombs, Robert A. Washington, Ga. LAW, 1 Trigg, Daniel Abingdon, Va. C, MED, A &amp; S, 1 Trigg, Wm. K. Abingdon, Va. M P, LAW, 1 Trueheart, Charles S. Powhatan co., Va. A L, M, 1 Tucker, Thomas G. Brunswick co., Va. A L, M L, N P, 4 Turner, John S. Fredericksburg, Va. A L, M, 1 Turner, Thomas Fredericksburg, Va. A L, M, 1 Tutwiler, Henry Harrisonburg, Va. M P, LAW 5 Thweatt, Archibald Dinwiddie co., Va. M L, M, C, 1 Vaiden, Thomas J. Charles City co., Va. C, MED, A &amp; S, 3 Wickham, Cary S. Richmond, Va. A L, M L, M, 1 Wilkinson, Ro. A. New Orleans, La. M, N P, 1 Wiley, Thomas H. Alleghany co., Va. A L, M, 1 Willis, John Orange co., Va. M L, N P, C, 4 Wolfe, Nathaniel Charlottesville, Va. LAW, 2 Wood, George Albemarle co., Va. C, MED, A &amp; S, 2 Wood, Thomas Albemarle co., Va. N P, LAW, 2 Walton, Robert W. Pensacola, Fla. A L, M L, M, 1 Watson, John W. C. Albemarle co., Va. N P, LAW, 1 Wortham, Albert G. Richmond, Va. N P, C, 2</field>
+      <field name="fulltext">NUMBERS IN THE SEVERAL SCHOOLS. Ancient Languages 39 Modern Languages 26 Mathematics 45 Natural Philosophy 33 Chemistry 38 Medicine 22 Moral Philosophy 23 Law 27 Anatomy and Surgery, 27</field>
+      <field name="fulltext">RECAPITULATION. Virginia 101 North Carolina 4 South Carolina 3 Georgia 3 District of Columbia 2 Tennessee 2 Louisiana 2 Kentucky 1 Florida 1 Maryland 1 Alabama 1 121</field>
+   </doc>
+</add>

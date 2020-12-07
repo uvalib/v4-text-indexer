@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1840's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2006_06/uvaGenText/tei/bov_18451030.xml</field>
+      <field name="date_indexed_facet">201909240343</field>
+      <field name="date_text">October 30, 1845</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:245645</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. October 30, 1845</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  October 30, 1845</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  October 30, 1845</field>
+      <field name="year_display">October 30, 1845</field>
+      <field name="year_facet">1845-10-30</field>
+      <field name="year_multisort_i">1845</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:245645&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:245645&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. October 30, 1845&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;October 30, 1845&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1845-10-30&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;October 30, 1845&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Public minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;8 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information. Access to minutes containing salary information will be granted only under the procedures of the Virginia Freedom of Information Act (Code of Virginia-2.1-340 ff.) or if permission is granted by the Secretary of the Board. Researchers interested in obtaining access to these records should direct a request in writing to the Office of the Legal Adviser, Madison Hall, University of Virginia. These public minutes have had salary information deleted and bear no restrictions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1845-10-30&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 17 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">On Thursday October 30th 1845, in obedience to a special call by the Rector a meeting of the Visitors was held at the University of Virginia at which were present the following Visitors to wit: Joseph C. Cabell, Rector, John H. Cocke, Thomas J. Randolph, Andrew Stevenson, and R. M.T. Hunter. The session continued thro Friday the 31st October &amp; part of Saturday the first of November- After a thorough investigation of the matters which occasioned their convocation the following proceedings were had by the Board. The Board of Visitors having assembled at the University, the Rector submitted the following letter from himself calling this meeting Circular Warminster Oct: 16th. 1845 Dear Sir, The very high trust confided to the Visitors of the University by the people of the state, &amp; the very great importance of reestablishing public confidence in the institution, induce me, under existing circumstances to request the members of the Board to give their attendance at the University on Thursday the 30th Inst: My object is to invite an immediate &amp; more careful investigation by the Board itself of the administration of the office of Proctor for some time past, which I think due not only to the best interests of the Institution but to the officer concerned. I am led to this conclusion by communications which I have received from the gentleman employed to settle the proctor's accounts, &amp; from others since the last meeting of the Visitors which will be communicated to the Visitors when they assemble. I trust that the meeting will be full and that it will eventuate in a manner satisfactory to the Board &amp; to the officer concerned. Permit me to remark that as such may be the result it is advisable not to give publicity to the cause of the meeting until it shall have taken place. Very respectfully yrs. Joseph C. Cabell Rector. To - - - - - and having laid before the Board two letters to him from the Secretary of the Board and one from the Commissioner to settle the Proctor's accounts. Thereupon it was resolved 1. That this Board approving of the call made by the Rector, deem it expedient &amp; proper to proceed instanter to a full &amp; thorough investigation of the accounts &amp; official conduct of the Proctor &amp; Patron &amp; of such other officers of the Institution as in the course of the examination it may become expedient to investigate and for that purpose that the Proctor, Bursar, Commissioner &amp; Clerk be notified to hold themselves in readiness to attend this Board with their books &amp; accounts for the purpose of the said examination. And thereupon the Board proceeded to a full examination of the Books of the Proctor &amp; Patron, &amp; those of the Bursar and received the testimony &amp; explanations of the Proctor, Bursar, Commissioner, &amp; Proctor's Clerk, and of professors Rogers, Harrison &amp; Shele, and after a full consideration of the whole subject the Board came to the following resolutions viz. 2. Resolved unanimously as the opinion of the Board, that it is expedient that the present incumbent of the offices of Proctor &amp; Patron e removed, &amp; that a successor be appointed for the residue of the session. 3. Resolved unanimously that in the opinion of the members present, there is nothing in the conduct of the proctor &amp; patron which is calculated to affect his individual character for integrity, but that his removal is justified upon grounds other than those affecting his private Character. 4. Resolved, as the opinion of the Board, that the present investigation has disclosed sufficient grounds to render it inexpedient, that the Librarian should longer continue to act as Clerk of the Proctor &amp; Patron. 5. Resolved that Geo. W. Spooner be appointed Proctor &amp; Patron of the University for the remainder of the session. 6. Resolved that the Proctor &amp; Patron be authorised to rent for a reasonable compensation for the remainder of the session the houses &amp; grounds occupied by the proctor &amp; the agreement that shall be made shall be laid before the Chairman of the Faculty for his approval. 7. Resolved that a professorship of History and general literature shall be instituted in addition to the professorships already established in the University. 8. Resolved that the salary &amp; fees of the professor of History &amp; general literature shall be the same with those of the other professors of the University that the said professorship be filled at the next annual meeting of the Board of Visitors, and that it shall be the duty of the proctor to give public notice two months previous to the meeting that the appointment will then be made. 9. Resolved that the Faculty of the University be requested to prepare and to lay before the Board of Visitors at the next annual meeting a scheme of instruction in the School of History and general Literature. 10. Resolved that the Proctor and Patron shall pay over to the Bursar all money received by him from the Students for the use of the University or it's officers as soon after he receives it as practicable and that the Bursar shall forthwith deposit the same in the Branch of the Farmers' Bank at Charlottesville. 11. Resolved That Wm. A. Bibb Esqr. Cashier &amp;c be requested to settle the accounts of the Proctor and Patron monthly upon an examination of his Books &amp; vouchers and make to the Chairman of the Faculty a statement of this account presenting a view of the receipts &amp; disbursements of the Proctor &amp; Patron, and noting any departure of that officer from the mode of keeping and disbursing the University funds or those held by him as Patron, as prescribed by the Enactments. The last statement which closes the account of the session shall present also an entire view of the money received and expended by the Proctor and Patron during the whole of the preceding year. A copy of this monthly statement shall be further transmitted by the Chairman to the Rector should he find reason to suspect any improper conduct on the part of the Proctor and Patron. Should no such cause of immediate action occur these statements shall be transmitted by the Chairman of the Faculty to the Board of Visitors at their regular annual meeting. For this service a reasonable compensation shall be allowed by order of the Chairman of the Faculty subject to the approval of the Board of Visitors. 12. Resolved that all drafts drawn upon the Bursar by the Proctor shall be made payable to order. 13. Resolved that the patron shall hereafter deposit in the Branch of the Farmers' Bank at Charlottesville all money deposited by each Student for other purposes than those of the University or it's officers to the credit of the "Patron and of A. B." (the Student paying the same). This money shall only be drawn by the joint check of the patron and the Student for whose benefit it is deposited. 14. That the Proctor in future shall receive a salary of $1000 per annum in compensation of his duties as Proctor &amp; Patron with the privilege of employing a Clerk at a compensation not exceeding $500 per annum during the residue of the present session; provided however that the office of Clerk shall then be abolished. 15. Resolved that the Hotel Keepers shall receive quarterly the money deposited by the Students for diet, bedding furniture &amp;c for the Dormitories &amp; for servants attendance: provided however that the Chairman of the Faculty may restore the former mode of monthly payments should he deem it necessary. No action having taken place under the resolution of the 3d July 1845 in relation to the donation of books under the will of the late James Madison. 16. Resolved that the said resolution be rescinded and that James W. Saunders be appointed the agent and attorney of the University to obtain, if practicable, a catalogue of the Library of Mr. Madison at the time of his death and to take forthwith all needful steps to obtain possession of all the Books to which the University is entitled under the said will, and for that purpose that he be requested to confer &amp; correspond with Mrs. Madison upon the subject &amp; ascertain whether the portion of her late husband's library which he devised to her has been received &amp; that the said agent be authorised to adopt all suitable measures to carry into effect the wishes of the Donor towards the Institution as expressed in his last will &amp; testament. 17. Resolved that the agent be allowed as compensation $100 &amp; a commission of 5 per cent upon the value of the Books actually recovered. 18. Resolved that all meetings of Students in any of the public rooms of the University be hereafter prohibited, unless the written consent of the Chairman of the Faculty be first obtained. Whereas the practice of illuminations within the precincts appears to the Visitors to be fraught with danger to the Buildings of the University, besides that they will be certainly defaced by such illuminations 19. Resolved that all illuminations on whatever occasion be henceforth forbidden within the precincts of the University. 20. Resolved that it be publicly notified two months previous to the next annual meeting of the Board that the Visitors will, at that meeting proceed to elect a proctor for the University. The Board then, on Saturday the 1st day of November, adjourned sine die.</field>
+      <field name="fulltext">Warminster Oct: 16th. 1845 Dear Sir, The very high trust confided to the Visitors of the University by the people of the state, &amp; the very great importance of reestablishing public confidence in the institution, induce me, under existing circumstances to request the members of the Board to give their attendance at the University on Thursday the 30th Inst: My object is to invite an immediate &amp; more careful investigation by the Board itself of the administration of the office of Proctor for some time past, which I think due not only to the best interests of the Institution but to the officer concerned. I am led to this conclusion by communications which I have received from the gentleman employed to settle the proctor's accounts, &amp; from others since the last meeting of the Visitors which will be communicated to the Visitors when they assemble. I trust that the meeting will be full and that it will eventuate in a manner satisfactory to the Board &amp; to the officer concerned. Permit me to remark that as such may be the result it is advisable not to give publicity to the cause of the meeting until it shall have taken place. Very respectfully yrs. Joseph C. Cabell Rector.</field>
+   </doc>
+</add>

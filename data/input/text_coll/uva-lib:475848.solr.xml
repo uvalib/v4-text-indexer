@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Stephen Crane</field>
+      <field name="author_facet">Stephen Crane</field>
+      <field name="author_sort_facet">stephen crane</field>
+      <field name="author_text">Stephen Crane</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1890's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/CraSelf.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">March 1899</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:475848</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">A Self-Made Man</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">A Self-Made Man</field>
+      <field name="title_facet">self made man</field>
+      <field name="title_sort_facet">self made man</field>
+      <field name="title_text">A Self-Made Man</field>
+      <field name="year_display">March 1899</field>
+      <field name="year_facet">1899-03</field>
+      <field name="year_multisort_i">1899</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:475848&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:475848&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Stephen Crane&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;stephen crane&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A Self-Made Man&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;self made man&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;March 1899&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1899-03&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Stephen Crane&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Self-Made Man&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1899&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Smith, Elder, &amp;amp; Co.,&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;March 1899&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;pp.324-329&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Self-Made Man&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 15 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">A SELF-MADE MAN. AN EXAMPLE OF SUCCESS THAT ANY ONE CAN FOLLOW. TOM had a hole in his shoe. It was very round and very uncomfortable, particularly when he went on wet pavements. Rainy days made him feel that he was walking on frozen dollars, although he had only to think for a moment to discover he was not. He used up almost two packs of playing cards by means of putting four cards at a time inside his shoe as a sort of temporary sole, which usually lasted about half a day. Once he put in four aces for luck. He went down town that morning and got refused work. He thought it wasn't a very extraordinary performance for a young man of ability, and he was not sorry that night to find his packs were entirely out of aces. One day, Tom was strolling down Broadway. He was in pursuit of work, although his pace was slow. He had found that he must take the matter coolly. So he puffed tenderly at a cigarette and walked as if he owned stock. He imitated success so successfully that if it wasn't for the constant reminder (king, queen, deuce, and tray) in his shoe, he would have gone into a store and bought something. He had borrowed five cents that morning of his landlady, for his mouth craved tobacco. Although he owed her much for board, she had unlimited confidence in him, because his stock of self-assurance was very large indeed. And as it increased in a proper ratio with the amount of his bills, his relations with her seemed on a firm basis. So he strolled along and smoked, with his confidence in fortune in nowise impaired by his financial condition. Of a sudden he perceived an old man seated upon a railing, and smoking a clay pipe. He stopped to look because he wasn't in a hurry, and because it was an unusual thing on Broadway to see old men seated upon railings and smoking clay pipes. And to his surprise the old man regarded him very intently in return. He stared, with a wistful expression, into Tom's face, and he clasped his hands in trembling excitement. Tom was filled with astonishment at the old man's strange demeanour. He stood, puffing at his cigarette, and tried to understand matters. Failing, he threw his cigarette away, took a fresh one from his pocket, and approached the old man. 'Got a match?' he inquired pleasantly. The old man, much agitated, nearly fell from the railing as he leaned dangerously forward. 'Sonny, can you read?' he demanded, in a quavering voice. 'Certainly I can,' said Tom encouragingly. He waived the affair of the match. The old man fumbled in his pocket. 'You look honest, sonny. I've been lookin' fer an honest feller fur a'most a week. I've set on this railing fur six days,' he cried plaintively. He drew forth a letter and handed it to Tom. 'Read it fur me, sonny, read it,' he said coaxingly. Tom took the letter and leaned back against the railings. As he opened it and prepared to read, the old man wriggled like a child at a forbidden feast. Thundering trucks made frequent interruptions and seven men in a hurry jogged Tom's elbow, but he succeeded in reading what follows: 'Office of Ketchum R. Jones, Attorney-at-Law, 'Tin Can, Nevada, May 19, 18—. 'RUFUS WILKINS, ESQ. 'DEAR SIR,— I have as yet received no acknowledgment of the draft from the sale of the north section lots, which I forwarded to you on June 25. I would request an immediate reply concerning it. 'Since my last I have sold the three corner lots at five thousand each. The city grew so rapidly in that direction that they were surrounded by brick stores almost before you would know it. I have also sold for four thousand dollars the ten acres of outlying sage-bush which you once foolishly tried to give away. Mr. Simpson, of Boston, bought the tract. He is very shrewd, no doubt, but he hasn't been in the West long. Still, I think if he holds it for about a thousand years he may come out all right. 'I worked him with the projected-horse-car-line gag. Inform me of the address of your New York attorneys and I will send on the papers. Pray do not neglect to write me concerning the draft sent on June 25. 'In conclusion I might say that if you have any eastern friends who are after good western investments, inform them of the glorious future of Tin Can. We now have three railroads, a bank, an electric-light plant, a projected-horse-car line, and an art society. Also, a saw manufactory, a patent car-wheel mill, and a Methodist church. Tin Can is marching forward to take her proud stand as the metropolis of the West. The rose-hued future holds no glories to which Tin Can does not—' Tom stopped abruptly. 'I guess the important part of the letter came first,' he said. 'Yes,' cried the old man, 'I've heard enough. It is just as I thought. George has robbed his dad.' The old man's frail body quivered with grief. Two tears trickled slowly down the furrows of his face. 'Come, come, now,' said Tom, patting him tenderly on the back. 'Brace up, old feller. What you want to do is to get a lawyer and go put the screws on George.' 'Is it really?' asked the old man eagerly. 'Certainly it is,' said Tom. 'All right,' cried the old man, with enthusiasm; 'tell me where to get one.' He slid down from the railing and prepared to start off. Tom reflected. 'Well,' he said finally, 'I might do for one myself.' 'What!' shouted the old man in a voice of admiration, 'are you a lawyer as well as a reader?' 'Well,' said Tom again, 'I might appear to advantage as one. All you need is a big front,' he added slowly. He was a profane young man. The old man seized him by the arm. 'Come on, then,' he cried, 'and we'll go put the screws on George.' Tom permitted himself to be dragged by the weak arms of his companion around a corner and along a side-street. As they proceeded, he was internally bracing himself for a struggle, and putting large bales of self-assurance around where they would be likely to obstruct the advance of discovery and defeat. By the time they reached a brown stone house, hidden away in a street of shops and warehouses, his mental balance was so admirable that he seemed to be in possession of enough information and brains to ruin half the city, and he was no more concerned about the king, queen, deuce and tray than if they had been discards that didn't fit his draw. Too, he infused so much confidence and courage into his companion, that the old man went along the street breathing war, like a decrepit hound on the scent of new blood. He ambled up the steps of the brown stone house as if he were charging earthworks. He unlocked the door, and they passed along a dark hall-way. In a rear room they found a man seated at table engaged with a very late breakfast. He had a diamond in his shirt front, and a big of egg on his cuff. 'George,' said the old man in a fierce voice that came from his aged throat with a sound like the crackle of burning twigs, 'here's my lawyer, Mr.—er—ah—Smith, and we want to know what you did with the draft that was sent on June 25th.' The old man delivered the words as if each one was a musket shot. George's coffee spilled softly upon the table-cover, and his fingers worked convulsively upon a slice of bread. He turned a white, astonished face toward the old man and the intrepid Thomas. The latter, straight and tall, with a highly legal air, stood at the old man's side. His glowing eyes were fixed upon the face of the man at the table. They seemed like two little detective cameras taking pictures of the other man's thoughts. 'Father, what d-do you mean?' faltered George, totally unable to withstand the two cameras and the highly legal air. 'What do I mean?' said the old man with a feeble roar, as from an ancient lion; 'I mean that draft—that's what I mean. Give it up, or we'll—we'll—' he paused to gain courage by a glance at the formidable figure at his side, 'we'll put the screws on you.' 'Well, I was—I was only borrowin' it for 'bout a month,' said George. 'Ah,' said Tom. George started, glared at Tom, and then began to shiver like an animal with a broken back. There were a few moments of silence. The old man was fumbling about in his mind for more imprecations. George was wilting and turning limp before the glittering orbs of the valiant attorney. The latter, content with the exalted advantage he had gained by the use of the expression, 'Ah,' spoke no more, but continued to stare. 'Well,' said George finally, in a weak voice, 'I s'pose I can give you a check for it, though I was only borrowin' it for 'bout a month. I don't think you have treated me fairly, father, with your lawyers, and your threats, and all that. But I'll give you the check.' The old man turned to his attorney. 'Well?' he asked. Tom looked at the son and held an impressive debate with himself. 'I think we may accept the check,' he said coldly, after a time. George arose and tottered across the room. He drew a check that made the attorney's heart come privately into his mouth. As he and his client passed triumphantly out, he turned a last highly legal glare upon George that reduced that individual to a mere paste. On the sidewalk the old man went into a spasm of delight and called his attorney all the admiring and endearing names there were to be had. 'Lord, how you settled him!' he cried ecstatically. They walked slowly back toward Broadway. 'The scoundrel,' murmured the old man. 'I'll never see 'im again. I'll desert 'im. I'll find a nice quiet boarding-place, and—' 'That's all right,' said Tom. 'I know one. I'll take you right up,' which he did. He came near being happy ever after. The old man lived at advanced rates in the front room at Tom's boarding-house. And the latter basked in the proprietress's smiles, which had a commercial value and were a great improvement on many we see. The old man, with his quantities of sage-bush, thought Thomas owned all the virtues mentioned in high-class literature, and his opinion, too, was of commercial value. Also, he knew a man who knew another man who received an impetus which made him engage Thomas on terms that were highly satisfactory. Then it was that the latter learned he had not succeeded sooner because he did not know a man who knew another man. So it came to pass that Tom grew to be Thomas G. Somebody. He achieved that position in life from which he could hold out for good wines when he went to poor restaurants. His name became entangled with the name of Wilkins in the ownership of vast and valuable tracts of sage-bush in Tin Can, Nevada. At the present day he is so great that he lunches frugally at high prices. His fame has spread through the land as a man who carved his way to fortune with no help but his undaunted pluck, his tireless energy, and his sterling integrity. Newspapers apply to him now, and he writes long signed articles to struggling young men, in which he gives the best possible advice as to how to become wealthy. In these articles he, in a burst of glorification, cites the king, queen, deuce, and tray, the four aces, and all that. He alludes tenderly to the nickel he borrowed and spent for cigarettes as the foundation of his fortune. 'To succeed in life,' he writes, 'the youth of America have only to see an old man seated upon a railing and smoking a clay pipe. Then go up and ask him for a match.' STEPHEN CRANE.</field>
+   </doc>
+</add>

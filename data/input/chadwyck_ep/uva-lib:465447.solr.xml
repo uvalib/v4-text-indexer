@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Huddesford, George, 1749-1809</field>
+      <field name="author_facet">Huddesford, George, 1749-1809</field>
+      <field name="author_sort_facet">huddesford george 1749 1809</field>
+      <field name="author_text">Huddesford, George, 1749-1809</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1800's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.1337.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">1803</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:465447</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">Bonaparte ; An heroic ballad: With a sermon in its belly, which that renowned warrior and most reverend theologian preached at his visitation of the good people of Egypt: With explanatory notes: By the editor of Salmagundi [i.e. George Huddesford</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">Bonaparte ; An heroic ballad: With a sermon in its belly, which that renowned warrior and most reverend theologian preached at his visitation of the good people of Egypt: With explanatory notes: By the editor of Salmagundi [i.e. George Huddesford</field>
+      <field name="title_facet">bonaparte</field>
+      <field name="title_sort_facet">bonaparte</field>
+      <field name="title_text">Bonaparte ; An heroic ballad: With a sermon in its belly, which that renowned warrior and most reverend theologian preached at his visitation of the good people of Egypt: With explanatory notes: By the editor of Salmagundi [i.e. George Huddesford</field>
+      <field name="year_display">1803</field>
+      <field name="year_facet">1803</field>
+      <field name="year_multisort_i">1803</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:465447&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:465447&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Huddesford, George, 1749-1809&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;huddesford george 1749 1809&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Bonaparte ; An heroic ballad: With a sermon in its belly, which that renowned warrior and most reverend theologian preached at his visitation of the good people of Egypt: With explanatory notes: By the editor of Salmagundi [i.e. George Huddesford&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;bonaparte&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1803&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1803&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Huddesford, George&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1749&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1809&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Bonaparte&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;An heroic ballad: With a sermon in its belly, which that renowned warrior and most reverend theologian preached at his visitation of the good people of Egypt: With explanatory notes: By the editor of Salmagundi [i.e. George Huddesford]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for J. Hatchard [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1803&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp1851&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;48 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Bonaparte&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;An heroic ballad: With a sermon in its belly, which that renowned warrior and most reverend theologian preached at his visitation of the good people of Egypt: With explanatory notes: By the editor of Salmagundi [i.e. George Huddesford]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 25 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries, introductory and editorial matter omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Ecce inimicus atrox! VIRG. O, if men were to be sav'd by merit, what hole in hell were hot enough for him! SHAKESP. I HEN. IV. BONAPARTE. I. Redoubted Drawcansirs, Extoll'd by our grandsires In narrative, episode, stanza, or strophe, Philip's conquering son, Kouli Khan, Prester John, Knight, generalissimo, soldan, or sophi, Who have topp'd Fortune's wheel, And, with craft, cuffs, or steel, Have your rivals o'erreach'd, your antagonists quell'd 'em, Since you've all had your day, For a royster make way, At whose nod the world quakes like a crazy old beldam. CHORUS. Like a devil he'll fight, Like an angel indite; Nay, should Merlin arise, who profess'd the black art, he And his imps would look blue, And his cats would cry “Mew,” At this raw-head and bloody-bon'd chief, Bonaparte. II. In the month Vendemaire When, because that elsewhere To find worth like their own was a thing unexpected, Those desp'rate state-quacks, The Conventional Jacs, By bayonet suffrage themselves re-elected, On the banks of the Seine, With his rapier so keen, That eclips'd all the tools of chirurgical art, he Cur'd feverish Parisians Of heats and divisions; Oh! the skilful phlebotomist, fam'd Bonaparte! CHORUS. When he's bled ye enough, Or of lead quantum suff: Has prescrib'd—of pain, malady, suff'ring, and smart, he For aye sets you free; Then let each grave M. D. To the dogs throw his physic, cries leech Bonaparte. III. Some aver that he's sent, Heaven's Plenipotent, To organize Europe's political chaos: This we hope they'll make good, Or from Lucifer's stud He might else be mistaken, perhaps, for a stray horse: But be scruples resign'd, For he's promis'd mankind Of his mission supernal complete demonstration; And the word none can doubt Of this chieftain devout, Who the creed has adopted of every nation. CHORUS. Like a devil he'll fight, Like an angel indite; Nay, should Merlin revive, who profess'd the black art, he Would be somewhat surpris'd, When at once exorcis'd Of his family fiends by devout Bonaparte. IV. To the African coast He led a huge host Of doughty proficients in bloodshed and rapine, Who the windpipes by scores Of Italian Signores Had sever'd, and spoil'd all their quavering and scraping. Alexandria they reach'd, Where a sermon he preach'd, While Egyptians to hear him, like boys to a show, ran: “Sure his old friend in black “Has sent Mahomet back,” Cried each Iman and Cheik, “to republish the Koran.” CHORUS. Friend Rowland, I fear, You'd look mighty queer, Should this militant holder-forth once come athwart ye; Though you beat bulls of Basan In mouth diapason, You're not fit to cry Amen to Saint Bonaparte. V. He told the Egyptians All kinds and descriptions Of men in the eyes of their Maker were equal; “And truly,” quoth he, “That they're all so to me, “I'll warrant you, Sirs, you shall find in the sequel: “All's fish to my net, “I've the Popedom o'erset, “And those blockheads of Malta, destroy'd in a trice 'em; “And each Mameluck sot “Shall now go to pot; “Then devoutly let's join to anáthematize 'em. CHORUS. “For from morning to night “I can cant, curse, or fight; “And should Merlin arise, who profess'd the black art, he “And his cats would have star'd, “And his imps have been scar'd, “At the fulminant doctrines of Saint Bonaparte. VI. “That I toil thus and plod “For the honour of God, “All must own who don't wilfully misunderstand it; “Let me rob, lie, or curse, “Cut a throat or a purse, “To sanction each crime I've a heavenly mandate; “So for his soul's health, “When the secular wealth “Of the Pope I made free with, his pride I diminish'd; “And his claim to a mine “Of treasure divine “Ascertain'd, when his course apostolic was finish'd.” CHORUS. Ye miserly crew, Think what must ensue Should Death 'midst your money-bags strike with his dart ye; Then give each his strong box To this Corsican fox, And your passport to Heav'n shall be sign'd—Bonaparte— VII. “Stark blind he must be, “Who's unable to see, “That Destiny guides all my grand operations; “Bade me sail from Toulon, “Arm'd with sabre and gun, “To teach Alexandrian sufferers patience: “But since God me enjoin'd “To be clement and kind “To the people of Egypt, each Islamite brother, “Who may doubt my good will, “Cannot sure take it ill “To be butcher'd in this world and damn'd in the other.” CHORUS. Oh, this merciful wight! Sure his sermon polite, If Merlin had heard, who profess'd the black art, he His conjuring cap Would have sold for a scrap Of the rhetoric employ'd by humane Bonaparte. VIII. “As for you, Mr. Pacha, “Of me, Captain Flash, ah! “With what pleasure you'll hail the auspicious arrival! “And advantage resulting “From thence to the Sultan, “When Mameluck knaves to Old Nick I shall drive all: “You're in pitiful case, “For their rascally Beys, “Whom you ought to control, keep you under at Cairo; “But they shan't shew their noses; “I'm greater than Moses, “And I'll plague the dogs worse than that prophet did Pharaoh. CHORUS. “Then let's curse the vile race “Of these impious Beys; “And should Merlin arise, who profess'd the black art, he “And his quorum of wizards “Would growl in their gizzards, “To be outdone at cursing by Saint Bonaparte. IX. “Most orthodox Mufti, “(Don't think I talk stuff t'ye;) “Were it not that the Mam'luck's alive and looks still grim, “And that first my grand mission “Exacts his perdition, “To Medina I'd trot, a true Mussulman pilgrim: “Shall the Mameluck brag, “That your house, or your nag, “He'll make free with, and, if you've a pretty girl, take her? “Well your Reverence may stare! “This would make a saint swear; “Then seize him, ye black angels, Moukir and Quakir! CHORUS. “Oh! this Mameluck dog, “Who eats up your prog, “And, by hook or by crook, wins each pretty slave's heart, he “Shall find such curst vermin “To slay and extermin- “ate Mahomet sends in the nick Bonaparte. X. “For, excepting your own, “Other prophet there's none “Whose predictions I hold to be worthy of credence: “Of my feats he has wrote, “So no hole in his coat “I shall pick—all the rest yield to me the precedence: “In each heart, in each head, “Ev'ry crotchet I've read, “Ev'ry thought I develope, in knowledge surpass all; “In vain to my course “Is oppos'd human force; “Success crowns my efforts, and fortune's my vassal.” CHORUS. Cheiks, Imans, and Cadis, Oh, what a rare blade is This Corsican preacher, who sail'd from afar t'ye! One Prophet's your boast, Now you've two to your cost; Ask the Devil, and he'll make a third of the party. XI. “To the doctrine I broach, “Which is sound as a roach, “Bid Egyptians attend for their edification: “Each suffering race “Is advancing apace “To the æra of politic Regeneration: “Then like gold from the mint “Though you'll shine, take a hint, “The regeneration that's wrought by my soldiers, “Of Cheik, Dervise, or Copt, “When the head we have cropp'd, “Will ne'er make another head sprout from his shoulders. CHORUS. “Then our knav'ry abet; “And expel that curs'd set, “The English—('t is Mahomet's orders I bear t'ye;) “And of heav'n you'll be cits, “Where fresh, black-ey'd young tits “You shall snore by the side of:—believe Bonaparte.” XII. But when Nelson with Brueys And his ships play'd the deuce, Burnt, captur'd, or sunk, or blown out of the water; To regen'rate the navy Dispatch'd to Old Davy, Was a project that non-plus'd this regenerator. Then off in a pet For Acre he set; “Dgezzar Pacha's no more in three days you shall hear.” But methinks 't were as well, Ere the bear's skin you sell, To make sure, mighty warrior, of killing the bear: CHORUS. For, thanks to Sir Sidney, And tars of his kidney, Old Dghezzar's at Acre alive yet and hearty: While the French, foil'd and bit, To the bottomless pit He damns, with their vapouring chief, Bonaparte. XIII. Such an awkward rebuff As our hero so bluff Never yet had encounter'd, he took it in dudgeon: Thought this little great Don, Let ev'ry man John Stay and perish in Egypt, to France I'll be trudging; There to cut a grand swell, Of the thousands I'll tell, That were slain in hot blood by my myrmidons bold; But the notable trick That I play'd my own sick I'll suppress, and the thousands I murder'd in cold. CHORUS. Sure the wit in my sconce That of all my Savants Put together outweighs, for in proof of my art I Know the time when to run, And save number one; “Gallant leaders are scarce,” quoth discreet Bonaparte. XIV. This chief, stout and mighty, He ne'er said, “Good by t' ye;” But stole off; and as soon as he reach'd the French shore, he For his brave tergiversing, And murd'ring and cursing, Was deservedly deem'd to be “cover'd with glory;” While the Monsieurs all strove, By their shouting, to prove That their lungs were as sound as their brains they were addle: Then, like over-drove hacks, They all bow'd down their backs; And this new Alexander jump'd into the saddle. CHORUS. And since he's got there, Unhorse him who dare, Let his French Rosinante kick, curvet, and start, he Sticks spurs in his sides, And to Belzebub rides, Like a beggar on horseback, the grand Bonaparte. XV. While the French sneak and quail, And their despot regale With a hodge-podge of praise that would make a dog sick, The free British Press, Without fear or finesse, Speaks truth of the Consul in spite of Old Nick. He, fierce as a Tartar, To give us no quarter, His cut-throats commands, should they once come across us, And swears he'll leap over Our Channel to Dover: A pretty good stride for a Pocket Colossus! CHORUS. Fam'd Giant Woglóg, Though this Consular frog, In dimensions compar'd is no more than a wart t'ye, With a long bow he shoots, And, “your seven-league boots “To a hair they would fit me,” quoth grand Bonaparte! XVI. Let our plaudits enhance The wisdom of France, Since the blood of her princes and nobles she shed, And so sensibly chose, With a ring in her nose, At a Corsican harlequin's will to be led. What if French, Dons, and Dutch, He has got in his clutch, Controls the Italians, and tramples the Switzers, Yet he'd fain come and dine On our English sirloin, But he fears we shall curry his hide with the spit, sirs. CHORUS. Sure a chief so renown'd Was not born to be drown'd; But when he's safe landed, John Bull says, a cart he And a gibbet and cord Keeps in store to reward The transcendent deserts of the grand Bonaparte.</field>
+   </doc>
+</add>

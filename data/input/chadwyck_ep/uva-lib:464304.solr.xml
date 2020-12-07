@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Vautor, Thomas</field>
+      <field name="author_facet">Vautor, Thomas</field>
+      <field name="author_sort_facet">vautor thomas</field>
+      <field name="author_text">Vautor, Thomas</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.1825.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1619</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464304</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The first set: beeing songs and diuers Ayres and Natures, of Fiue and Sixe parts: Apt for Vyols and Voyces</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">The first set: beeing songs and diuers Ayres and Natures, of Fiue and Sixe parts: Apt for Vyols and Voyces</field>
+      <field name="title_facet">first set beeing songs and diuers ayres and natures of fiue and sixe parts apt for vyols and voyces</field>
+      <field name="title_sort_facet">first set beeing songs and diuers ayres and natures of fiue and sixe parts apt for vyols and voyces</field>
+      <field name="title_text">The first set: beeing songs and diuers Ayres and Natures, of Fiue and Sixe parts: Apt for Vyols and Voyces</field>
+      <field name="year_display">1619</field>
+      <field name="year_facet">1619</field>
+      <field name="year_multisort_i">1619</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464304&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464304&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Vautor, Thomas&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;vautor thomas&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The first set: beeing songs and diuers Ayres and Natures, of Fiue and Sixe parts: Apt for Vyols and Voyces&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;first set beeing songs and diuers ayres and natures, of fiue and sixe parts apt for vyols and voyces&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1619&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1619&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Vautor, Thomas&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The first set: beeing songs and diuers Ayres and Natures, of Fiue and Sixe parts: Apt for Vyols and Voyces&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed by Thomas Snodham, for Matthew Lownes and Iohn Browne&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1619&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp3722&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;[25] p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The first set: beeing songs and diuers Ayres and Natures, of Fiue and Sixe parts: Apt for Vyols and Voyces&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 17 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted; Latin verse omitted; music omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Songbooks.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">TO THE RIGHT HONO????? George, Marquesse of Buckingham, Viscount Villiers, Barron of Whaddon, Master of his Maiesties Horse, Knight of the most noble Order of the Garter, Gentleman of his Maiesties Bed-Chamber, and one of his most honourable Priuie Covncell.</field>
+      <field name="fulltext">In commendation of the Authour. [Thy pleasant notes with sweet concents ygilt] Thy pleasant notes with sweet concents ygilt, Thy Wit, thy Art, and faithfull zeale discouer: Great pittie 'twere such numbers should be spilt, Or Enuy should in darknesse Vertue smother: But thou hast chose, good Thom, a Patron fit, That will defend thee, and safe-conduct it. Calophysus. Songs Of five Voyces The following poems are scored for music in the source text. Where poems are not stanzaic, no attempt has been made to reconstruct the metrical lines. Variations for different voices have been ignored. Repetition marks have been ignored. I. Come forth sweet Nymph Come forth sweet Nimphe and play thee, Thy true loue here doth stay thee, Da-li-da makes me sing, Fa la la, Come lull thee in mine armes, Ile keep thee safe from harmes, Fa la la, II. Sing on Sister Sing on Sister and well met, Louely Mabell and faire Bett, Fa la la, Younglings must haue a beginning, Vertues they are hard of winning, Fa la la, But we will spare for no paynes, If we win contents or gaines, Fa la la, Which if wee attaine vnto, We shall doe that few can doe. Fa la, III. Ah sweete whose beauty Ah sweete whose beauty passeth all my telling, To thee my loue, all other are excelling, Fa la la, By thee I liue and haue mine onely pleasure, Thou art my life, and eke my whole hearts treasure, Fa la, Let not vnkindenesse then eclipse my gladnes, But let sweet smiles expell the clouds of sadnes, Fa la la la, For if my loue sweet looks and liking reapeth, O happy I my hart for ioy it leapeth. IIII. Mother I will haue a Husband Mother I will haue a Husband, And I will haue him out of hand, Mother I will sure haue one, In spight of her, that will haue none, Iohn a Dun should haue had me long ere this, He said I had good lips to kisse, For I haue heard tis trim, when folkes doe loue, By good Sir Iohn I sweare now I will proue, To the Towne therefore will I gad To get me a husband good or bad, V. Fair'st are the words Fair'st are the words that couer deep'st deceit, As next sweet honey lyes the poyson'd sting, The crookt, the crooked hooke, is hid, in pleasant'st baite, Which vnforeseene, too late repentance bring, Synons sweet speech, the out-side of vntruth, Thicke laid with Art, procur'd the Troyans ruth. VI. Cruell Madame Cruell Madame, my heart you haue bereft me, And to my selfe no part haue you left me, For yours all wholy loue hath fast infest me, Wherefore thus plaine I must for euer, My wofull heart both night and day bewaileth, My death drawes on, and my poore life it faileth, I sue for mercy where no teares auaileth, Wherefore thus plaine I must for euer, Yet if your eyes did see how you torment me, Alas, poore man it would the more content me, But now in absence, ah, ah doe I lament me, VII. Neuer did any Neuer did any more delight to see his enemy, Then I, more foole finding no remedy, It was because I lou'd her in my heart, Although alas she lou'd to make it smart, What shall I say then, but bid her adue, Because vnkinde, to him that is most true? VIII. Locke vp faire lids Locke vp faire lids the treasures of my heart, Preserue those beames, this ages onely light, To her sweet sence, sweet Sleepe, some ease impart, Her sence too weake to beare, the spirits might, And while (O sleepe) thou closest vp her sight, Where loue doth forge his fairest dart, O harbour all her parts in easefull plight, Let no strange dreame make her faire body start. IX. And yet O dreame And yet O dreame, if thou wilt not depart From this rare subiect, I of thy common right, But wilt thy selfe in such a seate delight, Then take my shape, and play a louers part, Kisse her from me, and say vnto her sprit, Till her eyes shine, I liue in darkest night, X. O Merry world O merry, world when euery louer with his mate, Might walke from meade to meade, And cheerefully relate, Sowre pleasures, and sweet griefes, following a wanton state, Those dayes knew no suspect, each one might freely prate, And daunce and sing, and play with his consociate, Then louers vsde like Turtles, to kisse full louingly, O honey dayes, and customes of antiquitie, But the world now is so full, of so fond Ielousie, That we count charitie, Wanton iniquitie, XI. Sweet theefe Sweet theefe, when me of heart you reft, You did a murther and a theft, And could you oft more cruell doe, Then rob a man, and kill him too? Wherefore of loue I craue this meede, To bring you where you did the deede, That there you may for him disgracing, Suffer in chaines, of my imbracing. XII. Sweet Suffolke Owle Sweet, Suffolke Owle, so trimly dight, With feathers, like a Lady bright, Thou sing'st alone, sitting, by night, Te whit, te whoo, Thy note that forth so freely roules, With shrill command the Mouse controules, And sings a dirge for dying soules, Te whit, te whoo, XIII. Thou art not faire Thou art not faire for all thy red and white, For all those rosie ornaments in, in thee, Thou art not sweet, though made of meere delight, Nor faire, nor sweet, lesse thou pittie me, I will not sooth thy fancies, thou shalt proue, That beautie is no beautie without loue. XIIII. Yet loue not me Yet loue not me, nor seeke not to allure, My thoughts with beautie were it more diuine, Thy smiles and kisses, I cannot endure, Ile not be wrapt vp in those armes of thine, Now shew it if thou be a woman right, Imbrace and kisse, and loue me in despight, An Elegie, on the death of his right worshipfull Master, Sir Thomas Beaumont Knight, of Stroughton in Leicestershire. Weepe, mine eyes salt teares, due honour giue, With sighs deplore my griefe and mourning state, Since he is dead by whom I still doe liue: Beaumont is dead, O cursed cruell fate, alas, Beaumont farewell, the earth doth sweetly sleepe, To hold thy Corps, though heau'n thy soule doth keepe. Here endeth the songs of fiue parts. Songs of Sixe Voyces XVII. Blush, my rude present Blush, my rude present, blushing yet say this, That he that sent thee, ment a better thing, Best meaners oft, of their best purpose misse, Best runners, sometime faile to hit the Ring, Tell my sweet Mistresse, saint of woman-kinde, What wants in shew, he doth supplie in minde, XVIII. Dainty sweet bird Dainty sweet bird, who art incaged there, Alas how like thine and my fortunes are? Both prisners (both) sing, and both singing thus, Striue to please her, who hath imprisned vs, Onely in this we differ, thou and I, Thou liu'st, singing, but I singing dye. XIX. Vnkinde Vnkinde, is this the meede of louers paine? Doth loyall faith no better guerdon gaine? Adue, thy lookes are coy, thy fancie strange, O stay, my heart relents, and will not change, But rather dye, then from my Saint once swarue, My life she gaue, my loue she doth deserue, XX. Melpomene Melpomene, bewaile thy sisters losse, In tragicke dumps their dolours deepe display, Curse cruell death, that so their blisse did crosse, And Musicks peerelesse patron tooke away, Though they doe sleepe, Prince Henry's dead, Farewell, the Muses king. XXI. Whil'st fatall Sisters Whil'st fatall Sisters held the bloudy knife, A peerelesse Prince on earth did remaine, Too soone sad death ensued his blissefull life, And now he with the King of kings doth raigne, No earthly Musicke doth he more desire, Such ioy, he hath to heare the heauenly quire, XXII. Shepheards: And Nimphs Shepheards: And Nimphs, that trooping, Were woont to fetch home May with hey and whooping, Why fit you dead and drooping? Vp, vp for shame, and leaue this heauy mourning, For Orian is not dead, but liues renowned, Beyond all humane honour, base earth scorning, Orian now a Saint in heau'n, Orian now in heau'n is crowned, Both bonfires and bellringers, She left vs, and good singers, Sing then yee Shepheards and Nimphs of Diana, Farewell faire Oriana, FINIS.</field>
+   </doc>
+</add>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Aleksei Remizov</field>
+      <field name="author_facet">Aleksei Remizov</field>
+      <field name="author_sort_facet">aleksei remizov</field>
+      <field name="author_text">Aleksei Remizov</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1920's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/RemWhit.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">January-June, 1921</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476345</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">A White Heart</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">A White Heart</field>
+      <field name="title_facet">white heart</field>
+      <field name="title_sort_facet">white heart</field>
+      <field name="title_text">A White Heart</field>
+      <field name="year_display">January-June, 1921</field>
+      <field name="year_facet">1921-01</field>
+      <field name="year_multisort_i">1921</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476345&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476345&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Aleksei Remizov&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;aleksei remizov&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A White Heart&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;white heart&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;January-June, 1921&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1921-01&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Aleksei Remizov&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="Translator"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A White Heart&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1921&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;The Dial Publishing Company, Inc.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;January-June, 1921&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="callNo"&gt;Print copy consulted: UVa Library AP2.D48&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;pp 65-68&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A White Heart&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1997&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1997 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 12 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">A WHITE HEART BY ALEKSEI REMIZOV Translated from the Russian by John Cournos I WAS waiting for a tram-car. There was no way of getting on; people were hanging on, jostling one another. Well, simply like wild beasts. Ten tram-cars I let go past. I saw an old woman standing there, like myself, waiting. An ancient grandmother. To look at her face you would have thought that it had always been like that, that she had always been a grandmother; her wrinkles were so minute; she was toothless, and goodness was in her face. I looked more intently; she was standing patiently; did her tired eyes see anything? Yes, they saw. "Don't leave me to myself," said to me the grandmother. "Let us go on the tram together. I simply can't manage to crowd in." "All right," said I. "We'll go together. Only we'll have to wait here for some time; I'm no good for pushing, or hanging on." "God preserve us from that!" the grandmother interrupted me. Yes, the grandmother saw that she was not alone. A young woman was standing near us, and it was quite clear that she was with us; but the young woman could hold out no longer, and when the eleventh tram came up she suddenly changed—what had become of her gentleness! She joined the tram crowd and hung on with the rest. The matter had become desperate for us. Nothing seemed left for us to do but to go on foot. "Let us go, grandmother; it's all the same." "I'll never get so far." It was true. The old woman could have never got there. We were standing on a corner of the Ninth Line, and the grandmother's destination was the New Village. I conquered my despair, and it was evident that the grandmother had conquered hers long ago. At last, with God's help, we got a tram and pushed in. The tram was full; it was useless to even think of a seat. They were all soldiers. As for me, I'm not good at hanging on; still, I managed to stand somehow. It was different with the old woman; she bent quite in two, and her legs refused to obey her—she was like a blade of grass at every jolt. "Won't some one give grandmother a seat!" said I to the passengers. That was not the first time I had spoken like that; so I did not expect any mercy. But this time it seemed to work; two sailors rose from their seats. "There are good people in this world—please sit down." I seated the grandmother. It is good for a man to be like these sailors. I looked at them and, perhaps, even standing, they felt at that instant as happy as the grandmother. As for her, having rested a while, she began to talk. Though she did not speak loudly, every word of hers was audible; there was something in her voice which cheered even the sailors, who had given up their place to her; her harshest words came from a white heart. The old grandmother told about herself, of the place she had come from, and of her hard and lonely life. And in the course of her story she recalled the present, as it were, and, raising her eyes to me, repeated: "Don't leave me to myself. We'll get off together." "Together, together, grandmother!" repeated I, as well as the two sailors, rocking from the jolts. Without words, they seemed to say as they rocked—"together, together!" It was hard for the grandmother in the white world; that was the word she used—"hard." The grandmother was not a native here; her own country was at the other end of the world; some-where near Kovno. Many times she had been driven out; they always told her that the Germans were coming. Nothing was certain for some time; she would gather up her goods and get ready to go; then one day would pass, then another, and everything would be as it was before; and she would remain. "In the end they made it hard for me, and I had to go." "Who made it hard for you—the Germans?" "No!" said the grandmother, as she remembered something very bitter, but she added, in a voice without bitterness: "My own children." The soldier passengers exchanged glances. And the voice of the old woman became even more audible. For some reason the whole car grew quiet, and no one went out. Did they all go the same way—grandmother's way? "I had a little house. I thought I'd die there. I was quite alone in the white world. I had had a daughter of about sixteen; she died. Another daughter married, lived a year, and died. I had three sons, who worked in a factory here in St Petersburg. When my old man died, I held up the funeral for three days, thinking they would come. But they didn't come. I suppose they never got my telegram. Then, when the war began, all my sons were taken as soldiers. And no matter how many times I wrote and inquired, they could tell me nothing about them. Just like a stone thrown into the water." "Perhaps they are in prison?" "No; I think they are gone." Again the grandmother remembered something bitter; again spoke in her good voice: "And when the children came, they set fire to my little house, and left only the ashes. I wept and I said to them: 'Oh, don't set it on fire—do let it alone!' 'So you want to live with the Germans! You're a German woman! We'll throw you into the fire!' I thought to myself: Let them throw me in; as it is, mine is a hard life, and all of God's Saints have been burnt. I stand there and think to myself, and they are arguing. One says: 'Let's throw her into the fire!' and the other says: 'No, let her alone!' Then, when the house burnt down, I went away. It took me three months, going on foot." The grandmother became lost in thought; was she thinking of her house—there at the end of the world, where charred bits of wood alone remained under the snow? Or was she thinking of her sons, who had worked in the factory here, and were now out there —there under the snow? And I thought, as I lookd [sic] at the bowed grandmother, who had grown silent (the whole car was now looking at her): "Grandmother, you with your heart, which has suffered bitter loss; with your white heart you have accepted your bitter fate—otherwise how could you speak of your spoilers as your children? —and now you are alone in the white world with your white heart, and your life is hard; you are living your last days and who is there to comfort you? Who will comfort us? Grandmother, it is hard for us too; I speak for all, and to all, all, all. Who feels at ease, who can feel happy at the sight of the white ruins of your house, at the sight of the white grave of your lost world? What wild beast, or what leering, shaggy soul; or what soul, crushed, like a rotten, worm-eaten mushroom, or heart resembling a begnawed dry bone? No; here we are, all of us; and if there is any one who had not understood with his mind, then he has felt it with his heart—every one of us—your oppressive burden . . . the whole cross is ours to bear!" "Don't be uneasy," said the grandmother, "a woman in Moscow had a dream. She dreamt of Virgin Mary, who said to her: 'The Russian kingdom is in my hand; go and seek such an ikon as will show me as I am now.' That same woman went all over Moscow, through all the churches and into all the houses—and she couldn't find it. At last she went to the village of Kolomensk, near Moscow, and went into a church that had been built in the times of Ivan the Terrible. It was full of ikons—they were lying there below, one on top the other, like slabs of the dead. She picked up one after the other, one after the other and suddenly exclaimed: 'That's the very one!' and now this ikon is being taken all over Moscow, and prayers are being offered it for salvation. And I saw it. At the top a kind of rainbow and Sabaoth, then clouds, and then Virgin Mary in porphyry and crown—in one hand the sceptre, in the other the earth." It was now time for the grandmother to leave the tram. We left together; it was easy for us to leave, for every one made way for us. I led the old grandmother to a stopping-place, saw her into another tram, and said good-bye. "Good-bye, grandmother!" "Christ be with you!" And I went my way, through the St Petersburg darkness, and in the darkness bore along with me in a white heart—a tranquil light.</field>
+   </doc>
+</add>

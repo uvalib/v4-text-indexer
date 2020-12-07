@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Mallet, David, 1705-1765</field>
+      <field name="author_facet">Mallet, David, 1705-1765</field>
+      <field name="author_sort_facet">mallet david 1705 1765</field>
+      <field name="author_text">Mallet, David, 1705-1765</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1720's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.0556.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">[1725]</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:465011</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">A Poem, In Imitation of Donaides ; By David Malloch [i.e. David Mallet</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 18th century</field>
+      <field name="subject_text">English poetry -- 18th century</field>
+      <field name="title_display">A Poem, In Imitation of Donaides ; By David Malloch [i.e. David Mallet</field>
+      <field name="title_facet">poem in imitation of donaides</field>
+      <field name="title_sort_facet">poem in imitation of donaides</field>
+      <field name="title_text">A Poem, In Imitation of Donaides ; By David Malloch [i.e. David Mallet</field>
+      <field name="year_display">[1725]</field>
+      <field name="year_facet">1725</field>
+      <field name="year_multisort_i">1725</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:465011&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:465011&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Mallet, David, 1705?-1765&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;mallet david 1705 1765&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A Poem, In Imitation of Donaides ; By David Malloch [i.e. David Mallet&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;poem, in imitation of donaides&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;[1725]&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1725&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Mallet, David&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1705&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1765&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Poem, In Imitation of Donaides&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;By David Malloch [i.e. David Mallet]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;[Edinburgh]&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;[1725]&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp2374&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;3 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Poem, In Imitation of Donaides&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;By David Malloch [i.e. David Mallet]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 10 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only verse by Sir Richard Maitland included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">A POEM, In Imitation of DONAIDES, The attribution of this poem is questionable. By David Malloch, A. M. In ancient Times, e're Wealth was Learning's Foe, And dar'd despise the Worth, he would not know: E're Ignorance look'd lofty in a Peer, And smil'd at Wit, cast back in Fortune's Rear. The pious Bp. Elphinston. Prelate, truly good and great, Courted the Muses to this happy Seat. Friend to instructive Arts, he knew to prize; His Bounty bad the mighty Pile arise. Splendor adorn'd what knowing Skill design'd, And the fair Structure spoke his noble Mind. The Fabrick finish'd, to secure the Fame, He stil'd it Royal, from the K. James IV. Sovereign's Name. Here, by successive Worthies, well was taught All that enlightens, and exalts the Thought. With Labour planted, and improv'd with Care, Long, every cherish'd Science flourish'd fair. Thus, without Cloud serene, the Seasons roll'd; Thus, Learning saw renew'd the Age of Gold. But now, the Years revolving backward ran, And a dark Series of worse Time began. Vile Avarice in Bp. William Gordon. Gordon's Time arose; Arts unesteem'd, were govern'd by their Foes. When Sacred Structures fell by popular Rage, Old Gothick Piles, not modish for the Age. Then fell to low. Contempt th' instructing Trade, And every Muse's Portion was unpaid. Now, a lone-waste, the Muses Seat appears, By social Foes defac'd, and length of Years. O'er her declining Roofs, with Moss o'erspread, See! TIME, slow-creeping, walks with hostile Tread, Silent, and sure, with unremitting Toil, He shakes each Wall, and moulders every Pile. Ruin hangs hovering o'er the destin'd Place, And solitary Silence comes apace. Learning beheld, with all a Father's Fear, And mourn'd the total Desolation near! He saw the Muses stretch the Wing to fly, And spoke his Silent Sorrow in a Sigh! From Heaven in that sad Hour commission'd came Fair CHARITY, in Heaven the foremost Name. Compassion flew before her, sweetly bright, And her meek Eyes effulg'd unclouded Light. “Hear, and rejoyce, the smiling Power begun, “Full of my Deity, thy James Fraser Dr. of Laws. best lov'd Son: “Thy injur'd Rights, regardful, shall assert, “And nobly take his suffering Parents Part. “He thy first Favourite, and thy dearest Friend, “Shall bid thy Walls arise, thy Roofs ascend. “I see all charm'd, I see the future Frame “Arising, emulate its ancient Name. “I see thy long lost Pomp shine out again, “And every Muse, returning, claim her Reign. “Nor ends the Bounty here by him bestow'd, “Learning's Rich Stores shall thy Musæum load: “What e'er deep hid Philosophy has found, “Or the Muse sung, with living Laurel crown'd; “Or History descri'd, far-looking Sage! “In the dark doubtfulness of distant Age: “These, thy well chosen Treasures, there combin'd, “Unwasting shall enrich the searchful Mind. “But teach thy Sons the gentle Arts of Peace. “Let Faction lose his Rule, and Discord cease; “Rivals alone in Love, and doing well, “Be their fair Emulation to excell. “Then shall encourag'd Arts, succesful thrieve; “And all the Glory of the Name revive. FINIS.</field>
+   </doc>
+</add>

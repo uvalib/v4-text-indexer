@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Abraham Lincoln</field>
+      <field name="author_facet">Abraham Lincoln</field>
+      <field name="author_sort_facet">abraham lincoln</field>
+      <field name="author_text">Abraham Lincoln</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">legacy/uvaBook/tei/LinGett.xml</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Online Texts</field>
+      <field name="digital_collection_text">Online Texts</field>
+      <field name="editor_display">Hamilton, Joseph Grgoire de Roulhac</field>
+      <field name="editor_display">Joseph Grgoire de Roulhac Hamilton</field>
+      <field name="editor_text">Hamilton, Joseph Grgoire de Roulhac</field>
+      <field name="editor_text">Joseph Grgoire de Roulhac Hamilton</field>
+      <field name="format_facet">Online</field>
+      <field name="full_title_text">The Gettysburg Address</field>
+      <field name="id">uva-lib:477132</field>
+      <field name="langauge_display">English</field>
+      <field name="langauge_facet">English</field>
+      <field name="langauge_text">English</field>
+      <field name="location_facet">Internet materials</field>
+      <field name="main_title_display">The Gettysburg Address</field>
+      <field name="note_display">Source copy consulted: University of Virginia Library E457.92 1922</field>
+      <field name="note_text">Source copy consulted: University of Virginia Library E457.92 1922</field>
+      <field name="repository_address_display">http://fedora-prod02.lib.virginia.edu:8080/fedora</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">UVA Library Digital Repository</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="heading_text">The Gettysburg Address [Delivered at the dedication of the National Cemetary, November 19, 1863 ]</field>
+      <field name="fulltext">Fourscore and seven years ago our fathers brought forth on this continent a new nation, conceived in liberty and dedicated to the proposition that all men are created equal.</field>
+      <field name="fulltext">Now we are engaged in a great civil war, testing whether that nation or any nation so conceived and so dedicated can long endure. We are met on a great battle field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.</field>
+      <field name="fulltext">But, in a larger sense, we can not dedicate — we can not consecrate — we can not hallow — this ground. The brave men living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember, what we say here, but it will never forget what they did here. It is for this the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us — that from thse honored dead we take increased devotion to that cause for which they gave the last full measure of devotion — that we here highly resolve that these dead shall not have died in vain — that this nation, under God, shall have a new birth of freedom — and that government of the people, by the people, for the people, shall not perish from the earth.</field>
+      <field name="title_display">The Gettysburg Address</field>
+      <field name="title_facet">The Gettysburg Address</field>
+      <field name="title_sort_facet">gettysburg address</field>
+      <field name="title_text" boost="1.0">The Gettysburg Address</field>
+      <field name="year_display">1922</field>
+      <field name="year_multisort_i">1922</field>
+   </doc>
+</add>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Alsop, George</field>
+      <field name="author_facet">Alsop, George</field>
+      <field name="author_sort_facet">alsop george</field>
+      <field name="author_text">Alsop, George</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ap/uvaGenText/tei/chap_AM0380.xml</field>
+      <field name="date_indexed_facet">201909240350</field>
+      <field name="date_text">1880</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey American Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey American Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:439827</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">A Character of the Province of Maryland</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">American poetry -- 19th century</field>
+      <field name="subject_text">American poetry -- 19th century</field>
+      <field name="title_display">A Character of the Province of Maryland</field>
+      <field name="title_facet">character of the province of maryland</field>
+      <field name="title_sort_facet">character of the province of maryland</field>
+      <field name="title_text">A Character of the Province of Maryland</field>
+      <field name="year_display">1880</field>
+      <field name="year_facet">1880</field>
+      <field name="year_multisort_i">1880</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:439827&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:439827&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Alsop, George&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;alsop george&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A Character of the Province of Maryland&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;character of the province of maryland&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1880&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1880&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Alsop, George&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Character of the Province of Maryland&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Baltimore&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;The Maryland Historical Society&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1880&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3865437-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;cham0380&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;American poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Character of the Province of Maryland&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Alexandria, VA&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Inc.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 28 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Verse extracted from prose text.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-AmPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">To my Friend Mr. George Alsop, on his Character of MARY-LAND. Who such odd nookes of Earths great mass describe, Prove their descent from old Columbus tribe: Some Boding augur did his Name devise, Thy Genius too cast in th' same mould and size; His Name predicted he would be a Rover, And hidden places of this Orb discover; He made relation of that World in gross, Thou the particulars retail'st to us: By this first Peny of thy fancy we Discover what thy greater Coines will be; This Embryo thus well polisht doth presage, The manly Atchievements of its future age. Auspicious winds blow gently on this spark, Untill its flames discover what's yet dark; Mean while this short Abridgement we embrace, Expecting that thy busy soul will trace Some Mines at last which may enrich the World, And all that poverty may be in oblivion hurl'd. Zoilus is dumb, for thou the mark hast hit, By interlacing History with Wit: Thou hast described its superficial Treasure, Anatomiz'd its bowels at thy leasure; That MARY-LAND to thee may duty owe, Who to the World dost all her Glory shew; Then thou shalt make the Prophesie fall true, Who fill'st the World (like th' Sea) with knowledge new. William Bogherst. To my Friend Mr. George Alsop, on his Character of MARY-LAND. This plain, yet pithy and concise Description Of Mary-Lands plentious and sedate condition, With other things herein by you set forth, To shew its Rareness, and declare its Worth; Compos'd in such a time, when most men were Smitten with Sickness, or surpriz'd with Fear, Argues a Genius good, and Courage stout, In bringing this Design so well about: Such generous Freedom waited on thy brain, The Work was done in midst of greatest pain; And matters flow'd so swiftly from thy source, Nature design'd thee (sure) for such Discourse. Go on then with thy Work so well begun, Let it come forth, and boldly see the Sun; Then shall't be known to all, that from thy Youth Thou heldst it Noble to maintain the Truth, 'Gainst all the Rabble-rout, that yelping stand, To cast aspersions on thy MARY-LAND: But this thy Work shall vindicate its Fame, And as a Trophy memorize thy Name, So if without a Tomb thou buried be, This Book's a lasting Monument for thee. H. W., Master of Arts. From my Study, Jan. 10, 1665. THE AUTHOR TO HIS BOOK. When first Apollo got my brain with Childe, He made large promise never to beguile, But like an honest Father, he would keep Whatever Issue from my Brain did creep: With that I gave consent, and up he threw Me on a Bench, and strangely he did do; Then every week he daily came to see How his new Physick still did work with me. And when he did perceive he'd don the feat, Like an unworthy man he made retreat, Left me in desolation, and where none Compassionated when they heard me groan. What could he judge the Parish then would think, To see me fair, his Brat as black as Ink? If they had eyes, they'd swear I were no Nun, But got with Child by some black Africk Son, And so condemn me for my Fornication, To beat them Hemp to stifle half the Nation. Well, since 'tis so, I'le alter this base Fate, And lay his Bastard at some Noble's Gate; Withdraw my self from Beadles, and from such, Who would give twelve pence I were in their clutch: Then, who can tell? this Child which I do hide, May be in time a Small-beer Col'nel Pride But while I talk, my business it is dumb, I must lay double-clothes unto thy Bum, Then lap thee warm, and to the world commit The Bastard Off-spring of a New-born wit. Farewel, poor Brat, thou in a monstrous World, In swadling bands, thus up and down art hurl'd; There to receive what Destiny doth contrive, Either to perish, or be sav'd alive. Good Fate protect thee from a Criticks power, For If he comes, thou'rt gone in half an hour, Stiff'd and blasted, 'tis their usual way, To make that Night, which is as bright as Day. For if they once but wring, and skrew their mouth, Cock up their Hats, and set the point Du-South, Armes all a kimbo, and with belly strut, As if they had Parnassus in their gut: These are the Symtomes of the murthering fall Of my poor Infant, and his burial. Say he should miss thee, and some ign'rant Asse Should find thee out, as he along doth pass, It were all one, he'd look into thy Tayle, To see if thou wert Feminine or Male; When he'd half starv'd thee, for to satisfie His peeping Ign'rance, he'd then let thee lie; And vow by's wit he ne're could understand, The Heathen dresses of another Land: Well, 'tis no matter, wherever such as he Knows one grain, more than his simplicity. Now, how the pulses of my senses beat, To think the rigid Fortune thou wilt meet; Asses and captious Fools, not six in ten Of thy Spectators will be real men, To Umpire up the badness of the cause, And screen my weakness from the rav'nous Laws, Of those that will undoubted sit to see How they might blast this new-born Infancy: If they should burn him, they'd conclude hereafter, 'Twere too good death for him to dye a Martyr; And if they let him live, they think it will Be but a means for to encourage ill, And bring in time some strange Antipod'ans, A thousand Leagues beyond Philippians, To storm our Wits; therefore he must not rest, But shall be hang'd, for all he has been prest: Thus they conclude.—My Genius comforts give, In Resurrection he will surely live. ['Tis said the Gods lower that Chain above] 'Tis said the Gods lower down that Chain above, That tyes both Prince and Subject up in Love; And if this Fiction of the Gods be true, Few, Mary-Land, in this can boast but you: Live ever blest, and let those Clouds that do Eclipse most States, be always Lights to you; And dwelling so, you may for ever be The only Emblem of Tranquility. [Be just (Domestick Monarchs) unto them] Be just (Domestick Monarchs) unto them That dwell as Household Subjects to each Realm; Let not your Power make you be too severe, Where there's small faults reign in your sharp Career: So that the Worlds base yelping Crew May'nt bark what I have wrote is writ untrue, So use your Servants, if there come no more, They may serve Eight, instead of serving Four. [Trafique is Earth's great Atlas, that supports] Trafique is Earth's great Atlas, that supports The pay of Armies, and the height of Courts, And makes Mechanicks live, that else would die Meer starving Martyrs to their penury: None but the Merchant of this thing can boast, He, like the Bee, comes loaden from each Coast, And to all Kingdoms, as within a Hive, Stows up those Riches that doth make them thrive: Be thrifty, Mary-Land, keep what thou hast in store, And each years Trafique to thy self get more. [Heavens bright Lamp, shine forth some of thy Light] Heavens bright Lamp, shine forth some of thy Light, But just so long to paint this dismal Night; Then draw thy beams, and hide thy glorious face, From the dark sable actions of this place; Leaving these lustful Sodomites groping still, To satisfie each dark unsatiate will, Untill at length the crimes that they commit, May sink them down to Hells Infernal pit. Base and degenerate Earth, how dost thou lye, That all that pass hiss, at thy Treachery? Thou which couldst boast once of thy King and Crown, By base Mechanicks now art tumbled down, Brewers and Coblers, that have scarce an Eye, Walk hand in hand in thy Supremacy; And all those Courts where Majesty did Throne, Are now the Seats for Oliver and Ioan: Persons of Honour, which did before inherit Their glorious Titles from deserved merit, Are all grown silent, and with wonder gaze, To view such Slaves drest in their Courtly rayes; To see a Drayman that knows nought but Yeast, Set in a Throne like Babylons red Beast, While heaps of Parasites do idolize This red-nos'd Bell, with fawning Sacrifice. What can we say? our King they've Murthered, And those well born, are basely buried: Nobles are slain, and Royalists in each street Are scorn'd, and kick'd by most Men that they meet: Religion's banisht, and Heresie survives, And none but Conventicks in this Age thrives. Oh could those Romans from their Ashes rise, That liv'd in Nero's time: Oh how their cries Would our perfidious Island shake, nay rend, With clamorous screaks unto the Heaven send: Oh how they'd blush to see our Crimson crimes, And know the Subjects Authors of these times: When as the Peasant he shall take his King, And without cause shall fall a murthering him; And when that's done, with Pride assume the Chair, And Nimrod-like, himself to heaven rear; Command the People, make the Land Obey His baser will, and swear to what he'l say. Sure, sure our God has not these evils sent To please himself, but for mans punishment: And when he shall from our dark sable Skies Withdraw these Clouds, and let our Sun arise, Our dayes will surely then in Glory shine, Both in our Temporal, and our State divine: May this come quickly, though I may never see This glorious day, yet I would sympathie, And feel a joy run through each vain of blood, Though Vassalled on t'other side the Floud. Heavens protect his Sacred Majesty, From secret Plots, &amp; treacherous Villany. And that those Slaves that now predominate, Hang'd and destroy'd may be their best of Fate; And though Great Charles be distant from his own, Heaven I hope will seat him on his Throne. [Poor vaunting Earth, gloss'd with uncertain Pride] Poor vaunting Earth, gloss'd with uncertain Pride, That liv'd in Pomp, yet worse than others dy'd: Who shall blow forth a Trumpet to thy praise? Or call thy sable Actions shining Rayes? Such Lights as those blaze forth the vertued dead, And make them live, though they are buried. Thou'st gone, and to thy memory let be said, There lies that Oliver which of old betray'd His King and Master, and after did assume, With swelling Pride, to govern in his room. Here I'le rest satisfied, Scriptures expound to me, Tophet was made for such Supremacy. [E' re I forget the Zenith of your Love] To my Cosen Mris. Ellinor Evins. E' re I forget the Zenith of your Love, L et me be banisht from the Thrones above; L ight let me never see, when I grow rude, I ntomb your Love in base Ingratitude: N or may I prosper, but the state O f gaping Tantalus be my fate; R ather then I should thus preposterous grow, E arth would condemn me to her vaults below. V ertuous and Noble, could my Genius raise I mmortal Anthems to your Vestal praise, N one should be more laborious than I, S aint-like to Canonize you to the Sky. [Haile from the dead, or from Eternity] Haile from the dead, or from Eternity, Thou Velvit Relique of Antiquity; Thou which appear'st here in thy purple hew, Tell's how the dead within their Tombs do doe; How those Ghosts fare within each Marble Cell, Where amongst them for Ages thou didst dwell. What Brain didst cover there? tell us that we Upon our knees vayle Hats to honour thee: And if no honour's due, tell us whose pate Thou basely coveredst, and we'l joyntly hate: Let's know his name, that we may shew neglect; If otherwise, we'l kiss thee with respect. Say, didst thou cover Noll's old brazen head, Which on the top of Westminster high Lead Stands on a Pole, erected to the sky, As a grand Trophy to his memory. From his perfidious skull didst thou fall down, In a dis-dain to honour such a crown With three-pile Velvet? tell me, hadst thou thy fall From the high top of that Cathedral? None of the Heroes of the Roman stem, Wore ever such a fashion'd Diadem, Didst thou speak Turkish in thy unknown dress, Thou'dst cover Great Mogull, and no man less; But in thy make methinks thou'rt too too scant, To be so great a Monarch's Turberant. The Jews by Moses swear, they never knew E're such a Cap drest up in Hebrew: Nor the strict Order of the Romish See, Wears any Cap that looks so base as thee; His Holiness hates thy Lowness, and instead, Wears Peters spired Steeple on his head: The Cardinals descent is much more flat, For want of name, baptized is A Hat; Through each strict Order has my fancy ran, Both Ambrose, Austin, and the Franciscan, Where I beheld rich Images of the dead, Yet scarce had one a Cap upon his head: Episcopacy wears Caps, but not like thee, Though several shap'd, with much diversity: 'Twere best I think I presently should gang To Edenburghs strict Presbyterian; But Caps they've none, their ears being made so large, Serves them to turn it like a Garnesey Barge; Those keep their skulls warm against North-west gusts, When they in Pulpit do poor Calvin curse. Thou art not Fortunatus, for I daily see, That which I wish is farthest off from me: Thy low-built state none ever did advance, To christen thee the Cap of Maintenance; Then till I know from whence thou didst derive, Thou shalt be call'd, the Cap of Fugitive.</field>
+   </doc>
+</add>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1990's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2006_01/uvaGenText/tei/bov_1990-03-09.xml</field>
+      <field name="date_indexed_facet">201909240342</field>
+      <field name="date_text">March 9, 1990</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:183748</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. March 9, 1990</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  March 9, 1990</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  March 9, 1990</field>
+      <field name="year_display">March 9, 1990</field>
+      <field name="year_facet">1990-03-09</field>
+      <field name="year_multisort_i">1990</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:183748&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:183748&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. March 9, 1990&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;March 9, 1990&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1990-03-09&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;March 9, 1990&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Public minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;1 v.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information. Access to minutes containing salary information will be granted only under the procedures of the Virginia Freedom of Information Act (Code of Virginia-2.1-340 ff.) or if permission is granted by the Secretary of the Board. Researchers interested in obtaining access to these records should direct a request in writing to the Office of the Legal Adviser, Madison Hall, University of Virginia. These public minutes have had salary information deleted and bear no restrictions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1990-03-09&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2005&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2005 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 14 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE RECTOR AND VISITORS OF THE UNIVERSITY OF VIRGINIA March 9, 1990 The Board of Visitors of the University of Virginia met at 2:00 p.m., in the East Oval Room of the Rotunda on Friday, March 9, 1990, with the following members present: Edward E. Elson, Rector Pro Tem, Robert G. Butcher, Jr., N. Thomas Connally, Jr., Hovey S. Dabney, Waller H. Horsley, J. Thomas Hulvey, Evans B. Jessee, Mrs. Patricia M. Kluge, Arnold H. Leon, Leigh B. Middleditch, Jr., Mrs. Elizabeth D. Morie, Freddie W. Nicholas, Sr., S. Buford Scott, Jesse B. Wilson, III, Thomas E. Worrell, Jr., and Wendelin L. White. Absent: W. L. Lyons Brown, Jr.</field>
+      <field name="fulltext">INTRODUCTION OF NEW BOARD MEMBERS Mr. Edward E. Elson, Rector Pro Tem, introduced the newly appointed members of the Board of Visitors: Mr. Hovey S. Dabney, Mr. Dr. J. Thomas Hulvey, Mr. Evans B. Jessee, Mrs. Patricia M. Kluge, Mr. Arnold H. Leon, Mr. Leigh B. Middleditch, Jr., and Mr. Freddie W. Nicholas, Sr.</field>
+      <field name="fulltext">WAIVER OF THE FIVE DAY NOTICE REQUIREMENT On a motion made by Mr. Waller H. Horsley, the Board unanimously adopted the following resolution: WHEREAS, The Manual of the Board of Visitors requires that the Secretary of the Board provide members of the Board notice of a special meeting "at least five days in advance of the meeting" (Section 2.34); and WHEREAS, the decision to call today's special meeting of the Board of Visitors was not made until Friday, March 9, and all members of the Board were then so notified; RESOLVED that the five days advance notice requirement be and hereby is waived.</field>
+      <field name="fulltext">REPORT OF THE SPECIAL COMMITTEE ON THE NOMINATION OF A PRESIDENT The Rector then presented the Report of the Special Committee on the Nomination of a President: Report of the Special Committee on the Nomination of a President by Edward E. Elson, Rector pro tem University of Virginia On October 3, 1989, the Board of Visitors accepted the resignation of the University of Virginia's sixth president, Robert M. O'Neil, who has served with honor and commitment since his inauguration in the fall of 1985. Mr. O'Neil asked that his resignation be effective July 1, 1990, but indicated his willingness to remain in office for several more months if the additional time would assist the Committee in finding the best possible successor. Bob O'Neil has brought to the University a special sense of social responsibility and has been untiring in his efforts to make this institution more accessible at every level. He has improved the educational experience for our students, and his administration has set into motion steps to make our nationally recognized undergraduate programs even stronger. He has been an articulate spokesman for higher education, and, as such, has projected the University of Virginia to its highest level of national recognition. As prescribed by the Manual of the Board of Visitors, then Rector Joshua P. Darden Jr. appointed from the membership of the Board a Special Committee on the Nomination of a President. In addition to the eight Board members of the Committee, Mr. Darden appointed two members of the Faculty Senate and the student member of the Board of Visitors to serve as nonvoting members of the Committee. This unprecedented expansion of the Committee was intended to assure that these major constituencies of the University community would have a direct voice in the selection of the next president. On Thursday, I added to the committee all remaining members of the Board, including the new members, to involve them as fully as possible in our deliberations. To broaden the process even further, the Committee convened a public meeting in the Rotunda on November 14, 1989, to listen to anyone who wished to suggest criteria by which candidates should be evaluated or characteristics they considered important in a University president. Nearly 20 speakers, representing the Charlottesville-Albemarle community, student and faculty organizations, and individual points of views, took the opportunity to address the Committee. Later in the fall, committees of both the Faculty Senate and the Student Council submitted thoughtful written reports expressing their hopes for the University and the qualities of scholarship, leadership, and character they felt a president must have to attain those goals. At the same time, faculty, students, alumni, and others were asked to submit nominations to the Committee. Their contributions have been invaluable to us throughout these last five months. Approximately 150 nominations were received and reviewed in detail by members of this Committee. The University is greatly indebted to these members for the hours spent in reading documents, attending meetings and interviewing candidates, and for the seriousness with which they have approached these responsibilities. As the result of their work, the Committee is convinced that we have found in John Thomas Casteen III a man superbly qualified to become the University of Virginia's seventh president. Many of you know him by virtue of his long-time ties with this University. He holds three degrees from the University of Virginia: a B.A. with high honors in 1965, a master's in English in 1966 and a Ph.D. in English in 1970. For seven years, from 1975 to 1982, he led the University's efforts to increase the quality and diversity of its student body as Dean of Admissions and a member of the English faculty. Later, Virginia Governor Charles Robb appointed Mr. Casteen as his Secretary of Education, giving him valuable experiences with issues of state governance. Mr. Casteen became known as a strong advocate of enforcing rigorous educational standards, while at the same time pushing to accelerate access to higher education for minority students in the state. The Committee was also impressed with Mr. Casteen's record while president of the University of Connecticut. During his more than four years as head of Connecticut's largest state university, there have been significant increases in research funds and endowed professorships, as well as improvements in its teaching and research programs. A scholar of medieval literature who has continued teaching introductory courses even while a university president, Mr. Casteen has long been attentive to the quality and substance of undergraduate education. His concern for this fundamental component of a community of scholarship fits well with this University's educational mission. In turn, Mr. Casteen would bring to the University of Virginia an unparalleled combination of academic, administrative and governmental experience that fully equips him to meet the challenges of higher education in the 1990's. The Special Committee on the Nomination of a President recommends that Mr. Casteen be elected the University's next president.</field>
+      <field name="fulltext">NOMINATION OF JOHN THOMAS CASTEEN, III, AS PRESIDENT Mrs. Patricia M. Kluge placed the name of John Thomas Casteen, III, in nomination, and it was seconded by Mr. Robert Butcher and Mr. Leigh B. Middleditch. There were no further nominations.</field>
+      <field name="fulltext">ELECTION OF JOHN THOMAS CASTEEN, III, AS PRESIDENT The following resolution was unanimously adopted: RESOLVED that John Thomas Casteen, III, be and he is hereby elected President of the University of Virginia, effective August 1, 1990.</field>
+      <field name="fulltext">STATEMENT BY THE RECTOR Mr. Edward E. Elson, Rector Pro Tem, in announcing the election, said, "I convey the congratulations of the Board of Visitors to Mr. Casteen, the President-Elect of the University of Virginia." He announced that a Press Conference would be held in the lower West Oval Room of the Rotunda immediately following the meeting. There being no further business to come before the Board, the meeting was adjourned at 2:08 p.m. RCB: jb CC: President Robert M. O'Neil President-Elect John T. Casteen</field>
+   </doc>
+</add>

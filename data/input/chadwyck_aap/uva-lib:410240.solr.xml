@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Hammon, Jupiter, 1711-1800</field>
+      <field name="author_facet">Hammon, Jupiter, 1711-1800</field>
+      <field name="author_sort_facet">hammon jupiter 1711 1800</field>
+      <field name="author_text">Hammon, Jupiter, 1711-1800</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1760's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_aap/uvaGenText/tei/chaap_D046.xml</field>
+      <field name="date_indexed_facet">201909240349</field>
+      <field name="date_text">[1761?]</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey African-American Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey African-American Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:410240</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">An Evening Thought ; Salvation by Christ, with Penetential Cries</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">American poetry -- African American authors</field>
+      <field name="subject_facet">American poetry -- 18th century</field>
+      <field name="subject_text">American poetry -- African American authors</field>
+      <field name="subject_text">American poetry -- 18th century</field>
+      <field name="title_display">An Evening Thought ; Salvation by Christ, with Penetential Cries</field>
+      <field name="title_facet">evening thought</field>
+      <field name="title_sort_facet">evening thought</field>
+      <field name="title_text">An Evening Thought ; Salvation by Christ, with Penetential Cries</field>
+      <field name="year_display">[1761?]</field>
+      <field name="year_facet">1761</field>
+      <field name="year_multisort_i">1761</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:410240&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:410240&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Hammon, Jupiter, 1711-ca. 1800&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;hammon jupiter 1711 ca 1800&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;An Evening Thought ; Salvation by Christ, with Penetential Cries&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;evening thought&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;[1761?]&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1761&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Hammon, Jupiter&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1711&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1800&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;An Evening Thought&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Salvation by Christ, with Penetential Cries&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;[1761?]&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3865033-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chd046&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;[Broadside].&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;American poetry -- African American authors&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;American poetry -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;An Evening Thought&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Salvation by Christ, with Penetential Cries&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Alexandria, VA&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Inc.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 11 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-DatabaseAfrAmPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">AN Evening THOUGHT. Salvation by CHRIST, WITH PENETENTIAL CRIES: Composed by Jupiter Hammon, a Negro belonging to Mr Lloyd, of Queen's-Village, on Long-Island, the 25th of December, 1760. Salvation comes by Jesus Christ alone, The only Son of God; Redemption now to every one, That love his holy Word. Dear Jesus we would fly to Thee, And leave off every Sin, Thy tender Mercy well agree; Salvation from our King. Salvation comes now from the Lord, Our victorious King; His holy Name be well ador'd, Salvation surely bring. Dear Jesus give thy Spirit now, Thy Grace to every Nation, That han't the Lord to whom we bow, The Author of Salvation. Dear Jesus unto Thee we cry, Give us thy Preparation; Turn not away thy tender Eye; We seek thy true Salvation. Salvation comes from God we know, The true and only One; It's well agreed and certain true, He gave his only Son. Lord hear our penetential Cry: Salvation from above; It is the Lord that doth supply, With his Redeeming Love. Dear Jesus by thy precious Blood, The World Redemption have: Salvation comes now from the Lord, He being thy captive Slave. Dear Jesus let the Nations cry, And all the People say, Salvation comes from Christ on high, Haste on Tribunal Day. We cry as Sinners to the Lord, Salvation to obtain; It is firmly fixt his holy Word, Ye shall not cry in vain. Dear Jesus unto Thee we cry, And make our Lamentation: O let our Prayers ascend on high; We felt thy Salvation. Lord turn our dark benighted Souls; Give us a true Motion, And let the Hearts of all the World, Make Christ their Salvation. Ten Thousand Angels cry to Thee, Yea louder than the Ocean. Thou art the Lord, we plainly see; Thou art the true Salvation. Now is the Day, excepted Time; The Day of Salvation; Increase your Faith, do not repine: Awake ye every Nation. Lord unto whom now shall we go, Or seek a safe Abode; Thou hast the Word Salvation too The only Son of God. Ho! every one that hunger hath, Or pineth after me, Salvation be thy leading Staff, To set the Sinner free. Dear Jesus unto Thee we fly; Depart, depart from Sin, Salvation doth at length supply, The Glory of our King. Come ye Blessed of the Lord, Salvation gently given; O turn your Hearts, accept the Word, Your Souls are fit for Heaven. Dear Jesus we now turn to Thee, Salvation to obtain; Our Hearts and Souls do meet again, To magnify thy Name. Come holy Spirit, Heavenly Dove, The Object of our Care; Salvation doth increase our Love; Our Hearts hath felt thy fear. Now Glory be to God on High, Salvation high and low; And thus the Soul on Christ rely, To Heaven surely go. Come Blessed Jesus, Heavenly Dove, Accept Repentance here; Salvation give, with tender Love; Let us with Angels share. FINIS.</field>
+   </doc>
+</add>

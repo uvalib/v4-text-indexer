@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Anonymous</field>
+      <field name="author_facet">Anonymous</field>
+      <field name="author_sort_facet">anonymous</field>
+      <field name="author_text">Anonymous</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/AnoBone.xml</field>
+      <field name="date_indexed_facet">201909240358</field>
+      <field name="date_text">n.d.</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:475679</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Bones Opens a "Spout" Shop</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">Bones Opens a "Spout" Shop</field>
+      <field name="title_facet">bones opens a spout shop</field>
+      <field name="title_sort_facet">bones opens a spout shop</field>
+      <field name="title_text">Bones Opens a "Spout" Shop</field>
+      <field name="year_display">n.d.</field>
+      <field name="year_facet">n.d.</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:475679&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:475679&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Anonymous&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;anonymous&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Bones Opens a "Spout" Shop&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;bones opens a spout shop&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;n.d.&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Anonymous&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="Editor"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Bones Opens a "Spout" Shop&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;n.d.&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Dick &amp;amp; Fitzgerald, Publishers&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;n.d.&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="callNo"&gt;Print copy consulted: UVA Library call number E 449 .A57</field>
+      <field name="desc_meta_file_display">1993&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;pp. 116-17&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Anti-abolition Tracts and Anti-Black Stereotypes, Part I, edited by</field>
+      <field name="desc_meta_file_display">John David Smith, and published in New York by Garland Publishing,</field>
+      <field name="desc_meta_file_display">Inc., 1993, as Volume One in the series Anti-Black Thought</field>
+      <field name="desc_meta_file_display">1863-1925, contains a photo facsimile of the Minstrel Gags and End</field>
+      <field name="desc_meta_file_display">Men's Hand-book, first published in the 19th century, from which</field>
+      <field name="desc_meta_file_display">this electronic text was created.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Bones Opens a "Spout" Shop&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1997&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1997 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 9 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">BONES OPENS A "SPOUT" SHOP. Interlocutor. What are you thinking about, Mr. Bones? What is there on your mind this evening? Bones. I was jis' thinking 'bout dat business I was in some time ago. I started in de — what you call dat business dat da hab free balls hanging out? Interlocutor. Oh, you mean the pawnbroker. Bones. Yes, I was a pawnbroker wen I went in de bis, but I was a dead broaker wen I came out. Interlocutor. Let us hear of your experience as a pawnbroker. Bones. Well, having nofing to do I fout I'd start de broaking business; so I rented a room, got free balls what I found laying around loose in a ten pin alley, and hung 'em out. Interlocutor. And what success did you have? Bones. I'll tell you. De fust man dat cum in had a big paper bundel under his arm; he looked all around, den begin to open de bundel, den he look all around agin. Interlocutor. He was suspicious, I suspect. Bones. Spec he was. At las' he open de bundel and took out a ole hammer, an' wanted two dollars on it. Interlocutor. And what did you do about it then? Bones Hammered him over de head wid a club. De next one dat come in was a Dutchman, wid a big hunk of Limburger cheese in his hand. He wanted to pawn it. Interlocutor. What did you tell him? Bones. Told him to "cheese it" an' go. And de next man had a push cart. Interlocutor. A push cart! What did he want to do with that? Bones. Wanted to pawn it; it was all broke, and he wanted 'nuf on it to get a new one. Interlocutor. What did you do with him? Bones. Took him up on de roof, put him in de cart, an' pushed him off. De nex' man had he leg ob a stove. Interlocutor. A leg of a stove! What did he want to do with that? Bones. Wanted to pawn it. Interlocutor. Wanted to pawn the leg of a stove? What did you do with him? Bones Stove in his plug hat wid it. De nex' man dat come in was a woming. Interlocutor. A lady, sir. And what did she want? Bones She wanted to pawn a chaw of tobacer, and I was goin' to chaw off her ear, but I seen she had a feller outside to back her. Den come a man wid fourteen suits ob old close, and dar wosent haf ob a suit in de hole lot. Interlocutor. And what did he want? Bones. Wanted to pawn dem, an' he wanted nuf on dem fourteen ole suits to buy seven new suits. Interlocutor. What is that? Do I hear right? He wanted enough on the fourteen old suits to buy seven new suits? Bones. Dat's it. Interlocutor. And what conclusion did you come to in regard to the clothes? Bones. I concluded to close up shop, an' I did so, an' never ben in de biz sence.</field>
+      <field name="fulltext">Here are the two conversations between Jim and Huck that seem most clearly to echo these kinds of routines. Of course, these are not the only kinds of conversations the two runaways have, but they are the parts of the novel that MT first took with him on the "Twins of Genius" tour with Cable, and they helped shape the contemporary public's perception of the novel. Apparently when Richard Gilder heard MT perform Jim's account of his speculations and his diatribe against King Solomon, he talked MT into letting him publish additional installments of the novel in his Century Magazine. These colloquys not only made up the entire installment that appeared in the January issue of the Century; the punchline of Jim's account of his "speculatin'" was changed to make it sound even more like a minstrel show routine (see Prepublishing Huck):</field>
+   </doc>
+</add>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">William Hanna Thomson</field>
+      <field name="author_facet">William Hanna Thomson</field>
+      <field name="author_sort_facet">william hanna thomson</field>
+      <field name="author_text">William Hanna Thomson</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1910's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/ThoQues.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">August 1910</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476390</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Question "How</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">The Question "How</field>
+      <field name="title_facet">question how</field>
+      <field name="title_sort_facet">question how</field>
+      <field name="title_text">The Question "How</field>
+      <field name="year_display">August 1910</field>
+      <field name="year_facet">1910-08</field>
+      <field name="year_multisort_i">1910</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476390&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476390&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;William Hanna Thomson&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;william hanna thomson&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Question "How&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;question how&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;August 1910&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1910-08&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;William Hanna Thomson&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="Editor"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Question "How?"&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1910&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York City, Spring and Macdougal Streets&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;The Ridgway Company Publishers&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;August 1910&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="callNo"&gt;Print copy consulted: UVa library, call no.: AP 2.E9&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;la&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;pages 205-208&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Question "How?"&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1997&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1997 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 18 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE QUESTION "HOW?" By WILLIAM HANNA THOMSON, M.D., LL.D. Author of " Brain and Personality," "What is Physical Life?" etc. Physician to the Roosevelt Hospital; Consulting Physician to the New York State Manhattan Hospital for the Insane; formerly Professor of the Practice of Medicine and Diseases of the Nervous System, New York University Medical College; Ex-President of the New York Academy of Medicine, etc. IN one of Carlyle's earliest productions, dealing with the philosophy of Clothes, he showed that a man quite plainly reveals his inner self by what he wears. So we would now discuss what the being, Man, reveals about himself by his eternal question, "How?" As language is a lofty endowment and, moreover, on this earth exclusively human, we would lead up to the subject by stating what the parts of speech are. According to the Arabs, who surpass all other peoples in the study of language—for they claim that they have twenty-five thousand books on grammar in their literature—the parts of speech are three; and, as one of their old scholars states, this threefold division of speech is not confined to one language, but is universal, because human speech does not differ with the difference of human tongues. These three parts are: first, nouns—the names of things; second, verbs—the names of events; and, third, the partitives—or the words which express the relations of things to events. Thus the most abstract of verbs, "to be," refers to an event; for when a man says, "I am," he is mentioning an event in the history of the universe which did not occur till he existed. This division, however, necessitates that the adjectives should be regarded as nouns; and so they are classed in all Semitic languages, as the Hebrew, the Arabic, the Syriac, etc. The writers of the New Testament, therefore, could not write Greek without continually falling into their native Hebrew idiom; so that if the passages were translated literally, some modern expositions would have to be much modified. Thus, "Who created the worlds by the word of his power" means "Who created the worlds by his powerful word." "The body of our humiliation" is "our humiliating body." "Who shall deliver me from the body of this death?" is "from this deadly body," as the context of the passage clearly shows. In each case the second noun is the adjective modifying the first. Moreover, the most interesting deduction from this division of the parts of speech is that the partitives are far the highest in rank among words, because they express pure relations, which only the royal mind of man can so distinctly perceive as to make words for them. Thus, a dog can learn his own name, and understand the verbs "go" and "come," especially with the imperative tone of his master; but he could never understand the words "outgoing year" or "incoming year." Prepositions belong to the partitives, and, with different prepositions attached to one and the same thing or noun, the human mind can step through the vast regions of thought as easily as the ether can vibrate through space. Thus the Latin scriptio, the name of a thing, a writing, gives us the following changes, according to the preposition: An ascription is not a conscription, by any means; nor does a conscription mean anything like a description; nor is that the same thing with an inscription; nor when we prescribe for a man are we proscribing him; and every one of us knows, when the agent of a worthy cause enters, what the difference is between a subscription and a superscription. To the adverbs, however, must be given the preëminence among all human words. But even here there are gradations in rank. Thus the adverb, "Why?" may be nothing but a question of curiosity, and hence its idea may be suggested to an inquisitive monkey. But it is not so with the question, "How?" "Why?" may be answered by an affirmation, but "How?" can be answered only by a demonstration. Now, as our object is to call speech to witness as to what is in man, or, in other words, what man is himself, we will proceed to analyze the testimony of this word, "How?""HOW" FINDS A PLANET First: It does not refer to anything which appears on the surface. Instead, it seeks to find the hidden and the unknown by following up one clue after another. When the astronomer, Leverrier, found that the planets Saturn and Uranus did not come to time, he asked himself how that could be. Meanwhile, the answer to any number of "hows" must have been previously demonstrated by him and by other astronomers before the movements of these great and distant heavenly bodies could be shown as not according to the clock-like regularity of planets in their courses. He reasoned that only one probable "how" could account for the facts; namely, another planet of just such a size and weight, and moving at just such a distance, would suffice thus to hold back Saturn and Uranus in their orbits. And so he calculated how large this heavenly body was, how heavy it was, and then just where it was, until, by this human but sure detective system, astronomers caught sight of Neptune—after Leverrier told them where to look for it. But, after all, to decide how the vast heavenly bodies move in space is easy compared with finding out how to make a sewing machine go. For a needle to thread itself and then rapidly proceed to sew without the help of fingers calls for the discovery of more "hows" than are needed to explain Laplace's "Mécanique céleste." Mass and gravity suffice for the one, but only a Yankee's mind could have created the other. We have now come to a great word—"create." A creator is a being who gives origin to things which would not exist but for his intelligent purpose and design. Now, man has simply filled this earth with his own creations, all due to himself alone and to none other, and all again by pondering the question, "How?" He began, for instance, by putting a hole through a flint hatchet, and ended with putting a hole through the Alps. In this last, an engineer stood at the foot of the great mountain and asked himself how he could tunnel it for nations to pass through. He saw a small stream dashing down the mountainside and at once found his desired "how," for he made that stream work big drills by compressed air, till the everlasting rocks themselves had to give in. But man is an infinite creator—by which we mean that his creative capacity is limitless and inexhaustible. No sooner does he create one thing than he turns to create another thing totally different from it. A locomotive thundering past with a long train has no resemblance to a telegraph line, nor that, in turn, to a great printing press. Man coolly sets at defiance the most fundamental laws of physical science. Thus, a heavy load of passengers, sitting in no less heavy cars, if put on a smooth inclined plane must slide down faster and faster to the bottom, or Vulcan would be confounded. But man strings a thin wire overhead, which would snap instantly if the load gave it one pull; but something which, some "how," man causes to pass along that wire, makes the trolley with its live freight go uphill faster than a horse can run.THE ETHER ENSLAVED And what about that mysterious ether? It can neither be seen, heard, felt, handled, smelt, nor tasted. Nevertheless, man has learned so much about its "how" that he is turning it into as menial a servant, obedient to his wishes, as he has made of electricity, the cause of sublime thunder; for man bids the ether carry his stock quotations or any other message of his to the ends of the earth. These are great doings, but really no greater than his small doings, for the least of these is just as impossible for other earthly creatures as are an Alpine tunnel or a battleship. A large convention of chimpanzees could not combine to make one pin or one sleeve-button, if they tried. All this is because man is native to the world of relations, which no other earthly beings are, because they cannot go beyond the information provided by their bodily senses. Man, on the contrary, gains infinitely more knowledge than his bodily senses can afford. By studying the relations of abstract points to abstract lines, he becomes a mathematician. Following up the many "hows" of chemistry, he talks about molecules, atoms, and ions as fluently as: if he had seen or handled them.MAN IS INVISIBLE This explains how man can and does create. Every great invention existed first in the mind of the inventor. So the great engineer who made the Brooklyn Bridge never had to handle one of the materials used in its construction, for every stone, wire, and bolt was provided for in that engineer's mind before any part of that tremendous mass of matter could be seen on the earth. Moreover, this great human creator is as invisible as the Divine Creator Himself. People are continually saying that they will not believe in a thing till they can see it, thus pinning their faith to the testimony of that one of our senses which makes more mistakes than do all our other senses put together. When a man six feet high is a mile off, it says that he is only six inches high. The eye can see nothing of the vast microscopic living world which lies within six inches of the eyeball, and so we have had to invent a microscope to make up for this serious deficiency. But what would the Russian Witte not have given if he could have telegraphed to St. Petersburg that he had actually seen the Japanese Komura while they were talking about making peace at Portsmouth, New Hampshire, and that he knew just what the courteous Jap thought and proposed! All that he saw was the Asiatic's smiling face and other things of his outside. Every human personality belongs to the real world, the world of the Unseen, and cannot be known except as he chooses to reveal himself.BRAIN NOT THE MAN Some persons might object here that the brain is both visible and tangible in man, and that man is in his brain, and, therefore, the brain is man. Medical science, however, shows that the brain no more thinks than the hand and foot do, but is simply the instrument of the invisible thinker. The proof of this is that we have two brains, just as we have two eyes and two ears, but that only one of our two brain hemispheres is the instrument for talking, thinking, or knowing. Which one of the two hemispheres will be the mental one will depend altogether on how it has been taught by the invisible thinker, who will begin to teach the left hemisphere if he is right-handed, or the right hemisphere if he is left-handed. He will leave the other hemisphere in each case wholly speechless or thoughtless, and concerned only with the business of governing the muscles or receiving the bodily sensations of its corresponding side. If brain matter really itself thought, we should have two thinking and speaking hemispheres—and this the first case of loss of speech by an apoplectic clot would disprove. "By thy words thou shalt be judged." This means that man is to be judged by his own creations, for it is only men who create words. By their words they show what is in them, both intellectually and morally. We have demonstrated that the being who can ask the question, "How?" naturally belongs to the universe. Already he knows what stuff inconceivably distant stars are made of; and the "how" to know that he found in a small glass prism.THE MORAL "HOW" It would seem, therefore, as if it were by some temporary accident that he is held to this little material speck of matter called the earth. And this impression grows upon us as we study the greatest facts of human life. We enter this world knowing nothing and not nearly so well equipped to take care of ourselves as are other animals. There is no helplessness like that of a babe. But wonderfully early he begins to ask the question, "How?" A little boy will ask more questions in a day than his father will ask in a week; nor can he be stopped or deceived, because the question, "Why?" you can answer as you please, but not "How?" He who can ask "How?" can be a learner as long as he exists, whether here or hereafter. In his life here he may become either a great financier or a great statesman, but certainly not either unless he knows how. Any education, in fact, is simply learning how. What is true in the intellectual world is still more true in the moral world. Whenever a question bearing on morals enters, every one should stop and ask, "How?" A mistake here is like entering the wrong gate in a large railroad station. The longer you stay in its corresponding train, the farther it will take you from where you should go. For example, there are some who say that the human will is not free, but that our actions are all, in the last analysis, according to our make-up. In other words, we are machines which must go as they are made to go. There is, therefore, no right nor wrong in human conduct, for machines cannot be held responsible for conduct or the way they go—there can be no sinful automobile or wicked windmill. According to these reasoners, therefore, when human law punishes one who has robbed a widow of all she had, or has seduced the daughter of a friend, or committed a cold-blooded murder, the law is wholly illogical in punishing him, because, since he is a machine, his punishment is like throwing a clock out of a window if it does not keep good time. The only answer to such a talker should be, "Get out!" with particular emphasis on the "out."</field>
+   </doc>
+</add>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Mason, William, 1725-1797</field>
+      <field name="author_facet">Mason, William, 1725-1797</field>
+      <field name="author_sort_facet">mason william 1725 1797</field>
+      <field name="author_text">Mason, William, 1725-1797</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1810's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V2.0553.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1811</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460212</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Pigmalion ; A Lyrical Scene</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Pigmalion ; A Lyrical Scene</field>
+      <field name="title_facet">pigmalion</field>
+      <field name="title_sort_facet">pigmalion</field>
+      <field name="title_text">Pigmalion ; A Lyrical Scene</field>
+      <field name="year_display">1811</field>
+      <field name="year_facet">1811</field>
+      <field name="year_multisort_i">1811</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460212&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460212&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Mason, William, 1725-1797&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;mason william 1725 1797&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Pigmalion ; A Lyrical Scene&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;pigmalion&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1811&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1811&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Mason, William&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1725&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1797&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Pigmalion&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Lyrical Scene&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for T. Cadell and W. Davies ... by W. Bulmer [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1811&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872536-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv20553&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Pigmalion&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Lyrical Scene&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 27 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only verse drama included&lt;lb/&gt;The following plays have been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Pigmalion.</field>
+      <field name="desc_meta_file_display">Genre: Interlude.</field>
+      <field name="desc_meta_file_display">Date first published: 1811.</field>
+      <field name="desc_meta_file_display">Date first performed: 2 Nov 1750.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">PIGMALION, Now first published. A LYRICAL SCENE</field>
+      <field name="fulltext">The Theatre represents a Statuary's working-room. On one side appear blocks of marble, and unfinished groups and statues. In the centre of the scene, another statue concealed under a pavilion of light transparent silk, ornamented with festoons and fringe. Pigmalion is discovered leaning on his elbow, in a pensive, contemplative, yet unsettled posture. Soon after he rises hastily, takes his tools from the table, and begins to give, at certain intervals, a few strokes of the chissel on one of his unfinished statues. Then steps backward to review his work, with a look of discontent and disappointment. PIGMALION. It will not be. No gleam of life, or soul, Dawns at my stroke. 'Tis still a breathless stone. Away with art like this! it is not art, 'Tis mere abortive labour. Ah my Genius! Where art thou fled? My fancy where retir'd? And why, Imagination! dost thou feel This frost of dullness chilling all thy fires? The marble feels thee not, it quits my hand Cold as it left its quarry. Where, Pigmalion, Where is thy power which once could rival Jove's, Creating gods. 'Tis gone: the veriest wretch That toils for vulgar gain is now thy equal. Hence, ye vile instruments! my glory once, But now my shame, dishonour not my hands. [He throws away his tools with disdain, and walks about meditating with his arms folded over his breast. Whence comes this change, this new unheard of change, This atrophy of soul.—Imperial Tyre! Thou richest, proudest theatre of taste, In vain display'st thou to my sickly sense, The grace that sparkles on thy sculptur'd walls; I cannot taste thy glories, Queen of Asia! Thy artists, thy philosophers, thy painters, Thy bards, the heralds of posterity, Who antedate the praises she shall pay To each true heir of fame, they touch not me; Ev'n friendship's self has lost its power to charm. Ev'n you, ye young, ye lovely; ye sweet proofs Of all that Nature, in her happiest hour, Could e'er attain of perfect, and of fair; Ev'n you, ye blooming models of my art, Who crown'd my toil with rapture, who inspir'd My soul at once with genius, and with love, Yes, since that art has far surpast your charms, Ev'n you are grown indifferent to my sight. [He sits down and contemplates the objects around him. Wretch that I am! chain'd, as by magic spell, To this peculiar spot, listless I sit, Unable or to work, or to retire. Wand'ring from group to group, from form to form, My feeble chissel seems to scorn the power Of its fallacious guide, and each rude feature, (Rude as when first design'd) heeds not the hand Which once could bid it breathe— [Rising with impetuosity. 'Tis done, 'tis past; My genius is expir'd; young as I am, I have outliv'd my art.—But is it thus? Why then these inward ardours that consume me? And why this secret something in my breast That wraps me from myself? Are these the signs, The languid signs, of an exhausted fancy? Feel we, in that dull state, these warm emotions? This flush of passions? this impetuous burst Of fierce desires? this strange inquietude That agitates, torments, distracts the soul? What is the cause? alas! I vainly thought The miracle of grace I lately form'd Made my fond eye a truant to my art, And therefore did I veil it from my sight. Yes, though 'twas profanation, these rash hands Have dar'd to hide the trophy of their fame. 'Tis hid, and what's my gain? more pensiveness, Not more attention. O immortal work! Well may'st thou be thus dear, thus precious to me; For when my genius fails, when age and ills Take from me all the plastic powers I boast, When now no more of beauteous and sublime Lives in my labours; then, my Galatea! Then will I show thee to a wond'ring world, And tell that world Pigmalion made thee thus. Yes, when I've lost my all, thou shalt remain, And I shall be consol'd. [He comes nearer the pavilion, then retires, approaches again, retreats, and stops at intervals to gaze upon it, sighing. But why conceal her? Inactive, dull, desponding as I sit, Why rob myself of that peculiar bliss The sight of her inspires? she is my art's Dear masterpiece; and yet, perhaps, remains Some slight defect that has escap'd my eye, Perhaps I still may to her vestment add Some fold more graceful; 'twere a crime to spare One possible addition that might deck A form so lovely. Haply too the sight Will call to life again the slumb'ring powers Of my invention; better lift the veil, Better review my work—review my work! Alas! till now I only have admir'd it. [He attempts to undraw the Curtain, and lets it fall again as affrighted. Unspeakable emotion! how the touch Of this slight veil affects me. How I tremble! Surely my rash and sacrilegious hand Invades the shrine of some divinity. Fool! 'tis a stone, and thou its sculptor. True— But what of that? are not our temples crowded By gods that claim the worship of the people On no superior charter? [He undraws the Curtain trembling, prostrates himself before the statue of Galatea, which appears placed on a very small pedestal, and that raised on a flight of marble steps, ranged semicircularly. Take, Galatea! take thy maker's homage; I was deceiv'd, I carv'd thee for a nymph, But O thou art a goddess. Venus self Is less divinely fair.—What vanity, What childish weakness this! 'tis my own work, Yet madly I admire it. Vile self-love, These are thy goodly triumphs. Mock'd by thee, I worship in the image I have made My worthless self. Yet surely truth must own Nothing, no nothing e'er appear'd in nature Ev'n half so lovely; I have here surpast The workmanship of Heav'n—and could it be, Could these same hands form such transcendant beauty? These hands that touch'd—this mouth that—Hold, Pigmalion, I spy a fault. This drapery spreads too far, It hides too much, let me relieve the fold, The charms that it conceals should be display'd. [He takes his mallet and chissel and advancing slowly mounts with hesitation the steps before the statue, as if he seemed hardly to dare touch it, at last raising his chissel and preparing to strike, he stops, and cries out— Heav'ns! what a tremulous convulsion shakes me; My quivering nerves attempt in vain to guide Th' uncertain tool. I cannot, dare not strike, I shall do harm, incorrigible harm. [He summons resolution, and raising his chissel gives a stroke, then seized with fear lets it fall. Gods! if the heaving, the elastic flesh Does not resist my chissel! [He descends the steps trembling and confused. Idle fear! Absurdest terror!—No! I will not touch her, The gods inspire this panic; she is theirs, Already theirs, an inmate of their heaven. [He re-examines the figure. What would'st thou change, Pigmalion, what correct, What novel charm supply? She is already Perfection's self; perfection is her fault, Her only fault. Yes, heav'nly Galatea! Wert thou less perfect, nothing would'st thou want— [Tenderly. But yet thou want'st a soul; all, all save that, Thou hast in rich profusion. [With still greater tenderness. Yet, if Heaven Inspir'd that body with a kindred soul, How very lovely ought that soul to be. [He pauses for some time, then returning to his seat, he proceeds in a slow and different tone. What are the wild desires I dare to form? Whither does passion drive me? righteous Heav'n! Th' illusive veil that hid me from myself Falls off. Yet let me not behold my heart, I fear me it contains what, once beheld, Would make me hate it. [A long pause in deep disorder. 'Twill not be conceal'd. Tell then thyself, tell to a mocking world The passion that distracts Pigmalion's soul Has there its lifeless object. Own the cause, The worthy cause that keeps thee idle here; That block, that marble mass, hard, and unform'd, Till with this iron—Idiot that thou art, Sink, sink into thyself, groan o'er thy error, Behold at once thy folly, and bewail it. [Starting up with impetuosity. But 'tis not folly, I abjure the word, My senses still remain; there is no cause For self-reproach. This cold, this breathless marble Is not the thing I love. No, 'tis a being That lives, that thinks, can love, and be belov'd, Alike to this in feature, not in frame; 'Tis her that I adore; and wheresoe'er I find the charming fair one, wheresoe'er She dwells, whate'er her birth, or habitation, She still shall be the idol of my heart. My folly then (if folly be its name) Springs from a quick perceptive sense of beauty, My crime (if I indeed am culpable) proceeds From too much sensibility of soul; —Such crimes, such follies ne'er shall make me blush. [Less fervently, yet still with emotion. Heav'ns! round that form what lambent radiance flings Its darts of fire, they reach, they pierce my soul, And seem to bear me back into their source— Meanwhile, alas! all cold and motionless She stands.—While I, while my tumultuous spirits, Bursting their bounds, would quit their vital seat To warm her breathless bosom. Extacy Gives the transferring power of life and soul, And I will use it; thou shalt die, Pigmalion, (Delicious death!) to live in Galatea. What have I said? Just Heav'ns! to live in her, Then must I cease to view, must cease to love her, No, Fate forbid! Let Galatea live, Yet let my love live too; for to be hers I still must be myself; and, being that, I must be ever hers; must ever love her, And ever be belov'd. [In a tone of transport. Belov'd, distraction! It cannot be, O torment, rage, despair, O hopeless, horrible, distracting passion! The pains of hell rack my desponding soul. Beings of power! Beings of mercy hear me! Hear me, ye gods! before whose awful shrines The people kneel because ye know their frailty; Yes, ye have oft for vainer purposes Lavish'd your miracles; look then with pity On this fair form, look on this tortur'd breast, Be just to both, and merit our oblations. [With a more pathetic degree of enthusiasm. And thou, sublimest Essence! hear the prayer; Who, hid from outward sense, on the mind's eye Pour'st thy refulgent evidence. O hear me Parent of Worlds! Soul of the Universe! Thou, at whose voice, the plastic power of Love Gives to the elements their harmony, To matter life, to body sentiment, To all the tribes of being, place, and form. Hear me, thou sacred, pure, cœlestial fire! Thou all-producing, all-preserving power, Venus Urania hear me! where is now Thy all-adjusting poize, thy force expansive, Where is dread Nature's universal law In my sensations? What a void is here! Ah tell me why thy vivifying warmth Fills not that void, and bids my wishes live? Thy fires are all concenter'd in this breast, While, on yon form, the icy hand of Death Keeps its chill hold. Pigmalion perishes By that excess of life yon marble wants. Goddess, I do not ask a miracle, See, she exists, she ought to be annull'd, Fair Order is disturb'd, all Nature outrag'd; O vindicate her rights; resume again Thy course beneficent, and shed thy blessings In just equality. Yes, Venus, yes, Two beings here are wanting to complete The plenitude of things; divide to each Its share of that fierce fire which scorches one, And leaves the other lifeless. Well thou know'st 'Twas thou that form'd by my deputed hand Those charms, those features; all they want is life And soul—my goddess, give her half of mine, Give her the whole, and let me live in her, Such life will well suffice. O as thou lovest Our mortal homage hear me! they alone, Whom life gives consciousness of Heav'n, and thee, Can pay thee that due homage; let thy works Extend thy glory. Queen of Beauty, hear me! Nor let this model of perfection stand An image vain of unexisting grace. [He returns to himself by degrees with an expression of assurance and joy. Reason returns. What unexpected calm, What fortitude unhop'd for arms my breast! The balm of peace and confidence has cool'd My boiling blood. I feel as born anew. Thus is it still with heav'n-dependent man, The very trust and feel of that dependence Consoles his grief. How heavily soe'er Misfortune flings her load upon his shoulder, Let him but pray to Heav'n, that load is lighten'd. Yet, when to Heav'n we lift a foolish prayer, Our confidence is vain, and we deceiv'd. Alas! alas! in such a state as mine We pray to all, and nothing hears our prayer; The very hope that chears us is more vain Than the desire that rais'd it. O shame, shame On such extravagance. I dare no longer Reflect upon its cause, and yet, whene'er I cast my eye upon yon fatal object, Fresh palpitations, new disquiets choak me, A secret fear restrains— [In a tone of cruel irony. Poor wretch! be bold, Take confidence. Yes, court, and win a statue. [He perceives it to begin to be animated, and starts back seiz'd with affright and with a heart filled with sorrow. What do I see? what did I think I saw? Ye gods, her cheek has bloom, her eye has fire! Nay, but she moves. O, was it not enough To hope a prodigy; to crown my wretchedness Lo, I have seen it. [In excess of desperation. Hapless wretch! 'tis done; Thy madness is confirm'd; reason has left thee As well as genius. Let its loss console thee; It covers thy disgrace. [With a lively indignation. 'Tis as it should be, Happy indeed for him that lov'd a stone To turn a moon-struck madman. [He turns and sees the statue move, and descend the steps on which she had been placed on the foot of the pedestal. He throws himself on his knees, and lifts his hands and eyes to heaven. Holy Heav'n! Immortal gods! O Venus! Galatea O fascination of outrageous Love! GALATEA [She touches herself and says] Myself! PIGMALION. [transported.] Myself! GALATEA. [touching herself again.] It is myself. PIGMALION. O blest, O exquisite delusion! it affects My very ears. Ah, never more abandon My raptur'd senses. GALATEA. [stepping aside and touching one of the marbles.] This is not myself. [Pigmalion in an agitation and transport unable almost to contain himself, follows all her motions, listens, observes her with an eager attention which almost takes away his breath. [Galatea comes to him again, and gazes on him, he opens his arms and beholds her with extacy. She rests her hand upon him, he trembles, seizes her hand, puts it to his heart, and then devours it with kisses. Ah! 'tis myself again! [With a sigh. PIGMALION. Yes, loveliest, best, And worthiest masterpiece of these blest hands, Dear offspring of my heart, and of the gods, It is thyself; it is thyself alone; I gave thee all my being, and will live, My Galatea, only to be thine. [The curtain falls.</field>
+   </doc>
+</add>

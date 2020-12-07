@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">, , Henry, VIII,, King of England, 1491-1547</field>
+      <field name="author_facet">, , Henry, VIII,, King of England, 1491-1547</field>
+      <field name="author_sort_facet">  henry viii king of england 1491 1547</field>
+      <field name="author_text">, , Henry, VIII,, King of England, 1491-1547</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.0466.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1889</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:463307</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Anglia</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">Anglia</field>
+      <field name="title_facet">anglia</field>
+      <field name="title_sort_facet">anglia</field>
+      <field name="title_text">Anglia</field>
+      <field name="year_display">1889</field>
+      <field name="year_facet">1889</field>
+      <field name="year_multisort_i">1889</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:463307&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:463307&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;, , Henry, VIII,, King of England, 1491-1547&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt; henry viii king of england 1491 1547&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Anglia&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;anglia&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1889&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1889&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;, , Henry, VIII,, King of England&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1491&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1547&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Anglia&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Halle&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Max Niemeyer&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1889&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp1707&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;viii, 632 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Anglia&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 18 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only poems by Henry VIII included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Middle English poetry.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">The Kynge .h. VIII.Square brackets denote editorial insertions or emendations. [Pastyme w? good c??panye] Pastyme w? good c??panye I loue &amp; schall vntyll I dye[!] gruche who lust[,] but none denye so god be plesyd y?? leue wyll I[!] for my past?ce h?t syng &amp; d?nce my hart is sett all goodly sport for my c?fort[!] who schall me lett[?] Youthe must haue s? daliance Off good or yll s? pastance[!] Company me thynk?? ther best all thought?? &amp; fansys to deiest. ffor Idillness is cheff mastres of vices all [—] then who can say but myrth and play is best of all[?] Company w? honeste is vertu [—] vices to ffle Company is good &amp; ill but eu??y man hath hys fre wyll[!] the best ensew the worst eschew my mynde schalbe[:] vertu to vse vice to refuce[,] thus schall I vse me. [Alas what shall I do for love for love] Alas what shall I do for love for love Alasse what shall I do Syth now so kynd I do yow fynde to kepe yow me vnto Alasse [Alone I leffe alone] Alone I leffe alone and sore I sygh ffor one alone I leff alone and sore I syghe for one alone I leue alone and sore I sygh for one Doctor Coop??. [O my hart &amp; o my hart] O my hart &amp; o my hart My hart it is so sore sens I must nedys from my loue depart and know no cause wherfore. [Adew adew my hartis lust] Adew adew my hartis lust adew my Joy and my solace. wyth dowbyl sorow c?playn I must vntyl I dye alas alas. Cornish. [Aboffe all thynge] Aboffe all thynge now lete vs synge both day and nyght Adew mornyng a bud is spryngynge. Adewe mornyng Adew mornyng adew now let vs syng a bud is spryngynge Off the red rose and the whyght. Aboffe vt supra. Ffaredynge. [Downbery down] Downbery down now am I exild my lady fro and no cause geuyn therto wherfor to her I me complayn hey now trustyng that dysdayn sone shalbe slayne and neuer more to remayne Downbery vt supra. Wyllm. Daggere. [In may that lusty season] In may that lusty season to ged?? the flours down by the medows grene The byrdys sang on eu??y syde so m??yly it ioyed my hart they toyned so clene the nyghtyngale sang on hie ioyfully so merely Among the thornys kene. T. ffaredyng. [Who so that wyll hymselff applye] Who so that wyll hymselff applye To passe the tyme of youth joly Aua?ce hym to the c?panye Of lusty bloddys &amp; cheualry Off lusty bloddys and cheualry. Rysbye. [The tyme of youthe is to be spent] The tyme of youthe is to be spent but vice in it shuld be for fent but vice in i[t] shuld be for fent. Pastymes ther be I nought trewlye Whych one may vse / and vice denye And they be plesant to god and man[,] Those shuld me couit wyn who can[:] As featys of armys / and suche other wherby actyuenesse oon may vtter. Comparysons in them may lawfully be sett ffor therby corage is suerly owt ffett Uertue it is / then youth for to spend In goode dysporttys whych it dothe fend. [Alac alac what shall I do.] Alac alac what shall I do. ffor care is cast in to my hart. And trew loue lokked therto. Alac alac what shall I do. ffor care is cast in to my hart. And trew loue lokked ther to. Alac alac what shall I do. ffor care is cast in to my hart. And trew loue lokked y? to. [Grene growith y? holy so doth y? Iue.] Grene growith y? holy so doth y? Iue. thow wynt?? blastys blow neu?? so hye grene growth the holy. Grene growth y? holy so doth the iuye. thow wynter blast?? blow neu?? so hye. grene grouth the holy. Grene grouth y? holy so doth the Iue. thow wynter blastys blow neu?? so hye. grene grouth the holy. As the holy grouth grene. and neu?? chaungeth hew So I am [—] euer hath bene vnto my lady trew grene growth &amp;c. A[s] the holy grouth grene: with Iue all alone when flowerys, can not be sene and grene wode leuys be gone vt supra. Now vnto my lady p??myse to her I make ffrome all other only to her / I me be take vt supra. Adew myne owne lady. Adew my specyall. Who hath my hart trewly he suere &amp; eu?? shall vt supra. [Wher to shuld I expresse] Wher to shuld I expresse my inward heuynes no myrth can make me fayn tyl that we mete Agayne. Do way dere hart not so let no thought yow dysmaye Thow ye now parte me fro: we shall mete when we may When I remembyr me: of yo? most gentyll mynde. It may in no wyse agre: that I shuld be vnkynde. The daise delecta[b]le: the violett wan and blo. ye ar not varyable: I loue you &amp; no mo. I make you fast and sure: it ys to me gret payne. Thus longe to endure: tyll that me mete agayne. [Thow that men do call it dotage.] Thow that men do call it dotage. who louyth no[t] wantith corage. And who so eu?? may loue gete. ffrom ven?? sure he must it ffett. Or ell?? ffrom her which is her hayre. And she to hym must seme most fayre Wyth ee and mynd doth both a gre. There is no bote ther must it be. The ee doth loke and represent. But mynd afformyth with full consent. Thus am I fyxed with owt gruge Myne ey with hart doth me so iuge. loue maynteynyth all noble courage. who loue dysdaynyth ys all of the village. Soch lou??s though thay take payne. It were pete thay shuld optayne ffor often tymes wher they do sewe. Thay hynd?? lou??s that wolde be trew. ffor who so louith shuld loue butt oone. Chau?ge who so wyll I wyll be none. [Departure is my chef payne] Departure is my chef payne I trust ryght wel of retorn agane. Departure is my chef payne I trust ryght wel of retorne a gayne departure is my chef payne I trust ryght well of retorne agayne. Departure. Departure. [With owt dyscord] With owt dyscord and bothe acorde now let us be bothe hart?? alone to set i one best semyth me. for when one sole ys in y? dole of louys payne. then helpe must haue hym selfe to saue and loue to optayne. Wher for now we. that louers be. let vs now p??y. Onys loue sure. ffor to procure. w? owt denay. wher loue so sewith. ther no hart rewith. bu[t] condyscend. yf contrarye. what remedy. god yt amen[d]. [Who so that wyll for g??ce sew.] Who so that wyll for g??ce sew. hys entent must nedys be trew and loue her in hart &amp; dede els it war pyte that he shuld spede many oone sayth that loue ys yll but those be thay which can no skyll. Or else be cause thay may not opteyne. They wold that other shuld yt dysdayne. But loue ys a thyng geuyn by god. In that ther for can be non odde. But p??fite in dede and be twene two. wher for then shuld we yt excho. [Lusti yough shuld vs ensue] Lusti yough shuld vs ensue hys mery hart shall sure all rew for what so eu?? they do hym tell it ys not for hym we know yt well. ffor they wold haue hym hys libertye refrayne And all mery company for to dysdayne. But I wyll not so what so eu?? thay say. But follow hys mynd in all that we may. How shuld yough h?selfe best vse but all dysdaynes for to refuse as chef assurans yough honest myrt w? vert?? pastance ffor in them consisteth gret honor. Though that dysdaynars wold therin put error. ffor they do sew to get them grace. All only reches to purchase. with gode ord?? co?cell &amp; equite. goode lor? gra?t vs o? mancyon to be. for w?owt y? goode gyda?ce yough shuld fall in grett myscha?ce. with goode ord?? co?cell &amp; equite. good lord gra?t vs o? mancyon to be. for w? owt y? goode gyda?ce yough shull fall in gret myscha?ce. ffor yough ys frayle and prompt to doo. As well vic?? as vertuus to ensue. wherfor be thes he must be gydyd. And v??tuus pasta?ce must theryn be usyd. w? goode ord?? co?cell and equite. goode lord gr?t vs o? mancyon to be. for w? owt y? goode gyda?ce yough shuld fall in to gret mys cha?ce. Now vnto god thys prayer we make That this rude play may well be take. And that we may ower fautt amend. An blysse opteyne at ower last end. Amen.</field>
+   </doc>
+</add>

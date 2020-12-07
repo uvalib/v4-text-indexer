@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Anstey, Christopher, 1724-1805</field>
+      <field name="author_facet">Anstey, Christopher, 1724-1805</field>
+      <field name="author_sort_facet">anstey christopher 1724 1805</field>
+      <field name="author_text">Anstey, Christopher, 1724-1805</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1790's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.1971.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1795</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:465751</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">French</field>
+      <field name="main_title_display">The monopolist ; or the installation of Sir John Barleycorn, Knight: a poetical tale. Addressed to servant maids [by Christopher Anstey</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 18th century</field>
+      <field name="subject_text">English poetry -- 18th century</field>
+      <field name="title_display">The monopolist ; or the installation of Sir John Barleycorn, Knight: a poetical tale. Addressed to servant maids [by Christopher Anstey</field>
+      <field name="title_facet">monopolist</field>
+      <field name="title_sort_facet">monopolist</field>
+      <field name="title_text">The monopolist ; or the installation of Sir John Barleycorn, Knight: a poetical tale. Addressed to servant maids [by Christopher Anstey</field>
+      <field name="year_display">1795</field>
+      <field name="year_facet">1795</field>
+      <field name="year_multisort_i">1795</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:465751&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:465751&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Anstey, Christopher, 1724-1805&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;anstey christopher 1724 1805&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The monopolist ; or the installation of Sir John Barleycorn, Knight: a poetical tale. Addressed to servant maids [by Christopher Anstey&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;monopolist&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1795&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1795&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Anstey, Christopher&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1724&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1805&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The monopolist&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;or the installation of Sir John Barleycorn, Knight: a poetical tale. Addressed to servant maids [by Christopher Anstey]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Bath&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed by S. Hazard: for T. Cadell Junr. and W. Davies, (sucessors to Mr. Cadell) [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1795&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp0102&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;fre&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;16 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The monopolist&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;or the installation of Sir John Barleycorn, Knight: a poetical tale. Addressed to servant maids [by Christopher Anstey]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 22 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE MONOPOLIST, &amp;c. A POETICAL TALE. Honi soit qui mal y pense. O ponder well, ye serving Maids, The doleful Tale I sing: Learn how disastrous 'tis to wear Too high your Apron string: Though Ladies throw their Stays aside, In loose Chemises drest, Like Mummies plaster'd o'er the Cheek, And bandag'd round the Breast, While all beneath it they neglect, Nor care how Matters go, Do you with Whalebone gird your Waists, And keep all tight below: So shall you ne'er be Nondescripts, Or Mermaids stand confest; Your upper parts of Human form, But Fishy all the rest.— That you may never strive to join Your Shoulders and your Rumps, And think it needless to preserve The Peaks around your Jumps, To you a Story I'll unfold As true as e'er before By Graves or Anstey has been told, Or e'en by Hannah More.— 'Twas in a Land for Barley fam'd, Those fertile Vallies near, Where Avon rolls a purer Tide, And turns his Ooze to Beer, While travell'ing on, a Wight I met, Whose Face of comick Mould Join'd to an Air, and Voice uncouth, My Laughter mov'd of old: Half Farmer, half a Maltster then, With neither Trade content He of his Poverty complain'd, And grumbling paid his Rent; Yet still went on, and hiring Land Where'er it could be found, Crept into Wealth, by ousting all The little Farmers round: His Corn He kept, 'till more than half His Neighbours He distress'd, And then, like Pharaoh's Kine, grew fat By eating up the rest: But most in Times of War He drove A profitable Calling, By long monopolizing Grain, Regrating and Forestalling: But what was Wealth, unless his Power And Consequence increase?— He needs must make himself a Squire, And Justice of the Peace: O! for two Theban Lyres in one, To sing in equal Strain A Justice and a Squire so shrewd, So vulgar, mean, and vain! But who can undertake the Theme Except those Bards alone, Those Swans, who on the Banks were hatch'd Of Avon or of Tone? Not Hermes could his Language speak; Nor Phœbus paint his mien; Unless they've drunk the Cackagee, A very excellent Species of Cyder peculiar to some of the Western Parts of England. Or Ale of Taunton Dean: “What Lanlord! zure I be main glad “To zee thee look so sprack “In theesome starving Times, enough “To break a Bodys back!— “What, John! says I,—aye, JAHN, quoth He, “YOUR WORSHIP cal'd by zome; “From Brother Justice Crab's, thick morn “I now be riding whome. “A pow'r of Business there—we've zent “Three hungry Rogues to Jail, “Such lazy stubborn Twoads, not one “Would either list or bail: “Pleague on all Women Volk!—what Sights “Of Small-bones we have had! “'Tis theesome Soldiers, I do think, “Meake all the Wenches mad; “Like Leadies now, forsooth, they wear “So loose their undercoats, “And al for Vashion's sake shove up “Their Girdles to their throats, “That while so desp'rately they fear “Zome mischief may befal “Their upper Works,—their lower Tier “Ha' no Defence at al— “But, Lanlord, it be Dinner time, “Do teake with me your fare, “I lives nigh-handy to the Road, “You'll meet our Parson there:” Thought I, thou art so strange a Fish, Such food for Mirth must give, I'll go with thee, since thou'rt a Squire, And learn how Squires should live: So on we jogg'd, He growling o'er The Taxes and the Times, I thinking how to bring Him forth, And hitch Him into Rhymes: And now arriv'd, the Vicar bow'd, A busy buxom Maid, Like Hebe plump, though not so fair, His dirty Cloth display'd: “You teake me at a Pinch,” He cries, “My Clerk be gone to Stable, “I hopes you'll pardon it for once “If Jenny weat at Table;” The Dinner came, and when the Squire His Pudding had cram'd down, And Bullock's Heart (as soft, I deem, And tender as his own) “Come Jenny, vetch zome Drink,” He says, “Here teake the Cellar Key, “Bring us”—then whisper'd in her Ear, “Strong Beer will do for we:” Away went Jenny in a Trice Delighted with her Errand; But soon it did repent Him sore He'd issued such a Warrant; For Jenny had a generous Soul Which Love did so enlarge, She gave her Sweethearts all She could Of all She had in Charge. And much She wish'd that Dick, my Groom, Whose Looks She fondly view'd, Might for her Master's Credit taste The Liquor She had brew'd: But little Time, and little Cause Had Jenny to rejoice, For soon upon the Cellar Stairs She heard her Master's Voice, “Why Jenny, now, where bee'st”—“an please “Your Worship, I be here, “Just coming up—but first I'll have “One Bottle of your Beer, “That Beer, I brew'd when thou wast made “A Justice, and was sworn, “The same your Worship's pleas'd to call “Your SIR JOHN BARLEYCORN.” So said, the List from off her Hose With eager Haste she drew, Seiz'd on Sir John, and round his Neck Tied fast the Cordon bleu; Then round her Jumps, beneath her Clothes The jolly Knight She slung, Where, dingle dangle, sus: per Col: He like a Hero swung: And thus invested in due form, By Right of female Charter, Made Sir John Barleycorn A KNIGHT COMPANION OF THE GARTER: And when with Looks demure She'd brought The Liquor to our Host, “Come, Gentlemen, let's drink,” He cries, “I'll gee ye both a Twoast; “Here's that the Devil may teake the Vrench “That meake us al so poor, “No Tax, no 'Xcise, no pleaguy brats “To croud a Bodys Door: “Now, Doctor, yours,”—“may good Men ne'er “From sad Experience know “The Want, the Drudgery, and Scorn “Poor Parsons undergo;” “True,” says the Squire, and true it was, For oft' when warm'd with Liquor He'd blurt his rude indecent Jests To gird his worthy Vicar: “Come, Lanlord, now it be thy Turn, “Let's have a Twoast from thee, “Thou bee'st a Scholard I have heard, “Our Wits must needs agree:” I seldom o'er my Glass, says I In Toasts my thoughts impart, Yet one I'll give, that must be dear To every British Heart; “God save the King, our Lives, and Laws: “May all Dissensions cease: “May Plenty smile: successful War, “Or honourable Peace.”— But Jenny other Cares engag'd; For now beneath her Hip From off her Jumps, for Lack of Peaks, Sir John began to slip: And oft' she strove to heave Him up; She strove but all in vain; No sooner had She heav'd Him up, But down He slipt again: 'Till warm'd at length, and fretful grown In such vile Durance bound, He with one dreadful Bounce let fly, And delug'd all the Ground: “Heav'n guard us all,” the Vicar cries, “An Earthquake sure is near!” “Nah—'twas a Bistol,” says the Squire, “The Bal did graze my Ear:” But soon He mark'd poor Jenny's Face, While hast'ning to the Door, He mark'd the List and Bottle too She dragg'd along the Floor; “Bear Witness, Gentlemen,” he cries, “I've caught Her in the manner: “I'll zend the thievish Twoad to Jail— “I'll ha' no mercy an Her:”— But Jenny, though at first dismay'd, Recovering from her fright, Made strange mysterious Signs that seem'd To cool this angry Wight, Who silent stood, and roll'd his Eyes, Like some half-witted Elf, That's magnetiz'd, forsooth, by one More foolish than himself, Then certain Words of dire Import, She whisper'd in his Ear, Words that had Wings, and flew surcharg'd With Shame, Remorse, and Fear: She spake of things which (since I've heard) To Small-bones appertain'd, Those pleaguy Brats, of which so much His Worship had complain'd: He all indignant sat Him down, And thoughtful stamp'd the floor, Like Poet d?mn'd, or Courtier rump'd, “And Word spake never more—” But I such tragicomick Scenes No longer wish'd to view, So shook the Vicar by the Hand, And bad the Squire adieu— And while revolving what had pass'd My Journey I pursu'd, Methought, of Aspect fierce and bold A female Form I view'd: A Scourge She held, and (strange to tell) Would quit the flow'ry Mead O'er Thorns, and Briers, and miry Ways To urge her fretful Steed; Her atrabilious Face appear'd With Gall bespatter'd o'er, And at her Back a Quiver fraught With pointed darts she bore: I shrunk at her Approach—when thus In angry Tone She said, “Thou from that wretched Squire's art come, “'Twas I thy Visit sped: “Know, Sir, that Satire is my Name, “To Phœbus I belong, “The ugliest, but most admir'd “Of all th'Aonian Throng: “'Twas I that sent you there, in hopes “You'd more severely flog “That overbearing Churl, that vile “Monopolizing Dog, “Who spreads Distress and Famine round, “And all his thoughts employs “To wrest from helpless, needy Hands, “That Wealth He ne'er enjoys: “Oft' have I mark'd his odious Face, “While on the Bench He sits, “And punishes and hears those Crimes, “He every Day commits: “I long'd in Chains of lofty Verse “To hang Him up to View, “But curse the Hour I set to work “So vile a Bard as you: “While I, and all our vocal Choir “On meager Broth are fed, “Nor e'en Apollo's self disdains “To eat Potato Bread, “Thou'rt laughing all the Time, no Spleen, “No Malice hast in store “Go—to soft Ditties tune thy Lyre, “And see my Face no more.” FINIS.</field>
+   </doc>
+</add>

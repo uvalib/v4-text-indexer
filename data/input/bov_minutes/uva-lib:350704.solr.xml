@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1950's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2006_10/uvaGenText/tei/bov_19500120.xml</field>
+      <field name="date_indexed_facet">201909240346</field>
+      <field name="date_text">January 20, 1950</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:350704</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. January 20, 1950</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  January 20, 1950</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  January 20, 1950</field>
+      <field name="year_display">January 20, 1950</field>
+      <field name="year_facet">1950-01-20</field>
+      <field name="year_multisort_i">1950</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:350704&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:350704&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. January 20, 1950&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;January 20, 1950&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1950-01-20&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;January 20, 1950&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Official minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;4 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1950-01-20&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 23 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">20 January 1950 The regular monthly meeting of the Board of Visitors of The Rector and Visitors of the University of Virginia was held on this date in the Office of the President of the University of Virginia, Charlottesville, Virginia, with the following present: The Rector, Barron F. Black; President Colgate W. Darden, Jr., of the University of Virginia; Dr. M. L. Combs, President of Mary Washington College; Visitors Anderson, Carrington, Gay, Mears, Smith, Wailes, and Willis. Absent: Visitors Barksdale, Garnett, Gravatt, Howard, and Talbott. The minutes of the meeting of December 9, 1949, which had been copied and mailed to the members, were approved. DEATH OF DR. TROUT Dr. Hugh H. Trout, Sr., member of the Board of Visitors since June 8, 1946, died on January 13, 1950. The Rector was requested to appoint a committee to draft a resolution expressing the Board's sorrow at the death of Dr. Trout. Mr. Gay, Chairman, Mr. Carrington, and Judge Barksdale were appointed GIFTS The President announced receipt of the following gifts. From Mr. Clifton Waller Barrett, toward the purchase of Thomas Jefferson's Prayer Book and three Jefferson manuscripts $1,000.00 From Dr. F. H. McGovern, to be used by the Medical School Library for the purchase of books on otolaryngology and ophthalmology 250.00 From the Meek Foundation, for the restoration of the Squash Courts 500.00 From the National Research Council, the balance of a grant for translation of a Japanese text on aviation psychology, under the direction of Dr. Frank A. Geldard 500.00 From the estate of the late Malcolm Griffin, representing a further distribution of the estate 1,000.00 DEATH OF DR. RUSHTON AND DR. GRAHAM Dr. Urban Joseph Peters Rushton, Assistant Professor of English and Assistant Dean of the College and of Students, who had been on the staff of the University since 1940, died December 27, 1949. Dr. William Patton Graham (retired), former Professor of Romance Languages, died December 31, 1949 LEAVE OF ABSENCE The following resolution was adopted RESOLVED that Dr. Louis O. Quam, Associate Professor of Geography, be and he is hereby granted leave of absence for the second semester of the session of 1949-50, to be civilian chief in the Office of Naval Research, department of geography. PROMOTIONS Upon recommendation of the President, the following promotions were approved. Mr. James Myers Mullendore, Assistant Professor of Speech, promoted to Associate Professor of Speech, effective July 1, 1950. He has been on the staff of the University since July 1, 1945. Dr. Everett Cousins Cogbill promoted from Acting Assistant Professor of Chemistry to Assistant Professor of Chemistry, effective January 1, 1950. ELECTIONS Upon recommendation of the President, the following elections were approved. Dr. Joseph Forde Anthony McManus elected Associate Professor of Pathology, effective July 1, 1950, at a basic salary of $7,500 from the University. Dr. Eric Fischer elected Lecturer in Geography for the second semester of the session of 1949-50 at a salary of $900, and also elected Lecturer in Foreign Affairs for the second semester of the session of 1949-50 at a salary of $900. Dr. Julian R. Beckwith elected Lecturer in Internal Medicine, effective February 1, 1950, at no salary from the University. Dr. Charles V. Crittenden elected Lecturer in Geography for the second semester of the session of 1949-50, at a salary of $1,500. Mr. John C. Coleman elected Instructor in English for the second semester of the session of 1949-50, at a stipend of $1,500 for the semester. UNCOLLECTIBLE HOSPITAL ACCOUNTS The following resolution was adopted. RESOLVED that the Hospital Accounts Committee be and is hereby authorized to charge off as uncollectible, hospital accounts schedules 98, 99, and 100, aggregating $7,003.33, recommended by them for cancellation. CHANGE IN TITLE OF SCHOOL OF ANCIENT LANGUAGES The following resolution was adopted. RESOLVED that, on recommendation of the University Senate, the name of the School of Ancient Languages be changes to that of The School of Classics. ADMIRAL HALSEY TO LEAVE The President presented a letter from Admiral William F. Halsey stating that he was leaving Charlottesville and would be unable to assist any further in the work of the Development Fund. "FOUR ACRES" A resolution was adopted authorizing the University to offer "Four Acres" to Mr. Hunter Perry at the original purchase price plus the cost of improvements. Should Mr. Perry not wish to repurchase the property, it is to be placed on the open market. ASSIGNMENT OF GRADUATE HOUSE AND THE MEWS The future assignment of the Graduate House and The Mews was referred to the Buildings and Grounds Committee, with the request that they consult Professor E. S. Campbell in arriving at a decision as to the future assignment of these two buildings. TAXATION OF STUDENTS Mr. W. Allan Perkins, Attorney for the University, presented a resolution of the Board of Supervisors of Albemarle County, adopted January 12, 1950, as set forth below. "WHEREAS, strict interpretation of the provisions of the Tax Code of Virginia would require the listing and assessing of a great amount of tangible personal property in the County from which tax revenue, if collected, would not justify the added expense in assessing and in the effort to collect; AND WHEREAS, this Board has no desire to adopt toward students of the University of Virginia a policy of taxing their property that differs from the policies generally pursued in other localities of this State in which educational institutions are situated and the property of the students involved; BE IT RESOLVED, therefore that the Tax Officials of the County of Albemarle be and they are requested to observe these outlines of policy in the assessment and taxation of tangible personal property belonging to students of the University of Virginia, as well as others." The Rector was requested to write to the Board of Supervisors of Albemarle County, expressing the University's appreciation for the action taken at the special meeting on January 12, 1950. The Secretary was asked to secure a copy of this letter and to spread it on the minutes of this meeting. January 24, 1950 C. Purcell McCue, Esq. Chairman, Albemarle County Board of Supervisors Greenwood, Virginia Dear Mr. McCue: At the last meeting of the Board of Visitors of the University of Virginia, there was read to the Board the resolution passed by the Board of Supervisors of Albemarle County on the taxation of students of the University of Virginia. Our understanding was that this resolution was passed by your Board on January 12, 1950 There was considerable favorable comment from members of the Board when this resolution was passed, and our Board, by proper vote, directed me as Rector of the Board, to write to you a letter in which we expressed our gratification at the passage of the resolution by your Board. We feel that the passage of this resolution is a real indication of the desire of the authorities of Albemarle County to cooperate with the University and to further the interests of the students of the University. May I add my personal congratulations to you and the members of your Board for the handling of a problem, the difficulties of which we entirely appreciate. Cordially yours, (s) Barron F. Black Rector MEDICAL COMMITTEE The Rector announced the appointment of Mr. Christopher B. Garnett as Chairman of the Medical Committee, succeeding Dr. Trout, who died this month. The Board requested the Medical Committee to study the Blue Cross contract of the University Hospital. ENGINEERING ALUMNI ASSOCIATION The President presented a request from the recently organized Engineering Alumni Association for financial assistance. The following resolution was adopted. WHEREAS, it has come to the attention of the Board of Visitors of the University of Virginia that interested alumni of the Department of Engineering of the University of Virginia met in June, 1949, elected officers and initiated a program designed to establish and develop a permanent association of the alumni of the Engineering School of the University, and WHEREAS, the Board of Visitors believes that the establishment of a permanent association of the engineering alumni of the University of Virginia will afford enlarged opportunity for its members to render constructive and valuable service to the University and particularly to the Engineering School; Now, therefore, upon the request of the officers of said association, elected as above mentioned, and in order to encourage this endeavor and to foster its success, Be it resolved that, in the event the dues and other contributions coming into the hands of those who have taken the responsibility of developing and establishing said association of engineering alumni shall not be sufficient to meet the expenses incident thereto, the Board of Visitors doth agree to make available from proper funds under its control, the sum of not exceeding Three Hundred Fifty Dollars ($350.00) for any deficiency of expenses incurred by the officers of said association as aforesaid for the year January 1, 1950 through December 31, 1950. ATHLETICS The following resolution was adopted. BE IT RESOLVED that the President be authorized, with the assistance of Captain Norton G. Pritchett, to open negotiations with our football coaching staff, looking toward the signing of appropriate contracts. MARY WASHINGTON COLLEGE MATTERS LEAVE OF ABSENCE The following resolution was adopted. RESOLVED that the request of Dr. E. Boyd Graves, Associate Professor of Philosophy, for an extension of his leave of absence until June 1950, be and the same is hereby granted. ELECTION The following resolution was adopted. RESOLVED that Mr. Teun Don be and he is hereby elected Visiting Instructor in Piano and Voice at Mary Washington College, incumbency to begin January 3, 1950, with the provision that the responsibility for his salary be assumed by friends of Mr. Don and of the college. CONTRACT FOR NEW INFIRMARY Dr. Combs stated to the Board that on January 3, 1950, sealed bids were received for the construction of the new infirmary building and certain equipment. A tabulation of the base bids received is shown as follows For Building: R. H. Wattinger $231,000.00 Southeastern Construction Company 243,300.00 Blackwell Engineering Company 252,500.00 C. Elmo Nuckols 257,000.00 For Metal Cabinets: Fred G. Todman Company 10,612.60 Art Metal Construction Company 11,810.00 Kewaunee Manufacturing Company 13,653.25 Flowers School Equipment Company 20,073.85 For Sterilizers: Ohio Chemical &amp; Manufacturing Company 1,987.42 American Sterilizer Company 2,316.10 For Kitchen Equipment: Federal Manufacturing Company 7,369.00 The Straus Company 7,497.00 Atlantic Equipment Company 7,984.40 Sheris Company 8,278.00 Our architects concur in the following recommendations that contracts be awarded to the following. Building: R. H. Wattinger, Richmond, Virginia $231,000.00 Metal Cabinets: Art Metal Construction Company 11,810.00 Sterilizers: American Sterilizer Company 2,316.10 Kitchen Equipment: It is recommended that no award be made for kitchen equipment at this time and new bids will be received at a future date. The total cost of this building and the proposed equipment, including architects' fees, amounts to approximately $266,500.00. The State appropriation is approximately $158,837.00. We propose, therefore, to provide the additional funds from the bond issue previously approved by the Board. Letters of recommendation from the architects are submitted herewith as a basis for the awards of these contracts. The following resolution was adopted. RESOLVED that the President of Mary Washington College be and he is hereby authorized to award and execute contracts to R. H. Wattinger, $231,000.00, for the Infirmary Building, to Art Metal Construction Company, $11,810.00, for metal cabinets; to American Sterilizer Company, $2,316.10, for sterilizing equipment; and that all bids for kitchen equipment be rejected. SUBSCRIPTION DANCE DISAPPROVED A motion was passed to deny the request of Kenmore Foundation for permission to hold a subscription dance at Mary Washington College. - - - On motion the meeting then adjourned. Barron F. Black Rector Vincent Shea Secretary</field>
+      <field name="fulltext">January 24, 1950 C. Purcell McCue, Esq. Chairman, Albemarle County Board of Supervisors Greenwood, Virginia Dear Mr. McCue: At the last meeting of the Board of Visitors of the University of Virginia, there was read to the Board the resolution passed by the Board of Supervisors of Albemarle County on the taxation of students of the University of Virginia. Our understanding was that this resolution was passed by your Board on January 12, 1950 There was considerable favorable comment from members of the Board when this resolution was passed, and our Board, by proper vote, directed me as Rector of the Board, to write to you a letter in which we expressed our gratification at the passage of the resolution by your Board. We feel that the passage of this resolution is a real indication of the desire of the authorities of Albemarle County to cooperate with the University and to further the interests of the students of the University. May I add my personal congratulations to you and the members of your Board for the handling of a problem, the difficulties of which we entirely appreciate. Cordially yours, (s) Barron F. Black Rector</field>
+   </doc>
+</add>

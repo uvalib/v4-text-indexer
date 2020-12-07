@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Mary Austin</field>
+      <field name="author_facet">Mary Austin</field>
+      <field name="author_sort_facet">mary austin</field>
+      <field name="author_text">Mary Austin</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">legacy/uvaBook/tei/AusHunt.xml</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Online Texts</field>
+      <field name="digital_collection_text">Online Texts</field>
+      <field name="format_facet">Online</field>
+      <field name="full_title_text">Hunting Weather.</field>
+      <field name="id">uva-lib:476673</field>
+      <field name="langauge_display">English</field>
+      <field name="langauge_facet">English</field>
+      <field name="langauge_text">English</field>
+      <field name="location_facet">Internet materials</field>
+      <field name="main_title_display">Hunting Weather.</field>
+      <field name="note_display">Print copy consulted: UVa Library Copy AP 201 .S3</field>
+      <field name="note_display">St. Nicholas: An Illustrated Magazine. Vol. 30 No. 12 (October 1903). p. 1115.</field>
+      <field name="note_text">Print copy consulted: UVa Library Copy AP 201 .S3</field>
+      <field name="note_text">St. Nicholas: An Illustrated Magazine. Vol. 30 No. 12 (October 1903). p. 1115.</field>
+      <field name="repository_address_display">http://fedora-prod02.lib.virginia.edu:8080/fedora</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">UVA Library Digital Repository</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="heading_text">HUNTING WEATHER.</field>
+      <field name="fulltext">— BY MARY AUSTIN. —</field>
+      <field name="fulltext">Digital image of poem</field>
+      <field name="fulltext">W HEN misty, misty mornings come, When wild geese low are flying, And down along the reedy marsh The mallard drakes are crying; When cattle leave the highest hills, And blackbirds flock together— By all these signs the hunter knows Has come good hunting weather.</field>
+      <field name="title_display">Hunting Weather.</field>
+      <field name="title_facet">Hunting Weather.</field>
+      <field name="title_sort_facet">hunting weather</field>
+      <field name="title_text" boost="1.0">Hunting Weather.</field>
+      <field name="year_display">1903-10</field>
+      <field name="year_multisort_i">1903</field>
+   </doc>
+</add>

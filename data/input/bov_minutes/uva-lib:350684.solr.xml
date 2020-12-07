@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1940's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2006_10/uvaGenText/tei/bov_19480317.xml</field>
+      <field name="date_indexed_facet">201909240346</field>
+      <field name="date_text">March 17, 1948</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:350684</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. March 17, 1948</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  March 17, 1948</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  March 17, 1948</field>
+      <field name="year_display">March 17, 1948</field>
+      <field name="year_facet">1948-03-17</field>
+      <field name="year_multisort_i">1948</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:350684&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:350684&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. March 17, 1948&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;March 17, 1948&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1948-03-17&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;March 17, 1948&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Official minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;2 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1948-03-17&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 12 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">17 March 1948 On call of the Rector, a special meeting of The Rector and Visitors of the University of Virginia was held on this date at 10:00 a.m. in the office of Mr. Thomas B. Gay in Richmond, Virginia, with the following present: The Rector, Edward R. Stettinius, Jr.; President Colgate W. Darden, Jr., of the University of Virginia; Visitors Anderson, Garnett, Gay, Mears, Miller, and Willis. Absent: Barksdale, Black, Calcott, Carrington, Combs, Trout, and Wailes. Guests were Mr. John Price Jones, Mr. B. J. Powell-Tuck, and Admiral William F. Halsey. The Rector stated that the purpose of the meeting was to consider whether or not, in view of world conditions, the opening date of the Development Fund drive, set for April 22, should be postponed. He stated that according to best estimates there will be during the next six months about twenty billion dollars of new purchasing power through: - (1) Tax reduction 4½ billions (2) Wage increases 6 billions (3) Rearmament program 5 billions (4) European Recovery Program 5 billions 20½ billions He believes the confusion in international affairs, i.e., the Italian election on April 18, makes it inadvisable to start the drive at the time scheduled. He recommends that the campaign be postponed until after the presidential election next fall and that we should in the meantime reduce the overhead of the fund-raising program, retaining Mr. Powell-Tuck of the John Price Jones Corporation with a skeleton staff until Fall. Mr. John Price Jones stated that the University has begun a project that cannot be abandoned. He believes it is fundamental to the success of the drive that larger gifts be solicited before the general drive is started. He referred to the fact that in 1924 when taxes were reduced after the first World War, gifts to institutions increased substantially. Changes in the tax laws expected to pass Congress this spring should assist the drive. Mr. Gay pointed out that we have a large investment in this campaign; how could we, without "losing face," postpone the campaign? Mr. Jones brought to the attention of those present the fact that a large part of the campaign cost has already been expended. Mr. Anderson stated that he believed we should go forward with plans for the campaign. In his opinion we have built up a potential upon which we should attempt to realize. Mr. Jones offered the suggestion that we should concentrate on big gifts which beget small gifts, which in turn stimulate more large gifts. Mr. Stettinius said he believed we should think of the drive as a continuing operation, and that we should maintain a permanent office separate from the Alumni Office. Mr. Gay pointed out that we must be concerned with two factors - the psychological and the financial. He brought up the question of how we could maintain a complete, all-out program without requiring a continuation of the present budget expense. Mr. Jones said it would be possible to cut the budget and at the same time continue the program with no letup. He stated that the effort is of two kinds - that by local chairmen, and solicitations by President Darden, Mr. Stettinius, and Admiral Halsey of large gifts. Mr. Jones stated that he is most interested in the solicitation of corporate gifts within the State. The Executive Committee of the Development Fund, consisting of Mr. F. D. G. Ribble, Mr. William S. Hildreth, and Mr. T. M. Carruthers, was invited to join the meeting. President Darden asked the meeting to give consideration to his suggestion that the drive be a continuing one. He stated that, "Virginia is an agricultural state. With farm prices turning downward, now is the time to approach the small donors in Virginia. The large givers can be solicited over an extended period by the President, Rector, and Admiral Halsey. If Russia backs down after hearing President Truman's statement to Congress today, we will probably win in Italy. I am wondering if it wouldn't be well to wait until the returns are in from the Italian elections. We can then decide, and if necessary send telegrams canceling the drive." Admiral Halsey stated he believes our organization is well established all over the country and he is inclined to agree with the Rector that the Board should take action today to postpone the drive for the present. He does not believe the drive could be called off between April 18 and 22. Mr. Hildreth suggested the setting of an opening date around May 1. Mrs. Willis and Mr. Mears expressed themselves as being in favor of deferring the campaign for the present. Mr. Ribble suggested that a tentative date in May be set. Mr. Powell-Tuck expressed the view that if the campaign were not to be held in April as originally scheduled, it should be postponed until Fall. He stated that at least thirty days were needed for planning a nationwide dinner. Mr. Tyler Miller favored postponing the campaign until May. Mr. Anderson stated that he was disposed to continue present plans, canceling them at the last minute if necessary. If we got a favorable election in Italy we should go ahead. He stated that he preferred two campaigns rather than one. Mr. Garnett said he believed the campaign should wait until conditions are more settled. Admiral Halsey stated that he believes postponement would cause deflation in alumni enthusiasm. Mr. Powell-Tuck stated that the present budget of $82,000 for March 20 through July 3 could be reduced to $35,000. Mr. Jones advised that the drive be started as planned, with the actual time left to the Executive Committee. The Board then went into executive session. Mrs. Willis proposed that the decision of whether or not to postpone the campaign until a later date be left to the Executive Committee, and Mr. Anderson supported this proposal. Mr. Stettinius re-stated his opinion that this is a bad period and the campaign should be postponed. He moved that the Board do three things: 1. Rescind action approving the $82,000 budget. 2. Authorize the Development Fund Committee of the Board of Visitors, in conference with the Executive Committee of the Development Fund, to decide in view of world conditions when to start the campaign. 3. Direct the Executive Committee to work out a new contract with the John Price Jones Corporation and a new budget, with authority to negotiate the new contract. The foregoing motion made by the Rector was passed. The meeting was then adjourned. For Edward R. Stettinius, Jr. by Barron F. Black Rector Vincent Shea Secretary</field>
+   </doc>
+</add>

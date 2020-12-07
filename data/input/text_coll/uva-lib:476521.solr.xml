@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Anonymous</field>
+      <field name="author_facet">Anonymous</field>
+      <field name="author_sort_facet">anonymous</field>
+      <field name="author_text">Anonymous</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1910's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/WhaR2Ef.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">1911</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476521</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Ethan Frome in: Current Fiction</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">Ethan Frome in: Current Fiction</field>
+      <field name="title_facet">ethan frome in current fiction</field>
+      <field name="title_sort_facet">ethan frome in current fiction</field>
+      <field name="title_text">Ethan Frome in: Current Fiction</field>
+      <field name="year_display">1911</field>
+      <field name="year_facet">1911</field>
+      <field name="year_multisort_i">1911</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476521&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476521&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Anonymous&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;anonymous&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Ethan Frome in: Current Fiction&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;ethan frome in current fiction&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1911&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1911&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Anonymous&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Ethan Frome in: Current Fiction.&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;1st Edition.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1911&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York, N.Y.&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;New York Evening Post Company&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1911&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;UVa ed. AP2.N2&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Ethan Frome&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 11 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Ethan Frome. By Edith Wharton. New York: Charles Scribner's Sons. More than ten years ago Mrs. Wharton published a short story called «The Duchess at Prayer.» Since that time we have cherished an estimate of her powers which no intermediate accession to her repertory has raised, nor even, to speak truth, quite justified. Practised, cosmopolitan, subtle, she has seemed, on the whole, to covet most earnestly the refinements of Henry James. In spite of her habit of a franker approach, her consistent rating of matter above manner, and the gravitation — we should hesitate to say transfer — of her interest from exotic to native themes; we might have been reasonably content to rank her as the greatest pupil of a little master, were it not for the appearance of «Ethan Frome.» This startling fulfilment recalls not only the promise of the early story, but its revelation of a more potent influence — the inspiriting example of a greater novelist to whom Mr. James's devoirs have been paid in the phrase, «The master of us all.» Exactly how much the inception and execution of «The Duchess at Prayer» owed to Balzac's «La grande Breteche» is beyond our present point, which is, specifically, that the excellence of Mrs. Wharton's work in this case outstripped the charge of imitation, and allied her with that company of splendid talents whom neither magnificence nor the catastrophes of passion can abash. There is certainly no imitative strain in «Ethan Frome.» The style is assured and entirely individual, the method direct and firm in its grasp upon substantial fact. Yet here is the companion-piece to the «Duchess,» a variation upon the same theme of triumphant malice and tortured love, evoking the same emotions. And here as there the genius of a place presides, and the scene and the hour conspire to meet the racial temper. But there is this great difference: in the place of sumptuous memories, decaying under the sultry oppression of Italian noon, she was, at heart, a stranger; whereas she writes now of New England as one writes of home, plainly, and with a wealth of understanding and familiar allusion. Even the arrangement of the narrative is designed to fit the life described and its probabilities rather than to satisfy any precious scruples. A winter-bound stranger in an out-of-the-way Massachusetts hamlet recognizes in the limping figure of Ethan Frome the «ruin of a man,» and apprehends some singular misfortunes behind his obvious plight. The sparse comment of a community respectful of privacies and little indulgent to curiosity yields but scanty information. Out of the native's penury come at length hours of enforced companionship, the daily rides to the station during which «Frome drove in silence, the reins loosely held in his left hand, his brown, seamed profile, under the helmet-like peak of the cap, relieved against the banks of snow.» «It was that night,» explains the visitor, «that I found the clue to Ethan Frome, and began to put together this vision of his story.» Such an approach could not be improved, forbearing, as it does, to violate the seal of silence; nor could, we think, the conclusion of village confidences be spared, with its ultimate breaking down of reserve between the initiated, its natural cadence of secret curiosity, and its softening echo of unavailing human sympathy. Surely, the melancholy spirit that haunts the remoter byways of rural New England has entered into this chronicle; over all its scenes breathe the benumbing and isolating rigors of her winters, a sense of invisible fetters, a consciousness of depleted resources, a reticence and self-contained endurance that even the houses know how to express, retired from the public way, or turned sideways to preserve a secluded entrance. Yet it is with a softly-breathed strain of native romance that the drama opens. As well try to transplant arbutus from its native habitat as to dissociate this exquisite burgeoning of passion from its homely circumstances and the inflexible trammels of a local speech meant for taciturnity rather than expression. Thriving on meagre opportunities and pleasures — the coasting, the picnic, the walk home from the «church sociable» — and on the sharing of frugal household cares, the love between the young farmer and the little dependent who inefficiently «helped» in his home, spread like a secret flowering too innocent and too fragrant to escape the wife's malicious eye. The brave and fragile figure of Mattie Silvers is not an idealized one, although this is the type of New England girlhood whose modesty and touch of fairy grace have been the subject of much poetry. The wife who stands for fate in this drama is a curious and repugnant figure. She introduces the same vein of close-mouthed malignity which darkens local history. The helpless fear and loathing she inspires in her husband is the essence of supernatural terror without its obsolete husk of ignorance. By showing this instance of a hypochondriac roused by jealousy out of a «sullen self-absorption» and transformed into a mysterious alien presence, an evil energy secreted from the long years of silent brooding, Mrs. Wharton touches on a very radical identity. We realize that the same gloating satisfaction that made the wife smile upon the parting lovers, had something to do with her capabilities as a nurse. Her pleasure at the sight of pain she had inflicted — was it, perchance, from such an evil spring that her strength was drawn for the long years of drudgery between two cripples? No hero of fantastic legend was ever more literally hag-ridden than was Ethan Frome. The profound irony of his case is that it required his own goodness to complete her parasitic power over him. Without his innate honesty and his sense of duty he could have escaped her demands and her decrees, refused the money for her nostrums and «doctor books,» followed the vision of a new free life «out West.» In his submission to obligation and in his thwarted intellectual aspirations he typifies the remnant of an exceptional race whose spiritual inheritance has dwindled amid hard conditions until all distinction is forfeited except that of suffering; but which still indicates its quality, if only by its capacity for suffering. The wonder is that the spectacle of so much pain can be made to yield so much beauty. And here the full range of Mrs. Wharton's imagination becomes apparent. There is possible, within the gamut of human experience, an exaltation of anguish which makes a solitude for itself, whose direct contemplation seals the impulse of speech and strikes cold upon the heart. Yet sometimes in reflection there is revealed, beneath the writhing torment, the lineaments of a wronged and distorted loveliness. It is the piteous and intolerable conception which the Greeks expressed in the Medusa head that Mrs. Wharton has dared to hold up to us anew, but the face she shows us is the face of our own people.</field>
+   </doc>
+</add>

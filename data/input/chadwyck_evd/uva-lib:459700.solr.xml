@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Clarendon Press</field>
+      <field name="author_facet">Clarendon Press</field>
+      <field name="author_sort_facet">clarendon press</field>
+      <field name="author_text">Clarendon Press</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.1071.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1885</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459700</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Playsterers ; II. The Creation, to the fifth day</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Playsterers ; II. The Creation, to the fifth day</field>
+      <field name="title_facet">playsterers</field>
+      <field name="title_sort_facet">playsterers</field>
+      <field name="title_text">Playsterers ; II. The Creation, to the fifth day</field>
+      <field name="year_display">1885</field>
+      <field name="year_facet">1885</field>
+      <field name="year_multisort_i">1885</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459700&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459700&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Playsterers ; II. The Creation, to the fifth day&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;playsterers&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1885&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1885&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Playsterers&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;II. The Creation, to the fifth day&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Oxford&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Clarendon Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1885&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873656-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv11071&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Playsterers&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;II. The Creation, to the fifth day&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 20 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and editorial matter including introduction and glossary omitted.&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Source texts incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The playsterers.</field>
+      <field name="desc_meta_file_display">Genre: English mystery and miracle plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1475 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1352–1376 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">II. PLAYSTERERS. The Creation, to the fifth day. Square brackets represent sections of text unclear or absent in the original and supplied by the current editor</field>
+      <field name="fulltext">[PERSON OF THE PLAY. Deus.]</field>
+      <field name="fulltext">[Scene, The New World.] Deus. In altissimis habito, in the heghest heuyn my hame haue I, Eterne mentis &amp; ego, withoutyn ende ay lastandly. Sen I haue wroght þire worldys wyde, heuen and ayre and erthe also, My hegh godhede I will noght hyde, all yf sume foles be fallyn me fro. When þai assent with syn of pride, vp for to trine my trone vnto, In heuen þai myght no le[n]gger byde, but wyghtly went to wone in wo; And sen þai wrange haue wroght, my likes to lat þam go, To suffir sorowe on soght, syne þai haue seruid so. Þare mys may neuer be amendid sen þai a-sent me to forsake, For all þere force non sall þame fende for to be fendys foule &amp; blake. And þo þat lykys with me to lende, and trewly tent to me will take, Sall wonne in welth withoutyn ende, and all-way wynly with me wake. Þai salle haue for þare sele solace þat neuer sall sclake. Þis warke me thynkys full wele, and more now will I make. Syne þat þis world es ordand euyn, furth well I publysch my powere, Noght by my strenkyth but by my steuyn, a firmament I byd apere; Emange þe waterris lyght so leuyn, þere cursis lely for to lere, And þat same sall be namyd hewuyn, with planitys and with clowdis clere. Þe water I will be set to flowe bothe fare and nere, And þan þe firmament, in mydis to set þame sere; Þe firmament sal nough[t] moue, but be a mene, þus will I mene, Ouir all þe worlde to halde and houe, And be you tow wateris be-twyne. Vndir þe heuyn, and als a-boue, þe wateris serly sall be sene, And so I wille my post proue, by creaturis of kyndis clene. Þis warke is to my pay righit well, withoutyn wyne, Þus sese þe secunde day of my doyngys bydene. Moo sutyll werkys asse-say I sall, for to be set in seruice sere; Alle ye wateris grete and smalle þat vndir heuyne er ordande here, Gose to-gedir and holde yow all, and be a flode festynde in fere, So þat the erthe, bothe downe and dale, in drynesch playnly may a-pere; Þe drynes ‘lande’ sall be namyd, bothe ferre and nere, And þen I name þe ‘se,’ geddryng of wateris clere. Þe erthe sall fostyr and furthe bryng, buxsumly as I wyle byde, Erbys and also othyr thyng, well for to wax and worthe to wede; Treys also þar-on sall spryng, with braunchis and with bowis on-brede, With flouris fayr on heght to hyng, and fruth also to fylle and fede. And þane I will þat þay of þem selfe haue þe sede, And mater þat þay may be lastande furth in lede. And all þer materis es in mynde, for to be made of mekyl might, And to be kest in dyueris kynde so for to bere sere burgvns bright. And when þer frutys is fully fynde, and fayrest semande vnto syght, Þane þe wedris wete and wynde oway I will it wende full wyght, And of þere sede full sone, new rotys sall ryse vp right. Þe third day þus is done, þire dedis er dewly dyght. Now sene þe erthe þus ordand es, mesurid and made by myn assent, Grathely for to growe with gres, and wedis þat sone away bese went, Of my gudnes now will I ges, so þat my werkis no harmes hent, Two lyghtis, one more and one lesse, to be fest in þe firmament; The more light to [the] day fully suthely sall be sent, Þe lesse lyght all-way to þe nyght sall take entent. Þir figuris fayre þat further sun þus on sere sydys serue þai sall, The more lyght sall be namid þe son, dymnes to wast be downe and be dale; Erbis and treys þat er by-gune, all sall he gouerne, gret and smale, With cald yf þai be closid or bun, thurgh hete of þe sun þai sal be hale. Als ye I haue honours in alkyn welth to wale, So sall my creaturis euir byde withoutyn bale. Þe son and þe mone on fayre manere, now grathly gange in ?our degre, Als ye haue tane ?oure curses clere to serue furth loke ye be fre, For ye sall set þe sesons sere, kyndely to knowe in ilke cuntre, Day fro day, and yere fro yere, by sertayne signes suthly to se. Þe heuyn sall be ouer hyld with sternys to stand plente. Þe furthe day his fulfillid; þis werke well lykys me. Now sen þir werkis er wroght with wyne, and fundyn furth be firth and fell, Þe see now will I set within whallis whikly for to dewell; And othir fysch to flet with fyne, sum with skale and sum with skell, Of diueris materis more and myn, in sere maner to make and mell; Sum sall be milde and meke, and sum both fers and fell, Þis world þus will I eke, syn I am witt of well. Also vp in þe ayre on hyght I byd now þat þore be ordande, For to be foulis fayre and bright, dewly in þare degre dwelland, With fedrys fayre to frast þer flight fro stede to stede where þai will stande, And also leythly for to lyght whore so þame lykis in ilke a londe. Þane fysch and foulis sere, kyndely I ?ow commande, To meng on ?oure mannere, both be se and sande. Þis materis more ?itt will I mende, so for to fulfill my for-thoght, With diueris bestis in lande to lende to brede &amp; be with bale furth brught: And with bestis I wille be blende serpentis to be sene vn-soght, And wormis vp-on þaire wombis sall wende, to wo in erth and worth to noght. And so it sall be kende how all þat eme is oght, Begynnyng mydes and ende I with my worde hase wrothe. For als I byde bus all thyng be, and dewly done als I will dresse; Now bestys ar sett in sere degre on molde to moue, both more &amp; lesse. Þane foulis in ayre, and fische in see, and bestis on erthe of bone and flesch, I byde ?e wax furth fayre plente, and grathly growes, als I ?ow gesse. So multeply ?e sall ay furth in fayre processe, My blyssyng haue ?e all; the fift day endyd es.</field>
+   </doc>
+</add>

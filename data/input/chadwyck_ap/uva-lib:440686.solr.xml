@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Tucker, St. George, 1752-1827</field>
+      <field name="author_facet">Tucker, St. George, 1752-1827</field>
+      <field name="author_sort_facet">tucker st george 1752 1827</field>
+      <field name="author_text">Tucker, St. George, 1752-1827</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1780's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ap/uvaGenText/tei/chap_AM1276.xml</field>
+      <field name="date_indexed_facet">201909240350</field>
+      <field name="date_text">1786</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey American Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey American Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:440686</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The knight and friars ; an historical tale</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">American poetry -- 1783-1850</field>
+      <field name="subject_text">American poetry -- 1783-1850</field>
+      <field name="title_display">The knight and friars ; an historical tale</field>
+      <field name="title_facet">knight and friars</field>
+      <field name="title_sort_facet">knight and friars</field>
+      <field name="title_text">The knight and friars ; an historical tale</field>
+      <field name="year_display">1786</field>
+      <field name="year_facet">1786</field>
+      <field name="year_multisort_i">1786</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:440686&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:440686&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Tucker, St. George, 1752-1827&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;tucker st george 1752 1827&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The knight and friars ; an historical tale&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;knight and friars&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1786&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1786&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Tucker, St. George&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1752&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1827&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The knight and friars&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;an historical tale&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed, Published and Sold at the Printing office [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1786&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3866247-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;cham1276&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;American poetry -- 1783-1850&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1783&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1850&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The knight and friars&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;an historical tale&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Alexandria, VA&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Inc.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 21 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-AmPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Risum teneatis! Hor. THE KNIGHT and FRIARS, In ancient days there liv'd a Knight, Of valour and renown, Whose sword was oft in battle stain'd, While Henry Henry V. wore the crown. This Knight did wed a lady fair, Right beautiful to see, With courteous air and winning smiles, For she from pride was free. Yet she was chaste as winter's snow, As spotless, too, her fame; Nor mought Mought, an old English word for—night. e'en slander aim a dart, Which ere could wound the dame. In wealth this Knight did eke abound, And in religion true, Wherefore he did resolve to build A church and convent too. Near to his house the convent stood, And there did dwell therein, Twelve Friars clad in sable gowns T' exclude—or cover sin. Among these twelve there happen'd twain Who did each other hate: Their rancour death could scarce subdue, As we shall soon relate. The first a sturdy Friar was, With rosy gills and cheek; Whose belly, like a pudding-bag, Was always round and sleke. This Monk—they Friar John did call. His adversaries name Was Friar Richard—and in sooth His size was much the same. Our Knight and lady every morn To matin song did wend, Wend—go. And through the Cloysters as they pass'd, Friar John would there attend. And to the lady duck'd Duck'd—bow'd—the word used in the history, and cring'd, While she a courteous smile Returning, made our Friar proud, And did his wits beguile. Estsoons Estsoons—forthwith. resolv'd his wretched plight And passion to declare, In gallant strain he doth indite A letter to the fair. This to her hand right secretly Our Friar did convey; Which she, disdaining his rude love, Shews to her lord straitway. “Now, quoth the Knight, you shall appoint A time and place to meet, Where trusty Ralpho and myself The amorous Monk will greet.” This said, the lady strait doth write And answer to the Monk, Whereat the jolly pious swain With joy was almost drunk. With musk and civet, scenting sweet, He doth himself perfume. And by the fair at dead of night Is led into her room. But ah! our Friar did not dream What he had now to dread, For there he found th' enraged Knight, With Ralph, behind the bed. In vain to deprecate his wrath, The wretched caitiff tries, Beneath the bed he meant to stain, He suffocated dies. Revenge thus sated, black remorse Doth speedily succeed; When thus the Knight bespeaks his man, The partner of his deed. Though just the vengeance I did take Upon this lustful elf, Yet much I dread great injury Therefrom, unto myself. Quoth Ralph, “This murder to conceal I have a clean device, Which with your aid to execute We'll manage in a trice. “Into the convent-garden strait The body we'll convey, Where found—Suspicion shall not turn Her hagard eyes this way.” This said, upon his brawny back He took the murder'd Friar, And bore him off, just as w' are told, Æneas did his fire. Then to the convent-garden-wall A ladder they applied, Ralph mounts with John, then deftly Deftly—dexterously. shifts The ladder t' other side. A temple in the garden stood For glutton friars meet, There Ralpho plac'd poor Friar John Upright upon the seat, And left him fitting in that plight: Thus having eas'd his mind; Remounts the wall, but in his haste The ladder leaves behind. Now Friar Richard on that night, A goodly supper made, Of lobster, crabs, and oyster pye, With eggs right newly laid. This sumptuous fare he did wash down With draughts of humming ale, Until, for want of further room, His appetite did fail. Then to his cell the Friar went, His wonted rest to take: But, ah! the Ferment in his guts Did soon his slumbers break. On every side opprest, in haste He to the temple hies; But sad mischance! upon the seat He Friar John espies. “Hoh! Friar John! make haste! he cried, I am in urgent need; And if you there much longer sit, I here must do the Deed.” Friar John sat still—but nothing spoke— As though he staid, in Jest; Whereat enrag'd, Friar Richard threw A stone full at his breast. Down tumbles Friar John, amain, From Cloacina's throne: Aghast, Friar Richard finds him dead, And thinks the deed his own. His late emergence now forgot, 'Midst terrors of his mind, Against the garden-wall he spied The ladder left behind. A sudden resolution now The cunning Friar takes, To place Friar John in porch of Knight Instead of filthy jakes. Jakes—a garden temple. Once more, see Friar John ascend The covent-garden-wall; Then Richard leaves him in the porch, At entrance of the hall. Meanwhile the Knight, whose conscious heart With guilt was sore opprest, Resummons trusty Ralph, to ask, If all were now at rest. Quoth Ralph—“I to the garden-wall To listen will repair.” But, passing through the porch, he found The Friar sitting there. Back to the Knight, with winged speed, He hies him through the Hall, And tells, how Friar John, again, Had climb'd the garden-wall. Quoth Knight—“If he so well can climb, He sure as well can ride; Therefore upon a horse's back We'll send him off astride.” This project honest Ralph approv'd, And from the stable brought A fiery stallion, which the Knight For feats of arms had bought. But first in armour, capapee, See Friar John array'd! Then, underneath the horse's breast, Secure his legs are made. With beaver up, and lance in hand, He sallies from the gate; Nor yet did sturdy Roan perceive His rider's lumpish weight. Here for a while the new made Knight, We leave with trusty Roan; Although our story won't permit Them long to be alone. Mean time, Friar Richard of his crime Full sorely did repent; But Dread of punishment much more His tortur'd bosom rent. “Ah! luckless wretch! thy well known spite Against poor Friar John, Shall bring thy horrid deed to light, And hang'd thoul't be anon.” Thus for a while the Monk bewail'd His sad impending fate; He must escape e're morning light, Or flight will be too late: But ah! with such a load of flesh His progress to impede, On foot it were a vain attempt: And where to find a Steed! But, in expedients fruitful still, He calls to mind a mare; On which the baker from the mill His meal was wont to bear. Estsoons, he to the baker hies, And on some slight-pretence, Obtains the mare to ride to mill And bring home meal from thence. Then after many a strain and heave He mounts poor one-ey'd Joan; But scarce had he the convent left When he encounter'd Roan. Amaz'd to see an armed Knight So suddenly come on; Yet more amaz'd was he to find That Knight was Friar John. For by the glimmering of the moon; He might his features spy, While guilt the want of better light Did readily supply. Then turning from the phantom strait, He urg'd his mare to flight; But cruel fortune still did owe The Monk a further spite. For Roan now snuff'd the tainted air Which Joan had left behind; And snorting, like Dan Dan—an old English epithet for a poet. Virgil's mares, He bounds upon the wind. Away runs Joan—and at her heels Flies Roan with furious speed; Nor long mought feeble flight elude Attack of vigorous Steed. Thus through the town with thundering noise, Our eager coursers fly; Joan still before—but sturdy Roan Is at her crupper nigh. Dan Phœbus thus did Daphne fly, And thus the God pursued; But Joan less fleet than Daphne was, Or somewhat less a prude. For now her speed begins to fail, And Richard's hopes are spent; While John with brandish'd lance pursues, Like Knight at Tournament; When Joan, who half unwilling was This racing to begin, In spite of Richard's fears, stop'd short, A narrow lane within. All conquering Roan with furious heat Submissive Joan assails, While lance of John on Richard's pate Falls, quick, as thresher's flails. John's rattling arms and Richard's cries Soon rouse the sleeping train; To whom the Friar owns his guilt, For, now, concealment's vain. The self-convicted Friar now To goal is carried strait; Is tried, condemn'd, and from the rope Expects his wretched fate. But Providence, which always doth Repentant sinners save, Now interpos'd to save the Monk From gallows and the grave. For to the King the Knight had gone, And all his crime reveal'd; For which he pardon did obtain For service done in field. Thus Friar Richard was releas'd, From terror and from goal; And to the convent did return To feast on crabs and ale. THE END.</field>
+   </doc>
+</add>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Cooke, Thomas, 1703-1756</field>
+      <field name="author_facet">Cooke, Thomas, 1703-1756</field>
+      <field name="author_sort_facet">cooke thomas 1703 1756</field>
+      <field name="author_text">Cooke, Thomas, 1703-1756</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1740's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.0419.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1749</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464935</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">An Ode on Beauty ; To Which are Prefixed Some Observations on Taste, And on the Present State of Poetry in England [by Thomas Cooke</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 18th century</field>
+      <field name="subject_text">English poetry -- 18th century</field>
+      <field name="title_display">An Ode on Beauty ; To Which are Prefixed Some Observations on Taste, And on the Present State of Poetry in England [by Thomas Cooke</field>
+      <field name="title_facet">ode on beauty</field>
+      <field name="title_sort_facet">ode on beauty</field>
+      <field name="title_text">An Ode on Beauty ; To Which are Prefixed Some Observations on Taste, And on the Present State of Poetry in England [by Thomas Cooke</field>
+      <field name="year_display">1749</field>
+      <field name="year_facet">1749</field>
+      <field name="year_multisort_i">1749</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464935&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464935&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Cooke, Thomas, 1703-1756&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;cooke thomas 1703 1756&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;An Ode on Beauty ; To Which are Prefixed Some Observations on Taste, And on the Present State of Poetry in England [by Thomas Cooke&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;ode on beauty&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1749&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1749&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Cooke, Thomas&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1703&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1756&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;An Ode on Beauty&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;To Which are Prefixed Some Observations on Taste, And on the Present State of Poetry in England [by Thomas Cooke]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for M. Cooper ... and R. Dodsley&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1749&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp0863&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;11 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;An Ode on Beauty&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;To Which are Prefixed Some Observations on Taste, And on the Present State of Poetry in England [by Thomas Cooke]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 16 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter including observations omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Juvat immemor at a ferentem Ingenuis Oculisque legi Manibusque teneri. Hor.</field>
+      <field name="fulltext">AN ODE ON BEAUTY To Andrew Stone Esq; I Direct thine Eye to yonder Plains, Where Ceres, fruitful Goddess, reigns, While Summer glows in all her Pride: Look round the Heart-inspiring Scene, The purple Sky, the Meadows green, Reflected by the chrystal Tyde: II Behold the stately solemn Grove, For Contemplation form'd, or Love, Cheer'd with the Linnet's Ev'ning Song; See Harvests bending to the Gale, Where, thro the winding flow'ry Vale, The Medway rolls his Stream along: III Stand on the fam'd, the rising, Ground, Where Boughton-Hill About five Miles on the North Side of Canterbury., with Forests crown'd, The fair extensive View commands, Valleys and Mountains, Lakes and Seas, Proud Tow'rs and humble Cottages, Rocks, steril Heaths, and fertile Lands: IV Or see where Art with Nature vies In Esher's The Duke of Newcastle's Gardens, call'd Claremont, in the Parish of Esher, in Surry. Bow'rs, which sweetly rise, To glad the weary'd Trav'ler's Sight, As o'er the parch'd and barren Soil, Oppress'd with Heat, he seems to toil, And shun the sad Approach of Night: V The World's majestic Frame survey, The silver Moon, the solar Ray, With all the golden Orbs around; Then say, O! Stone, for thou can'st tell Where Beauty most delights to dwell, What can in Nature's Store be found, VI What can the noble Mind comprise, O! what can meet our wond'ring Eyes, More beautiful than these? Where does the pure celestial Maid Reside in brighter Charms array'd, Where more surprise and please? VII Not in the Pomp of martial Deeds, Of glitt'ring Arms, and neighing Steeds, In well fought Fields, nor Battels won, Nor in the fairest Fruits of War, When Fame in Triumph mounts the Car, And ranks the Name with Philip's Son, VIII Not in the gaudy swelling Train That ushers in a Monarch's Reign, Nor what the Wealth of India brings, Not in the Tyrant's boundless Sway, Nor in the Joys when Nymphs obey, Nor in the Smiles, nor Crowns, of Kings, IX Nor in the soft angelic Face, Tho often with attractive Grace The Smiles their Sov'reign there reveal, When she, with all the Magnet's Pow'r, Draws to her sweet enchanting Bow'r Heroic Souls, and Hearts of Steel. X Where then is Beauty, radiant Queen, In most refulgent Lustre seen, Where does she most her Charms display? In the great Mind, the gen'rous Breast, Enthron'd the Goddess sits confess'd, More splendent than the Eye of Day: XI Deriv'd from Wisdom and from Truth, Endow'd with everlasting Youth, With what Pre-eminence of Worth, She brighten'd, and enrich'd, the Grove Where the great Souls of Athens strove To bring the Loves and Graces forth! XII Each blameless Love and spotless Grace, Were guided to the sacred Place By Socrates, and Plato's Hands: Attendants they in Beauty's Train With Health, with Peace, and Joy, remain, United in eternal Bands. XIII Where-e'er celestial Venus moves, With all her Graces, all her Loves, Knowledge, Content, and Pleasure's there: From her they flow, with her they dwell, Like Music from the vocal Shell, Or Sweets in the Sabæan Air. XIV Th' imperial Beauty of the Skies, Who saw the World's Foundations rise, Congenial she with Heav'n's great Sire, From Athens with unfading Bloom Conspicuous wing'd her Flight to Rome, Bright Guardian of the Vestal Fire! XV From Tiber's Banks, where once she stood Defended by the wise and good, The Queen long since indignant fled: Northward she shoots her lucid Beams, And now by Cam's immortal Streams She rears her sweet majestic Head: XVI Above the Reach of Censure great, Such Statesmen as have bless'd the State, Heroes to fair Distinction born, Sages, and Poets who can give To Heroes, and to Kings, to live, Her Domes and Temples there adorn: XVII See the bright Vision, brighter far Than is the brightest wand'ring Star! O! hail her to the soft Retreat! Flush'd with the same immortal Bloom With which she pass'd thro Greece, and Rome, She visits now the Muse's Seat: XVIII Thou know'st her, Stone, each Deed of thine Receives the Virgin's Stamp divine, And Malice can no longer stay: She shuts Detraction from the Light, Makes Envy shroud her Head in Night, And drives Deformity away. XIX What Joys serene the heav'nly Guest Diffuses thro the virtuous Breast! How cheerful is her earlyest Dawn! As Kindness to the Lover's Smart, As Health returning to the Heart, Or vernal Sunbeams to the Lawn! XX O! bless'd, thrice bless'd, th' important Hour! I feel her, and confess her Pow'r! Her Presence does my Soul inspire! Bright Goddess, I thy Will obey, (While thou wilt consecrate the Lay,) And snatch from vulgar Hands the Lyre! XXI 'Tis done, O! Stone: the Numbers flow Soft as the gently falling Snow, Or roll impetuous along! If the dread Subject shall demand The Vigour of a master Hand, Nervous and great shall be the Song. XXII If the divine inspiring Maid Refuses her enliv'ning Aid, In vain the Bard attempts ro sing, Painters in vain the Canvas spread, In vain the Sculptor moulds the Head, And Harpers thrum in vain the String. XXIII May Holles, Learning's Friend and thine, Be long the foremost at her Shrine, Long o'er the learned Band preside: By Cam the noble Student first Slak'd at the Fountain-head his Thirst, Beauty his never-erring Guide: XXIV By the pure Love of Science led, Of ev'ry Art th' elected Head, His Fame the Round of Time shall run, Like Xenophon more glorious far, In Learning's Garb than that of War, Than Cyrus or his conqu'ring Cambyses, the Son of Cyrus, added Ægypt to the vast Empire which came to him from his Father. Son: XXV The fairest Offsprings of the Sky, Wisdom and Truth attract his Eye, While ev'ry Virtue on him smiles; And Poesy, of heav'nly Birth, Shall keep his fav'rite Name on Earth, While Britain lasts the Queen of Isles. August, 1749.</field>
+   </doc>
+</add>

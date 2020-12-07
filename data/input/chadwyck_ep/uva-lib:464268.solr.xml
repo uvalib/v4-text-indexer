@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Farmer, John, 1591-1601</field>
+      <field name="author_facet">Farmer, John, 1591-1601</field>
+      <field name="author_sort_facet">farmer john 1591 1601</field>
+      <field name="author_text">Farmer, John, 1591-1601</field>
+      <field name="composition_era_facet">16th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.1786.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1599</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464268</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The first set of English Madrigals ; To Foure Voices</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">The first set of English Madrigals ; To Foure Voices</field>
+      <field name="title_facet">first set of english madrigals</field>
+      <field name="title_sort_facet">first set of english madrigals</field>
+      <field name="title_text">The first set of English Madrigals ; To Foure Voices</field>
+      <field name="year_display">1599</field>
+      <field name="year_facet">1599</field>
+      <field name="year_multisort_i">1599</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464268&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464268&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Farmer, John, fl. 1591-1601&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;farmer john fl 1591 1601&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The first set of English Madrigals ; To Foure Voices&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;first set of english madrigals&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1599&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1599&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Farmer, John&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1591&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1601&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The first set of English Madrigals&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;To Foure Voices&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed ... by William Barley [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1599&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp3668&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;[112] p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The first set of English Madrigals&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;To Foure Voices&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 14 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted; music omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Songbooks.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">To the right Honorable my very good Lord and Master, EDWARD DEVERE Earle of Oxenford, Vicount Bulbeck, Lord of Escales and Badlesmere, and Lord great Chamberlaine of England, IOHN FARMER wisheth long life, health and happinesse with encrease of honour.</field>
+      <field name="fulltext">The following poems are scored for music in the source text. Where poems are stanzaic, no attempt has been made to reconstruct the metrical lines. Variations for different voices have been ignored. Repetition marks have been ignored. Of 4. voyces. [I. You prety flowers that smile for s?mers sake] You prety flowers that smile for s?mers sake You prety flowers that smile for s?mers sake, pul in your heads before my watry eies doe turne the medowes to a standing lake, by whose vntimely floods your glory dies, for loe my heart resolude to moistning aire feeding mine eies which doubles teare for teare. [II. Now each creature ioyes the other] Now each creature ioyes the other Now each creature ioyes the other: passing happy daies and howers: one bird reports vnto another reports vnto another,by the fall of siluer showers, whilst the earth our common mother, hath her bosome deckt with flowers. [III. You'le neuer leaue still tossing to and fro] You'le neuer leaue still tossing to and fro You'le neuer leaue still tossing to and fro, til at the last you catch a fal: for wauering minds doth alwaies harbor woe, loosing true fri?dship, loue &amp; all: be constant then and thou shalt find it best, to scorne the world, in hope to liue at rest. [III. The first part. Lady my flame still burning] Lady my flame still burning Lady my flame still burning, Lady and my consuming anguish doth grow so great, that life I feele to languish, oh let your hart be moued, to end your grief &amp; mine so long time proued, and quencht the heate that my chiefe part so fireth yeelding the fruite that faithfull loue requireth. [V. The second part. Swete Lord your flame] Swete Lord your flame, your flame stil burning Swete Lord your flame, your flame stil burning, &amp; your c?tinuall anguish, c? not be more th? mine in w? I languish, nor more your hart is moued, to end my griefe and yours so long time proued: but if I yeeld, &amp; so your flame decreaseth, but I th? lose my life, &amp; so our loue ceaseth. [VI. Soone as the hungry Lion seekes his pray] Soone as the hungry Lion seekes his pray Soone as the hungry Lion seekes his pray, in solitary r?g, of pathles mo?tains soon as the passinger sets on his way, soon as beasts resort vnto the fountaines, so soone mine eies their office are discharging, &amp; I my griefs with greater griefs inlarging. [VII. The first part. O Stay swete loue] O stay swete loue, see here the place of sporting O stay swete loue, see here the place of sporting, these gentle flowers smiles swetely to inuite vs, and chirping birds are hitherwards resorting, warbling swete notes only to delight vs, then stay deare loue, for though thou run from me, from me, for run neere so fast, yet I will follow thee. [VIII. The second part. I Thought my loue that I should ouertake you] I thought my loue that I should ouertake you I thought my loue that I should ouertake you, sweete hart sit downe vnder this shadowed tree, and I will promise neuer to forsake you, so you will graunt to me a louers fee, whereat shee smild and kindly to me saied, I neuer meant to liue and dye a maide. [IX. Compaire me to the child that playes with fire.] Compaire me to the child that playes with fire Compaire me to the child that playes with fire, with fire, or to the flye that dieth in the flame, or to the foolish boy that did aspire to touch the glorie of high heauens frame, no man to these me fitly can compare, these liue to dye I dye to liue in care. [X. Who would haue thought that face of thine had beene so full of doublenes] Who would haue thought that face of thine had beene so full of doublenes Who would haue thought that face of thine had beene so full of doublenes, or that within those christall eyne had been so much vnstablenes: thy face so faire thy looke so str?g, who would haue thought of such a change? [XI. Sweete friend thy absence greeues my bleeding hart] For the loue of his most deare friend EDMVND KEATE. Sweete friend thy absence greeues my bleeding hart Sweete friend thy absence greeues my bleeding hart, yet doe I ioye to heare of thy good health: ah Woe is me that now I shall depart from thee, more deere to me then Cressus wealth, but if on earth I may not see thy face, Ile fly to heauen, to seeke thee in that place, to seeke thee in that place. [XII. The flattring words, sharpe glosses that men vse] The flattring words, sharpe glosses that men vse The flattring words, sharpe glosses that men vse, to trap poor silly wom? in their snares, to trap poore silly wom? in their snares: with fained lookes their gentle sex abuse, which yeelds nought else but griefe and endlesse cares: sometimes they smile and sometimes frowne, but neuer pleasde in deede, till time and place where they may watch their sorrowes for to breed. [XIII. Cease now thy mourning &amp; thy sad lam?ting] Cease now thy mourning &amp; thy sad lam?ting Cease now thy mourning &amp; thy sad lam?ting, for faire Auroraes louely face doth light thee: thy mistresse heart is now vppon relenting: vowing henceforth neuer more to spight thee: then harbour not those thoughts that stil may grieue thee, since that thy mistresse sweares she wil releeue thee. [XIIII. A Little prety bony lasse was walking in midst of May] A little prety bony lasse was walking in midst of May A little prety bony lasse was walking in midst of May, before the S? g? rise: I tooke her by the hand, I and fell to talking of this and that as best I could deuise, I swore I would, yet still shee saide I should not, yet doe what I would &amp; for all I could not. [XV. Faire Phyllis I saw sitting all alone feeding her flocke] Faire Phyllis I saw sitting all alone feeding her flocke neere to the mountaine side Faire Phyllis I saw sitting all alone feeding her flocke neere to the mountaine side, the shepheards knewe not whither shee was gone, but after her louer Amyntas hied vp and down hee wandred, whilst shee was missing, wh? he found her, oh then th? fell a kissing. [XVI. Take time while time doth last] Take time while time doth last Take time while time doth last, marke how faire fadeth fast, beware if enuy raigne, take heede of proude disdaine hold fast now in thy youth now regard thy vowed truth, least when thou waxeth old, old friends faile and loue growe cold. Of 8. voyces. [XVII. Yow blessed shaddow the sunneshine from my mistresse] Yow blessed shaddow the sunneshine from my mistresse face Yow blessed shaddow the sunneshine from my mistresse face, and you sweete roses only for her bedding, when weary shee doth take her resting place, you faire white lillies, and pretty pretty flowers all, giue your attendaunce at my mistresse call. [XVII. You blessed bowers whose greene leaues now are spreading] You blessed bowers whose greene leaues now are spreading shadow the sunneshine from my mistresse face You blessed bowers whose greene leaues now are spreading shadow the sunneshine from my mistresse face, and you sweete roses only for her bedding when weary shee doth take her resting place, giue your attendance at my mistris call. FINIS.</field>
+   </doc>
+</add>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Cornwall, Barry, 1787-1874</field>
+      <field name="author_facet">Cornwall, Barry, 1787-1874</field>
+      <field name="author_sort_facet">cornwall barry 1787 1874</field>
+      <field name="author_text">Cornwall, Barry, 1787-1874</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1850's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V3.0458.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1857</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460809</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Lysander and Ione</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Lysander and Ione</field>
+      <field name="title_facet">lysander and ione</field>
+      <field name="title_sort_facet">lysander and ione</field>
+      <field name="title_text">Lysander and Ione</field>
+      <field name="year_display">1857</field>
+      <field name="year_facet">1857</field>
+      <field name="year_multisort_i">1857</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460809&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460809&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Cornwall, Barry, 1787-1874&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;cornwall barry 1787 1874&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Lysander and Ione&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;lysander and ione&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1857&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1857&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Cornwall, Barry&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1787&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1874&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Lysander and Ione&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chapman and Hall&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1857&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872943-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv30458&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Lysander and Ione&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 19 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted&lt;lb/&gt;The following plays have been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Lysander and Ione.</field>
+      <field name="desc_meta_file_display">Genre: Dramatic poem.</field>
+      <field name="desc_meta_file_display">Date first published: 1819.</field>
+      <field name="desc_meta_file_display">Date first performed: Unknown.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">LYSANDER AND IONE.</field>
+      <field name="fulltext">Canst thou not tell me of a gentle pair?— Oh! if you have Hid them in some flowery cave, Tell me but where. Milton—Comus.</field>
+      <field name="fulltext">But she Did not disdain to give his love contenting; Cruel the soul that feeds on souls tormenting: Nor did she scorn him, though not nobly born; Love is nobility. Spenser—Britain's Ida.</field>
+      <field name="fulltext">Lysander. Ione. (A Wood.) LYSANDER. Now, sit. IONE. Here? LYSANDER. Here: The embroiderer, Moss, hath wrought you a golden seat. Disdain her not, the yellow-tressed Moss; For she is Nature's handmaid, decking aye Her boddice with bright flowers; and when decay Winters the rock or tree, her fringed gold She leaves, to hide the poor thing's poverty. IONE. So, there: now kneel and worship. LYSANDER. I will; I do: Oh! Heavens of love, I do. Deep worshipper am I for one so young; But Love has taught me: he matured my thought; And so beyond my years I worship you. Stay; stir not, sweet. Sit here. IONE. 'Tis a fair place. LYSANDER. Ay; Iris hath been here, beloved one. The rich Spring's almoner is she, who scatters Upon the grateful world her sweets and flowers. Bountiful Spring! Is it not strange that men Will scorn or shun her favours? will bar out The beauty of the day and vernal airs, And die in dreams of freedom? IONE. You would talk (And I might listen) till we both forgot, That I have cares which call me. LYSANDER. We will meet To-morrow early. I will show you all The secrets of our forest. Every dell And every leafy nook and cave o'ergrown, The rock, the river, and the Dryad's oak We'll see to-morrow. What, if we surprise A wood-nymph sleeping? IONE. This to me? LYSANDER. Why, ay; For then I'll show you how the true heart meets Beauty unheeding. IONE. No, no. LYSANDER. You will come. And I will be your guard, and servant, both; And, as we pierce the untrodden woods, I'll teach How you may shun the briery paths and pass The snake untouched; and we will hear the songs— Ha! do you smile? why then you'll come. IONE. No. LYSANDER. Yes. IONE. Be not too sure, Lysander. Foolish boy! To give your heart to me,—to me, poor youth, A spirit of the waters! LYSANDER. You are more; My queen, my goddess! Sole and peerless queen! And I your most true subject. IONE. I am one Of old king Nereus' daughters, gentlest boy. My home lies low beneath the eternal seas. My country (tho' I sometimes earthward stray) Is where the mariner's plummet never fell; Down in the fathomless deep: the wild waves there Sound not, nor dare the watery creatures come To gaze upon those calm and sacred sands. Beyond your reach my home is. LYSANDER. Pretty story! IONE. Believe it, fond Lysander, and forget me. But, come; as you have loved me long and well, Have you not sung my name to all the stars, And vowed mine eyes were far more bright than they? A lover? he should tell the skies his love, And make the air acquainted with his woe; Should tell to budding morn, to lazy noon, To waters where the unsunned Dian comes Dipping her silver feet, all his chaste joy. But you have done this? LYSANDER. Often, oft. IONE. Indeed! How did you name me? LYSANDER. Sweet Ione! Fair And beautiful Ione! fair and dear! Too dear, because too cold, art thou to me. Ione! list,—Ione! Pretty name! Is it not yours? IONE. 'Tis mine, and you shall sing A forest song in its honour. LYSANDER. Listen, then, love; and with your white hand clear Your marble forehead from its cloudy hair. So, thus; your eye bent tow'rds me; How brightly it burns upon me! Listen, sweet. Yet, 'tis a melancholy song; confused; Half dream and half despair. You will but smile at't? IONE. Sing on, sing on: I love a wild song. Sing! LYSANDER. Now, by Night! I swear I love thee, delicate Ione! And, when I lean upon my thoughts at night, My soul grows sick with love. In sleep, in dreams, Thou, like a spirit from the haunted stars, Stand'st plain before me. I have seen thee come In pale and shadowy beauty to my side; Or, floating 'tween me and the cloudless moon, Stretch forth, like silver vapours, thy white arms, And breathe upon my heart Arabian odours, sweet, but cold as death. I love thee; I have loved thee, long and well. Ione, daughter of the eternal Sea; Sea-born, but gifted with diviner life, With human worth, and heavenly goodness crowned; Peerless, perennial, without stain or taint, Be mortal with immortal purity! But thou art gone! And now I wander when the gusty winds Chase the dark clouds across the star-dropt plains: For then methinks I see thee, pure and pale. I love to lie by waterfalls, alone; To hear the sad boughs moan, When through the piny forests I pursue My solitary way: And then at times I dream, and speak to thee! And thou, Ione, dost thou not (oh, say it!) Bequeath soft messages for me, Unto the dark boughs of the whispering pines? IONE. Enough, enough. Your fancy grows too wild: Reason must tame it, else some sharp reproof. And so you love me? Pshaw! LYSANDER. By all the gods! IONE. I'll not believe't: what! you? so young a boy? 'Twill be a pretty tale. LYSANDER. But who shall tell it? IONE. Why I, and all who hear us; for we are Encompassed by the sylvan people here; And not a foolish hope hast thou confessed, But Echo in her hundred caves has caught The sound, and told it to the wood-nymphs' ears, Whence, shaped like whispers from the forest boughs, (All which, true traitors, shake while they betray Poor human secrets,) thy mad words are borne To the great Pan. LYSANDER. And he? well, what of him? IONE. Oh! he loves all the nymphs who haunt his woods, And when he finds they wander from their homes— LYSANDER. Fear him not; I am here, too sweet Jone! IONE. My gentle boy! And so, you love me.—well? LYSANDER. Ay, like the stars. IONE. Not as a lover— LYSANDER. Oh! I love you like the beauty of the world, The rose, the— IONE. Peace, and hear me, young Lysander. Some maids, high born as I am, in past times, (Thus, if no fable, pale (Enone did) Gave their great hearts to mortals. Mark what followed: The men they graced forgot them. LYSANDER. Shall I swear? IONE. What have you done to win a Nereid's love? Dost know, youth, that the princes of the sea; Faunus, and many a wood-god; shapes that haunt The groves and mountains and the running streams, Have wooed me—me—in vain? LYSANDER. Oh, I believe it. 'Tis certain they have done't; and I—even I Have left my quiet home o'nights, to sing Your soft sad name beside the noisy sea, And hearken if in the watery tumult you Whispered sweet answers. I have come hither, too, At noon, at dusky eve, on darkest nights, To seek you. I have let my unguarded sheep Wander alone upon the mountains drear, Have left my father (yet I love him well) To weep my nightly absence; quitted all Our village feasts and calm domestic meetings, Here to resort and dream of the sweet Ione. IONE. Indeed, my love? LYSANDER. Again,—for dear love's sake! For my sake; thus again. IONE. Why, then—my love! LYSANDER. Oh! my divine Ione! my heart's queen! What shall I do to merit all this love? IONE. Be constant. LYSANDER. Ay, beyond fidelity. I'll be more true Than bright Apollo to the summer air, Than larks to morn, or stars to cloudless eves, Or sweets to the maiden May. Oh! fear me not. IONE. I will not, dear Lysander. You and I Will haunt these woods together: you shall pass The busy morning hours amongst the hills, And tend your father's flock; I in my cave Beneath the seas must linger out the day; But ever at night I'll meet you, dear Lysander, And when stern fate shall lift you to the stars, I from the salt sea wave will take my flight, (Great Jove will not reject a sea-maid's prayer) And dwell with you for ever. Now, farewell. LYSANDER. One kiss from that red rose which hides your lip! One kiss? O love! how sweet; how all too sweet! IONE. Peace, peace! Farewell. LYSANDER. Until to-morrow morn! IONE. Until to-morrow only, then, farewell!</field>
+   </doc>
+</add>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1900's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2006_07/uvaGenText/tei/bov_19060418.xml</field>
+      <field name="date_indexed_facet">201909240343</field>
+      <field name="date_text">April 18, 1906</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:302026</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. April 18, 1906</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  April 18, 1906</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  April 18, 1906</field>
+      <field name="year_display">April 18, 1906</field>
+      <field name="year_facet">1906-04-18</field>
+      <field name="year_multisort_i">1906</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:302026&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:302026&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. April 18, 1906&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;April 18, 1906&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1906-04-18&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;April 18, 1906&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Public minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;0 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information. Access to minutes containing salary information will be granted only under the procedures of the Virginia Freedom of Information Act (Code of Virginia-2.1-340 ff.) or if permission is granted by the Secretary of the Board. Researchers interested in obtaining access to these records should direct a request in writing to the Office of the Legal Adviser, Madison Hall, University of Virginia. These public minutes have had salary information deleted and bear no restrictions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1906-04-18&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 11 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">University of Virginia. April 18th, 1906. At a called meeting of the Board of Visitors, held at the University on above date, Present: Visitors, White, Harmon, Hunton, Flood, Norton, Craddock, Gordon, Eggleston, and President Alderman, On motion of Mr. Harmon, Mr. White took the chair, and called the meeting to order at 2:30 P.M. Mr. Norton then nominated Mr. Armistead C. Gordon for Rector. This motion being duly seconded by Mr. Flood, vote was taken, and Mr. Gordon unanimously elected Rector, assuming the Chair as presiding officer of the Board. The President then announced that, since the last meeting of the Board, the University had sustained a great loss in the death of Colonel William E. Peters, emeritus professor of Latin; when it was resolved that a Committee from the Board, consisting of the Rector, and Visitors Harmon and Hunton, be appointed to formulate a suitable tribute to his memory. After hearing the statement of Dr. George Ben Johnston, who appeared before the Board in person, the following was adopted, Resolved: That, at the request of Dr. George Ben Johnston, he be relieved from his former conditional acceptance of the Professorship of Surgery in the University of Virginia; and that the Board expresses its sincere regret at Dr. Johnston's withdrawal of his acceptance. Resolved, further: That the Board of Visitors tenders to Dr. George Ben Johnston, its thanks for his efficient services to the University of Virginia before the General Assembly of Virginia, and in soliciting donations to its Endowment Fund. Resolved: That, the President be authorized to give, prior to the next meeting of the Board, the necessary notice by advertisement, for the election of the following professors,— 1 Professor of Economics, 1 Professor of Surgery, 1 Professor of Obstetrics and Gynecology, 1 Professor of Chemistry, and 1 Professor of Pathology. [Inserted in the margin by the above resolution is a newspaper clipping which reads as follows: NOTICE IS HEREBY GIVEN THAT AT the June (1906) meeting of the Board of Visitors of the University of Virginia, the following professors will be elected—viz.: 1 Professor of Economics. 1 Professor of Surgery. 1 Professor of Obstetrics and Gynecology. 1 Professor of Chemistry and 1 Professor of Pathology. By direction of Armistead C. Gordon, rector. Applications and communications regarding above may be addressed to EDWIN A. ALDERMAN, President University of Virginia. Times Dispatch 4 Weeks] Resolved: That, there be appointed a Committee, consisting of two members of the Board, Messrs. Craddock and Harmon, the President, Professor Thornton, and Dr. Lambeth, to recommend to the next meeting of the Board, plans for the most advantageous use of the special building appropriation made by the Legislature. The said Committee is authorized to contract for the completion of a suitable residence for the President, and to use for such purpose, such portion of the said appropriation, as may be necessary, not to exceed $20,000. Resolved: That, the proposal of Mrs. Ethel P. Randolph to extend the lease of the house occupied by the President to Jan'y. 1, 1907, at an increased rental of $50.00 per month for the extended term, be accepted. Resolved: That the application of the Virginia Beta Chapter of the "Phi Delta Theta Fraternity" to erect a building on the University Grounds, be referred to a committee of three,Messrs. Harmon, Norton, and Flood, to formulate a general scheme to meet this and similar applications. Resolved: That Dr. Whitehead's proposition to lease and build on the University Grounds, be referred to a committee composed of the Rector, Judge Norton, and Mr. Harmon, with authority to take final action. Resolved: That the subject of refunding the mortgage bonds of the University, be referred to the Finance Committee, with the request that they make a report and recommendation to the next meeting of the Board. On motion, the Board adjourned, subject to the call of the Rector. I. K. Moran Secretary. Armistead C. Gordon Rector.</field>
+      <field name="fulltext">University of Virginia. April 18th, 1906. At a called meeting of the Board of Visitors, held at the University on above date, Present: Visitors, White, Harmon, Hunton, Flood, Norton, Craddock, Gordon, Eggleston, and President Alderman, On motion of Mr. Harmon, Mr. White took the chair, and called the meeting to order at 2:30 P.M. Mr. Norton then nominated Mr. Armistead C. Gordon for Rector. This motion being duly seconded by Mr. Flood, vote was taken, and Mr. Gordon unanimously elected Rector, assuming the Chair as presiding officer of the Board. The President then announced that, since the last meeting of the Board, the University had sustained a great loss in the death of Colonel William E. Peters, emeritus professor of Latin; when it was resolved that a Committee from the Board, consisting of the Rector, and Visitors Harmon and Hunton, be appointed to formulate a suitable tribute to his memory. After hearing the statement of Dr. George Ben Johnston, who appeared before the Board in person, the following was adopted, Resolved: That, at the request of Dr. George Ben Johnston, he be relieved from his former conditional acceptance of the Professorship of Surgery in the University of Virginia; and that the Board expresses its sincere regret at Dr. Johnston's withdrawal of his acceptance. Resolved, further: That the Board of Visitors tenders to Dr. George Ben Johnston, its thanks for his efficient services to the University of Virginia before the General Assembly of Virginia, and in soliciting donations to its Endowment Fund. Resolved: That, the President be authorized to give, prior to the next meeting of the Board, the necessary notice by advertisement, for the election of the following professors,— 1 Professor of Economics, 1 Professor of Surgery, 1 Professor of Obstetrics and Gynecology, 1 Professor of Chemistry, and 1 Professor of Pathology. [Inserted in the margin by the above resolution is a newspaper clipping which reads as follows: NOTICE IS HEREBY GIVEN THAT AT the June (1906) meeting of the Board of Visitors of the University of Virginia, the following professors will be elected—viz.: 1 Professor of Economics. 1 Professor of Surgery. 1 Professor of Obstetrics and Gynecology. 1 Professor of Chemistry and 1 Professor of Pathology. By direction of Armistead C. Gordon, rector. Applications and communications regarding above may be addressed to EDWIN A. ALDERMAN, President University of Virginia.</field>
+   </doc>
+</add>

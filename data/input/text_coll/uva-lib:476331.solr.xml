@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Ezra Pound and Ernest Fenollosa</field>
+      <field name="author_facet">Ezra Pound and Ernest Fenollosa</field>
+      <field name="author_sort_facet">ezra pound and ernest fenollosa</field>
+      <field name="author_text">Ezra Pound and Ernest Fenollosa</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1910's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/PouKage.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">1916</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476331</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Kagekiyo</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">Kagekiyo</field>
+      <field name="title_facet">kagekiyo</field>
+      <field name="title_sort_facet">kagekiyo</field>
+      <field name="title_text">Kagekiyo</field>
+      <field name="year_display">1916</field>
+      <field name="year_facet">1916</field>
+      <field name="year_multisort_i">1916</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476331&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476331&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Ezra Pound and Ernest Fenollosa&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;ezra pound and ernest fenollosa&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Kagekiyo&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;kagekiyo&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1916&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1916&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Ezra Pound and Ernest Fenollosa&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Kagekiyo&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;1st Edition&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1916&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;MacMillan&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1916&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="callNo"&gt;Print copy consulted: UVa Library call number PL 735 .F4 1916&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;pp. 177-188&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Kagekiyo&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 18 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Footnotes in the print source have been moved to the end of the</field>
+      <field name="desc_meta_file_display">electronic document and numbered consecutively. For descriptive</field>
+      <field name="desc_meta_file_display">purposes, words and phrases preceding footnote markers in print source</field>
+      <field name="desc_meta_file_display">have been added to footnotes at the end of the electronic document.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">KAGEKIYO A Play in one Act, by Motokiyo CHARACTERS Shite, Kagekiyo old and blind. Tsure, a girl, his daughter, called Hitomaru. Tomo, her attendant. Waki, a villager. The scene is in HIUGA. Girl and Attendant chanting What should it be; the body of dew, wholly at the mercy of wind? Girl I am a girl named Hitomaru from the river valley Kamegaye-ga-Yatsu, My father, Akushichi-bioye Kagekiyo, Fought by the side of Heike, And is therefore hated by Genji. He was banished to Miyazaki in Hiuga, To waste out the end of his life. Though I am unaccustomed to travel, I will try to go to my father. Girl and Attendant describing the journey as they walk across the bridge and the stage Sleeping with the grass for our pillow, The dew has covered our sleeves. Singing. Of whom shall I ask my way As I go out from Sagami province? Of whom in Totomi? I crossed the bay in a small hired boat And came to Yatsuhashi in Mikawa; Ah, when shall I see the City-on-the-cloud? Attendant As we have come so fast, we are now in Miyazaki of Hiuga. It is here you should ask for your father. Kagekiyo in another corner of the stage Sitting at the gate of the pine wood I wear out the end of my years. I cannot see the clear light, I do not know how the time passes. I sit here in this dark hovel, with one coat for the warm and the cold, and my body is but a framework of bones. Chorus May as well be a priest with black sleeves. Now having left the world in sorrow, I look upon my withered shape. There is no one to pity me now. Girl Surely no one can live in that ruin, and yet a voice sounds from it. A beggar, perhaps. Let us take a few steps and see. Kagekiyo My eyes will not show it me, yet the autumn wind is upon us. Girl The wind blows from an unknown past, and spreads our doubts through the world. The wind blows, and I have no rest, nor any place to find quiet. Kagekiyo Neither in the world of passion, nor in the world of colour, nor in the world of non-colour, is there any such place of rest; beneath the one sky are they all. Whom shall I ask, and how answer? Girl Shall I ask the old man by the thatch? Kagekiyo Who are you? Girl Where does the exile live? Kagekiyo What exile? Girl One who is called Akushichi-bioye Kagekiyo, a noble who fought with Heike. Kagekiyo Indeed? I have heard of him, but I am blind, I have not looked in his face. I have heard of his wretched condition and pity him. You had better ask for him at the next place. Attendant to girl It seems that he is not here, shall we ask further? They pass on. Kagekiyo Strange, I feel that woman who has just passed is the child of that blind man. Long ago I loved a courtesan in Atsuta, one time when I was in that place. But I thought our girl-child would be no use to us, and I left her with the head man in the valley of Kamegaye-ga-yatsu; and now she has gone by me and spoken, although she does not know who I am. Chorus Although I have heard her voice, The pity is, that I cannot see her. And I have let her go by Without divulging my name. This is the true love of a father. Attendant at further side of the stage Is there any native about? Villager What do you want with me? Attendant Do you know where the exile lives? Villager What exile is it you want? Attendant Akushichi-bioye Kagekiyo, a noble of Heike's party. Villager Did not you pass an old man under the edge of the mountain as you were coming that way? Attendant A blind beggar in a thatched cottage. Villager That fellow was Kagekiyo. What ails the lady, she shivers? Attendant A question you might well ask, she is the exile's daughter. She wanted to see her father once more, and so came hither to seek him. Will you take us to Kagekiyo? Villager Bless my soul! Kagekiyo's daughter. Come, come, never mind, young miss. Now I will tell you, Kagekiyo went blind in both eyes, and so he shaved his crown and called himself "The blind man of Hiuga." He begs a bit from the passers, and the likes of us keep him; he'd be ashamed to tell you his name. However, I'll come along with you, and then I'll call out, "Kagekiyo!" and if he comes, you can see him and have a word with him. Let us along. They cross the stage, and the villager calls Kagekiyo! Oh, there, Kagekiyo! Kagekiyo Noise, noise! Some one came from my home to call me, but I sent them on. I couldn't be seen like this. Tears like the thousand lines in a rain storm, bitter tears soften my sleeve. Ten thousand things rise in a dream, and I wake in this hovel, wretched, just a nothing in the wide world. How can I answer when they call me by my right name? Chorus Do not call out the name he had in his glory. You will move the bad blood in his heart. Then, taking up Kagekiyo's thought I am angry. Kagekiyo Living here. . . Chorus going on with Kagekiyo's thought I go on living here, hated by the people in power. A blind man without his staff. I am deformed, and therefore speak evil; excuse me. Kagekiyo My eyes are darkened. Chorus Though my eyes are dark I understand the thoughts of another. I understand at a word. The wind comes down from the pine trees on the mountain, and snow comes down after the wind. The dream tells of my glory. I am loath to wake from the dream. I hear the waves running in the evening tide, as when I was with Heike. Shall I act out the old ballad? Kagekiyo to the villager I had a weight on my mind, I spoke to you very harshly; excuse me. Villager You're always like that, never mind it. Has any one been here to see you? Kagekiyo No one but you. Villager Go on! That is not true. Your daughter was here. Why couldn't you tell her the truth, she being so sad and so eager? I have brought her back now. Come now, speak with your father. Come along. Girl Oh, Oh, I came such a long journey, under rain, under wind, wet with dew, over the frost; you do not see into my heart. It seems that a father's love goes when the child is not worth it. Kagekiyo I meant to keep it concealed, but now they have found it all out. I shall drench you with the dew of my shame, you who are young as a flower. I tell you my name, and that we are father and child, yet I thought this would put dishonour upon you, and therefore I let you pass. Do not hold it against me. Chorus At first I was angry that my friends would no longer come near me. But now I have come to a time when I could not believe that even a child of my own would seek me out. Singing. Upon all the boats of the men of Heike's faction Kagekiyo was the fighter most in call, Brave were his men, cunning sailors, And now even the leader Is worn out and dull as a horse. Villager to Kagekiyo Many a fine thing is gone, sir, your daughter would like to ask you. . . . Kagekiyo What is it? Villager She has heard of your fame from the old days. Would you tell her the ballad? Kagekiyo Towards the end of the third month, it was in the third year of Juei. We men of Heike were in ships, the men of Genji were on land. Their war-tents stretched on the shore. We awaited decision. And Noto-no-Kami Noritsune said: "Last year in the hills of Harima, and in Midzushima, and in Hiyodorigoye of Bitchiu, we were defeated time and again, for Yoshitsune is tactful and cunning. Is there any way we can beat them?" Kagekiyo thought in his mind: "This Hangan Yoshitsune is neither god nor a devil, at the risk of my life I might do it." So he took leave of Noritsune and led a party against the shore, and all the men of Genji rushed on them. Chorus Kagekiyo cried, "You are haughty." His armour caught every turn of the sun. He drove them four ways before them. Kagekiyo excited and crying out Samoshiya! Run, cowards! Chorus He thought, how easy this killing. He rushed with his spear-haft gripped under his arm. He cried out, "I am Kagekiyo of the Heike." He rushed on to take them. He pierced through the helmet vizards of Miyonoya. Miyonoya fled twice, and again; and Kagekiyo cried: "You shall not escape me!" He leaped and wrenched off his helmet. "Eya!" The vizard broke and remained in his hand and Miyonoya still fled afar, and afar, and he looked back crying in terror, "How terrible, how heavy your arm!" And Kagekiyo called at him, "How tough the shaft of your neck is!" And they both laughed out over the battle, and went off each his own way. Chorus These were the deeds of old, but oh, to tell them! to be telling them over now in his wretched condition. His life in the world is weary, he is near the end of his course. "Go back," he would say to his daughter. "Pray for me when I am gone from the world, for I shall then count upon you as we count on a lamp in the darkness . . . we who are blind." "I will stay," she said. Then she obeyed him, and only one voice is left. We tell this for the remembrance. Thus were the parent and child.</field>
+      <field name="fulltext">NOTE Fenollosa has left this memorandum on the stoicism of the last play: I asked Mr. Hirata how it could be considered natural or dutiful for the daughter to leave her father in such a condition. He said, "that the Japanese would not be in sympathy with such sternness now, but that it was the old Bushido spirit. The personality of the old man is worn out, no more good in this life. It would be sentimentality for her to remain with him. No good could be done. He could well restrain his love for her, better that she should pray for him and go on with the work of her normal life."</field>
+   </doc>
+</add>

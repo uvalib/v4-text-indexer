@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Gibbons, Orlando, 1583-1625</field>
+      <field name="author_facet">Gibbons, Orlando, 1583-1625</field>
+      <field name="author_sort_facet">gibbons orlando 1583 1625</field>
+      <field name="author_text">Gibbons, Orlando, 1583-1625</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.1819.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1612</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464298</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The first set of Madrigals and Mottets of 5 ; Parts: apt for Viols and Voyces</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">The first set of Madrigals and Mottets of 5 ; Parts: apt for Viols and Voyces</field>
+      <field name="title_facet">first set of madrigals and mottets of 5</field>
+      <field name="title_sort_facet">first set of madrigals and mottets of 5</field>
+      <field name="title_text">The first set of Madrigals and Mottets of 5 ; Parts: apt for Viols and Voyces</field>
+      <field name="year_display">1612</field>
+      <field name="year_facet">1612</field>
+      <field name="year_multisort_i">1612</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464298&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464298&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Gibbons, Orlando, 1583-1625&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;gibbons orlando 1583 1625&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The first set of Madrigals and Mottets of 5 ; Parts: apt for Viols and Voyces&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;first set of madrigals and mottets of 5&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1612&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1612&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Gibbons, Orlando&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1583&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1625&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The first set of Madrigals and Mottets of 5&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Parts: apt for Viols and Voyces&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed by Thomas Snodham [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1612&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp3674&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The first set of Madrigals and Mottets of 5&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Parts: apt for Viols and Voyces&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 14 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted; music omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Songbooks.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">TO THE RIGHT VVORTHY, my much Honoured friend, Syr Christopher Hatton, Knight of the Honourable Order of the Bath.</field>
+      <field name="fulltext">The following poems are scored for music in the source text. Where poems are not stanzaic, no attempt has been made to reconstruct the metrical lines. Variations for different voices have been ignored. Repetition marks have been ignored. [I. The siluer Swanne, who liuing had no Note] The siluer Swanne, who liuing had no Note, When death approacht vnlockt her silent throat, Leaning her breast against the reedie shore, Thus sung her first and last, and sung no more, Farewell all ioyes, O death come close mine eyes, More Geese then Swannes now liue, more fooles then wise. [II. O That the learned Poets of this time] O that the learned Poets of this time, Who in a Loue-sicke line so well can speake, Would not consume good Wit in hatefull rime. But with deepe care some better subiect finde For if their Musicke please in earthly things, How would it sound if strung with heauenly strings? [III. I Waigh not, I waigh not Fortunes frowne nor smile] I waigh not Fortunes frowne nor smile, I ioy not much in earthly ioyes, I seeke not state, I reake not stile, I am not fond of Fancies toyes, I rest so pleas'd with what I haue, I wish no more, no more I craue. [IIII. I Tremble not at noyse of warre] I tremble not at noyse of warre, I quake not at the Thunders cracke, I shrinke not at a blazing starre, I sound not at the newes of wrack, I feare no losse, I hope no gaine, I enuy none, I none disdaine. [V. I See Ambition neuer pleasde] I see Ambition neuer pleasde, I see some Tantals starue in store. I see Golds dropsie seldome easd, I see each Midas gape for more, I neither want, nor yet abound, Inough's a feast content is crownd. [VI. I Faine not friendship where I hate] I faine not friendship where I hate, I fawne not on the great for grace, I praise a meane estate, Ne yet too loftie, nor too base, This this is all my choise, my cheere, A minde content and conscience cleere. [VII. How art thou thral'd, how art thou thralde, O poore dispised creature?] How art thou thral'd, O poore dispised creature? Sith by creation, Nature made thee free, O traiterous eyes, to gaze so on her feature, That quits with scorne thy deere lost libertie. [VIII. Farewell all ioyes] Farewell all ioyes Farewell all ioyes, Farewell all ioyes, all ioyes, O Hell, O hell, O hell, Now restlesse cares my pillow, Sweet Mirtle shades, farewell, farewell, Now come, now come sad Cipresse and forlorne, and forlorne, Loues willow, She smiles, she smiles, she laughs, she ioyes at my tormenting, at my tormenting, Tost on Despaires blacke billow, Tost on Despaires black billow, Tost on Dispaires black billow, blacke billow, O let me dye lamenting. O let mee dye lamenting, lamenting, lamenting. [IX. Daintie fine Bird, that art incaged there] Daintie fine Bird, that art incaged there, Alas, how like thine and my fortunes are? Both prisoners be, And both singing thus, Striue to please her that hath imprisoned vs, Onely thus we differ thou and I, Thou liu'st singing, but I sing and dye. [X. Faire Ladies that to Loue captiued are] Faire Ladies that to Loue captiued are, And chast desires doe nourish in your minde, Let not her fault your sweet affections marr, Ne blot the bountie of all Womankinde. [XI. Mongst thousands good, one wanton Dame to finde] Mongst thousands good, one wanton Dame to finde, Amongst the Roses grow some wicked, wicked weedes, For this was not to loue but lust inclinde, For loue doth alwayes bring forth, bounteous deedes, And in each gentle hart desire of Honour breeds. [XII. Now each flowry bancke of May] Now each flowry bancke of May, Wooes the streames that glides away, Mountaines fan'd by a sweet gale, Loues the humble looking Dale, Windes the loued leaues doe kisse, Each thing tasteth of loues blisse, Onely I though blest I be, to be lou'd by desteny, Loue confest by her sweet breath, Whose deere loue is life, whose hate is death. [XIII. Lais now old, that erst attempting lasse] Lais now old, that erst attempting lasse, To Goddesse Uenus consecrates her Glass For she her selfe hath now no vse of one, No dimpled cheekes hath she to gaze vpon, She cannot see, her spring-time damaske grace, Nor dare she looke vpon her Winter face. [XIIII. What is our life?] What is our life? a play of passion, Our mirth the musicke of diuision, Our mothers wombes the tyring houses be, Where we are drest for this short Comedy, Heauen the Iudicious sharpe spectator is, That sits and markes still who doth act amisse, Our graues, that hide vs from the searching Sun, Are like drawne curtaynes when the play is done, Thus march we playing to our latest rest, Onely we dye in earnest, that's no Iest. [XV. Ah deere hart, why doe you rise?] Ah deere hart, why doe you rise? The light that shines comes from your eyes, Thee day breakes not, it is my heart, To thinke that you and I must part, O stay, or else my ioyes will dye, And perish in their infancie. [XVI. Faire is the Rose, yet fades with heate or colde] Faire is the Rose, yet fades with heate or colde, Sweet are the Violets, yet soone grow olde, The Lillie's white, yet in one day tis done, White is the Snow yet melts against the Sunne, So white, so sweet was my faire Mistris face, yet altred quite in one short houres space, Short liu'd beautie a vaine glosse doth borrow, Breathing delight to day, but none to morrow. [XVII. Nay let mee weepe, though others teares be spent] Nay let mee weepe, though others teares be spent, Though all eyes dryed be, let mine be wet, Vnto thy graue ile pay this yeerely rent, Thy liuelesse Coarse demands of mee this debt, I owe more teares then euer Coarse did craue, Ile pay more teares then ere was payd to graue. [XVIII. Nere let the Sunne with his deceiuing light] Nere let the Sunne with his deceiuing light, Seeke to make glad these watry eyes of mine, My sorrow sutes with melancholy night, I ioy in dole, in languishment I pine, My deerest friend is set, hee was my Sunne, With whom my mirth, my ioy, and all is done. [XIX. Yet if that age had frosted ore his head] Yet if that age had frosted ore his head, Or if his face had furrow'd beene with yeeres, I would not thus bemone that hee is dead, I might haue beene more niggard of my teares, But O the Sunne new rose is gone to bed, And Lillies in their spring-time hang their head. [XX. Trust not too much faire youth vnto thy feature] Trust not too much faire youth vnto thy feature, Be not enamored of thy blushing hew, Be gamesome whilst thou art a goodly creature, The flowers will fade that in thy garden grew, Sweet Violets are gathered in their spring, White Primit fals withouten pittying, FINIS.</field>
+   </doc>
+</add>

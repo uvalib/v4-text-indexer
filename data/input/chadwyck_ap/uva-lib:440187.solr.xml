@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Whitman, Sarah Helen, 1803-1878</field>
+      <field name="author_facet">Whitman, Sarah Helen, 1803-1878</field>
+      <field name="author_sort_facet">whitman sarah helen 1803 1878</field>
+      <field name="author_text">Whitman, Sarah Helen, 1803-1878</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1850's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ap/uvaGenText/tei/chap_AM0748.xml</field>
+      <field name="date_indexed_facet">201909240350</field>
+      <field name="date_text">1853</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey American Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey American Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:440187</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Hours of life, and other poems</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">American poetry -- 19th century</field>
+      <field name="subject_text">American poetry -- 19th century</field>
+      <field name="title_display">Hours of life, and other poems</field>
+      <field name="title_facet">hours of life and other poems</field>
+      <field name="title_sort_facet">hours of life and other poems</field>
+      <field name="title_text">Hours of life, and other poems</field>
+      <field name="year_display">1853</field>
+      <field name="year_facet">1853</field>
+      <field name="year_multisort_i">1853</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:440187&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:440187&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Whitman, Sarah Helen, 1803-1878&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;whitman sarah helen 1803 1878&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Hours of life, and other poems&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;hours of life, and other poems&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1853&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1853&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Whitman, Sarah Helen&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1803&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1878&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Hours of life, and other poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Providence&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;George H. Whitney&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1853&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3865781-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;cham0748&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;American poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Hours of life, and other poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Alexandria, VA&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Inc.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 25 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted ; verse reproduced elsewhere in American</field>
+      <field name="desc_meta_file_display">Poetry omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-AmPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">MISCELLANEOUS POEMS THE ENCHANTED CASTLE. FROM “THE SLEEPING BEAUTY.” All slept: the armorial bannerals Drooped idly from the castle walls, Nor wooed the morning's beam: The bell, within the mouldering tower, No longer tolled the passing hour; The castle was a dream. A pathless forest, wild and wide, Engirt the wall on every side, And stretched for many a mile: Eternal silence brooded there, Eternal shadows filled the air, And veiled the slumbering pile. So high the ancient cedars sprung, So far aloft their branches flung, So thick the covert grew, No foot its mazes could invade, No eye could pierce its depths of shade, Or see the welkin through. Yet oft, as, from some distant mound, The traveler cast his eyes around O'er wold and woodland grey; He saw, athwart the glimmering light Of moonbeams, on a misty night, A castle, far away. A hundred winters sapped the towers; A hundred summers rained their flowers Upon the castle lawn: Through day and night, through night and day, In charmèd rest, the lady lay, Unmindful of the dawn. A hundred Norland winters passed; A hundred golden summers cast Their glory on the shore; And still the guardant angels kept The place all holy, where she slept, And blessed her ever more. A VISION OF PARADISE. SUGGESTED BY DUBUFE'S PICTURES OF THE TEMPTATION AND EXPULSION. Methought this dim, old world had passed away, With all its load of agony and crime; And brightly o'er me dawned that glorious day When nature woke in its refulgent prime; So broad the splendor, so intensely fair, The unaccustomed sense pined in that purer air. Two peerless forms of loveliness and light, “In native honor robed,” before me shone, Dazzling and blinding my bewildered sight With rays reflected from Jehovah's throne; While, like bright stars in their supernal sphere, Above all pain they seemed, all sorrow, hope or fear. Beauty, and purity, and heavenly grace Floated around them like an atmosphere; While love's young star, that mocks our fallen race With meteor fires malign, soft gleaming there, In their horizon dawned with cloudless ray, Without one shade or stain that dimmed its after day. “A change came o'er the spirit of my dream;” The light, the loveliness, the bloom had fled. I trembled at the lightning's lurid gleam, And the loud thunder pealing o'er my head.— The dark waves rolled around; the lion's roar Blent with the sounding surge, and rocked the stormbeat shore. And where were they, the beautiful, the pure? Alas! now pure and beautiful no more; Scathed with the curse of knowledge; to endure, The sole, stern lesson of their withering lore; Driven from their paradisal dream away, Through pathless realms of death, to seek the gates of day. Is there no mercy in the heavens above? No star to light the exiles to their doom?— There is!—there is!—the deathless lamp of love, Shedding its soft, pale splendor through the gloom; Shorn of its earlier rays—yet oh, how fair That holy flame that burns through darkness and despair. Look on those dewy orbs like violets dim! No fear of danger, death, or pain's keen throe Glooms their pure heaven of love; alone for him Those dark forebodings of unfathomed woe; On him she turns her soft, appealing eye, Resigned for him to live, with him resolved to die: For him she dared love's Eden to forego, And the fond yearnings of her heart to quell, That he the secret of the world might know, And grasp the fruit of knowledge ere it fell. For him she sought the lore of gods, to sate The pride of soul that left her own heart desolate. The disenchanted scene is dark with woe; God's image seared with sin's corroding brand; O'er all remorse and grief their shadows throw, And leaguered angels guard the holy land: The gate of dreams is passed; through pain and toil Must the fair soul, her wings, from earthly stain assoil. And this the riddle of our destiny; The lore of lands whence life's deep waters welled. Still the cold shadow of the poison tree Darkens our earth as in the days of eld: With lingering pain, the soul evolves its power; And, on a mortal stem, unfolds the immortal flower. THE DRAMA. SPOKEN AT THE OPENING OF THE THEATRE IN PROVIDENCE, NOVEMBER 27, 1838. What new enchantment hovers in the air? Soft music breathes and festal torches glare; A roseate light illumes the storied wall, And youth and beauty throng the lofty hall. Lo, where the Drama, through the shades of night, Bursts in soft splendor on the ravished sight; Here lurks Thalia with bewildering glance, In the gay masque of Folly or Romance; There proud Melpomene, in pall and plume, Trails her imperial purples through the gloom. Immortal sisters in Art's fairy train, Long lost, long mourned, resume your genial reign! Can we forget when first in childhood's hour, Our footsteps sought your vision-haunted bower? When trembling, wondering 'mid the enraptured throng, We quaffed the tide of eloquence and song; While, stood revealed, the creatures of our dream, Bright, breathing, palpable! scarce could we deem That earth confessed such beauty;—to abide With these were life—vain shadows all beside. O cold the hearts that from such 'witching sway Could turn unmoved and passionless away. Yet, though less genial prove our sordid age To Art's bright reign than when the Grecian stage Enthroned the Drama's triumph and her pride, To sacred rights and royal deeds allied;— When priests and scholars sought her scenic halls And conquering heroes gathered to her walls, While the vast area of her temples saw Tumultuous Athens hushed in breathless awe; Still do her structures rise, her altars blaze Where late the savage tracked the pathless maze; By many a stormy river of the West, By many a lake that stays its mountain guest, Far through the wild her festal notes are borne Ere fade the echoes of the huntsman's horn. Oft when the wint'ry storms shall hurtle round, Or silent snow-flakes print the frozen ground, When the cold rain comes rattling on the blast, And mantling clouds night's blazing host o'ercast, Here shall we sit, in this enchanted hall, Where breathing thoughts and burning words enthral, Regardless of the cold world's sordid strife, And all the hollow mimicries of life, Where vainer actors idler pageants play, And wear their masks in the broad eye of day. Here shall we see again, with martial stalk, ‘The buried majesty of Denmark’ walk; Macbeth shall shudder at the ghost of crime, Nor spoil, for us, ‘the pleasure of the time.’ Here fair Hermione, long tranced to stone— Fixed like a statue on her marble throne— Descending from her pedestal, shall move And breathe and tremble at the voice of love. Here royal Katherine, love's sweet claim denied, Shall plead the rights of an imperial bride; And with such haughty eloquence inspire, Our ‘drops of tears shall turn to sparks of fire.’ Manhood shall here cast off earth's coiling care, And weary Age remember life was fair; Entranced and spell-bound by her potent sway Who ‘calls each slumbering passion into play’— Exulting, trembling, as her accents flow In varying strains of triumph or of woe— Now decked in smiles, and now her brow o'erfraught With the pale cast of melancholy thought. Far through the twilight vistas of the past, Where gathering years their cloudy mantles cast, Oft turns her eagle eye, and, at its glance, The shadows vanish from that drear expanse— Lo, at her gaze, night melteth into day, And the dark mist of ages rolls away! She hath ‘called spirits from the vasty deep,’ Roused kings and heroes from their dreamless sleep, Restored the scenes of a chivalrous age Where knightly forms heroic conflicts wage;— The victor's triumph on the ensanguined field, The plume, the pennon, and the bazoned shield; Bade the dead lover's clay-cold bosom glow, And the slain warrior meet once more his foe; And caused them, for a night, on earth to roam, Then pass like spectres to their silent home. And now she comes with all her shadowy train To hold her court within this gorgeous fane; Here her bright banner fearlessly unfurls, Nor heeds the pointless shaft the bigot hurls. She comes in living beauty to restore The wondrous deeds of legendary lore, Or, in light vaudevilles and comic mimes, To paint ‘the form and pressure of the times;’ With lofty themes to rouse the languid heart, Or stern reproof with subtle grace impart,— To wake the noble love of well-earned fame And teach the glory of a deathless name. She shows how heroes lived and martyrs died, In life dishonored and in death denied, Yet nerved the powers of death and hell to scorn When holy Honor sounds her bugle horn. Such themes new vigor to the heart supply, Flush every cheek and light up every eye. Whether in gorgeous drapery she is seen, Moving before us like an empire's queen— Or clothed in all the majesty of woe, Bids beauty's tears like molten diamonds glow— Or wreathed in smiles, with soft, seducing glance, Makes the warm life-blood through the pulses dance— Still, ever beautiful, she meets the sight, Taking all shapes to furnish new delight, Forever changing, yet forever true To one, fond aim—approving smiles from you. Long may those smiles our virgin temple grace, And Shakspeare's spirit hallow all the place. ROGER WILLIAMS. WRITTEN FOR THE FIRST ANNUAL CELEBRATION OF THE RHODE-ISLAND HISTORICAL SOCIETY, JANUARY, 13, 1847. Now, while the echoing cannon's roar Rocks our far frontal towers, And bugle blast and trumpet's blare Float o'er the “Land of Flowers;” While our bold eagle spreads his wing No more in lofty pride, But sorrowing sinks, as if from Heaven The ensanguined field to hide; Turn we from war's bewildering blaze, And conquest's choral song, To the still voice of other days, Long heard,—forgotten long. Listen to his rich words, intoned To songs of lofty cheer, Who in the howling wilderness, Mid forests wild and drear; Breathed not of exile nor of wrong, Through the long winter nights, But uttered in exulting song, The soul's unchartered rights. Who sought the oracles of God In the heart's veilèd shrine, Nor asked the monarch nor the priest, His sacred laws to sign. The brave, high heart that would not yield Its liberty of thought, Far o'er the melancholy main, Through bitter trials brought; But, to a double exile doomed, By Faith's pure guidance led— Through the dark labyrinth of life, Held fast her golden thread. Listen! The music of his dream Perchance may linger still In the old familiar places Beneath the emerald hill. The wave-worn rock still breasts the storm On Seekonk's lonely side, Where the dusky natives hailed the bark That bore their gentle guide. The Spring that gushed amid the wild In music on his ear, Still pours its waters, undefiled, The fainting heart to cheer. And the fair cove, that slept so calm Beneath o'ershadowing hills, And bore the exile's evening psalm Far up its flowery rills— The wave that parted to receive The pilgrim's light canoe, As if an angel's balmy wing Had stirred its waters blue— What though the fire-winged courser's breath Has swept its cooling tide, And fast before its withering blast, The rushing wave has dried, Still, narrowed to our crowded mart— A fair enchanted mere— In the proud city's throbbing heart It sleeps serene and clear. Or turn we to the green hill's side; There, with the spring-time showers, The white-thorn o'er a nameless grave, Rains its pale, silver flowers. Yet memory lingers with the past, Nor vainly seeks to trace His foot-prints on a rock, whence time Nor tempests can efface; Whereon he planted, fast and deep, The roof-tree of a home Wide as the wings of Love may sweep, Free as her thoughts may roam; Where, through all time, the saints may dwell, And from pure fountains draw That peace which passeth human thought, In Liberty and Law. When heavenward, up the silver stair Of silence drawn, we tread The visioned mount that looks beyond The Valley of the Dead,— Oh, may we gather to our hearts The deeds our fathers wrought, And feed the perfumed lamp of love In the cool air of thought: While Hope shall on her Anchor lean, May Memory fondly turn To wreath the amaranth and the palm Around their funeral urn. THE CROSS. “We cannot see earth's cruel eyes When ours are lifted to the skies.” Elizabeth Barrett. Sad memento of a story Sorrowful as death and love— Mystic symbol of a glory Brightening all the worlds above! From the holy ensign borrow, When thy soul is sad and lorn, Solace in that mortal sorrow By the immortal spirit borne; Fairer through life's cross and passion Shall its aureola burn— To a loftier resurrection From its lingering sorrow turn. Bind the symbol on thy bosom; From the sharp and cruel thorn, Rays of mystic glory blossom, Of that lingering sorrow borne. When thy lonely heart is dreaming Of a love on earth unfound, Think upon the love redeeming— On the soul with sorrow crowned. In lone Gethsemánes kneeling— By the loved of earth betrayed— Drink the bitter cup of healing, Wait the morning undismayed. Bear, in holy resignation, On thy heart the mystic rood— Fill with heavenly contemplation Earth's dim garden-solitude. Thus the solemn calm, enzoning Life's wild tumult, shall be thine; And thy trust in love atoning Lift thee to the life divine.</field>
+   </doc>
+</add>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Blacklock, Thomas, 1721-1791</field>
+      <field name="author_facet">Blacklock, Thomas, 1721-1791</field>
+      <field name="author_sort_facet">blacklock thomas 1721 1791</field>
+      <field name="author_text">Blacklock, Thomas, 1721-1791</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1750's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.1180.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1756</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:465349</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">An Essay on Universal Etymology ; Or the Analysis of a Sentence. Containing An account of the Parts of Speech, as common to all Languages. By Mr. Blacklock</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 18th century</field>
+      <field name="subject_text">English poetry -- 18th century</field>
+      <field name="title_display">An Essay on Universal Etymology ; Or the Analysis of a Sentence. Containing An account of the Parts of Speech, as common to all Languages. By Mr. Blacklock</field>
+      <field name="title_facet">essay on universal etymology</field>
+      <field name="title_sort_facet">essay on universal etymology</field>
+      <field name="title_text">An Essay on Universal Etymology ; Or the Analysis of a Sentence. Containing An account of the Parts of Speech, as common to all Languages. By Mr. Blacklock</field>
+      <field name="year_display">1756</field>
+      <field name="year_facet">1756</field>
+      <field name="year_multisort_i">1756</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:465349&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:465349&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Blacklock, Thomas, 1721-1791&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;blacklock thomas 1721 1791&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;An Essay on Universal Etymology ; Or the Analysis of a Sentence. Containing An account of the Parts of Speech, as common to all Languages. By Mr. Blacklock&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;essay on universal etymology&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1756&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1756&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Blacklock, Thomas&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1721&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1791&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;An Essay on Universal Etymology&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Or the Analysis of a Sentence. Containing An account of the Parts of Speech, as common to all Languages. By Mr. Blacklock&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Edinburgh&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed by Sands, Donaldson, Murray, and Cochran. For E. Wilson [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1756&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp0439&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;vi, 22 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;An Essay on Universal Etymology&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Or the Analysis of a Sentence. Containing An account of the Parts of Speech, as common to all Languages. By Mr. Blacklock&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 12 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted; most notes omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Scribendi recte sapere est et principium et fons. Hor. Of the Parts of Speech. Each sentence, whether more complete or less, Some judgment or volition must express: In each, if all its members are complete, Four parts of speech, as capital, must meet; First names, then attributes, then affirmations, And particles, demanding various stations. Division of the Parts of Speech. When, on her search intent, the studious mind Provides materials, hidden truths to find; That things, first, in their simplest forms appear, Stript of peculiar qualities, is clear. Of substance, though its being all proclaim, Beyond these forms, no notion we can frame: Things are, as substances, by names exprest; Which attributes, with qualities, invest. Of Nouns Substantive and Adjective; or Names and Attributes. No attribute can independent stand; But must some name, express'd or meant, demand; Till, from the subjects drawn where they inhere, They to the mind, like substances, appear. Where, for one thing, names are together plac'd; The first are attributes, and names the last. Of Affirmations, or Verbs. Whatever words of substances avow, That they exist, they suffer, or they do; By which, of being any state is told; The name of verbs or affirmations hold. In these, if action from the agent tend Towards some other subject, and there end, They by the name of active verbs are known; Passive, when what the subject feels is shown. But if to states, not actions, they extend, The name of neuter these may comprehend. When on himself the agent acts alone, The verb reflective most grammarians own. Of Participles. From verbs descending, but in lower sphere, As to their subjects looselier they adhere, In order next are participles view'd; Which actions, passions, states, with time, include. Of these two kinds, the present and the past, Can, in most modern tongues, alone be trac'd. Of Adverbs. But as to do, to suffer, or to be, Implies some state, some manner, or degree; Adverbs these manners, states, degrees, declare; And chiefly time, place, quantity, infer. Of Pronouns. Pronouns, of names and qualities, contain The powers, and make their repetition vain. These, as they things or qualities import, With names or attributes we may assort. They speak, the subject form, or are address'd Pronouns Personal.; Hence by names personal they are express'd. Right they assert; by questions they explore Possessive and Interrogative.; They join two periods, tho' disjoin'd before Relative.; Presence or distance faintly they assign Demonstrative.; Lessen, increase, collect, divide, define Numeral and Definitive.. Of Prepositions. By actions, passions, quality, or state, Or by relations, things with things unite: When words with words relation hath ally'd, By prepositions this is still imply'd. These, nearness, distance, property, respect; The cause efficient, or produc'd effect; The whole containing, or the parts contain'd; Rest, progress, motion, are by them explain'd. These, not from character, but situation, Of prepositions gain the appellation. Of Conjunctions. Conjunctions further still their pow'r extend; Whole periods, each on each, by them depend: For if with substance, substance we compare; When actions, states, or qualities, they share; Or if of things a long ambiguous train, In some we these deny, in others ascertain; Or when th' inquiring mind is forc'd to pause, And introduce at last some distant cause; This to conjunctions no confusion brings, Connecting periods, though disjoining things. Of Interjections. The interjection, Nature's genuine voice, Discovers when we suffer, when rejoice. Here all the feelings of the soul were found First mark'd by inarticulated sound. Yet sounds articulate, which mean the same, Their rank with interjections justly claim. The advantages of Grammar. As when, subjected still to Discord's sway, All Nature dark, deform'd, and blended lay; Till twins of Heav'n, fair Light and Order, came; And that illum'd, and this adorn'd the frame: Thus from these atoms, to our wond'ring eyes, Discourse, a fair-proportion'd pile, shall rise. Hence Charity, with all her tender train, Flies to the quick relief of want and pain; From soul to soul hence joy reflected glows; Hence the soft tear that mourns another's woes; Hence love and friendship all their force impart, And breathe the fulness of the melting heart; Hence Science lifts her voice to all mankind, And to divinity exalts the mind; God, angels, men, by intercourse, hence known, Form one great whole, whose happiness is one.</field>
+   </doc>
+</add>

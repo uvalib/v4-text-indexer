@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Fields, James Thomas, 1817-1881</field>
+      <field name="author_facet">Fields, James Thomas, 1817-1881</field>
+      <field name="author_sort_facet">fields james thomas 1817 1881</field>
+      <field name="author_text">Fields, James Thomas, 1817-1881</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1850's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ap/uvaGenText/tei/chap_AM1022.xml</field>
+      <field name="date_indexed_facet">201909240349</field>
+      <field name="date_text">[1854]</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey American Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey American Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:440448</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Poems</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">American poetry -- 19th century</field>
+      <field name="subject_text">American poetry -- 19th century</field>
+      <field name="title_display">Poems</field>
+      <field name="title_facet">poems</field>
+      <field name="title_sort_facet">poems</field>
+      <field name="title_text">Poems</field>
+      <field name="year_display">[1854]</field>
+      <field name="year_facet">1854</field>
+      <field name="year_multisort_i">1854</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:440448&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:440448&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Fields, James Thomas, 1817-1881&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;fields james thomas 1817 1881&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Poems&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;poems&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;[1854]&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1854&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Fields, James Thomas&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1817&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1881&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed by Metcalf and Company, University Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;[1854]&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3866041-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;cham1022&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;American poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Alexandria, VA&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Inc.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 25 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted ; verse reproduced elsewhere in American Poetry omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-AmPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">LAST WISHES OF A CHILD. “All the hedges are in bloom, And the warm west wind is blowing: Let me leave this stifled room, Let me go where flowers are growing. “Look! my cheek is thin and pale, And my pulse is very low: Ere my sight begins to fail Take my hand, and let us go. “Was not that the robin's song, Piping through the casement wide? I shall not be listening long: Take me to the meadow-side. “Bear me to the willow brook; Let me hear the merry mill; On the orchard I must look Ere my beating heart is still. “Faint and fainter grows my breath,— Lead me quickly down the lane: Mother dear! this chill is death,— I shall never speak again!” Still the hedges are in bloom, And the warm west wind is blowing; Still we sit in silent gloom,— O'er his grave the grass is growing. THE LITTLE HAND. Our hut was near the ocean marge, One summer many a year ago, Where, all around, the huge rocks plunged Their giant forms in deeps below. At eve we saw the sun go down The watery western skies afar, And hailed with eager, childish joy The light of every new-born star. Along the beach, among the cliffs, Our days in pastime seemed to glide, As if the hours were made to mark The ebb and flow of ocean's tide. We said, “Till all our locks are gray, Each year in June we'll hither roam, And pitch our tent; no other spot Shall be our life-long summer home.” One morn we strolled along the shore, To watch the waves come rolling in: The night had been a night of fear, Of thunder-crash and tempest din. In glee we sang our ocean songs, As on we moved across the sand. “What 's that among the salt sea-weed?” A little helpless human hand! We put the cold, wet grass aside, The gathering surf we brushed away, And there, in pallid death's embrace, A shipwrecked child extended lay. We took it from the murderous wave, Looked once upon the storm-scared eyes, Then scooped a grave where waters moan, And oft the wailing sea-bird flies. The charm had fled;—the hut, the cliff, The beach so often wandered o'er, Were poisoned by a lifeless hand;— We went—and we returned no more! GLORY. Unchanging Power! thy genius still presides O'er vanquished fields and ocean's purpled tides, Sits like a spectre at the soldier's board, Adds Spartan steps to many a broken sword; For thee and thine combining squadrons form To sweep the world with passion's awful storm; The intrepid warrior shouts thy deathless name, And plucks new valor from thy torch of fame; For him the bell shall wake its loudest song, For him the cannon's thunder echo long, For him a nation weave the unfading crown, And swell the triumph of his sweet renown. So Nelson watched, long ere Trafalgar's days, Thy radiant orb, prophetic Glory, blaze,— Saw Victory wait, to weep his bleeding scars, And plant his breast with Honor's burning stars. So the young hero, with expiring breath, Bequeathes fresh courage in the hour of death, Bids his brave comrades hear the inspiring blast, And nail their colors, dauntless, to the mast; Then dies, like Lawrence, trembling on his lip That cry of Honor, “Don't give up the ship!” A SILENT SERMON. Once as I wandered, just at close of day, Through the mute aisles of Rome's cathedral gray, No other footstep broke the stillness there, Nor whispered vows, nor solemn-breathing prayer. Alone, half trembling at the twilight gloom Which shrouds the temple, as it shrouds the tomb, I stood, unwarned, before an infant's bier,— No mourners nigh, no mother's frantic tear. A little child, unshrined by priest or hymn, Lay in the proud cathedral vast and dim: Its pallid hands, cross-folded on its breast, Seemed like an infant's left in sleep to rest; Unwept, untended, there in death it lay, A silent sermon wrapped in lifeless clay. What living voice could speak with so much power, As those dead lips in that still evening hour? Priests, censers, anthems, there no feeling shed, When face to face the living meets the dead! THE FLIGHT OF ANGELS. Two Pilgrims to the Holy Land Passed through our open door,— Two sinless Angels, hand in hand, Have reached the promised shore. We saw them take their heavenward flight, Through floods of drowning tears, And felt in woe's bewildering night The agony of years. But now we watch the golden path Their blessèd feet have trod, And know that voice was not in wrath Which called them both to God. A LEGEND OF TYROL. In a green, sheltered nook, where a mountain Stood guarding the peace-haunted ground, Lived a maiden, whose smile was the sunlight That gladdened the hill-sides around. Her voice seemed a musical echo, Whose notes wandered down from above; And wherever she walked in her beauty, Sprang blossoms of joy and of love. As she stood at her door in the morning, The hunter below, riding by, Cried out to his comrades, “We 're early! For look, there 's a star in the sky!” At the chapel, when good men were praying That angels of God would appear, Every heart turned to her, lowly kneeling, And felt that an angel was near. Thus radiant and pure in her presence, A blessing she moved, day by day, Till a proud lord beheld her and loved her, And lured her for ever away. He bore this bright bird of the mountain, Watched over and shielded the best, From the home of her youth and her kindred, Away to his own haughty nest. And lo! the grim idols in waiting Beset her for worship, and won; And the light of her beautiful childhood Went down like the swift-fading sun. And sudden as rises the black cloud, When tempests the thunder-gods start, Strange wishes encircled her bosom, And Pride swept the halls of her heart. And once, when o'ermastered by anger, Her golden-haired boy sought her side; In her fury she smote down her first-born, And he fell like a lily, and died. There were tears, burning tears, to recall him, And anguish that scorches the brain; But the harp-strings of life never answered The touch that would tune them again! She sleeps in a dark mausoleum, And ages have rolled o'er her head, But her name is remembered in Tyrol, As when she was laid with the dead. And to-day, as the traveller sits weary, And drinks from the rude fountain-bowl, They tell the sad story, and whisper The warning that speaks to your soul. TRUE HONOR. The painter's skill life's lineaments may trace, And stamp the impress of a speaking face; The chisel's touch may make that marble warm Which glows with all but breathing manhood's form; But deeper lines, beyond the sculptor's art, Are those that write their impress on the heart. On Talfourd's page what bright memorials glow Of all that 's noblest, gentlest, best below! Thou generous brother, guard of griefs concealed, Matured by sorrow, deep but unrevealed, Let me but claim, for all thy vigils here, The noiseless tribute to a heart sincere. Though Dryburgh's walls still hold their sacred dust, And Stratford's chancel shrines its hallowed trust, To Elia's grave the pilgrim shall repair, And hang with love perennial garlands there. And thou, great Bard of never-dying name, Thy filial care outshines the poet's fame; For who, that wanders by the dust of Gray, While memory tolls the knell of parting day, But lingers fondly at the hallowed tomb, That shrouds a parent in its pensive gloom, To bless the son who poured that gushing tear, So warm and earnest, at a mother's bier! Wreths for that line which Woman's tribute gave, “Last at the cross, and earliest at the grave.” Can I forget, a pilgrim o'er the sea, The countless shrines of Woman's charity? In thy gay capital, bewildering France, Where Pleasure's shuttle weaves the whirling dance, Beneath the shelter of St. Mary's dome, Where pallid suffering seeks and finds a home, Methinks I see that sainted sister now Wipe Death's cold dew-drops from an infant's brow; Can I forget that mild, seraphic grace With heaven-eyed Patience meeting in her face? Ah, sure, if angels leave celestial spheres, We saw an angel dry a mortal's tears. THE FOUNTAIN,—BOSTON COMMON. Yon fountain Nymph, now sparkling through the trees, In humble Natick wooed the mountain breeze. There, 'mid the torrent, nursed in thunders loud From the dark bosom of the stormy cloud, Or gentlier fed, when Summer's showery train In drops of music poured the welcome rain, Her lot was cast, content to glide along, Lulled by the ripple of her own sweet song. The Indian maids, her playmates, passed away, And still she waited for a brighter day, Till, all matured, she rose at Duty's call, And stepped a Naiad in her charmèd hall,— Sprang, crowned with grace, the monarch Elm beside, And stood in radiant light, his young enchanted bride. OUR SHIPS. Our stately ships! in fleet career, They linger not behind, Where gallant sails from other lands Court favoring tide and wind. With banners on the breeze, they leap As gayly o'er the foam, As lofty barks from prouder seas That long have learned to roam. The Indian wave, with luring smiles, Swept round them bright to-day; And havens to Atlantic isles Are opening on their way; Ere yet these evening shadows close, Or this frail song is o'er, Full many a straining mast will rise To greet a foreign shore. High up the lashing Northern deep, Where glimmering watch-lights beam,— Away in beauty where the stars In tropic brightness gleam,— Where'er the sea-bird wets her beak, Or blows the stormy gale,— On to the water's farthest verge Our ships majestic sail. They dip their keels in every stream That swells beneath the sky; And where the thundering billows roll, Their starry pennants fly: They furl their sails in threatening clouds That float across the main,— To link with love earth's distant bays In many a golden chain. They deck our halls with sparkling gems That shone on Orient strands, And garlands round the hills they bind, From far-off sunny lands; But we will ask no gaudy wreath From foreign clime or realm, While safely glides our ship of state, With Genius at the helm. WEBSTER.—1851. Let blooming boys, from stagnant cloisters freed, Sneer at old virtues, and the Patriot's creed, Forget the lessons taught at Valor's side, And all their country's honest fame deride. All are not such; some glowing blood remains To warm the icy current of our veins,— Some from the watch-towers still descry afar The faintest glimmer of an adverse star. When faction storms, when meaner statesmen quail, Full high advanced, our eagle meets the gale! On some great point where Honor takes her stand,— The Ehrenbreitstein of our native land,— See, in the front, to strike for Freedom's cause, The mailed Defender of her rights and laws! On his great arm behold a nation lean, And parcel empire with the Island Queen; Great in the council, peerless in debate,— Who follows Webster takes the field too late. ELOQUENCE. Immortal art! where'er thy votaries dwell, Wit plumes his wings, and Wisdom builds her cell; Honor, triumphant, spreads his portals wide, And bids thee enter, welcome to his side; Truth comes, obedient to thy silvery tone, And Virtue's voice commingles with thine own. Lo! at thy call, the radiant sisters meet, And all the Graces circle at thy feet: Ten thousand forms around thy pathway shine, But all their magic light, immortal art, is thine. SCENE FROM BOYHOOD. Look through the casement of yon village school, Where now the pedant with his oaken rule Sits like Augustus on the imperial throne, Between two poets yet to fame unknown: While restless Horace pinions martyred flies, Some younger Virgil fills the room with sighs; Who, suffering now for one untimely laugh, Erelong will write his master's epitaph; Forgetting in his lines and comments bland The painful ridges on his blistered hand. IN VENICE. O'er the waves gliding sings our gondolier,— Moonrise, high midnight, and the voice of song! Never again, never again, O Queen Of waters, may my feet the wide sea cross That laves thy marble shores. ... Take my farewell. To-morrow's sun must light the pilgrim onward, For his home is in the West, that far-off land Thy youth had never known. What sings he now Who guides this phantom bark to meet the moon! 'T is a brave chant of Bucentaur and Love, Older than Tasso, or the Genoese Who left his birthplace for the new-found isles. The maids of Venice sang it to their lutes, When Doges listened in Ausonia's prime! Turn the prow homeward, for the day-light hour Stands waiting in the East. The night is ended, And I must be gone. HOME. There are, thank Heaven, beneath this fitful dome, Some leaflets floating near affection's home; Some cloudless skies that smile on scenes below, Some changeless hues in life's wide-spanning bow. So let us live, that if misfortune's blast Come like a whirlwind to our hearths at last, Sunbeams may break from one small spot of blue, To guide us safe life's dreary desert through. CONTRAST. The crow's harsh note loud through a century rings, The nightingale is mute ere twenty Springs! When Bacon speaks, such golden thoughts attend, The fear of all men is that he will end;— When Borus rises, every drowsy son Thinks of his watch, and prays the oration done.</field>
+   </doc>
+</add>

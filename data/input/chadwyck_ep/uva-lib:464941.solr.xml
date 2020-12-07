@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Cooke, Thomas, 1703-1756</field>
+      <field name="author_facet">Cooke, Thomas, 1703-1756</field>
+      <field name="author_sort_facet">cooke thomas 1703 1756</field>
+      <field name="author_text">Cooke, Thomas, 1703-1756</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1750's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.0425.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">1753</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464941</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">A Prologue on Comic Poetry ; and An Epilogue on the Comic Characters of Women, As spoke at the Theatre Royal in Covent-Garden, With A Pastoral Dialogue As performed at the same Theatre: To which is prefixed an Ode to John Rich [by Thomas Cooke</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 18th century</field>
+      <field name="subject_text">English poetry -- 18th century</field>
+      <field name="title_display">A Prologue on Comic Poetry ; and An Epilogue on the Comic Characters of Women, As spoke at the Theatre Royal in Covent-Garden, With A Pastoral Dialogue As performed at the same Theatre: To which is prefixed an Ode to John Rich [by Thomas Cooke</field>
+      <field name="title_facet">prologue on comic poetry</field>
+      <field name="title_sort_facet">prologue on comic poetry</field>
+      <field name="title_text">A Prologue on Comic Poetry ; and An Epilogue on the Comic Characters of Women, As spoke at the Theatre Royal in Covent-Garden, With A Pastoral Dialogue As performed at the same Theatre: To which is prefixed an Ode to John Rich [by Thomas Cooke</field>
+      <field name="year_display">1753</field>
+      <field name="year_facet">1753</field>
+      <field name="year_multisort_i">1753</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464941&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464941&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Cooke, Thomas, 1703-1756&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;cooke thomas 1703 1756&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A Prologue on Comic Poetry ; and An Epilogue on the Comic Characters of Women, As spoke at the Theatre Royal in Covent-Garden, With A Pastoral Dialogue As performed at the same Theatre: To which is prefixed an Ode to John Rich [by Thomas Cooke&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;prologue on comic poetry&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1753&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1753&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Cooke, Thomas&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1703&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1756&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Prologue on Comic Poetry&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;and An Epilogue on the Comic Characters of Women, As spoke at the Theatre Royal in Covent-Garden, With A Pastoral Dialogue As performed at the same Theatre: To which is prefixed an Ode to John Rich [by Thomas Cooke]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed, and sold, by J. Purser [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1753&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp0866&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;[12] p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Prologue on Comic Poetry&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;and An Epilogue on the Comic Characters of Women, As spoke at the Theatre Royal in Covent-Garden, With A Pastoral Dialogue As performed at the same Theatre: To which is prefixed an Ode to John Rich [by Thomas Cooke]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 16 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">AN ODE TO JOHN RICH Esq; At Cowley near Uxbridge I From that great Theatre of Life For Riches fam'd, the Source of Strife, Where fair Augusta lifts her Head, Like Cybele with Turrets crown'd, Like her for mystic Rites renown'd, Like her of earthly Pow'rs the Dread, II Close at whose Feet prolific Thame, Old Ocean's Son, to meet his Dame Hastens with his replenish'd Urn, Retir'd from these capacious Scenes, And those where mimic Kings and Queens With well feign'd Love and Anger burn, III From thine own Kingdom, Rich, retir'd, Where thou hast often been admir'd, In Cowley's Shades what pleasing Cares Thy late tormented Mind relieve? From dewy Morn to fragrant Eve Thy Thoughts by Turns what Subject shares? IV What tho thy Bosom's tend'rest Part (I feel it from my own fond Heart) Is fill'd with Images of Ease, Thy much lov'd Wife, and Pledges dear Of former Bliss, whom all, who hear, Whom all, who know them, with to please, V Yet must the public Weal employ Thy Thoughts admidst the Scenes of Joy Which Summer with a bounteous Hand Pours round thee now, the Morning's Dawn, The setting Sun which gilds the Lawn, The solemn Shade, and painted Land: VI Think that of thee the rising Age Expects the Lessons of the Stage, Such as to Virtue form the Soul, Such as enlarge the manly Mind, And check the Passions ill inclin'd, Such as the Pow'rs of Vice controul. VII Would'st thou effective Language chuse, Call to thine Aid the Greecian Muse, For she of Heav'n's great Sire was born; She'll fill with Tears the tender Eye, She'll bid heroic Bosoms sigh, And Widsom with her Words adorn: VIII She reigns majestic in my Breast; By her my Dreams are often bless'd; Her Visits, in my waking Hours, Are constant with the rising Sun, And, when his dayly Race is run, I feel at Eve's Approach her Pow'rs. IX Late by the help of Lambert's Art, But more by thine own magic Part, Thou mad'st the drooping Muses smile: The Merit of the Feast was thine; You tempted to Apollo's Shrine The fair and brave of Britain's Isle. X Go on, and prove the Muse's Friend; Nor scorn the Aid which I can lend; I shall no spurious Issue bring: The sacred Fillet's round my Head; On the Aonian Mount I tread, And drink of the Castalian Spring. XI To no Disease nor Guile a Prey, May joyful pass thy Life's long Day; Nor let it be thy smallest Boast That thou art to the Muses true; Then shall they pay thy Merit's Due, And bear thy name from Coast to Coast. July. 1752. A PROLOGUE ON COMIC POETRY, Spoke before Mr. ADDISON'S Drummer, or the haunted House, by Mr. Ryan. In antient Greece, the Parent of the Stage, The comic Muse began to lash the Age: Then sordid Av'rice, then Detraction, fled; And Folly scarcely dar'd to raise her Head. To cherish Mirth, and Laughter to excite, And, by reproving Vice, to give Delight, The Greecian Genius drew the comic Pen, Offensive only to offensive Men: 'Twas then Philemon, then Menander, writ; And the State flourish'd with the Growth of Wit: On their great Plans Plautus and Terence rose, Of Mirth Promoters, yet to Folly Foes: They Attic Wit and Attic Humour knew, And from those living Springs their Subjects drew: With the Fool's Coat they cloath'd the blust'ring Blade, And loaded with Contempt the Flatt'rer's Trade: Scipio and Lælius thought it then as great To aid the Muses as to guard the State. In England when the shameless comic Band Spread their Contagion with a hostile Hand, Too gross their Wit for Wisdom to endure, In Bus'ness and in Style alike impure, Old Bickerstaff began, in Manners nice, To raise the Laugh without the Aids of Vice: Our Bard, a classic Candidate for Fame, Strove to retrieve with him the comic Name: In George's Reign these pleasing Scenes he drew Which the great Censor might with Pleasure view: No little Arts he us'd to force Applause, Where wit and Humour join'd in Virtue's Cause. To British Wit, to British Virtue, just, Pay the fair Tribute to your Poet's Dust; 'Tis to your Country's Honour when ye raise The grateful Incense of judicious Praise. AN EPILOGUE ON THE Comic Characters of Women, Spoke by Mrs. Bland. Some Poets say, if such we Poets call, That Women have no Characters at all: This ungrammatical Expression had not been used here, if it was not a Quotation from a late popular Poet. Whatever others think, I'm sure such Creatures Can not be Men, or must be Women-haters. No Characters at all! What's Lady Grace, Who's never absent, with her formal Face, Soon as the Doors are open, from her Pew, Yet the next Hour to Assignation true? Must Lady Pride too pass unheeded by, Who views her Husband with a scornful Eye, Because he's humbly born, but with Lord Fool She'll condescend at Night to — play a Pool? What can such Poets think of Mrs. Prude, Who says the fanning Zephyrs are too rude, But, when Sir Bluster haul'd her from the Light, Was too good-natur'd to reprove the Knight? One Character has fill'd the comic Scene, Enough to give to gentle Minds the Spleen: When youthful Cloe, lovelyer than the Rose, Sweet and as chaste as when untouch'd it blows, Neglectful of her Charms and fairer Name, Sees the Sun rising on a losing Game, What Heart so hard as not to mourn her Fate, And with her Fame retriev'd before too late! To see what Anguish shakes her tender Soul, When Flora sweeps the Table with a Vole, What Breast so steel'd as Grief can not invade, To see the Havock on her Beautys made! But these are Faults which distant Climes may own, To British Maids and British Wives unknown: No imputation on their Fame can fall, Where all are Trumans, Indianas all. A PASTORAL DIALOGUE, Set to Music by Mr. Arne, And sung by Mr. Lowe and Mrs. Lampe. Damon. Cast, my Love, thine Eyes around, See the sportive Lambkins play; Nature gayly decks the Ground, All in Honour of the May: Like the Sparrow and the Dove, Listen to the Voice of Love. Florella. Damon, thou hast found me long List'ning to thy soothing Tale, And thy soft persuasive Song Often held me in the Dale: Take, O! Damon, while I live, All which Virtue ought to give. Damon. Not the Verdure of the Grove, Nor the Garden's fairest Flow'rs, Nor the Meads where Lovers rove, Tempted by the vernal Hours, Can delight thy Damon's Eye, If Florella is not by. Florella. Not the Water's gentle Fall By the Bank with Poplars crown'd, Not the feather'd Songsters all, Nor the Flute's melodious Sound, Can delight Florella's Ear, If her Damon is not near. Both. Let us love, and let us live, Like the cheerful Season gay; Banish Care, and let us give Tribute to the fragrant May: Like the Sparrow and the Dove, Listen to the Voice of Love. The END</field>
+   </doc>
+</add>

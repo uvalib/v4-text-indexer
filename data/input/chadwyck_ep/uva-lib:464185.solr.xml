@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Corkine, William, 1610-1612</field>
+      <field name="author_facet">Corkine, William, 1610-1612</field>
+      <field name="author_sort_facet">corkine william 1610 1612</field>
+      <field name="author_text">Corkine, William, 1610-1612</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.1675.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">1616</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464185</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Ayres, to sing and play to the lvte and Basse Violl. With Pauins, Galliards, Almaines, and Corantos for the Lyra violl</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">Ayres, to sing and play to the lvte and Basse Violl. With Pauins, Galliards, Almaines, and Corantos for the Lyra violl</field>
+      <field name="title_facet">ayres to sing and play to the lvte and basse violl with pauins galliards almaines and corantos for the lyra violl</field>
+      <field name="title_sort_facet">ayres to sing and play to the lvte and basse violl with pauins galliards almaines and corantos for the lyra violl</field>
+      <field name="title_text">Ayres, to sing and play to the lvte and Basse Violl. With Pauins, Galliards, Almaines, and Corantos for the Lyra violl</field>
+      <field name="year_display">1616</field>
+      <field name="year_facet">1616</field>
+      <field name="year_multisort_i">1616</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464185&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464185&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Corkine, William, fl. 1610-1612&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;corkine william fl 1610 1612&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Ayres, to sing and play to the lvte and Basse Violl. With Pauins, Galliards, Almaines, and Corantos for the Lyra violl&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;ayres, to sing and play to the lvte and basse violl with pauins galliards almaines and corantos for the lyra violl&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1616&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1616&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Corkine, William&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1610&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1612&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Ayres, to sing and play to the lvte and Basse Violl. With Pauins, Galliards, Almaines, and Corantos for the Lyra violl&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed by W. Stansby for Iohn Browne [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1616&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp3652&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;[24] p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Ayres, to sing and play to the lvte and Basse Violl. With Pauins, Galliards, Almaines, and Corantos for the Lyra violl&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 18 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted; music omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Songbooks.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">The following poems are scored for music in the source texts. Where poems are not Stanzaic, no attempt has been made to reconstruct the metrical lines. Variations for different voices have been ignored. Repetition marks have been ignored. TO THE TWO HONOVRABLE KNIGHTS, SIR Edvvard Herbert, OF THE NOBLE ORDER OF THE BATH, AND SIR WILLIAM HARDY. [I.] [Sinke downe proud thoughts, your mounting hopes must now descend] 1 Sinke downe proud thoughts, your mounting hopes must now descend, Come griefe and care, hence ioyes your triumph now must end, Heauens now will smile no more my light is shaded, I pine without redresse, my life my spirits like flowers are faded. 2 O time conceale my woe, in mine owne teares drowne my distresse, Griefes none should know, when none their anguish can redresse, Pale Death hath pierst my blood, and forth it streameth, I sleepe, and to my trance, my head my heart of sorrow dreameth. II. [Some can flatter, some can faine] [1] Some can flatter, some can faine, Simple trueth shall pleade for mee Let not beautie trueth disdaine, Trueth is euen as faire as shee. 2 But since Paires must equall proue, Let my strength her youth oppose, Loue her beautie, faith her loue, On eu'n termes so may we close. 3 Corke or Leade, in equall waight, Both one iust proportion yeeld, So may breadth be pays'd with height, Steepest mount with plainest field. 4 Vertues haue not all one kind, Yet all vertues merits bee: Diuers vertues are combind, Diff'ring so Deserts agree. 5 Let then loue and beautie meete, Making one diuine concent, Constant as the sounds, and sweete, That enchant the firmament. [III.] [Sweete restraiue these showers of kindnesse] 1 Sweete restraiue these showers of kindnesse, From distrust proceeding, Nurse not wrong conceiued blindnesse, By too much sigh breeding. Loue by err or seemes astray, But dies if once suspected, Women must beleeue when they, most by men are neglected. 2 Some, forg'd flatteries onely venture, Yet returne true fauours, Iust affection like a Center, Once fixt neuer wauers: Easily as the day from night, May womens eyes discouer, If they frame their minds aright, From the false the true louer. IIII. [If streames of teares, could lessen extreame griefe] If streames of teares, Could lessen extreame griefe If streames of teares, Could lessen extreame griefe, or cause a minutes truce to woe, If deepest sighes, Sad plants might yeeld reliefe, these sorrowes to forgoe, Myne eyes my heart, my tongue should neare refraine to weepe, to sigh and to complaine, But sorrowe such impression left, of sight of speech, it mee bereft, onely to sigh. is left to mee, in this my greatest miserie. [V. Sweete sweete Let me goe] Sweete sweete Let me goe Sweete sweete Let me goe, What doe you meane to vexe mee so, cease Your Pleading force doe you thinke thus, To extort remorce, now no more. alas you ouer beare me, And I would crie, But some would heare I feare mee. [VI. Hee that hath no mistresse] Hee that hath no mistresse, must not weare a fauor Hee that hath no mistresse, must not weare a fauor, he that wooes a mistris, must serue before he haue her, he that hath no bedfellow, must lie alone, and he that hath no Lady, must be content with Ione, and so must I, for why alas my loue and I am parted, my False Cupid I will haue thee whipt, and haue thy mother carted. [VII.] [Sweete Cupid ripen her desire] 1 Sweete Cupid ripen her desire, Thy ioyfull haruest may begin, If age approch a little nyer, Twill be too late too get it in. 2 Cold Winter stormes lay standing Corne, Which once too ripe will neuer rise, And louers wish themselues vnborne, When all their ioyes lie in their eyes. 3 Then sweete let vs imbrace and kisse, Shall beautie shale vpon the ground, If age bereaue vs of this blisse, Then will no more such sport be found, [VIII. Vaine is all this worlds contention] Vaine is all this worlds contention Vaine is all this worlds contention, Fortunes fraile, and hopes deceiuing, Chance layes ambush of preuention, Our atempts of end bereuing, future thing are plast beyond our weake conceiuing minds in euery age new, thoughts engender till all to late wee render. IX. [Beautie sate bathing by a Spring] [1] Beautie sate bathing by a Spring, Where fairest shades did hide her, The windes blewe calme, the Birds did Sing, The coole streames ranne beside her, My wanton thoughts intis't mine eye To see what was forbidden, But better memorie said, Fie fie So vaine desire was chidden, 2 Into a slumber then I fell, But fond imagination Seem'd to see, but could not tell, Her feature or her fashion. But euen as babes in dreames doe smile, And sometime fall a weeping: So I awakt as wise the while, As when I fell a sleeping. X. [Now would chwore hong'd, zis but thou most ma wrong] Now would chwore hong'd, zis but thou most ma wrong, Gods bors I crie God mercy to zweare, Hast not my Rings and things, and geare with vaith and troth, Among and wout vorzake ma now, nay masse ware that, Vor if thou doo, chil take a knife &amp; honge my zelfe vor one of thow, Yea I woll, so I woll, that I woll, I vaith la, Hadds voote zweete zis what aild tha woo ma now, I cham as like to zarue thy turne, As yer I wos zince chos I borne, and sha not I haue thow, Lets zee who dere I chould but zee huds lid I zweare, Chill take azweard &amp; make a yend of I or hee, Yea I would, &amp;c. Ha not I bought my Kerzie wedding briche, Hudds hate cham angrie thou makes ma vret, And is not my bond redie zet, woold zarue ma zucha twich, Chill breake his brow, I vaith, I chill that shall loue thou, Then take a rop and drown thy zelf vor mere good will, Yea I would, &amp;c. [XI.] [Thinke you to seduce me so with words that haue no meaning] 1 Thinke you to seduce me so with words that haue no meaning, Parets can learne so to speake our voice by peeces gleaning, Nurses teach their Children so about the time of weaning. 2 Learne to speake first, then to woe, to woeing much pertaineth, He that hath not Art to hide, soone falters when he faineth, And as one that wants his wits, he smiles when he complaineth. 3 If with wit we be deceiued, our fals may be excused, Seeming good with flatterie grac't, is but of few refused, But of all accurst are they that are by fooles abused. [XII.] [Shall a frowne or angrie eye] 1 Shall a frowne or angrie eye, Shall a word vnfitly placed? Shall a shadow make me flie, As I were with Tygers chaced? Loue must not be so disgraced. 2 Shall I woe her in dispight? Shall I turne her from her flying? Shall I tempt her with delight, Shall I laugh out her denying? Noe, beware of louers crying. 3 Shall I then with patient mind, Still attend her wayward pleasure, Time will make her proue more kind, Let her coynesse then take leasure, Paines are worthy such a treasure. FINIS.</field>
+   </doc>
+</add>

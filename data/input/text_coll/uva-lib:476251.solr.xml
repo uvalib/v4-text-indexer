@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">John G. Neihardt</field>
+      <field name="author_facet">John G. Neihardt</field>
+      <field name="author_sort_facet">john g neihardt</field>
+      <field name="author_text">John G. Neihardt</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1900's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/NeiSmil.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">January, 1902</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476251</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Smile of God</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">The Smile of God</field>
+      <field name="title_facet">smile of god</field>
+      <field name="title_sort_facet">smile of god</field>
+      <field name="title_text">The Smile of God</field>
+      <field name="year_display">January, 1902</field>
+      <field name="year_facet">1902-01</field>
+      <field name="year_multisort_i">1902</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476251&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476251&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;John G. Neihardt&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;john g neihardt&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Smile of God&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;smile of god&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;January, 1902&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1902-01&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;John G. Neihardt&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Smile of God&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;1st edition&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;January, 1902&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;San Francisco&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;California Publishing Co.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;January, 1902&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;January 1902 n.s. 38 pp. 544-547&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Smile of God&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 17 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;p. 544 changed "by John G. Neihardt" to "by J.G. Neihardt" P.544, line 1, changed "father Eastward" to "farther Eastward" p. 545, line 4 changed "huddered" to "shuddered" p. 545, line 9 changed "dream;" to "dream:" ,&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">The Smile of God An Omaha Indian Story by J. G. Neihardt THE Omahas were hunting bison. The young moon was thin and bent like a bow by the arm of a strong man when they had left their village in the valley of Neshuga (Smoky Water, the Missouri). Night after night it had grown above their cheerless tepees, ever farther Eastward, until now it came forth no more, but lingered in its black lodge like a brave who has walked far, and keeps his tepee because the way was hard and long. All through the time of the growing and dying moon, the Omahas had sought for the bison. Upon a hundred hills they had halted to gaze beneath the arched hand into the lonely valleys, from whence came no sound of lowing cows nor roaring bulls. Like the voice of famine through the lonesome air came the caw-caw of the crow. Like heaps of bleaching skeletons the far off sage brush whitened. This evening as the women busied themselves with the building of the tepees, there was no crooning on their lips. The valley, in which they were pitching their camp, was still but for the clattering of the poles as they were placed in their conical positions, or the flap of the blankets that were being bound about the poles for a covering. At dreary intervals a grazing pony would toss its weary head and neigh nervously as if wondering at the stillness of its masters. The silent squaws gathered armfuls of scrub oak and plum twigs and lit fires that lapped the blackening air with hungry tongues and sent their voices roaring up the hills, to be answered by their echoes, that came back faintly like the lowing of a phantom herd. The old men and the braves sat about the fires, and no word was on their tongues. From lip to lip the fragrant pipe passed, yet even its softening influence could not move to speech the lips it kissed. Each face, upon which the firelight fell, was hideous with the gauntness of hunger. One by one the runners, sent out in search of the herds, came into camp. With a slow, swinging trot these great lean men approached, as the gaunt wolf approaches his lair in the cold light of the morning after a lonesome night when no prey has been abroad. Sullen and silent they took their places in the cheerless circle about the fires. There was no need for words from them. Their expectant companions looked into their stolid faces and read the tale of despair so readily from the drawn skin and sunken eyes, that they groaned! That was the only sound to betray the suffering of these stoical wolf-men. The glow of the West fell into the grayness of ashes, as a camp fire falls when all the women sleep. Then the dark came over the eastern hills. Far into the night the braves sat about the fires, speechless. As they listened, they could hear the hungry children whining in their sleep. Once a squaw, suddenly awakening from her dreaming slumber near the fires, leaped to her feet and cried, "Ta, ta!" ("Bison, bison!") The hoarse cry beat against the black hills and came back like a mockery. The men gazed into each other's faces and grinned with twitching lips. Again the lonesome air slumbered, save for a weird, monotonous song that arose from the tepee of the big medicine man, Ashunhunga. He was calling to Wakunda (God). The song droned itself into silence like the song of a locust when the evening is quiet. After some time a sound of wailing came from the mysterious tepee; and as the men turned their faces to the place, they beheld the half-naked form of the medicine man passing like a spectre amid the glow of the fires! The dry skin clung to his ribs and sinews. His head was thrown back and the fires lit his face. Through his parted lips the white teeth shone. Out of the hollows of his eyes a wild light glared. The dream was upon him! With bony hands clinched he beat his naked breast and cried: "Wa-hoo-ha-a! Wa-hoo-ha-a! The curse of Wakunda is upon us! The black spirits of the dead are about us! For lo! Ashunhunga has had a dream. A black spirit came to him and its were lightning and its voice was thunder as it said: 'Why do you shelter him whom Wakunda hates?' Wa-hoo-ha-a! Wa-hoo-ha-a!" Blood fell from the mysterious man's hands where the nails clenched convulsively, and his arms and breast were smeared with blood! The listeners shuddered as the wild voice began anew. "Ashunhunga will talk to the black spirit. He will learn whom Wakunda hates. Him shall we cast from us; then Wakunda will smile and the valleys shall be thunderous with herds!" Beating his breast and gesticulating wildly with his long bony arms, the old man passed back amid the tepees with wailing. Those who sat about the fires were frozen by the wild words into bronze statues of Fear! Scarcely was a breath drawn. Not a muscle moved. The black spirits of the dead were about them! Not a hand was raised to replenish the fires with fagots; the flames sank and the embers sent a dull blue light upon the circle of haggard faces. As Ashunhunga passed on toward his tepee he suddenly stumbled over a shivering form, huddled closely into the shadow. Quickly regaining his feet, he saw that upon which he had stumbled. It was a dwarfed, ill-shapen human body, with short, crooked legs and long emaciated arms with grinning joints. The form raised itself upon his hands and knees, and looked upon the medicine man with an idiotic leer upon its face. It was Shanugahi Nettle, the cripple. With a cry as of a squaw who sees a black spirit in her sleep, Ashunhunga rushed into his tepee. His mystical songs wailed over the camp for a while; then ceased. Ashunhunga, overcome by his fanatical emotions, had fallen into a swoon. And he had a dream: He was alone upon the prairie and hunger was pinching his entrails. Then there came a bison bull toward him, roaring through the silence! He raised his bow and with sure aim sent an arrow singing into the heart of the beast. Then the air grew black save for a blue light as of dying fires. The bison began to change form! Its hind legs grew short and crooked; its front legs became long and lean and sinewy like the arms of a starving man. Its body dwindled, dwindled, and it was human! Its head became indistinct, and wavered as with a haze. Then it grew up boldly in the ghastly light, and the face was the face of Shanugahi with the idiot leer! The vision whirled giddily and sank into the dizzy darkness. With a cry as of one who is stabbed in his sleep, Ashunhunga sprang from his blankets and rushed out of the tepee! Those who sat about the smouldering fires, startled from their dumb terror by the cry, raised their faces and gazed upon that of the medicine man as he passed. They did not speak, but the question in their eyes was: "Who?" "It is Shanugahi!" said Ashunhunga, in an aweing whisper. "It is Shanugahi whom Wakunda hates; he has brought the curse upon us!" ******* The ill-shapen bronze mass of flesh which was Shanugahi lay curled up in heavy slumber in the shadow of a tepee. Suddenly its sleep was broken by a heavy hand reaching out of the darkness. Shanugahi shook himself like a dog roused from sleep, raised his head and gazed about. He saw the faces of a number of braves indistinct in the dim glow of the fires. Near by a pony, with a thong in its mouth, stood ready for a rider. A strange voice close to him whispered hoarsely: "Fly! Fly! The black spirits of the dead are about you! The curse of Wakunda is upon you. Fly!" Shanugahi stared quickly about him, then turned his meaningless eyes upon his tribesmen and leered. Strong arms seized him and placed him astride the waiting pony. The thong was put in his hands. Some one lashed the pony across the haunches and it plunged down the valley into the darkness! When the dazed rider had gone some distance, the meaning of the whispered words came upon him. Cold sweat sprang out on his limbs. He glanced behind him, and the night was swarming with demons! His shriek cut the stillness like a knife of ice! He grasped the mane of the pony with a convulsive clasp. He dashed his heels into the flanks of the terrorized brute. The lone gulches thundered with the beat of hoofs! Bushes flew past, and each was a pursuing black spirit! Shanugahi clung closely to the pony's back, hiding his face in its mane; clasping its neck with all the strength of madness; pressing its ribs with his legs until the straining animal groaned with pain and fright. Clumps of sage brush flew past dizzily, and each was a heap of whitened bones. It was like falling in a nightmare through an unfathomed, immeasurable black pit, save for the scamper of the coyote, as it sought the gulches whining, or the tumbling flight of the owl or bat, fleeing upon wings that whirred in the stillness! The pace of the pony became slower and slower. Its breath came in short, rasping gasps. Then with a last effort of its terrified limbs, it took the long incline of a hill, and upon the bare summit tumbled to its knees. Shanugahi rolled off its back, and horse and rider, worn out with fright and fatigue, swooned into heavy slumber. When Shanugahi awoke, the pale light that foregoes the coming sun, lay upon the shivering hills. He looked about him and saw a circle of gray wolves staring at him with eyes like moons dawn-stricken. He felt about him for a weapon but found only his stone pipe and pouch of red willow bark. He filled his pipe and lit it with a spark struck from the flint that strewed the summit. Then the sun peeped above the far sky line, and, with its horizontal rays, touched the hills with glory. Its light warmed the frozen nerves of Shanugahi. He puffed gray rings of smoke into the air. Then taking his pipe from his mouth, he reared his hideous body into the glow of morning, and with a long, bony arm, raised his smoking pipe to the smiling sun in silent invocation. For some time motionless he stood, like a being of the black depths praying for the mercy of the shining heights! Then he uttered two words: "Wakunda! Ta!" The staring wolves, moved by the hoarse, wild voices, raised their noses to the heavens with a howl, and slunk away into the ravines. The sun rose higher, and Shanugahi breathed into his veins the laughing gold of the morning. With all the simplicity of his nature he forgot the terror of the night. It was to him as some vague and transient dream, dreamed many summers past. Yet the one fixed idea of finding the bison swayed his whole thought. His hunger had reached that stage in which it acts as a heavy draught of some subtle intoxicant. The stupor of days past had been changed into a joyous and almost hopeful delirium; and as he looked upon the sun, to him it was the smile of Wakunda. Now he would find the bison. He found the pony grazing nearby, and leaping upon its back he urged its stiffened limbs into a jog, and took the lonesome stretch of prairie with songs upon his lips. All day the pony jogged across the prairie at an easy pace toward the west. At that time of the evening when the coolness comes with the dew and the bugs awake with hummings among the grasses, Shanugahi caught a roaring sound as of some sullen storm that thunders beneath the horizon. He checked his pony, and placing his hands to his ears, listened intently. He knew the sound. Dismounting, he crawled to the top of a hill and looked into a broad valley. As far as he could see, straining his eyes, the valley was black with bison! For a moment he stood as in a spell. Then a great joy lashed his blood into a frenzy. He rushed to his pony, and, mounting, turned its head to the east. The night came down, and still Shanugahi held his pony to a run. His brain whirled giddily. Now he had found the bison; his people would not starve. He sang and shouted and laughed until his voice broke into a cackle. The delirium of the rider was caught by the pony. With all the wiry might of long generations of prairie herds, it sent the thundering hills and valleys under its flying feet. ******* At that time of the morning when the East grows pale and slumber is the deepest, the famished tribe, having moved a weary day's journey westward, was sleeping heavily. Suddenly a hoarse shout shattered their dreams and made the hills clamorous with echoes! The whole camp leaped from its blankets and stared with blinking eyes in the direction of the shout. There upon the brow of the hill that overlooked the camp, stood a horse and rider, set in bold relief against the pale sky of the morning! With a long bony arm the rider pointed to the westward, and again he cried in a weak, broken voice: "Ta! Ta!" Then horse and rider collapsed like the figures of a dream that wavers with the morning! A number of braves, running up the hill, found the bodies of the pony and Shanugahi. Upon the lips of the dead rider lingered a calm smile of contentment. "It is the smile of Wakunda!" said one old man in awe. "Wakunda smiles!" shouted the braves. The whole camp caught up the cry: "Bison! Bison! Wakunda smiles! Wakunda smiles!" And before the sun rose they were moving westward on the trail of Shanugahi. * * * * * * * Two nights afterward there was joy in the camp of the Omahas. Having found the long-sought herd, they had feasted heavily, and now they slept as the wolf sleeps when the prey has been plenteous. Beside a fire two old men were still awake, and as they smoked, they talked of Shanugahi. He had found the herd. Wakunda had smiled upon him. Yet Shanugahi was only a cripple! "Ugh!" they both grunted after a thoughtful silence, shaking their heads in wonderment at so incomprehensible a thing. Then, wrapping themselves in their blankets, they slept.</field>
+   </doc>
+</add>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">John Russell Smith</field>
+      <field name="author_facet">John Russell Smith</field>
+      <field name="author_sort_facet">john russell smith</field>
+      <field name="author_text">John Russell Smith</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1860's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.2351.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">1864</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464679</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Hugh of Leicester</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">Hugh of Leicester</field>
+      <field name="title_facet">hugh of leicester</field>
+      <field name="title_sort_facet">hugh of leicester</field>
+      <field name="title_text">Hugh of Leicester</field>
+      <field name="year_display">1864</field>
+      <field name="year_facet">1864</field>
+      <field name="year_multisort_i">1864</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464679&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464679&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Hugh of Leicester&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;hugh of leicester&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1864&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1864&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Hugh of Leicester&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;John Russell Smith&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1864&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp1864&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;4 v.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Hugh of Leicester&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 21 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only "A mery Iest of Dane Hew Munk of Leicestre" included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">VOLUME THE THIRD. Square brackets denote editorial insertions or emendations. Heere beginneth a mery Iest of Dane Hew Munk of Leicestre, and how he was foure times slain and once hanged. In olde time there was in Lecester town An Abbay of Munks of great renown, As ye shall now after heer; But amongst them all was one there, That passed all his brethern iwis; His name was Dane Hew, so haue I blis. This Munk was yung and lusty, And to fair women he had a fansy, And for them he laid great wait, in deed. In Leicester dwelled a Tayler, I reed, Which wedded a woman, fair and good; They looued eche other, by my hood, Seuen yeer, and somwhat more. Dane Hew looued this taylers wife sore; And thought alway in his minde, When he might her alone finde; And how he might her assay, And if she would not to say him nay. Upon a day, he said: fair woman free, Without I haue my pleasure of thee, I am like to go from my wit. Sir, she said, I haue many a shrewd fit Of my husband euery day. Dame, he said, say not nay, My pleasure I must haue of thee, What so euer that it cost mee. She answered and said: if it must needs be, Come to morow vnto me, For then my husband rideth out of the town, And then to your wil I wil be bown; And then we may make good game, And if ye come not, ye be to blame; But, Dane Hew, first tel thou me, What that my rewarde shalbe. Dame, he said, by my fay, Twenty nobles of good money: For we wil make good cheer this day; And so they kist and went their way. The tayler came home at euen tho, Like as he was wunt to doo; And his wife tolde him, all and some, How Dane Hew in the morning would come, And what her meed of him should be. What, dame, thou art mad, so mot I thee, Wilt thou me a cuckolds hood giue? That should me shrewdly greeue. Nay, sir, she said, by sweet saint Iohn, I wil keep my self a good woman, And get thee money also iwis: For he hath made therof a promisse, Tomorow earely heer to be; I know wel he wil not fail me. And I shall lock you in the chest, That ye out of the way may be mist; And when Dane Hew commeth hether early, About fiue of the clock truely: For at that time his houre is set, To come hether then without any let, Then I shall you call ful lightly, Look that ye come vnto me quickly. And when the day began to appeer, in y? morning, Dane Hew came thitherwarde fast renning; He thought that he had past his houre, Then softly he knocked at the taylers door. She rose vp, and bad him come neer, And said: Sir, welcome be ye heer. Good morow (he said) gentle mistris, Now tel me where your husband is, That we may be sure indeed. Sir, she said, so God me speed, He is foorth of the town, And wil not come home til after noon. With that Dane Hew was wel content, And lightly in armes he did her hent, And thought to haue had good game. Sir, she said, let be, for shame: For I wil knowe first, what I shall haue: For when I haue it I wil it not craue. Giue me twenty nobles first, And doo with me then what ye list. By my preesthood, quoth he than, Thou shalt haue in golde and siluer anon; Thou shalt no longer craue it of me; Lo, my mistresse, where they be, And in her lap he it threw. Gramercy, she said vnto Dane Hew. Dane Hew thought this wife to assay; Abide, sir, she said, til I haue laid it away: For so she thought it should be best; With that she opened then a chest. Then Dane Hew thought to haue had her alone; But the tayler [sprong] out of the chest anon, And said: sir Munk, if thou wilt stand, I shall giue thee a stroke with my brand, That thou shalt haue but little lust vnto my wife; And lightly, without any more strife, He hit Dane Hew vpon the hed, That he fel down stark dead; Thus was he first slain in deed. Alas, then said his wife, with an euil speed, Haue ye slain this munk so soone; Whither now shall we run or gone? There is no remedy, then said he, Without thou giue good counsail to me, To conuay this false preest out of the way, That no man speak of it, ne say That I haue killed him, or slain, Or els that we haue doon it in vain. Yea, sir (she said), let him abide, Til it be soon in the euen tide; Then shall we him wel conuay: For ye shall beare him into the Abbay And set him straight vp by the wall, And come your way foorth withall. The Abbot sought him all about, For he heard say that he was out, And was very angry with him in deed, And would neuer rest, so God me speed, Vntil Dane Hew that he had found, And bad his man to seek him round About the place, and to him say, That he come speak with me straight way. Foorth went his man, til at the last, Beeing abrode, his eye he cast Aside, where he Dane Hew did see, And vnto him then straight went he, And thinking him to be aliue He said: Dane Hew, so mut I thriue, I haue sought you, and meruel how That I could not finde you til now. Dane Hew stood as stil as he that could not tel, What he should say; no more he did good nor il. With that the Abbots man said with good intent: Sir, ye must come to my Lord, or els you be shent. When Dane Hew answered neuer a dele, He thought he would aske some counsail. Then to the Abbot he gan him hye: I pray you my Lord come by and by, And see, where Dane Hew stands straight by the wall, And wil not answere, what so euer I call. And he stareth and looketh vpon one place, Like a man that is out of grace; And one woord he wil not speak for me. Get me a staf (quoth the Abbot), and I shall see, And if he shall not vnto me answere. Then when the Abbot came there, And saw him stand vpright by the wall, He then to him began to call, And said: thou false Bribour, thou shalt aby, Why keepest thou not thy seruice truely? Come hether, he said, with an euil speed; But no woord that Dane Hew answered in deed. What, whors? (q. the Abbot), why spekest not thou? Speak, or els I make God a vow, I wil giue thee such a stroke vpon thy head, That I shall make thee to fall down dead. And with that he gaue him such a rap, That he fel down at that clap. Thus was he the second time slain. And yet he wroght them much more pain, As ye shall afterwarde heer ful wel. Sir, quoth the abbots [m]an, ye haue doon ill: For ye haue slain Dane Hew now, And [wilt be] suspended this place, I make God a vow. What remedy? (quod the Abbot than) Yes, quoth his man, by sweet Saint Iohn, If ye would me a good rewarde giue, That I may be the better while that I liue. Yes (q. the Abbot), xl. shillings thou shalt haue, And if thou can mine honor saue. My Lord, I tel you, so mot I thee Vnto such a Taylers house haunted he, To woo his prety wife certain; And thither I shall him bring again, And there vpright I shall him set, That no man shall it knowe or wit; And then euery man wil sain, That the Tayler hath him slain. For he was very angry with him, That he came to his wife so oft time. Of his counsail he was wel appaid, And his man took vp dane Hew that braid, And set him at the Taylers door anon, And ran home as fast as he might gone. The Tayler and his wife were in bed, And of Dane Hew were sore afraid, Lest that he would them bewray, And to his wife began to say: All this night I haue dreamed of this false caitife, That he came to our door (quoth he to his wife). Jesus (quoth his wife), what man be ye, That of a dead man so sore afraid ye be: For me thought that you did him slo. With that the Tayler to the door gan go, And a Polax in his hand, And saw the Munk by the door stand, Whereof he was sore afraid. And stil he stood, and no woord said, Til he spake vnto his wife: Dame, now haue I lost my life, Without I kil him first of all. Foorth he took his Polax or mall, And hit Dane Hew vpon the head, That he fel down stark dead. And thus was Dane Hew three times slain, And yet he wrought him a train, Alas, quoth the Taylers wife, This caitife dooth us much strife. Dame, he said, what shall we now doo? Sir, she said, so mote [it] go. The Munk in a corner ye shall lay, Til to morow before the day; Then in a sack ye shall him thrast, And in the Mil dam ye shall him cast; I counsail it you for the best surely. So the Tayler though[t] to doo truely. In the morning he took Dane Hew in a Sack. And laid him lightly vpon his back; Vnto the Mill dam he gan him hye, And there two theeues he did espye, That fro the Mil came as fast as they might. But when of the Tayler they had a sight, They were abashed very sore, For they had thought the miller had come thore: For of him they were sore afraid, That the Sack there down they laid, And went a little aside, I cannot tel where. And with that the Tayler saw the sack lye there, Then he looked therin anon; And he saw it was ful of Bacon. Dane Hew then he laid down there, And so the bacon away did beare, Til he came home, and that was true. The theeues took vp y? sack with Dane Hew, And went their way, til they came home. One of the theeues said to his wife anon: Dame, look what is in that sack, I thee pray: For there is good bacon, by my fay; Therfore make vs good cheer lightly. The wife ran to the Sack quickly; And when she had the sack vnbound, The dead Munck therein she found. Then she cryed out, and said: alas, I see heer a meruailous case, That ye haue slain Dane Hew so soon; Hanged shall ye be, if it be knowen. Nay, good dame, said they again to her, For it hath been the false miller. Then they took Dane Hew again, And brought him to the mil certain. Where they did steal the Bacon before; And there they h?ged Dane Hew for store. Thus was he once hanged in deed, And y? theeues ran h?e, as fast as they could speed. The Millers wife rose on the morning erly, And lightly made herself redy, To fetch some Bacon at the last, But when she looked vp, she was agast, That she saw the munk hang there; She cryed out, and put them all in fere; And said: heer is a chaunce, for the nones, For heer hangeth the false Munk, by cocks bones, That hath been so lecherous many a day, And with mens wiues vsed to play. Now some body hath quit his meed ful wel, I trow it was the Deuil of Hel; And our Bacon is stolne away, This I call a shrewd play. I wot not what we shall this winter eate, What, wife (quoth the Miller), ye must all this forget, And giue me some good counsail, I pray, How we shall this Munk conuay, And priuily of him we may be quit. Sir, she said, that shall you lightly wit; Lay him in a corner till it be night, And we shall conuay him, or it be day light. The Abbot hath a close heer beside, Therein he hath a good horse vntied, Go, and fetch him home at night, And bring him vnto me straight, And we shall set him there vpon in deed, And binde him fast, so God me speed, And giue him a long pole in his hand, Like as he would his enmies withstand. And vnder his arme we will it thrust, Like as he would fiercely iust. Fo[r] (she said), as ye wel knowe, The Abbot hath a Mare gentle and lowe, Which ambleth wel, and trotteth in no wise; But in the morning, when the Abbot dooth rise, He commaundeth his mare to him to be brought, For to see his workmen if they lack ought. And vpon the mare he rideth, as I you tel, For to see, and all things be wel. And when this Horse seeth this mare anon, Vnto her he wil lightly run or gone. When the Miller this vnderstood, He thought his wiues counsail was good. And held him wel therwith content, And ran for the horse, verament. And when he the horse had fet at the last, Dane Hew vpon his back he cast, And bound him to the horse ful sure, That he might the better indure, To ride as fast as they might ren. Now shall ye knowe how the Miller did then: He tooke the horse by the brydle anon, And Dane Hew sitting theron; And brought him, that of the mare he had a sight. Then the horse ran ful right. The Abbot looked a little him beside, And saw that Dane Hew toward him gan ride; And was almoste out of his minde for feare, When he saw Dane Hew come so neere. He cryed: help, for the loove of the trinitè: For I see wel, that Dane Hew auenged wil be; Alas, I am but a dead man; And with that from his mare he ran. The abbots men ran on Dane Hew quickly, And gaue him many strokes lightly, With clubs and staues many one. They cast him to the earth anone; So they killed him once again, Thus was he once hanged, and foure times slaine, And buried at the last, as it was best. I pray God send vs all good rest. Amen.</field>
+   </doc>
+</add>

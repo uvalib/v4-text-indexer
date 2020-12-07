@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Hartley Alexander</field>
+      <field name="author_facet">Hartley Alexander</field>
+      <field name="author_sort_facet">hartley alexander</field>
+      <field name="author_text">Hartley Alexander</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1920's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/AleAmer.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">January, 1922</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:475660</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">American Indian Myth Poems</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">American Indian Myth Poems</field>
+      <field name="title_facet">american indian myth poems</field>
+      <field name="title_sort_facet">american indian myth poems</field>
+      <field name="title_text">American Indian Myth Poems</field>
+      <field name="year_display">January, 1922</field>
+      <field name="year_facet">1922-01</field>
+      <field name="year_multisort_i">1922</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:475660&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:475660&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Hartley Alexander&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;hartley alexander&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;American Indian Myth Poems&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;american indian myth poems&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;January, 1922&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1922-01&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Hartley Alexander&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;American Indian Myth Poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1922&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Charles Scribner's Sons&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;January, 1922&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="callNo"&gt;Print copy consulted: University of Virginia Library call number AP 2 .S4 vol. 71&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;112-114&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;American Indian Myth Poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1998&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1998 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 10 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">American Indian Myth Poems BY HARTLEY ALEXANDER THE poetic spirit of the American Indian is a thing to be retrieved fragmentarily, partly through the echoes of old songs, partly through the dim rememberings of ancient beliefs. The native expression is seldom articulate after the manner of white men; it is too simply a communion with nature to need formal articulation. But it falls easily into the cadences of unaffected speech, interpreted but not misportrayed. The story of the never-ending strife of the Daughter of the South, Mother of Life, with the Wolf-Chieftain of the North; the naïve faith that to bathe the bare feet in the morning dews will bring youthful power; belief in Spirit-Men of the Mirage; old myths of birds or animals who have wished death into the world, — of such fragments as these are the inspirations for what is here given, tradition from the Indian, heritage for ourselves. THE CITIES OF WHITE MEN THOSE men build many houses:They dig the earth, and they build;They cut down the trees, and they build;They work always — building.From the elevation of the mountainsideI behold the clouds:The clouds build many beautiful houses in the sky:They build, and they tear down;They build, and they dissolve. . . .The cities of white men,They are not beautiful like the cloud cities;They are not vast, like the cloud cities. . . .A wind-swept teepeeIs all the house I own. . . . THE BLIZZARD WHIPPED onwards by the North WindThe air is filled with the dust of driven snow:The earth is hidden,The sky is hidden,All things are hidden, —The air is filled with stinging,Before, behind, above, below, —Who can turn his face from it? . . .All the animals drift mourning, mourning. . . .Only the Gray Wolf laughs. Who are ye who wallow in the winds?Who are ye who strike with stinging blows? . . .Man-beings out of the North?Beast-beings out of the North?Snow-beings with fingers of thin ice? . . .I am a Daughter of the South:My lips are soft, my breath is warm,My heart is beating wildly, —I cannot live in the cold. . . .All my animals drift mourning, mourning. . . .Only the gaunt Gray Wolf is laughing. To-morrow three suns will rise, side by side;All the earth will be covered with dazzling snow, —Cold, cold, and very quiet. . . .The animals will lie buried in the snow, —Cold, and very quiet. . . .But the gaunt Gray Wolf will break a new trail,Running, with three shadows blue upon the snow. THE WET GRASS OF MORNING IN the spring when I bathe my feet in the wet grass of morning,I see many smiles upon the meadows. . . .There are drops of shining dew clinging to the blue harebells,And the little white starflowers sparkle with dew, shining. . . .Old Woman Spider has beaded many beautiful patterns,Spreading them where the Sun's ray fails. . . .He also is smiling as he catches the red of the blackbird's opening wing,As he hearkens to the mocking-bird inventing new songs. . . .I was an old man as I sat by the evening fire;When I bathe my feet in the wet grass of morning I am young again. MIRAGE THE footfalls of many feet are on the prairies,Treading softly, like the rustling of shaken grasses;In the air about me is a sound scarce audible,As of the wings of silent birds, low-flying. . . .What are they that move in the luminous mid-day,Invisibly, intangibly? . . .It is hot and whisperingly still;I see only the quivering air, there on the far horizon,And beyond it a lake of cool water lifted into the sky:Pleasant groves are growing beside it,Very distant I see them. . . .Are these men come out of the silence to walk beside me?Are these gods who flit with invisible wings? THE GREAT DRUM THE circle of the Earth is the head of a great drum;With the day, it moves upward — booming;With the night, it moves downward — booming;The day and the night are its song.I am very small, as I dance upon the drum-head;I am like a particle of dust, as I dance upon the drum-head;Above me in the sky is the shining ball of the drumstick.I dance upward with the day;I dance downward with the night;Some day I shall dance afar into space like a particle of dust.Who is the Drummer who beats upon the earth-drum?Who is the Drummer who makes me to dance his song? THE ORIGIN OF DEATH IN the Day ere Man came,In the Morning of Life,They came togetherThe Father, the Mother,Debating."Forever they shall live,"Our Children,"When they are born Men,"Forever they shall live,"Said the Father,Said the Mother.But the little Bird cried,Ah, the little Bird cried:"How shall I nest me —"How shall I nest me"In their warm graves"If men live forever?" THE SUN'S LAST RAY UPON the blue mountain I stood,Upon the mountain as he sank into the Rivers of Night:The camps of the clouds in the heavens were shining with evening fires, many-colored,And the pools on the plain below gleamed with many reflections:All things were made precious with the Day's last ray.Farewell, my Father, the Shining One!Farewell, whither thou goest,Like an aged chieftain adorned with the splendors of many deeds!Thou dost touch the world with many reflections,With parting injunctions many —Thy thought thou hast given us.</field>
+   </doc>
+</add>

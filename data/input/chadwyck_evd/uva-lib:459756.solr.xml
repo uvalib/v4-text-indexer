@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Lydgate, John, 1370-1451</field>
+      <field name="author_facet">Lydgate, John, 1370-1451</field>
+      <field name="author_sort_facet">lydgate john 1370 1451</field>
+      <field name="author_text">Lydgate, John, 1370-1451</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1930's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.1127.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1934</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459756</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">A Mumming At London</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 20th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 20th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">A Mumming At London</field>
+      <field name="title_facet">mumming at london</field>
+      <field name="title_sort_facet">mumming at london</field>
+      <field name="title_text">A Mumming At London</field>
+      <field name="year_display">1934</field>
+      <field name="year_facet">1934</field>
+      <field name="year_multisort_i">1934</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459756&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459756&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Lydgate, John, 1370?-1451?&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;lydgate john 1370 1451 &lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A Mumming At London&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;mumming at london&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1934&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1934&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Lydgate, John&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1370&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1451&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Mumming At London&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Published for The Early English Text Society, by Humphrey Milford, Oxford University Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1934&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3871806-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv11127&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Mumming At London&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 25 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;(c) 1994 Chadwyck-Healey. Do not export or print from this database without checking the Copyright Conditions to see what is permitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries, introductory and editorial matter omitted&lt;lb/&gt;The following plays have been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Copyright (c) 1910–1934, Kraus Reprint and The Early English Text Society. This text may not be reproduced, except for fair dealing purposes, without the express permission of Chadwyck-Healey and the copyright holder&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: A mumming at London.</field>
+      <field name="desc_meta_file_display">Genre: Spectacles and minstrelsy to 1485.</field>
+      <field name="desc_meta_file_display">Date first published: 1427 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1427–1430.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;There are no identifiable speakers in this play&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">43. A MUMMING AT LONDON.</field>
+      <field name="fulltext">[MS. Trin. Coll. Camb., R. 3. 20, pp. 55–65.] Lo here filoweþe þe deuyse of a desguysing to fore þe gret estates of þis lande, þane being at London, made by Lidegate Daun Iohan, þe Munk of Bury. of Dame Fortune, Dame Prudence, Dame Rightwysnesse and Dame Fortitudo. beholdeþe, for it is moral, plesaunt and notable. Loo, first komeþe in Dame Fortune. Loo here þis lady þat yee may see, Lady of mutabilytee, Which þat called is Fortune, For seelde in oon she dooþe contune. For as shee haþe a double face, Right so euery houre and space She chaungeþe hir condycyouns, Ay ful of transmutacyouns. Lyche as þe Romans of þe Roose Descryveþe hir, with-outen glose, And telleþe pleyne, howe þat she Haþe hir dwelling in þe see, Ioyning to a bareyne roche. And on þat oon syde dooþe aproche A lytel mountaygne lyke an yle; Vpon which lande some whyle Þer growen fresshe floures nuwe, Wonder lusty of þeyre huwe, Dyuers trees, with fruyte elade. And briddes, with þeyre notes glaade, Þat singen and maken melodye; In þeyre hevenly hermonye Somme sing on hye, and some lowe. And Zepherus þeer dooþe eeke blowe With his smooþe, attempree ayre. He makeþe þe weder clere and fayre And þe sesoun ful of grace. But sodeynly, in lytel space, Vpon þis place mooste ryal Þer comeþe a wawe and for-dooþe al. First þe fresshe floures glade On þeyre stalkes he doþe faade. To þeyre beautee he dooþe wrong; And þanne farweel þe briddes song. Braunche and boughe of euery tree She robbeþe hem of hir beautee, Leef and blossomes downe þey falle. And in þat place she haþe an halle, Departed and wonder desguysee. Frome þat oon syde, yee may see, Ceryously wrought, for þe noones, Of golde, of syluer, and of stoones, Whos richesse may not be tolde. But þat oþer syde of þat hoolde Is ebylt in ougly wyse, And ruynous, for to devyse; Daubed of clay is þat doungeoun, Ay in poynt to falle adoun. Þat oon fayre by apparence, And þat ooþer in existence Shaken with wyndes, rayne and hayle. And sodeynly þer dooþe assayle A raage floode þat mancyoun, And ouerfloweþe it vp and doun. Her is no reskous, ner obstacle Of þis ladyes habytacle. And as hir hous is ay vnstable, Right so hir self is deceyuable: In oo poynt she is neuer elyche; Þis day she makeþe a man al ryche And thorughe hir mutabilytee Casteþe him to morowe in pouertee. Þe proddest she can gyve a fal: She made Alexaundre wynnen al, Þat noman him with stonde dare, And caste him dovne, er he was ware. So did sheo Sesar Iulius: Sesar a bakars seon. She made him first victorius, Þaughe to do weel sheo beo ful looþe; Of a bakers sonne, in sooþe, She made him a mighty emperrour, And hool of Roome was gouuernour, Maugrey þe Senaat and al þeyre might; But whanne þe sonne shoone mooste bright Of his tryumphe, fer and neer, And he was corouned with laurier, Vnwarly thorughe hir mortal lawe With bodekyns he was eslawe At þe Capitoyle in Consistorye, Loo, affter al his gret victorye. See, howe þis lady can appalle Þe noblesse of þeos prynces alle. She haþe two tonnys in hir celler; Þat oon is ful of pyment cler, Confeit with sugre and spyces swoote And manny delytable roote. But þis is yit þe worst of alle: Þat oþer tonne is ful of galle; Whoo taasteþe oon, þer is noon ooþer, He moste taaste eeke of þat toþer. Whos sodeyne chaunges beon not sofft, For nowe sheo can reyse oon alofft, Frome lowghe estate til hye degree. In olde storyes yee may see Estates chaunge, whoo takeþe keepe. For oon Gyges, þat kepte sheepe, Sheo made, by vertu of a ring, For to be made a worþy kyng; And by fals mourdre, I dare expresse, He came to al his worthynesse— Moost odyous of alle thinges. And Cresus, ricchest eeke of kynges, Was so surquydous in his pryde, Þat he wende, vpon noo syde Noon eorþely thing might him pertourbe, Nor his ryal estate distourbe. Til on a night a dreme he mette, Howe Iuvo in þe ayre him sette Ecclesiasticus xxvjo capo. And Iubiter, he vnderstondes, Gaf him water vn-to his handes, And Phebus heelde him þe towayle. But of þis dreme þe devynayle His doughter gane to specefye, And fer to-forne to prophesye, Whiche called [was] Leryopee. Sheo sayde, he shoulde an hanged bee; Þis was hir exposicyoun. Loo, howe his pruyde was brought adovne. And alle þeos chaunges, yif þey beo sought, Þis fals lady haþe hem wrought, Avaled with þeyre sodeyne showres Þe worþynesse of conquerroures. Reede of poetes þe comedyes; And in dyuers tragedyes Yee shal by lamentacyouns Fynden þeyre destruccyouns— A thousande moo þan I can telle—, In-to mescheef howe þey felle Dovne frome hir wheel, on see and lande. Þer-fore, hir malys to withstande, Hir pompe, hir surquydye, hir pryde, Yif she wol a whyle abyde, Foure ladyes shall come heer anoon, Which shal hir power ouergoone, And þe malys eeke oppresse Of þis blynde, fals goddesse, Yif sheo beo hardy in þis place Oonys for to shewe hir double face. Nowe komeþe here þe first lady of þe foure, Dame Prudence. Loo, heer þis lady in youre presence Of poetis called is Dame Prudence, Þe which with hir mirrour bright, By þe pourveyaunce of hir forsight And hir myrrour, called provydence, Is strong to make resistence In hir forsight, as it is right, Ageyns Fortune and al hir might. For Senec seyþe, who þat can see, Þat Prudence haþe eyeghen three, Specyally in hir lookynges To considre three maner thinges, Alweyes by goode avysement: Thinges passed and eeke present, And thinges affter þat shal falle. And she mot looke first of alle, And doon hir inwarde besy peyne, Thinges present for to ordeyne Avysely on euery syde, And future thinges for to provyde, Þe thinges passed in substaunce For to haue in remembraunce. And who þus dooþe, I say þat hee Verrayly haþe yeghen three Comitted vn-to his diffence, Þe truwe myrrour of prouydence. Þane þis lady is his guyde, i. providencia. Him to defende on euery syde Ageyns Fortune goode and peruerse And al hir power for to reuerse. For fraunchysed and [at] liberte, Frome hir power to goo free, Stonde alle folkes, in sentence Wheeche beon gouuerned by Prudence. Nowe sheweþe hir heer þe secounde lady, Dame Rigwysnesse. Seoþe here þis lady, Rightwysnesse. Of alle vertues she is pryncesse, For by þe scales of hir balaunces Sheo sette hem alle in gouuernaunces. She putteþe asyde, it is no dreede, Frenship, fauour and al kyns meede. Love and drede she setteþe at nought, For rightful doome may not beo bought. And Rightwysnesse, who can espye, Haþe neyþer hande ner yeghe. She loste hir hande ful yore agoone, For she resceyueþe gyfftes noone, Noþer of freonde, neyþer of foo. And she haþe lost hir sight al-soo, For of right sheo dooþe provyde, Nought for to looke on neyþer syde, To hyeghe estate, ner lowe degree, But dooþe to boþen al equytee, And makeþe noon excepcyoun To neyþer part, but of raysoun. And for þe pourpos of þis mater Of a iuge yee shal heere, Which neuer his lyff of entent Þer passed no iugement By his lippes of falsnesse; Of whome þe story dooþe expresse, Affter his deeþe, by acountes cleer, More þane three hundreþe yeer, His body, as is made mencyoun, Was tourned vn-to corrupcyoun, Þe story telleþe, it is no dreed; But lyche a roos, swoote and reed, Mouþe and lippes werne yfounde, Nought corrupte, but hoole and sounde. For trouth is, þat he did expresse In alle hees doomes of rithwysnesse. For þis lady with þeos balaunce Was with him of acqweyntaunce, Which him made in his ententys To gyf alle rightwyse iugementis. Where fore þis lady, which yee heer see With hir balaunces of equytee, Haþe þe scaalis honged soo, Þat she haþe no thing to doo Neuer with Fortunes doublenesse. For euer in oon stant Rightwysnesse, Nowher moeving too ne froo In no thing þat she haþe to doo. Loo, heer komeþe in nowe þe thridde lady, called Fortitudo. Takeþe heede, þis fayre lady, loo, Ycalled is Fortitudo, Whame philosophres by þeyre sentence Ar wonte to cleepe Magnyfysence. And Fortitudo soþely sheo hight, Ageyns alle vyces for to fight, Confermed as by surtee Ageynst all aduersytee. In signe wher of sheo bereþe a swerde, Þat sheo of no thing is aferd. For comune profit also she, Of verray magnanymyte, Thinges gret dooþe vnderfonge, Taking enpryses, wheeche beon stronge. And moost sheo dooþe hir power preove A communaltee for to releeve, Namely vpon a grounde of trouthe; Þanne in hir þer is no slouthe For to maynteyne þe goode comune. And alle þassautes of fortune, Of verray stidfastnesse of thought Alle hir chaunges she sette at nought. For þis vertu magnyfycence Thorough hir mighty excellence She armed þeos philosophres oolde, Of worldely thing þat þey nought tolde Recorde vpon Dyogenes, On Plato and on Socrates. She made Cypion of Cartage To vnderfongen in his aage For comune proufyte thinges gret; i. republica. And for no dreed list not leet, Ageynst Roome, þat mighty tovne, For to defende his regyoun. Sheo made Hector for his cytee To spare for noon aduersytee, But, as a mighty chaumpyoun, In þe defence of Troyes toun To dye with-outen feer or dreed. And þus þis lady, who takeþe heed, Makiþe hir chaumpyoun[e]s strong, Parayllous thinges to vnderfong, Til þat þey þeyre pourpos fyne. Recorde of þe worthy nyen, Of oþer eeke þat weere but late, I meene prynces of latter date. Herry þe Fyfft, I dare sey soo, He might beo tolde for oon of þoo; Empryses wheeche þat were bygonne He lefft not til þey weere wonne. And I suppose, and yowe list see, Þat þees ladyes alle three Wer of his counseyle doutelesse, Force, Prudence and Rightwysnesse. Of þeos three he tooke his roote, To putte Fortune vnder foote. And sith þis lady, in vertu strong, Sousteneþe trouthe, and dooþe not wrong, Late hir nowe, to more and lasse, Be welcome to yowe þis Cristmasse. And þeos edoone, komeþe inne þe feorþe lady, cleped Dame Feyre and Wyse Attemperaunce. Þis feorþe lady þat yee seon heer, Humble, debonayre and sadde of cheer, Ycalled is Attemperaunce; To sette al thing in gouuernaunce And for hir sustres to provyde, Vyces alle shal circumsyde, And setten hem in stabulnesse. With hir Cousin Soburnesse She shal frome vyces hem restreyne And in vertu holde hir reyne, And þer-inne gyf hem libertee, Eschuwing alle dishonestee; And hem enfourmen by prudence, For to haue pacyence, Lownesse and humylytee, And pruyde specyally to flee. Contynence frome gloutonye, Eschuwe deshoneste compaignye, Fleen þe dees and þe taverne, And in soburnesse hem gouverne; With hert al þat euer þey can, In vertu loven euery man; Sey þe best ay of entent: Whoo þat seyþe weel, dooþe not repent. Detraccion and gloutouny, Voyde hem frome þy companye And al rancoure sette asuyde. Be not to hasty, but euer abyde, Specyally to doone vengeaunce; In aboode is no repentaunce. And in vertu whoo is þus sette, Þanne beo þeos sustres weel ymette; And sooþely, if it beo discerned, Who by þeos foure is þus gouuerned— Þus I mene: þat by Prudence He haue þe myrrour of Provydence. For to consider thinges alle, Naamely parylles, or þey falle— And who þat haue by gouuernaunce Of Rightwysnesse þe ballaunce, And strongly holde in his diffence Þe swerd of hir Magnyfycence: Yee beon assured frome al meschaunce, Namely whanne þat Attemperaunce Hir sustre gouuerneþe al three. Frome Fortune yee may þane go free, Booþe alwey in hert and thought. Whyle yee beo soo, ne dreed hir nought, But avoydeþe hir acqweyntaunce For hir double varyaunce, And fleoþe oute of hir companye And alle þat beon of hir allye. And yee foure susters, gladde of cheer, Shoule abyde here al þis yeer In þis housholde at libertee; And ioye and al prosparytee With yowe to housholde yee shoule bring. And yee all foure shal nowe sing With al youre hoole hert entiere Some nuwe songe aboute þe fuyre, Suche oon as you lykeþe best; Lat Fortune go pley hir wher hir list.</field>
+   </doc>
+</add>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Lauder, George</field>
+      <field name="author_facet">Lauder, George</field>
+      <field name="author_sort_facet">lauder george</field>
+      <field name="author_text">Lauder, George</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1910's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.1278.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1913</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:463854</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">Damon</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 20th century</field>
+      <field name="subject_text">English poetry -- 20th century</field>
+      <field name="title_display">Damon</field>
+      <field name="title_facet">damon</field>
+      <field name="title_sort_facet">damon</field>
+      <field name="title_text">Damon</field>
+      <field name="year_display">1913</field>
+      <field name="year_facet">1913</field>
+      <field name="year_multisort_i">1913</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:463854&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:463854&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Lauder, George&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;lauder george&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Damon&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;damon&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1913&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1913&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Lauder, George&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Damon&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Manchester&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Manchester University Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1913&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp2163&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;2 v.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Damon&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 26 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only commendatory poem by Lauder included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">iv. Damon: OR A PASTORAL ELEGY, on the Death of his Honoured Friend William Drummond of Hawthornden. By G. LAUDER. [From the folio edition of the Works. Edinburgh, 1711.] Tu decus omne tuis, postquam te fata tulerunt, Ipsa Pales agros, atque ipse reliquit Apollo. Virgil. The lonely Lysis, whom a froward Fate Full Twenty Summers in a sober State, Had seen a Stranger to his Native Soil, In Foreign Fields, worn with the weary Toil Of wandring, waiting on a wayward Flock Which neither hois'd his Hopes, nor swell'd his Stock; One Day went pensive o're a pleasant Plain, Near where old Maes doth fall into the Main: His Heart was heavy, and he knew not why, His Lambs did bleeting go, the surly Sky Seem'd to presage a Storm, which to prevent Unto his old Retreat he swiftly went. An Aged Elme there was, whose spreading Arms Had shelter'd him from many Showers and Storms, And on whose wrinkl'd Rind in such Distress His Knife his younger Fancies did express, In Love-Knots, Letters, Ciphers; which could shew The Story of his Life to them who knew His former Loves. There scarce he was well set, When o're the Plain came posting, panting, wet, The young Alcydon, who not long before Was from his Native Albany come o're. Lysis, who lov'd him (since he had not seen His Face in many Years) thought it had been Some Ghost or Shadow that did fool his Sense, Until his Smile did check that Fear's Offence: Then falling on his Neck in kind Embrace, Dear Son, said he, my Soul this Hap doth bless That brought thee hither, welcome with my Heart, Come sit by me, and freely now impart The State and Story of the Herds and Swains That Graze on Caledonia's Hills and Plains. Alcydon sigh'd, and with a downcast Look, Eyes swoln with Tears, thus staring, softly spoke. Heaven's Anger long hath blaz'd into a Flame, And scorch'd that Land, whose Sin hath brought on Shame; Since Sion's Shepherd's sweet and saving Song Was slighted there, the Sheep have all gone wrong: Strange Schism the Sacrifices hath defac'd, New Ways of Worship purblind Zeal hath plac'd, And planted in the People's giddy Pates, Where each will have his own, all other hates: These Frenzies from the Neighbour Country came, Where Sects have shuffl'd all things out of Frame, And (which with Horrour all the World doth hear) Rebellion choak'd Religion, Treason Fear; So far that Clowns conspir'd against the Crown, And hew'd Heaven's sacred Image Headless down. Which heinous Crime hath call'd a Curse from high, That yet upon the Land doth heavy ly. And We, whose tender Hearts were ta'en with Tears At first, to be made Fools, (tho' promis'd Shares, In that pretended Happiness they Preach'd, When with joint Powers their Point they should have reach'd) Now reap for Thanks, Disdain, Contempt and Scorn, Hostility and Hate of Knaves forsworn; And were it not the Hope they have at Home, To see their Prince, to save his People, come, The Swains would all for Sorrow faint and fly, As many do for Grief and Anguish die, Of which, alace! old Damon was the First, Whose Royal, Loyal, Noble Heart did burst, To see these Stirrs, the Stars with sad Aspects Had shown him long with all their dire Effects; For he was well acquainted with the Spheres, And knew how they inclin'd, whose Power sways theirs. When Lysis, list'ning, heard of Damon's Death, A deep fetcht Sigh well nigh drew out his Breath, Tears drown'd his Eyes, his hoary Head he hung, And in that Posture had not Pulse nor Tongue, But, like a Lifeless Statue, senseless sat; So deep these Words did wound as Thunder-shot: Till with Alcydon's loud and frighted Cry (Who call'd for Help, tho' none there was near by) Awak'd, he lifted up his heavy Head, And softly said, Ay me, is Damon dead? Then as reviving, fetching Breath again, In scalding Sighs, Tears trickling down amain, Am I awake? said he, or do I dream? To hear that Damon now is but a Name, And his fair Soul to Heaven hath ta'en her Flight, For lasting Sun-shine leaving this weak Light! The Glory then of Grampian Swains is gone: Let Fields and Flocks his Loss for ever moan. Burst forth my Soul in Sorrows saddest Strain, Sigh Heart, and break, and wish no more again Those Home-bred Haunts and Flow'ry Fields to see, Whose Love and Longing late possessed thee. Farewell those Fancies, since the Herdsmen's Head (Apollo's Priest, whose Learned Lays did lead The lovely Nymphs, enchanted with his Song, O're Ochil's Snowy Tops in pompous Throng, And brought these Beauteous Girles, in gawdy Train, Home dancing to his Hawthornden again.) Is now no more the Wonder of our Woods, The Valley's Wish, the Fav'rite of our Floods, Since He, O Grief! hath left these Lawnes and Hills, These silver Streams, and soft Meandring Rills, Which often stray'd and swell'd for Joy to hear His Roundelays, and did their Burden bear To Thetis Court, where all the Tritons rounded About to learn, and straight the Tunes resounded. Ah! when I call to Mind that happy Time, When my fresh Youth was in her Flow'ry Prime, Ere Beauty's Force I found, or felt Love's Flame, And first a Stripling 'mongst the Shepherds came, Kind Damon was the Peer of all the Plains, The Valley's Honour, Glory of the Swains; And when his Reed or sweet Rebeck was heard, Our Flocks forgot to Feed, they stood and star'd, The Nightingales came near new Notes to learn, The Stags were roused from the brushy Fairn, The wanton Wood-Nymphs were no longer wild, But danc'd about, and on him sweetly smil'd: Or did he Sing, the Shepherds all were still, The Birds were hush'd, Brooks sleept, from Dale nor Hill No Noise was heard, soft Silence shut up all, To Muse on his Melodious Madrigal. His Matchless Muse had such a swelling Vein, In rich Expressions, and so sweet a Strain, That Sun, Stars, Season's Glory, Nature's Treasure, All that is rich and rare for Pomp and Pleasure, Could scarcely serve his Subject to set forth Or fit his Fancy's Force, his Brain's huge Birth, Gold, Saphyres, Roses, Rubies, Azure Skies, Al'baster, Amber, Diamonds wanted Dyes, To limm his Auristella to the Life, Whose Beauty brav'd the Lemnian's lovely Wife; Nor Ochil's Snows, nor Lilly of the Brook, Nor Tyrian Purple, nor that Flower that took His Blush from that fair Boy Apollo slew, Had Colours fine enough for her fair Hue, While by fair Ora's Flow'ry Banks She sported, Where Swans did sweetly sing, and Swains resorted. In what sweet Sighs did He his Sorrows sing, And all Bodotria's weeping Beauties bring Like Niobe's, to wash the sacred Urn, With Tears the brave Mœliades to mourn? That from the swelling Banks of Tweed and Thame, He made deaf Nilus Dwellers hear his Name, And gawdy Ganges Nymphs in sad Despair, To rend their Vails and tear their golden Hair, Blew Doris and her Daughters were so taken With Grief, that they all Songs have since forsaken; The Dryade in his Cave that closely dwells, Did fright the Neighbouring Woods with woful Yells, And make the fainting Esk for Fear look black To keep that Colour for her Henry's sake. And how did he from black Benlowmond bring Old Father Forth, to Feast his Lord and King? With all these famous Floods so well attended, (A Train that Tiber envy'd, but commended) And to his Prince a Panegyrick sung, That Mantua's Muse, and Ascra's both had hung Their Heads for shame, his Heavenly Strains to hear; For Po ne're had a Nymph that could come near His high and hardy Note, nor Helicon A more Majestick Muse ne'r sat upon. O how could he with more than Mortal Measure Transport the Soul into that Height of Pleasure? In sacred Ext'sy when he sung the Wonders Of him that fram'd the World, and forg'd the Thunders? And soaring high on Contemplation's Wings, Show how the Earth below Self-ballanc'd hings, By Heaven alike embrac'd on every side, And sees here Snow, there Summer's painted Pride? Or when in Raptures ravish'd he would rise To reach a Strain beyond the Stars and Skies, In what transcendent Terms could he set forth Heav'ns Glory (tho' no Words can weigh their Worth) And of the choicest Flowers of Sion frame For Angels Brows a fragrant Anadem? How could his Soul in sacred Silence steal Into these blessed Bounds, and thence reveal The State and Splendour of the Court above, So sweetly shadow'd in his Cypress Grove? Had he not had his Urany for Guide, Her holy Ways to walk, her Paths to tread? What Heathen hath a Heart so hard, to hear His sacred Song, and would not faint for Fear? While he the Shadow of the Judgment sings, That Court of Conscience, where the King of Kings The wicked World shall from the Four Winds call, Before His Throne, both rich, poor, great and small, To hear a Happy or a Horrid Doom, Where ah! too many never think to come, But dally out their Days in vain Delight, Delaying still, till Death blows out their Light, And Darkness drown them in a Dungeon deep, Where damned Ghosts still dying wail and weep. But when my Soul with Wonder and Delight Those holy Numbers weighs: where ravish'd quite Beyond himself, above the Heavens as far, As from Earth's Surface to old Saturn's Star, He sings that smooth Hymn of the Fairest Fair, In sweet Seraphick Stile, high swelling rare, My Thoughts transported in a Trance outfly The Reach of Reason and Mortality; And humbly falling Heaven's high Throne before, With Sighs and Fear that Majesty adore, Whose glorious Grandeur there he seeks to limn As bright as Art can draw with Eyes so dimm; (Tho' all Her Skill come far far short alace!) As one would with a Coal the Sun-shine trace: Yet never Mortal more Divinely sung Those Marvels that best suit an Angel's Tongue. His youthful Fancies, tho' he term'd them Toys, Were rich Conceits, beyond the common Poise Of vulgar Wits, which could not value them At half the Worth, for few did find His Aim; And nothing had more handsomely been said, Than in those Flashes when He freely Play'd. When old Gray Hairs began grave Thoughts to suit, Chaste Clio charm'd his Fancies with her Flute, To leave the Mountains, Fields and Flocks forsake And to a Nobler Task himself betake, Soft shelter'd in His Grove, wrapt in His Gown, Which with more Glory might His Name renown: The Stuart's Story was a Subject fit, And both requir'd his Pen, and crav'd his Wit, Those Five Great JAMES'S, to the World well-known, At Home were Strangers still unto their own: And he must set them on the Stage again, To speak their Country's Language smooth and plain, So sweetly flowing in a flourish'd Phrase, That Tully's Soul his Stile doth lead and raise; And such Remarks, wise Sentences, Advices, Good Counsels, Precepts, his whole Labour graces, That on Parnassus he may claim his Seat Next that great Roman rich in Rules of State. Dear Damon! Is it true that thou art dead? And Lysis lives a loathed Life to lead? My Thoughts alace! were always set on Thee, With Hope at last thy long wish'd Look to see, That my poor Muse might do Thee Homage due, And, after Absence long, old Love renew; Which since Thou hast born hence to Heav'n with Thee Thy Lysis still shall love Thy Memory, And make both Maes and Rhine thy Name resound, As far as Shepherds by their Banks are found. Ay me! why have not I old Ayton's Vein? Or great Alexis stately Tragick Strain? To sound thy Vertues, sing thine Obsequies In Panegyricks and sad Elegies? Earth's farthest Climates with thy Worth should ring, And worship Thee, where Fame can stretch a Wing. Yet with that Vigour, my poor Verse can fly, It shall record to after-times that I So dearly lov'd thy Worth, thy Name ador'd, Thy Friendship honour'd, and thy Death deplor'd; That wheresoe're the World my Rhimes shall read, There Damon's Love shall live, when we're both dead: Nor shall I fear Antiquity to wrong, With our own home-bred Haunts to stuff my Song, And say our Forth, which doth so winding wander, As famous is by Thee, as old Mœander: Thy murmuring Esk and Ora's rushy Hair, With Mincius and old Tiber to compare? And why shall I not freely venture then To match with Helicon thy Hawthornden? Thy Grotte, in which grim Saturn still remains, Bound to the Rock with mighty Metal'd Chains; The same Prophetick Spirit doth inspire That in Trophonius Cave set Souls on Fire; And if the Earth from hence a Passage yields, It is the Entry to th' Elysian Fields: A fitter Place the Fates could never find To lay thy sacred Reliques up enshrin'd; There all the Nymphs and Shepherd Swains can come And Yearly sing sad Hymns before thy Tomb, Which on the Marble cold these Lines shall keep, For Pilgrims all to read, and parting weep, That once thy Care commanded should be cut Upon thy Grave, if I have not forgot, Here DAMON lies, whose Songs did sometimes grace The Murmuring ESK; may Roses shade the Place. But soft my Sorrow, now the setting Sun, To Thetis kind Embrace doth posting run; Good-night Alcydon, all good Luck attend thee, And what thy Soul doth wish, thy Fortune send Thee. This said, they parted, and poor Lysis Grief So seis'd his Soul, which look'd for no Relief, That while he Careless and Cross-armed went, With staggering Steps his Loss for to lament, He often stood to Sigh, and at the Name Of Damon Fainted: So he lov'd his Fame. Sunt artibus arma decori. G. Lauder.</field>
+   </doc>
+</add>

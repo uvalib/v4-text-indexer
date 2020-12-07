@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Congreve, William, 1670-1729</field>
+      <field name="author_facet">Congreve, William, 1670-1729</field>
+      <field name="author_sort_facet">congreve william 1670 1729</field>
+      <field name="author_text">Congreve, William, 1670-1729</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1720's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.2191.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">1729</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:465870</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">To the Right Honourable the Lord Viscount Cobham</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 18th century</field>
+      <field name="subject_text">English poetry -- 18th century</field>
+      <field name="title_display">To the Right Honourable the Lord Viscount Cobham</field>
+      <field name="title_facet">to the right honourable the lord viscount cobham</field>
+      <field name="title_sort_facet">to the right honourable the lord viscount cobham</field>
+      <field name="title_text">To the Right Honourable the Lord Viscount Cobham</field>
+      <field name="year_display">1729</field>
+      <field name="year_facet">1729</field>
+      <field name="year_multisort_i">1729</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:465870&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:465870&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Congreve, William, 1670-1729&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;congreve william 1670 1729&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;To the Right Honourable the Lord Viscount Cobham&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;to the right honourable the lord viscount cobham&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1729&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1729&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Congreve, William&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1670&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1729&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;To the Right Honourable the Lord Viscount Cobham&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for E. Curll [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1729&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp0843&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;28 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;To the Right Honourable the Lord Viscount Cobham&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 10 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only poem by Congreve included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">VERSES To the Right Honourable the Lord Viscount Cobham. Of Improving the present Time. Sincerest Critic of my Prose, or Rhime, Tell how thy pleasing Stowe The Name of his Lordship's Seat in Buckinghamshire. employs thy Time. Say, Cobham, what amuses thy Retreat? Or Stratagems of War, or Schemes of State? Dost thou recal to Mind with Joy, or Grief, Great MARLBRO's Actions? That immortal Chief, Whose slightest Trophy rais'd in each Campaign, More than suffic'd to signalize a Reign? Does thy Remembrance rising warm thy Heart, With Glory past, where Thou thy self hadst Part, Or dost thou grieve indignant, now to see, The fruitless End of all thy Victory? To see th'Audacious Foe, so late subdu'd, Dispute those Terms for which so long they su'd, As if Britannia now were sunk so low, To beg that Peace she wonted to bestow, Be far that Guilt! be never known that Shame! That England shou'd retract her rightful Claim, Or ceasing to be dreaded and ador'd, Stain with her Pen the Lustre of her Sword. Or dost thou give the Winds a-far to blow, Each vexing-Thought, and Heart-devouring Woe, And fix thy Mind alone on rural Scenes, To turn the level'd Lawns to liquid Plains, To raise the creeping Rills from humble Beds, And force the latent Springs to lift their Heads, On watry Columns, Capitals to rear, That mix their flowing Curls with upper Air. Or dost Thou, weary grown, these Works neglect, No Temples, Statues, Obelisks erect, But catch the morning Breeze from fragrant Meads, Or shun the Noon-tide Ray in wholsom Shades, Or slowly walk, along the mazy Wood, To meditate on all that's wise and good, For Nature bountiful, in Thee has join'd, A Person pleasing with a worthy Mind, Not given the Form alone, but Means, and Art, To draw the Eye, or to allure the Heart. Poor were the Praise in Fortune to excel, Yet want the Way to use that Fortune well. While thus adorn'd, while thus with Virtue crown'd, At Home, in Peace; Abroad, in Arms renown'd; Graceful in Form, and winning in Address, While well you think, what aptly you express, With Health, with Honour, with a fair Estate, A Table free, and elegantly neat. What can be added more to mortal Bliss? What can he want that stands possest of This? What can the fondest wishing Mother more, Of Heaven attentive for her Son implore? And yet a Happiness remains unknown, Or to Philosophy reveal'd alone; A Precept, which unpractis'd renders vain, Thy flowing Hopes, and Pleasure turns to Pain. Shou'd Hope, and Fear thy Heart alternate tear, Or Love, or Hate, or Rage, or anxious Care, Whatever Passions may thy Mind infest, (Where is that Mind which Passions ne'er molest?) Amidst the Pangs of such intestine Strife, Still think the Present Day, the Last of Life; Defer not till to Morrow to be Wise, To Morrow's Sun, to Thee may never rise. Or shou'd to Morrow chance to cheer thy Sight, With her enliv'ning and unlookt-for Light, How grateful will appear her dawning Rays! As Favours unexpected doubly please. Who thus can think, and who such Thoughts pursues, Content may keep his Life, or calmly lose; All Proofs of this Thou may'st thy self receive, When Leisure from Affairs will give thee Leave. Come, see thy Friend, retir'd without Regret, Forgetting Care, or striving to forget; In easy Contemplation soothing Time With Morals much, and now and then with Rhime, Not so robust in Body, as in Mind, And always undejected, tho' declin'd; Not wond'ring at the World's new wicked Ways, Compar'd with those of our Fore-fathers Days, For Virtue now is neither more or less, And Vice is only vary'd in the Dress: Believe it, Men have ever been the same, And Ovid's Golden Age, is but a Dream. William Congreve.</field>
+   </doc>
+</add>

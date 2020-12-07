@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">W.D. Howells</field>
+      <field name="author_facet">W.D. Howells</field>
+      <field name="author_sort_facet">wd howells</field>
+      <field name="author_text">W.D. Howells</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1900's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/HowChar.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">1900</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476089</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">"Mr. Charles W. Chesnutt's Stories</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">"Mr. Charles W. Chesnutt's Stories</field>
+      <field name="title_facet">mr charles w chesnutts stories</field>
+      <field name="title_sort_facet">mr charles w chesnutts stories</field>
+      <field name="title_text">"Mr. Charles W. Chesnutt's Stories</field>
+      <field name="year_display">1900</field>
+      <field name="year_facet">1900</field>
+      <field name="year_multisort_i">1900</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476089&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476089&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;W.D. Howells&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;wd howells&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;"Mr. Charles W. Chesnutt's Stories&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;mr charles w chesnutts stories&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1900&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1900&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;W.D. Howells&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;"Mr. Charles W. Chesnutt's Stories."&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1900&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Boston, New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Houghton, Mifflin and Company&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1900&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Vol. 85 (1900): Pages 699-701.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;"Mr. Charles W. Chesnutt's Stories."&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 12 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">MR. CHARLES W. CHESNUTT'S STORIES. THE critical reader of the story called The Wife of his Youth, which appeared in these pages two years ago, must have noticed uncommon traits in what was altogether a remarkable piece of work. The first was the novelty of the material; for the writer dealt not only with people who were not white, but with people who were not black enough to contrast grotesquely with white people,—who in fact were of that near approach to the ordinary American in race and color which leaves, at the last degree, every one but the connoisseur in doubt whether they are Anglo-Saxon or Anglo-African. Quite as striking as this novelty of the material was the author's thorough mastery of it, and his unerring knowledge of the life he had chosen in its peculiar racial characteristics. But above all, the story was notable for the passionless handling of a phase of our common life which is tense with potential tragedy; for the attitude, almost ironical, in which the artist observes the play of contesting emotions in the drama under his eyes; and for his apparently reluctant, apparently helpless consent to let the spectator know his real feeling in the matter. Any one accustomed to study methods in fiction, to distinguish between good and bad art, to feel the joy which the delicate skill possible only from a love of truth can give, must have known a high pleasure in the quiet self-restraint of the performance; and such a reader would probably have decided that the social situation in the piece was studied wholly from the outside, by an observer with special opportunities for knowing it, who was, as it were, surprised into final sympathy. Now, however, it is known that the author of this story is of negro blood,—diluted, indeed, in such measure that if he did not admit this descent few would imagine it, but still quite of that middle world which lies next, though wholly outside, our own. Since his first story appeared he has contributed several others to these pages, and he now makes a showing palpable to criticism in a volume called The Wife of his Youth, and Other Stories of the Color Line; a volume of Southern sketches called The Conjure Woman; and a short life of Frederick Douglass, in the Beacon Series of biographies. The last is a simple, solid, straight piece of work, not remarkable above many other biographical studies by people entirely white, and yet important as the work of a man not entirely white treating of a great man of his inalienable race. But the volumes of fiction are remarkable above many, above most short stories by people entirely white, and would be worthy of unusual notice if they were not the work of a man not entirely white. It is not from their racial interest that we could first wish to speak of them, though that must have a very great and very just claim upon the critic. It is much more simply and directly, as works of art, that they make their appeal, and we must allow the force of this quite independently of the other interest. Yet it cannot always be allowed. There are times in each of the stories of the first volume when the simplicity lapses, and the effect is as of a weak and uninstructed touch. There are other times when the attitude, severely impartial and studiously aloof, accuses itself of a little pompousness. There are still other times when the literature is a little too ornate for beauty, and the diction is journalistic, reporteristic. But it is right to add that these are the exceptional times, and that for far the greatest part Mr. Chesnutt seems to know quite as well what he wants to do in a given case as Maupassant, or Tourguenief, or Mr. James, or Miss Jewett, or Miss Wilkins, in other given cases, and has done it with an art of kindred quiet and force. He belongs, in other words, to the good school, the only school, all aberrations from nature being so much truancy and anarchy. He sees his people very clearly, very justly, and he shows them as he sees them, leaving the reader to divine the depth of his feeling for them. He touches all the stops, and with equal delicacy in stories of real tragedy and comedy and pathos, so that it would be hard to say which is the finest in such admirably rendered effects as The Web of Circumstance, The Bouquet, and Uncle Wellington's Wives. In some others the comedy degenerates into satire, with a look in the reader's direction which the author's friend must deplore. As these stories are of our own time and country, and as there is not a swashbuckler of the seventeenth century, or a sentimentalist of this, or a princess of an imaginary kingdom, in any of them, they will possibly not reach half a million readers in six months, but in twelve months possibly more readers will remember them than if they had reached the half million. They are new and fresh and strong, as life always is, and fable never is; and the stories of The Conjure Woman have a wild, indigenous poetry, the creation of sincere and original imagination, which is imparted with a tender humorousness and a very artistic reticence. As far as his race is concerned, or his sixteenth part of a race, it does not greatly matter whether Mr. Chesnutt invented their motives, or found them, as he feigns, among his distant cousins of the Southern cabins. In either case, the wonder of their beauty is the same; and whatever is primitive and sylvan or campestral in the reader's heart is touched by the spells thrown on the simple black lives in these enchanting tales. Character, the most precious thing in fiction, is as faithfully portrayed against the poetic background as in the setting of the Stories of the Color Line. Yet these stories, after all, are Mr. Chesnutt's most important work, whether we consider them merely as realistic fiction, apart from their author, or as studies of that middle world of which he is naturally and voluntarily a citizen. We had known the nethermost world of the grotesque and comical negro and the terrible and tragic negro through the white observer on the outside, and black character in its lyrical moods we had known from such an inside witness as Mr. Paul Dunbar; but it had remained for Mr. Chesnutt to acquaint us with those regions where the paler shades dwell as hopelessly, with relation to ourselves, as the blackest negro. He has not shown the dwellers there as very different from ourselves. They have within their own circles the same social ambitions and prejudices; they intrigue and truckle and crawl, and are snobs, like ourselves, both of the snobs that snub and the snobs that are snubbed. We may choose to think them droll in their parody of pure white society, but perhaps it would be wiser to recognize that they are like us because they are of our blood by more than a half, or three quarters, or nine tenths. It is not, in such cases, their negro blood that characterizes them; but it is their negro blood that excludes them, and that will imaginably fortify them and exalt them. Bound in that sad solidarity from which there is no hope of entrance into polite white society for them, they may create a civilization of their own, which need not lack the highest quality. They need not be ashamed of the race from which they have sprung, and whose exile they share; for in many of the arts it has already shown, during a single generation of freedom, gifts which slavery apparently only obscured. With Mr. Booker Washington the first American orator of our time, fresh upon the time of Frederick Douglass; with Mr. Dunbar among the truest of our poets; with Mr. Tanner, a black American, among the only three Americans from whom the French government ever bought a picture, Mr. Chesnutt may well be willing to own his color. But that is his personal affair. Our own more universal interest in him arises from the more than promise he has given in a department of literature where Americans hold the foremost place. In this there is, happily, no color line; and if he has it in him to go forward on the way which he has traced for himself, to be true to life as he has known it, to deny himself the glories of the cheap success which awaits the charlatan in fiction, one of the places at the top is open to him. He has sounded a fresh note, boldly, not blatantly, and he has won the ear of the more intelligent public. W. D. Howells.</field>
+   </doc>
+</add>

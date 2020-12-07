@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Tutchin, John, 1661-1707</field>
+      <field name="author_facet">Tutchin, John, 1661-1707</field>
+      <field name="author_sort_facet">tutchin john 1661 1707</field>
+      <field name="author_text">Tutchin, John, 1661-1707</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.1908.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1692</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:465715</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">The Earth-quake of Jamaica ; Describ'd in a Pindarick Poem. By Mr. Tutchin</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">The Earth-quake of Jamaica ; Describ'd in a Pindarick Poem. By Mr. Tutchin</field>
+      <field name="title_facet">earth quake of jamaica</field>
+      <field name="title_sort_facet">earth quake of jamaica</field>
+      <field name="title_text">The Earth-quake of Jamaica ; Describ'd in a Pindarick Poem. By Mr. Tutchin</field>
+      <field name="year_display">1692</field>
+      <field name="year_facet">1692</field>
+      <field name="year_multisort_i">1692</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:465715&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:465715&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Tutchin, John, 1661?-1707&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;tutchin john 1661 1707&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Earth-quake of Jamaica ; Describ'd in a Pindarick Poem. By Mr. Tutchin&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;earth quake of jamaica&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1692&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1692&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Tutchin, John&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1661&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1707&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Earth-quake of Jamaica&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Describ'd in a Pindarick Poem. By Mr. Tutchin&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed, and are to be sold by R. Baldwin [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1692&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp4007&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;8 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Earth-quake of Jamaica&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Describ'd in a Pindarick Poem. By Mr. Tutchin&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 17 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">?namq; Diespiter Igni corusco nubila dividens Plerumq; per purum tonantes Egit Equos volucremq; currum, Quo bruta Tellus &amp; vaga flumina, Quo Styx, &amp; invisi horrida Tœnari Sedes, Atlanteusq, finis Concutitur. Valet ima summis Mutare,? Horat. lib. 1. Ode 34.</field>
+      <field name="fulltext">THE Earthquake of Jamaica Describ'd in a POEM. I. Well may our Lives bear an uncertain date; Disturb'd with Maladies within, Without by cross Events of Fate, The worst of Plagues on Mortals wait, Pride, Ignorance and Sin. If our ancient Mother Earth, Who gave us all untimely Birth, Such strong Hysterick Passion feels; If Orbs are from their Axles torn, And Mountains into Valleys worn, All in a moments space, Can humane Race Stand on their Legs when Nature Reels? Unhappy Man! in all things cross'd, On every giddy Wave of Fortune toss'd: The only thing that aims at Sway, And yet capricious Fate must still Obey; Travels for Wealth to Foreign Lands, O're scorching Mountains, and o're desart Sands, Laden with Gold, when homeward bound, Is in one vast impetuous Billow drown'd: Or if he reaches to the Shoar, And there unlades his Oar, Builds Towns and Houses which may last and stand, Thinking no Wealth so sure as firm Land; Yet Fate the Animal does still pursue; This slides from underneath his Feet, and leaves him too. II. Environ'd with Ten Thousand Fears we live, For Fate do's seldom a just warning give; Quicker than Thought its dire Resolves are made, And swift as Lightning flies, Around the vast extended Skies: All things are by its Bolts in vast Confusion laid. Sometimes a Flaming Comet does appear, Whose very Visage does pronounce, Decay of Kingdoms, and the Fall of Crowns, Intestine War, or Pestilential Year; Sometimes a Hurricane of Fate, Does on some great Mans Exit wait, A murder'd Cornish, or some Hercules, When from their Trunks Almighty Jove, Who breaks with Thunder weighty Clouds above, To Honour these Large Pines and Oaks does Lop, And in a Whirlwind lays 'em upon Oeta's Top. E're this vast Orb shall unto Chaos turn, And with Consuming Flames shall burn, An Angel Trumpeter shall come, Whose Noise shall shake the Massie Ground, In one short moment shall express, His Notes to the whole Universe; The very Dead shall hear his Sound, And from their Graves repair, To the impartial Bar, Those that have been in the deep Ocean drown'd, Shall at his Call come to receive their Doom. III. But here, alas! no Omens fly, No secret Whisper of their Destiny Was heard; none cou'd divine When Fate wou'd spring the Mine: Safe and secure the Mortals go, Not dreaming of a Hell below; In the dark Caverns of the gloomy Earth, Where suffocating Sulphur has its Birth, And sparkling Nitre's made, Where Vulcan and his Cyclops prove; The Thunderbolts they make for Jove; Here Æolus his Winds has laid, Here is his Windy Palace, here 'tis said His Race of little puffing Gods are bred, Which serve for Bellows to blow up the Flame, The dire Ingredients are in order plac'd, Which must anon lay Towns and Cities waste. Strait the black Engineer of Heaven came, His Match a Sun-beam was, He swift as Time unto the Train did pass, It soon took Fire; The Fire and Winds contend, But both concur the Vaulted Earth to rend; It upwards rose, and then it downwards fell, Aiming at Heaven, it sunk to Hell: The Neighb'ring Seas now own no more, The sturdy Bulwarks of the Shoar, The gaping Earth and greedy Sea, Are both contending for the Prey; Those whom the rav'nous Earth had ta'ne, Into her Bowels back again Are wash't from thence by the insulting Main. IV. The Old and Young receive alike their Doom, The Cowards and the Brave, Are buried in one Grave; For Fate allows 'em all one Common Tomb. The Aged and the Wise Lose all their Reason in the great Surprise. They know not where to go, And yet they dare not stay, There's Fire and Smoak below, And the Earth gaping to receive the Prey: If to the Houses Top they Crawl, These tumble too, and downwards fall: And if they fly into the Street, There grizly Death they meet; All in a hurry dye away, The wicked had not time to pray. The Soldier once cou'd teach grim Death to kill, In vain is all his Skill, In vain he brandisheth his Steel: No more the Art of War must teach, But lyes Fates Trophy underneath the Breach: The good Companions now no more Carouse, They share the Fate of the declining House, Healths to their Friends their Bumpers Crown'd: But while they put the Glasses round, Death steps between the Cup and Lip, Nor would it let 'em take one parting Sip. V. The Mine is sprung, and a large Breach is made, Whereat strong Troops of Warring Seas invade; These overflow; Where Houses stood and Grass did grow, All sorts of Fish resort: They had Dominions large enough before, But now unbounded by the Shoar, They o're the Tops of Houses sport. The Watry Fry their Legions do extend, And for the new slain Prey contend; Within the Houses now they roam, Into their Foe, the very Kitchen, come. One does the Chimney-hearth assail, Another flaps the Kettle with his slimy Tail. No Image there of Death is seen, No Cook-maid does obstruct their Sway, They have entirely got the day. Those who have once devour'd been By Mankind, now on Man do Feed: Thus Fate decides, and steps between, And sometimes gives the Slave the Victors meed. The Beauteous Virgins whom the Gods might love, Cou'd not the Curse of Heav'n remove; Their goodness might for Crimes Atone, Inexorable Death spares none. Their tender Flesh lately so plump and good, Is now made Fishes and Sea-monsters Food; In vain they cry, Heav'n is grown Deaf, and no Petition hears, Their Sighs are answer'd like their Lovers Pray'rs, They in the Universal Ruin lye. VI. Nor is inexorable Fate content To ruine one poor Town alone; More Mischief by the Blow is done: Death's on a farther Message sent. When Fate a Garrison does Sack, The very Suburbs do partake Of Martial Law, Its Forces draw To every Mountain, Field and Wood, They Ravage all the Neighbourhood. Worse than the weak Assaults of Steel, Its Instruments of Death all places feel. They undiscover'd, like fell Poison kill, Its Warriours fierce, The Earth, the Air, and Men do pierce; And mounted, fight upon the winged Winds. Here a great Mountain in a Valley's thrown, And there a Valley to a Mountain grown. The very Breath of an incensed God, Makes even proud Olympus Nod. Chang'd is the Beauty of the fruitful Isle, And its fair Woods lopp'd for its Funeral Pile. The moving Earth forms it self in Waves, And Curls its Surface like the Rowling Seas; VVhilst Man (that little thing) so vainly Raves, Nothing but Heaven can its own VVrath appease. VII. But Fate at length thought fit to leave its Toil, And greedy Death was glutted with the Spoil. As weary Soldiers having try'd their Steel, Half drown'd with Blood, do then desist to kill. More Ruin wou'd a second Deluge make, Blot out the Name of the unhappy Isle. It fares with her as when in Martial Field, Resolv'd and Brave, and loath to yield, Two num'rous Armies do contend, And with repeated Shouts the Air do Rend. VVhilst the affrighted Earth does shake, Some large Battalions are entirely lost, And VVarring Squadrons from the mighty Host: Here by a Shot does fall Some Potent General; And near to him, Another loses but a Limb. Part of the Island was a Prey to Fate, And all the rest do's but prolong its date, 'Till injur'd Heav'n finds, Its Bolts a Terror strike on humane Minds; Sure we may hope the Sinners there Repent, Since it has made their lewdest Priest Relent. FINIS.</field>
+   </doc>
+</add>

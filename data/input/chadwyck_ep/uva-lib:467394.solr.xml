@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Ord, John Walker, 1811-1853</field>
+      <field name="author_facet">Ord, John Walker, 1811-1853</field>
+      <field name="author_sort_facet">ord john walker 1811 1853</field>
+      <field name="author_text">Ord, John Walker, 1811-1853</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1860's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_3.2323.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">1868</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:467394</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Prince Oswy ; A Legend of Rosebury. By the late John Walker Ord</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">Prince Oswy ; A Legend of Rosebury. By the late John Walker Ord</field>
+      <field name="title_facet">prince oswy</field>
+      <field name="title_sort_facet">prince oswy</field>
+      <field name="title_text">Prince Oswy ; A Legend of Rosebury. By the late John Walker Ord</field>
+      <field name="year_display">1868</field>
+      <field name="year_facet">1868</field>
+      <field name="year_multisort_i">1868</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:467394&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:467394&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Ord, John Walker, 1811-1853&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;ord john walker 1811 1853&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Prince Oswy ; A Legend of Rosebury. By the late John Walker Ord&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;prince oswy&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1868&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1868&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Ord, John Walker&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1811&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1853&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Prince Oswy&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Legend of Rosebury. By the late John Walker Ord&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Stokesley&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;John Russell Smith&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Tweddell and Sons&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1868&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp2912&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;8 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Prince Oswy&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Legend of Rosebury. By the late John Walker Ord&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 14 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">“What is good for a bootless bene? And the Lady answered, ‘Endless sorrow.’” Inscription on Bolton Priory.</field>
+      <field name="fulltext">SONNET TO JOHN WALKER ORD, F.G.S.L. Hail, child of Genius! Cleveland's honour'd bard! Who, singing England's praise, forgat not her Whose hills, and brooks, and plains, thou didst prefer To all the world: thou wert a worshipper Of Nature fair; and on the daisied sward Of thy dear native vale did ofttimes lay, (When Phœbus high in azure heaven did ride, And sea-nymphs sported in the ocean tide,) To hear the lark's glad song, see lambkins play, And view thy Cleveland clad in garments gay Of lovely green, with Flora's gems bedight So rich and profuse, that thy gladden'd soul Felt inspiration at the very sight, And wing'd its way beyond the world's control. George Markham Tweddell. Stokesley. PRINCE OSWY. The harvest moon was waning O'er Arncliffe's rich domain, The silver stars shone sweetly On rock and woody plain, When from her stately dwelling Northumbria's Princess trode, To question that famed Augur In Arncliffe who abode. “O, say, mysterious stranger, (That, to these sightless eyes, Dost seem of royal lineage,) What seek'st thou of the skies? I know each planet's motion, Can track each silent star, And comet-like can wander The firmament afar!” “O, wise and dreadful wizard, A godlike gift is thine, To read each starry missal, To con each planet-line! Of proud Northumbria's treasure The darling of my love, What speak yon heavenly prophets? What say yon orbs above?” Awhile the wizard ponder'd, Awhile absorbed he stood:— “Who shall bring back the treasure That lies 'neath Ocean's flood? To-morrow shall thy darling In Death's embraces lay; So speak the starry prophets— 'Tis midnight now—away!” Back to her stately palace The sorrowing lady trode:— “This night, at least, my darling, I trust thee to thy God; These arms shall guard my orphan, This breast thy pillow be, And, ere the break of morning, I'll bear thee safe with me.” It was an Autumn dawning, Soft lights o'er hill and plain; Bright lay the golden harvest, Glad rose the reaper's strain— When, winding down the valley, The cavalcade rode on, Smart steeds and gay retainers, The Princess and her son. The slumbering peasants started To hear the clattering throng; The milk-maid, in the paddock, Stopt short her warbled song; Osmotherley, and Ingleby, Swainby, and Stokesley town, Much marvell'd, greatly wonder'd, To view that rout come down. Below the oak-tree forest Of Osnaberg's The ancient name of Rosebury Topping. huge hill, The proud procession halted, The cavalcade stood still:— “Take forth the silk pavilion, High let the streamers flow— Then, to the rocky summit, My boy and I will go!” With toilsome, weary marching She reach'd the towering height; Rejoiced that free from danger, She bore that cherub bright— Who sometimes gamboll'd near her, All playful as a fawn, Or pluck'd the lovely wild flowers Glist'ning with dews of dawn. Now, safe beneath the awning, The happy mother sate, Nor reck'd the cruel Augur, Stars, prophecy, or fate; Yet, would the lady shudder To view that boundless sea,— Even silver Tees brought terror, So lovely though it be. And, what a gorgeous vision Lay stretch'd beneath her feet! The groves of sweet Upleatham, The shores of Cargo Fleet: Old Gisborough's graceful Priory Beneath the sunbeams glow'd; And many a swan-like vessel By Marske and Redcar rode. She saw the ripening orchards, The fields of golden grain, The groves and pleasant hedgerows, The glories of the plain; And, far mid mists of azure, The mountains of the West; Tynemouth, and rocky Hartlepool, Reposed on Ocean's breast. And now the sun had pointed The altitude of noon; The heavens were still and breathless, Ceased was the reaper's tune; No cloud obscured the azure, The distant groves were still; When slumber, soft as snow-flakes, Oppress'd the lady's will. So, like a marble statue, In holy sleep she lies; The moss her couch of slumber, Her canopy the skies; And near her, like an angel, The royal infant trips; Now twined her raven tresses, Now kiss'd her ruby lips. Then, weary of his dalliance, He sought the grassy mound, Pluck'd oft the azure harebell, The foxglove tapering round: And then, O lovely vision, Beneath the mountain brow, A fountain, fair, enchanting, With heaven's own colours true! What is 't that fills with wonder The laughing cherub's eyes? Why claps his hands with rapture? Why crows with glad surprise? Within that crystal mirror He views a lovely form— Cheeks fair as summer weather, Locks beauteous as the morn. And wondrous—still more wondrous— Whilst beckoning it to come, With equal love entreats him Into its watery home:— O, fear! O, dread!—he clasps it— One cry—and all is o'er: The treacherous spring enfolds him— Prince Oswy is no more! And who shall tell the waking, The sorrow and the pain? The bitter pangs of agony, That wrung that mourner's brain; When, low beneath the sedges, In pulseless death he lay? “But God His ways will vindicate,” Still did the lady say. And, on the rocky precipice, Beneath the wooded knoll, A hermitage the lady rear'd, With masses for his soul: And, with the holy hermit, Full oft devoutly prays, “Whom God hath given, God takes away, And vindicates His ways.”</field>
+   </doc>
+</add>

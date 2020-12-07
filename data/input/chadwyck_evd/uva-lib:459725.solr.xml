@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Clarendon Press</field>
+      <field name="author_facet">Clarendon Press</field>
+      <field name="author_sort_facet">clarendon press</field>
+      <field name="author_text">Clarendon Press</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.1096.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1885</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459725</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Baxteres ; XXVII. The Last Supper</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Baxteres ; XXVII. The Last Supper</field>
+      <field name="title_facet">baxteres</field>
+      <field name="title_sort_facet">baxteres</field>
+      <field name="title_text">The Baxteres ; XXVII. The Last Supper</field>
+      <field name="year_display">1885</field>
+      <field name="year_facet">1885</field>
+      <field name="year_multisort_i">1885</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459725&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459725&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Baxteres ; XXVII. The Last Supper&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;baxteres&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1885&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1885&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Baxteres&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;XXVII. The Last Supper&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Oxford&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Clarendon Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1885&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873526-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv11096&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Baxteres&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;XXVII. The Last Supper&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 22 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and editorial matter including introduction and glossary omitted.&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Source texts incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The baxteres.</field>
+      <field name="desc_meta_file_display">Genre: English mystery and miracle plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1475 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1352–1376 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">XXVII. THE BAXTERES. The Last Supper. Square brackets represent sections of text unclear or absent in the original and supplied by the current editor</field>
+      <field name="fulltext">[PERSONS OF THE PLAY. Jesus. Marcellus. Andreas. Petrus. Jacobus. Judas. Thomas.]</field>
+      <field name="fulltext">[Scene, A chamber in Jerusalem.] 1. Jesus. Pees be both be day and nyght Vn-till þis house, and till all þat is here! Here will I holde as I haue hight, The feeste of Paas with frendis in feere. Marc. Maistir, we haue arayd full right Seruise þat semes for youre sopere. Oure lambe is roste, and redy dight, As Moyses lawe will lely lere. Jesus. That is, ilke man þat has Pepill in his awne poste Shall roste a lambe at paas, To hym and his meyne. 2. And. Maistir, þe custome wele we knawe, That with oure elthers euer has bene, How ilke man with his meyne awe To roste a lambe, and ete it clene. Jesus. I thanke ?ou sothtly of youre sawe, For ?e saye as youre selffe has sene, Ther-fore array ?ou all on rawe, My selfe schall parte itt ?ou be-twene. Wher-fore I will þat ?e Ette þerof euere ilkone, The remelaunt parted schall be, To þe poure þat purueyse none. 3. Of Moyses lawes here make I an ende, In som party, but noght in all, My comaundement schall otherwise be kende With þam þat men schall craftely call. But þe lambe of Pasc þat here is spende, Whilke Jewes vses grete and small, Euere forward nowe I itt deffende Fro cristis folke, what so befall. In þat stede schall be sette A newe lawe vs by-twene, But who þerof schall ette, Behoues to be wasshed clene. 4. For þat new lawe whoso schall lere, In harte þam bus be clene and chaste. Marcelle, myn awne discipill dere, Do vs haue watir here in hast. Marc. Maistir, it is all redy here, And here a towell clene to taste. Jesus. Commes forthe with me, all in feere, My wordis schall noght be wroght in waste. Settis youre feete fourth, late see, They schall be wasshen sone. Pet. A! lorde, with þi leue, of þee Þat dede schall no?t be done. 5. I schall neuere make my membres mete, Of my souerayne seruice to see. Jesus. Petir, bott if þou latte me wasshe þi feete, Þou getis no parte in blisse with me. Pet. A! mercy, lorde and maistir swete, Owte of þat blisse þat I noght be, Wasshe on my lorde to all be wete, Both hede and hande, beseke I þe. Jesus. Petir, þou wotiste no?t ?itt What þis werke will be-mene. Here aftir schall þou witte, And so schall ?e all, be-dene. Tunc lauat manus. 6. ?oure lorde and maistir ?e me call, And so I am, all welthe to welde, Here haue I knelid vnto ?ou all, To wasshe youre feete as ?e haue feled. Ensaumple of me take ?e schall, Euer for to ?eme in ?ouþe and elde, To be buxsome in boure and hall, Ilkone for to bede othir belde. For all if ?e be trewe And lele of loue ilkone, ?e schall fynde othir ay newe, To greue whan I am gone. 7. Jac. [Aside.] Now sen oure maistir sais he schall Wende, and will not telle vs whedir, Whilke of vs schall be princepall, Late loke now whils we dwell to-gedir. Jesus. I wotte youre will, both grete and small, And youre high hartis I here þam hedir, To whilke of ?ou such fare schulde fall, Þat myght ?e carpe when ?e come thedir, Where it so schulde be tyde Of such materes to melle. But first behoues ?ou bide Fayndyngis full ferse and felle. [He sets a child before them.] 8. Here schall I sette ?ou for to see Þis ?onge childe for insaumpills seere, Both meke and mylde of harte is he, And fro all malice mery of chere, So meke and mylde but if ?e be, [Jesus.] Quod facis fac cicius, Þat þou schall do, do sone. 9. Thom. Allas! so wilsom wightis as we, Was neuere in worlde walkand in wede, Oure maistir sais his awne meyne Has be-trayed hym to synfull seede. Jac. A! I hope, sen þou sittist nexte his kne, We pray þe spire hym for oure spede. Joh. Domine quis est qui tradit te? Lord, who schall do þat doulfull dede? Allas! oure playe is paste, Þis false forward is feste, I may no lenger laste, For bale myn herte may breste. 10. Judas [Aside]. Now is tyme to me to gang, For here be-gynnes noye all of newe, My fellows momellis þame emang Þat I schulde alle þis bargayne brewe. And certis þai schall no?t wene it wrang. To þe prince of prestis I schall pursue, And þei schall lere hym othir ought long That all his sawes sore schall hym rewe. I wotte whedir he remoues, With his meyne ilkone, I schall telle to þe Jewes, And tyte he schalle be tane. [Exit. 11. Jesus. I warne ?ou nowe my frendis free, Sese to ther sawes þat I schall say, Here a leaf R ij is lost, The fende is wrothe with ?ou and me, And will ?ou marre if þat he may. But Petir I haue prayed for þe, So þat þou schall no?t drede his dray; And comforte þou þis meyne And wisse hem, whan I am gone away. Petrus. A! lorde, where wilte þou lende, I schall lende in þat steede, And with þe schall I wende Euermore in lyffe and dede. 12. And. No wordely drede schall me withdrawe, That I schall with þe leue and dye. Thom. Certis, so schall we all on rawe, Ellis mekill woo were we worthy. Jesus. Petir, I saie to þe þis sawe, Þat þou schalte fynde no fantasie, Þis ilke nyght or þe cokkys crowe, Shall þou thre tymes my name denye, And saye þou knewe me neuere, Nor no meyne of myne. Pet. Allas! lorde, me were lever Be putte to endles pyne. 13. Jesus. As I yow saie, so schall it bee, Ye nedis non othir recours to craue. All þat in worlde is wretyn of me Shall be fulfilled, for knyght or knave. I am þe herde, þe schepe are ?e, And whane þe herde schall harmes haue, The flokke schall be full fayne to flee, And socoure seke þame selffe to saue. ?e schall whan I am allone, In grete myslykyng lende, But whanne I ryse agayne, Þan schall youre myrthe be mende. 14. ?e haue bene bowne my bale to bete, Therfore youre belde ay schall I be, And for ?e did in drye and wete My comaundementis in ilke contre, The kyngdome of heuen I you be-hete, Euen as my fadir has highte itt me; With gostely mete þere schall we mete, And on twelffe seeges sitte schall ?e, For ?e trewlye toke ?eme In worlde with me to dwell, There shall ?e sitte be-deme Xij kyndis of Israell. 15. But firste ?e schall be wille of wone, And mo wathes þen ?e of wene Fro tyme schall come þat I be tone, Þan schall ?e turne away with tene. And loke þat ?e haue swerdis ilkone, And whoso haues non ?ou by-twene, Shall selle his cote and bye hym one, Þus bidde I þat ?e do be-dene. Satcheles I will ?e haue, And stones to stynte all striffe, Youre selffe for to saue In lenghyng of youre liff. 16. And. Maistir, we haue here swerdis twoo, Vs with to saue on sidis seere. Jesus. Itt is i-nowe, ?e nedis no moo, For fro all wathis I schall ?ou were. Butt ryse now vppe, for we will goo, By þis owre enemyes ordand are, My fadir saide it schall be soo, His bidding will I no?t for-bere. Loke ?e lere forthe þis lawe Als ?e haue herde of me, Alle þat wele will itt knawe, Ay blessed schall þei bee.</field>
+   </doc>
+</add>

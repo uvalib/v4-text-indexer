@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Verlag von Gebr. Henninger</field>
+      <field name="author_facet">Verlag von Gebr. Henninger</field>
+      <field name="author_sort_facet">verlag von gebr henninger</field>
+      <field name="author_text">Verlag von Gebr. Henninger</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.2087.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">1881</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464495</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">French</field>
+      <field name="main_title_display">How the Psalter of our Lady was Made</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">How the Psalter of our Lady was Made</field>
+      <field name="title_facet">how the psalter of our lady was made</field>
+      <field name="title_sort_facet">how the psalter of our lady was made</field>
+      <field name="title_text">How the Psalter of our Lady was Made</field>
+      <field name="year_display">1881</field>
+      <field name="year_facet">1881</field>
+      <field name="year_multisort_i">1881</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464495&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464495&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;How the Psalter of our Lady was Made&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;how the psalter of our lady was made&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1881&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1881&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;How the Psalter of our Lady was Made&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Heilbronn&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Verlag von Gebr. Henninger&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1881&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp2550&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;fre&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;cxxxviii, 536 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;How the Psalter of our Lady was Made&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 16 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only "How the Psalter of our Lady was Made" included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Middle English poetry.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">2. Coment le sauter noustre dame fu primes cuntroue. Leuedi swete and milde, For loue of þine childe Þat is foul of mi?tte, Me, þat am to wilde, From shome þou me shilde, Bi day and eke bi ni?tte! Ich wille biginnen here And tellen þe manere Nou at þisse stounde Of þi sauter here, Mid wel gode chere, Ou hit wes .I.-founde. Send me þine grace Nou in þisse place, So wel for to done! Ich nou bidde þi grace, And þerto lif and space. Here nou mine bone! A riche man was wile, Þat nolde none gile; He louede holi chirche. Bi-sides him a mile On abbey of seint Gile His helderne gonne werche. God lif þis man ladde. One sone he hadde, Þat gode dedes dede. Wiþ cloþ and wiþ bedde His sone faire he sredde In þat ilke stede. Monk he þere bicom, Wiþ abit he þer nom, Bi his fader wille. Him louede god and mon— So feire he bigon, Wor euere he wes stille. His fader him bimenede Þat he þerinne wende So ?ong sholde, .I.-wis. He dede after him sende “Þat is nou þat ende”, And made him muchel blis. A maister hadde his sone Þat wiþ him wes .I.-come, Cointe .I.-nou and sley; Hit wes his .I.-wone To techen alle and some Þe ordre, fer and ney. He hede ofte aboute Wiþ-innen and wiþ-oute Wiþ þe louerd on day. Þe sone he lek(!) þer oute: He hede for to aloute— Tellen ich ou may— Þe leuedi ful of mi?tte Þat bar oure dri?tte, In a chapele þere, Bi day and eke bi ni?tte Out wen he comen mi?tte, Were ware he were. Ou alle ich telle may: On houndred ewche day He gretingges seyde. Wel he held his lay And þe ordre, bi mi fay! For loue of þat meyde. Wel he hedde hi-wrout, Wor god wes his þout: Þat wes wel .I.-sene; He ne les hit nohut, Wor he hit hadde about Þorou his gode bene. Ne let he none stounde Þat he ne fel to grounde And on knewes bat And þoute of þe wonde Þat god for al þe mounde On rode heuede .I.-sprad. On houndret to þe meyde Aue maries he seyde Bi tale heche daye. He hit nout ne aleyde, Ac so wel he pleyde— Ri?t soþ for to saye— Þat he sau wel bri?tte Oure leuedi foul of mi?tte A settres-day, .I.-wis, Were hoe sat wel ri?tte .I.-cloþed half bi si?tte, And seyde to him þis: “Mi monk, ne dred þe nout, For .I. þe haue .I.-bout And þe ich wille take. Þou hauest so goed fulwraut(!): Ne worst þou nout bikaut: Goed ne shal þe lake. Ich þonke þe her nouþe Þat þou wiþ þine mouþe Me hauest .I.-paied wel; Bi norþe and eke bi (souþe) Hit shal ben w(el couþe) Þine dedes (euerich del). Ac þou m(ost more say) Wor (me now euche day) Fifti al bi score Of aue maries, Fifti on day þries. Wite nou were-fore: Þat is ri?t mi sauter. And þou shalt witen her Hou hit shal ben do: Fifti seye bi-fore, Tene euere bi score, And on anteme þerto, In tokning of þe blisse Þat fel me midi-wisse Þo þe aungele to me com And seyde me tidinge Þat of me sholde springe He þat is god and mon. After sey wel sone Fifti mididone Al for þat ilke blisse Þat he wiþ-outen (sore) Wolde of me ben (bore)— Þat þou þer-(of ne misse)! Þer aft(er þou shalt say) Eft (fifti euche day) Bi (þine fingres ten) O(f aue maries) (Euche day þries— Telle hit fele men!— Fifti at þen ende, For I shulde wende To mi sone þo, For blis, and for to amende, Þat he to me gan sende), To me comen and go: He broute me to blisse, Þat neuere ne shal misse, In þat ilke stounde. Blesced be þat time Þat alle brovte of pine Þat weren þerinne .I.-bounde!” “A, leuedi, .I. þe grete, For þou art fair and swete And goed, to serui wel. Graunte me þin ore, Wor .I. shal euere-more Don þis euerich del. If ich dourste and couþe, Ich wolde .I.-witen nouþe, Leuedi, here of þe: Wi þe failleþ gore, ssleue and nammore Of cloþ þat ich .I.-se?” “Þis cloþ þou me ?eue (On se)ttresday(!) a?ein eue, (Þorou) aue maries (Þo þou) me gvnne greten (And nold) to sugen leten (Twies e)wche dayes. (For þou most say more Þries fifti bi score, Al-so .I. teld þe. To day a seveni?tte .I.-cloþed al ari?tte Þou shalt me fair .I.-se. Be here of al scille, And say wiþ gode wille) Alle þe gretinges! And .I. shal þe bringe From mi sone, þe kinge, Þanne gode tidinges.” Marie wente away. And þe monk euche day sseyde ri?t þre siþes Mid wel gode wille Boþe loude and stille Þese aue maries. Þat day a seveni?tte Oure leuedi, foul of mi?tte, To þat moneke com, .I.-cloþed swiþe bri?tte In þat wede alri?tte, And þonkede þat mon. “Fair is, lo, mi wede, For bedes þat þou bede, And þou hauest quemet me. Mi sone þe wille rede, Þat noþing þe nadrede— Here ich hit telle þe. Vuene þou art home .I.-come, Þou shalt Abbot bicome, For þin Abbot shal deye. Haue euere in þi wone To suggen bi coustome Þine aues euche daye! Wend ouer-al aboute And preche inne and oute (Þat) þis is mi sauter! “(For al) þat euche daye (Wille þis) for me saye, .I. shal hem ben welner. Monek, ich telle hit þe Þat þou most al for me Wenden wide-wore And telle þis tidinge And mine sone bringe Wel fele him bifore. Wor þoru aue maries Þat mon shal sayen þries In þe worshipe of me, I shal hem helpen alle Þat to me wilen kalle— For soþ ich telle hit þe. Nis non þat shal deien, Þat wille þries seien Þese aue maries, Wiþouten hosel and srifte, Bi daye ne bi ni?tte, Wor none folies; He shal in euche place Wel finden mi grace At his liues ende, And he shal hauen space And finden godes grace Him alto amende. Gon ich wille henne. Sey hit to mani menne Þis and make hit couþ! Wor seue?er after þis Þou shalt deye .I.-wis, Ich telle hit þe wiþ mouþe. So longe is þi time To holden þe and þine And hem for to teche. After þat of pine Þou worst .I.-brout wiþ mine, Wor .I. shal ben þi leche.” Marie wente away. Þe monek rod ni?t and day Folk to gode bringe, Þoru þis ilke þinge And þoru his prechinge— Goed wes þe tidinge. Nou ich bidde here Ou alle wiþ gode chere. Þat ?e suggen þries Wiþ wel gode wille Boþe loude and stille Þese aue maries.</field>
+   </doc>
+</add>

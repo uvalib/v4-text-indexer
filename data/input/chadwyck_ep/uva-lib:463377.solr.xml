@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Holland, Hugh</field>
+      <field name="author_facet">Holland, Hugh</field>
+      <field name="author_sort_facet">holland hugh</field>
+      <field name="author_text">Holland, Hugh</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.0571.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">1625</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:463377</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">A Cypres Garland ; For the Sacred Forehead of our late Soueraigne King Iames. By Hugh Holland</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">A Cypres Garland ; For the Sacred Forehead of our late Soueraigne King Iames. By Hugh Holland</field>
+      <field name="title_facet">cypres garland</field>
+      <field name="title_sort_facet">cypres garland</field>
+      <field name="title_text">A Cypres Garland ; For the Sacred Forehead of our late Soueraigne King Iames. By Hugh Holland</field>
+      <field name="year_display">1625</field>
+      <field name="year_facet">1625</field>
+      <field name="year_multisort_i">1625</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:463377&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:463377&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Holland, Hugh&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;holland hugh&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A Cypres Garland ; For the Sacred Forehead of our late Soueraigne King Iames. By Hugh Holland&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;cypres garland&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1625&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1625&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Holland, Hugh&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Cypres Garland&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;For the Sacred Forehead of our late Soueraigne King Iames. By Hugh Holland&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for Simon Waterson&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1625&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp1780&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;[20] p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Cypres Garland&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;For the Sacred Forehead of our late Soueraigne King Iames. By Hugh Holland&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 27 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Infælix habitum temporis huius habe. P. Ouid: Naso.</field>
+      <field name="fulltext">TO MY LORD: THE DVKE OF BVCKINGHAMS Grace: Whom God Preserue.</field>
+      <field name="fulltext">A CYPRES GARLAND, FOR the Sacred Fore-head of our Late Soueraigne King Iames. Who now wil reade my Rimes, &amp; with exceding Sweet grace, &amp; accent, mend them in the reading So would he praise the manner, &amp; the matter, Nor did they him, he rather them did flatter. For with his sugred lips my eares he charmed: And with his snowy Hand my lips he warmed. But now the frost of Death my heart hath chilled: My blood is through my eyes to teares distilled. His Ague hath me whole, that for enditing, I neither haue a head, nor hand for writing. Great Britany; that knowes no other bounders, But Heau'n and Sea, lost lately Both her Founders My Master King of Armes, by mans apointment: My Soueraign King of Peace, by Gods anointment. Oh that my Soueraigne had bin longer liued, Or had my Camden yet a while suruiued: With Angells quill (what else can reach his glory?) To write this mortall God's immortall story. But in that other world, which neuer endeth, Him with his Lords his Herald he attendeth. How many Great ones here not meanly graced, In thirteen months the dance of Death haue traced Three Earles, two Dukes, a Marquis &amp; a Baron: (Who then may scape thy boat vncurteous Caron) Besides young Wriothsly, wh? the Earle his Father, Then to suruiue, chose to associate rather. Two of the House were Stewards, iust and loyall: But of the Realme Iames was the Steward royall, In cares, no lesse then Name: but euer heedefull To furnish it with noble things, or needefull. Jf Heau'n and Earth did all their Forces muster, You should not finde a gentler nor a Juster. The flower of Kings, the King of flowers is wasted The Rose of England in the Spring is blasted: When in the Ram his beams young Phœbus scatred, The Ram of death ibe Fort of Phœbus batred. Yet hath Breda thrice three months siege endured, Js life no more in peace theu warre secured? Great Britaine and Breda haue lost their Maisters: (Alas! that heere they were no longer lasters) Of Peace and Warre the ornaments are spoyled: Their faces Death and not their fame hath soyled. The one with peace, which Mars the other sided: Yet neither were in life, nor death, deuided. Both in a yeare, too late they were ingendred: Both in a yeare, too soone to death surrendred. But with my plaints why should I others mingle? The sorrow which I suffer is not single. His Holland hath no need my teares to borow, Enough is me to share in Englands sorow. Nor haue they so much inke on vs bestowed, For all the blood which from our brests hath flowed. Why was the fatall Spinster so vnthrifty? To draw my third foure yeares to tell and fifty? Why did not Atropos in peeces rauil My string of life and cut it with my Nauil? Curs'd be the day that I was borne, and cursed The nights that haue so long my sorows nurced. Yet griefe is by the surer side my brother: The child of payne, and Payne was eke my mother. VVho children had, the Arke had men as many, Of which, my selfe except, now breathes not any. Nor Vrsula my deere, nor Phil my daughter: Amongst vs death hath made so dire a slaughter. Them and my Martyn haue I wretch suruiued: But all their deaths, my Soueraigne's hath retriued. Each yeare, moneth, weeke, day, houre, I loose some fleeces, So from my selfe, and all, I part by peeces: The whilst I stand in controuersy, whether, More Sigh and weepe, I, or the winde and weather. This is the yeare that all good hearts hath galled, Let it no yeare of IVBILE be called: This is the moneth of Mars to him so bloudy, Because he still the arts of peace did study: This is the dismal day, the sea'un and twenteth, That of no kinde of Spring or sweetnesse senteth: When as the Sun (no Sunday that, nor holy) Did set at noone, and was ecclipsed wholy. Was neuer March so moyst; had heau'n refrained From teares, our eies more then enough had rained. And yet, oh furious, oh infernall Feauer! So great, so pretious dust, no March had euer. Yet in this moneth (how haue the Fates revolued?) The great Eliza went to dust dissolued: Yea in this moneth his glorious Anne expired, And droun'd his eies, through which his heart she fired. Her liuely cheekes were like two louely spouses And bare the mingled badge of both the Houses. For, howsoeuer now we see it coyned, K. Iames the Realmes, and she the Roses ioyned. This Sun and Moone betwixt them did ingender A Starre, that both their lights alone doth render: Young Charlemaine the ioy of either nation: Great by his birth, and good in expectation His Fathers throne ô may he long inherit: His Heire in blood, his Successor in merit. With cares, with feares, at home, vntost, vntroubled? His Fathers longest reigne in his be doubled. But if vn-friends abroad our peace affritghten, In armes so will he thunder, and so lighten: That all the troupes before his face shall tremble, And more their malice, then their feares dissemble. My Liege, my Lord, my transitory treasure, Amid these worldly woes a world of pleasure; You now a triple Crowne haue in possesion: Yet must the same demisse to your succession. But may that day, then all our dayes be later, Yea turne the world to fire, now turn'd to water. But had you twenty more, imagin rather Your gaine the lesse by loosing such a Father. You are a liuely Statua of that Quarry, Whereof was also hew'd your brother Harry, Your Sister Marie, and your Sister Sophey, Death ouer them erected hath a trophey. And now (my griefe J can no longer smother) Remarried are your Father and your Mother. Prophaner heeles on sacred foreheads trample: At VVestminster we daily see the sample. VVhere now do lie their bones, but voyd of marrow, For whom this Isle, and Ireland were too narrow. Man is but onely Proclamation building: All but on clay, though some haue gayer guilding. And Kings are made, what else so e're we clatter, To nobler ends, but of no nobler matter. Of limmes or lineaments so strong or hansome, Who breaths that from the graue his head may ransome Rem?ber this my Liege, &amp; them remember, Of whom (now head of all) you are a member, Con you the lessons which he gaue your Brother, (Perhaps at parting too he gaue some other) For rule you must a people of that brauery: That can nor brooke all freedom, nor all slauery. God prosper you (for God must be the grounsell) And send you still an vnderstanding Counsell, That they may giue, and keepe, with hearts vnhollow And that you counsell may discerne, and follow. The Giuer deepe, the Follower yet is deeper, But Cabinet of counsell is the Keeper. And those of you shall euer most be loued, VVho lou'd your Father, &amp; whose Faith he prooued. His heart profound, his tongue was prompt &amp; ready His head for counsels fit, not counsels heady. His eares to sutors open were, and heedy, So were his hands, but some were ouer greedy. He neither husband of his wife deceaued, Nor of their husbands many wiues bereaued. Nor any Fathers made, nor Mothers harmed, His brest no Mars vniust nor Venus warmed. To blacke reuenge his edge was also blunted, For after human blood, he neuer hunted. And when for exercise the fields he rainged, Minerua seem'd into Diana chainged. His kingdome was of wits, in euery knolledge An Academy, and his Court a Colledge. VVhere Cynthea sometimes shone, Apollo's sister, Apollo selfe did with the Muses glister. Be proofe his prose, and well accented Sonets, To which the brauest witts may vaile their bonets. Not euery day, nor euery yeare I tro it, Is either borne a King, or yet a Poët: The best of either, him but hardly matched: “In euery nest the Phœnix is not hatched. No King with matter fit his Muse could furnish, No Poët could his Kingly actions burnish. His Holy Soule to see the parts and factions, That in the Christian Corps, made such distractions, VVas inly vext: for as his Pen hee wreathed With endles bayes, his sword he would haue sheathed VVithin those bowels, that in part haue eaten Thine Heritage ô Christ, and all do threaten. Of Christendome though hee abhord the cumbers, A battell yet he sung in haughty numbers: That all may gather how that Heauenly poëm, Was of his great intentions but the proëm. Lepanto, which he did so loudly warble, That it surmounts Messina brasse, and marble When heau'n the childe of Austria so inflamed That halfe the Turky pride, he quickly tamed. While he and his, of Heau'n &amp; Earth were parters, For Earth the victors bad, &amp; Heau'n the martyres. A happy man to do such acts renouned: But happy more to leaue his acts so crowned. Eliza faire with hers in forraigne regions: Who marched in the front of many legions. Perhaps but hardly knowes of her disaster, But ill Report then good, ay flyeth faster: Then you my Lords of Holland looke vnto it, Let none it tell, and punish them that do it: Least when Report this in her eare hath rouned Your Country with her teares, and theirs be drouned: The Rhine with all his waters sad and sable, To waile her huge misfortune is not able. Then you great Lord, that were to me so gracious, In twenty weekes (a time not very spacious) To cause me thrice to kisse (me thrice your depter) That hand which bore the Lilly-bearing Scepter Yet needed none, who thinks it is too silly, His Arme the Scepter was, his Hand the Lilly, Command the seas (the seas you haue in keeping, As Admiral to helpe vs in our weeping. You of the greatest Jsle, no petty piller, Who beare the name of George the Dragon-killer; Ah! could not you, and could not all the Order? That Dragon-Feuer hunt out of that border? Was euer King, or Maritine, or Mercian, Before this heard to dye, but of a Tertian? Can vulgars scape the dropsie, scape the Phthisik? And is there for the Crowned head no physicke? Oh subject state of Kings to hard condicions, Betwixt our flatteries, and their owne suspicions! Whose mindes to practise on the flatterer spares not, But on their bodies the Phisition dares not: Our brests the Surgeon opens with their bowells, And mutes before, will then be sounding vowells. Malignant Feuer hence, and get thee further, To beastly men, who take delight in murther: Among the Turkes abide, among the Tarters; And folke that would infest the Christian quarters On Jnfidels, or Pagans, go and glut thee, But if thy fellow-Canniballs rebut thee, Then with thee take the Plague thy cosin-fury: Hence and in hell your selues for euer bury. But (Lord) why should we liue a minute longer? For (saue the Truth) what then a King is stronger The King is dead, yet this the Law denyëth, And saith the King of England neuer dyëth: But Iames is dead, and he the kingdome guided, The Person and the Office are diuided: This and his virtues from his Seede to seuer, May Fates be able neuer, neuer, neuer. O would his Spirit now my senses rauish, (But this desire of mine is too too lauish) I would inchant the world with these my Muses, That haue no Life but what his Death infuses. In euery Land, to make no long rehersall, Of Peace he was a Iustice vniuersall. Peace as a present to the Realme he breathed, And as a legacy the same bequeathed. VVhich his Executor will see performed, VVhat though the Nations haue a little stormed? King Charles will folow still his Fathers humor, And stop the Rage of warre, if not the Rumor. That Man of God, that God of men applyëd, His heart to peace: so liued, and so dyëd. FINIS.</field>
+   </doc>
+</add>

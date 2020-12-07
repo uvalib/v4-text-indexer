@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Bayly, Thomas Haynes, 1797-1839</field>
+      <field name="author_facet">Bayly, Thomas Haynes, 1797-1839</field>
+      <field name="author_sort_facet">bayly thomas haynes 1797 1839</field>
+      <field name="author_text">Bayly, Thomas Haynes, 1797-1839</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1820's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_3.0934.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1822</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:466481</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Erin, and Other Poems ; By Thomas Bayly</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">Erin, and Other Poems ; By Thomas Bayly</field>
+      <field name="title_facet">erin and other poems</field>
+      <field name="title_sort_facet">erin and other poems</field>
+      <field name="title_text">Erin, and Other Poems ; By Thomas Bayly</field>
+      <field name="year_display">1822</field>
+      <field name="year_facet">1822</field>
+      <field name="year_multisort_i">1822</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:466481&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:466481&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Bayly, Thomas Haynes, 1797-1839&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;bayly thomas haynes 1797 1839&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Erin, and Other Poems ; By Thomas Bayly&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;erin, and other poems&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1822&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1822&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Bayly, Thomas Haynes&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1797&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1839&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Erin, and Other Poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;By Thomas Bayly&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Dublin&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Richard Milliken&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Longman, Hurst, and Co.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1822&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp0315&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;55 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Erin, and Other Poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;By Thomas Bayly&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 28 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted; verse reproduced elsewhere in The English Poetry Full-text Database omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">“Far, far away, thy children leave the land.” GOLDSMITH.</field>
+      <field name="fulltext">TO THE REV. BERNARD JOHN WARD, THE FOLLOWING PAGES ARE INSCRIBED, BY HIS VERY SINCERE FRIEND, THOMAS BAYLY. Dublin, July 1, 1822.</field>
+      <field name="fulltext">ERIN. PART THE FIRST. No studied tale, prepared with due regard To the wise precepts of the Roman bard; Re-written, and re-read with hopes, and fears, And kept in manuscript for nine long years; No volume by aspiring hope projected, By doubtful prudence blotted, and corrected, Is this:—Yet if the author must produce For these rough rhymes a plausible excuse, His plea is this:—He “dreamed a dream last night,” A vision came inviting him to write; The cause may palliate the bold attempt, But hold—at once I'll mention what I dreamt. I slept in Erin's isle;—a shadowy cloud Was spread around me, and a haggard crowd Of hopeless, homeless wretches passed my bed Weeping, and perishing for want of bread: Fathers, and mothers, and their babes were there, Bent by disease, and withered by despair; With forms, and looks, and accents that appeal With agony for one—last—scanty meal. I saw a frantic mother press her child In her thin arms;—and then with utterance wild She called upon her husband; but in vain— His powerless limbs no longer could sustain The toil he once thought easy: in despair She kissed her little one, threw back its hair— And felt its forehead with a shuddering dread, And cried in hopeless anguish “it is dead.” I saw the old, and young, together lie On the cold earth at midnight, there to die; To die! or by their crimes to purchase food, And live a life of treason, and of blood. O'er the green isle went forth a cry of grief, The prayer of thousands who implored relief; —Of those, who in their poverty remained Gay, healthful, and content, and ne'er complained: Who murmured not, while daily toil supplied A little—but that little is denied: The strong are unemployed, and the weak fall Without a struggle:—death hath marked them all. I thought the train of sorrow passed away, Yet still their cries where heard; and as I lay, A form arose beside me—and it spoke— (I wrote down all it said when I awoke; And though I think the shadow came incog, I'll venture to repeat our dialogue.) “Say, dost thou know me, slumberer?” “Not I.” “Not know me! say'st thou—did thy waking eye “Ne'er see this form?” (I paused awhile, and viewed The shape, which seemed not framed of flesh and blood— At length I answered:) “Often, when awake, “I think we've met before; I may mistake, “But if my sight deceives me not, I've seen “Thy name upon the back—reverse I mean, “Of an Irish halfpenny.” “Thou guessest right, “My name's Hibernia, and I come to-night “To rouse thee, and to bid thee seize thy pen, “And join thy philanthropic countrymen, “And aid my suffering children.” “I deplore “Thy children's sufferings, but can do no more.” “No more!—if low the current in thy purse “Write—write—and give the produce of thy verse; “Sit down and write.” “Alas! when down I sit “What then shall aid me? should my Muse think fit “To be facetious, 'twill be out of place— “And as to putting on a serious face “And sending forth heroics, there's no time “To dress her in the robes of the sublime.” “I care not how you do it—if 'tis done— “And though your verses may uncouthly run, “The motive will excuse it.” “But how small “Will be my humble tribute after all! “How trifling when compared with the rich tide “Of noble gifts poured forth on every side!” “Think of the snow-ball, and commence thy song, “Its bulk increases as it rolls along, “And every little adds:—thus too you take “Your pens, your ink, and paper, and you make “The opening of an ode: a single line “Seems scarcely worth a thought, but you combine “That with a second, and as snow-balls roll, “Small lines when linked together form a whole. “Look on the radiant splendour of the night— “Say, were each little star that sheds its light “O'er that bright arch, to shade its orb—and say “The skies are bright enough without my ray, “Would not the night be dark?—Behold yon bower, “Where the sweet scent and bloom of every flower “Deliciously are mingled; it is not “One perfume, or one tint adorns the spot, “Each small enamelled blossom scents the air, “And has its own peculiar station there.” “Few bards would willingly be silent long, “When stars and sweets are coupled with their song; “But I will do as many more have done,— “Place on the list my name, and one pound one.” “But if by writing you could aid the cause “More largely, tell me, wherefore should you pause? “Intrepid Livingston ascends his car, “Soaring above the clouds—” “Yes, soaring far “Above my Muse's flight—” “Why every man “Is asked to soar exactly where he can. “Yon gabbling goose can neither soar, nor sing, “Yet with a feather from that goose's wing “Some men soar higher than the eagle's flight, “And sing immortal strains—” “But if I write “Where shall I find a theme?” “Degenerate Bard! “Can one in this fair island deem it hard “To find a theme for song? read o'er each name “That fought for England's safety, England's fame. “Think of the Spanish war,—remember too “The list of those who fell at Waterloo— “Say, do you find no sons of Erin there? “Behold her daughters too—can forms so fair, “And lips so eloquent, and eyes so bright, “Leave thee uncertain on what theme to write? “Ah, no! when Woman prompts a Poet's song, “He cannot think too much, nor write too long; “Though oft repeated, still his eye will find “Charms in her person, beauties in her mind, “For ever new,—or if described before “'Tis certain nothing new could please him more: “Those who have read it once will read again, “The theme will sanctify the dullest strain, “Woman should claim a verse from every bard, “Her smiles his inspiration—and reward. “The mother's tenderness—her hopes and fears— “Her fond affection in our helpless years; “Her watchful care beside the bed of pain; “Her rapture when the infant smiles again; “Her anxious feelings when the boy steps forth “From her protection, to the snares of earth; “Her pride when honoured and beloved he moves,— “For his sake loving the fond girl he loves. “The wife, the partner of each happy hour, “The fond companion, who can raise a flower “In life's most cheerless path—the faithful friend, “Whose duties never vary, never end: “Interpreting each wish, each word, each glance,— “Oh! how unlike the friendship of romance— “The high-flown, wild attachment, formed for one “Known but an instant,—and how little known! “Which fancies that a day can summon forth “That soft, yet hardy plant; whose secret growth “Is scarcely known, or felt, till its rich bloom “Sheds sweetness over life, and gilds the tomb. “Woman deserves our fondest, warmest lays, “In every land she soars beyond our praise; “Our comfort from the cradle to the crutch, “We cannot idolize her form too much: “When near her we are blest—and, when we part, “Elastic fetters twine around the heart: “Expanding still, the farther we remove, “Sensitive links extend to those we love: “They lengthen, strengthen too,—defying fate, “We prize their pressure, and ne'er feel their weight. “Woman! when once thou wak'st a Poet's strain, “He knows not how to turn to earth again; “He writes thy name, and lingers still to gaze “Upon the page devoted to thy praise: “In every hour, in pleasure or alarm, “Thy presence is a solace, or a charm: “At morn or noon, in sunshine or in storm, “He looks around him for thy radiant form; “And roves with thee when summer moons are bright,— “Fair forms look fairest in so soft a light.” —“So far you promise well: you can, I find, “Be eloquent in praise of womankind: “But do not Erin's beauties claim a lay “Particularly theirs?” “Perhaps they may: “But then, between ourselves, 'tis better far, “In these things, not to be particular. “Woman's a lovely word:—in Erin's isle “You'll find her eyes, her lips, her cheek, her smile, “In each variety of brown or fair, “In fact, her charms are potent every where. “Is there no other theme you can propose?” “Yes—tell the simple tale of Erin's woes, “Tell it, and many British hearts will feel “For those who want, and answer the appeal:— “Here high-flown, flowery phrases would be lost; “The tongue says little when the heart feels most.” PART THE SECOND. If England's isle is favour'd; if her plains Are sown and reaped by happy, healthful swains; If in her streets and palaces, the light Of wealth and splendour sparkles day and night; If in her Capital profusion smiles, She sends the overplus to other isles: If her white rustic cottages retain A beauteous neatness, sought elsewhere in vain; Her boundless Charity, a joy imparts To humbler dwellings, and less cheerful hearts. When in her halls the young and lovely meet, When nought but tuneful sounds, and dancing feet, Are heard and seen;—when costly jewels blaze, Reflecting the unnumbered lamps, whose rays Beam like the noon-day sun:—then Charity May animate each bosom, and may be The leader of the sports: and when at last The revellers are gone, the splendour past, It may cause joy elsewhere, and keep aloof The shades of sorrow from a peasant's roof. Much has been done; but while some ills remain, Let not the wretched cry for help in vain; Send forth the willing tribute, every deed Of Charity is blessed, and it shall lead To a more perfect union. Erin feels The kindness of the friendly hand which heals Her present wounds:—Oh! may dissension cease; May perfect confidence, and perfect peace, Unite the sister kingdoms—ne'er to part, Cemented by a union of the heart. But, oh! ye Renegades! ye Absentees! Who fly from home for luxury and ease, Draining the country of its produce; taking Each shilling you can grasp, and then forsaking Your native land, and the poor slaves whose toil Drew forth your wealth from the luxuriant soil: Say, is it just to draw your riches thence, And leave behind no trifling recompense? To fill your purse, and then with lavish hands To scatter its contents in foreign lands? Lands, where each patriot heart your course should shun, And scorn Hibernia's cold degenerate son. Extensive and superb is your estate, Your grounds magnificent—your income great; Your mansion noble. Has affliction's breath Fann'd it, and changed it to the house of death? Why are the windows shut—the portals closed? Why is the weary traveller opposed? Why does no smoke from chimney-tops ascend, Shewing good cheer within?—Is there no friend— No welcome guest in yonder ancient hall? —No—nor a host to welcome! dark are all Those once gay chambers; and no more we see Erin's proverbial hospitality. Oh! far beyond a proverb, was their warm— Their hospitable welcome; it could charm The saddest stranger from his silent mood, Imparting sweetness to the coarsest food: But thus deserted by their nobles; left Drained of their opulence; almost bereft Of quiet dwellings, while the same good will, The same kind warmth of heart pervades them still; We mourn for them, and with disgust we see The cause of all—the heartless Absentee. Why is his mansion closed? Alas! that gate Has seldom moved upon its hinge of late; The Lord is absent seeking purer air, In Piccadilly, or in Grosvenor Square. Does public business call on him? if so, It may be unavoidable;—Oh, no! Many have good excuses, go they must When business calls; and we sincerely trust Their counsels in the state may make amends For their long absence:—but my blame extends To those who go uncalled, and only go To find a wider field for pomp and show; Drowning all patriot thoughts in baser joys, And spending Irish coin on English toys: And when the mischief they have caused breaks forth, They look amazed! and wonder that the earth Should so uncivilly refuse to give Its produce;—or that Irishmen should live In discontent and pain, while agents pay To each his wages—some few pence a day! Go Fashion—to the house of mourning go— With that warm cheek of fire—that heart of snow; There will that flushing cheek be pale with dread, When thy glance rests on the unconscious dead; There will that heart's unthinking coldness melt, Subdued by better feelings—now unfelt. Thy lively spirit shrinks from sorrow's breath; What has that glowing form to do with death? Disease may rage—thy fellow-men may be Hurled to their graves; but, what is that to thee? —Gaze on the dead—restrain thy heart's disgust— What he is, thou shalt be—mere lifeless dust. —The spring is spent in London's gay career, And in the warmer season of the year, An English cottage-villa near the sea Is the retreat of Erin's absentee! The winter finds him in the streets of Bath, Spring re-conducts him to the London path; His road is circular, its course pursuing, It leads to nothing—but his country's ruin. Yet has not nature, with a liberal hand, Scattered her beauties o'er his native land? Killarney's lakes, and rocks, and Wicklow's glens Are lovely, and unrivalled; pencils—pens— Can ne'er describe, or paint them. Then survey Dublin—still smiling o'er her beauteous bay, And own that Erin is too fair for thee, Deserter! Renegade! and Absentee! Erin! a stranger's hand hath feebly traced These few imperfect pages; heedless haste Is no excuse for faults, but charity Covers a multitude of sins, and she Shall take my book to her especial care, Veiling the multitude of errors there. It is a stranger's song; but in a spot Where none are strangers long; my aim is not To leave behind me an immortal verse, Or profit by the theme in fame, or purse: But like those birds of passage, whose wild strain Is heard but for a season, and again Is borne to other groves;—like theirs my lay May have its share of favour for a day— And be, when mute—unthought of. None depart From Erin without heaviness of heart; Without a sigh for many pleasures past, And prayers those pleasures may not be the last: The Englishman, with fondness, ere he goes, Twines, next his heart, the shamrock with the rose. MISCELLANEOUS POEMS. A DISTURBED SPIRIT. An honest Pat, whose intellectual wife Had caused no small vexation during life, Was following her corpse, with look sedate, And heart resigned to the decrees of fate; When—something in the coffin seemed to stir! —The bearers paused to raise the lid for her— But Pat exclaimed, “She's at her ould work still, “That woman won't be plased do what you will; “Go, bearing the dead darling, ah! contrive “To do it—there's no bearing her alive! “Be aisy, now—she's dead—she's talking stuff, “Don't bother yourselves, dears—she's dead enough.” THE END.</field>
+   </doc>
+</add>

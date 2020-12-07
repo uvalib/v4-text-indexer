@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Davison, Francis, 1575-1619</field>
+      <field name="author_facet">Davison, Francis, 1575-1619</field>
+      <field name="author_sort_facet">davison francis 1575 1619</field>
+      <field name="author_text">Davison, Francis, 1575-1619</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1910's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.0430.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1914</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459166</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The masque of Proteus</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 20th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 20th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The masque of Proteus</field>
+      <field name="title_facet">masque of proteus</field>
+      <field name="title_sort_facet">masque of proteus</field>
+      <field name="title_text">The masque of Proteus</field>
+      <field name="year_display">1914</field>
+      <field name="year_facet">1914</field>
+      <field name="year_multisort_i">1914</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459166&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459166&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Davison, Francis, 1575?-1619?&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;davison francis 1575 1619 &lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The masque of Proteus&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;masque of proteus&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1914&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1914&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Davison, Francis&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1575&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1619&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Campion, Thomas&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1567&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1620&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The masque of Proteus&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Oxford&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1914&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3871791-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv10430&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The masque of Proteus&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 34 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and editorial matter omitted&lt;lb/&gt;Only The Masque of Proteus included&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Copyright (c) 1914 The Malone Society. This text may not be reproduced, except for fair dealing purposes, without the express permission of Chadwyck-Healey and the copyright holder.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The masque of Proteus.</field>
+      <field name="desc_meta_file_display">Genre: University plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1688.</field>
+      <field name="desc_meta_file_display">Date first performed: 3 Mar 1595.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The source text includes two versions of The Masque of Proteus.&lt;lb/&gt;The version which did not appear in the Gesta Grayorum of 1688 is reproduced here&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">The Masque of Proteus</field>
+      <field name="fulltext">Sonnet. Vpon presenting her with the speech of Grayes-Inne Maske at the Court 1594. consisting of three partes, The Story of Proteus Transformations, the wonders of the Adamantine Rocke, and a speech to her Maiestie. Who in these lines may better claime a parte, That sing the praises of the Britton Queene, Then you, faire sweet, that only Soueraign beene, Of the poore Kingdome of my faithful Heart? Or to whose view should I this speech impart, Where th'adam?tines rocks great powre is shown: But to your c?q'ring eies, whose force once known Makes euen Iron harts loath thence to parte? Or who of Proteus sundry transformations, May better send you the new-fayned Story, Then I, whose loue vnfain'de felt no mutations, Since to be yours I first receiu'de the glory? Accept then of these lines, though meanely pend, So fit for you to take, and me to send.</field>
+      <field name="fulltext">A Hymne in praise of Neptune. Of Neptunes Empyre let vs sing, At whose command the waues obay: To whom the Riuers tribute pay, Downe the high mountaines sliding. To whom the skaly Nation yeelds Homage for the Cristall fields Wherein they dwell; And euery Sea-god paies a Iem, Yeerely out of his watry Cell, To decke great Neptunes Diadem. The Trytons dauncing in a ring, Before his Pallace gates, doo make The water with their Ecchoes quake, Like the great Thunder sounding: The Sea-Nymphes chaunt their Accents shrill, And the Syrens taught to kill With their sweet voyce; Make eu'ry ecchoing Rocke reply, Vnto their gentle murmuring noyse, The prayse of Neptunes Empery. Th. Campion. This Hymne was sung by Amphitryte Thamesis, and other Sea-Nimphes in Grayes-Inne Maske, at the Court. 1594.</field>
+      <field name="fulltext">The Dialogue between the Squire Proteus, Amphitrite &amp; Thamesis. After ye Hymne song. [Of Neptunes empyre &amp;ct.] Squire. Proteus it seemes you lead a mery life Your Musick followes you, where-ere you go I thought you Sea Gods as in your abode So in your nature had not been vnlike To fishes, who as say Philosophers Haue so small sence of Musicks sweet delight As tis a doubt not fully yet resolv'd, Whether of heering they haue sence or no. Proteus. Twas great discourse of reason to regard The dreaming guess of a Philosopher, That neuer helde his idle buzzing head Under the water half an howers space, More then that famous old receiued story Of good Arion by a Dolphin sav'd Squire. Well lett that pass, and to ye purpose now; I thought yt you that are a Demy God, Would not haue faild my Expectation thus Proteus. Why so faire Squire, Is not my promise kept, And duly the appointed day observ'd. Squire Yes, &amp; tis yt in which I rest deceiv'd. I rather deemd &amp; not without good cause, That those still floating regions where you bide, And th'ever-changing nature that you haue Nought els but breach of promise promised Proteus. T'weare strange if yt my worde wc h credit keepes In future thinges and hidden secrecies Shoulde fondlie faile in keeping promise made Fondly in deed when tis for myne availe Here is ye Rock your Prison or your prise But tell mee Squire, where is th'appointed place In wc h wee shall theis vaunted wonders see. Squire. Well may you wonders terme them Proteus, For those bee wonders yt pass humane witt, Theis shall surpass thy witt though half devine; This is the place, where all those promises, Agreed vpon betwixt ye Prince and you, Shall bee performd, and shall bee so performd, So farr beyond your doubting expectation, So farr beyond his modest declaration, As you will say thrise happie Proteus whose eares vnblessed were to bless myne eyes. Amphitrite. Your far-fet speeches make vs two amazde But tell vs Squire what bee those promisses And those agreed Covenants, &amp; whereon Did they arize twixt Proteus and you Prince. Squire. Faire Amphitrite, I will tell you all After the victorie at Astracan Had made an end of ye Tartarian war And quite disperst our vanquisht Enemies Unto their hoordes and huge vast wildernes, Our noble prince, and his courageous knights (Whose vntyrde valour in yt battell fought, was rather warm'd then fully exercisde) finding no Enterprise that did deserve Th'imployment of their brave vnited force, After assignment of a day and place where both him self, &amp; all his knights should meet, Disperst themselues in many sundry quests To seeke adventures as they should befall The Prince him self who only was attended By mee his Squire had many strange exployts wc h since they shortly shall bee putt in print, Ioy'nd wt h Prince Arthures famous Cronacle I shall not now neede to repeat at large. Amongst ye rest when as the time approacht, That as it was assignd wee all should meete, It thus fell out. The Prince one Sunshine day Resting him self wt hin a goodly tuft, Of tall straite fir-trees yt adornde ye shore, Reading a l?e, lately sent vnto him, from one of his brave knights, yt did importe, How hee in token of his duteous loue, And for a Trophe of his victories, Had lately sent him a Commoditie Of Pigmeys taken in his priuate quest. Resting and Reading suddainly he spide Of porposes a great vnusuall flock Playing and skipping on the calmed waves. Drawne with this sight neerer vnto ye shore, Mounting a litle Clif, hee soone discernd A Cave whose frame seemd more then naturall And viewing neer wt h wary heedefull eys, At length hee spide this fisheard there asleepe Whome by his heard and haveour hee suspected To bee this Proteus as it was in deed Our Prince straite ready at his fortunes call Wt h easy stealing stepps drew neer vnto him, And being neer with great agility Seasd suddenly vpon this Demy God. Hee thus surprisde resorted presently To his familiar artes and turning tricks My Lord like to a skillfull faukoner. Continued still to keepe his fastned hold. Thamesis. The story of those oft transformed shapes, I long to heer from you yt present weare And an ey-witnes of that strange conflict. Squire. And shall faire Thamesis. Know then yt Proteus Uiewing the gallant shape and budding youth Of my brave Lorde, the form yt first hee took Was of a goodly lady passing faire, Hoping belike yt whilst hee vsde respect Dew to her matchles bewty and her sex Him self being now vnloosd might slide away. But finding him (yt knew his wily shiftes, Embrace him straiter in yt fayned shape, Next to a Serpent hee transformd himself, Wt h fiery eyes and dreadfull blackish skales, And threeforkt hissing tongue wc h might affright, Th'undaunted Mr of dread Cerberus. Wherewt h the Prince rather enrag'd then feard, Made him betake him to an other forme. Wc h was a sumptuous Caskett ritchly wrought, whereout whenas it ôpte, many Diamonds &amp; Rubies of inestimable worth Seemed by chaunce to drop in to the Sea. This working nought, but skorne &amp; high disdayne, Hee lastly shewd him a sad spectacle Wc h was ye worthiest of his valiant knights And best beloved of my Lorde the Prince, Mangled and pierst wt h many a grisly wound, Weltring his valiant lymmes in purple gore, Gasping and cloazing his faint dying eyes This with ye Prince now vsd to his delusions, Prevaild no more then did the rest before. When Proteus then had changd his changing weed, And fixt him self in his owne wonted shape Seeing no other meanes could ought prevayle Hee ransome profferd for his libertie. And first of all hee offred to arread To him and all his knights their fortunes spell, But when my Lord replyde yt that was fitt For vnresolued Cowards to obtayne, And how his Fortunes often-changing play, woulde loose the pleasure and ye chief delight, If ye Catastrophe should bee fore-knowne. Then offred hee, huge treasures, Ladies loves, Honour, and fame of famous victories; My Lord made answer that he neuer would Offer his honour so great wrong, to take By guift or magick wt hout sweat or paine, Labour or danger virtues truest price, That wc h by mortall hand might bee atchievde And therefore wild him as a Demy God, To offer some what that might bee above, The lowly compass of a humane power. When Proteus saw ye Prince could make his match, He told him then, how vnder Th'artik pole The Adamantine rock, The seas true star, was scituate, wc h by his power devine, Hee for his ransome would remoue and plant, whereas hee should appoint: assuring him, That the wide Empire of the Ocean, (If his fore telling spirit faild him not, Should follow that, wheare ere it should be sett. But then againe hee added this condition (wc h as hee thought could no way bee performd, That first ye Prince should bring him to a power, wc h in attractive virtue should surpas The wondrous force of his Ir'ne drawing rock. My Ld yt knew him self as well assûrd, As Proteus thought his own match surely made, Easely yeelded to this Covenant. And promisd farther on his princely word That hee himself and 7. of his knights would enter Hostages in to his rock, when't should bee brought to ye appointed place Till this great Covenant should bee performd, Wc h now rests to bee done. Now Proteus Since tis a Question of Comparison, Blazon you forth the virtues of yr Rock Proteus What needeth words where great effects proclayme Thattractive virtu of Th'adamantine rock wc h forceth yron yt all things els co?ands, Iron of mettals prince by auncient right Though factious men in vayne conspire to seat Rebellious golde in his vsurped throne. This sturdie mettall of such strength and vse, Disjoynd by distance of th'whole Hemispheare, Continually with trembling aspect, True-subiect like eyes his dread soverayne. Thus hath this Load-stone by his powerfull touch Made th'Iron needle Load-star of ye world, A Mercury to point the gainest way In watry wildernes and ye desert sands. In confidence whereof the th'assured Mariner Doth not importune Iove for sun or stars By this Attractiue force was drawne to light From depth of ignorance yt new-found world Whose golden mines Iron found and conquered Theis be vertues &amp; extend so far, Wc h you doe vndertake to counterpoyse. Squire. Proteus the Seas haue taught your spech to swell Where work of windes doth watrie Castels build; But calme awhile your overweening vaunts Prepare beleefe &amp; doe but vse your eyes. Excellent Queene, trew adamant of Hartes, Out of yt sacred garland euer-greene, Garland of virtues, bewties &amp; perfections, That crownes your Crowne, &amp; dimmes your fortunes beames, vouchsaffe some branch, some pretious flowre or leafe, wc h though it wither in my barren verse, May yett suffice to ouershade and drowne The Rock admired of this Demy God. Proteus stout Iron homager of your Rock, Impresa of force, and Instrument of warres, Hath praise in deed yet place your praises right, (for force to will, and warres to peace doth yeeld) But that Ile giue you, this I faine would know, what can your Iron doo without Armes of men, And armes of men from hartes of men doo move, The hartes of men, that's it thence motion springs Lo Proteus then Th'attractive Rock of hartes, Hartes wc h once truly touched wt h her beames Inspiring purest zeale and reverence Aswell vnto ye person as the Power, Do strayt putt of all temper yt is false, All hollow feare and skooled flattery Turne fortunes wheele, they euer keepe their course, And stand direct vpon the Loyall line. Your Rock claymes kindred of ye Polar star, Because it drawes the needle to ye North. Yet euen that starr, giues place to Cynthias rayes, Whose drawing virtue gouernes and directs The flotes, &amp; reflotes of ye Ocean. But Cynthia praised bee your watry raigne, Your Influence in spirits hath no place. This Cynthia high doth rule those heavenly tydes, Whose Soveraigne grace, as it doth wax or wane Affections so &amp; fortunes eb and flow. Sometime wt h waues applauding on ye shore, Sometime retyring to their narrow deepes. The holy Shrines draw pilgrims from all parts, To passe the mountaynes, seas and desert sandes. Unto this liuing saint haue Princes high Of forreigne landes made vowed pilgrimage. What excellencies are there in this frame, Of all thinges wc h her virtue doth not draw: The Quintescence of wittes, The fier of loves The Ayre of fame, Mettall of courages; And by hir virtue long may fixed bee, The wheele of fortune and the Car of tyme. In the protection of this mighty rock, Haue scepters straind recoverd wonted skope People oppressed have preserued breath. Under the shadow of this blessed rock In Britton land while tempests beat abroade, The lordly and the lowly Shepheard both In plenteous peace haue fedd their happy flockes. Upon ye force of this inviolate rock, The giant like attempts of power unjust, Haue suffred wreck: And Proteus for ye seas, Whose Empire lardge your praised rock assures, your guift is void, it is already heer, As Russia, China, &amp; Magellanus straytes Can wittnes beare: well may your present bee, Impresa apt thereof, but sure no cause Fisheard devine congratulate your self, your eyes have won, more then yor state hath lost, yelde victory, and liberty and thanckes Proteus. Against the truth yt Lands and seas avow, It fitts not Proteus make avaine reply The Shallop may not wt h tall shipps contend, Nor windy buble wt h a billow striue, Nor earthly thing compare wt h greatest Queene That hath or shall a Regall scepter sway. Blest bee yt Prince yt fors't mee see this grace, Which worldly Monarkes &amp; Sea-powers adore. Take thanckes of guift, &amp; Libertie of due.</field>
+   </doc>
+</add>

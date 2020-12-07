@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1950's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2006_10/uvaGenText/tei/bov_19530313.xml</field>
+      <field name="date_indexed_facet">201909240346</field>
+      <field name="date_text">March 13, 1953</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:350746</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. March 13, 1953</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  March 13, 1953</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  March 13, 1953</field>
+      <field name="year_display">March 13, 1953</field>
+      <field name="year_facet">1953-03-13</field>
+      <field name="year_multisort_i">1953</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:350746&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:350746&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. March 13, 1953&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;March 13, 1953&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1953-03-13&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;March 13, 1953&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Official minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;3 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1953-03-13&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 18 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">13 March 1953 The regular monthly meeting of the Board of Visitors of The Rector and Visitors of the University of Virginia was held on this date in the Office of the President of the University of Virginia, Charlottesville, Virginia, with the following present: The Rector, Barron F. Black, President Colgate W. Darden, Jr., of the University of Virginia; Visitors Barksdale, Carrington, Coxe, Emmett, Gravatt, Mears, Mrs. Smith, Mr. Smith, Talbott, Wailes, and Wheeler. Absent: Dr. M. L. Combs, President Mary Washington College, Visitors Gay and Howard. The minutes of the meeting of February 13, 1953, which had been copied and mailed to the members, were approved. GIFTS The President reported receipt of the following gifts and grants From an anonymous donor, for the Graduate School of Business $ 81,825.00 From Mr. G. M. Alexander, of Lynchburg, first edition of Melville's "Moby Dick", in three volumes, valued at 336.00 From Mr. G. M. Alexander, of Lynchburg, Cruikshank's "Humorist", in four volumes, valued at 140.00 From Mrs. O. E. Cesare, Stamford, Connecticut, Cesare cartoons, valued at 2,000.00 From Misses Texie and Winnie Watts, 1050 books, valued at 525.00 From the University Hospital Circle, to the University Hospital, for the purchase of wheel-chairs 743.00 From an anonymous donor, contribution for a debate prize for students majoring in economics and commerce 100.00 From Mr. O. D. Robinson, for research in neurology 1,000.00 From the S. E. Massengill Company, to be added to the Pediatrics Research Fund 2,000.00 From the Amercian Cancer Society, Inc., for research under Dr. Alfred Burger of the Department of Chemistry, for one year beginning July 1, 1953 5,886.00 From the United States Public Health Service, for medical research under Dr. Alfred Chanutin, of the Department of Biochemistry, for the period January 1, 1953 to September 30, 1953 12,000.00 LEAVES OF ABSENCE The following resolutions were adopted by the Board RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that Professor George W. Spicer, Professor of Political Science, be and he is hereby granted leave of absence without pay for the remainder of the second semester, to serve as Visiting Professor at Emory University, Atlanta, Georgia RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that Dr. Raymond F. Mikesell, Professor of Economics, be and he is hereby granted leave of absence without pay for the first semester of the session of 1953-54, to become a member of the faculty of the National War College. ELECTIONS The following resolution was adopted by the Board. RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that the following persons be and they are hereby elected to the faculty of the University. Dr. Marvin C. Colker, as Lecturer in Latin for the second semester of the session of 1952-53, to take over the classes of Professor Lehman, who recently died Miss Sydell Braverman, as Acting Assistant Professor of Education, effective February 16, 1953, as a replacement for Mr. A. C. Ziemer, who recently died. The University will be reimbursed for Miss Braverman's salary by the State Board of Education. Mr. Gus K. Tebell, as Professor of Physical Education in the College of Arts and Sciences APPOINTMENT The following appointment was confirmed by the Board Lieutenant Colonel Thomas Wood, Jr., as Professor of Military Science and Tactics, effective in the summer of 1953, at no salary from the University. This is a replacement for Lieutenant Colonel Ketcham, who is being detached. REPORT OF EXECUTIVE COMMITTEE The Rector presented the following report of the Executive Committee (1) February 19, 1953, accepted the low bid of $1,179,500 of the contractor Graham, on the new dormitory at Mary Washington. The acceptance was based on the certification of Dr. Combs that this was the lowest and best bid, and also after talking to the architect (2) February 26, 1953, approved the acceptance of bids on the construction of an addition to the Barringer Wing of the Hospital, consisting of the bid of the Ivy Construction Company in the amount of $591,802.80, as well as the expenditure of $166,197.20 in addition to the above, for other equipment, architect's fees, surveys and contingencies, making a total of $758,000, and also of the approval of the low bids for supplemental work as follows Godwin-Holstead Electric Company $ 6,535.76 Wachter &amp; Wolff (Plumbing) 27,165.00 In each instance, President Darden certified that these bids were the lowest and best bids. BARRINGER WING The President was authorized to award a contract to W. T. Martin Hardware Company, in the amount of $9,437.67, the lowest and best bid for hardware for the Barringer addition. BLUE CROSS The President reported that he was still not satisfied with the present Blue Cross contract, and he thought the University Hospital and other hospitals had subsidized the Blue Cross long enough and that we should receive full reimbursement for services rendered. He recommended that the University Comptroller be authorized to reopen negotiations with the Blue Cross in an effort to get full and fair reimbursement for services rendered. Whereupon, a resolution was adopted carrying out the recommendations of the President. UNCOLLECTIBLE HOSPITAL ACCOUNTS The Board adopted the following resolution. RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that the Hospital Accounts Committee be and it is hereby authorized to charge off as uncollectible accounts Schedules 341, 344, and 345, aggregating $9,748.66, recommended by them for cancellation. Upon the suggestion of Mr. Gravatt, the Secretary was requested to secure a written statement of the procedure followed for the determination of uncollectible accounts which are from time to time presented to the Board for authorization to be charged off, and to furnish the board with such a statement. NCAA The President read the following letter from Mr. Tebell, Director of Athletics UNIVERSITY OF VIRGINIA Department of Athletics Charlottesville, Virginia February 7, 1953 Mr. Colgate W. Darden, Jr. President University of Virginia Charlottesville, Virginia Dear Mr. Darden I would like to reassert my position in respect to NCAA. I believe it is imperative that we maintain our membership in the organization and that we live with its rules and regulations without any attempt to by-pass them. The NCAA membership includes all the schools with which we wish to continue athletic relations. A nod from NCAA and no member institution would play us if we were a non-member or a member not in compliance. By and large, the rules are good and for our protection. I see no reason why we cannot abide by them. They leave to us, in the last analysis, the control and responsibility for the conduct of our intercollegiate program. The NCAA people have spent years in studying athletic problems and are in the best position for our guidance. I earnestly recommend that we continue with NCAA. Thanking you for this consideration, I am Respectfully yours, /s/ Gus K. Tebell Director of Athletics - - - - - - - - - - The President read a letter from the President of the Savannah Alumni Association, Georgia, endorsing the findings of the Athletic Committee of the Academic Faculty, as appointed March 28, 1951 The Rector reminded the Athletic Committee that the question of conforming to the NCAA code had been referred by the Board to this committee at its February meeting. The Chairman of this committee, Mr. Talbott, reported that amendments to the NCAA code had not been received until Tuesday of this week, hence, the committee has not had a chance to consider the matter The President reported that he had received a letter from Dean Lewis in which the Dean stated that the Academic Faculty was concerned with the action of the Board in its creation of the Advisory Council on Athletics and requested the President to meet with the Academic Faculty and to invite members of the Board, at a convenient time. The President stated that since receiving the letter, he had talked with Dean Lewis and believed there was a misunderstanding which could be cleared up by a discussion of the matter, and he would meet with the Academic Faculty as soon as the Board had taken final action to conform with the NCAA Code. ATHLETIC CONTRACTS The President reported that, upon the recommendation of the Director of Athletics, he had appointed Grover Jones and Harrison Nesbit assistant coaches of the football team, under one year contracts. LAW SCHOOL SALARIES The President reported that he had received a letter from Mr. Stuart B. Campbell, President of the Law Alumni Association, requesting that the Board hear a committee of the Law Alumni at its April meeting, looking toward the establishment of a higher salary scale for the Law Faculty. After discussion of the matter, the Board agreed to hear the Law Alumni and requested the President to so inform Mr. Campbell. The President pointed out that the New York Alumni had established a Law School Foundation, the major purpose would be to supplement the salaries of the Law School Faculty by annual giving, and he believed this might be a solution to the problem. MARY WASHINGTON COLLEGE MATTERS BOARD MEETING The Rector reported that Mary Washington planned to dedicate its Fine Arts Center on Saturday, May 9. It was proposed to shift the Mary Washington meeting from April to May with the hope that as many Board members as possible would remain over for the dedication the following day. The Governor was to present the Center and The Rector would accept it on behalf of the College. A resolution was adopted approving this change. - - - - - - - - - On motion the meeting was then adjourned. Barron F. Black Rector Vincent Shea Secretary</field>
+      <field name="fulltext">UNIVERSITY OF VIRGINIA Department of Athletics Charlottesville, Virginia February 7, 1953 Mr. Colgate W. Darden, Jr. President University of Virginia Charlottesville, Virginia Dear Mr. Darden I would like to reassert my position in respect to NCAA. I believe it is imperative that we maintain our membership in the organization and that we live with its rules and regulations without any attempt to by-pass them. The NCAA membership includes all the schools with which we wish to continue athletic relations. A nod from NCAA and no member institution would play us if we were a non-member or a member not in compliance. By and large, the rules are good and for our protection. I see no reason why we cannot abide by them. They leave to us, in the last analysis, the control and responsibility for the conduct of our intercollegiate program. The NCAA people have spent years in studying athletic problems and are in the best position for our guidance. I earnestly recommend that we continue with NCAA. Thanking you for this consideration, I am Respectfully yours, /s/ Gus K. Tebell Director of Athletics</field>
+   </doc>
+</add>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Don Marquis</field>
+      <field name="author_facet">Don Marquis</field>
+      <field name="author_sort_facet">don marquis</field>
+      <field name="author_text">Don Marquis</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1910's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/MarFits.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">c1912-1976</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476170</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Fits and Starts</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">Fits and Starts</field>
+      <field name="title_facet">fits and starts</field>
+      <field name="title_sort_facet">fits and starts</field>
+      <field name="title_text">Fits and Starts</field>
+      <field name="year_display">c1912-1976</field>
+      <field name="year_facet">1919</field>
+      <field name="year_multisort_i">1919</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476170&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476170&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Don Marquis&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;don marquis&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Fits and Starts&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;fits and starts&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;c1912-1976&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1919&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Don Marquis&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Fits and Starts&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1919&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Harper &amp;amp; Bros.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;c1912-1976&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="callNo"&gt;Source copy consulted: Uva Library AP2.H3&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The article appeared in v. 139, Part One (June-August 1919), p. 277-279.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Fits and Starts&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1999&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1999 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 10 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">FITS AND STARTS By Don Marquis I WENT into the new Broadway Subway, near City Hall, the other day, and asked the pensive lady at the money-window: "How long does it take to go up to Times Square?" She haled back her ego from its dream; with difficulty she compelled herself to look at me. After she had looked at me a moment, she seemed to pity me. "I dunno'," she said. But I persisted. I had never ridden in that Subway, and I really wanted to know. I was already ten minutes late for an engagement. I wished to know whether I was going to be forty minutes late or twenty. A man who is late for an engagement owes the engagee a lie which is not only plausible, but entertaining. But the story that goes with being forty minutes late will not do at all when you are twenty minutes late. I wished to know in advance the sort of story I should have to tell. I wished to rehearse it to myself and perfect it on the way up-town. And I did not wish to spend the time perfecting one sort of story, only to find it useless upon arrival. I have something of a reputation to keep up in the matter of tardiness: if I am ten minutes late, I am on time; it is a pose, an affectation, with me; and it is, in the long run and in a small way, profitable: people ask me to lunch frequently just to hear what I will say when I arrive late. So I really wanted to know, and I asked the lady at the ticket-window once more. She had taken up a comb and was rubbing it through her hair, and attracting with the electrified celluloid certain little bits of paper spread before her. Somehow she made me feel, when she answered, that I was of less importance in her scheme of things than one of the bits of paper. "It doesn't take so very long," said she. "But how long?" I insisted. "How long would you say yourself?" said she. It was perhaps fortunate for her that she had not to deal with a person with an idea on the subject of catching a train. As it was, I tried to suggest mild rebuke by my manner. "I have never ridden on this line," I said. "You go and ride on it, then," said she, "and then come back here and tell me how long it takes." It struck me, on reflection, that her attitude was quite right. She was a specialist. She made change; it was her business to give out the nickels that the public dropped into the hopper, and she refused to burden her mind with any further responsibility. But beneath this and behind it and more important, I thought that I could discern a fine scorn for that mania for rushing hither and thither which characterizes the populations of large towns. So much of that rushing is entirely aimless and unnecessary. I have seen people in New York race down the street as if the very devil burnt their heels behind them, flinging weaker pedestrians to one side, skipping perilously in front of auto-trucks and eluding traffic cops, and then stand for twenty minutes watching an office safe being lowered from the tenth story of a building. They weren't really in a hurry; they weren't even going anywhere in particular, most of them. They were merely being like their era. I do not pretend to say, especially since the war, where the world is going, but it gets sudden urgent impulses to be rapidly on its way; it has spasms of the most disconcerting speed, and then it stops, puts its hands in its pockets, sits down on a park bench, and stares at the toes of its shoes. It hasn't been long since certain persons said this country was going to the demnition bow-wows; it was hell-bent and iniquitously happy, what with simian dances and—and—oh, you know, Immoral Stuff generally. And now these same persons insist that it is dashing madly toward redemption—Prohibition, you know, and Moral Stuff generally. But it always stops and rests awhile and forgets where it was going. It has time, after all, to be charmed by the demonstrator's alluring pantomime in the show-window; it allows itself to become possessed of long and placid thoughts as it watches the skilful gentleman in the white cap tossing buckwheat cakes in the white-tiled food-mausoleum. Perhaps, in these quarter-hours of rest between dashes lies a certain safety. For none of its rushes ever carries through; it always saves itself from logical arrival at a logical terminus; it turns with a kind of horror from any possible partnership with the absolute; when it dashes again, it will dash in some other direction, and its new dash will bear no perceptible relation to its former dash and no relation to what it was supposed to be thinking about in the interval between the dashes. These remarks concerning the illogical rushes of human beings are uttered in no hateful spirit. After all, I am one of them. I prefer them, on the whole, to any other sort of animal; I always feel a clannish instinct to defend them; as between human beings and, let us say, camels, or even gazelles, I do not hesitate an instant. I know that it is fashionable to criticize the universe which contains humanity, but I have never been able to remain angry with it for very long at a time. I incline toward lenience with regard to its mistakes. It has come a long way. It has a long way to go. It is, at times, no doubt, tired. And it can neither strike nor resign. It cannot even go crazy, for its insanity would immediately become the standard of normality. It must keep on being the universe. Often, when we contemplate the universe, we burst into tears of sheer pity. It did not ask to be. It cannot help but be. It does the best it can. And thrice ten thousand vers libre bards and philosophers, every year, gibe at it with bitterness and contumely. It never answers. Sometimes we think its dull and plodding patience is almost grand. It is probably discouraged a great deal of the time at not being able to please G. B. Shaw, or keep up with H. G. Wells, but it chokes back the sobs and keeps on trying. These fits and starts of humanity, these rushings and stoppings, may, for all I know, correspond to some vast internal rhythm of the cosmos; the pulse jumps, and the corpuscles shoot ahead. Personally, I prefer the dreamy, more stationary moments between pulsebeats; I don't want to go anywhere in particular badly enough to hurry; effort is loathsome. The lady at the Subway window is of my way of thinking. "Can't you," I said to her, consciously impersonating the bustling person I am not—"can't you at least give me some approximate idea of how long it takes to get up to Forty-second Street? Does it take about ten minutes, or does it take about thirty minutes?" "It takes shorter than a horse," said she, "and longer than an airyoplane. The time some people waste standin' around here, askin' questions, they'd get there quicker if they walked."</field>
+   </doc>
+</add>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Oxford University Press</field>
+      <field name="author_facet">Oxford University Press</field>
+      <field name="author_sort_facet">oxford university press</field>
+      <field name="author_text">Oxford University Press</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1970's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.0930.xml</field>
+      <field name="date_indexed_facet">201909240355</field>
+      <field name="date_text">1974</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459560</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Harrowing of Hell ; - The Cooks [Chester</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 20th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 20th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Harrowing of Hell ; - The Cooks [Chester</field>
+      <field name="title_facet">harrowing of hell</field>
+      <field name="title_sort_facet">harrowing of hell</field>
+      <field name="title_text">The Harrowing of Hell ; - The Cooks [Chester</field>
+      <field name="year_display">1974</field>
+      <field name="year_facet">1974</field>
+      <field name="year_multisort_i">1974</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459560&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459560&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Harrowing of Hell ; - The Cooks [Chester&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;harrowing of hell&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1974&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1974&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Harrowing of Hell&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;- The Cooks [Chester]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York, Toronto&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Oxford University Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1974&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873593-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv10930&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Harrowing of Hell&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;- The Cooks [Chester]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 27 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries, introductory and editorial matter omitted&lt;lb/&gt;The following plays have been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Copyright (c) 1974 Early English Text Society. This text may not be reproduced, except for fair dealing purposes, without the express permission of Chadwyck-Healey and the copyright holder.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The harrowing of Hell (Chester).</field>
+      <field name="desc_meta_file_display">Genre: English mystery and miracle plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1475 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1377–1382 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Square brackets represent sections of text which have been deleted or added at different stages in the evolution of the manuscript.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE COOKES PLAYE Hic incipit Pagina Decima Septima de Decensu ad Inferna et de his qui ibidem fiebant secundum Evangelium Nicodemi.</field>
+      <field name="fulltext">Et primo fiat lux in inferno materialis aliqua subtilitate machinata, et postea dicat Adam. ADAM O lord and soveraigne saviour, our comfort and our counselour, of this light thou art author as I see well in sight. This ys a signe thou wilt succour thy folkes that lyven in great langour, and of the devill be conquerour, as thou hast yere beheight. Mee thou madest, lord, of claye, and gave me paradyce in to playe; but through my synne, the soothe to saye, depryved I was therefroe, and from that weale put awaye, and here have longett sythen aye in thestearnesse both night and daye, and all my kynd also. Nowe, by this light that I nowe see, joye ys come, lord, through thee, and one thy people hast pittye to put them out of payne. Sycker, yt may non other bee but nowe thow hast mercye on mee, and my kynd through thy postye thou wilt restore agayne. ESAYUS Yea, secerlye, this ilke light comys from Goddes Sonne almight, for so I prophecyed aright whyle that I was livinge. Then I to all men beheight, as I goostlye sawe in sight, these wordes that I shall to myght rehearse withowt tarienge: ‘Populus qui ambulabat in tenebris vidit lucem magnam.’ The people, I sayd that tyme expresse, that yeeden abowt in thesternesse seene a full great lightnesse, as we donne nowe ychone. Nowe ys fullfilled my prophecye that I, the prophet Esaye, wrote in my booke that will not lye, whoso will looke theron. SIMEON JUSTUS And I, Symeon, sooth to saye, will honour God all that I maye; for when Cryst child was, in good faye, in temple I him tooke and, as the Holye Gooste that daye taught me or I went awaye, these wordes I sayd to Godes paye that men may fynd in booke: ‘Nunc dimittis servum tuum, domine, secundum verbum tuum, in pace.’ There I prayed, withowten les, that God would lett me be in peace. For he is Christ that commen was, I had both feld and seene, that he had ordeynt for mans heale, joye to the people of Israell, nowe ys yt wonne, that ylke weale, to us, withowten weene. JOHANNES BAPTISTA Yea, lord, I am that prophett Johan that baptysed thee in flood Jordan and prophecyed to every natyon to warne of thy commynge to bringe the people to salvatyon by merrytt of thy bitter Passyon, through fayth and penance to have remyssion and with thee to have wonnynge: ‘Penitentiam agite! Appropinquat enim regnum caelorum.’ And with my finger I shewed expresse, when I lyved in wildernesse, a lambe in tokeninge of thy lycknesse, our ransome for to bee. At thy commynge we had forgivenesse; mercye concluded ryghtwisenesse. Wherfore these wordes I doe rehearse with honour unto thee: ‘Ecce agnus Dei, ecce, qui tollit peccata mundi.’ SEETHE And I, Seethe, Adams sonne, am here, that livinge went, withowten were, to aske at paradyce a prayer at God, as I shall saye: that he would grant an angell in hye to give me oyle of his mercye to anoynt my father in his anoye, in sycknes when he laye. Then to me appeard Mychaell and bade me travell never a deale, and sayde for remynge nyf prayers felle that grant me not to seeke; nyf of that might I have none, made I never so mych mon, tyll fyve thousand yeres were gonne and fyve hundreth yeeke. Omnibus flectibus dicat David: A, high God and kinge of blys, worshipped be thy name, ywys! I hope that tyme nowe commen ys delyvered to be of languor. Come, lord, come to hell anon, and take owt thy folkes everychon, for the yeares be all comen and gonne sythen mankynd first came here. Tunc Sathan sedens in cathedra dicat daemonibus: Hell-houndes all that binne here, makes you boune with boste and beere, for to thys felowshippe in fere there hyes a feerly freake. A noble morsell ye have mone; Jesu that ys Godes Sonne comes hither with us to wonne. One him nowe ye you wreake. A man hee ys fullye, in faye, for greatly death hee dread todaye, and these wordes I hard him saye: ‘My soule is threst to death.’ Such as I made halt and blynd, he hasse them healed into theire kynd. Therfore this bolster looke ye bynd in bale of hell-brethe. SECUNDUS DAEMON Syr Sathanas, what man ys hee that should thee pryve of thy postie? Howe darre he doe agaynste thee and dread his death todaye? Grayter then thou he seemes to be, for degradit of thy degree thou must be soone, well I see, and pryved of thy praye. TERTIUS DEMON Who ys he so styffe and stronge that so maysterlyke comes us amonge, our felowshippe as he would fonge? But therof he shall fayle. Weyt he us with any wronge, he shall synge a sorye songe; but on thee, Sathan, or yt be longe, and his will ought avayle— SATHANAS Agaynst thys shrewe that commys here I tempted the folke in fowle manere. Aysell and galle to his dinere I made them for to dight, and sythen to hange him on roode-tree. Nowe ys he dead, right so through mee, and to hell, as yee shall see, hee comys anonne in hyght. SECUNDUS DAEMON Syr Sathanas, ys not this that syre that raysed Lazour out of the fyre? SATHANAS Yea, this ys hee that would conspire anonne to reave us all. TERTIUS DAEMON Owt, owt! Alas, alas! Here I conjure thee, Sathanas, thou suffer him not come in thys place for ought that may befall. SECUNDUS DAEMON Yea, sekerly, and he come here, passed ys cleane our power, for all this felowshippe in fere have home away he would; for at his commandement Lazour, that with us was lent, maugre our teythe awaye hee hent, and him might we not hould. Tunc venit Jesus et fiat clamor, vel sonitus magnus materialis; et dicat Jesus: ‘Attollite portas, principes, vestras, et elevamini portas aeternales, et introibit rex gloriae.’ JESUS Open up hell-gates anonne, ye prynces of pyne everychon, that Godes Sonne may in gonne, and the kinge of blys. SECUNDUS DAEMON Go hense, poplard, owt of thys place or thou shalt have a sorye grace. For all thy boaste and thy manace theise men thou shalt amys. SATHANAS Owt, alas, what ys thys? Seghe I never so mych blys towardes hell come, iwys, sythen I was warden here. My masterdome fares amys, for yonder a stubberne fellowe ys, right as wholye hell were his, to reave me of my power. TERTIUS DAEMON Yea, Sathanas, thy soverayntie fayles cleane. Therfore thou flee, for no longer in this see here shalt thou not sytt. Goe forth! Feight for thy degree! Or elles our prynce shall thou not bee; for nowe passys thy postee and hethen thou must flytt. Tunc surgens Sathanas de sede dicat. SATHANAS Owt, alas, I am shent! My might fayles, verament. This prynce that ys nowe present will pull from me my praye. Adam by myne intycement, and all his blood, through me were shent. Nowe hethen they shall all be hent, and I in hell for aye. DAVID REX I, kinge Davyd, nowe well may saye my prophecye fulfilled is, in faye, as nowe shewes in sight verey, and soothly here ys seene. I taught men thus here in my lyefe-daye to worshippe God by all waye, that hell-yates he should afraye and wonn that his hath bynne. ‘Confiteantur domino misericordiae eius et mirabilia eius, filius hominis contrivit portas aereas et vectes ferreas confregit.’ Tunc item dicat Jesus. JESUS Open up hell-yates yett I saye, ye prynces of pyne that be present, and lett the kinge of blys this waye that he may fulfill his intent. SATHANAS Staye! What, what ys hee, that kinge of blys? DAVID REX That lord the which almightie ys, in warre no power like to his, of all blys ys gretest kynge. And to him ys non like, iwys, as ys soothly seene by thys, for men that somtyme dyd amysse to his blys he will them bringe. Hic extrahuntur patriarchi. (Here must God take owt Adam.) JESUS Peace to thee, Adam, my dearlynge, and eke to all thy osspringe that ryghtwise were in yearth livinge. From mee yee shall not severe. To blys nowe I wyll you bringe there you shalbe withowt endinge. Mychaell, lead these men singinge to blys that lasteth ever. MYCHAELL Lord, your will donne shalbe. Come forth, Adam, come with mee. My lord upon the roode-tree your synnes hath forbought. Nowe shall ye have likinge and lee, and be restored to your degree that Sathan with hys subtyltye from blys to bale had brought. SATHANAS Owt, alas! Nowe goes awaye all my prysoners and my praye; and I myselfe may not starte awaye, I am so stretlye tyed. Nowe comes Christe, sorrowe I maye for me and my menye for aye. Never sythen God made the first daye were we so sore afrayd. Here must Adam speake to Enocke and Helye. ADAM Syrs, what manner of men bene yee that bodelye meete us, as I see, that dead come not to hell as wee, sythen all men dampned were? When I trespassed, God height mee that this place closed should bee from yearthly men to have entree, and yett I fynd you here. ENOCKE Syr, I am Enocke, the sooth to saye, put in this place to Goddes paye; and here have lyved ever synce aye at likinge all my fill. And my fellowe here, in good faye, ys Helye the prophet, see yee maye, that ravished was in this araye, as hit was Godes will. HELIAS PROPHETA Yea, bodely death, leeve thou mee, yett never suffred wee, but here ordaynt we are to bee tyll Antechriste come with hise. To fight agaynst us shall hee and slea us in this holye cittye; but sekerly, within dayes three and a halfe, we shall ryse. ADAM And who ys this that comes here, that lives with you in this manere? LATRO I am that theeffe, my father dere, that honge on roode-tree. For I beleeved withowten were that Christ might save us both in feere, to him I made my prayer, the which was granted mee. When I see synnys full verey that hee was Goddes Sonne, sooth to saye, to him devoutely did I praye, in his regyon when he come that he would thinke on me alwaye; and hee answered and sayd: ‘This daye in paradice thou shalt with me playe.’ Hederward I nome. Then he betaught me this tokeninge, this crosse upon my backe hanginge, to Michaell angell for to bringe, that I might have entree. ADAM Nowe goe wee to blys, ould and yonge, and worshippe God all willinglye; and thiderward I read we singe with great solempnitie. Tunc eant omnes, et incipiat Michaell ‘Te Deum laudamus.’ MULIER Woe be the tyme that I came here, I saye to thee nowe, Lucifere, with all thy felowshipp in fere that present be in place. Wofull am I with thee to dwell, syr Sathanas, sargeant of hell. Endles sorrowe and paynes cruell I suffer in this case. Sometyme I was a taverner, a gentle gossippe and a tapster, of wyne and ale a trustie bruer, which woe hath me wrought. Of kannes I kept no trewe measure. My cuppes I sould at my pleasure, deceavinge manye a creature, thoe my ale were nought. And when I was a bruer longe, with hoppes I made my alle stronge; esshes and hearbes I blend amonge and marred so good malt. Therfore I may my handes wringe, shake my cuppes and kannes ringe. Sorrowfull maye I syke and singe that ever I so dalt. Tavernes, tapsters of this cittye shalbe promoted here with mee for breakinge statutes of this contrye, hurtinge the commonwealth, with all typpers-tappers that are cunninge, mispendinge much malt, bruynge so thinne, sellinge smale cuppes money to wynne, agaynst all trueth to deale. Therfore this place nowe ordayned ys for such yll-doers so mych amysse. Here shall they have ther joye and blys, exalted by the necke, with my master, mightie Mahound, for castinge malt besydes the combes, myche water takinge for to compound, and little of the secke. With all mashers, mengers of wyne, in the night bruynge so, blendinge agaynst daylight, sych newe-made claret ys cause full right of sycknes and disease. Thus I betake you, more and lesse, to my sweete mayster, syr Sathanas, to dwell with him in his place when hyt shall you please. SATHANAS Welcome, dere daughter, to us all three. Though Jesu be gonne with our meanye, yett shalt thou abyde here still with mee in payne withowt ende. SECUNDUS DAEMON Welcome, sweete ladye! I will thee wedd, for manye a heavye and dronken head cause of thy ale were brougt to bedd farre worse then anye beaste. TERTIUS DAEMON Welcome, deare darlinge, to endles bale. Usynge cardes, dyce, and cuppes smale, with many false othes to sell thy ale— nowe thou shall have a feaste! Finis</field>
+   </doc>
+</add>

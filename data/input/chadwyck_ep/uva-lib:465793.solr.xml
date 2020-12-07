@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Hall-Stevenson, John, 1718-1785</field>
+      <field name="author_facet">Hall-Stevenson, John, 1718-1785</field>
+      <field name="author_sort_facet">hall stevenson john 1718 1785</field>
+      <field name="author_text">Hall-Stevenson, John, 1718-1785</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1740's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.2042.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1745</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:465793</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Sick Monkey ; a fable [by J. H. Stevenson</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 18th century</field>
+      <field name="subject_text">English poetry -- 18th century</field>
+      <field name="title_display">The Sick Monkey ; a fable [by J. H. Stevenson</field>
+      <field name="title_facet">sick monkey</field>
+      <field name="title_sort_facet">sick monkey</field>
+      <field name="title_text">The Sick Monkey ; a fable [by J. H. Stevenson</field>
+      <field name="year_display">1745</field>
+      <field name="year_facet">1745</field>
+      <field name="year_multisort_i">1745</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:465793&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:465793&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Hall-Stevenson, John, 1718-1785&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;hallstevenson john 1718 1785&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Sick Monkey ; a fable [by J. H. Stevenson&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;sick monkey&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1745&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1745&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Hall-Stevenson, John&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1718&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1785&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Sick Monkey&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;a fable [by J. H. Stevenson]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for J. Fletcher and Co.[etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1745&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp3784&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;23 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Sick Monkey&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;a fable [by J. H. Stevenson]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 30 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">“Thursday Afternoon, David Garrick, Esq; arrived at his House in Southampton-Street, Covent-Garden.” Public Advertiser, April 27, 1765.</field>
+      <field name="fulltext">THE SICK MONKEY, A FABLE. ADDRESSED To Mr. GARRICK, upon his Arrival. Return'd from travel to your native shore Again to make us laugh or cry, To turn your back, we hope, no more, Nor from your colours fly; Whether you fled for health, or quiet, Harrass'd with rule, or sick of riot, Or whether you have kept us lean, As slander says, With lenten plays, To make our appetites more keen; Whether it be or this or that, No matter what, For we before the curtain see but blindly; Now you are come, To us, and home, We greet you, Sir, and greet you kindly. My Muse is honest, as she's bold, A forward Miss, Who loves to prate—but hold— I quite forgot; Before I tell you what she is, I'll tell you what she's not. No bird of prey, with wild uproar, Like Churchill, to disturb the grove; Nor comes she, like the harmless dove, To bill, and coo, and love, —And nothing more. In short, to speak more plainly, Nor be it thought I speak it vainly, Averse to flattery and spite, She is a modest, sober dame, I wish all females were the same, And will not scratch or bite: She is not one of those Who shew their genius in their dress, Whose inky fingers, unpinn'd cloaths, The slip-shod shoe, and snuffy nose, Denote her wit, and sluttishness: Who with a Play, like pistol cock'd, in hand, Bid Managers to stand: “Deliver, Sir, “Your thoughts on this “Before you stir— “—But, Madam—Miss— “Your answer strait; “I will not wait— “—'Tis fit you know— “I'll hear no reason, “This very season, “Ay or No.” Not to kill more precious time, In dropping sense to pick up rhime; Or, like friend Shandy, rattle, And lose my matter in my prattle; Without much wit digression's tame, So I shall give it o'er, And beat about the bush no more, But start my game. The Critick's pen has various uses, It praises now, and now abuses, Does this and that, Or both together, As fancy strikes or rhimes come pat, Stabs with the point, or tickles with the feather. Authors, like bees, buz round, and round Dramatic ground; For all they meet Have sharp and sweet; They do no ill, Would fools sit still; Provoke 'em, and they're dangerous things; And ev'ry Player Should equally beware Their honey as their stings. Garrick! thou mighty chief of kings and queens, Despotic tyrant of the scenes! Think'st thou all human race to mock, In buskin, and in sock, And will not fools Thy mock'ry ridicules, From Chalkstone's Lord, to dainty Fribble, Rave, chatter, write, In various ways display their spite? For all can talk, and some can scribble. Others again Take up the pen, In panegyrick's gaudy colours paint thee; As humour flows, Now friends, now foes, In prose and verse, and verse and prose, Bedevil thee, and saint thee. And can such Criticks teaze thee? And can such praises please thee? O, if they can, Alas! poor man, No more deride Thy neighbour's weakness, folly, pride, But cure thy own, If thou art able, While I make known My friendship to thee, in a Fable. An Ape there was, an Ape of merit, A lively, sportive, pleasant thing, Had so much fancy, whim, and spirit, And made such sport, He got to Court, And shew'd his tricks before the Lion-king. Such honour gave him fame, And rais'd his name; From far and near they came to see This Monkey-prodigy! Though none were more expert and quick, In tumbling backward o'er a stick; Though none with a more lordly pride, And happy ease, did e'er bestride The rugged, Russian bear; Though he could skip it up and down, And pick the pocket of a clown, Or whip away his hat, Or fondle with a cat, The wonder of the Fair! This was not all—he had the art Of acting still a higher part: To each profession that he saw, Physick, Divinity, or Law, He ludicrously shap'd him: So much possess'd of all their notions, Their humours, oddities, and motions, That not a soul escap'd him. In ridicule's enchanted glass, Whatever forms are shewn, We all can see another's face, But never find our own. To flatter Self we all incline, For Self we plan and labour; “Pluck not, good Sir, a hair of mine, “And you may scalp my neighbour.” Each laugh'd to see his friend the jest, And prais'd the Monkey highly, Not openly, but slily, At court you find a thousand such: But what was best, Though there were none By turns he did not fall upon, Each thought himself the only one The Mimic could not touch: Blest fools! who boast your happy lot From ridicule secure, Though leopard-stain'd, you see no spot, Inimitably pure! Whether the Jackanapes was clever, Or the Court not over nice, By various tricks he crept in favour, And for those tricks had double price! Thus fortune, in a whim, Resolv'd to turn his brain, And fill'd his cup up to the brim, Th'intoxicating cup of joy, Which better heads than his destroy, No wonder he was vain! Whenever gossip Fame prates loud, Envy, in turn, as loud will tattle, And scribblers to her standard croud, Cry, Havock! and prepare for battle. Malevolence, with lynx's eye, The most minute defects will spy; And even Friendship, shame upon our kind! Is to those faults not always blind. The looking up fatigues the sight, And mortals when they soar, Should they once reach a certain height, All wish to have them lower: And friends there are in this good town Will lend a hand to help them down. About, about my pen, Nor lose the Fable in thy railing! But to our Monkey back again, Who found that Brutes, as well as Men, Have this same cursed failing. The moment he got fame and wealth (How ill exchang'd for ease and health!) The envious crew Poor Pug pursue, Abuse his active, pliant spirit; But chiefly those Were mark'd his foes, Who felt a satire in his merit. The dull and sluggish were the first To shew their teeth, if not to bite; The Hog, the Bear, the Ass, had burst, Had they not grunted, roar'd, and bray'd their spite. This furious stir, Awak'd the Critic Cur; Hound, Greyhound, Mastiff, answer to the call, The little Dogs and all. The game's in view: For man and beast Scandal's a feast, Where both with appetite fall to. The bloated Toad, in silence, stole To gather poison in her hole: As mischief never knows delay, She rouz'd the Viper in her way; A neighbour, and her bosom friend: For though she crawl'd and could not run, She kept this maxim strictly, (Ye sons of Law, attend!) That mischief, if it must be done, 'Twere well it were done quickly. But then his friends—Did they oppose? (A luke-warm friend's the worst of foes) The Goat look'd wise, and wagg'd his beard; The Spaniel shook his ears; The Fox turn'd up his pointed nose; Thoughtful and dull the Cat appear'd, Or else in whispers purr'd her fears: The Steed alone was firm and fast, The generous Steed stood by him to the last. Pug sickens, mopes, and looks like death, Speaks faintly, and scarce draws his breath; Some call it Megrim, some the Spleen; Words often us'd that little mean: But Scandal, with her face demure, Hints it is heat of blood, By which is understood, An old Amour: In short, they ransack all diseases, And give him that their fancy pleases. Among the rest, That fits him best, Which best the Doctor serves: Of which he most avails him, When knowledge fails him, And, with a face of wisdom, calls it—Nerves. The Horse, who saw his friend's distress, Did thus his honest mind express: “Come, prithee, rouze; this life's the devil; “What sigh and sob, and keep within? “What you, who us'd to frisk and revel, “For ever chatter, and for ever grin? “Zounds—it would make a parson swear;— “Get on my back, and take the air.”— Away they went, and as they pass, The Hog, the Dog, the Bear, the Ass, Pug's diff'rent foes in diff'rent places; If in the least they shew'd their spite, The Horse would winny, snort, and bite, And throw the dirt into their faces. For all this care, This exercise and air, Yet still the Monkey pin'd, For well we are assured, That when the grief is in the mind, 'Tis sooner got than cur'd. In this condition, What to prescribe him?—a Physician. There is a certain way of life, Which all must take, For fashion's sake, Or be with all the world at strife: The rich must to the Doctor give, The poor to Nature trust, and live. It must be so;—or could the tribe Of those who quack, or who prescribe, In folly find such ample gain? Could nostrums swell the Advertiser? Or the wise heads of Warwick-lane Buy Wig enough to make them wiser? Our patient cannot wait; “Send for a doctor strait!” But not a formal, half-bred fool, Who cures by chance, and kills by rule, A perriwig-pated block: Physicians for the Brutes were Fowls, And though the sworn practitioners were Owls, They chose a neighbouring Cock. He enters with a stately tread, His comb and wattles dignify his head: No outward sign was ever seen, That promis'd half so much within; And yet—ye sons of Physick, blush! The wine was better than the bush. His learning back'd by penetration, A kind of Radcliffe-inspiration, Bound by no partial, pedant laws, Shot through each symptom to its cause: A rarity without dispute! He was an honest Cock to boot. Yet with this genius, worth, and knowledge, He had a stain, a deep disgrace, No mortal merit could efface,— —He was not of the College! But hold—our hero out of sight, Must now again be brought to light: We left him in the Doctor's care, Who with a serious face, Attending to the case, Did thus his mind declare: “I could, like any learned brother, “With a hard name my ign'rance smother: “'Tis one of our establish'd laws, “Which daily we fulfil, “Whene'er our skill can't find a cause, “To make a cause to suit our skill: “Thus we seldom meet disgrace; “We only can mistake the case. “What are these papers by your side? “'Tis physick, Sir, to cure my pride: “This heap of papers, verse and prose, “Is the joint malice of my foes; “There's not a day but something's sent me, “To fret me, and torment me.” This said, the conversation stops: For Pug was faint, and calls for drops; With rage subdu'd, the patient panted, Which struck a light the Doctor wanted, Who thus pronounc'd—“I know your ail: “'Tis not in your heart or head, “As some have said; “Where then, good Doctor?—in your tail.” His Tail of most uncommon make, In action like the serpent kind, A thousand diff'rent forms could take, Twirl, twist, and vary to his mind. If Lords were ap'd—this pliant queue Was cross his breast a ribbon blue, Or green, or red—and then slap-dash, A Chaplain's scarf, or Col'nel's sash: When e'er the city struck his brain, 'Twas round his neck a Lord Mayor's chain: Or were his part to lisp and trip it, Hey, presto!—'twas a Lady's tippet! But now depriv'd of spirit, life, and strength, It lies a languid, lank, inanimated length. The Doctor paus'd—then silence broke, “I'll strike a master stroke! “This Tail of yours we must amend, “Give it new life and force, “And if we gain that end, “The rest will come of course: “With that same malice of your foes, “Both verse and prose, “Curl it each night and morning; “But then take warning— “Never again to cast your eyes “On what is wrote, or may be writ, “Whether it is, or is not wit; “For there the magic lies.” 'Tis best by craft, and not by book, To cure these mental fevers;— The Monkey all for gospel took, The sick are great believers. So well the Doctor's words he noted, His tail that night was papilloted; His greedy eyes, to cure his head, No more on paper-diet fed. The cause remov'd effects will cease, Depriv'd of oil, the flame goes out, Our Ape began to be at peace, His Tail to move about: The more 'twas curl'd, The more it twirl'd; With head and heart The Tail took part, Life frisks in ev'ry vein, —Pug was himself again!— The Monkey got his health, The Doctor wealth, Of patients he had plenty: For though the cure was half a joke, 'Twas wonder'd at by silly folk, And that's nineteen in twenty. To fix his cure, Historians say, That, like Sir Wilfull in the play, He talk'd of foreign parts: Left all his griefs and cares behind, Sail'd with the first fair wind, And hey for Italy, and Arts! What he got there no creature knows, Nor he himself can tell us; What lightly comes as lightly goes, With all such pretty fellows. He skip'd the country o'er, And then return'd, With what he learn'd, A greater Monkey than before. The Fable told, the Moral comes;— Garrick, don't fret, and bite your thumbs, But take the Monkey's place; The same's your case, The same prescription we advise: Should Spleen and Spite, Nay, though Critic Truth should write, (For who is always in the right?) Shut your ears, and close your eyes: Whate'er is publish'd, buy the heap, You'll have it cheap, But not to read, or hear it read: Would you strike detraction dead, The Doctor's method cannot fail; Keep the poison from your Head, And clap it to your Tail. The END.</field>
+   </doc>
+</add>

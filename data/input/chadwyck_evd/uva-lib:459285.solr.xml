@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University Press</field>
+      <field name="author_facet">University Press</field>
+      <field name="author_sort_facet">university press</field>
+      <field name="author_text">University Press</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1910's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.0569.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1911-1956</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459285</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Play of Lucrece ; a fragment of an interlude</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 20th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 20th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Play of Lucrece ; a fragment of an interlude</field>
+      <field name="title_facet">play of lucrece</field>
+      <field name="title_sort_facet">play of lucrece</field>
+      <field name="title_text">The Play of Lucrece ; a fragment of an interlude</field>
+      <field name="year_display">1911-1956</field>
+      <field name="year_facet">1911</field>
+      <field name="year_multisort_i">1911</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459285&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459285&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Play of Lucrece ; a fragment of an interlude&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;play of lucrece&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1911-1956&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1911&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Play of Lucrece&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;a fragment of an interlude&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Oxford&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1911-1956&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873468-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv10569&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Play of Lucrece&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;a fragment of an interlude&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 13 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Tudor verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries, introductory and editorial matter omitted&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Source texts incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Copyright (c) 1911 The Malone Society. This text may not be reproduced, except for fair dealing purposes, without the express permission of Chadwyck-Healey and the copyright holder.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The play of Lucrece.</field>
+      <field name="desc_meta_file_display">Genre: Interlude.</field>
+      <field name="desc_meta_file_display">Date first published: 1530 ?</field>
+      <field name="desc_meta_file_display">Date first performed: Unknown.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Source text incomplete&lt;lb/&gt;Square brackets represent sections of the text unclear or absent in</field>
+      <field name="desc_meta_file_display">the original and supplied by the current editor&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE PLAY OF LUCRECE</field>
+      <field name="fulltext">Nor slacke at this bargyn Mary here he c?myth I haue hym aspyde No more wordis stonde thou a syde For it is he playne cor. My frynde where abowt goist thou all day B Mary syr I came heder to a say whedyr these folke had ben here And yet thay be not come So helpe me god and holydome Of that I haue moche maruaile / that thay tar[y cor. Mary go thi way / &amp; wit where they wyll or [no B ye god avow shall I so cor. ye mary so I say B yet in that poynt as semyth me ye do not accordynge to your degre cor. I pray the tell me why B Mary it wolde be com them well I now To be here a fore and to wayte vpon you And not you to tary For theyr laysyr and abyde them here As it were one that were ledde by the eare For that I defy By this mene you sholde be theyr druge I tell you trought I And yet the worst that greueth me Is that your aduersary sholde in you se So notable A foly Therfore witdraw you for a seasone cor. By seynt Iohan thou sayst but reasone B ye do so hardely And whan the tyme drawith vpon That thay be com euerychone And all thinge redy Than shall I come streyght a way For to seche you withoute delay [cor.] Be it so hardely But one thinge whyle I thinke ther one Rem?ber this when I am gone yef hit happon so That lucres come in fyrst alone Go in hand with her anone How so euer thou do For to fele her mynde toward me And by all meanis possyble to be In duce her ther vnto [B] Than some token you must gyue me For ellis she wyll not beleue me That I cam from you [cor.] Mary that is euyn wysely spoken C?maunde me to her by the same taken She knowyth it well I now That as she and I walkyde onis to gedyr In her garden hedyr and thedyr There happonde a straunge case For at the last we dyd se Abyrd sittynge on a holow tre An ashe I trow it was Anone she prayde me for to assay yf I coude start the byrde a way [B] And dyde ye so / alas alas [cor.] why the deuyll sayst thou so [B] By collis bonis for it was a kocko And men say amonge He that throwyth stone ar stycke At suche abyrde he is lycke To synge that byrdes songe cor. what the deuyll recke I therfore Here what I say to the euer more And marke thine erand well Syr I had no stone to throw with all And therfore she toke me her must ball And thus it befell I kyst it as strayght as ony pole So that it lyghtyde euyn in the hole Of the holow ashe Now canst thou rem?ber all this B By god I wolde be loth to do amys For some tyme I am full rashe ye say that ye kyst it euyn in the hole Of the holow ashe as strayte as apole Sayde ye not so cor. yes. B well then let me a lone As for this erande it shall be done As sone as ye be go cor. Fare well then I leue the here And rem?byr well all this gere How so euer thou do Et exeat cornel[ius B yes hardely this erande shall be spoken But how say you syrs by this tokene Is it not a quaynt thinge I went he hade bene a sayd man But I se well he is amade man In this message doynge But what. chose he for me I am but as a messanger perde The blame shall not be myne but his For I wyll his token reporte whether she take it in hernest or sporte [I] wyll not therof mys [B]e she wroth or well a payde [I] wyll tell her euyn as he sayde Intrat lucres. God a vow here she is [I]t is tyme for me to be wyse [N]ow welcome lady. floure of prise [I] haue sought you twyse or thryse [w]ythin this houre I wys [luc.] Me syr haue ye sought me [B] ye that I haue by god that bowght me [luc.] To what intent [B] Mary for I haue thingis a few [T]he which I must to you shew [B]y my maysters c?ma?dement [P]ublius Cornelius is his name [yo]ur veray louer in payne of shame [An]d yf ye loue hym not ye be to blame [Fo]r this dare I say [An]d on a boke make it gode [H]e louyd you better than his one hart blode [luc.] Hys harte bloode nay nay [H]alf that loue wolde serue for me [B] yet sithe he dyde you fyrst se [In] the place where he dwellis [He] had louyd you so in his hart [T]hat he settyth not by hym self a fart [N]or by noo man ellis [An]d by cause ye shulde gyue credence [V]nto my sayng in hys absence [An]d trust to that I say [He] tolde me tokyns .ii. or .iii. [wh]iche I know well as he tolde me [luc.] Tokyns what be thay</field>
+   </doc>
+</add>

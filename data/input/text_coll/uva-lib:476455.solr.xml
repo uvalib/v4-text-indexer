@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Arthur Waley</field>
+      <field name="author_facet">Arthur Waley</field>
+      <field name="author_sort_facet">arthur waley</field>
+      <field name="author_text">Arthur Waley</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1920's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/WalSoto.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">1922</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476455</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Sotoba Komachi</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">Sotoba Komachi</field>
+      <field name="title_facet">sotoba komachi</field>
+      <field name="title_sort_facet">sotoba komachi</field>
+      <field name="title_text">Sotoba Komachi</field>
+      <field name="year_display">1922</field>
+      <field name="year_facet">1922</field>
+      <field name="year_multisort_i">1922</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476455&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476455&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Arthur Waley&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;arthur waley&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Sotoba Komachi&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;sotoba komachi&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1922&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1922&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Arthur Waley&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Sotoba Komachi&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;1st Edition&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1922&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Alfred A. Knopf&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1922&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="callNo"&gt;Print copy consulted: UVa Library call number PL 782 .E5W3 1922&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;rj&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;la&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;pp. 114-124&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Sotoba Komachi&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1997&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1997 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 29 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Footnotes in the print source have been moved to the end of the</field>
+      <field name="desc_meta_file_display">electronic document and numbered consecutively. For descriptive</field>
+      <field name="desc_meta_file_display">purposes, words or phrases preceding footnote markers in print source</field>
+      <field name="desc_meta_file_display">have been added to notes at the end of the electronic document.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">NOTE ON KOMACHI The legend of Komachi is that she had many lovers when she was young, but was cruel and mocked at their pain. Among them was one, Shii no Sho?shoo?, who came a long way to court her. She told him that she would not listen to him till he had come on a hundred nights from his house to hers and cut a hundred notches on the shaft-bench of his chariot. And so he came a hundred nights all but one, through rain, hail, snow, and wind. But on the last night he died. Once, when she was growing old, the poet Yasuhide asked her to go with him to Mikawa. She answered with the poem: I that am lonely, Like a reed root-cut Should a stream entice me, Would go, I think." When she grew quite old, both her friends and her wits forsook her. She wandered about in destitution, a tattered, crazy beggar-woman. As shown in this play, her madness was a "possession" by the spirit of the lover whom she had tormented. She was released from this "possession" by the virtue of a sacred Stu?pa [1] or log carved into five parts, symbolic of the Five Elements, on which she sat down to rest. In the disputation between Komachi and the priests, she upholds the doctrines of the Zen Sect, which uses neither scriptures nor idols; the priests defend the doctrines of the Shingon Sect, which promises salvation by the use of incantations and the worship of holy images. [2] There is no doubt about the authorship of this play. Seami (Works, p. 246) gives it as the work of his father, Kwanami Kiyotsugu. Kwanami wrote another play, Shii no Sho?sho?, [3] in which Sho?sho? is the principal character and Komachi the tsure or subordinate. Seami also used the Komachi legend. In his Sekidera Komachi he tells how when she was very old the priests of Sekidera invited her to dance at the festival of Tanabata. She dances, and in rehearsing the splendours of her youth for a moment becomes young again.</field>
+      <field name="fulltext">SOTOBA KOMACHI By KWANAMI PERSONS A Priest of the Ko?yasan. Ono no Komachi. Second Priest. Chorus. Priest We who on shallow hills [4] have built our home In the heart's deep recess seek solitude. Turning to the audience. I am a priest of the Ko?yasan. I am minded to go up to the Capital to visit the shrines and sanctuaries there. The Buddha of the Past is gone, And he that shall be Buddha has not yet come into the world. Second Priest In a dream-lull our lives are passed; all, all That round us lies Is visionary, void. Yet got we by rare fortune at our birth Man's shape, that is hard to get; And dearer gift was given us, harder to win, The doctrine of Buddha, seed of our Salvation. And me this only thought possessed, How I might bring that seed to blossom, till at last I drew this sombre cassock across my back. And knowing now the lives before my birth, No love I owe To those that to this life engendered me, Nor seek a care (have I not disavowed Such hollow bonds?) from child by me begot. A thousand leagues Is little road To the pilgrim's feet. The fields his bed, The hills his home Till the travel's close. Priest We have come so fast that we have reached the pine-woods of Abeno, in the country of Tsu. Let us rest in this place. They sit down by the Waki's pillar. Komachi Like a root-cut reed, [5] Should the tide entice, I would come, I think; but now No wave asks; no stream stirs. Long ago I was full of pride; Crowned with nodding tresses, halcyon locks, I walked like a young willow delicately wafted By the winds of Spring. I spoke with the voice of a nightingale that has sipped the dew. I was lovelier than the petals of the wild-rose open-stretched In the hour before its fall. But now I am grown loathsome even to sluts, Poor girls of the people, and they and all men Turn scornful from me. Unhappy months and days pile up their score; I am old; old by a hundred years. In the City I fear men's eyes, And at dusk, lest they should cry "Is it she?" Westward with the moon I creep From the cloud-high City of the Hundred Towers. No guard will question, none challenge Pilgrim so wretched: yet must I be walking Hid ever in shadow of the trees. Past the Lovers' Tomb, And the Hill of Autumn To the River of Katsura, the boats, the moonlight. She shrinks back and covers her face, frightened of being known. Who are those rowing in the boats? [6] Oh, I am weary. I will sit on this tree-stump and rest awhile. Priest Come! The sun is sinking; we must hasten on our way. Look, look at that beggar there! It is a holy Stu?pa that she is sitting on! I must tell her to come off it. Now then, what is that you are sitting on? Is it not a holy Stu?pa, the worshipful Body of Buddha? Come off it and rest in some other place. Komachi Buddha's worshipful body, you say? But I could see no writing on it, nor any figure carved. I thought it was only a tree-stump. Priest Even the little black tree on the hillside When it has put its blossoms on Cannot be hid; And think you that this tree Cut fivefold in the fashion of Buddha's holy form Shall not make manifest its power? Komachi I too am a poor withered bough. But there are flowers at my heart, [7] Good enough, maybe, for an offering. But why is this called Buddha's body? Priest Hear then! This Stu?pa is the Body of the Diamond Lord. [8] It is the symbol of his incarnation. Komachi And in what elements did he choose to manifest his body? Priest Earth, water, wind, fire and space. Komachi Of these five man also is compounded. Where then is the difference? Priest The forms are the same, but not the virtue. Komachi And what is the virtue of the Stu?pa? Priest "He that has looked once upon the Stu?pa, shall escape forever from the Three Paths of Evil." [9] Komachi "One thought can sow salvation in the heart." [10] Is that of less price? Second Priest If your heart has seen salvation, how comes it that you linger in the World? Komachi It is my body that lingers, for my heart left it long ago. Priest You have no heart at all, or you would have known the Body of Buddha. Komachi It was because I knew it that I came to see it! Second Priest And knowing what you know, you sprawled upon it without a word of prayer? Komachi It was on the ground already. What harm could it get by my resting on it? Priest It was an act of discord. [11] Komachi Sometimes from discord salvation springs. Second Priest From the malice of Daiba . . . [12] Komachi As from the mercy of Kwannon. [13] Priest From the folly of Handoku . . . [14] Komachi As from the wisdom of Monju. [15] Second Priest That which is called Evil Komachi Is Good. Priest That which is called Illusion Komachi Is Salvation. [16] Second Priest For Salvation Komachi Cannot be planted like a tree. Priest And the Heart's Mirror Komachi Hangs in the void. Chorus speaking for Komachi. "Nothing is real. Between Buddha and Man Is no distinction, but a seeming of difference planned For the welfare of the humble, the ill-instructed, Whom he has vowed to save. Sin itself may be the ladder of salvation." So she spoke, eagerly; and the priests, "A saint, a saint is this decrepit, outcast soul." And bending their heads to the ground, Three times did homage before her. Komachi I now emboldened Recite a riddle, a jesting song. "Were I in Heaven The Stu?pa were an ill seat; But here, in the world without, What harm is done?" [17] Chorus The priests would have rebuked her; But they have found their match. Priest Who are you? Pray tell us the name you had, and we will pray for you when you are dead. Komachi Shame covers me when I speak my name; but if you will pray for me, I will try to tell you. This is my name; write it down in your prayer-list: I am the ruins of Komachi, daughter of Ono no Yoshizane, Governor of the land of Dewa. Priests Oh piteous, piteous! Is this Komachi that once Was a bright flower, Komachi the beautiful, whose dark brows Linked like young moons; Her face white-farded ever; Whose many, many damask robes Filled cedar-scented halls? Komachi I made verses in our speech And in the speech of the foreign Court. Chorus The cup she held at the feast Like gentle moonlight dropped its glint on her sleeve. Oh how fell she from splendour, How came the white of winter To crown her head? Where are gone the lovely locks, double-twined, The coils of jet? Lank wisps, scant curls wither now On wilted flesh; And twin-arches, moth-brows tinge no more With the hue of far hills. "Oh cover, cover From the creeping light of dawn Silted seaweed locks that of a hundred years Lack now but one. Oh hide me from my shame." Komachi hides her face. Chorus speaking for the Priest. What is it you carry in the wallet string at your neck? Komachi Death may come to-day — or hunger to-morrow. A few beans and a cake of millet: That is what I carry in my bag. Chorus And in the wallet on your back? Komachi A garment stained with dust and sweat. Chorus And in the basket on your arm? Komachi Sagittaries white and black. Chorus Tattered cloak, [18] Komachi Broken hat. . . Chorus She cannot hide her face from our eyes; And how her limbs Komachi From rain and dew, hoar-frost and snow? Chorus speaking for Komachi while she mimes the actions they describe. Not rags enough to wipe the tears from my eyes! Now, wandering along the roads I beg an alms of those that pass. And when they will not give, An evil rage, a very madness possesses me. My voice changes. Oh terrible! Komachi thrusting her hat under the Priests' noses and shrieking at them menacingly. Grr! You priests, give me something: give me something. . . Ah! Priest What do you want? Komachi Let me go to Komachi. [19] Priest But you told us you were Komachi. What folly is this you are talking? Komachi No, no. . . . Komachi was very beautiful. Many letters came to her, many messages, — Thick as raindrops out of a black summer sky. But she sent no answer, not even an empty word. And now in punishment she has grown old: She has lived a hundred years — I love her, oh I love her! Priest You love Komachi? Say then, whose spirit has possessed you? Komachi There were many who set their hearts on her, But among them all It was Sho?sho? who loved her best, Shii no Sho?sho? of the Deep Grass. [20] Chorus speaking for Komachi, i. e. for the spirit of Sho?sho?. The wheel goes back; I live again through the cycle of my woes. Again I travel to the shaft-bench. The sun. . . what hour does he show? Dusk. . . . Alone in the moonlight I must go my way. Though the watchmen of the barriers Stand across my path, They shall not stop me! attendants robe Komachi in the Court hat and travelling-cloak of Sho?sho? Look, I go! Komachi Lifting the white skirts of my trailing dress, Chorus speaking for Komachi, while she, dressed as her lover Sho?sho?, mimes the night-journey. Pulling down over my ears the tall, nodding hat, Tying over my head the long sleeves of my hunting cloak, Hidden from the eyes of men, In moonlight, in darkness, On rainy nights I travelled; on windy nights, Under a shower of leaves; when the snow was deep, Komachi And when water dripped at the roof-eaves, — tok, tok. . . Chorus Swiftly, swiftly coming and going, coming and going. . . One night, two nights, three nights, Ten nights (and this was harvest night). . . I never saw her, yet I travelled; Faithful as the cock who marks each day the dawn, I carved my marks on the bench. I was to come a hundred times; There lacked but one. . . Komachi feeling the death agony of Sho?sho? My eyes dazzle. Oh the pain, the pain! Chorus Oh the pain! and desperate, Before the last night had come, He died, — Shii no Sho?sho? the Captain. Speaking for Komachi, who is now no longer possessed by Sho?sho?'s spirit. Was it his spirit that possessed me, Was it his anger that broke my wits? If this be so, let me pray for the life hereafter, Where alone is comfort; Piling high the sands [21] Till I be burnished as gold. [22] See, I offer my flower [23] to Buddha, I hold it in both hands. Oh may He lead me into the Path of Truth, Into the Path of Truth.</field>
+      <field name="fulltext">Footnotes [1: Stu?pa] Sanskrit; Jap. sotoba [2: In the disputation. . . holy images.] See p. 32. [3: Shii no Sho?sh?] Now generally called Kayoi Komachi [4: on shallow hills] The Ko?yasan is not so remote as most mountain temples. [5: Like a root-cut reed. . .] See p. 113. [6: Who are those rowing in the boats?] Seami, writing c. 1430, says: "Komachi was once a long play. After the words 'Who are those,' etc., there used to be a long lyric passage" (Works, p. 240). [7: there are flowers at my heart] "Heart flowers," kokoro no hana, is a synonym for "poetry." [8: the Diamond Lord] Vajrasattva, himself an emanation of Vairochana, the principal Buddha of the Shingon Sect. [9: "He that has looked. . . Three Paths of Evil."] From the Nirva?na Su?tra. [10: "One thought can sow salvation in the heart."] From the Avatamsaka Su?tra. [11: an act of discord] Lit. "discordant karma." [12: Daiba] A wicked disciple who in the end attained to Illumination. Also called Datta; cp. Kumasaka, p. 63. [13: Kwannon] The Goddess of Mercy. [14: Handoku] A disciple so witless that he could not recite a single verse of Scripture. [15: Monju] God of Wisdom. [16: . . . Is Salvation] From the Nirva?na S?tra. [17: "Were I in Heaven. . . What harm is done?"] The riddle depends on a pun between sotoba and soto wa, "without "outside." [18: Tattered cloak. . .] The words which follow suggest the plight of her lover Sho?sho? when he travelled to her house "a hundred nights all but one," to cut his notch on the bench. [19: Let me go to Komachi.] The spirit of her lover Sho?sho? has now entirely possessed her: this "possession-scene" lasts very much longer on the stage than the brief words would suggest. [20: of the Deep Grass] Fukagusa the name of his native place, means "deep grass." [21: Piling high the sands] See Hokkekyo?, II. 18. [22: gold] The colour of the saints in heaven. [23: my flower] Her "heart-flower." i. e. poetic talent.</field>
+   </doc>
+</add>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Jackson, Helen Hunt, 1830-1885</field>
+      <field name="author_facet">Jackson, Helen Hunt, 1830-1885</field>
+      <field name="author_sort_facet">jackson helen hunt 1830 1885</field>
+      <field name="author_text">Jackson, Helen Hunt, 1830-1885</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ap/uvaGenText/tei/chap_AM0769.xml</field>
+      <field name="date_indexed_facet">201909240350</field>
+      <field name="date_text">[1881]</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey American Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey American Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:440208</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">[A baby show, in] Christmas carols and midsummer songs</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">American poetry -- 19th century</field>
+      <field name="subject_text">American poetry -- 19th century</field>
+      <field name="title_display">[A baby show, in] Christmas carols and midsummer songs</field>
+      <field name="title_facet">baby show in christmas carols and midsummer songs</field>
+      <field name="title_sort_facet">baby show in christmas carols and midsummer songs</field>
+      <field name="title_text">[A baby show, in] Christmas carols and midsummer songs</field>
+      <field name="year_display">[1881]</field>
+      <field name="year_facet">1881</field>
+      <field name="year_multisort_i">1881</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:440208&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:440208&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Jackson, Helen Hunt, 1830-1885&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;jackson helen hunt 1830 1885&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;[A baby show, in] Christmas carols and midsummer songs&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;baby show, in christmas carols and midsummer songs&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;[1881]&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1881&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Jackson, Helen Hunt&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1830&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1885&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;[A baby show, in] Christmas carols and midsummer songs&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Boston&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;D. Lothrop &amp;amp; Company&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;[1881]&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3865795-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;cham0769&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;American poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;[A baby show, in] Christmas carols and midsummer songs&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Alexandria, VA&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Inc.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 13 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only poem by Jackson included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-AmPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">A BABY SHOW. A droll conversation I once overheard— Two children, a cat, a cow, and a bird. The names of the children were Eddie and Jane; The names of the others I did not hear plain. How came I to hear them? I think I won't tell: You may guess, if you please; and if you guess well You'll guess that I heard it as many a man hears, With his fancy alone, and not with his ears. The children were drawing, with caution and care, Their sweet baby-sister, to give her the air, In a dainty straw wagon with wheels of bright red, And a top of white muslin which shaded her head. She was only one year and a few months old; Her eyes were bright blue and her hair was like gold; She laughed all the time from morning till night, Till Eddie and Jane were quite wild with delight. Such a wonderful plaything never was known! Like a real live dolly, and all for their own! Two happier children could nowhere be found, No, not if you travelled the whole world around. They had drawn her this morning where daisies grew— White daisies, all shining and dripping with dew; Long wreaths of the daisies, and chains, they had made; In the baby's lap these wreaths they had laid, And were laughing to watch her fat little hands Untwisting and twisting the stems and the strands. Just then, of a sudden, a lark flew by And sang at the top of his voice in the sky; “Ho! ho! Mr. Lark,” shouted Jane, “come down here! We're not cruel children. You may come without fear. We've something to show you. In all your life maybe You'll never see anything sweet as our baby!” 'Twas an odd thing, now, for a lark to do— I hope you won't think my story's untrue— But this is the thing that I saw and I heard: That lark flew right down, like a sociable bird, As soon as they called him, and perched on a tree, And winked with his eye at the children and me, And laughed out, as much as a bird ever can, As he cried, “Ha! ha! Little woman and man! “You'll be quite surprised and astonished, maybe, To hear that I do not think much of your baby. Why, out in the field here I've got in my nest, All cuddled up snug 'neath my wife's warm breast, Four little babies—two sisters, two brothers— And all with bright eyes, as bright as their mother's; Your baby's at least ten times older than they, But they are all ready to fly to-day; “They'll take care of themselves in another week, Before your poor baby can walk or can speak. It has often surprised me to see what poor things All babies are that are born without wings; And but one at a time! Dear me, my wife Would be quite ashamed of so idle a life!” And the lark looked as scornful as a lark knows how, As he swung up and down on a slender bough. A cat had been eying him there for a while, And sprang at him now from top of a stile. But she missed her aim—he was quite too high; And oh, how he laughed as he soared in the sky! Then the cat scrambled up, disappointed and cross; She looked all about her, and felt at a loss What next she should do. So she took up the thread Of the lark's discourse, and ill-naturedly said: “Yes, indeed, little master and miss, I declare, It's enough to make any mother-cat stare To see what a time you do make, to be sure. Over one small creature, so helpless and poor As your babies are! Why, I've six of my own: When they were two weeks old they could run alone; They're never afraid of dogs or of rats— In a few weeks more they'll be full-grown cats; “Their fur is as fine and as soft as silk— Two gray, and three black, and one white as new milk. A fair fight for a mouse in my family Is as pretty a sight as you'll ever see. It is all very well to brag of your baby— One of these years it will be something, maybe!” And without even looking at the baby's face, The cat walked away at a sleepy pace. “Moo, Moo!” said a cow, coming up. “Moo, Moo! Young people, you're making a great to-do About your baby. And the lark and the cat, They're nothing but braggers—I wouldn't give that,” (And the cow snapped her tail as you'd snap your thumb) “For all the babies, and kittens, and birds, that come In the course of a year! It does make me laugh To look at them all, by the side of a calf! “Why, my little Brindle as soon as 'twas born Stood up on its legs, and sniffed at the corn; Before it had been in the world an hour It began to gambol, and canter, and scour All over the fields. See its great shining eyes, And its comely red hair that so glossy lies And thick! he has never felt cold in his life; But the wind cuts your baby's skin like a knife. “Poor shivering things! I have pitied them oft, All muffled and smothered in flannel soft. Ha! ha! I am sure the stupidest gaby Can see that a calf's ahead of a baby!” And the cow called her calf, and tossed up her head Like a person quite sure of all she has said. Then Jane looked at Eddy, and Eddy at Jane; Said Eddy, “How mean! I declare, they're too vain “To live—preposterous things! They don't know What they're talking about! I'd like them to show A bird, or a kitten, or a learned calf, That can kiss like our baby, or smile, or laugh!” “Yes, indeed, so should I!’ said Jane in a rage; “The poor little thing! She's advanced for her age, For the minister said so the other day— She's worth a hundred kittens or calves to play. “And as for young birds—they're pitiful things! I saw a whole nest once, all mouths and bare wings, And they looked as if they'd been picked by the cook To broil for breakfast. I'm sure that they shook With cold if their mother got off for a minute— I'm glad we have flannel, and wrap babies in it!” So the children went grumbling one to the other, And when they reached home they told their mother. The dear baby, asleep, in its crib she laid, And laughed as she kissed the children, and said: “Do you think I believe that the sun can shine On a boy or a girl half so sweet as mine? The lark, and the cat, and the cow were all right— Each baby seems best in its own mother's sight!”</field>
+   </doc>
+</add>

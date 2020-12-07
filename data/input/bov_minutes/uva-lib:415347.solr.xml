@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1940's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2007_03/uvaGenText/tei/bov_19410215.xml</field>
+      <field name="date_indexed_facet">201909240347</field>
+      <field name="date_text">February 15, 1941</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:415347</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. February 15, 1941</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  February 15, 1941</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  February 15, 1941</field>
+      <field name="year_display">February 15, 1941</field>
+      <field name="year_facet">1941-02-15</field>
+      <field name="year_multisort_i">1941</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:415347&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:415347&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. February 15, 1941&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;February 15, 1941&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1941-02-15&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;February 15, 1941&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Official minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;2 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1941-02-15&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 15 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">February 15, 1941 A called meeting of the Board was held on this date in the President's Office at 11 o'clock with the following present: the Rector, R. Gray Williams, and Visitors Corbitt, Garnett, Goolrick, Rinehart and Lewis C. Williams, and President Newcomb. Minutes of the previous meeting, which had been copied and mailed to the members, were approved. The President made the following announcements: ENROLLMENT TO DATE 2965. GIFTS: From the Trustees of the Carnegie Corporation of New York through the American Association for Adult Education for the support of a special publications project in adult education to be undertaken by the University of Virginia $ 7,500.00 From the General Education Board, for use at the Mountain Lake Biological Station, during the five-year period beginning January 1, 1941 11,800.00 From the General Education Board, for use at the Blandy Experimental Farm, during the period ending December 31, 1941 45,000.00 From the General Education Board, for the purchase of books and library materials in the graduate field of Economics, during the two-year period beginning approximately February 1, 1941 5,000.00 Under the will of the late Kate Willard Boyd, bequeathed in memory of her late husband, John C. Boyd, a graduate of the University of Virginia the sum of 5,000.00 RESIGNATION OF PROFESSOR ARTHUR FICKENSCHER: The President announced that Prof. Fickenscher had reached the retiring age during this session and had tendered his resignation to take effect at its close. The following resolution was adopted: RESOLVED, by the Board of the Rector and Visitors of the University of Virginia, that the resignation of Professor Arthur Fickenscher be and it is hereby accepted with deep regret, effective June 15, 1941. Professor Fickenscher has carried forward his work here since 1920 with devotion and skill and the Rector and Visitors wish for him the joy that comes of work well done and hope he may have many years of happiness in his retirement. CHANGE IN TITLE PROFESSOR EARL G. MELLOR: Upon the recommendation of the President the following was adopted: RESOLVED, by the Board of the Rector and Visitors of the University of Virginia, that the title of Professor Earl G. Mellor be changed from Professor of Romanic Philology to Professor of Romance Philology. PROPOSAL FOR WIDENING RUGBY ROAD: The President presented a proposal from the City of Charlottesville for the widening of Rugby Road. Same was considered and the Board was unanimous in its disapporval of this proposal, and authorized the Buildings and Grounds Committee to carry on further negotiations until a satisfactory proposal is received. LITTLE STONY GAME AND FISH PRESERVE, INC. - DEED TO STATE HIGHWAY DEPARTMENT: The President presented a deed to the meeting by the State Department of Highways by which a right of way is conveyed by Little Stony Game and Fish Preserve, Inc., over the property of said corporation in Giles County heretofore leased to the University by contract dated August 26, 1932, and upon which tract of land the University's Mountain Lake Biological Station is located. Said deed contains a clause by which The Rector and Visitors of the University of Virginia unites in said conveyance and releases to the Department of Highways or to the Commonwealth of Virginia all right, title and interest held by it in and to the strip of land conveyed by said deed for highway purposes by virtue of its lease aforesaid. It was thereupon, RESOLVED that copy of said deed be filed as a part of the minutes of this meeting, and that J. L. Newcomb, President, be and is hereby authorized and empowered to execute the original copy of said deed in the name and on behalf of The Rector and Visitors of the University of Virginia, and E. I. Carruthers, Secretary of this Board, is hereby authorized and empowered to affix the corporate seal of the University to the original copy of said deed, and to deliver said deed on behalf of The Rector and Visitors of the University of Virginia, to the State Highway Department. It is understood, however, that this deed shall not be so executed and delivered on behalf of the University until after it has been executed by Little Stony Game and Fish Preserve, Inc. BLANDY EXPERIMENTAL FARM - FOX HUNTING THEREON NOT PERMITTED: The President presented a communication from the Committee in charge of the Farm with respect to permitting fox hunting thereon, to the effect that to permit such hunting would seriously interfere with the operation thereof. The President stated that he was in agreement with the Committee in the matter, and, upon motion, duly made and seconded, it was RESOLVED, That the Board approves the President's recommendation to allow no fox hunting on Blandy Farm land. DR. ROBERT M. BIRD - BEQUEST TO THE UNIVERSITY: Mr. Perkins appeared before the meeting and read two letters from Mr. William S. D. Woods, who is a son-in-law of the late Dr. Robert Montgomery Bird. One of these letters is addressed to President John L. Newcomb, under date of January 15th, 1941, and the other to W. Allan Perkins under date of January 24, 1941. In these two letters Mr. Woods calls attention to the will of Dr. Robert Montgomery Bird which Mr. Perkins stated was drawn by Dr. Bird at a time when he thought that he would leave a very considerable estate. The will is very complicated in its provisions and provides, among other things, that Dr. Bird's estate shall be held by Trustees, and the income be paid to his widow, Mrs. Carrie Reid Bird, during her life. Upon her death one-third of the estate is to be paid to Dr. Bird's son, Robert, one third to be held in trust for the benefit of Dr. Bird's sister, Miss Mary Harrison Bird, and the remaining one-third to be held in trust for the benefit of Dr. Bird's daughter, who is now Mrs. Page Bird Woods, wife of the said William S. D. Woods. If either Robert or Page outlives Miss Mary Harrison Bird, they or the survivor shall receive her share. If Robert and Page should both be dead at the time of the death of Miss Bird, her share of the estate is to be paid to the University for the benefit of the Library of the School of Chemistry, and if Bob should die prior to the time of Page's death, then on her death her share is likewise to be paid to the University. The contingencies upon which the University is to receive anything under this estate are exceedingly remote. Dr. Bird's estate consists of four shares of stock of Peoples National Bank of Charlottesville, and a house and lot, No. 41, University Place, upon which there is a lien of $16,500, also a number of shares of stock of Cold Steam Corporation, a concern which is no longer in existence but which, at the time Dr. Bird made his will in 1935, promised to be of very considerable value. The will gives the Trustees power to sell real estate and also to apply such portion of the principal or corpus of said fund as in their judgement may be proper for the comfort and needs of Dr. Bird's widow, Mrs. Carrie Reid Bird. Mrs. Bird and Peoples National Bank of Charlottesville were appointed Executors under said will. The Bank refused to qualify and Mrs. Bird qualified and is acting alone. The two children, Robert and Page, and Dr. Bird's sister, Miss Mary Harrison Bird, have all agreed to transfer and assign all interest they may have in this estate to Mrs. Bird. Mrs. Bird now offers to buy the contingent interest of the University and pay the sum of $50.00 therefor. It was, thereupon, RESOLVED, that in view of the fact that there is no prospect of the University receiving anything from Dr. Bird's estate, Mrs. Bird's offer to buy the contingent interest of the University for the sum of $50.00 in cash, should be accepted. And the President is hereby authorized and empowered to execute and deliver, in the name and on behalf of The Rector and Visitors of the University of Virginia, such form of release and assignment of the University's contingent interest in the estate of Dr. Robert Montgomery Bird as may be approved by the Attorney for the University. And E. I. Carruthers, Secretary of this Board is hereby authorized and instructed to affix the corporate seal to such release and assignment and to attest the same. UNITED STATES STEEL CORPORATION PREFERRED STOCK - REGISTERED IN NAME OF "WABY AND COMPANY": The following was adopted: RESOLVED, by The Rector and Visitors of the University of Virginia, that the Peoples National Bank of Charlottesville, Virginia, custodian for certain endowment fund investments of the University of Virginia, be and is hereby authorized and directed to have registered in the name of its nominee, WABY &amp; COMPANY, the 500 shares of preferred stock of the United States Steel Corporation now held by the said bank as Custodian of the University of Virginia., represented by certificates Nos. C 343419, C 737955, D 189757/59 and D 190804. The meeting then adjourned. R. Gray Williams RECTOR. G. R. SECRETARY. pro tem</field>
+   </doc>
+</add>

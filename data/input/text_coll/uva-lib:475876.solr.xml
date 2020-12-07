@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Fyodor Dostoevsky</field>
+      <field name="author_facet">Fyodor Dostoevsky</field>
+      <field name="author_sort_facet">fyodor dostoevsky</field>
+      <field name="author_text">Fyodor Dostoevsky</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/DosOrph.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">February 1887</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:475876</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Little Orphan</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">The Little Orphan</field>
+      <field name="title_facet">little orphan</field>
+      <field name="title_sort_facet">little orphan</field>
+      <field name="title_text">The Little Orphan</field>
+      <field name="year_display">February 1887</field>
+      <field name="year_facet">1887-02</field>
+      <field name="year_multisort_i">1887</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:475876&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:475876&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Fyodor Dostoevsky&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;fyodor dostoevsky&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Little Orphan&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;little orphan&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;February 1887&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1887-02&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Fyodor Dostoevsky&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Little Orphan&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Volume II&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1887&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Rochester, N.Y.&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Schlicht &amp;amp; Field, Co.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;February 1887&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;pp 390-392.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Electronic text checked against microfilm, UVA Library call</field>
+      <field name="desc_meta_file_display">number s-147, reel 660&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Little Orphan&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 14 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The spelling of the author's name has been changed in the</field>
+      <field name="desc_meta_file_display">header from Theodore Dostoivsky to Fyodor Dostoevsky, the standard</field>
+      <field name="desc_meta_file_display">used by the UVA Library&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE LITTLE ORPHAN.1 BY THEODORE DOSTOIVSKY. I. IN a large city, on Christmas eve in the biting cold, I see a young child, still quite young, six years old, perhaps even less; yet too young to be sent on the street begging, but assuredly destined to be sent in a year or two. This child awakes one morning in a damp and frosty cellar. He is wrapped in a kind of squalid dressing-gown and is shivering. His breath issues from between his lips in white vapor; he is seated on a trunk; to pass the time he blows the breath from his mouth, and amuses himself in seeing it escape. But he is very hungry. Several times since morning he has drawn near the bed covered with a straw mattress as thin as gauze, where his mother lies sick, her head resting on a bundle of rags instead of a pillow. How did she come there? She came probably from a strange city and has fallen ill. The proprietress of the miserable lodging was arrested two days ago, and carried to the police station; it is a holiday to-day, and the other tenants have gone out. However, one of them has remained in bed for the last twenty-four hours, stupid with drink, not having waited for the holiday. From another corner issue the complaints of an old woman of eighty years, laid up with rheumatism. This old woman was formerly a children's nurse somewhere; now she is dying all alone. She whines, moans, and growls at the little boy, who begins to be afraid to come near the corner where she lies with the death rattle in her throat. He has found something to drink in the hallway, but he has not been able to lay his hand on the smallest crust of bread, and for the tenth time he comes to wake his mother. He finishes by getting frightened in this darkness. The evening is already late, and no one comes to kindle the fire. He finds, by feeling around, his mother's face, and is astonished that she no longer moves and that she has become as cold as the wall. "It is so cold!" he thinks. He remains some time without moving, his hand resting on the shoulder of the corpse. Then he begins to blow in his fingers to warm them, and, happening to find his little cap on the bed, he looks softly for the door, and issues forth from the underground lodging. He would have gone out sooner had he not been afraid of the big dog that barks all the day up there on the landing before their neighbor's door. Oh! what a city! never before had he seen anything like it. Down yonder from where he came, the nights are much darker. There is only one lamp for the whole street; little low wooden houses, closed with shutters; in the street from the time it grows dark, no one; every one shut up at home: only a crowd of dogs that howl, hundreds, thousands of dogs, that howl and bark all the night. But then, it used to be so warm there! And he got something to eat. Here, ah! how good it would be to have something to eat! What a noise here, what an uproar! What a great light, and what a crowd of people! What horses, and what carriages! And the cold, the cold! The bodies of the tired horses smoke with frost and their burning nostrils puff white clouds; their shoes ring on the pavement through the soft snow. And how every body hustles every body else! "Ah! how I would like to eat a little piece of something. That is what makes my fingers ache so."II. A POLICEMAN just passes by, and turns his head so as not to see the child. "Here is another street. Oh! how wide it is! I shall be crushed to death here, I know; how they all shout, how they run, how they roll along! And the light, and the light! And that, what is that? Oh! what a big window pane! And behind the pane, a room, and in the room a tree that goes up to the ceiling; it is the Christmas tree. And what lights under the tree! Such papers of gold, and such apples! And all around dolls and little hobby-horses. There are little children well-dressed, nice, and clean; they are laughing and playing, eating and drinking things. There is a little girl going to dance with the little boy. How pretty she is! And there is music. I can hear it through the glass." The child looks, admires, and even laughs. He feels no longer any pain in his fingers or feet. The fingers of his hand have become all red, he cannot bend them any more, and it hurts him to move them. But all at once, he feels that his fingers ache; he begins to cry, and goes away. He perceives through another window another room, and again trees and cakes of all sorts on the table, red almonds and yellow ones. Four beautiful ladies are sitting down, and when any body comes he is given some cake: and the door opens every minute, and many gentlemen enter. The little fellow crept forward, opened the door of a sudden, and went in. Oh! what a noise was made when they saw him, what confusion! Immediately a lady arose, put a kopeck in his hand, and opened herself the street door for him. How frightened he was!III. THE kopeck has fallen from his hands, and rings on the steps of the stairs. He was not able to tighten his little fingers enough to hold the coin. The child went out running, and walked fast, fast. Where was he going? He did not know. And he runs, runs, and blows in his hands. He is troubled. He feels so lonely, so frightened! And suddenly, what is that again! A crowd of people stand there and admire. "A window! behind the pane, three pretty dolls attired in wee red and yellow dresses, and just exactly as though they were alive! And that little old man sitting down, who seems to play the fiddle. There are two others, too, standing up, who play on tiny violins, keeping time with their heads to the music. They look at each other and their lips move. And they really speak? Only they cannot be heard through the glass." And the child first thinks that they are living, and when he comprehends that they are only dolls, he begins to laugh. Never had he seen such dolls before, and he didn't know that there were any like that! He would like to cry, but those dolls are just too funny!IV. SUDDENLY he feels himself seized by the coat. A big rough boy stands near him, who gives him a blow of his fist on the head, snatches his cap, and trips him up. The child falls. At the same time there is a shout; he remains a moment paralyzed with fear. Then he springs up with a bound and runs, runs, darts under a gateway somewhere and hides himself in a court-yard behind a pile of wood. He cowers and shivers in his fright; he can hardly breathe. And suddenly he feels quite comfortable. His little hands and feet don't hurt any more; he is warm, warm as though near a stove, and all his body trembles. "Ah! I am going asleep! how nice it is to have a sleep! I shall stay a little while and then I will go and see the dolls again," thought the little fellow, and he smiled at the recollection of the dolls. "They looked just as though they were alive!" Then he hears his mother's song. "Mamma, I am going to sleep. Ah! how nice it is here for sleeping!" "Come to my house, little boy, to see the Christmas tree," said a soft voice. He thought at first it was his mother; but no, it was not she. Then who is calling him? He does not see. But some one stoops over him, and folds him in his arms in the darkness: and he stretches out his hand and—all at once—oh! what light! Oh! what a Christmas tree! No, it is not a Christmas tree; he has never seen the like of it! Where is he now? All is resplendent, all is radiant, and dolls all around; but no, not dolls, little boys, little girls; only they are very bright. All of them circle round him; they fly. They hug him, they take him and carry him away, and he is flying too. And he sees his mother looking at him and laughing joyfully. "Mamma! mamma! ah! how nice it is here!" cries her little boy to her. And again he embraces the children, and would like very much to tell them about the dolls behind the window pane. "Who are you, little girls?" he asks, laughing and fondling them. It is the Christmas tree at Jesus's. At Jesus's, that day, there is always a Christmas tree for little children that have none themselves. And he learned that all these little boys and girls were children like himself, who had died like him. Some had died of cold in the baskets abandoned at the doors of the public functionaries of St. Petersburg; others had died out at nurse in the foul hovels of the Tchaukhnas; others of hunger at the dry breasts of their mothers during the famine. All were here now, all little angels now, all with Jesus, and He Himself among them, spreading his hands over them, blessing them and their sinful mothers. And the mothers of these children are there too, apart, weeping; each recognizes her son or her daughter, and the children fly towards them, embrace them, wipe away the tears with their little hands, and beg them not to weep. And below on the earth, the concierge in the morning found the wee corpse of the child, who had taken refuge in the courtyard. Stiff and frozen behind the pile of wood it lay. The mother was found too. She died before him; both are reunited in Heaven in the Lord's house. This story is an excellent example of the style of M. Dostoivsky, the great Russian novelist, whose works are attracting so much attention in France. It is without plot, like most of his stories, but it is a very powerful and realistic sketch. The repetition of words and phrases noticeable in this story is common to Russian stories. It is particularly noticeable in Count Leon Tolstoi's "Search for Happiness," a volume of short stories written for the Russian peasants.</field>
+   </doc>
+</add>

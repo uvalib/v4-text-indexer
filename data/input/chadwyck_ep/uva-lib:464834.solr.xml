@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Tutchin, John, 1661-1707</field>
+      <field name="author_facet">Tutchin, John, 1661-1707</field>
+      <field name="author_sort_facet">tutchin john 1661 1707</field>
+      <field name="author_text">Tutchin, John, 1661-1707</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.0250.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1698</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464834</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">White-Hall in Flames ; A Pindarick Poem. Occasion'd by The late Burning of that Royal Palace. By Mr. Tutchin</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">White-Hall in Flames ; A Pindarick Poem. Occasion'd by The late Burning of that Royal Palace. By Mr. Tutchin</field>
+      <field name="title_facet">white hall in flames</field>
+      <field name="title_sort_facet">white hall in flames</field>
+      <field name="title_text">White-Hall in Flames ; A Pindarick Poem. Occasion'd by The late Burning of that Royal Palace. By Mr. Tutchin</field>
+      <field name="year_display">1698</field>
+      <field name="year_facet">1698</field>
+      <field name="year_multisort_i">1698</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464834&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464834&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Tutchin, John, 1661?-1707&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;tutchin john 1661 1707&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;White-Hall in Flames ; A Pindarick Poem. Occasion'd by The late Burning of that Royal Palace. By Mr. Tutchin&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;white hall in flames&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1698&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1698&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Tutchin, John&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1661&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1707&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;White-Hall in Flames&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Pindarick Poem. Occasion'd by The late Burning of that Royal Palace. By Mr. Tutchin&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for the Author&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1698&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp4016&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;20 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;White-Hall in Flames&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Pindarick Poem. Occasion'd by The late Burning of that Royal Palace. By Mr. Tutchin&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 27 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">To the Right Honourable the Earl of Montagu, Viscount Mount Hermon, Baron Montagu, Master of His Majesty's Wardrobe, and one of His Majesty's most Honourable Privy-Council. White-Hall in FLAMES. A Pindarick POEM. Occasion'd by the late Burning, &amp;c. I. How many turns of Fate we Mortals find, While Life's dull Pilgrimage we go? How weak our Bulwarks prove When storm'd by Almighty Jove? Who hoards up Thunder, Storms of Rain and Wind; Sometimes he darts his Bolts, his Billows rave, His forked Lightning spreads, his Winds do blow; Raises the Mother Waters from their Cell, In Earthy Caverns where they dwell, And for their infant Springs apartments have: Sometimes unlinks the Chains of the vast Sea, Which now no longer do the Rocks obey, But overflow and drown the fertile Earth, Which had from Jove its Form and its Birth: Unbiass'd Fate does not preferr The Kingly Palaces To the low Hovel of the Cottager; Alike o'er both the Waves increase; 'Twixt Prince and Peasant no distinction's found, In the same Waves they swim, in the same Deluge drown'd. II. Fate has ten thousand other ways, Our fond establish'd Hopes to raze, The Winds, the Clouds, the Sea, the Land, Waiting its beck and motion stand, And trembling Nature is at its command. Jove speaks the Word, And the whole Machine shakes, The Storms do roar, and Lightnings fly, With pointed Terror, round th'affrighted Sky: Here the Earth opens, there it quakes: Fate whets its broad destroying Sword. No Enemy more dangerous is, It's Warriors fierce and cruel do surprise, Their fatal Darts do seldom miss; Fate fights, and kills, and lays on heaps; A bloody Harvest reaps; Yet all it's Weapons undiscover'd by our Eyes. III. But one more dreadful than the rest, No pois'nous Serpent, nor no savage Beast, Thirsting for Blood, does thro' the Forest roar, Nor with more eagerness the Prey devour: When Fate this Instrument assumes, It human Minds with Terror fills, Without distinction kills; All things before it, it consumes, Before it all things fall; This Instrument of Death, we Fire call: A strange rapacious Foe, Ten thousand Hydra's does contain; If to dismember it we go, Prolifick Embers still remain, Which Fate puffs up unto a blaze: The direful Flames increase, Curling their Head, and darting Death At the unthinking Crowd beneath, Storm our Houses, and our Buildings raze. IV. But why should Fate command its Flames Our mighty WILLIAM's Palace to attack? Did it a Subject lack? To wreak its Vengeance on? It might as well have gone To the Extreams Of the cold icy frozen North, Where the chill'd Mortals Heat require; They would have thank'd it for its Fire. If nought but Kingly Palaces Could Fates devouring Wrath appease; It might as well have sent its Engine forth Towards the sultry Regions of the South; There, there it might a Tyrant find, Neither to Laws of God nor Man confin'd; There, there it might with equal Rage devour, With equal Fury seise His Palaces; As he his Subjects with Despotick Pow'r: Those Regions yield Monarchs, that spend their Days In Luxury and Ease, And dread the Hardships of a Martial Field: The Tenement does hold A Prince, who ne'er his Valour shew, Who ne'er a glorious Action knew; In Battels weak, in Murders bold; Foolish, yet insolent and proud; Contemn'd, and hated by the Crowd; Was a fit Subject for the Hate, The Rage, and Fury of devouring Fate. V. WILLIAM, whose Fame does brighter shine, Than all the Praise dull Annals boast, Of mighty Cæsar, Constantine, Pompey, or all that ancient Race: No greater Man did e'er Command an Host! Brighter by far, His Vertues are, Than the bright Fire, In which his Princely Palace did expire. A River cou'd not once his Passage stop, When on the Banks the Forces join, And draw their large Battalions up, Of His and England's Foes; He bravely did their Front oppose, Drove Death before Him thro' th'affrighted Boyn. But who to fight with Flames did go? A strange uncommon Foe! Yet had there been, Beyond the Flames, an Army seen, An Enemy ne'r so brave, Designing England to enslave, He soon His Country had reveng'd, Pass'd through the Flames unhurt, unsing'd. VI. The Flames do now usurp the Sway; The slavish Buildings their Commands obey: Vulcan, the gastly God of Fire, Quits his Command, His deform'd Cyclops stand Amas'd, and at the raging Flames admire. The Flames no difference do know, Without distinction go, From Servants Lodgings, to each beauteous Pile; Each gawdy Tenement annoy; With crackling Horror spread O're every Vulgar and each Noble Head, And with impetuous Fury do destroy The ancient Glory of our British Isle. Vast Crowds resort; Rous'd by the dread report: They come, and tremble as they stand, Their sinking Spirits can't their Limbs command: All in amaze, They at the dreadful Fire gaze; Lament the Death of the expiring Court. VII. But some, more vig'rous than the rest, With less Confusion fill'd, Th'increasing Flames beheld: More active Courage they exprest, Some take their Bucke[illeg.] to the Thames; Whose winding Silver Streams Do now but gently flow, Stopping their Course, as if they meant to know How the Illustrious Buildings were. The affrighted Fish retire To th'other side, they saw the dismal Fire, And thought each Flame a Kitchen there. One takes the Water, and enrag'd, Is with the Flames engag'd. The Flames past at him swift as Fate, And he as swift does with his Buckets fence. His Ammunition by the Fire dry'd, He's by the Crowd with a fresh force supply'd: When he does fight at such a Rate, You'd think him a Collosse of Brass; From whence Water did spout; but Flames do pass Around his Head, and he is forc'd to yield, Leaving the Victor in a conquer'd Field. VIII. But what is Force is such Extreams? And who can fence with Flames? To Policy they now retire; Since they can't conquer, they contrive To stop the force of the insulting Fire: They do their utmost, hard they strive, They think it proper to remove Such Parts above, On which the Fire next would seize: Strait one ascends unto the top, Hoping it's Violence to stop; As soon as he the Flames attack'd, He was by others back'd: None prov'd more desperate than these: Of these, those Giants had but little odds, Who on Olympus Hill oppos'd the Gods. The Flames new Methods too pursue, They do their hidden Force renew; And while these Men aloft do go, They slily burn below; United Flames combine The Buildings t'undermine, While the bold Heroes on the top do crawl, They the Foundations sap, And dire mishap; The Heroes with the Buildings downwards fall. IX. This Project failing they retire To other Methods, how to stop the Fire; They find in vain they strove, Water does unsuccessful prove; One thinks it right, Such bold attempting Foes They with new Fire should oppose, And with their own insulting Weapons fight. The Guards are now to their assistance brought: Those Guards which breathe Nothing but Blood and Death; Whose Valour all the wondring World admires; In Head of whom our mighty WILLIAM fought, Large Trophies won, Immortal Garlands of Renown: Acquainted with more dread and dismal Fires, These presently prepare The horrid Instruments of War, Their hellish Powder place Within the Walls, compress'd by weight, They lay their Trains, and straight The mighty Blow is heard; Which makes even Fate it self afraid; Which standing by, stares the attempters in the face, Asham'd to own Its self by human Gallantry outdone. Had WILLIAM but as many Foes As Sparks do from these Flames arise; Or Sands we in the Mortar find, Which does the Buildings in contiguous order bind, How willingly wou'd they oppose? How daringly despise His and the Nations Enemies? With Him they've past Regions, o're desolate and waste; With Him they've gone Pinch'd by the Cold and scorch'd by the hot Sun; Have sometimes cut their Passage thro' the Sreams; But who, the Devil, can contend with Flames? Which if we do in one Place rout, Strait in another do break out, And do Destruction o're the whole dispense; In vain we fence, In vain we strive, Our Destiny we can't retrieve, Or Limits to their wasting Fury give; Their Rage admits no bar; Curling their Head, they threaten Death from far. XI. But now another sort of Men appear, Compleatly arm'd for the fiery War, For such like Enterprises train'd, And have long time the Guards remain'd Of fair Augusta, when insulting Fire Her Houses did attack, These did oppose And quell'd her fiery Foes; Rescu'd at once their Wealth and State, From the dire Insults of Fate: As great Æneas on his Back Bore thro' the Flames his aged Sire. But Fate afraid that these Wou'd the destroying Flames appease, With greater force drives on The fell Destruction: Around the Palace does its Engines send, With greater Fury than before; The Flames devour, They crackle, blaze, and roar, Their Force on every Angle bend; Nor Brick, nor Stone, nor Wood they spare, But all things fall in this destructive War. XII. Of White-Hall now is only left the Name, Its Beauty's gone Does like the Æthiops lie, Which in hot Affrick's sandy Regions fry, Scorch'd by the Heat of a more Torrid Sun: Here Houses levell'd with the Ground, There Heaps of Rubbiish lie; Yonder are mangl'd Pillars found, Whole Stacks of Chimnies thrown, And Bricks like Bullets blown, Do upwards fly, As if they meant to attempt the Bulwarks of the Sky: All the same Fate must have, One common Grave; All must in Universal Ruine lie. Scarce could the Industry, Of Machiavilian Policy, Save from devouring Fate, The Books and Records of the British State. XIII. To every Angle now the Flames extend With rapid Force, Without Remorse, In pieces rend, Buildings which did some hundred Years engage, Th'Assaults of eating Time and Age. But now, behold How rav'nous and how bold, The impious Flames do seise On Great MARIA's Lodging Place: The Great MARIA, whose blest Name we own, Tho' to th'Ætherial Regions She is gone: Had She been living now, With such a Face, and such a Brow, She would the raging Destinies oppose, And quell these scorching Foes: That Fate in vain shou'd its dull Tapers light, Augmented by the darkness of of the Night: Its yielding Fire, Before Her brighter Vertues wou'd retire; As the pale Lustre of the nightly Moon, Retreats before the rising of the Sun. XIV. Let Fate Her Lodgings now engage, There try its utmost Rage, Thither no Succour send, give no Relief; What does of Her remain, Can but augment our Pain; Her very Mem'ry does increase our Grief: Just as She went away To the blest Empires of Eternal Day, Had Fate its Lightning sent, And rummag'd all its Stores of Death, Depriv'd unhappy Mortals of their Breath; How easily we cou'd prevent Its raging Force, And stop its Course: Then, then our Tears did freely flow, Whose briny Deluge wou'd the Fire quench; The mournful Flood Would drown'd its Fury, and it wou'd Its thirsty Soul in briny Liquor drench: We then could Fate it self surprise; Sunk in the mighty Deluge of our Eyes. XV. Just as the undigested. Chaos lay, When Time and all the Elements did commence, Form'd by Omnipotence, And gastly Night did usher in the Day: Just so the Palace lies in pieces burst; Rude as the World when 'twas created first. But while we do relate The dire Decrees, resolves of Fate, And of its Justice, do enquire, Why should this Palace thus be purg'd with Fire? Here 'twas that Hellish Plot was laid, Which of our City one great Bonfire made; Contriv'd by those Whose numerous Crimes augment their Parents Score, And vilely had before, Burnt their solemn Leagues, and broke both Vow and Oaths. When the vast Deluge overflow'd the Earth, It gave the drownded World a better Birth: London did thus from heaps of Rubbish rise, Start up with Piramids do threat the Skies. Thus may the Royal Palace, brought so low, A Phœnix rise, in comely Order too, Glorious as mighty WILLIAM is in Deeds, O're-topping all, as Giants common Heads. FINIS.</field>
+   </doc>
+</add>

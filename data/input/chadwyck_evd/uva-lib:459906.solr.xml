@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Tate, Nahum, 1652-1715</field>
+      <field name="author_facet">Tate, Nahum, 1652-1715</field>
+      <field name="author_sort_facet">tate nahum 1652 1715</field>
+      <field name="author_text">Tate, Nahum, 1652-1715</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V2.0184.xml</field>
+      <field name="date_indexed_facet">201909240355</field>
+      <field name="date_text">[1689?]</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459906</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Dido and Aeneas</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 17th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 17th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Dido and Aeneas</field>
+      <field name="title_facet">dido and aeneas</field>
+      <field name="title_sort_facet">dido and aeneas</field>
+      <field name="title_text">Dido and Aeneas</field>
+      <field name="year_display">[1689?]</field>
+      <field name="year_facet">1689</field>
+      <field name="year_multisort_i">1689</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459906&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459906&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Tate, Nahum, 1652-1715&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;tate nahum 1652 1715&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Dido and Aeneas&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;dido and aeneas&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;[1689?]&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1689&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Tate, Nahum&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1652&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1715&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Dido and Aeneas&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;[London]&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;[1689?]&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872236-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv20184&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 17th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;17th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Dido and Aeneas&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 29 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Dido and Aeneas.</field>
+      <field name="desc_meta_file_display">Genre: Opera.</field>
+      <field name="desc_meta_file_display">Date first published: 1689 ?</field>
+      <field name="desc_meta_file_display">Date first performed: Dec 1689 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">[Dido and Aeneas]</field>
+      <field name="fulltext">The PROLOGUE. Phæbus Rises in the Chariot, Over the Sea, the Nereids out of the Sea. Phæbus, From Aurora's Spicy Bed, Phæbus rears his Sacred Head. His Coursers Advancing, Curvetting and Prancing. 1. Nereid, Phæbus strives in vain to Tame 'em, With Ambrosia Fed too high. 2. Nereid, Phæbus ought not now to blame 'em, Wild and eager to Survey The fairest Pageant of the Sea. Phæbus. Tritons and Nereids come pay your Devotion Cho. To the New rising Star of the Ocean. Venus Descends in her Chariot, The Tritons out of the Sea. The Tritons Dance. Nereid. Look down ye Orbs and See A New Divinity. Phæ. Whose Lustre does Out-Shine Your fainter Beams, and half Eclipses mine, Give Phæbus leave to Prophecy. Phæbus all Events can see. Ten Thousand Thousand Harmes. From such prevailing Charmes, To Gods and Men must instantly Ensue. Cho. And if the Deity's above, Are Victims of the powers of Love, What must wretched Mortals do. Venus) Fear not Phæbus, fear not me, A harmless Deity. These are all my Guards ye View, What can these blind Archers do. Phæ. Blind they are, but strike the Heart, Ven. What Phæbus say's is alwayes true. They Wound indeed, but 'tis a pleasing smart. Phæ. Earth and Skies address their Duty, To the Sovereign Queen of Beauty. All Resigning, None Repining At her undisputed Sway. Cho, To Phæbus and Venus our Homage wee'l pay, Her Charmes blest the Night, as his Beams blest the day. The Nerieds Dance. Exit.) The Spring Enters with her Nymphs. [Scene the Grove. Ven. See the Spring in all her Glory, Cho. Welcomes Venus to the Shore, Ven. Smiling Hours are now before you, Hours that may return no more. [Exit, Phæ. Ven. Soft Musick Spring, Our Youth and Form declare, For what we were designed. 'Twas Nature made us Fair, And you must make us kind. He that fails of Addressing, 'Tis but Just he shou'd fail of Possessing. The Spring and Nymphs Dance. Shepherdesses, Jolly Shepherds come away, To Celebrate this Genial Day, And take the Friendly Hours you vow to pay, Now make Trial, And take no Denial. Now carry your Game, or for ever give o're. The Shepherds and Shepherdesses Dance. Cho. Let us Love and happy Live, Possess those smiling Hours, The more auspicious Powers, And gentle Planets give. Prepare those soft returns to Meet, That makes Loves Torments Sweet. The Nymphs Dance. Enter the Country Shepherds and Shepherdesses. He, Tell, Tell me, prithee Dolly, And leave thy Melancholy. Why on the Plaines, the Nymphs and Swaines, This Morning are so Jolly. She. By Zephires gentle Blowing. And Venus Graces Flowing. The Sun has bin to Court our Queen, And Tired the Spring with wooing. He, The Sun does guild our Bowers, She, The Spring does yield us Flowers. She sends the Vine, He, He makes the Wine, To Charm our happy Hours. She, She gives our Flocks their Feeding, He, He makes 'em fit for Breeding. She, She decks the Plain, He, He fills the Grain, And makes it worth the Weeding. Cho. But the Jolly Nymph Thitis that long his Love sought, Has Flustred him now with a large Mornings draught. Let's go and divert him, whilst he is Mellow, You know in his Cups he's a Hot-Headed Fellow. The Countreys Maids Dance. [Exit]</field>
+      <field name="fulltext">ACT the First, Scene the Palace Enter Dido and Belinda, and Train. Bel. Shake the Cloud from off your Brow, Fate your wishes do Allow. Empire Growing, Pleasures Flowing Fortune Smiles and so should you, Shake the Cloud from off your Brow, Cho. Banish Sorrow, Banish Care. Grief should ne're approach the Fair. Dido, Ah! Belinda I am prest, With Torment not to be Confest. Peace and I are Strangers grown, I Languish till my Grief is known, Yet wou'd not have it Guest. Bel. Grief Encreasing, by Concealing, Dido Mine admits of no Revealing. Bel. Then let me Speak the Trajan guest, Into your tender Thoughts has prest. 2 Women, The greatest Blessing Fate can give, Our Carthage to secure, and Troy revive. Cho. VVhen Monarchs unite how happy their State. They Triumph at once on their Foes and their Fate. Dido, VVhence could so much Virtue Spring, VVhat Stormes, what Battels did he Sing. Anchises Valour mixt with Venus's Charmes, How soft in Peace, and yet how fierce in Armes. Bel. A Tale so strong and full of wo, Might melt the Rocks as well as you. 2 Women, VVhat stubborn Heart unmoved could see, Such Distress, such pity. Dido, Mine with Stormes of Care opprest, Is Taught to pity the Distrest. Mean wretches grief can Touch, So soft so sensible my Breast, But Ah! I fear, I pity his too much. Bel. Fear no danger to Ensue, 2 Women, The Hero Loves as well as you. Cho. Ever Gentle, ever Smiling, And the Cares of Lite beguiling. Cupid Strew your path with Flowers, Gathered from Elizian Bowers. Dance this Cho. The Baske. Æneas Enters with his Train Bel. See your Royal Guest appears, How God like is the Form he bears. Æn. VVhen Royal Fair shall I be blest, VVith cares of Love, and Stare distrest. Dido, Fate forbids what you Ensue, Æneas has no Fate but you. Let Dido Smile, and I'le defie, The Feeble stroke of Destiny. Cho. Cupid only throws the Dart, That's dreadful to a Warriour's Heart. And she that VVounds can only cure the Smart. Æn. If not for mine, for Empires sake, Some pity on your Lover take. Ah make not in a hopeless Fire, A Hero fall, and Troy once more Empire. Bel. Pursue thy Conquest, Love—her Eyes, Confess the Flame her Tongue Denyes. A Dance Gittars Chacony Cho. To the Hills and the Vales, to the Rocks and the Mountains To the Musical Groves, and the cool Shady Fountains. Let the Triumphs of Love and of Beauty be Shown, Go Revel ye Cupids, the day is your own. The Triumphing Dance.</field>
+      <field name="fulltext">ACT the Second, Scene the Cave. Enter Sorceress. Sorc. Weyward Sisters you that Fright, The Lonely Traveller by Night. VVho like dismal Ravens Crying, Beat the VVindowes of the Dying. Appear at my call, and share in the Fame, Of a Mischief shall make all Carthage to Flame. Enter Inchanteresses. Incha. Say Beldam what's thy will, Harms our Delight and Mischief all our Skill, Sorc The Queen of Carthage whom we hate, As we do all in prosperous State. E're Sun set shall most wretched prove, Deprived of Fame, of Life and Love. Cho. Ho, ho, ho, ho, ho, ho, &amp;c. Inchas Ruin'd e're the Set of Sun, Tell us how shall this be done. Sorc. The Trojan Prince you know is bound By Fate to seek Italian Ground. The Queen and He are now in Chase, Hark, how the cry comes on apace. But when they've done, my trusty Elf In Form of Mercury himself. As sent from Jove shall chide his stay, And Charge him Sail to Night with all his Fleet away. Ho, Ho, ho, ho, &amp;c. [Enter a Drunken Saylors, a Dance Sorc. But e're we, we this perform, We'l Conjure for a Storm. To Mar their Hunting Sport, And drive 'em back to Court. Cho. In our deep-Vaulted Cell the Charm wee'l prepare, Too dreadful a Practice for this open Air. Eccho Dance. Inchanteresses and Fairees. Enter Æneas, Dido and Belinda, and their Train. Scene the Grove. Bel. Thanks to these Lovesome Vailes, Cho. These desert Hills and Dales. So fair the Game, so rich the Sport, Diana's self might to these Woods Resort. Gitter Ground a Dance. 2d. Wom. Oft she Visits this Loved Mountain, Oft she bathes her in this Fountain. Here Acteon met his Fate, Pursued by his own Hounds, And after Mortal Wounds. Discovered, discovered too late. A Dance to Entertain Æneas, by Dido Vemon. Æneas, Behold upon my bending Spear, A Monsters Head stands bleeding. VVith Tushes far exceeding, These did Venus Huntsmen Tear. Dido. The Skies are Clouded, heark how Thunder Rends the Mountain Oaks asunder. Hast, hast, to Town this open Field, No Shelter from the Storm can yield. [Exit. The Spirit of the Sorceress descends to Æneas in likness of Mercury. Spir. Stay Prince and hear great Joves Command, He Summons thee this Night away. Æn. To Night. Spir. To Night thou must forsake this Land, The Angry God will brook no longer stay. Joves Commands thee wast no more, In Loves delights those precious Hours, Allowed by the Almighty Powers. To gain th'Hesperian Shore, And Ruined Troy restore. Æn. Joves Commands shall be Obey'd, To Night our Anchors shall be weighed, But ah! what Language can I try, My Injured Queen to pacify. No sooner she resignes her Heart, But from her Armes I'm forc't to part. How can so hard a Fate be took, One Night enjoy'd, the next forsook. Your be the blame, ye Gods, for I Obey your will—but with more Ease cou'd dye, The Sorceress and her Inchanteress. Cho. Then since our Charmes have Sped, A Merry Dance be Led. By the Nymphs of Carthage to please us. They shall all Dance to ease us. A Dance that shall make the Spheres to wonder, Rending those fair Groves asunder. The Groves Dance.</field>
+      <field name="fulltext">ACT the Third, Scene the Ships. Enter the Saylors. The Sorceress and her Inchanteress. Cho. Come away, fellow Saylors your Anchors be weighing Time and Tide will admit no delaying. Take a Bouze short leave of your Nymphs on the Shore, And Silence their Morning, VVith Vows of returning. But never intending to Visit them more. The Saylors Dance. Sorc. See the Flags and Streamers Curling, Anchors weighing, Sails unfurling. Phœbus pale deluding Beames, Guilding more deceitful Streams. Our Plot has took, The Queen forsook, ho, ho, ho. Elisas ruin'd, ho, ho, ho, next Motion, Must be to storme her Lover on the Ocean. From the Ruines of others our pleasure we borrow, Elisas bleeds to Night, and Carthage Flames tomorrow. Cho. Destruction our delight, delight our greatest Sorrow, Elisas dyes to Night, and Carthage Flames to Morrow. Jack of the Lanthorn leads the Spaniards out of their way among the Inchanteresses. A Dance. Enter Dido, Belinda, and Train. Dido Your Councel all is urged in vain, To Earth and Heaven I will Complain. To Earth and Heaven why do I call, Earth and Heaven conspire my Fall. To Fate I Sue, of other means bereft, The only refuge for the wretched left. Bel. See Madam where the Prince appears, Such Sorrow in his Looks he bears, [Æneas Enters. Æn. As wou'd convince you still he's true, What shall lost Æneas do. How Royal fair shall I impart, The Gods decree and tell you we must part. Dido Thus on the fatal Banks of Nile, Weeps the deceitful Crocodile. Thus Hypocrites that Murder Act, Make Heaven and Gods the Authors of the Fact. Æn. By all that's good, Dido By all that's good no more, All that's good you have Forsworn. To your promised Empire fly, And let forsaken Dido dye. Æn. In spight of Joves Command I stay, Offend the Gods, and Love obey. Dido No faithless Man thy course pursue, I'm now resolved as well as you. No Repentance shall reclaim, The Injured Dido slighted Flame. For 'tis enough what e're you now decree, That you had once a thought of leaving me. Æn. Let Jove say what he will I'le stay, Dido Away [Exit Æn. To Death I'le fly, if longer you delay. But Death, alas? I cannot Shun, Death must come when he is gone. Cho Great minds against themselves Conspire, And shun the Cure they most desire. Dido Thy Hand Belinda,—darkness shades me, Cupids appear in the Clouds o're her Tomb On thy Bosom let me rest, More I wou'd but Death invades me. Death is now a Welcom Guest, When I am laid in Earth my wrongs Create. No trouble in thy Breast, Remember me, but ah! forget my Fate. Cho. With drooping Wings you Cupids come, To scatter Roses on her Tomb. Soft and Gentle as her Heart, Keep here your Watch and never part. [Cupids Dance. FINIS.</field>
+   </doc>
+</add>

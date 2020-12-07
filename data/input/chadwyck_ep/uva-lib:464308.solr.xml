@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Tomkins, Thomas, 1572-1656</field>
+      <field name="author_facet">Tomkins, Thomas, 1572-1656</field>
+      <field name="author_sort_facet">tomkins thomas 1572 1656</field>
+      <field name="author_text">Tomkins, Thomas, 1572-1656</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.1829.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">[1622]</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464308</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Songs of 3. 4. 5. and 6. parts</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">Songs of 3. 4. 5. and 6. parts</field>
+      <field name="title_facet">songs of 3 4 5 and 6 parts</field>
+      <field name="title_sort_facet">songs of 3 4 5 and 6 parts</field>
+      <field name="title_text">Songs of 3. 4. 5. and 6. parts</field>
+      <field name="year_display">[1622]</field>
+      <field name="year_facet">1622</field>
+      <field name="year_multisort_i">1622</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464308&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464308&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Tomkins, Thomas, 1572-1656&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;tomkins thomas 1572 1656&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Songs of 3. 4. 5. and 6. parts&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;songs of 3 4 5 and 6 parts&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;[1622]&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1622&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Tomkins, Thomas&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1572&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1656&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Songs of 3. 4. 5. and 6. parts&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for Matthew Lownes, Iohn Browne, and Thomas Snodham&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;[1622]&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp3721&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;6 parts&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Songs of 3. 4. 5. and 6. parts&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 30 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted; music omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Songbooks.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">The following poems are scored for music in the source text. Where poems are not stanzaic, no attempt has been made to reconstruct the metrical lines. Variations for different voices have been ignored. Repetition marks have been ignored.</field>
+      <field name="fulltext">TO THE RIGHT HONOR???? William Earle of Pembroke, Lord Herbert of Cardiffe, Lord Par and Rosse of Kendall, Lord Marmion and S?. Quintin, Lord Warden of the Stanneries in the Counties of Deuon and Cornewall, Captaine of his Maiesties Towne and Castle of Portsmouth, and the Isle of Portsey, in the County of Southampton, Lord Lieutenant of the Counties of Wilts and Somerset, Chancellor of the Vniuersity of Oxford, Lord Chamberlaine of his Maiesties most Honourable Houshold, Knight of the most Noble order of the Garter, and one of his Maiesties most Honourable Priuie Councell.</field>
+      <field name="fulltext">To my Brother the Avthor. Yet thou wert mortall: now begin to liue, And end with onely Time. Thy Muses giue What Nature hath deny'd, Eternitie: Gladly my younger Muse doth honour thee, But mine's no praise. A large increase it has That's multiply'd through strong affections glas. Yet is thy worth the same, and were no other Though as a Iudge I spake, not as a Brother. This comfort haue, this Art's so great, so free, None but the good can reach to censure thee. Iohn Tomkins. Songs of 3. Parts. [I. Ovr hasty life away doth post.] To my deare Father M?. Thomas Tomkins. Ovr hasty life, away doth post Ovr hasty life, away doth post, Before we know what we haue lost Houres into dayes Dayes into yeeres are gone, Yeeres make a life, which straight is none, Thus soone is Mans short story told, We scarce are young, when we are waxed old when we are waxed olde. [II. No more I will thy loue importune.] To M?. William Walker. No more I will thy loue importune No more I will thy loue importune, Or curse my fortune, No more I will, thy hate accuse, or pitty vse, Onely thus much of loue I will require, Since I can neuer hope, I neuer may desire, [III. Sure there is no God of Loue.] To M?. Humfrey Withy. Svre there is no God of loue Svre there is no God of loue, Cupid's but an idle name, Onely men his forces proue, Women neuer feele his flame, Is he then of Gods descent, whose powr's not omnipotent? [IIII. Fond men that doe so highly prize.] To my Brother M?. Nicholas Tomkins. Fond men that doe so highly prize Fond men that doe so highly prize, a womans fore-head, lips, &amp; eyes, And looke not to the better part, What vertues dwelleth in the heart, Such kinde of louing sheweth plaine, You please your sence, and not your braine, [V. How great delight.] To Master William Crosse. How great delight, from those sweet lips I taste How great delight, from those sweet lips I taste, Whether I here them speake, or feele them kisse! Onely this want I haue, That being grac'd with one of them, the other straight I misse, Loue since thou canst doe wonders, heape my blisses, O heape my blisses, And grant her kissing words, or speaking kisses, [VI. Loue, cease tormenting.] To Master Thomas Daye Loue, cease tormenting Loue, cease tormenting, my Lady is relenting, How can it be, so precious a Iewell, should harbour thoughts so pittilesse and cruell? Oh no, That breast so dainty, Doth not enclose, a heart of stone, or flinty Here endeth the Songs of three parts. Songs of 4. Parts. [VII. O let me liue for true loue.] To Doctor Douland. O let me liue for true loue O let me liue for true loue, Fa la la la la, O let me liue, yet let me liue no longer, Then that my life may make my loue the stronger, [VIII. O let me dye for true loue.] To Master Iohn Daniell. O let me dye for true loue O let me dye for true loue, Fa la la la la la, Let not hope or old time, come to end my woe, [IX. O yes, has any found a lad.] To Master Iohn Coprario. O yes, has any found a lad O yes, has any found a lad, With purple wings, faire painted in naked beauty clad? With Bowe and Arrowes, tainted, Here alas, close he lyeth, Take him quicke before he flyeth, [X. Weepe no more thou sorry Boy.] To my Brother Peregrine Tomkins. Weepe no more thou sorry Boy Weepe no more thou sorry Boy, Lou's pleas'd and anger'd, with a Toy, Loue a thousand, passions brings, Laughs and weepes, and sighs and sings, If she smiles, He dauncing goes, And thinkes not on his future woes, If she chide with an angry eye Sits downe and sighs, Aye me, I dye. [XI. Yet againe as soone reuiued.] To my Brother Robert Tomkins. Yet againe as soone reuiued Yet againe as soone reuiued, Ioyes as much, as late he grieued, Change there is of ioy, and sadnes, Sorrow much, but more of gladnes, Then weepe no more thou sorry Boy, Turne thy teares to weeping ioy, Sigh no more, aye me I die, But dance and sing, and tihy cry [XII. Was euer wretch tormented?] To my Brother Giles Tomkins. Was euer wretch tormented Was euer wretch tormented, in midst of heauen retiring? Was euer soule contented, in midst of hell, of hellish fyring? Yet I with flames requited, Am in my hell delighted, And in my heauens languish With pining griefe and anguish. Here endeth the Songs of foure parts. Songs of 5. Parts. [XIII. To the shady Woods now wend we.] To M?. Robert Chetwode. To the shady Woods now wend we To the shady Woods now wend we, And there the mid-day spend we, Fa la la la la la la, And we may be the bolder, Fa la la la la la la la, There tis colder, [XIV. Too much I once lamented.] To my ancient, &amp; much reuerenced Master, William Byrd. Too much I once lamented Too much I once lamented, While loue my heart tormented, Fa la la la la la la la, Alas and aye me, sat I wringing, Now chanting go &amp; singing, Fa la la la la la la la, [XV. Come Shepheards, sing with me.] To M?. Nathaniel Giles. Come Shepheards, sing with me Come Shepheards, sing with me, Thrice happy might we be, If we should neuer see, Loue and his misery, Fa la la la la la la, Loue now we hate thy lore, More then we lou'd before, From hence we all haue swore, To loue false loue no more, Fa la la la la, [XVI. Gloris when as I woe.] To M?. Orlando Gibbons. Cloris, Cloris Cloris, Cloris, why still repli'st thou no no no no no no? Coris, Cloris when as I wooe, Why still repli'st thou no no no no no no no? If as a Maide you vse it, Say no, and nere refuse it, no no no no no, [XVII. See, see, the Shepheards Queene.] To M?. Iohn Steeuens. See, see, the shepheards Queene See, see, the shepheards Queene, faire Phillis all in greene, Fa la la la la, The shepheards home her bringing, With pyping and with singing, Fa la la la la la la, Then dance we on a rowe, and chant it as we goe, Fa la la, [XVIII. Phillis, now cease to moue me.] To M?. Henry Molle. Phillis now cease to moue me Phillis now cease to moue me, For I shall neuer loue thee, Fa la la la la la la la, Content thee, I haue swore, to loue false loue no more, Fa la la la la la [XIX. When Dauid heard that Absolon.] To M?. Thomas Myriell. When Dauid heard that Absolon was slaine When Dauid heard that Absolon was slaine, He went vp to his Chamber, ouer the gate, and wept, And thus he said, O my sonne Absolon, Absolon my son, Would God I had died for thee, Absolon my son , O Absolon my son. [XX. Phillis, yet see him dying.] To M?. Nicholas Carlton. Phillis, yet see him dying Phillis, yet see him dying, Who by thy oft denying, is flying, His life, too wretched, hatefull, Phillis and loue vngratefull, Yet when thine eyes haue slaine, Thine eyes can raise againe. [XXI. Fusca, in thy starry eyes.] To M?. Phinees Fletcher. Fvsca, in thy starry eyes Fvsca, in thy starry eyes, thine eyes, Loue in blacke still mourning dyes, still dyes, Fa la la la la la, Thou hast loued none againe, Fa la la la la, That among so many slaine, Fa la la la la. [XXII. Adue ye citty prisoning Towers.] To M?. William White. Adue, adue, ye Citty prisoning Towers Adue, adue, ye Citty prisoning Towers Better are the Country Bowers, Winter is gone, the Trees are springing, Birds on euery hedge sit singing, Harke, how they chirp, Come loue delay not, Come, come sweet loue, Oh come &amp; stay not, Heere endeth the Songs of 5. parts. Songs of 6. Parts. [XXIII. When I obserue.] To M?. Thomas Warwicke. When I obserue those beauties wonderments When I obserue those beauties wonderments, mine eyes how doe you burne? But when those eares so deafe, at my laments, mine eyes, how doe you mourne? Loue this helpe deuise, or open her deafe eares, or close mine eyes [XXIIII. Musicke deuine.] To M?. Doctor Heather. Mvsicke deuine, proceeding from aboue Mvsicke deuine, proceeding from aboue, Whose sacred subiect often times is loue, In this appeares her heauenly Harmony, Where tunefull concords, sweetly doe agree, And yet in this her slander is vniust, To call that loue, which is indeed but lust, [XXV. Oft did I marle.] To M?. Iohn Ward. Oft did I marle, how in thine eyes Oft did I marle, how in thine eyes, Water and fire, did dwell together, Seeing tis knowne, in contraries, Each seekes the hurt &amp; spoile of either, But fire and water there may dwell, where loue &amp; hate together dwell, [XXVI. Woe is me that I am constrayned.] To my Brother M?. Iohn Tomkins. Woe is me, That I am constrayned Woe is me, That I am constrayned, to dwell with Mesech, And to haue my habitation, among the Tents of Kedar. [XXVII. It is my Well-beloueds voice.] To M?. Doctor Ailmer. It is my Well-beloueds voice It is my Well-beloueds voice, That soundeth in my eare, My heart here-at doth much reioyce, to see him draw so neare, on yonder mountaine top, On yon same hill so tall, How hitherward my loue doth hop, My heart doth skip withall. [XXVIII. Turne vnto the Lord.] To my Sonne Nathanael Tomkins. Tvrne vnto the Lord our God Tvrne vnto the Lord our God, For the Lord is gracious, His mercy is euerlasting, And his truth endureth from from generation, to generation FINIS. MVSICA SACRA: TO Sixe Voyces. Composed in the Jtalian tongue BY GIOVANNI CROCE. Newly Englished. To the vertuous Louers of Musicke. FIRST SONNET Ex Psal. 6. Lord, in thy wrath reproue mee not seuearly, Nor punish me in thy deseru'd displeasure: Haue mercy on my Sinns exceeding measure, For full of feares, my Soule is vexed drearly. Saue it (O Lord) Almightie-most Supernall, Saue it (alas) from the'uer-neuer Dying: For who in deepe Hell (and fierce Torments frying) Shall sing thy praise, or can extoll th'Eternall? Long haue I Languisht in my grieuous Sorrow's, My bed and bosome, with my teares I water: My foes Despight hath ploughd my face with furrows. But (now my Soule) let the vngodly Scatter: Hence yee wicked, sith God (so gracious for vs) Hath heard my moan, and doth regard my matter. SECOND SONNET Ex Psal. 32. Blessed are they, whose faults (so oft forbidden) Haue free forgiuenes, and a full remission: And they whose Sinns (of Act and of Omission) Are not Imputed, but in mercy hidden. Therefore my Crime I haue confest before thee; Which graciously (my God) thou hast forgiuen: The more therefore I Laude thee (King of Heauen) And all thy Saints shall in due time adore thee. O thou my Refuge, and my Consolation, Deliuer me my God which art Almightie: From Enemies that enuie my Saluation. A many Rods pursue the Sinner (rightly) But those that place in thee their expectation, Grace shall embrace. Ioy yee that walk vprightly. THIRD SONNET Ex Psal. 38. Lord, in thine Anger doe no more reprooue me, Nor in thy Furie multiply my Sorrows; For in my fleash I Feele thy fearfull Arrows: Thy heauie hand doth vnto Goodnes mooue me. Sick, in it selfe my Soule doth Sigh and Languish: Because my Sins so Wholely ouercame mee, Sorely afflicted, and all humbled am I; And in my playnt, my hart Roars out for Anguish. My Strength eu'n fail's me, and my Sight hath fled me, And euery one Endeauours to vndoo mee, But I as Deaf, the while with Dumbnes sped me. In thee I hope (my God) Ah listen to me: Ah, Leaue me not (thou that canst best bested me) Thou my Saluation, and Comfort sole vnto me. FOVRTH SONNET Ex Psal. 51. Shew mercy Lord on mee most haynous Sinner, And mortifie my Sin so grieuous guiltie; O cleanse me from it, Purifie me Filthy; For in thy sight Lord I am onely Sinner. In Sin (thou know'st) my Sinfull mother bore mee: But O thou Guide vnto the heau'nly Cittie, Wash, wash my Soule in Lauer of thy Pittie, So shall no Snowe in whitenesse goe before mee. Giue me a cleane hart, an vntainted Spirit; And of thy Grace, and Face bereaue me neuer; So shall I more adore thy Name and feare it, And to thy Seruice more and more endeauour: Sith broken harts (as doth thy Voice auer it) Are th'only Sacrifice thou Ioy'st in euer. FIFT SONNET Ex Psal. 102. Harken O Lord vnto mine humble Playnings, Hide not thy Face for euer in thine Anger: My Dayes doe vade as Smoak, my hart in Langor, Hyes (Flyes) to thee: why Shu'nst thou my Complaynings? Friends haue I none; now from me All are flying: In sted of Bread I haue ben fed with Ashes, My Drinck my Tears; while I haue felt the Lashes Of thy fierce Wrath, for all mine often Crying. All Kings and Nati'ons shall admire thy Glory, When thou, the Sighs of humble Soules attendest; It shall be Writ in an Eternall Story. Ah! Leaue me not, Thou, thou that All Defendest, That madest All (Heau'n, Earth, and Ocean hoarie) That neuer didst Begin, and neuer Endest. SIXT SONNET Ex Psal. 102. From profound Center of my hart I cryed To thee O Lord, Lord let thine Eare draw neer mee, To note my Movrnings, and quick-quickly heare mee; Heare my Sad Grones, to thy Sweet Grace applyed. Lord, if thou looke with Rigovr downe into Vs, To mark our Sin, O who shall then abide it? But, if with Pardon thou bee pleas'd to hide it (If Mercy thou Vouchsafe) What shall Vndoo Vs? Vpon thy Word my Sovle hath firmly reared Her Tower of Trvst, there is my Hope possessed; With thee is Mercy, that thou maist bee feared; Mercy, for those that are in Sovle depressed, Israels Redeemer, Whom thou hast endeered Beecom's through thee, of Sinner, Saint and Blessed. SEAVENTH SONNET Ex Psal. 143. Listen O Lord vnto my Prostrate Prayer, Nor into Ivdgment with thy Seruant enter: For who is Ivst? The foule infernall Tempter Pursues my Sovle with Terrors of Despayre. My hart's all inly Vext. Yet I apply'd mee To waigh thy Works, thy Wonders I obserued, But to thy Mercy the Chiefe place reserued? Then Shew my Sin, and in thy Seruice guide mee. Succour mee Lord, Saue mee with expedition, My Spirit fainteth: therefore mine affection, My Minde, my Sovle, I lift (with all Submission) To thee my Lord, my God, and my protection: Draw mee from Danger vnder thy Tuition, For I thy Seruant am by thine Election. FINIS.</field>
+   </doc>
+</add>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1940's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2006_10/uvaGenText/tei/bov_19480521.xml</field>
+      <field name="date_indexed_facet">201909240346</field>
+      <field name="date_text">May 21, 1948</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:350685</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. May 21, 1948</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  May 21, 1948</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  May 21, 1948</field>
+      <field name="year_display">May 21, 1948</field>
+      <field name="year_facet">1948-05-21</field>
+      <field name="year_multisort_i">1948</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:350685&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:350685&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. May 21, 1948&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;May 21, 1948&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1948-05-21&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;May 21, 1948&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Official minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;3 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1948-05-21&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 22 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">10 April 1948 Pursuant to a decision of this Board at a meeting held 12 March 1948, notice was duly sent to each member that a regular meeting of the Board of Visitors of The Rector and Visitors of the University of Virginia would be held on Saturday, April 10, at 11:00 a. m. at Mary Washington College, Fredericksburg, Virginia. As a quorum of five members was not present, no meeting was held. Present: President Colgate W. Darden, Jr., of the University of Virginia; Dr. M. L. Combs, President of Mary Washington College; Visitors Garnett, Mears, Wailes, and Willis. Absent: Visitors Anderson, Barksdale, Black, Calcott, Carrington, Gay, Miller, Stettinius, and Trout. Vincent Shea Secretary 21 May 1948 The regular monthly meeting of The Rector and Visitors of the University of Virginia was held on this date at 10 o'clock in the Office of the President of the University of Virginia, Charlottesville, Virginia, with the following present: The Rector, Edward R. Stettinius, Jr.; President Colgate W. Darden, Jr., of the University of Virginia; Visitors Anderson, Barksdale, Black, Calcott, Carrington, Garnett, Gay, Mears, Miller, Trout, Wailes and Willis. Absent: Combs. The minutes of the meeting of March 12, which had been copied and mailed to the members, were approved. The President made announcement of the following gifts: GIFTS From the United States Rubber Company, for a research fellowship in physics for the session of 1948-49 $ 1,500.00 To the Donald Reed Fund of the Alderman Library, from an anonymous donor 100.00 From the Carnegie Corporation, a grant to cover the expenses of Dean J. N. G. Finley while making a survey of adult education in Great Britain 2,000.00 From an alumnus of the University, to be used in support of the study of metal surfaces being undertaken by Dr. A. T. Gwathmey 1,000.00 From an anonymous donor, a yearly scholarship to a member of the Newman Club, the recipient to be selected by the priest in charge of the Holy Comforter Catholic Church of Charlottesville 200.00 From Mrs. John Harrison Welch, of Lexington, Kentucky, for the establishment of the James Whitcomb Welch Memorial Scholarship Fund, the income to be used for two scholarships in the Law School, to be awarded by the Law Faculty to competent students who need financial assistance in order to secure a legal education, cash and securities valued at 23,975.00 The donor has specified that the interest shall be added to the principal until such time as a fund of $25,000 is accumulated before the scholarships are awarded. Then the income from the fund shall be used to award the scholarships specified. Upon recommendation of the President, the following resignations, changes in status, leaves of absence, elections, and appointments were approved. RESIGNATIONS RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that the resignation of Mr. Milton Robert Allen, Acting Assistant Professor of Extension Teaching, be and the same is hereby accepted, effective April 1, 1948. We wish for him the highest success in his new undertaking. RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that the resignation of Dr. Gustav Arnold Hedlund, Professor of Mathematics, be and the same is hereby accepted, effective June 15, 1948. We wish for him the highest success in his new undertaking. CHANGES IN STATUS Mr. William Hubert Baughn, now acting as Instructor in Rural Economics, be restored to the rank of Assistant Professor of Rural Economics beginning July 1, 1948. Mr. Edward Ryant Dyer, now acting as Research Associate, be restored to the rank of Assistant Professor of Astronomy, beginning September 15, 1948, and that he be granted a year's leave of absence in order to accept a post-doctoral fellowship offered to him by the Mount Wilson Observatory. LEAVES OF ABSENCE Dr. Stephen Davidson Tuttle, Associate Professor of Music, granted leave of absence without pay for the session of 1948-49 to enable him to work under a Guggenheim fellowship. Dr. Daniel Rutledge Vining, Professor of Statistics and Economics, granted leave of absence without pay for the session of 1948-49 in order that he may act as associate in research with the Bureau of Economic Research of New York. ELECTIONS Mr. Raymond Curtis Bice as Acting Assistant Professor of Psychology, effective September 16, 1948, at a session salary of $3,510. Mr. Thomas Brierley, Jr. as Instructor in Music for the session 1948-49, beginning September 16, 1948, at a session salary of $2,640. Mr. Richard Carter Donnelly as Associate Professor of Law, beginning September 16, 1948, at a session salary of $5,500. Dr. Herbert Dale Hebel as Assistant Professor of Roentgenology, effective March 1, 1948, at a salary of $10,000 per year, to be paid from departmental earnings. Dr. Frank L. Hereford, Jr. as Assistant Professor of Physics, beginning September 16, 1948, at a session salary of $4,350. Leave of absence without pay granted Dr. Hereford for the session 1948-49 to enable him to complete research work on which he is now engaged at the Bartol Foundation. Mr. David M. Kerley as Acting Assistant Professor of Statistics for the session of 1948-49, effective September 16, 1948, at a session salary of $3,720, replacing Professor Vining who expects to be on leave of absence for the session of 1948-49. Mr. William R. Winsbro as Assistant Professor of Chemical Engineering, beginning September 16, 1948, at a session salary of $3,510. APPOINTMENTS Lieutenant Colonel Arthur Lee Baker as Professor of Military Science and Tactics, for assignment with the R.O.T.C. Transportation Corps. First Lieutenant Keith D. Buck as Assistant Professor of Military Science and Tactics, for assignment with the R.O.T.C. Transportation Corps. UNIVERSITY BUDGET The University budget for the year 1948-49 was presented to the Board, along with the question of possible changes in tuition rates. Action on both matters was deferred until the June meeting. RANDALL - MACIVER BEQUEST The determination of a procedure for the handling of the Randall-MacIver scholarship bequest was referred to the Finance Committee with the request that the Committee make recommendations to the Board at the next meeting. ALLOCATION OF HOXTON HOUSE The allocation of the pavilion on West Lawn now occupied by Professor L. G. Hoxton was referred to the Buildings and Grounds Committee, which committee met during the lunch hour and allocated this pavilion to Professor Atcheson L. Hench of the English faculty. GIFT OF PEALE PORTRAIT The Rector informed the Board that he would present a copy of the Peale portrait of Monroe to the Law School. PETER JEFFERSON'S PRAYER BOOK The Rector reported that Peter Jefferson's prayer book had been discovered in Utah and that he believed the University should, if at all possible, purchase this volume, as it contains valuable genealogical material concerning Jefferson's family. The Library authorities have requested that an evaluation be placed on the volume, which is expected to run between $7,500 and $10,000. The Board requested Mr. Gay to investigate the possibility of using the bequest of $10,000 made to the University by the late Mr. and Mrs. Alexander Weddell for the purchase of Peter Jefferson's prayer book. STETTINIUS PORTRAIT The determination of a time and place for the presentation of the Stettinius portrait painted by Alfred Jonniaux was deferred until the June meeting. SIGMA PHI EPSILON FRATERNITY The Board approved the recommendation of the President that the ban on the SPE Fraternity House be lifted at the end of this session, the date for such lifting to be left to the discretion of the President. FINANCE COMMITTEE The Rector reported the appointment of Mr. Benjamin W. Mears to the Finance Committee. PRESIDENT AUTHORIZED TO SELL GOVERNMENT SECURITIES The following resolution was adopted. RESOLVED, That Colgate W. Darden, Jr., President, is hereby authorized and empowered to sell and assign any and all United States securities of any description now or hereafter registered on the books of the Treasury Department and registered securities with respect to which the Treasury Department acts as the transfer agency in the name of University of Virginia, or The Rector and Visitors of the University of Virginia, or which may now or hereafter be assigned to it. AND IT IS FURTHER RESOLVED, That any and all assignments of any such securities registered in the name of, or assigned to, this corporation heretofore or hereafter made by the above-named officer, are hereby ratified and confirmed. SITE OF NEW UNIVERSITY PRESS The Board vested authority in the Buildings and Grounds Committee to select a site for the new University Press building. The Committee met during the lunch hour and afterwards reported that a site behind the Engineering School, adjoining the parking field for the east stands of Scott Stadium, had been chosen. INTERNES' QUARTERS Mr. Lee Tayler of Baltimore was selected as the architect for the completion of the Internes' Quarters. VIRGINIA GEOGRAPHICAL INSTITUTE The President was authorized to sign a contract expanding the program of the Virginia Geographical Institute and to employ the necessary personnel. DEVELOPMENT FUND Mr. Anderson reported that the Development Fund had collected to date approximately $535,000 and that an additional $150,000 had been collected by various teams but had not as yet been reported. Mr. Stettinius stated that he believed the drive should be extended over at least a two-year period and that if such a program were adopted that the budget should be very greatly reduced. NCAA REGULATIONS Visitor: Captain Norton G. Pritchett. Mr. Carrington, speaking for the Board, stated that it was the opinion of the Board that the present athletic policy should be continued, pending a further study of the NCAA proposal. GRADUATE ENGINEERING EXTENSION PROGRAM The Board approved in principle the institution of a graduate engineering extension program and left the details of such a program to be worked out with the President. STUDENT CONDUCT The Board requested the President to ask the Student Council to prepare a proposal for the Board, setting forth a procedure to be followed in the handling of student conduct. The Board wished to go on record as being shocked and disgusted with reports of student conduct during "Little Easters" week end. TAVERN CLUB Visitors: Messrs. Martin B. Hiden, Jr. and Adolphus W. Hawkins, Jr. Mr. Hiden, speaking for the Tavern Club, outlined the type of club which the students desire to build, displaying architectural drawings of the proposed building. The Tavern Club backers proposed to finance the Club by a $100,000 first mortgage to be sold to the banks, plus a $100,000 second mortgage to be sold to individuals in small amounts. Mr. Anderson expressed some doubts as to the feasibility of such a method of financing the project. The Board thanked Messrs. Hiden and Hawkins for their presentation and requested them to explore further the possibilities of financing their building and to report to the Board at its next meeting. MARY WASHINGTON COLLEGE MATTERS NEW BUILDINGS A verbal report for the Committee on Mary Washington College was made by Mrs. Wailes, Chairman. Mrs. Wailes pointed out that the need for certain new buildings at Mary Washington was becoming crucial, particularly an addition to the cold storage plant and a new infirmary. She proposed the following resolution, which was adopted by the Board. RESOLVED, by the Board of Visitors of The Rector and Visitors of the University of Virginia that the Governor be requested to release the appropriations approved by the General Assembly for construction to meet emergency building requirements, i. e., a cold storage plant of $40,000 which necessitates an addition to the dining hall building ($109,115), and an infirmary of $158,837. CONVERSION TO LIBERAL ARTS COLLEGE The matter of the conversion of Mary Washington College to a liberal arts college was referred to the Mary Washington Committee with the directive that the committee meet with the officials at Mary Washington College and prepare a statement suggesting a plan to accomplish this conversion, this statement to be mailed to the members of the Board prior to the June meeting. * * * There being no further business to come before the meeting, the same was adjourned after a motion to that effect had been made, seconded, and carried. For Edward R. Stettinius, Jr. by Barron F. Black Rector Vincent Shea Secretary</field>
+   </doc>
+</add>

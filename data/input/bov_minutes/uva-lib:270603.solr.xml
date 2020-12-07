@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1900's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2006_06/uvaGenText/tei/bov_19021017.xml</field>
+      <field name="date_indexed_facet">201909240343</field>
+      <field name="date_text">October 17, 1902</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:270603</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. October 17, 1902</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  October 17, 1902</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  October 17, 1902</field>
+      <field name="year_display">October 17, 1902</field>
+      <field name="year_facet">1902-10-17</field>
+      <field name="year_multisort_i">1902</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:270603&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:270603&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. October 17, 1902&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;October 17, 1902&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1902-10-17&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;October 17, 1902&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Public minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;0 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information. Access to minutes containing salary information will be granted only under the procedures of the Virginia Freedom of Information Act (Code of Virginia-2.1-340 ff.) or if permission is granted by the Secretary of the Board. Researchers interested in obtaining access to these records should direct a request in writing to the Office of the Legal Adviser, Madison Hall, University of Virginia. These public minutes have had salary information deleted and bear no restrictions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1902-10-17&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 20 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">At a meeting of the Board of Visitors called by the Rector and held at the University on October 17th 1902. Present: The Rector and Members Harmon, Glass, Wallace, Moore, Stuart, Hunton, Downing, and Irvine. Messrs. Eppa Hunton and H. C. Stuart having been appointed by the Governor, approved by the Senate, &amp; commissioned to serve as Visitors for the four years next ensuing from the    day of       1902, the said Messrs. Eppa Hunton &amp; H. C. Stuart took and subscribed the oaths required by law as Visitors of the University of Virginia, before John M. White, Judge of the County Court of Albemarle County. The Chairman of the Faculty handed into the Board the following reports- Chairman's Report. Faculty Report. Proctor's Report. School Reports. &amp; various petitions, applications etc. Visitor Eppa Hunton was unanimously elected by the Board to fill the vacancy on the Executive Committee caused by the resignation of Mr. Geo. W. Miles from the Board. The Executive Committee is now as follows Visitors: Jones, Harmon, Glass, Moore, &amp; Hunton Messrs. Bryan &amp; Miles having resigned from the Board, the Rector re-cast the standing committees as follows. Finance       Committee - Visitors Harmon, Downing, &amp; Glass. Library &amp; Apparatus Committee - Visitors Hunton, Stuart, &amp; Moore. Conduct of Schools etc. - Visitors Irvine, Wallace, &amp; Hunton. Buildings &amp; Schools. - Visitors Glass, Downing, &amp; Stuart. Health, Infirmary etc. - Visitors Irvine, Wallace, &amp; Moore. Miller Board Comtee - Visitors Harmon, Glass, &amp; Moore. The following resolutions were adopted by the Board: The Board of Visitors having been informed by the Faculty that Judge J. B. Sener, the President of the Alumni Association, has indicated his intention to give annually five prize medals to the classes of Law, Medicine, Engineering, Latin, &amp; Moral Philosophy, one to each, to be presented at the Commencement Exercises in June of each year, this Board hereby expresses its appreciation of the action of Judge Sener; and invites him to be present when said medals are presented. The following extract from the minutes of the Faculty was received &amp; ordered to be spread on the minutes of the Board, as a complete settlement of the matter in relation to the protest of the M. A. Class in the School of Romantic Languages, in regard to graduation of Mr. L. Patton, referred to in entry on these minutes made at last June meeting. "Extract from Faculty Minutes of October 10, 1902. "On motion of Professor Minor, Resolved- That it is the sense of the Faculty that the matter of Professor Wilson's alleged violation of the laws of the University, has been explained to the satisfaction of the Faculty, as regards any intentional violation of the Laws. From the minutes (signed) P. B. Barringer, Chairman" Resolved: That the sum of $600. be hereby appropriated for the purpose of paying the salary of the Engineer of the Electric lighting plant. Resolved: That $122. be appropriated for the purchase of classical wall maps by Prof. Fitzhugh, as recommended in the Report of the Faculty. Resolved: That for the reasons stated in the resolution adopted June 10, 1901, Thomas Towles be relieved for the current session from paying any fees in the Academic Department and that there be refunded him the matriculation fee already paid Resolved: That the Professor of Romanic Languages &amp; the Professor of Teutonic Languages are authorized to nominate to the Board for appointment an instructor whose duties shall be to teach the A classes in both schools of Modern Languages &amp; Also the duties now performed by the Fellow in Teutonic Languages, at an annual salary of $400, with the understanding that no increase in the compensation will be asked for. This is to be in lieu of the present Fellowship in Teutonic Languages. Resolved: That for the present it is inexpedient to adopt the recommendation of the Faculty made in section 13 of their report of June 16th last, and further referred to in Section 2 of their report of this date, with reference to the extension of the Law Course to a three years' course. Resolved: That the recommendation of the Faculty be approved, allowing Mr. John E Cole to substitute in his course for the B. A. Degree, Economics for History or for any other ticket which was in the same group, with Economics when he entered the University, Session 1900-1901. Resolved: That the request of Prof James A. Harrison for a leave of absence from Feby 1, 1903, to Sept. 12, 1903, be granted on the terms stated in his letter of application. Resolved: Pursuant to the recommendation of the Faculty, that A. B. Elliott be allowed to substitute electricity for astronomy in his course for the B. S. degree. On the application of Professor Thomas Fitzhugh, the applications of Professors Buckmaster &amp; Wilson having been withdrawn, it is ordered that the Proctor assign to Professor Thomas Fitzhugh, as a residence, the Pavilion formerly assigned to Professor Peters, to take effect when Col. Peters is able to move to his own house, now being repaired. Resolved: Mr. Chas. R. Thurman is hereby appointed Instructor in Applied Methematics for the present session. Resolved: That all the acts &amp; resolutions done &amp; adopted at the special meeting held in Richmond on July 17th 1902, be &amp; the same are, hereby approved &amp; readopted. Resolved: That in executing the resolution of the Board adopted at its June meeting 1902, respecting the deposit of funds, the proposition of the Fidelity Savings &amp; Trust Company of Charlottesville, dated Octo. 17,th 1902, be considered by the Proctor &amp; Finance Committee. Resolved that the recommendation contained in the letter of Dr Tuttle, dated Oct. 10, 1902, accompanying the report of the Faculty relative to abolishing the Fellowship in Biology &amp; reinstating the instructorship therein, be approved &amp; adopted. &amp; that there shall be paid to the Instructor who may be nominated by the Miller Board and confirmed by the Executive Committee of the Board, a salary of $600. Considering the communication just received by the Board from Mr. Geo. W. Miles, it is resolved that a copy of the communication be transmitted to the Chairman of the Faculty with the request that the members of the Faculty who preferred the charged against Mr. Miles mentioned in the communication appear in person or by committee before the Board &amp; explain the same. On motion, the Board adjourned until to-morrow morning at ten o'clock. Jas Jones, Secretary. Charles P. Jones, Rector. October 18th, 1902. The Poard met in pursuance of adjournment on yesterday. Present. The Rector and all the members of the Board. The following resolutions were adopted. The Chairman of the Faculty having laid before the Visitors a communication from Mr Wm Alexander, indicating his purpose to aid in the erection of a memorial ward to Dr J. L. Cabell in the University Hospital. Resolved - That the appreciation of the Visitors for the generosity of Mr. Alexander is hereby recorded upon their minutes, and the Secretary is directed to send a copy of this resolution to Mr. Alexander. Resolved that the Chairman be authorized to return to Mr. Ranschenback his note for tuition for last year, in consideration of services rendered by him at the gymnasium. Resolved that the library be kept open during the session except on Sunday two hours, at night up to 10 o'clock, p,m.in addition to the hours prescribed in Section 303 of the revised laws. Be it further resolved that John S. Patton is appointed Assistant Librarian for the present session at a compensation of $200, &amp; his duties as such require him to attend at the library &amp; work upon arranging &amp; cataloging the books during such part of the library hours as may be agreed upon by him and the Librarian At the end of the present session some more permanent change will be made in the office of Librarian Resolved= That the action of the Rector &amp; the Chairman of the Executive Committee in adopting the following resolution be approved &amp; made of full effect "Resolved- That the Chairman of the Faculty be authorized to negotiate with the secondary schools &amp; colleges contributory to the University, for such an arrangement as will permit some graduate of these schools or colleges, who is a man of more than ordinary capacity, to receive a scholarship at the University, embracing free tuition &amp; matriculation, provided some other man of the same school or vicinity, who would not otherwise have come, accompany him to the University &amp; become a regular student. In view of the statement made by the Chairman of the Faculty relative to the settlement of the Proctor's Accounts, the Secretary of the Board is directed to inform Mr. S. B. Woods, Commr of Acct's, that a strict observance of &amp; compliance with Sections 265 &amp; 266 of the Laws of the University is expected. Resolved- That Dr. W. A. Lambeth, in addition to his duties as Director of the Fayerweather Gymnasium is made adjunct professor of Hygiene and Materia Medica - his salary for the two positions to be the same as at present, $1800 00 Whereas it appears that the organization of the Order of Sons of Temperance is not now in existence, &amp; it is desired that the net income from the Temperance Hall be devoted to such purpose as will be most promotive of the cause of temperance. Be it resolved - That until further ordered the net income, after providing for repairs, insurance, etc., from the Temperance Hall building, shall be paid out by the Proctor as may be directed by a special committee to be appointed by the Faculty, and to be known as the Committee on Temperance. Be it Resolved - That any person who has graduated at this University with the Degree of Doctor of Philosophy shall thereafter be allowed to pursue work in any of the Academic Schools of the University without further charges for matriculation or tuition. While the Board is in receipt of a communication from all the members of the Faculty, (except two, who are detained by sickness or absence) who signed the protest against the selection of Mr. George W. Miles as Chairman, stating that it was not the intention to make any charge against the purity of Mr. Miles's character as a man, yet as it has been informed that there have recently been various rumors circulated through the State reflecting upon Mr. Miles's character, the Board has examined into the truth of the same, and now deems it but fair to put upon record the result of its investigation, in the following resolution Resolved That the Board desires to express its complete &amp; absolute confidence in the high &amp; unsullied character of Mr. Miles, as well as its appreciation of his loyalty to the University, and the valuable services rendered by him in pro- tecting its interests while serving as a member of the Board. Resolved (1) That in the opinion of the Board the University should have an Executive head, not selected from the teaching corps &amp; with powers &amp; duties more extensive than those belonging to the office of Chairman of the Faculty. (2) That a Committee of three be appointed to urge upon the General Assembly the expediency of enacting, as early as possible, legislation expressly authorizing the Board to create such an office, of which committee the Rector shall be Chairman. (3) That said Committee shall report to the Board what should be the title of the occupant of such office &amp; the details of the functions to be performed by him, and, as far as practicable, the Committee shall communicate with the Alumni Associations of the University &amp; invite their views. (4) That a meeting of the Board shall be called to consider the report of the Committee as soon as the same is ready to be submitted. The Rector appointed as the two additional members of the of the Committee under the above resolution, Messrs. Hunton &amp; Harmon. Resolved that Dr. P. B. Barringer be elected Chairman of the Faculty for the present session. On motion, the Board adjourned sine die Jas Jones, Secretary Charles P. Jones Rector.</field>
+   </doc>
+</add>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Robert Frost</field>
+      <field name="author_facet">Robert Frost</field>
+      <field name="author_sort_facet">robert frost</field>
+      <field name="author_text">Robert Frost</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1920's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/FroGrou.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">January, 1921</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:475970</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">A Group of Poems</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">A Group of Poems</field>
+      <field name="title_facet">group of poems</field>
+      <field name="title_sort_facet">group of poems</field>
+      <field name="title_text">A Group of Poems</field>
+      <field name="year_display">January, 1921</field>
+      <field name="year_facet">1921-01</field>
+      <field name="year_multisort_i">1921</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:475970&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:475970&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Robert Frost&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;robert frost&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A Group of Poems&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;group of poems&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;January, 1921&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1921-01&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Robert Frost&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Group of Poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;1st Edition&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;January, 1921&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New Haven, CT&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Yale Publishing Association, Inc.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;January, 1921&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="callNo"&gt;Print copy consulted: UVa Library copy, AP2 .Y2&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;pp. 258 -261&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Group of Poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1997&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1997 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 10 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;This electronic text includes four poems by Robert Frost that appeared in the January 1921 edition of The Yale Review. The poems are: "Snow Dust", "The Onset", "A Star in a Stone-Boat", and "Misgiving".&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Snow Dust The way a crowShook down on meThe dust of snowFrom a hemlock tree Has given my heartA change of moodAnd saved some partOf a day I had rued.</field>
+      <field name="fulltext">The Onset Always the same when on a fated nightAt last the gathered snow lets down as whiteAs maybe in dark woods and with a songIt shall not make again all winter longOf hissing on the yet uncovered ground,I almost stumble looking up and round,As one who overtaken by the endGives up his errand and lets death descendUpon him where he is, with nothing doneTo evil, no important triumph wonMore than if life had never been begun. Yet all the precedent is on my side:I know that winter death has never triedThe earth but it has failed: the snow may heapIn long storms an undrifted four feet deep As measured against maple, birch, and oak;It cannot check the Peeper's silver croak;And I shall see the snow all go down hillIn water of a slender April rillThat flashes tail through last year's withered brakeAnd dead weeds like a disappearing snake.Nothing will be left white but here a birchAnd there a clump of houses with a church.</field>
+      <field name="fulltext">A Star in a Stone-Boat Never tell me that not one star of allThat slip from heaven at night and softly fallHas been picked up with stones to build a wall. Some laborer found one faded and stone cold,And saving that its weight suggested gold,And tugged it from his first too certain hold, He noticed nothing in it to remark.He was not used to handling stars thrown darkAnd lifeless from an interrupted arc. He did not recognize in that smooth coalThe one thing palpable besides the soulTo penetrate the air in which we roll. He did not see how like a flying thingIt brooded ant-eggs, and had one large wing,One not so large for flying in a ring, And a long Bird of Paradise's tail,(Though these when not in use to fly and trailIt drew back in its body like a snail); Nor know that he might move it from the spot—The harm was done: from having been star shotThe very nature of the soil was hot And burning to yield flowers instead of grain,Flowers fanned and not put out by all the rainPoured on them by his prayers prayed in vain. He moved it roughly with an iron bar,He loaded an old stone-boat with the starAnd not, as you might think, a flying car, Such as even poets would admit perforceMore practical than Pegasus the horseIf it could put a star back in its course. He dragged it through the ploughed ground at a paceBut faintly reminiscent of the raceOf jostling rock in interstellar space. It went for building-stone, and I as thoughCommanded in a dream forever goTo right the wrong that this should have been so. Yet ask where else it could have gone as well,I do not know—I cannot stop to tell:He might have left it lying where it fell. From following walls I never lift my eyeExcept at night to places in the skyWhere showers of charted meteors let fly. Some may know what they seek in school and church,And why they seek it there; for what I searchI must go measuring stone walls, perch on perch; Sure that though not a star of death and birth,So not to be compared, perhaps, in worthTo such resorts of life as Mars and Earth,— Though not, I say, a star of death and sin,It yet has poles, and only needs a spinTo show its worldly nature and begin To chafe and shuffle in my calloused palmAnd run off in strange tangents with my armAs fish do with the line in first alarm. Such as it is, it promises the prizeOf the one world complete in any sizeThat I am like to compass, fool or wise.</field>
+      <field name="fulltext">Misgiving All crying, "We will go with you, O Wind,"The foliage follow him, leaf and stem,But a sleep oppresses them as they go,And they end by bidding him stay with them. Since ever they flung abroad in spring,The leaves have promised themselves this flight,Who now would fain seek sheltering wall,Or thicket, or hollow place for the night. And now they answer the summoning blastWith an ever vaguer and vaguer stir,Or, at utmost, a little reluctant whirlThat drops them no further than where they were. I only hope that when I am free,As they are free, to go in questOf the knowledge beyond the bounds of life,It may not seem better to me to rest.</field>
+   </doc>
+</add>

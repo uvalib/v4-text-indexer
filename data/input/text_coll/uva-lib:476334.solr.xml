@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Ezra Pound and Ernest Fenollosa</field>
+      <field name="author_facet">Ezra Pound and Ernest Fenollosa</field>
+      <field name="author_sort_facet">ezra pound and ernest fenollosa</field>
+      <field name="author_text">Ezra Pound and Ernest Fenollosa</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1910's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/PouTsun.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">1916</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476334</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Tsunemasa</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">Tsunemasa</field>
+      <field name="title_facet">tsunemasa</field>
+      <field name="title_sort_facet">tsunemasa</field>
+      <field name="title_text">Tsunemasa</field>
+      <field name="year_display">1916</field>
+      <field name="year_facet">1916</field>
+      <field name="year_multisort_i">1916</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476334&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476334&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Ezra Pound and Ernest Fenollosa&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;ezra pound and ernest fenollosa&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Tsunemasa&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;tsunemasa&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1916&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1916&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Ezra Pound and Ernest Fenollosa&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Tsunemasa&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;1st Edition&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1916&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;MacMillan&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1916&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="callNo"&gt;Print copy consulted: UVa Library call number PL 735 .F4 1916&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;pp. 91-96&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Tsunemasa&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1997&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1997 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 11 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Footnotes in the print source have been moved to the end of the</field>
+      <field name="desc_meta_file_display">electronic document and numbered consecutively. For descriptive</field>
+      <field name="desc_meta_file_display">purposes, words and phrases preceding footnote markers in print source</field>
+      <field name="desc_meta_file_display">have been added to notes at the end of the document sources.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">FOREWORD TO TSUNEMASA The Noh, especially the Noh of spirits, abounds in dramatic situations, perhaps too subtle and fragile for our western stage, but none the less intensely dramatic. Kumasaka is martial despite the touch of Buddhism in the opening scene, where the spirit is atoning for his past violence. Tsunemasa is gentle and melancholy. It is all at high tension, but it is a psychological tension, the tension of the séance. The excitement and triumph are the nervous excitement and triumph of a successful ritual. The spirit is invoked and appears. The parallels with Western spiritist doctrines are more than interesting. Note the spirit's uncertainty as to his own success in appearing. The priest wonders if he really saw anything. The spirit affirms that "The body was there if you saw it." As to the quality of poetry in this work: there is the favoured youth, soon slain; the uneasy blood-stained and thoughtless spirit; there are the lines about the caged stork crying at sunset, and they are as clear as Dante's. "Era gia l'ora che volge il disio."</field>
+      <field name="fulltext">TSUNEMASA Priest I am Sodzu Giokei, keeper of the temple of Ninnaji. Tajima no Kami Tsunemasa, of the house of Taira, was loved by the Emperor when he was a boy, but he was killed in the old days at the battle of the West Seas. And this is the Seizan lute that the Emperor gave him before that fighting. I offer this lute to his spirit in place of libation; I do the right service before him. They perform a service to the spirit of Tsunemasa. Priest Although it is midnight I see the form of a man, a faint form, in the light there. If you are spirit, who are you? Spirit I am the ghost of Tsunemasa. Your service has brought me. Priest Is it the ghost of Tsunemasa? I perceive no form, but a voice. Spirit It is the faint sound alone that remains. Priest O! But I saw the form, really. Spirit It is there if you see it. Priest I can see. Spirit Are you sure that you see it, really? Priest O, do I, or do I not see you? Chorus Changeful Tsunemasa, full of the universal unstillness, looked back upon the world. His voice was heard there, a voice without form. None might see him, but he looked out from his phantom, a dream that gazed on our world. Priest It is strange! Tsunemasa! The figure was there and is gone, only the thin sound remains. The film of a dream, perhaps! It was a reward for this service. Spirit When I was young I went into the court. I had a look at life then. I had high favour. I was given the Emperor's biwa. [1] That is the very lute you have there. It is the lute called "Seizan." I had it when I walked through the world. Chorus It is the lute that he had in this world, but now he will play Buddha's music. Priest Bring out what stringed lutes you possess, and follow his music. Spirit And I will lead you unseen. He plays. Priest Midnight is come; we will play the "midnight-play," Yabanraku. Spirit The clear sky is become overclouded; the rain walks with heavier feet. Priest They shake the grass and the trees. Spirit It was not the rain's feet. Look yonder. Chorus A moon hangs clear on the pine-bough. The wind rustles as if flurried with rain. It is an hour of magic. The bass strings are something like rain; the small strings talk like a whisper. The deep string is a wind voice of autumn; the third and the fourth strings are like the crying stork in her cage, when she thinks of her young birds toward nightfall. Let the cocks leave off their crowing. Let no one announce the dawn. Spirit A flute's voice has moved the clouds of Shushinrei. And the phœnix come out from the cloud; they descend with their playing. Pitiful, marvellous music! I have come down to the world. I have resumed my old playing. And I was happy here. All that is soon over. Priest Now I can see him again, the figure I saw here; can it be Tsunemasa? Spirit It's a sorry face that I make here. Put down the lights if you see me. Chorus The sorrow of the heart is a spreading around of quick fires. The flames are turned to thick rain. He slew by the sword and was slain. The red wave of blood rose in fire, and now he burns with that flame. He bade us put out the lights; he flew as a summer moth. His brushing wings were a storm. His spirit is gone in the darkness.</field>
+      <field name="fulltext">Footnotes [1: biwa] Lute.</field>
+   </doc>
+</add>

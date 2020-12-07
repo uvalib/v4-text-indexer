@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1900's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2006_07/uvaGenText/tei/bov_19040419.xml</field>
+      <field name="date_indexed_facet">201909240344</field>
+      <field name="date_text">April 19, 1904</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:302016</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. April 19, 1904</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  April 19, 1904</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  April 19, 1904</field>
+      <field name="year_display">April 19, 1904</field>
+      <field name="year_facet">1904-04-19</field>
+      <field name="year_multisort_i">1904</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:302016&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:302016&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. April 19, 1904&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;April 19, 1904&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1904-04-19&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;April 19, 1904&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Public minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;0 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information. Access to minutes containing salary information will be granted only under the procedures of the Virginia Freedom of Information Act (Code of Virginia-2.1-340 ff.) or if permission is granted by the Secretary of the Board. Researchers interested in obtaining access to these records should direct a request in writing to the Office of the Legal Adviser, Madison Hall, University of Virginia. These public minutes have had salary information deleted and bear no restrictions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1904-04-19&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 13 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">University of Virginia Apl. 19, 1904 At a called meeting of the Board of Visitors held at the University on April 19, 1904. Present: The Rector &amp; Visitors Harmon, Moore, Glass, White, Buchanan, Downing, Hunton, and Wallace. Eppa Hunton, jr., R. Walton Moore, &amp; B. F. Buchanan, &amp; Daniel Harmon having been appointed by the Governor, approved by the Senate, and commissioned to serve as Visitors of the University for the four years next ensuing from       1904, the said Hunton, Moore, &amp; Buchanan, before The Hon. Geo. W. Morris, Judge of the Corporation Court of the City of Charlottesville, took &amp; subscribed the oath required by law as Visitors of the University of Virginia. The Chairman of the Faculty presented to the Board various reports, petitions &amp;c., which, having been read and considered, the following resolutions were adopted: Resolved: That the Proctor be, and is hereby, authorized &amp; directed to furnish to the University Hospital, Lecture Rooms, Library, Offices, Shop &amp; Boiler House a sufficient supply of ice during the season free of charge, and to sell &amp; deliver to residents in &amp; near the University grounds any surplus he can furnish at such price, in his discretion, as will fully cover the cost of gathering &amp; delivery, and allow a reasonable profit for maintenance of the plant, repairs to Ice Houses &amp;c. Whereas the Legislature at its last Session made a special appropriation of Thirty One Thousand Dollars (31000 00) for the purpose of building two additional wards to the University Hospital, and Whereas, it is of vital importance that work be commenced at once, therefore— Resolved: That the Proctor be, and is hereby, authorized to draw on the Auditor of Public Accounts for the amount of this appropriation, so that the same may be immediately avail- able for use of the Building Committee. Resolved: The modified plans for the addition of two wards to the Hospital prepared by Mr. Paul J. pez having been submitted, are approved. And the members of the Medical Faculty, together with the Proctor, are authorized &amp; directed to call for bids &amp; make a contract for the completion of so much of the work as can be finished for $37000. The contract, before being executed, to be approved by John B. Moon, the Counsel for the Board. Resolved: That all questions relating to the Cooperative Book Society be, and the same are, referred to the Executive Committee of this Board- and that said Committee shall have full power to act in the premises. The application of Professor W. A. Lambeth for repairs to the basement of the Gymnasium is hereby referred to Mr. Daniel Harmon and the Proctor for such action in the premises as to them may seem right. Resolved: That the Proctor be authorized to pay $100. for the expenses of the Intercollegiate Debate. Resolved: That the request of The Ladies Confederate Memorial Association, contained in the letter of Mrs. N. K. Davis to Dr. Page dated Apl. 19th, be referred to a committee consisting of the Chairman of the Faculty, the chairman of the Executive Committee &amp; the Proctor, for such action as they may deem proper. Resolved: That $59 00 be appropriated for the purchase of books by the Professor of Latin. Resolved: That the sum of $1200. be appropriated, in lieu of the present appropriation, for assistance in teaching in the School of Latin, to be paid to 3 assistants to be nominated by the Professor of Latin &amp; appointed by the Board —to be effective after Sept. 15th 1904. The sum hereby appropriated to be apportioned as the Professor of Latin may determine. Information having been received of the gift to the University by Mrs. Lizzie Triplett Price &amp; Miss Elizabeth Price, the widow &amp; daughter of the late Professor Thomas R. Price of his library, it is Resolved - that the Rector be requested to express to Mrs. &amp; Miss Price the Board's deep &amp; grateful appreciation of their generosity to the institute of which Prof. Price was a most eminent alumnus and which for many years had the benefit of his distinguished services as a teacher, &amp; the assurance that the library will be treasured as a valuable memorial of the genius &amp; virtues of its collector. And be it Resolved further that the Board approves all that has been done by the Faculty relative to the gift in question &amp; cordially unite with the Faculty in the invitation extended to Dr. W. G. McCabe to respond to the address which is to be made by Dr B. L. Gildersleeve in turning over the library to the University. Resolved: That the gift of Mrs. Francis Branch Scott of Richmond, Va. of Ten Thousand Dollars for the present equipment and future maintenance of a laboratory of Electrical Engineering, in connection with the Engineering Department of the University, one half thereof to be spent for the outfit, as a memorial to her late son, John Waverly Scott, a former student and loyal alumnus, be accepted, &amp; that the thanks of the Board are tendered to Mrs. Scott for her generous gift and timely assistance. Resolved: That so much of the petitions of the Washington and Jefferson Literary Societies, presented this day to the Board, as refers to an appropriation of $150 for expenses incident to the Intercollegiate Debate for the session of 1904-05 be deferred for future consideration; and that the amount of $50. be appropriated for an inter-society debater's medal and the amount of $50 00 for expenses of secunning and entertaining a final orator for next commencement. Resolved: That $75 00 be appropriated to be expended by the Librarian—$5000 for binding the unbound magazines &amp; pamphlets in the library, &amp; $25 00 for the purchase of current magazines. The following changes &amp; additions are made in the Standing Committees: Library &amp; Apparatus: Messrs. Moore, Hunton &amp; White Conduct of Schools: Messrs. Wallace, Hunton, &amp; Buchanan Buildings &amp; Grounds: Messrs. Glass, Downing, &amp; White Health, Infirmary, Buchanan, Wallace, &amp; Moore Sewerage, &amp; Drainage Messrs. On motion the Board adjourned. Jas Jones, Secretary Charles P. Jones Rector.</field>
+   </doc>
+</add>

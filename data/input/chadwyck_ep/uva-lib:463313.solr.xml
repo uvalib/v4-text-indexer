@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Heywood, John, 1497-1580</field>
+      <field name="author_facet">Heywood, John, 1497-1580</field>
+      <field name="author_sort_facet">heywood john 1497 1580</field>
+      <field name="author_text">Heywood, John, 1497-1580</field>
+      <field name="composition_era_facet">16th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.0478.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">[1557]</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:463313</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">A breefe balet touching the traytorous takynge of Scarborow Castell ; [by John Heywood</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">A breefe balet touching the traytorous takynge of Scarborow Castell ; [by John Heywood</field>
+      <field name="title_facet">breefe balet touching the traytorous takynge of scarborow castell</field>
+      <field name="title_sort_facet">breefe balet touching the traytorous takynge of scarborow castell</field>
+      <field name="title_text">A breefe balet touching the traytorous takynge of Scarborow Castell ; [by John Heywood</field>
+      <field name="year_display">[1557]</field>
+      <field name="year_facet">1557</field>
+      <field name="year_multisort_i">1557</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:463313&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:463313&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Heywood, John, 1497?-1580?&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;heywood john 1497 1580 &lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A breefe balet touching the traytorous takynge of Scarborow Castell ; [by John Heywood&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;breefe balet touching the traytorous takynge of scarborow castell&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;[1557]&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1557&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Heywood, John&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1497&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1580&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A breefe balet touching the traytorous takynge of Scarborow Castell&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;[by John Heywood]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Imprinted ... by Tho. Powell&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;[1557]&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp1737&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;[1 sheet]&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A breefe balet touching the traytorous takynge of Scarborow Castell&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;[by John Heywood]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 12 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Majority of verse reproduced elsewhere in The English Poetry Full-text Database; only unique items included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">A breefe balet touching the traytorous takynge of Scarborow Castell. Oh valiaunt inuaders gallant? gaie. Who, with your compeeres conqueringe the route, Castels or towrs: all standynge in your waie, Ye take, controlling all estates most stoute. Yet had it now bene good to looke aboute. Scarborow castel: to haue let alone, And take scarborow warnynge euerichone. By Scarborow castell, not Scarborow: I onely meane: but further vnderstande, Eche Hauene, eche hold, or other harborow, That our good Kyng and Queene do holde in hande: As dewe obedience bindth vs in bande. Their Scarborow castels to let alone, And take Scarborow warning? euerychone. The scalers of which castells euermore, In bookes of olde, and in our eyes of new: Haue alway lost them selues and theirs therfore. All this ye did forget: in time to vew. Which myght haue wrought both you and yours teschew: Lettyng Scarborow castel now alone, Takyng Scarborow warnyng euerychone. This Scarborow castell, symplie standyng: Yet could that castell slyly you begyle, Ye thought ye tooke the castell: at your landyng: The castell takyng you: in the selfe whyle. Eche stone within the castell wall did smyle, That Scarborow castell ye let not alone, And tooke Scarborow warnyng euerychone. Your puttyng now in vre your dyuylishe dreame, Hath made you see (and lyke enough to feele) A fewe false traytours can not wynne a reame, Good subiectes be (and will be) trew as steele. To stand with you, the ende they lyke no deele. Scarborow castels they can lette alone, And take Scarborow warnyng? euerychone. They know god? law: tobey their Kyng and Queene. Not take from them: but kepe for them their owne. And geue to them: when such traytours are seene As ye are now: to brynge all ouerthrowne: They woorke your ouerthrow, by god? power growne, God saith: let Scarborow castell alone, Take Scarborow warnyng euerychone. To late for you, and in time for the rest Of your most traytorous sect (if any bee) You all are spectacles at full witnest: As other weare to you: treason to flee. Which in you past, yet may the rest of yee: The saide Scarborow castells let alone, And take Scarborow warnyng? euerychone. This terme Scarborow warnyng, grew (some say) By hasty hangyng, for rank robbry theare. Who that was met, but suspect in that way, Streight was he trust vp: what euer he weare. Wherupon theeues thynkyng good to forbeare, Scarborow Robbyng they let that alone, And tooke Scarborow warnyng euerychone. If Robbyng in that way, bred hangyng so, By theft to take, way, towne, castell and all, What Scarborow hangyng craueth this lo? Weare your selues herein Iudges capitall: I thinke your Iudgementes on these woord? must fall. Scarborow Robbyng who letth not alone, Scarborow hangyng deserue euerychone. We wold to god that you (and al of yow) Had but considered: as wel as ye knew: The end of all traytorie, as you see it now, Long to haue liued, louyng subiectes trew. Alas: your losse we not reioyse, but rew. That Scarborow castell ye leete not alone, And tooke Scarborow warnyng euerychone. To craft? that euer thryue, wyse men euer cleaue. To crafts that seeld when thryue, wyse men seeld when flee. The crafts that neuer thryue, a foole can learne to leaue. This thriftles crafty crafte then clere leaue we. One God, one Kynge, one Queene, serue franke and free. Their Scarborow castell let it alone, Take we Scarborow warning euerichone. Our soueraigne lord: and soueraigne lady both. Lawde we our lorde, for their prosperitee. Beseching him for it: as it now goth, And to this daie hath gone, that it may bee: Continued so, in perpetuitee. We lettyng theyr Scarborow castells alone, Takyng Scarborow warnings euerychone, ? I. Heywood. Finis</field>
+   </doc>
+</add>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Burgh, Benedict</field>
+      <field name="author_facet">Burgh, Benedict</field>
+      <field name="author_sort_facet">burgh benedict</field>
+      <field name="author_text">Burgh, Benedict</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1890's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.1294.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1892</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:463865</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">A Christemasse game</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">A Christemasse game</field>
+      <field name="title_facet">christemasse game</field>
+      <field name="title_sort_facet">christemasse game</field>
+      <field name="title_text">A Christemasse game</field>
+      <field name="year_display">1892</field>
+      <field name="year_facet">1892</field>
+      <field name="year_multisort_i">1892</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:463865&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:463865&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Burgh, Benedict&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;burgh benedict&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A Christemasse game&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;christemasse game&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1892&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1892&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Burgh, Benedict&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Christemasse game&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Halle&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Max Niemeyer&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1892&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp0629&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;viii, 501, 72 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Christemasse game&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 11 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only commendatory poem by Burgh included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">A Christemasse game made by maister Benet howe god almyghty seyde to his apostelys and echon off them were baptiste and none knewe of othir &amp;c. S????us petrusPetir . petir prynce of aposteles all Primat of the chirche and gou??nore Of the fflokke . O pastor principall Which for my love suffridest dethes showre Come have thy mede ordeyned for thy laboure Come on petir syt downe at my knee Here is a place preparate for the. S?????? paulusDoctour of Jentiles o p??fite paule By grace conu??tid from thy grete erroure And cruelte chaunged to paule fro sawle Of fayth and trowth moost p??fyte p??choure Slayne at Rome vndir thilke emp??oure Cursyd Nero . paule sit downe in this place To the ordeyned by purveaunce of grace. S?????? Joh???esJon the wangelyst o virgyn pure Ffor thy clennesse and pure virginite Crystes Moder was c?mytte to thy cure Exiled to pathmos thurgh cruelte wrote the booke of goddis privitee Of boylyng oyle venquysshing the heete Com sit downe John this place for the is mete. Sanctus AndreasAndrewe myldist of othir seyntys all To whom for meekenesse and mansuetude All worl[dl]y swetnesse semed bitt?? gall Whos lustis all thowe dyd pleynly exclude And in the crosse vndir Egeas roode Thowe suffrydeste deth remembring my passion Come nere andrew to receyve thi guerdoun. Sanct. BartholomeusBlessid Barthylmews Hevens blisse to wynne Aftir grete passion and bittre tormente O myghty martir right owte of thyn owne skynne Thow were torne and cruelly to rent ffor thy constaunce cowde not from feith be bent Of rightwisnesse thi laboure most be qwytte Come Barthilmewe and right downe here thow sitte. Sanctus ThomasThomas . Thomas that suffridest deth mynde Persid with a spere the feith for to susteyne Harde of beleeve but yff thow did vnkynde By thyn hardnesse from mys bylevys cleyne Many a sowle aue so kept hem fro peyne Syt downe therfore here in this bath of blisse Welcome Thomas welcome to me y wis. Sanctus SimonSeynte Simon thow dyd the feith reherce Taught my lawe and prechyd my doctrine Vnto the peple of the Reame of perce Wher to the deth they dydden the diffyne Therfore Simon by purviaunce divine Right here with me shall be thy dwellyng place Sit downe simon in the see of grace. Sanctus MathiasMathy chosen yn by very sort and grace Vnto the n?bre of Apostolacye Whan cursid Judas / has forsake his place Thurgh his falshede and wrecchyd trechery Thy p??fite lyfe brought the to p??lacye Thy blyssyd lif and p??fite gou??naunce Vnto this seete shall the now avaunce. Sanctus JacobusJames brother to John my ffrend so dere Preching my peeple in the lande of ynde Vnder hermogenes martyred thow were Thy counstaunce shall neu?? be sette be hynde Of hevens blysse thowe shall all ffoysen fynde Come sitte downe heere right in this place of blisse Which for thy mede to the ordayned is. Sanctus PhilippusPhilippe thowe preched peple of Sythye By p??fyte doctrine the feith to susteyne In trewe byleeve howe they shuld multyplye Ammonyshing theire erroure to restreyne Wherfore there thowe suffryd passion and peyne And for thy passyon and sufferaunce Come sitte downe here in this place of plesaunce. Sanctus BarnabeBlessed Barnabe electe by grace divine To be oon of the chosen companye And sitte vpon the seetes twelfe in kyne Of thi tri?phe laureat and victorie Come and receive reward of glorie Come sitte here in this seete celestiall ffor reward of thi palme victoriall. Sanctus MatheusMathewe thow scribe of truth and verite labouryng in the wyne of Scripture Wyne of doctrine broching gret plente By grete tribulacion and reddure Suffrid passion worthi to endure Et??nally in blisse for thy greete constaunce Come and reioice thyne owne inheritaunce.</field>
+   </doc>
+</add>

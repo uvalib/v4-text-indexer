@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Benson, Arthur Christopher, 1862-1925</field>
+      <field name="author_facet">Benson, Arthur Christopher, 1862-1925</field>
+      <field name="author_sort_facet">benson arthur christopher 1862 1925</field>
+      <field name="author_text">Benson, Arthur Christopher, 1862-1925</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1900's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_3.2165.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1900</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:467278</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Greek, Modern (1453- )</field>
+      <field name="main_title_display">The professor and other poems ; by Arthur Christopher Benson</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 20th century</field>
+      <field name="subject_text">English poetry -- 20th century</field>
+      <field name="title_display">The professor and other poems ; by Arthur Christopher Benson</field>
+      <field name="title_facet">professor and other poems</field>
+      <field name="title_sort_facet">professor and other poems</field>
+      <field name="title_text">The professor and other poems ; by Arthur Christopher Benson</field>
+      <field name="year_display">1900</field>
+      <field name="year_facet">1900</field>
+      <field name="year_multisort_i">1900</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:467278&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:467278&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Benson, Arthur Christopher, 1862-1925&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;benson arthur christopher 1862 1925&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The professor and other poems ; by Arthur Christopher Benson&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;professor and other poems&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1900&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1900&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Benson, Arthur Christopher&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1862&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1925&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The professor and other poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;by Arthur Christopher Benson&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;John Lane The Bodley Head&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1900&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp0398&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;gre&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;vii, 110 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The professor and other poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;by Arthur Christopher Benson&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 26 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted; verse reproduced elsewhere in The English Poetry Full-text Database omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">???? ?????? ??????? ???? ??????</field>
+      <field name="fulltext">TO MY SISTER MARGARET I DEDICATE THIS BOOK The Professor Some of the poems from this sequence are reproduced elsewhere in English Poetry; only unique items are included. 4 BY THE FIRE Strange spirits are abroad to-night; They shadow my contented mood; The hearth is clean, the lamp is bright, Yet nought seems equable or good. The sighing spirit sits alone, And dreams her dearest hope is vain. With dumb unreasonable moan She brims and drains the bowl of pain. As he that in some ancient fray, Far off, in legendary years, Flung hauberk, shield, and helm away, And gathered in a hundred spears. She sees the end of every quest Is weariness and little good; And all she dreamed of loveliest A phantom of the leaping blood. Decay or swift disease may seal These vivid senses, one by one; These windows, whence the soul can feel The moving air, the steady sun. Meanwhile in some sequestered cell The dumb and sightless soul is pent; Inly immured, and guarded well In dreamless, passionless content. This body dies to rise again In other forms, in beast and tree; But where at length, when nerve and brain Are wasted, shall the spirit be? 5 AT THE LABORATORY WINDOW O subtle and secret change, that over the world art sped, Wafted out of the South on the warm wind's delicate wing; See, my metallic worm uplifts his elated head, Crawls in his glassy prison, and throbs with the pulse of spring. Ay, there is something more than the metrical march of days! Life, like a drowsy sleeper, is restless and fain would wake; And the shy heart leans and listens to hear what the spring wind says, When the low-hung mist dissolves, and the infinite glories break. So to my garden I creep, like a truant boy to his game, Snatching a heightened joy from duty that waits to be done; And a sudden hope is born, and leaps in my heart like flame, Watching my springing bulbs, and telling them one by one. Hooded and muffled close, they creep, like ghosts, to the day, Parting the wind-dried crust, their desolate winter bed, And lo, in the shattered urn, so weathered and old and grey, A delicate snowdrop pushes, and droops her serious head. 7 SURRENDER I, in my chill and celibate content, Have little claim to murmur: but I pine To feel a warm hand tremble into mine, And loving lips above my forehead bent; And yet my dreams are charged with high intent To do, to be, to suffer; to refine My troubled thought, till these thin strains combine With larger themes, in airy concord blent. Ah, but I miss the human utterance, That yearning, as the magnet for the pole, Still wavers, till the secret current set Towards its true home: in indolent regret I linger: could I break the sickly trance! And in one fierce surrender, find my soul! 11 AT WORK O fickle hand, how indolent thou art! O vacant eyes, how idly ye observe! What thoughts are these that make my foolish heart From its dry purpose swerve? Shall I, who hardly reached the rugged heights Which others only dream of, shall I lend This hoarded strength to transient delights, Delay, return, descend? Shall I, the first to tread this silent land, Whose glimmering paths lead upwards unexplored, Shall I abjure the conquests I had planned, Let fall the flashing sword? Within what shameless horrors have I pried, In cells where law from conscience sits apart! Only, it seems, I have not classified The secrets of the heart. A woman's heart;—I know, in grim array, Each delicate vein, each ordered ligament, But ne'er descried the dim and secret way The rapturous message went. I seem, methinks, untimely lingering here, Too tender-hearted, touched with vague surmise; Shall I grow mild and maidenly, and fear My victim's piteous eyes? Nay, more relentless! Could I wrest from life One secret more that should my purpose serve, A thousand brutes should feel my icy knife Prick through each tingling nerve. My purpose? Ah! the shame! I care not now For chill humanity, its loss and gain, I only dream to spare one gentle brow The lightest touch of pain. 15 THE ROSEBUD I think the rosebush shyly pressed Her fragrant head against my breast; It jarred across my busy mood, My grim and serious solitude; And yet so sweet and soft it seemed, Such tender incense towards me streamed, I plucked and wore it; while I plied My task, alone and heavy-eyed, It seemed to nestle, soft and warm, Above my heart, beside my arm, And now, this morning, languid grown, These sorry petals must be thrown To some sad heap of tumbled things, With sightless eyes and shattered wings, To moulder into dust, beneath The rich and fervid hands of death. That is your story! now to sleep! Yet some unslumbering memory keep Of him whose spirit, rude and sour, You sweetened through one patient hour. For, Rose, to suffer, and to share The heritage of man's despair, Gives eyes, and souls, and almost wings To lifeless dust and soulless things. Enough! the fatal hour is sped Above your pure and drooping head; The secret of the dark who knows? You know it, may not tell it, Rose. 16 AFTER THE INTERVIEW A gracious and tender spirit Has bent from her starry sphere. What was there in me to merit A gift so daring and dear? Did she pity me, dark and lonely— So rich, did she yearn to bless A heart that aspired not, only Was fainting for weariness? I seemed, as I sat beside her, So angular, harsh, and grim, As lean as a dusty spider That swings in his cordage dim. Tenderness or compassion? Whichever it was, 'twas sweet, As I flung, in my awkward fashion, A dreary heart at her feet. Glory and grace attend her, Worship and hope most dear, That spirit, gracious and tender, Who bent from her starry sphere. 18 THE REWARD Love unashamed, divine, O, hidden from peering eyes, Blindly I traced thy course, and heedlessly touched thy hand, Slowly the mist rolls back from the infinite centuries, Back to the secret of God, and the door of the silent land. Twain in the ancient garden together, a man with a maid, Pace in the field, waist-deep in aster and golden-rod; And lo, One walks in the cool, in the immemorial shade;— Hushing their eager talk they hear the footfall of God. I too have heard him pass, but out in the desolate wild, Crushing the ancient bones that rattle about his feet, Under the dark ravines where the horrible crags are piled, Out in the hissing surges that under the precipice beat. There, in a silent horror, I stumbled along his track, Down to his desperate den, with frenzy and raging shame, And the toppling ice-crags roared, and the loud caves thundered back, When in the awestruck silence I shuddered, and cried his name. Courage, O timorous heart! too long hast thou made complaint, Crying in desolate places and under the heedless night, Crying, importunate, shrill,—but only an echo faint Rang on the black-ribbed ledge, and under the hollow height. So with my pride outworn, my stubbornness over-thrown, Humble in hope, I learn what the pure in spirit see, Guessing from one soft heart that nestles against my own, All the desire of the world, and the hope of the years to be. Wherefore I stretch my hand, as a child in a darkened room Clutches affrighted, and laughs to feel the encircling arm; So I bend to the night, and smile in the starlit gloom, Smile as the stars fade out, and the dawn comes tender and calm. 22 PERPLEXITY Nay, there is something, something! she was sad And silent; 'twas to pleasure me she smiled, More like a child that suffers, a brave child, Than one whose heart was virginal and glad. It seems as though there were some secret shrine She dares not yet surrender: “Here, and here,” She saith, “He shall be welcome; he is dear And honoured;—yet my inmost heart is mine.” So one may linger by a minster-door, When lawn and glaring roadway swim with heat, And through the barred gate see the glimmering vault, Cool marble tombs, and dim sepulchral floor, And read he may not enter, may not halt A moment there, where all is still and sweet. 23 THE DOUBT A sudden traitorous terror leaps Out of the darkness on my heart, And stabs it through and through, and creeps Some space apart, That should the helpless fallen thing Stir hand, or moan to feel its pain, With frenzied passion it may spring, And smite again:— Is then this heart of mine too weak To bear the wilful rush of joy, Sharp ardours, such as pale the cheek Of girl and boy? I know not;—faint and shuddering I from my dreams of bliss am hurled, As that barbaric reckless king, Who swayed the world, Yet saw, beyond the riotous band, Across the rich uproarious room, The crawling shadow of the Hand That wrote his doom. 24 SILENCE Grave, indifferent, slow, Over the sodden sand, Wave after wave, as I go, Flounces and arches stiff, Then, like a hollowed hand, Flaps, and the thin tides run In a blanket of foam to the cliff, Under a shrouded sun. Wearily on as I go, Day upon tedious day Beats on the jaded nerve, Morning and noon and night, Swells in a sluggish curve; Crimson to crimson light Flares, and the sick hours flow, Dull, monotonous, gray. 26 COURAGE I have been brave in my way, Though men did not call me brave; They deem that I creep away, If ever a pennon wave Over the flashing fray. Yet I have lain through the night Shuddering, open-eyed, Straining my aching sight To see what leant at my side, Angel or sullen sprite. Then in the haggard day,— Cruel and cold it shone,— Sighing in sad dismay, I bind my armour on; I have been brave, I say. 27 FAREWELL Let me say one latest word, Let me touch but once your hand,— It seems that I have erred;— Ah! I understand. My darling, 'tis not you That I blame, the dream you dreamed, Those eyes of tearful blue, That were mine, it seemed: You were dazzled by the praise I had won, by the fame That decks my dreary days, As the gilded frame That girds a haggard face, And a withered hand, Lending a hollow grace:— Ah! I understand. But the sudden radiance flits, And you see across the gloom The dry old soul that sits In his dusty room. I have lived so long with death, With hereafter and before, That I breathe the icy breath Of the further shore. A ray of gracious light On my tubes and phials played, On the lancets keen and bright Of my savage trade. Would I prison it? Not I! Let it wander hence afar; Let it seek the happy sky, And its native star. This is my answer, this: See, I loose your pitying hand, I ask no word, no kiss, And I understand. 28 PATIENCE The flower must sicken on the tree Before it change; The doom that seems so strange to thee Is not so strange; Hearts before thine have felt their thrill Grow faint and thin, Have deemed the blackening wave too chill To venture in. Eyes, sad as thine, have wondered why They wondered not, When elders whitened, and on high Clear suns were hot. In thy sick veins no more the air Runs sharp as wine? Look round thee: thou wilt find despair More dark than thine. 29 THE LETTER Nay, nay, my sweet; it is not well That thou should'st sorrow: ah, be free! I did but loose the piteous spell, And gave thee back thy liberty, And thou shalt find some gracious mate To worship thee, to bend above, More apt than I to dedicate His gallant prowess to thy love; And when some tender voice shall name Thee “Mother,” from thy guarded nest, I too will come, and softly frame A blessing on the trebly-blest; And thou shalt think of me as one Whose soul, in days far-off yet dear, Thou didst irradiate, as the sun Who, circling in his statelier sphere, Awakes, by some sequestered stream, A flower, that in his narrow tomb Had slept in blind despair, to dream Of sweetness, and be crowned with bloom. It blooms, it flushes; though the dew Upon its tender leaves be wet, It knows the source from whence it drew Its sweetness, and shall draw it yet. 30 THE DIARY I wander in dark ways Of hope and strength bereft, Yet I give my Lord the praise For the little that is left. I have set a thorny fence Betwixt me and the light: Outside are innocence And all things free and bright; Sweet face that smiled on me, Hands that my path might guide! Will they not let me be? They are all outside, outside. It is Thy pleasure then That the heart of flesh should fail? Thou didst engender men To be desolate and frail. Merge into rapturous pain This dreary, desperate woe, Break, break, uncertain chain, Let the tortured spirit go!</field>
+   </doc>
+</add>

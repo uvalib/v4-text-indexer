@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Percy Bysshe Shelley</field>
+      <field name="author_facet">Percy Bysshe Shelley</field>
+      <field name="author_sort_facet">percy bysshe shelley</field>
+      <field name="author_text">Percy Bysshe Shelley</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/SheDevL.xml</field>
+      <field name="date_indexed_facet">201909240358</field>
+      <field name="date_text"/>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476366</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Devil's Walk [Letter Version</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">The Devil's Walk [Letter Version</field>
+      <field name="title_facet">devils walk letter version</field>
+      <field name="title_sort_facet">devils walk letter version</field>
+      <field name="title_text">The Devil's Walk [Letter Version</field>
+      <field name="year_display">January, 1812</field>
+      <field name="year_facet">January, 1812</field>
+      <field name="year_multisort_i">1812</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476366&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476366&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Percy Bysshe Shelley&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;percy bysshe shelley&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Devil's Walk [Letter Version&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;devils walk letter version&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Percy Bysshe Shelley&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="Editor Editor"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Devil's Walk [Letter Version]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;British Library Add. MS. 37,496, f.80 verso&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;January, 1812&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="callNo"&gt;Print copy consulted:&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;[from Reiman and Fraistat]: This is a literal transcription of the text in the British Library Add. MS. 37,496, f.80 verso, except</field>
+      <field name="desc_meta_file_display">that letters partially worn away by damage to, or repair of, the paper have been included as if whole</field>
+      <field name="desc_meta_file_display">and the line-indentations that Shelley seems to have intended have been accentuated.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Devil's Walk (Letter version)&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 25 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">The Devil's Walk [Letter version] 01The Devil went out a walking one day,02 Being tired of staying in Hell03 He dressed himself in his Sunday array04 And the reason that he was drest so gay05 Was to cunningly pry, whether under the sky06 The affairs of earth went well 07 He poked his hot nose into corners so small08 One wd. think that the innocents there09 Poor creatures were just doing nothing at all10 But settling some dress or arranging some ball11 --The Devil saw deeper there 12 He peeped in each hole, to each chamber stole13 His promising live-stock to view14Grinning applause, he just shews his claws15 And Satan laughed in the mirth of his soul16 Thatthey started with fright, from his ugly sight17 Whose works they delighted to do 18 A Parson with whom in the house of prayer19 The devil sate side by side20 Bawled out that if the devilwere21 His presence he couldnt abide,trick22 Ha ha thought old Nick,thats a very stale2123 For without the Devil,23 favorite of evil24 In thy carriage thou wouldst not ride 25He saw the Devil a viper slay26 Under his brief-covered table27 It reminded the Devil marvellously28 Of the story of Cain and Abel 29Satan next saw a Brainless King30 In a house as hot as his own31 Many imps he saw near there on the wi[ng]32 They flapped the black pennon andtwiste[d] the sting33Close to the very throne 34 Ah! Ah cried Satan the pasture is go[od]35 My cattle will here thrive better than oth[ers]36 They will have for their food, news of humans blood37 They will drink the groans of the dying &amp; dead38 And supperless never will go to bed39 Wch. will make 'em as fat as their brothers. 40 The Devil was walking in the Park41 Dressed like abond Street beau42For altho his visage was rather dark43And his mouth was wide his chin came out44 And something like Castlereagh was his snout45 He might be calld so, so . . 46 Why does the Devil grin so wide47 &amp; shew thehore teeth within48 Nineand ninety on each side49 By the clearest reckoning_</field>
+      <field name="fulltext">This part of the editorial apparatus for P.B. Shelley's The Devil's Walk is slightly modified from the way it will appear in The Complete Poetry of Percy Bysshe Shelley, edited by Donald H. Reiman and Neil Fraistat and published by The Johns Hopkins University Press. Listed here are the variants from Wise, 1927/i, 1927/viii, 1964J, 1972, and 1989 for the letter version of the poem. For full citations of the historical (i.e. not primary) editions, see the bibliography. We have omitted from our comprehensive collation all variants that seem to us purely formal features of the printers or publishers involved in these editions, such as the length of indentions, the use of full capitals, small caps, and italic or Gothic type in the titles and subtitles-a practice at one time subject to the fonts available in a print-shop or the conventions of its compositorial staff and more recently under the control of publishers, book designers, and copy-editors. In a like manner, when quotation marks have been added, we have not differentiated between single and double quotation marks. Instead, we treat both as double quotes unless evidence suggests an editorial rather than typographical explanation for the appearance of the single quotes. Letter Variants These are variants from Wise, 1927/i, 1927/viii, 1964J, 1972, and 1989. Note:   The letter version appears once in volume 1 and again in volume viii of Ingpen's &amp; Peck's 1927 edition of The Complete Works of Percy Bysshe Shelley.  We collate each below under the sigla 1927/i and 1927/viii. Title.The Devil's Walk] The Devil's Walk I 1972 Stanzas numbered with roman numerals Wise 1927/i 1927/viii. line 1. a walking ] a-walking Wise 1927/i 1927/viii 1972 day ] day, Wise 1927/i 1927/viii 1972 line 2. Hell ] Hell. Wise 1927/i 1927/viii 1972 line 3. array ] array; Wise 1927/i 1927/viii 1972 line 4. drest ] dressed Wise 1927/i 1927/viii 1972 line 5. pry, whether ] pry whether 1972 pry | Whether Wise 1927/i 1927/viii line 6. well ] well. Wise 1927/i 1927/viii 1964J 1972 line 7. small ] sma[ll] 1964J line 8. wd. ] would Wise 1927/i 1927/viii 1972 wd. 1964J 1989 there ] there, Wise 1927/i 1927/viii 1972 ther[e] 1964J line 9. creatures ] creatures! Wise 1927/i 1927/viii creatures, 1972 all ] all, Wise 1927/i 1927/viii a[ll] 1964J line 10. dress ] dress, Wise 1927/i 1927/viii 1972 ball ] ball: Wise 1927/i 1927/viii 1972 ba[ll] 1964J line 11. -The ] The Wise 1927/i 1927/viii 1972 there ] there. Wise 1927/i 1927/viii 1964J 1972 line 12. stole ] stole, Wise 1927/i 1927/viii 1972 sto[le] 1964J line 13. view ] view. Wise 1927/i 1927/viii 1972 line 14. Grinning ] Receiving 1989 applause, he] applause | He Wise 1927/i 1927/viii 1972 shews ] shows Wise 1927/i 1927/viii 1972 claws ] claws: Wise 1927/i 1927/viii 1972 claw[s] 1964J line 16. fright, ] fright 1972 fright, from ] fright | From Wise 1927/i 1927/viii his] his Wise 1927/i 1927/viii 1964J 1972 1989 line 17. do ] do. Wise 1927/i 1927/viii 1964J 1972 1989 line 18. whom ] whom, Wise 1927/i 1927/viii 1972 prayer ] prayer, Wise 1927/i 1927/viii 1972 praye[r] 1964J line 19. devil ] Devil Wise 1927/i 1927/viii 1972 sate ] sat 1964J side ] side, Wise 1927/i 1927/viii 1972 line 20. that ] that, Wise 1927/i 1927/viii 1972 devil ] Devil Wise 1927/i 1927/viii 1972 were ] were [there], Wise 1927/i 1927/viii 1972 were [there] 1964J 1989 line 21. couldnt ] couldn't Wise 1927/i 1927/viii 1972 abide, ] abide. Wise 1927/i 1927/viii 1972 line 22. Ha ha ] "Ha ha!" Wise 1927/i 1927/viii 1972 old ] Old Wise 1927/i 1927/viii 1972 Nick, thats ] Nick,- | "That's Wise 1927/i 1927/viii 1972 trick ] trick: Wise 1927/i 1927/viii 1972 line 23. For ] For, Wise 1927/i 1927/viii 1972 ô ] O 1964J 1972 Devil, ô] Devil, | O Wise 1927/i 1927/viii favorite ] favourite Wise 1927/i 1927/viii 1972 evil ] evil, Wise 1927/i 1927/viii 1972 line 24. ride ] ride!" Wise 1927/i 1927/viii 1972 ride. 1964J line 25. the Devil ] the Devil [? a Lawyer] Wise 1927/i 1927/viii 1964J a Lawyer 1972 the Devil [for a lawyer] 1989 line 26. table ] table: Wise 1927/i 1927/viii 1972 line 28. Abel ] Abel. Wise 1927/i 1927/viii 1964J 1972 line 29. Brainless] brainless Wise King ] King, Wise 1927/i 1927/viii King; 1972 line 30. In ... own] Many imps he saw there on the wing: Wise own ] own. 1927/i 1927/viii 1972 line 31. Many ... wi[ng] ] In a house as hot as his own. Wise wi[ng] ] wing: 1927/i 1927/viii 1972 win[g] 1964J wing 1989 line 32. pennon ] pennon, Wise 1927/i 1927/viii 1972 and ] &amp; 1989 twiste[d] ] twisted Wise 1927/i 1927/viii 1972 twirle[d] 1989 sting ] sting, Wise 1927/i 1927/viii 1972 line 33. throne ] throne. Wise 1927/i 1927/viii 1964J 1972 line 34. Ah! Ah ] "Ah ah!" Wise 1927/i 1927/viii 1972 Satan ] Satan, Wise 1927/i 1927/viii 1972 the ] "the Wise 1927/i 1927/viii 1972 go[od] ] good! Wise 1927/i 1927/viii 1972 good 1964J 1989 line 35. here ] here Wise 1927/i 1927/viii 1964J 1972 1989 oth[ers] ] others! Wise 1927/i 1927/viii 1972 others 1989 line 36. food, ] food 1972 food, news ] food | News Wise 1927/i 1927/viii humans ] human Wise 1927/i 1927/viii 1964J 1972 1989 blood ] blood: Wise 1927/i 1927/viii 1972 line 37. &amp; ] and Wise 1927/i 1927/viii 1972 dead ] dead, Wise 1927/i 1927/viii 1972 line 38. bed ] bed, Wise 1927/i 1927/viii 1972 line 39. Wch. ] Which Wise 1927/i 1927/viii 1972 Wch. 1964J Wch 1989 brothers. ] brothers." Wise 1927/i 1927/viii 1972 line 40. Park ] Park, Wise 1927/i 1927/viii 1972 line 41. bond ] Bond Wise 1927/i 1927/viii 1972 beau ] beau: Wise 1927/i 1927/viii 1972 line 42. For altho ] Nor, tho' Wise 1927/i 1927/viii 1972 Nor tho 1964J For tho 1989 dark ] dark, Wise 1927/i 1927/viii 1972 line 43. wide ] wide, Wise 1927/i 1927/viii 1972 out ] out, Wise 1927/i 1927/viii 1972 line 44. snout ] snout, Wise 1927/i 1927/viii 1972 line 45. calld ] called Wise 1927/i 1927/viii 1964J 1972 so, so . . ] so-so. Wise 1927/i 1927/viii 1972 so, so. 1964J 1989 line 46. wide ] wide, Wise 1927/i 1927/viii 1972 line 47. &amp; ] And Wise 1927/i 1927/viii 1972 shew ] show Wise 1927/i 1927/viii 1972 hore ] horse Wise 1927/i 1927/viii 1972 [? horse] 1964J Iron 1989 within ] within?-Wise 1927/i 1927/viii 1972 line 48. Nine and ninety ] Nine-and-ninety Wise Nine &amp; ninety 1989 side ] side, Wise 1927/i 1927/viii 1972 line 49. reckoning _ ] reckoning! Wise 1927/i 1927/viii 1972 reckoning-1964J 1989</field>
+      <field name="fulltext">Annotations (Letter Version) lines 1-28. Here we transcribe the original manuscript in Shelley's mid-Jan. 1812 letter to Elizabeth Hitchener (British Library Add. MS. 37,496, f. 80 verso); there is a facsimile of the portion of that letter containing this poetic text, together with another literal transcription, in MYR: Shelley, VIII (1996), ed. D.H. Reiman &amp; M. O'Neill. Although the text of these stanzas in F. L. Jones's Letters (I, 235 37) places some characters at the ends of the first 28 lines within brackets, as though they were illegible or missing from the right-hand edge of the manuscript page, the only damage and repair that actually affect these lines is along the fold of the letter paper at the left-hand edge of the column of poetry, at the beginnings of those lines. Jones must, therefore, have relied upon an imperfect photocopy of the manuscript. line 6. earth: the initial e may be a capital letter, written minutely. line 14. We think the first word is more likely Grinning (as the editors of the letters have it) than "Receiving" (1989). M. O'Neill, when transcribing the MS for MYR: Shelley, VIII, was dubious about the reading and left "Receiving" in the text, while discussing his doubts in a note. line 16. Shelley first underscored they, and then canceled the underline.line 20. Shelley left a blank after were to be filled later, presumably by a word rhyming with prayer (18).line 21. Both the caret and the raised placement of the word "trick" indicate that Shelley added this word later.line 22. thats (sic).line 23. While MS BL does have a small o with a ^ above it, the significance of this marking is not clear. lines 25-28.This is the stanza that Shelley directly recollected (though perhaps unwittingly) from The Devil's Thoughts (see note to lines 84-87 of the Broadside). In the letter version, however, Shelley miswrote the Devil for "a lawyer" in line 25; in 26 his is superimposed on the. line 29. Beginning with this line, Shelley continued his writing on the opposite side of the address panel; from here on, the repair to the worn fold is along the right-hand edge of the text, where the damage does affect the final letters of some words. line 32. twisted: though 1989 reads this word as "twirled" (and emends twisted in the final text to "twirled" as a possible typo), the crucial letters seem to us to be st.line 35. here: though Shelley clearly underscored the word for added emphasis, the short line he made does not actually underscore all four letters.line 36. humans: Shelley canceled the terminal "s" in his draft.line 39. The space between "brothers" and the period at the end of the line retains the original spacing found in the MS BL.line 41. bond Street beau (sic).line 42. For: this word might be read as "Nor" were there not an identical For at the beginning of line 23; altho: first two letters are canceled. lines 43-44. Shelley, the son of an M.P., had probably seen Castlereagh in person and would certainly have known political caricatures of him.line 47. hore (given as "horse" in 1926 [Julian, Letters ], 1964J; "Iron" in 1989): this Germanic word comes directly from Old English. The Oxford English Dictionary gives it only as an obsolete noun meaning "Dirt, filth, defilement, foulness"; though the noun had clearly dropped out of use because of its closeness to "hoar" and "whore," Shelley here uses it adjectively, meaning filthy or foul, a usage that may have persisted in rural Sussex.line 48. and: written minutely and unclearly, but not "&amp;" (as in 1989).</field>
+   </doc>
+</add>

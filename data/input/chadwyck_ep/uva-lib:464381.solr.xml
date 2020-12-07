@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Lauder, George</field>
+      <field name="author_facet">Lauder, George</field>
+      <field name="author_sort_facet">lauder george</field>
+      <field name="author_text">Lauder, George</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1850's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.1924.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1853</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464381</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">The soldiers wishe</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">The soldiers wishe</field>
+      <field name="title_facet">soldiers wishe</field>
+      <field name="title_sort_facet">soldiers wishe</field>
+      <field name="title_text">The soldiers wishe</field>
+      <field name="year_display">1853</field>
+      <field name="year_facet">1853</field>
+      <field name="year_multisort_i">1853</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464381&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464381&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Lauder, George&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;lauder george&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The soldiers wishe&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;soldiers wishe&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1853&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1853&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Lauder, George&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The soldiers wishe&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Edinburgh&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed by John Wreittoun&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1853&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp2164&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;286 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The soldiers wishe&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 16 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only poem by Lauder included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Sunt Artibus Arma Decori. TO HIS FELLOW SOVLDIERS. Brave Fellowes vnto you whom honours love, Hath drawn from soft down-beds to sweat in armes, And whom our King and Countries cause doth move To warre: whilst worth your Noble courage warmes, I send my Wishe, which if you doe accord, I am Your humble Servant, Hand and Sword. LAVDER. THE SOVLDIERS WISHE. Hence fond desires of Love, out of my brest, I am not with such follies now possest As earst, when waiting on a womans will, We thoght it Heaven to stare a Beautie still, And joy'd in errours maze (blind foole) to wander Slave to a peevish fæmenine Commander. My houres of sleepe, are now no more mis-spent In painfull studie how to compliment, Nor doe I doating sitt with down-cast eyes To dreame on Sonnets or sad Elegies: Which may vnfold my love, and loving paine To a fierce Faire who doth my sute disdaine. A better Genius doth my thoughts direct Than such soft fancies pleasure to affect. Honour and fortunes love my heart enflame, Through dangers, yea and death, at that I ayme: The trumpet sounds more sweetlie in mine eare, Than any Ladyes lute that I can heare, And I do thinke no daunce doth so become As to keepe marching measure with the drum, I find more sweet content in my vnrest, Than when I feemed to love my follyes best. And now can sleepe as sound vpon the ground As ere I did vpon the softest dovne. When backward on my life already past, The eyes of Reason I beginne to cast, O how I blushing rage! and shame to see That painted showes should haue seduced mee. Vaine Idoles which did take my gazing eyes, And stayed my vnstayd youth in vanities. But I abhorre them now; and thanke my Fate, Which fred mee from their snares, how ever late. For when I doe but thinke what I haue beene, How I have lived as the World hath seene; What fancies fittes, desires, despaires, hopes, fears, My selfe haue felt alone; how many teares, Nights shads haue known me shed: what cloaths disguise The Day hath seene mee weare of sundrie dyes, What new-affected phrases I found out, What apish walkes and gestures; strange salute, I laugh for anger, and misdoubt almost My selfe: If I bee hee was so neere lost. And wondring how I did escape my fall, To which I ranne, not heeding Reason's call, I cannot thinke that I was borne, I vowe, Till I begunne the life which I lead now. All those delights which once I held so deare Compar'd with present pleasure, doe appeare Poore childish toyes: The sent of musk and amber, The wanton dalliance in a ladies chamber, Smell not so sweet into my nose as smoake Of match and powder when two squadrons shock And heaven is cleft while earth doth tremble under Mens weight, the sounds of stroakes, and canon thunder. Or when like rain in lightning musquets poure Balles, from besieged walles, in leaden showre. To see a bresh defended and assailde, A fort most bravelie forc'd, a city skailde, Such sport I love and long for, and to bee With honour killd; or crownd with victorie. For all the Wishes e're I beggd of heaven, But one I crave may heere to mee bee given: Which as I am a Souldier I doe wishe But for my Countries well; and it is this: May Heavens great King great Britain's crownes defend, Blesse her great CHARLES, his Armes and Realmes extend From furthest Thule to the burning Zone, That like his Albion may All be one. And his victorious Lyons fill'd with blood Of enemies, may see his Roses bud, And Thistles rise vpon the walles of Rome, Which hee shall come and see, and overcome. O that I may but see that happie time! When hee shall spread into another clime His conquering ensignes shadowing the fields, Where forraine foes to his just furie yeelds, Or if they dare withstand; and put their trust In Bulwarks, till hee batter them to dust, And ride vp o're their Ramparts clad in steele, With flaming sword in hand, to make them feele The weight of his great wrath, then see them fall For mercie at his feet, and saved all. May I once see his brave and warlike bands March over Spaines bare soyle and scorched sands; Saint Andro and S. George's Crosses spread Before proud Sevile, or about Madrid. While their cag'd Eagles which o're all did soare, Sit fast surrounded, and can flie no more: But pearching in their towres be either tane By force, or then by lingring famine slaine, O with what courage could I then goe on! To an assault, and standing on a Don Whom mine owne hands had killed at the bresh, Help to make havocke of the Spaniard's flesh: And in that noble furie durst affront, The biggest bearded boasting Rodomont. That euer brav'd or star'd, and if I fell, Sure hee should haue his passe-port first to Hell. Spaine knowes our pow'r of old, both when at home She felt our force, and when shee once did come With that Armada to invade our coastes, Of whose successe but sparingly shee boastes. How ere shee threatens, I do thinke shee feares, But cunninglie her dread concealed beares. And standing fast vpon her owne defence, Will rather keepe, than seeke to conquere hence. Would I might see our Fleet launch forth againe, To meet her Indian gold amid the Maine: And after a brave fight, the sea a-fire, Blushing with blood, glut in revenging ire Their scattered ships, when they begin to flie But can not, wounded with our victorie: And all the richest veshells made our prize; To bee (return'd) receiv'd with joyfull cryes, And welcomes of our owne, whose love and voice Our shot should answere with a thundring noise. O Heavens! let me but live to see the day On which great CHARLES his scepter downe shall lay And draw his sword, to be, as hee is now Our King, our Captaine, and his royall brow Crown'd with triumphant bayes, as 'tis with gold, That all the World his greatnesse may behold: Whilst leading on himself his Armies arm'd, All Europe with his Troupes is overswarm'd. And Rhine againe made drunk with Germane blood, May see her Eagles drowned in the flood; To set vpon his Sister's head that crowne Which mis-beleever's hands haue pulled downe. Who now insulting of their conquests proud, Vpon the ruines of the Temples trod. And may HEE crown'd with ever living Fame, Get on his owne the Imperiall Diademe. Thence forward, holding on a constant race To France, reclaime his right, and take his place In Charlemaigne's fair chayre with lillyes strew'd And vsherd with blade in blood embrew'd: That Seyne and Loyre may by their banks behold Once more those Ensignes flie they saw of old, When poore distressed Orleans found how neare Shee was encompast, and did quake for feare. When Poittiers saw her Prince a pris'ner led, And Paris blusht to see another's head Weare Pharamond's rich Crowne than her owne King, Whose palace with no Revells then did ring: But Drummes and Trumpets made with noyse resound, Where danceing Musick sometime did abound. When once he shall embarked leave his shore Grant Heavens! Great Britaine see his face no more Till hee haue past the Pyrene's high toppes, And snowie Alpes, which seeme this vaults high proppes, Whence hee may see before hee neerer come, That sometime Empress of the World, old Rome: Stand trembling at his swift approach; and all Her Towrs, with terrour shaken, downward fall. And that proud Priest, the Idole of the World, May from his head see his three Crownes soone hurld; Himselfe enclosed in Saint Angelo, When CHARLES shall o're the Citties ashes goe, To pull him thence, and purge the Towne again With fire, where foule iniquitie doth raigne. And may his conquering Armie with Heaven's ayde Find happie passage further to invade The misbelieving brood of Mahomet, Whose vncontroulled conquests haue made great. While prospering in impietie, their King Whom Heaven they hold can never vnder bring. May I behold one day their horned Moone, Eclipsed by the Caspian shoare at Noone. And our white and red Crosses heav'd on hie In holy warre, then Lord ev'n let mee die. Or, if thou'lt lend mee life with him to fight, His meanest souldier, and wilt blesse my sight To see him crowned with these eyes of mine Into the Citie of great Constantine. And raise his colours (so to raise my name) Vpon the walles of faire Jerusalem. So let it bee; that when the warres shall end, And hee returnes; I may his Grace attend, To sing his glorious deedes in those blest dayes Of peace, and tune in my immortall layes His praises; closelie wrapped in my gowne, A Garland on my head, my Armes layd downe. Time drive away to haste that happie time, In which the Heavens! shall verifie my rime. And you O Heav'ns! grant our great CHARLES the grace To give the whole World with his Sword true peace. And give you him an hundred yeares from this, A Crowne of Glorie and aeternall blesse. When, as hee's Faith's defender, hee hath fought. For only Faith, not his owne glorie sought. So may it bee, accord mee onely this Just Heavens, this is the Souldiers chiefest Wishe. LAVDER. FINIS. Sunt Artibus Arma Decori.</field>
+   </doc>
+</add>

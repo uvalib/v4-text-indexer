@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Benson, Arthur Christopher, 1862-1925</field>
+      <field name="author_facet">Benson, Arthur Christopher, 1862-1925</field>
+      <field name="author_sort_facet">benson arthur christopher 1862 1925</field>
+      <field name="author_text">Benson, Arthur Christopher, 1862-1925</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1890's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_3.2162.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">1893</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:467275</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Greek, Modern (1453- )</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">Poems ; by Arthur Christopher Benson</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">Poems ; by Arthur Christopher Benson</field>
+      <field name="title_facet">poems</field>
+      <field name="title_sort_facet">poems</field>
+      <field name="title_text">Poems ; by Arthur Christopher Benson</field>
+      <field name="year_display">1893</field>
+      <field name="year_facet">1893</field>
+      <field name="year_multisort_i">1893</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:467275&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:467275&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Benson, Arthur Christopher, 1862-1925&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;benson arthur christopher 1862 1925&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Poems ; by Arthur Christopher Benson&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;poems&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1893&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1893&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Benson, Arthur Christopher&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1862&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1925&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;by Arthur Christopher Benson&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Elkin Mathews and John Lane&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1893&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp0396&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;gre&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;xvi, 192, [16] p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Poems&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;by Arthur Christopher Benson&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 30 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted; verse reproduced elsewhere in The English Poetry Full-text Database omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">?? ?? ??? ???????, ??????? ???? ?????? ????????</field>
+      <field name="fulltext">IN THE PINEWOOD Below the fields of splintered stones That tumble from the mountain's head,— (The wind across the cranny moans)— Above the torrent's bed;— Amid the rushing milkwhite streams, The rocking boulders buffet low; Yet from their mellow thunder seems A deeper peace to grow; Among the strong leaves glossy green The empurpled berry dully glows, The juniper her thorny screen About the hillock throws. The grey frog stares across the pool, With measured chant of tranquil bliss, On trailing streamers balanced cool;— His throat the ripples kiss: My forest armies hither stream, The tall battalions thronging come, Not panoplied in angry gleam, With thunder of the drum, But silent, breathing scented breath, And through the dim green-tufted aisles, (The hill-rose screens the stone beneath) The level sunlight smiles. The straggler from the mounting troop Bears the fierce brunt of snow and wind, The draggled tassels start and droop Over his tortured rind. From bough to bough small titmice flit, The pie, who flirts an upstart tail, Screams harshly from the topmost spit, And scolds the indifferent vale. Where else the livelier forest glows In indistinguishable green, His duskier foliage sterner shows The slender larch between. The ruddy bark is ridged and torn, And weathered black with volleying rain; Dry lichens fringe the withered horn, And flaunt their rusty stain. With writhing root he coils and clings, And strains the boulder in his grip, And binds a hundred trailing rings Over the streamlet's lip. He sees the moon unearthly still Peer coldly o'er the ridges brown; He hears the thunder in the hill, When ice-crags topple down. O strong and patient as the hills About thee, smile thy rugged smile; Bear proudly thy encircling ills, Befriend me for awhile! Like thee, I would not estimate The harshness of o'ermastering woes, But brave the suns intemperate, And every wind that blows. BERRIES OF YEW Underneath the down, with its vast limbs sweeping Southward, ever southward to the restless sea, In a rounded hollow, desolately sleeping, Dreaming solemn dreams, stands the grave yew-tree. When the heavy-headed corn is glad and glowing, When the golden grass is waving on the slope, Then my yew-tree wakes to dreams of fruitful sowing, Loads her silly branches and abides in hope. Red and translucent, orbed in soft completeness, Hung like fairy lamps in the sombre shade; Yet the merry-hearted thrush abhors the sickly sweetness, And the glutton sparrow flirts his wing, and flees afraid. Then, sick at heart, the ripe and ruddy burden Spills its unregarded treasure underfoot. No welcome from the world, no grateful guerdon, Save a sheltered grave beneath the parent root. Poor patient tree, that dost distil and cherish By thy dark alchemy no gift of grace; We too are doomed to bear the fruits that perish, Yet we have dreams of some diviner place. Lord of sorry waste and impotent endeavour, Raise us, embolden us to strive in vain; Surely far hence, hereafter, and for ever We shall reap the harvest of our fruitless pain. Concentred, bound, obedient, The soul that lifts those dreaming lids Could mock old Ramses' monument, And pile a thousand pyramids. OLD NESTS The angry sun engulphed apace Is flaring in the watery west, Swiftly the ragged vapours race, Uneasy wanderers, craving rest. As drowsy ring the muffled chimes, The weary footsteps homeward go: The phantom moon half-hearted climbs Above the plough-lands, large and low. In yonder hedgerow by the gate There swings a sodden crumbling nest, That lately held a living freight, That bore a warm and brooding breast. There woke to life with sweet surprise, Where now the lingering leaf is hurled, Young mouths that cried for food, young eyes That opened on a merry world. When the poor drudge that dumbly slept, Awoke to pile the sordid fire, Alert to view the world they leapt, In ardent, innocent desire. The parent thrush, with heart too glad For aught but crooning tender things, Had never leisure to be sad, Nor yearned to stretch her tethered wings. When that unwavering instinct wore A sweeter, a diviner dress, And nature for a moment bore The aspect of unselfishness. Unmindful of the sheltered days, The devious brood abroad is flown; They linger in the accustomed ways, To make a music of their own. They pile new homes in croft and lane, They follow where the summer goes, And if they meet their sire again, They greet as strangers, even foes. The nest is down: the dream is o'er; Do we too love because we must? Or shall the fruit our passion bore, Be quickened, when the heart is dust? ON THE HILL The curlew whistles on the waste, The lapwing wheels in air, The skimming heathcock cries in haste To bid his mates beware. The alders whisper by the fall, The hazels in the lane, The headstones by the chapel wall Are black with clinging rain. From barns high-piled with fragrant grass The children peep to see The stranger from the city pass— Yet none hath need of me. Woodland and hill together run Where earth and sky combine. There beats not, underneath the sun, A lonelier heart than mine. For love acquired or duly paid Is not the same as given, And they on earth of love afraid Are half afraid of heaven. A RECANTATION Too proud to plead, too old to be ashamed; There lay the stair that climbed the vault of heaven; And yet I know not why I never claimed The love you would have given. What was it held me back? The chilly fear That shrinks within itself, and dreads the touch Of those warm hands, that make the world too near, And loved, alas! too much. Not the lone rapture of the aspiring saint, That fears to blind, to dim the single eye; But wisdom's counterfeit, too cold, too faint To venture, lest she die. Who curiously weighs the sacrifice, Who nicely calculates the loss, the gain, Pays a sad price for being overwise, And wins the fierce disdain Of those who in the world were bought and sold, Who fell, and fell again, and sinning died, Yet brood and nestle in the eternal fold, When prudence pines outside. NOT HERE O soul that we have loved, O vanished light Of those true eyes, O hands that ours have pressed, Where art thou? Dost thou spurn thy proffered rest, And weep to see us stumbling in the night? Or is the spirit in its starry seat As alien, as indifferent to the praise That swells and gathers round thy human days, And dost thou dwell in some austere retreat, Serene, forgetful of the ancient pain, There in that world, where peace makes all things well, As when the heavy rollers swinging slow Are fretted with innumerable rain That fine as slender needles pricks the swell, But never stirs the enormous peace below? A CHILD Look in my eyes: I do not ask for love: Lay hand in mine, and when thou wilt, be free; The oak may shelter the home-coming dove, And thus I welcome thee. The oak that battles with the bitter sleet Is grim and hard, but e'er the summer come, Thrills through and through to feel the flying feet Alight, and nestle home. Not that he claims her as his captive guest, Not that he dreams she will no longer stray, But loves the natural trust, and bids her rest His darling for a day. Dear, wilful child, that dost with sweet caprice Scatter at heedless feet thy fairy fee, Be good, be gracious ere thy empire cease, And waste a smile on me. Here where the pine, knee-deep in scented brake, Throws his long shade across the sloping lawn, By knoll and terrace dipping to the lake, In valleys far withdrawn. Climbing, by downs and precipices grim, To yon high pinnacle, erect and grey, That flushes rose when all the vale is dim, And guesses at the day. Here for a moment let our fates be one; By no blind chance the cunning maidens bring You from the sway of some diviner sun, Me from our harsher spring. Old signs are written in thy tender face, Desires, regrets that thou hast never known, Thou art the heir of thy aspiring race, Heir of a troubled throne, Of hope, that hardly dost portend the morn, And sadness, that hast scarcely guessed at pain, God takes the characters of fate outworn, And writes them fair again. Those little feet that scarce the light turf press, Those little hands so brown with wind and sun, God grant they tremble not for weariness Before thy course be done. And thou shalt love, and learn what love is worth, And thou shalt trust, and learn to value men, And all the sudden mysteries of earth, Shall open to thy ken. Nay, no austere philosophies, sweet child! I will not muse in churlish reverie, It is enough for me that thou hast smiled, That thou hast smiled on me; Come, talk of all thy wayward soul desires; What, wilt thou listen? Then I'll not be wise, But weave a tale of fantasy and fire To light those wondering eyes. What, wilt be flying? Am I then too staid? Can I not smooth the meditative brow? Flash through the sun and flutter through the shade, As birds from bough to bough? What? dost thou linger? Ah, my dear, how much Thou givest, couldst thou only understand! The kiss of childish pity, and the touch Of thine absolving hand. ‘CŒLUM, NON ANIMUM’ I felt the soul within me yearn, Take life, and quicken into speech: She said, ‘What God hath bid thee learn, To-day He bids thee teach. He weighed the pain and dealt the blow, He made thee patient, almost brave; Then came the hope, the after-glow; All this, and more He gave.’ I said, ‘Amid the trivial noise, The natural stir, the ingenuous strife, I dare not bid these secret joys To bourgeon into life. I'll seek,’ I said, ‘some sheltered grange, Where suns are sweet and winds are low; From day to day with scarce a change Beneath my elms I'll go. There in the silent sunlit air The heavenly voices linger best, Soft songs shall thrill and echo there About my home of rest.’ I lingered late: the eve was mine: The voice was clear, the lute was strung; And yet no messenger divine Thrilled through the expectant tongue. ‘Nay,’ said the chiding voice at length, Thou hast done ill to heed thy fears, My strenuous amplitude of strength Speaks not to vacant ears. Return, resume thy destined task, Who labours most, he hearkens best, A faithful heart is all I ask, My peace is not thy rest.’ THE VOICES OF THE WORLD The world is well, said he, I would not mend it;— My gold was given to me, And I may spend it. Glory and love and wine, Freedom and leisure, All these are mine, are mine, And serve my pleasure. As for what lies behind I do not heed it; Death will be swift and kind When I shall need it. The world is hard, one said, I may not mend it; I make the gold, he said, And others spend it. The huge house hums with din From roof to basement; I draw the foul air in Through a smoke-dimmed casement. My children moan for bread In the crowded city, I droop my aching head With none to pity. The world, one said, is base; I cannot mend it; Yet beauty shines, and grace, Sweet things attend it. I sit at home, he saith, With contemplation; I live by hope and faith And adoration. I breathe melodious breath, Though ill assail me; And I can summon death, If all else fail me. The world, one said, is weak, And I would mend it; Hearts were not made to break, Nor death to end it. Meanwhile I must resign Freedom and beauty; Though sweet things smile and shine Clearer shines duty. Yet love and faith grow strong, When light is lowest. How long, my God, how long? Jesus, Thou knowest. The world, God said, is mine, And I shall mend it; I lend thee what is thine, 'Tis thine to lend it. Thy measured task to turn A few short pages; I watch, I wait, I yearn, Through endless ages. Then weep thy destined tear, And laugh thy laughter. And I who wound thee here Will bless hereafter. WINTER HARVESTS Pipe, winds of winter, O'er the hill's cold brow. Shatter and splinter The dying, dying bough; Brim the icy river, Let the dead reeds shake; Make the wild swan shiver In her northern lake. O'er the empty cover Bid the brown hawk swing, Send the wailing plover, Southward to the spring. I do not fear thee, Wind, harsh and shrill; Rather let me hear thee Thunder in the hil Rude, rough December, Thine be all the earth, So the ruddy ember Rustle on the hearth. When the shadow beckons, Home, and bar the door: Then the poet reckons All his summer store; Coins his gathered gladness Into ringing rhyme, Hugs his merry madness, 'Tis his harvest-time. THE POET'S DOOM I coin my blood, the poet saith, My heart, my brain, my very breath, I purchase livelihood by death. When throstles sing before the day, I cannot fling myself away, And soar upon the soaring lay; The sweet impression I must set In word, in rhyme, ere I forget, In epigram and epithet; I dream beneath the lonely skies, But must recount my ecstasies Before a hundred shameless eyes. When generous impulses suggest Some deed that being hid is blest, Some noble unregarded quest, Some selfless, some divine regret,— It passes; but I dare not let The shrinking memory forget. I pray, I wrestle, but ere long The fickle fancies round me throng, And I must mould them into song; I dare not keep the words unsaid, Nor leave the dimness overhead Unquestioned, or I die unfed. I cannot simply meditate On mysteries of force and fate, But I must e'en anticipate, Must draw a moral e'er the deed Be ripe, and if the ages bleed And stagger, I must heal and lead. Ay, like Medea, I must keep One eye upon the trackless deep, And one upon the beast asleep. For should my charms avail not, he Will rise and end my melody: Then what are all my dreams to me? I dream my dreams for others' sake; My songs not for myself I make; What use to give if none will take? If song my labouring breast relieved, 'Twas as Cassandra that I grieved, And as Cassandra none believed. Ah, brothers, 'tis a sorry trade! Yet e'er I slip to nether shade, With all the music I have made, Before the sweet compulsion cease, I sing, and fain would find release; And yet I cannot hold my peace.</field>
+   </doc>
+</add>

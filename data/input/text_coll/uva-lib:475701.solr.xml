@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Austin, Mary</field>
+      <field name="author_facet">Austin, Mary</field>
+      <field name="author_sort_facet">austin mary</field>
+      <field name="author_text">Austin, Mary</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1900's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/AusBret.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">1902</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:475701</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Jimville: A Bret Harte Town</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">Jimville: A Bret Harte Town</field>
+      <field name="title_facet">jimville a bret harte town</field>
+      <field name="title_sort_facet">jimville a bret harte town</field>
+      <field name="title_text">Jimville: A Bret Harte Town</field>
+      <field name="year_display">1902</field>
+      <field name="year_facet">1902</field>
+      <field name="year_multisort_i">1902</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:475701&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:475701&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Austin, Mary&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;austin mary&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Jimville: A Bret Harte Town&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;jimville a bret harte town&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1902&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1902&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Austin, Mary&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="Edited by"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Jimville: A Bret Harte Town&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1902&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Atlantic Monthly&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1902&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Vol. 90&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Jimville: A Bret Harte Town&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 17 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Austin, Mary. "Jimville: A Bret Harte Town." Atlantic Monthly 90 (1902): 690-694. WHEN Mr. Harte found himself with a fresh palette and his particular local color fading from the West, he did what he considered the only safe thing, and carried his young impression away to be worked on untroubled by any newer fact. He should have gone to Jimville. There he would have found cast up on the ore-ribbed hills the bleached timbers of more tales, and better ones. You could not think of Jimville as anything more than a survival, like the herb-eating, bony-cased old tortoise that pokes cheerfully about those borders some thousands of years beyond his proper epoch. Not that Jimville is old, but it has an atmosphere favorable to the type of a half century back, if not "forty-niners," of that breed. It is said of Jimville that getting away from it is such a piece of work that it encourages permanence in the population; the fact is that most have been drawn there by some real likeness or liking. Not however that I would deny the difficulty of getting into or out of that cove of reminder, I who have made the journey so many times at great pains of a poor body. Any way you go at it, Jimville is about three days from anywhere in particular. North or south, after the railroad there is a stage journey of such interminable monotony as induces forgetfulness of all previous states of existence. The road to Jimville is the happy hunting-ground of old stagecoaches bought up from superseded routes the West over, rocking, lumbering, wide vehicles far gone in the order of romance, coaches that Vasquez has held up, from whose high seats express messengers have shot or been shot as their luck held. This is to comfort you when the driver stops to rummage for wire to mend a failing bolt. There is enough of this sort of thing to quite prepare you to believe what the driver insists, namely, that all that country and Jimville are held together by wire. First on the way to Jimville you cross a lonely open land, with a hint in the sky of things going on under the horizon, a palpitant, white, hot land where the wheels gird at the sand and the midday heaven shuts it in breathlessly like a tent. So in still weather; and when the wind blows there is occupation enough for the passengers, shifting seats to hold down the windward side of the wagging coach. This is a mere trifle. The Jimville stage is built for five passengers, but when you have seven, with four trunks, several parcels, three sacks of grain, the mail and express, you begin to understand that proverb about the road which has been reported to you. In time you learn to engage the high seat beside the driver, where you get good air and the best company. Beyond the desert rise the lava flats, scoriae strewn; sharp-cutting walls of narrow canons; league-wide, frozen puddles of black rock, intolerable and forbidding. Beyond the lava the mouths that spewed it out, ragged-lipped, ruined craters shouldering to the cloud-line, mostly of red earth, as red as a red heifer. These have some comforting of shrubs and grass. You get the very spirit of the meaning of that country when you see Little Pete feeding his sheep in the red, choked maw of an old vent,—a kind of silly pastoral gentleness that glozes over an elemental violence. Beyond the craters rise worn, auriferous hills of a quiet sort, tumbled together; a valley full of mists; whitish green scrub; and bright small panting lizards; then Jimville. The town looks to have spilled out of Squaw Gulch, and that, in fact, is the sequence of its growth. It began around the Bully Boy and Theresa group of mines midway up Squaw Gulch, spreading down to the smelter at the mouth of the ravine. The freight wagons dumped their loads as near to the hill as the slope allowed, and Jimville grew in between. Above the Gulch begins a pine wood with sparsely grown thickets of lilac, azalea, and odorous blossoming shrubs. Squaw Gulch is a very sharp, steep, ragged-walled ravine, and that part of Jimville which is built in it has only one street,—in summer paved with bone-white cobbles, in the wet months a frothy yellow flood. All between the ore dumps and solitary small cabins, pieced out with tin cans and packing-cases, run footpaths drawing down to the Silver Dollar saloon. When Jimville was having the time of its life the Silver Dollar had those same coins let into the bar top for a border, but the proprietor pried them out when the glory departed. There are three hundred inhabitants in Jimville and four bars, though you are not to argue anything from that. Hear now how Jimville came by its name. Jim Calkins discovered the Bully Boy, Jim Baker located the Theresa. When Jim Jenkins opened an eating-house in his tent he chalked up on the flap, "Best Meals in Jimville, "$1.00," and the name stuck. There was more human interest in the origin of Squaw Gulch, though it tickled no humor. It was Dimmick's squaw from Aurora way. If Dimmick had been anything except New Englander he would have called her Mahala, but that would not have bettered his behavior. Dimmick made a strike, went East, and the squaw who had been to him as his wife took to drink. That was the bald way of stating it in the Aurora country. The milk of human kindness, like some wine, must not be uncorked too much in speech lest it lose savor. This is what they did. The woman would have returned to her own people, being far gone with child, but the drink worked her bane. By the river of this ravine her pains overtook her. There Jim Calkins, prospecting, found her dying with a three days' babe nozzling at her breast. Jim heartened her for the end, buried her, and walked back to Poso eighteen miles, the child poking in the folds of his denim shirt with small mewing noises, and won support for it from the rough-handed folks of that place. Then he came back to Squaw Gulch, so named from that day, and discovered the Bully Boy. Jim humbly regarded this piece of luck as interposed for his reward, and I for one believed him. If it had been in mediaeval times you would have had a legend or a ballad. Bret Harte would have given you a tale. You see in me a mere recorder, for I know what is best for you; you shall blow out this bubble from your own breath. You would never get into any proper relation to Jimville unless you could slough off and swallow your acquired prejudices as a lizard does his skin. Once wanting some womanly attentions, the stage driver assured me I might have them at the Nine-Mile House from the lady barkeeper. The phrase tickled all my after-dinner-coffee sense of humor into an anticipation of Poker Flat. The stage driver proved himself really right, though you are not to suppose from this that Jimville had no conventions and no caste. They work out these things in the personal equation largely. Almost every latitude of behavior is allowed a good fellow, one no liar, a free spender, and a backer of his friends' quarrels. You are respected in as much ground as you can shoot over, in as many pretensions as you can make good. That probably explains Mr. Fanshawe, the gentlemanly faro dealer of those parts, built for the role of Oakhurst, going white-shirted and frock-coated in a community of overalls; and persuading you that whatever shifts and tricks of the game were laid to his deal, he could not practice them on a person of your penetration. But he does. By his own account and the evidence of his manners he had been bred for a clergyman, and he certainly has gifts for the part. You find him always in possession of your point of view, and with an evident, though not obtrusive desire to stand well with you. For an account of his killings, for his way with women and the way of women with him, I refer you to Brown of Calaveras and some others of that stripe. His improprieties had a certain sanction of long standing not accorded to the gay ladies who wore Mr. Fanshawe's favors. There were perhaps too many of them. On the whole, the point of the moral distinctions of Jimville appears to be a point of honor, with an absence of humorous appreciation that strangers mistake for dullness. At Jimville they see behavior as history and judge it by facts, untroubled by invention and the dramatic sense. You glimpse a crude sense of equity in their dealings with Wilkins who had shot a man at Lone Tree fairly, in an open quarrel. Rumor of it reached Jimville before Wilkins rested there in flight. I saw Wilkins, all Jimville saw him; in fact, he came into the Silver Dollar when we were holding a church fair and bought a pink silk pincushion. I have often wondered what became of it. Some of us shook hands with him, not because we did not know, but because we had not been officially notified, and there were those present who knew how it was themselves. When the sheriff arrived Wilkins had moved on, and Jimville organized a posse and brought him back, because the sheriff was a Jimville man and we had to stand by him. I said we had the church fair at the Silver Dollar. We had most things there, dances, town meetings, and the kinetoscope exhibition of the Passion Play. The Silver Dollar had been built when the borders of Jimville spread from Minton to the red hill the Defiance twisted through. "Side-Winder" Smith scrubbed the floor for us and moved the bar to the back room. The fair was designed for the support of the circuit rider who preached to the few that would hear, and buried us all in turn. He was the symbol of Jimville's respectability, although he was of a sect that held dancing among the cardinal sins. The management took no chances on offending the minister; at 11:30 they tendered him the receipts of the evening in the chairman's hat, as a delicate intimation that the fair was closed. The company filed out of the front door and around to the back. Then the dance began formally with no feelings hurt. These were the sort of courtesies, common enough in Jimville that brought tears of delicate inner laughter. There were others besides Mr. Fanshawe who had walked out of Mr. Harte's demesne to Jimville and wore names that smacked of the soil, "Alkali Bill," "Pike" Wilson, "Three Finger," and "Mono Jim;" fierce, shy, profane, sun-dried derelicts of the windy hills; who each owned, or had owned, a mine and was wishful to own one again. They laid up on the worn benches of the Silver Dollar or the Same Old Luck like beached vessels, and their talk ran on endlessly of "strike" and "contact" and "mother lode," and worked around to fights and hold-ups, villainy, haunts, and the hoodoo of the Minietta, told austerely without imagination. Do not suppose I am going to repeat it all; you who want these things written up from the point of view of people who do not do them every day would get no savor in their speech. Says Three Finger, relating the history of the Mariposa, "I took it off'n Tom Beatty, cheap, after his brother Bill was shot." Says Jim Jenkins, "What was the matter of him?" "Who? Bill? Abe Johnson shot him; he was fooling around Johnson's wife, an' Tom sold me the mine dirt cheap." "Why didn't he work it himself." "Him? Oh, he was laying for Abe and calculated to have to leave the country pretty quick." "Huh!" says Jim Jenkins, and the tale flows smoothly on. Yearly the spring fret floats the loose population of Jimville out into the desolate waste hot lands, guiding by the peaks and a few rarely touched water holes, always, always with the golden hope. They develop prospects and grow rich, develop others and grow poor but never embittered. Say the hills, It is all one, there is gold enough, time enough, and men enough to come after you. And at Jimville they understand the language of the hills. Jimville does not know a great deal about the crust of the earth, it prefers a "hunch." That is an intimation from the gods that if you go over a brown back of the hills, by a dripping spring, up Coso way, you will find what is worth while. I have never heard that the failure of any particular hunch disproved proved the principle. Somehow the rawness of the land favors the sense of personal relation to the supernatural. There is not much intervention of crops, cities, clothes, and manners between you and the organizing forces to cut off communication. All this begets in Jimville a state that passes explanation unless you will accept an explanation that passes belief. Along with killing and drunkenness, coveting of women, charity, simplicity, there is a certain indifference, blankness, emptiness if you will, of all vaporings, no bubbling of the pot,—it wants the German to coin a word for that,—no bread-envy, no brother-fervor. Western writers have not sensed it yet (perhaps Lummis a little); they smack the savor of lawlessness too much upon their tongues, but you have these to witness it is not mean-spiritedness. It is pure Greek in that it represents the courage to shear off what is not worth while. Beyond that it endures without sniveling, renounces without self-pity, fears no death, rates itself not too great in the scheme of things; so do beasts, so did St. Jerome in the desert, so also in the elder day did gods. Life, its performance, cessation, is no new thing to gape and wonder at. Here you have the repose of the perfectly accepted instinct which includes passion and death in its perquisites. I suppose that the end of all our hammering and yawping will be something like the point of view of Jimville. The only difference will be in the decorations. Mary Austin.</field>
+   </doc>
+</add>

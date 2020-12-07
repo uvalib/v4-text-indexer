@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Clarendon Press</field>
+      <field name="author_facet">Clarendon Press</field>
+      <field name="author_sort_facet">clarendon press</field>
+      <field name="author_text">Clarendon Press</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.1103.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1885</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459732</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Shermen ; XXXIV. Christ led up to Calvary</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Shermen ; XXXIV. Christ led up to Calvary</field>
+      <field name="title_facet">shermen</field>
+      <field name="title_sort_facet">shermen</field>
+      <field name="title_text">The Shermen ; XXXIV. Christ led up to Calvary</field>
+      <field name="year_display">1885</field>
+      <field name="year_facet">1885</field>
+      <field name="year_multisort_i">1885</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459732&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459732&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Shermen ; XXXIV. Christ led up to Calvary&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;shermen&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1885&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1885&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Shermen&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;XXXIV. Christ led up to Calvary&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Oxford&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Clarendon Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1885&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873690-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv11103&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Shermen&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;XXXIV. Christ led up to Calvary&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 35 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and editorial matter including introduction and glossary omitted.&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Source texts incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The shermen.</field>
+      <field name="desc_meta_file_display">Genre: English mystery and miracle plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1475 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1352–1376 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">XXXIV. THE SHERMEN. Christ led up to Calvary. Square brackets represent sections of text unclear or absent in the original and supplied by the current editor</field>
+      <field name="fulltext">[PERSONS OF THE PLAY. Johannes. Maria. Jesus. Symon. Primus Miles. Secundus Miles. Wymond 3 Miles. Secunda Maria. Tertia Maria.]</field>
+      <field name="fulltext">[Scene I; The soldiers making ready for the crucifixion.] i Miles. Pees, barnes and bachillers þat beldis here aboute, Stirre no?t ones in þis stede but stonde stone stille, Or be þe lorde þat I leue on, I schall gar you lowte, But ?e spare when I speke youre speche schall I spille Smertely and sone; For I am sente fro sir Pilate with pride, To lede þis ladde oure lawes to abide, He gettis no bettir bone. Therfore I comaunde you on euere ilke a side, Vppon payne of enprisonment þat noman appere To suppowle þis traytoure, be tyme ne be tyde, Noght one of þis prees; Nor noght ones so hardy for to enquere, But helpe me holly, all that are here, Þis kaitiffe care to encrees. 1. Therfore make rome and rewle you nowe right, That we may with þis weried wight Wightely wende on oure waye; He napped noght of all þis nyght, And þis daye schall his deth be dight, Latte see who dare saie naye. Be-cause to-morne is prouyde For oure dere Sabbott day, We wille no mysse be moued, But mirthe in all þat euere men may. 2. We haue bene besie all þis morne To clothe hym and to croune with thorne, As falles for a fole kyng; And nowe me thynkith oure felawes skorne, They highte to haue ben here þis morne, Þis faitour forthe to bring: To nappe nowe is no?t goode, We! howe! high myght he hyng! ii Miles. Pees, man, for mahoundes bloode, Why make ?e such crying? 3. i Miles. Why wotte þou noght als wele as I, Þis carle burde vnto Caluery, And þere on crosse be done? ii Miles. Sen dome is geuen þat he schall dy, Late calle to vs more companye, And ellis we erre oure fone. i Miles. Oure gere be-houes to be grayde, And felawes sammed sone, For Sir Pilate has saide Hym bus be dede be none. 4. Where is sir Wymond, wotte þou oght? ii Miles. He wente to garre a crosse be wroght To bere þis cursed knave. i Miles. That wolde I sone wer hyder broght, For sithen schall othir gere be soght, That vs be-houes to haffe. ii Miles. Vs bus haue sties and ropes, To rugge hym tille he raue, And nayles and othir japes, If we oure selue wille saue. 5. i Miles. To tarie longe vs were full lathe, But Wymond come, it is in wathe But we be blamed all three. We! howe! Sir Wymond, wayt e[s] skathe. ii Miles. We, howe! Sir Wymond, howe? [Enter Wymond. iii Miles. I am here, what saie ?e bathe, Why crye ?e so on me? I haue bene garre make Þis crosse, as yhe may see, Of þat laye ouere þe lake, Men called it þe kyngis tree. 6. i Miles. Nowe sekirly I þought þe same, For þat balke will noman vs blame To cutte it for þe kyng. ii Miles. This karle has called hym kyng at hame, And sen þis tre has such a name, It is accordyng thyng, Þat his rigge on it may reste, For skorne and for hethyng. iii Miles. Me thoughte it semyd beste Tille þis bargayne to bryng. 7. i Miles. It is wele warred, so motte I spede, And it be lele in lenghe and brede, þan is þis space wele spende. iii Miles. To loke þer-aftir it is no nede, I toke þe mesure or I yode, Bothe for þe fette and hande. ii Miles. Be-holde howe it is boorede Full euen at ilke an ende, This werke will wele accorde, It may not be amende. 8. iii Miles. Nay, I haue ordande mekill more, ?aa, thes theues are sente before, Þat beside hym schall hang; And sties also are ordande þore, With stalworthe steeles as mystir wore, Bothe some schorte and some lang. i Miles. For hameres and [for] nayles, Latte see sone who schall gang. ii Miles. Here are bragges þat will noght faile, Of irnne and stele full strange. 9. iii Miles. Þanne is it as it aweth to bee, But whiche of yowe schall bere þis tree, Sen I haue broughte it hedir? i Miles. Be my feithe bere it schall hee Þat þer-on hanged sone schall bee, And we schall teeche hym whedir. ii Miles. Vppon his bakke it schalle be laide, For sone we schall come thedir. iii Miles. Loke þat oure gere be grayede, And go we all to-gedir.</field>
+      <field name="fulltext">[Scene II; The road to Calvary: John, Mary, and others waiting.] 10. Johannes. Allas! for my maistir þat moste is of myght, That ?ister-even late, with lanternes light, Be-fore þe busshoppe was brought; Bothe Petir and I we saugh þat sight, And sithen we wente oure wayes full wight, When þe Jewes wondirly wrought. At morne þei toke to rede, And soteltes vp soght, And demed hym to be dede Þat to þam trespassed noght. 11. Allas! for syte, what schall I saie, My worldly welthe is wente for ay, In woo euere may I wende; My maistir, þat neuere lakke[d] in lay, Is demed to be dede þis day, Ewen in hys elmys hende. Allas! for my maistir mylde That all mennys mysse may mende, Shulde so falsely be filed, And no frendis hym to fende. 12. Allas! for his modir and oþir moo, Mi modir and hir sisteres alsoo, Sittes samen with sighyngis sore; Þai wate no-thyng of all þis woo, For-thy to warne þam will I goo, Sen I may mende no more. Sen he schall dye as tyte, And þei vnwarned wore, I ware worthy to wite, I will go faste ther-fore. 13. But in myn herte grete drede haue I, Þat his modir for dole schall dye, When she see ones þat sight; But certis I schal not wande for-thy, To warne þat carefull company, Or he to dede be dight A leaf, &amp; vij, corresponding to &amp; ij, is here lost. 14. [i Mary?] Sen he fro vs will twynne I schall þe neuere for-sake. Allas! þe tyme and tyde! I watte wele þe day is come Þat are was specified, Of prophete Symeoun, in prophicie, The swerde of sorowe schulde renne Thurgh-oute þe herte, sotelly. 15. ii Maria. Allas! þis is a sithfull sight, He þat was euere luffely and light, And lorde of high and lawe; Oo! doulfully nowe is he dight, In worlde is none so wofull a wighte, Ne so carefull to knawe. Þei þat he mended moste In dede and als in sawe, Now haue they full grete haste, To dede hym for to drawe. [Enter the soldiers, with Jesus bearing the cross. 16. Jesus. Doughteres of Jerusalem cytte, Sees, and mournes no more for me, But thynkes vppon this thyng; For youre selfe mourne schall ?ee, And for þe sonnes þat borne schal be Of yowe, bothe olde and yonge; For such fare schall be-falle, That ?e schall giffe blissyng To barayne bodies all, That no barnes forthe may brynge. 17. For certis ?e schall see suche a day, That with sore sighyng schall ?e saye Vnto þe hillis on highte, ‘Falle on vs, mountaynes, and ?e may, And couere vs fro þat felle affraye, affarye, That on vs sone schall light.’ Turnes home þe toune vntill, Sen ?e haue þis sight, It is my fadirs will, Alle þat is done and dighte. 18. iii Maria. Allas! þis is a cursed cas, He þat alle hele in his hande has Shall here be sakles slayne; A! lorde, be leue lete clense thy face, Behalde howe he hath schewed his grace, Howe he is moste of mayne. This signe schalle bere witnesse Vnto all pepull playne, Howe goddes sone here gilteles Is putte to pereles payne. 19. i Miles. Saie, wherto bide ?e here aboute, Thare quenys, with þer skymeryng and þer schoute, Wille noght þer stevenis steere? ii Miles. Go home, casbalde with þi clowte, Or be þat lorde we loue and loute, Þou schall a-bye full dere. iii Maria. This signe schall vengeaunce calle On yowe holly in feere. iii Miles. Go, hye þe hense with alle, Or ille hayle come þou here. 20. Joh. Lady, youre gretyng greues me sore. Maria Sancta. John, helpe me nowe and neuere more. That I myght come hym tille. Joh. My lady, wende we forthe be-fore, To Caluery when ?e come thedir, Þan schall ?e saie what ?e will. i Miles. What a deuyll is þis to saye, How longe schall we stande stille? Go hye you hens awaye, In þe deuylis name, doune þe hill. 21. ii Miles. Ther quenes vs comeres with þer clakke, He schall be serued for þer sake, With sorowe and with sore; iii Miles. And þei come more such noyse to make, We schall garre lygge þame in þe lake, Yf þei were halfe a skore. [The women flee. i Miles. Latis nowe such bourdyng be, Sen oure tooles are before, Þis traitoure and þis tree, Wolde I full fayne were þore. 22. ii Miles. We schall no more so stille be stedde, For nowe þer quenes are fro vs fledde Þat falsely wolde vs feere. iii Miles. Me thynkith þis boy is so for-bledde, With þis ladde may he noght be ledde, He swounes, þat dare I swere. i Miles. It nedis no?t harde to harle Sen it dose hym slike dere. ii Miles. I se here comes a karle, Shall helpe hym for to bere. [Enter Simon the Cyrenian. 23. iii Miles. Þat schall ?e see sone one assaye. Goode man, whedir is þou away? Þou walkis as þou were wrothe. Symon. Sir I haue a grete jornay, Þat bus be done þis same day, Or ellis it may do skathe. i Miles. Þou may with litill payne, Ease thy selffe and vs bathe. Symon. Goode sirs, þat wolde I fayne, But to dwelle were me lathe. 24. ii Miles. Nay, beuscher, þou shall sone be spedde, Loo, here a ladde þat muste be ledde For his ille dedis to dye; iii Miles. And he is brosid and all for-bledde, That makis vs here þus stille be stedde, We pray þe, sir, for-thy, That þou wilte take þis tree, And bere it to Caluerye. Symon. Goode sirs, þat may nou?t be, For full grete haste haue I. 25. My wayes are lang and wyde, And I may noght abide, For drede I come to late; For surete haue I hight Muste be fulfillid þis nyght, Or it will paire my state. Therfore, sirs, by youre leue, Me thynkith I dwelle full lang, Me were loth you for to greue, Goode sirs, ?e late me gang. 26. No lenger here now may I wone. i Miles. Nay, certis, þou schalte no?t go so sone, For ought þat þou can saye; Þis dede is moste haste to be done, For þis boy muste be dede by none, And nowe is nere myddaye. Go helpe hym in þis nede, And make no more delaye. Symon. I praye yowe dose youre dede, And latis me wende my waye. 27. And, sirs, I schall come sone agayne, To helpe þis man with all my mayne, And even at youre awne will. ii Miles. What! wolde þou trusse with such a trayne! Nay, faitour, þou schalte be fayne, Þis forwarde to full-fille. Or, be myghty mahounde! Þou schalte rewe it full ille. iii Miles. Late dyng þis dastarde doune, But he goo tyte þer-till. 28. Symon. Sertis, sir, þat wer nought wisely wrought, To bete me, but I trespassid ought, Outhir in worde or dede. i Miles. Vppon his bakke it schall be brought, To bere it, whedir he wille or noght, What! deuyll, whome schulde we drede? Go, take it vppe be-lyve, And bere it forthe, goode spede! Symon. It helpis no?t here to striue, Bere it be-houes me nede. 29. And þerfore, sirs, as ?e haue saide, To bere þis crosse I holde me paied, Right as ?e wolde it wore. ii Miles. ?aa, nowe are we right arraied, Loke þat oure gere be redy grayed, To wirke whanne we come þore. iii Miles. I warand all redy, Oure tooles bothe lesse and more, Late hym goo hardely, Forthe with þe crosse before. 30. i Miles. Sen he has his lade, nowe late hym gang, For with þis warlowe wirke we wrang, And we þus with hym yode. ii Miles. And nowe is noght goode to tarie lang, What schulde we done more vs emang? Say, sone, so motte þou spede. iii Miles. Neuen vs no nodir noote, Tille we haue done þis dede. i Miles. We! me me-thynke we doote, He muste be naked, nede. 31. All yf he called hym-selffe a kyng, In his clothis he schall no?t hyng, But naked as a stone be stedde. ii Miles. That calle I accordand thyng, But tille his sidis I trowe þei clyng, For bloode þat he has bledde. iii Miles. Wheder þei clynge or cleue, Naked he schalle be ledde, And for þe more myscheue, Buffettis hym schall be bedde. 32. i Miles. Take of his clothis be-liffe, latte see, [They strip Jesus. A ha! þis garment will falle wele for mee, And so I hope it schall. ii Miles. Nay, sir, so may it noght be, Þame muste be parte amonge vs thre, Take euen as will fall. iii Miles. ?aa, and sir Pilate medill hym, Youre parte woll be but small. i Miles. Sir, and ?e liste, go telle hym, ?itt schall he noght haue all, 33. Butte even his awne parte and nomore. ii Miles. ?aa, late þame ligge still here in stoore, Vntill þis dede be done. iii Miles. Latte bynde hym as he was before, And harle on harde þat he wer þore, And hanged or it be none. i Miles. He schall be feste of fee, And þat right sore and sone. ii Miles. So fallis hym for to be, He gettis no bettir bone. [They bind Jesus again. 34. iii Miles. Þis werke is wele nowe, I warand, For he is boune as beeste in bande, That is demed for to dye. i Miles. Þanne rede I þat we no lenger stande, But ilke man feste on hym a hande, And harle hym hense in hye. ii Miles. ?aa, nowe is tyme to trusse, To alle oure companye. iii Miles. If anye aske aftir vs, Kenne þame to Caluarie.</field>
+   </doc>
+</add>

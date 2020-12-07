@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Cranch, Christopher Pearse, 1813-1892</field>
+      <field name="author_facet">Cranch, Christopher Pearse, 1813-1892</field>
+      <field name="author_sort_facet">cranch christopher pearse 1813 1892</field>
+      <field name="author_text">Cranch, Christopher Pearse, 1813-1892</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1870's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ap/uvaGenText/tei/chap_AM0055.xml</field>
+      <field name="date_indexed_facet">201909240350</field>
+      <field name="date_text">[1876-1879]</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey American Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey American Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:439535</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">[Vesuvius, in] Poems of Places</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">American poetry -- 19th century</field>
+      <field name="subject_text">American poetry -- 19th century</field>
+      <field name="title_display">[Vesuvius, in] Poems of Places</field>
+      <field name="title_facet">vesuvius in poems of places</field>
+      <field name="title_sort_facet">vesuvius in poems of places</field>
+      <field name="title_text">[Vesuvius, in] Poems of Places</field>
+      <field name="year_display">[1876-1879]</field>
+      <field name="year_facet">1876</field>
+      <field name="year_multisort_i">1876</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:439535&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:439535&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Cranch, Christopher Pearse, 1813-1892&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;cranch christopher pearse 1813 1892&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;[Vesuvius, in] Poems of Places&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;vesuvius, in poems of places&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;[1876-1879]&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1876&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Cranch, Christopher Pearse&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1813&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1892&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;[Vesuvius, in] Poems of Places&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Boston&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;James R. Osgood and Company&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;[1876-1879]&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3865143-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;cham0055&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;American poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;[Vesuvius, in] Poems of Places&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Alexandria, VA&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Inc.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 10 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only unique item by Cranch included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-AmPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">ITALY. VOL III. VESUVIUS. Dread, desolate Mount! when first I gazed at thee Lifting thy shadowy cone across the sea, Thou seemedst a remembered picture drawn By boyhood's vision in some Southern dawn, Twin spirit with the purple clouds that rest In hazy light above thy towering crest. But when I climbed thy bare and burning side, And felt the scorching of that fiery tide Bubbling from thy hot lips, and saw the blight Of thy dread power spread through the dusky night, Far down the black slopes to the ocean skiffs,— When I beheld the drear and savage cliffs Towering around me black and sulphur-drenched, The burning cracks whose heat is never quenched, I knew thou wast that desolating fount Whose fearful flowing centuries might recount, Whose fiery surge beat down the marble pride Of stainless fanes that slept too near thy side, When fated cities of renownéd fame Fluttered like moths toward thy devouring flame. Motionless Victor! Lord of fiery doom! On thy dark helmet waves thy smoky plume; Wrapt in thy purple like a Syrian king, While crouches at thy feet the shrinking Spring, Thy fallen archangel's throne befits thee,—thou Who canst not bless, but curse. Thy blasted brow Scowls with dull eye of hate that nightly broods On dire events in thy drear solitudes. Tireless thou burnest on from age to age. No winter's rains, though yearly they assuage Thy hot cheeks, where the lava tear-drops run Down the black furrows,—no joy-giving sun Of balmy spring clothing thy ruggedness With colors of all depth and tenderness,— No clouds of summer smiling on thy sleep,— No autumn vintage round thy fire-cloven steep,— Have charmed away the awful mystery That burns within a heart no eye can see. In the bright day thou mak'st the blue heavens dun, Blotting with blasphemous smoke the blessed sun. No calmest starlit night can still thy curse Breathed upward through the silent universe. Last night we saw thee shrouded in a cloak Of dull gray rain-clouds. From thy crater broke Swift blazing spasms of flame that glimmered through The awful gloom of mist whose pallid hue Half hid thy form, now dark, and flashing now Like the dread oracles on Sinai's brow. Prophetic mount! Thou seemedst then to be Wrapt in a vision of futurity, Fearfully whispering words of joy or moan, Whose sense was hidden in thy heart alone. Nor seer alone of future days o'ercast, But true historian of the blighted past, Buried beneath thy feet thou chainest deep Treasures of beauty in enchanted sleep: Temples and streets and quaintly painted halls, Vases and cups for antique festivals, Fair statues in whose undulating line The Grecian artist lavished dreams divine; Altars that burned to gods of mighty name, Until thy greater sacrificial flame Swallowed the lesser. Princely art and power Sank blood-warm to its grave in that dark hour When thou, wild despot, even to the sea Whose fevered waves shrank from the fear of thee Meeting thy fire-kiss, didst send forth thy hosts, Cloud-myrmidons of death, flooding the coasts That smiled around thy blue enamelled bay. Years rolled. The cities in their dungeons lay Embalmed in lovely death. Long ages crept. Flowers and luxuriant vines above them slept, And still not half the wealth beneath that lies Revisits the sweet light of summer skies. So thou, stern chronicler, dialest thy dates, Not by the ephemeral growth and change of states, But thunderous blasts upheaving from below, That melt to mist the winter's hoarded snow, By thy deep beds of fire, thy strata old, And the slow creep of vegetable mould. Yet fearful as thou towerest, seen so near, In thy environment of blight and fear, Beautiful art thou burning from afar In liquid fire,—as though a melting star Had fallen upon thee from the sky profound, And streamed adown thy sides which, gemmed around, Sparkle like some dark Abyssinian queen Robed in her amethyst and ruby sheen. E'en now I see thee nightly from this bower Where the red rose and the white orange-flower Mingle their odors. Looking o'er the sea, Thy shadowy cone of solemn mystery Shoots downward in the waves a softened gleam, Until, by beauty lulled, I can but dream Of thee as of each gentle lovely thing That in my path lies daily blossoming. Christopher Pearse Cranch.</field>
+   </doc>
+</add>

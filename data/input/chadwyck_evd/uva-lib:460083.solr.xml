@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Garrick, David, 1717-1779</field>
+      <field name="author_facet">Garrick, David, 1717-1779</field>
+      <field name="author_sort_facet">garrick david 1717 1779</field>
+      <field name="author_text">Garrick, David, 1717-1779</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1780's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V2.0380.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1785</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460083</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Linco's Travels</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 18th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 18th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Linco's Travels</field>
+      <field name="title_facet">lincos travels</field>
+      <field name="title_sort_facet">lincos travels</field>
+      <field name="title_text">Linco's Travels</field>
+      <field name="year_display">1785</field>
+      <field name="year_facet">1785</field>
+      <field name="year_multisort_i">1785</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460083&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460083&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Garrick, David, 1717-1779&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;garrick david 1717 1779&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Linco's Travels&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;lincos travels&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1785&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1785&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Garrick, David&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1717&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1779&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Linco's Travels&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for George Kearsley [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1785&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872410-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv20380&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Linco's Travels&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 17 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only verse drama included.&lt;lb/&gt;The following play has been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Linco's travels.</field>
+      <field name="desc_meta_file_display">Genre: Interlude.</field>
+      <field name="desc_meta_file_display">Date first published: 1785.</field>
+      <field name="desc_meta_file_display">Date first performed: 6 Mar 1767.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">LINCO's TRAVELS An Interlude, acted at Drury-lane, for Mr. King's Benefit, April 1767..</field>
+      <field name="fulltext">Linco, Mr. King. Dorcas, Mrs. Bradshaw.</field>
+      <field name="fulltext">Enter Arcadian Men and Women; and among them Dorcas, gathering about Linco. Chorus of Arcadians. WELCOME Linco, welcome home. Linco. Happy am I, that am come; Tho' I've been in countries rare, Seen such sights would make you stare! Arcadian. Tell us, tell us! Linco. Give me air to blow my bellows. Arcadian. Tell us, tell us! Linco. A moment spare. Arcad. Make your neighbors some amends. Linco. Never more I'll wander, Simple, silly gander, From my flock and cackling friends. (Shakes hands, and kisses the women.) Chorus. Welcome, Linco, welcome home. Linco. Don't crowd so, neighbours, you confound me: Stand back, and make a circle round me; I'll move my elbows in the center— And on my travels thus I enter: O yes!—keep silence old and young; Do you find ears, while I find tongue. Dorcas. I am so deaf, I must come near thee. (Approaches. Linco. And pray be dumb, or you'll not hear me. Seiz'd with a strange desire of gadding, Which sets your Englishmen a madding; I rather chose, like them, to roam, To play the fool, than stay at home: But tho', like them, abroad I rov'd, I'm not return'd so much improv'd— (ironically) Dorcas. Those English folks are very strange. Linco. In politicks much giv'n to change; They are in temper like the weather; Fair, storm, foul, sun-shine all together: Strange contradictions, gay and sad, Mop'd, merry, moody, wife, and mad! A strange hodge-podge of good and bad. Dorcas. 'Tis said they are so fierce and bold! No woman's safe. Linco. Unless she's old. Dorcas. I hate such wantonness and riot! Linco. You'd live among 'em very quiet. (loud) Arcadian. But are they so prodigious stout? Linco. Best go and try 'em, if you doubt. Be honest, and they'll kindly treat you; Be pert and saucy, and they'll beat you. If you dissect an English skull, Of politicks 'tis so brimful, Of papers, pamphlets, prose and verse, The furniture can't well be worse. So furious are they to be free, Nothing so common as to see Britons dead-drunk for liberty. This draws the sword of Englishmen; Of Englishwomen draws the pen; I ne'er shall see such folks again. Their very children on the lap, Are fed with liberty and pap! But hold— True travellers have various ways To ease their bones—they quit their chaise, To mount a horse, and pace along— So I, to ease my half-tir'd tongue, Leave doggrel trot, to pace it in a song. AIR. [I.] I saw sprightly France, That nation so gay, Where they sing and they dance All their sorrows away. For with fal, lal, la, And ha! ha! ha! They drive sorrow away. II. The German so brave, Not a smile must come near; When they laugh they are grave; 'Tis thus with mynheer. They fal, lal, la, And ha! ha! ha! Nicht laughter, mynheer. III. The Italians so fly, Have one simple plan, On your purse they keep eye, And their hand, if they can. If you fal, lal, lal, Then they fal, lal, lal, So Signor, Signora, if they can. IV. But England's strange folk Are my greatest delight; They'll scold, and they'll joke, Shake hands, and they'll fight. One moment fal, lal, lal, The next fal, lal, lal, Curse, kiss you, and fight. I will now leave my horse, and my chaise, for a time, And will foot it for change in prose tagg'd with rhyme. Arcadian. Of England tell more, what their sport and their trade is. Dorcas. And tell us, good Linco, some news of their ladies. Linco. Their women are fair, but fantastical grown, To Dame Nature owe much, would they let her alone. They challenge the world for good hearts and sweet faces, But use all their tongues as they do in all places. For their sports, they have plays, where all ranks and degrees Take places to sweat, to be squeez'd, and to squeeze. 'Tis strange, but 'tis true, what I saw with my eye, They give money to laugh, and what's stranger—to cry. They build 'em fine places to meet in, and talk; To walk round and round, and then round and round walk. When tir'd to drink tea, and to eat butter'd bread; Then again round and round, and go home almost dead. Of all human things there, a traffic is made; Religion, law, physick—nay, beauty's a trade. Arcadian. Beauty! (starts) Linco. Yes beauty, I say—at midnight you'll meet Kind damsels, who offer their charms in the street. “Ah! so you! where go you? Sir, pray stay a while,” Then so softly they talk, and so sweetly they smile, That they tempt you to buy, by alluring approaches; Such females are hir'd, as they hire hackney coaches. Dorcas. Fye for shame! for their kingdom they should not have me. Linco. In that, my good dame, you and they will agree; For ev'ry disorder, they'll publish a cure, Whose virtue, much puffing and swearing insure: Should he kill the poor patient, the doctor must gain, And still have good trade—for the dead won't complain. Tho' they talk of their rights, which they'll fight for, and die; Yet to know what's their right, to the law they apply; For two bits of gold a black gown reads your case, Hums, and haws, and thus speaks with a wife pucker'd face: That coat on your back you have bought, and may use it; 'Tis prov'd the next day 'tis not mine, and I lose it. Among these green bags, if you are not alert, With your coat, you may lose both your waistcoat and shirt. And happy I am that I've brought home my skin. Dorcas. To forsake all your friends was a shame and a sin. Leave roving, and make your own country your wife. Linco. From this moment I wed her, and take her for life: Shall quit all the world, and think her the most comely, For home is still home, tho' never so homely. SONG. [I.] I'll never go abroad, again, Nor ever will I roam; For he has but a flimsy brain, Who wanders far from home. See nine in ten Of Englishmen, Who run the nations o'er; Tho' pert and gay, Yet, pray, are they Much wiser than before? Chorus.See nine in ten, &amp;c. &amp;c. II. Contented here, I'll pass my life, For roving's but a curse; I'll take my country for a wife, For better and for worse: See nine in ten Of Englishmen, Who run the nations o'er; Tho' pert and gay, Yet, pray, are they Much wiser than before? Chorus.See nine in ten, &amp;c. &amp;c. III. While I can see such sights as these, And such a harvest bring; And, while I can my betters please, For ever will I sing— That nine in ten Of Englishmen, Who chuse abroad to roam, Among mankind Will ever find The worth they leave at home. Chorus.See nine in ten, &amp;c. &amp;c.</field>
+   </doc>
+</add>

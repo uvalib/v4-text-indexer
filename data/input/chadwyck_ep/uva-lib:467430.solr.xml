@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Rawnsley, H. D., (Hardwicke Drummond), 1851-1920</field>
+      <field name="author_facet">Rawnsley, H. D., (Hardwicke Drummond), 1851-1920</field>
+      <field name="author_sort_facet">rawnsley h d hardwicke drummond 1851 1920</field>
+      <field name="author_text">Rawnsley, H. D., (Hardwicke Drummond), 1851-1920</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1870's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_3.2364.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1877</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:467430</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">"The Miners' Rescue ; Troedyrhiw Colliery, Rhondda Vale, Glamorganshire, April 20, 1877. A Poem. By H. D. Rawnsley</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">"The Miners' Rescue ; Troedyrhiw Colliery, Rhondda Vale, Glamorganshire, April 20, 1877. A Poem. By H. D. Rawnsley</field>
+      <field name="title_facet">miners rescue</field>
+      <field name="title_sort_facet">miners rescue</field>
+      <field name="title_text">"The Miners' Rescue ; Troedyrhiw Colliery, Rhondda Vale, Glamorganshire, April 20, 1877. A Poem. By H. D. Rawnsley</field>
+      <field name="year_display">1877</field>
+      <field name="year_facet">1877</field>
+      <field name="year_multisort_i">1877</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:467430&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:467430&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Rawnsley, H. D., (Hardwicke Drummond), 1851-1920&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;rawnsley h d hardwicke drummond 1851 1920&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;"The Miners' Rescue ; Troedyrhiw Colliery, Rhondda Vale, Glamorganshire, April 20, 1877. A Poem. By H. D. Rawnsley&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;miners rescue&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1877&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1877&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Rawnsley, H. D., (Hardwicke Drummond)&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1851&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1920&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;"The Miners' Rescue."&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Troedyrhiw Colliery, Rhondda Vale, Glamorganshire, April 20, 1877. A Poem. By H. D. Rawnsley&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Bristol&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Hamilton, Adams, &amp;amp; Co.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;I. E. Chillcott&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1877&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp3276&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;19 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;"The Miners' Rescue."&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Troedyrhiw Colliery, Rhondda Vale, Glamorganshire, April 20, 1877. A Poem. By H. D. Rawnsley&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 21 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE MINERS' RESCUE. I have no heart to sing of war, Though skies shake horribly afar, Where Russia's eagles yell: What pick, and spade, and mandril do, When hands are swift and hearts are true— These are the deeds I tell. The Miner's harp aside is flung, His life still keeps his courage strung, He puts in act what once he sung About his mountain vales: His hands are hard, but soft his soul; He does grim battle with the coal, And deep in earth takes deep control Of his unconquered Wales. Know ye the curd-white clouds that fly From out their chimney prisons high, The mounds that rising change the sky, The pit wheel's twinkling tires? Saw ye the heavens aflame at night, Blood-rosy, as with northern light? The furnace cressets leaping bright, With their industrious fires? The red sun sinks: now comes the hour The Pitman loves, and forth they pour, Each lassie watches from her door, Each lad will woo his lass; The father feels the breathing heaven, He whistles to the star of even, Away the mother's fear is driven, He taps the cottage glass. The lass must wait beside the pit, The mother through her tears may knit, The bairns shall take the father's bit, This night in Rhondda's vale. God! heard ye not that hideous cry, Which like a ghost went sobbing by, And saw ye not the company Of good wives hurrying pale? “Oh! Cymmer's pit is broke, is broke!” None other word the old man spoke; But eyes that fill, and sobs that choke, Proclaim the rumour's grief. Do belts of fire or water bind? Wind engine, at your swiftest wind, And bring the poor wife peace of mind, The weeping bairn relief. Up came the cage, all dripping dank; Forth stepped the shuddering men to bank; Down on their knees the women sank, What else should women do! And are these all who worked the coal? Ask of the silent muster-roll; Fourteen in that deep-flooded hole Have left their friends to rue. It was a cruel thing to see The waters foam above the knee, Fill headway, arch, and gallery, And on with horrid roar: The Miner's heart is strong and brave; But who might then a brother save! Behind him was a watery grave, A watery grave before. But they whose “Aye” we did not hear— Jenkins, and Thomas, Powell—where?— And that young lad we love so dear— Say, comrades, if ye trow? Then out, and spoke a Pitsman bold: “Their bodies may lie wet and cold; But if their hearts the sweet life hold, Our life for theirs we'll know.” Or, mind ye not that other five, What if, as those, these still survive? A chart and twelve good mandrils give, And we will try the worst. Can Death's familiar threat dismay? “They died,” shall generations say? “Because we feared to win a way, And to their prison burst?” Forth, at the word, twelve heroes stept, Each at his craft a known adept; They would not hear how women wept, To their strong purpose fast— By day and night to work the coal, Though fire may rage and waters roll, Airs smother, till they reach the goal, And free their friends at last. They doused their lamps, and each did twist The leathern thong about his wrist; Then bairn and wife the rough lips kissed, And down they swung from ken. All through that night, all through that week, Though vapours stifle, waters leak, Though shoulders ache, they toil to break, Through to their fellow-men. Bare to the waist, and on their side, Still, two and two, their picks they plied; Hope was their safety-lamp and guide, True courage led them on. As this one wearies for a space, A third will crawl into his place, And fresh arms urge the dreadful race That death so nearly won. They could not stand, they might not see, Nor yet so much as bend the knee, But their brave arms for work are free, And they will urge a way; Though forty yards that way have barred, And every inch in every yard In Tynewydd's pit is diamond-hard, They'll hold it soft as clay. Night, day; day, night, though neither spoke, The cheery pick's incessant stroke, And the deep gulps of men that choke Came up the main they made; While, on the barrier's further side, To these stout-questioning blows replied Faint taps that freshened strength supplied, And called for swifter aid. Not theirs the daylight's glorious meed, When blood leaps up and burns to bleed; They only knew a comrade's need The dangers that beset. In every chink was lurking death— Water, or fire, or sulphury breath— And they must die like rats beneath, If face to face they met. They reck not that a people's eyes Are fixed upon their enterprise; That angels watch the fall and rise Of hammer, axe, and bar: But they will show, though they may rue, What spade, and pick, and mandril do, When hands are swift, and hearts are true, And friends in danger are. Nor hearts alone; for ready wit Shall to the case experience fit, And a world's science in that pit Will lead the bold attack: Close doors the struggling air confine, The powers of heaven enslaved combine To quench the terrors of the mine, And hold the waters back. I have no heart to tell the woe Those prisoned men did undergo, God, and their souls alone can know; But this I dare to say,— Their weak arms nursed the little lad, Gave all the comforts that they had For this youth's sake; that one went mad Before the rescue lay: That in their dark and loathsome cell They sang rude hymns remembered well; Then powerless silence on them fell, They waited for their doom: That, famine-faint, they heard the click Of mandril, but their throats were thick, They could not cry; they deemed the pick Would find a furnished tomb: They lost all count of time; they knew The seconds by the blows that flew, And faster rang, and nearer drew; One stroke! a bitter cry! Out through the rift, with cannon roar, Their only hope, the pent winds pour, The waters crawl above the floor; Great God, the rescuers fly! So nearly saved, so surely dead, They spake no word, no prayer was said; Hope only lifted up her head With hand upon her ear: Nay, fire, flood, vapour, all are vain, Back to the task they rush again, The tottering barriers reel and strain, Hard, labouring breaths they hear; In at the cleft, whate'er betide, Leaps like a cat bold Isaac Pride, His comrade follows at his side, And groping in the night— “We are no ghosts, but fellow-men, Reared in the same Glamorgan glen, We bring you to your prison-den Life, liberty, and light. “Where is the lad we hold so dear? Jenkins, and Powell, Thomas, where?” Safe! God be praised! Speed on the cheer From gallery to shaft; Loud let the guns in Rhondda's vale Shout, fling the flags into the gale, Bid the swift needles flash the tale, And be the wine-cup quaffed! To raise a sigh not mine the art; But it would melt a stonier heart To see those pitsmen act the part Of wife and mother then; How down rough cheeks warm tears were driven, How necks were clasped, and kisses given, And angels seemed to lend from heaven A woman's will to men. Aye, though the Miner's hands are hard, He has a soul no toil has marred; Still hero, woman, saint, and bard Are treasures in his breast: And if his sinews be of steel, His heart is soft and quick to feel, And dread occasion will unseal The founts we little guessed. Tender as wives their first-born hold, Strong arms their fainting brothers fold; Sore famished, wet, nigh dead with cold, They bear them safely on: This one will carry, that must lead; For, generous in their utmost need, “He is the weaker one,” they plead, Though weaker there is none. Through strand by mortal fingers bent Was never thrill more swiftly sent, Nor swiftlier obedient Has engine hauled the rope; No whirring drum in Rhondda's vale E'er wound a more triumphant tale, Nor brought to bank a goodlier bale Of courage, life, and hope. These weak, weak men, who late were strong; These old, old men, who late were young; With covered face they bore along, Like dead men on a bier: And as they passed folk bared the head, And thanked the God who raised the dead, So brought them to a kindly bed Within a cottage near. By day and night that cottage yard A hamlet's anxious hearts have barred, There a great nation's whole regard Burns like a watch-fire bright. Small marvel that high ladies stand To chafe the collier's feeble hand When Queen and lowliest of the land In kindliness unite. Let others prate of sword, and state, And thrones that bloody fields make great, Of subtle councillors' debate; Her crown alone is sure, Who makes her subjects what they are By pure example, not by war, And on her forehead, like a star, Wears love for all her poor. And ye, ye truly tried and brave, Who tore your comrades from the grave, A gallant nation's thanks ye have; About your necks is hung A new memorial of a deed, generations far shall need, To rouse again to fire the breed Who from your ashes sprung. Your own reward—in sullen pit, Or when the cottage lamp is lit, A smile shall o'er your faces flit; Remembrance surer far— To think you showed, though you might rue, What spade, and pick, and mandril do, When the Welsh Miner's heart is true, And friends in danger are. SONNET. IN MEMORIAM WILLIAM MORGAN. Weep not, when, as a hero, hero dies; Like a young lion, The father of William Morgan, who, with his son and three others, was entombed in the upper workings of the Tynewydd Pit, says:—“Faint tappings were heard; off went our jackets; my beloved son, who is no more, worked all night with the energy of a lion.” in some cavern pent, He toiled that night to break his 'prisonment, And on the morrow found where freedom lies; His hands rain blood, but still the pick he plies, With heart that hope, not desperation, lent; Shall an old father's eyes be on him bent, And he prove coward in his father's eyes? One blow, a breach, and through that breach a soul Passed with the winds that roared and rushed beyond; His hand upon the pick-axe still was found, His life beat out against the murd'rous coal; But a faint smile on Morgan's battered face Told how the Miner died in Miner's fittest place. Rev. H. D. RAWNSLEY. St. Barnabas' Vicarage, Bristol.</field>
+   </doc>
+</add>

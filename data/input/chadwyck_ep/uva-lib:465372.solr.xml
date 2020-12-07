@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Keith, Charles</field>
+      <field name="author_facet">Keith, Charles</field>
+      <field name="author_sort_facet">keith charles</field>
+      <field name="author_text">Keith, Charles</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1800's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.1223.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1805</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:465372</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">Monody to the memory of the Rev. Dr Charles Nisbet ; many years First Minister of Montrose, and late President of the College of Carlisle, in Pennsylvania [by Charles Keith</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">Monody to the memory of the Rev. Dr Charles Nisbet ; many years First Minister of Montrose, and late President of the College of Carlisle, in Pennsylvania [by Charles Keith</field>
+      <field name="title_facet">monody to the memory of the rev dr charles nisbet</field>
+      <field name="title_sort_facet">monody to the memory of the rev dr charles nisbet</field>
+      <field name="title_text">Monody to the memory of the Rev. Dr Charles Nisbet ; many years First Minister of Montrose, and late President of the College of Carlisle, in Pennsylvania [by Charles Keith</field>
+      <field name="year_display">1805</field>
+      <field name="year_facet">1805</field>
+      <field name="year_multisort_i">1805</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:465372&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:465372&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Keith, Charles&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;keith charles&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Monody to the memory of the Rev. Dr Charles Nisbet ; many years First Minister of Montrose, and late President of the College of Carlisle, in Pennsylvania [by Charles Keith&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;monody to the memory of the rev dr charles nisbet&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1805&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1805&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Keith, Charles&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Monody to the memory of the Rev. Dr Charles Nisbet&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;many years First Minister of Montrose, and late President of the College of Carlisle, in Pennsylvania [by Charles Keith]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Edinburgh&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed by James Ballantyne for Archibald Constable and Co.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1805&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp2034&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;23 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Monody to the memory of the Rev. Dr Charles Nisbet&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;many years First Minister of Montrose, and late President of the College of Carlisle, in Pennsylvania [by Charles Keith]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 22 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Liber enim curis, terrenæ et pondere molis Astra tenes, propiusque Deo quem mente colebus Nunc frueris. Buchananus.</field>
+      <field name="fulltext">MONODY. Is there no poet with a muse sublime, No bard inspir'd in the wide western clime; Did matchless genius every charm display, And could its loss not meet one mournful lay? Ah! could no son, Columbia, touch the lyre, Ah! could not excellence one bosom fire? Did honour, virtue, truth, unheeded shine, The man all worth, all learning the divine; Did Nisbet live to light your land so long, And could he die without a fun'ral song! For you I blush, yet trembling touch the lyre, Though warm'd with zeal and friendship's sacred fire. O may an angel Muse my guardian be, Apollo and the Nine are nought to me. Lur'd more by art than dignities or gain, He bade adieu to Scotia's happy plain; All warm in wishes to instruct mankind, With richest stores from his capacious mind; Brav'd seas and storms, the vast Atlantic cross'd, And soon, too soon, by wilder billows toss'd; By pride, by ignorance, by folly's sneer; Envy in front, and malice in the rear; By jealousy malign, with looks aghast, And base ingratitude's all-chilling blast. His heart sincere, his philanthropic mind Felt ev'ry wish to meliorate mankind; With purest love he gave his precious hours, Man to improve by his exalted pow'rs; 'Twas his, from clouds of vice the mind to clear, Man to restore to bliss, to God endear: 'Twas his, with zeal, true science to impart, By each engaging charm, each winning art; His, with choice gifts, to warn from every snare, Man's noblest int'rests his peculiar care: At others' joy, with joy his bosom glow'd, At others' woe, his tender feelings flow'd. He gave a pattern to domestic life— O happy children, highly favour'd wife! Ye knew how well he acted ev'ry part, How duty and affection warm'd his heart: Though a degen'rate age his soul oppress'd, You held the spotless empire of his breast; Be his pure precepts in your actions shown, And let your lives be transcripts of his own. Nor less in public life did he excel In thinking wisely, and in acting well; A champion firm for injur'd virtue's laws, A powerful advocate to plead her cause. French demons, skill'd in all the basest arts, At truth and honour aim'd their venom'd darts; 'Twas his to lead to wisdom, virtue, joy; Theirs, to corrupt, to torture, and destroy; While piety and love compos'd his plan, They fear'd not God, nor yet regarded man: “Behold,” they cry, “our free enlighten'd Gaul!” And slaves to ev'ry vice, for freedom bawl: At home, Heav'n's citadel they dar'd to storm; This their grand effort, when they states reform. Next, in their gibberish stile, they organize, That is, reverse the order of the skies; Then, freedom, then, extends her vast domain, And death, and dread, and desolation reign. O liberty, how grand are thy pursuits! Equality, how precious are thy fruits! Princes, and peers, and priests, ye sacrifice, Millions of victims, as your incense rise; Destroying angels to the human race, Demons of discord, man's supreme disgrace. Degen'rate France first made these idols shine, And bade mankind be prostrate at their shrine; Unthinking mortals, dazzl'd with their view, Soon found them furies of the blackest hue; Soon found, alas! their ruthless empire stood In devastation, and in seas of blood. Deluded France, what was your mighty gain! An upstart Nero for Vespasian slain; A deadly serpent twining round the heart, For him who cherish'd ev'ry vital part; A wolf rapacious, for a parent's wing, A renegado, for a Christian king; Your empire sunk, your throne for ever stain'd, A robber sits, where your great Henry reign'd. He bade deluded men on Britain look, Who Gallic anarchy for freedom took: True friend to rightful rule, to order's cause, He taught, that freedom only reign'd by laws; That constitutions to perfection rise, As laws are pure, and legislators wise. Though his great mind once fondly hop'd to see Men wise, and just, and good, as they were free, He found in liberty's all boasted train, Ambition lurk, and lawless lust of gain; Though, like fam'd Burke, fair freedom warm'd his soul, The freedom, that could lead to virtue's goal; Though, like him, jealous of despotic pow'r, The canker worm, man's comforts to devour; Yet, when the madd'ning mob assum'd the sway, And rage and rapine rul'd in open day; When kings and nobles from their seats were hurl'd, And sacrilege the pastime of the world; When all the knaves, in ev'ry state, combin'd, And stil'd themselves, Deliv'rers of Mankind; When law was vanquish'd in fair freedom's name, And social order left no rights to claim; When wild chimeras, with fell discord fraught, For truth and sound philosophy were taught; When all was govern'd by Almighty chance, The Sacred Scriptures deem'd a wild romance; Virtue decried, in loud triumphant tone, The Deity expell'd his heav'nly throne, Man's joys, all swallow'd by destructions deep, Man's hopes, all buried in eternal sleep; He, all indignant, saw the horrid plan, Hostile alike to God, to virtue, man; With all the pow'rs of reason, judgment, truth, 'Twas his to warn, and guard the minds of youth, Against such doctrines, sprung from France and Hell, That, to reform the world, is to rebel; That all man's pow'rs, and all his rights, are vain, If titles blazon, and if monarchs reign; That liberty is all an airy dream, Unless the sovereign people rule supreme. He saw, with deep concern, the world's disgrace, The sad debasement of the human race, While hideous monsters held their hateful reign, All laws to trample, and all rights profane; Taught ev'ry vice, inflicted ev'ry smart, And banish'd feeling from the human heart; Robb'd men of earth, of heav'n, of fortune, fame, And all this horror veil'd by freedom's name; The Rights of Man, incessantly, they cried, And yet they ev'ry right to God denied; From man's best rights they madly turn'd their eyes, The rights of doing good, and being wise. Nor ceas'd his labours, nor decay'd his zeal, That man might wisely act, and nobly feel; Yet griev'd to see him ev'ry wish restrain To fancied freedom, pow'r, and paltry gain; Anxious to win the young, their thoughts engage, That virtue's seeds might bloom in riper age; That learning's gifts might ev'ry bliss impart, And ev'ry finer feeling warm the heart: His worth, his wisdom, and his genius rare, Oft spent “their fragrance in the desert air.” His, was a spark of heav'nly fire, all bright, With clouds around of ignorance and night; That spark divine could ev'ry tempest brave, Oceans of pride, and folly's ceaseless wave; Still bright it shone with undiminish'd ray, Pure and exhaustless, as the god of day; Defying change when worlds receive their doom, Not dimm'd by death, nor faded by the tomb. O western world, your noblest boast is fled! Let tears of woe embalm the sacred dead: Review his worth, his vast endowments tell, And on his life and great example dwell; While that rich gem shone in your favour'd eyes, That gem so precious, did you duly prize? Exalted soul! thy Caledonia weeps, Her love, maternal, slumbers not nor sleeps; From dawn of infancy, 'twas hers to trace Her future ornament, her pride, her grace; 'Twas hers, with joy, to mark each op'ning ray, That augur'd genius of resplendent day, When ev'ry art and science should combine, When wit should dazzle, and when learning shine: That long'd for era all-auspicious came, And her choice glory liv'd in thy fair fame; Thy fame increasing, with increasing days, Thy talents shining still with brighter blaze. The book of life, the storehouse of the mind, Heav'n's richest treasure, giv'n to bless mankind, She saw thee ope, with wisdom's pow'rs divine, The soul to elevate, the heart refine; Saw thine was love, and thine a pastor's care, To guard from sin, and ev'ry worldly snare; To lead the young to joys that never cease, By heav'nly wisdom, whose blest paths are peace; The poor to comfort, mourners woes assuage, And hope impart, to prop declining age; The sick to solace, ease affliction's rod, To bid the dying put their trust in God; To teach the proud their wayward paths to scan, And learn humility, best boast of man; To urge the rich to seek that wealth with zeal Where moths corrupt not, where no thief can steal. Though heav'ns rich gifts did thy best pow'rs employ, She saw thee, too, descend to social joy Saw lively wit, enthron'd on genius, shine, And all the charms of chastest humour thine; Saw fancy's brightest rays unceasing flow, And friendship's sacred flame for ever glow: She heard thy name resound to distant climes, She saw thy fame would reach to future times. America beheld, with anxious eyes, And, by address, obtain'd this matchless prize; And Caledonia, honour'd by his name, Preferr'd his glory to a mother's fame; With pain, with pride, her darling son resign'd To bless, to tutor, to exalt mankind. Deep skill'd in science, rich in learning's lore, And rich in treasures of celestial store; With every talent to point out the way To earth's best joys, and heaven's immortal day; Resign'd him to adorn the western clime, With all that's lovely, noble, and sublime; To ope the mind, with ev'ry winning art, And stores of richest knowledge to impart; To lead the soul to each exalted view, Nor only science, but fair truth pursue; To teach the virtues, light with wisdom's ray, With heav'nly beams, to glad life's dreary way; To gain mankind by each endearing charm, And life, and death, of ev'ry sting disarm: While wisdom's treasures warm'd his ev'ry strain, Ye, thoughtless many! scorn'd your richest gain; While he, with zeal, improv'd the happy few, The Rights of Man were kings and priests to you; Like the deaf adder, ye evinced your choice, Madly disdain'd to hear the charmer's voice; Though virtue was his aim, and truth his view, Friendship, the wine of life, he seldom knew; Save its effusions, from lov'd Britain's isle, To glad his heart, and irksome hours beguile; There, valued friends his thoughts would oft employ, And their prized intercourse, his choicest joy: Britannia's weal, his pride, his prime desire, She warm'd his heart with purest patriot fire; While a new world engag'd his precious pow'rs, He thought on Britain's joys, and peaceful bow'rs; Her laws best suited to repel man's foes, Hers, the best model, for the world's repose; While states and kingdoms were to ruin hurl'd, 'Twas her's to tow'r, proud bulwark of the world; Without, all powerful, to defend from harm, Within, all lovely, fraught with ev'ry charm; Free from the tyrant hand the lev'ling train, Religion, laws, and spotless freedom reign: He joy'd to see her heaven's peculiar care, And for her weal pour'd forth his warmest prayer This excellent man, a short time before his death, in his last letter to the author, concludes thus:—“May the Lord of Hosts preserve Great Britain, and confound the designs of the enemies of mankind.”. All sainted soul! forgive his artless strain, Who wafts his sigh beyond the western main; Who, living, lov'd thee; with a heart sincere, Now wails thy loss with friendship's sacred tear. Lamented shade! at thy all hallow'd shrine Unfading wreaths the weeping virtues twine; And pure religion droops her sacred head, Laments her friend, her faithful Nisbet dead Dr Nisbet, who was exemplary for his piety and his regard to the interests of true religion, gave a complete course of lectures on divinity in the college of Carlisle; and the author has reason to believe, that the Doctor's was the first and only course of theological lectures ever composed or delivered in America.. Britannia mourns, in sorrow's deepest gloom; Immortal Genius sighs around thy tomb; That wit which blaz'd, to charm the world before, Is set in night, alas! to rise no more; Learning divine appears in sad dismay, Reft of so rich a gem, so bright a ray. Transcendant worth shall rouse the trump of Fame, And mem'ry's page record his honour'd name. Angelic shade! thy great example nigh, May teach us how to live, and how to die; Like thee, meet joy or woe, delight or pain, Like thee, to suffer, and like thee, to reign. THE END.</field>
+   </doc>
+</add>

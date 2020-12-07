@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Youll, Henry</field>
+      <field name="author_facet">Youll, Henry</field>
+      <field name="author_sort_facet">youll henry</field>
+      <field name="author_text">Youll, Henry</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.1810.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">1608</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464290</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Canzonets to three voyces</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">Canzonets to three voyces</field>
+      <field name="title_facet">canzonets to three voyces</field>
+      <field name="title_sort_facet">canzonets to three voyces</field>
+      <field name="title_text">Canzonets to three voyces</field>
+      <field name="year_display">1608</field>
+      <field name="year_facet">1608</field>
+      <field name="year_multisort_i">1608</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464290&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464290&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Youll, Henry&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;youll henry&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Canzonets to three voyces&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;canzonets to three voyces&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1608&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1608&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Youll, Henry&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Canzonets to three voyces&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed by Thomas Este [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1608&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp3733&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;3 parts&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Canzonets to three voyces&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 15 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted; music omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">The following poems are scored from music in the source texts. Where poems are not stanzaic, no attempt has been made to reconstruct metrical lines. Repetition marks have been ignored. To the vertuous Gentlemen M?. Nicholas Bacon, M?. Phillip Bacon, M?. Nathaniell Bacon, and M?. Lionell Bacon, Sonnes to the Worshipfull M?. Edward Bacon Esquire, Henry Youll wisheth all happinesse both heere and heereafter.</field>
+      <field name="fulltext">[I. Each day of thine] Each day of thine sweet month of May, Loue makes a solemne holy day, I will performe like dutie, Since thou resemblest euery way, Astrea Queene of beautie. [II. Come Loue lets walke] Come Loue lets walke into the Spring, Where wee may heare the black Bird sing, The Robin Redbreast and the Thrush, The Nightingale in thorny bush, The Mauis sweetly caroling, These to my Loue content will bring. [III. In yonder dale] In yonder dale there are fine flowers, And many pleasant shadie bowers, A pirling brooke whose siluer streames, Are beautified by Phœbus beames, Which stealing through the trees for feare, Because Diana bathes her there. [IIII. See where this Nimph] She where this Nimph with all her traine, Comes tripping ore the parke amaine, And in this groue here will shee stay, At barly breake to sport and play, Where we may sit vs downe and see, Faire Beautie mixt with Chastitie. [V. Pipe shepheards pipe] Pipe shepheards pipe full merily, Let sweetest Musicke sound on high, Till all the Vallies ring, Pipe shepheards pipe full merily, This is the ioyfull bridall day of Coridon and Philida, Sing shepheards sweetly sing. [VI. Onely ioy now heare you are] Onely ioy now heare you are, Fit to heare and ease my care, Let my whisp'ring voice obtaine, Sweet reward for sharpest paine, Take mee to thee and thee to mee, No no my deere, my deere let bee. [VII. Of sweet and daintie flowres] Of sweet and daintie flowres, A garland I haue dight, And many pleasant shadie bowres, For my true loues delight, Adornd with Roses and Lillies, Sweet Violets and Daffadillies, Where she may sit and sing, Like Flora in her pride, And welcome in the Spring, By her thus beautified. [VIII. Slow, slow fresh fount] Slow fresh fount, keepe time with my salt teares, List to the heauie part the Musicke beares, Woe weepes out her deuision, when she sings, Droope hearbs and flowers, Fall griefe in showers, Our beauties are not ours. O I could still, Like melting Snow vpon some craggy hill, Drop, O drop, Since natures pride is now a withered Daffadill. [IX. In pleasant sommers morning] In pleasant sommers morning, Close shrouded in a groue, Amintas thus sat mourning, For Scilla his faire loue, O cruell Fates and spightfull, Her absence I lament, Whose presence so delightfull, Did yeeld such sweet content. [X. Once I thought to dye for Loue] Onnce I thought to dye for Loue, Till I found that women proue, Traitors in their smiling, They say men vnconstant bee, But they themselues loue change wee see, Till new growes old and old growes stale, And all is but beguiling. [XI. Awake sweet Loue] Awake sweet Loue, sweet Loue, tis time to rise, Phœbus is risen in the East, Spreding his beams on those faire eyes, Which are inclosde with natures rest, Awake, Awake from heauy sleepe, Which all thy thoughts in silence keep. [XII. Pittie me, pittie me] Pittie me mine owne sweet Iuell, Bee not still vnkinde, and cruell. Come sit by me, let vs together sing, And thou shalt bee my bonny darling. [XIII. Cease restlesse thoughts] Cease restlesse thoughts to vexe my carefull minde, And bid adue to vaine delights of loue, Since Phillis she alas is prou'd vnkinde, Farewell vnkinde my silly sheepe and I, Henceforth will ioyne in equall simpathy. [XIIII. Sweet Phillis stay] Sweet Phillis stay let pitty moue thee, O come againe, and take mee with thee, Bee not still vnkinde and too cruell, My onely best beloued Iewell. [XV. The shepheards daughters] The shepheards daughters are all gone, Leauing their flocks to feede alone, From the greene wood, fresh May to bring, So sweetly they play, And sing all the way, That fields and groues with heavenly Musick ring. [XVI. Bvt behold where they returne along] Bvt behold where they returne along, With Daphne faire, their Virgin troopes among, Vpon whose golden locks they all haue set, Of fragrant flowres, a seemely Coronet, Sounding on high, in Daphnes praise, Pleasant songs and roundelayes. [XVII. Say shepheard say] Say shepheard say where is faire Phillis gone, Thus carelesly to leaue her flock distrest, See how they wander vp and down alone, And mourne her absence whom they loued best, While she forgetfull of her silly sheepe, Loue stole her hart, and all her thoughts doth keepe. [XVIII. Bvt though poore sheepe] Bvt though poore sheepe faire Phillis thus doe mourne, Yet willingly helpe thou their weake estate. For shee though carelesse, may againe returne, And loue neglected, may conuert to hate, When shee reioycing in her freedomes gaine, That wanton boy dispised shall remaine. [XIX. In the mery Month of May] In the mery Month of May, The fields are deckt with flowers gay, The woods and groues where birds do sing, Redubling ecchoes sweetly ring. [XX. Come mery lads let vs away] Come mery lads let vs away, For Philliday our shepheards Queene, About the Maypole there doth stay, With all her Virgins clad in greene, Hark I heare the Bagpipe sound, While they daunce lightly on the ground. [XXI. Whiles ioyfull spring time lasteth] Whiles ioyfull spring time lasteth, Each thing of pleasure tasteth, And with delights abound, Whiles ioyfull spring time lasteth, The Birds so sweetly singing, The flowres so freshly springing, With Natures beautie crowned. [XXII. Earely before the day doth spring] Earely before the day doth spring Let vs awake my Muse and sing, It is no time to slumber, So many ioyes this time doth bring, As time will faile to number. [XXIII. Where are now those iolly swaines] Where are now those iolly swaines, That were wont to grace these plaines, And in their mery vaines, Now they haue time and leasure, They'r gone to take their pleasure, Each one to dance his measure. [XXIIII. Now the country lasses hie them] Now the country lasses hie them, And these mery lads they spie them, And still as they come nie them, This is a mery greeting, each one doth kisse his sweeting, And this is their first meeting. FINIS.</field>
+   </doc>
+</add>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Rands, William Brighty, 1823-1882</field>
+      <field name="author_facet">Rands, William Brighty, 1823-1882</field>
+      <field name="author_sort_facet">rands william brighty 1823 1882</field>
+      <field name="author_text">Rands, William Brighty, 1823-1882</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1870's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V3.0649.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1871</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460978</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Lock And Key</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Lock And Key</field>
+      <field name="title_facet">lock and key</field>
+      <field name="title_sort_facet">lock and key</field>
+      <field name="title_text">Lock And Key</field>
+      <field name="year_display">1871</field>
+      <field name="year_facet">1871</field>
+      <field name="year_multisort_i">1871</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460978&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460978&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Rands, William Brighty, 1823-1882&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;rands william brighty 1823 1882&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Lock And Key&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;lock and key&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1871&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1871&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Rands, William Brighty&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1823&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1882&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Lock And Key&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;George Routledge&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1871&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873309-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv30649&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Lock And Key&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 28 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted&lt;lb/&gt;The following plays have been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Lock and key.</field>
+      <field name="desc_meta_file_display">Genre: Extravaganza.</field>
+      <field name="desc_meta_file_display">Date first published: 1871.</field>
+      <field name="desc_meta_file_display">Date first performed: Unknown.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">LOCK AND KEY.</field>
+      <field name="fulltext">CHARACTERS. The Lady Godmother. The Maid Innocent. The Three Wise Men of Gotham. Gaffer. Gammer. The Fool. Three Children.</field>
+      <field name="fulltext">I. The Abode of the Godmother, who is seated on a throne, holding an orbed sceptre. Lady Godmother. The Lady Godmother am I, Dwelling between the earth and sky; Lady of night, and noon, and morn; To every man and woman born Below, I am the godmother. Ah, how my puzzled children err! To every one a gift I make, But must not speak, for that would break The law that forces me to give, As godmother to all that live. I give, but I may not declare The meaning that my gifts do bear; And all my messengers are dumb, Though countless thousands go and come. Enter Dumb Messenger, who makes a gesture of submission and willingness. Thou canst not speak, but thou canst hear. Dumb Messenger. (A gesture of assent, and a movement suggestive of flying.) Lady Godmother. Maid Innocent to me is dear. Dumb Messenger. (A gesture of assent and submission). Lady Godmother. With this gift be thou swiftly sped, And place it by her cradle's head. [She gives him a small golden cabinet. He receives it, with obeisances, and departs. Chorus, without. Through the night, or through the day, Silent angel, find thy way. Do not wake the mother mild, Do not wake the little child: Only bear the gift to her From the Lady Godmother. Yet some day, for weal or woe, She the Lady's gift will know; She shall hearken and shall seek For the angels that may speak. Bear the gift, then, messenger, From the Lady Godmother. Lady Godmother. Maid Innocent, receive my gift! And when the dream begins to lift, And when the day begins to break, And when to the wide world you wake, And speaking angels round you flit— Your dower—what will you make of it?</field>
+      <field name="fulltext">II. Scene Anywhere. Enter Gaffer and Gammer. Gaffer. Have you heard the news, Gammer? Gammer. Have I! Do you think a body is deaf? Gaffer. But I never told you, and I thought nobody knew it but myself. Gammer. Oh, that's your conceit. Everybody knows it. Gaffer. Then, of course, it is of no use my making a secret of it? Gammer. I should fancy not, indeed. The fact is— Gaffer. Yes, dame? Gammer. Well? Gaffer. I thought you knew? Gammer. I thought you knew? Gaffer. I thought we both knew? Gammer. Well, then (whispering), not to conceal anything from an old friend like you— Gaffer. Yes, yes, yes?— Gammer. I should never think of being so mean. Concealment is base, among friends. Gaffer. Yes, dame, sure enough. The news— Gammer (tartly). Well, what is the news? Gaffer. I thought you said everybody had heard it already? Gammer. Oh, very well, very well! Not another word will you get out of me! I can keep a secret as well as the rest. Do you fancy I have no sense of honour, Gaffer? Gaffer. Well, dame, the fact is this— Gammer. Yes, do tell! Gaffer. Maid Innocent has come to years of discretion (in a loud solemn whisper). Gammer. Poor dear, that is news! What will she do with 'em? Gaffer. With what? Gammer. With her ears of discretion? Gaffer. I believe you are deaf, after all. I said years of discretion (bawling into her ear). Gammer. Oh, deary, deary me! Why, I thought you meant ears of discretion—like wisdom-teeth, you know. Gaffer. Nay, nay, dame. Maid Innocent has come to the age of choice; can do what she likes, you know, eh? (nudging her). Gammer. That's worse than all the ears of discretion and wisdom-teeth in the world, that is. Gaffer. How do you know? Gammer. Man alive, do you think I have lived all these years in the world for nothing? I can tell you, I have seen what I have seen; ay, that have I; and more's the pity. Gaffer. Well, as I was saying— Gammer. Yes, yes, Gaffer, go on! [Comes up close to him, eagerly, and fumbles at her apron, listening. Gaffer. Yes. Where was I? They say she had a real queen for a godmother! Gammer. Real? Gaffer. Yes, real. And that one night a little golden cabinet was found at her cradle's head, when she was a baby, and her mother was fast asleep. Gammer. Go on, go on—this is news! Gaffer. I thought you would say so. And—stop, dame, did you ever hear of the Three Wise Men of Gotham? Gammer. Of course I did. They went out to sea in a washing-tub; ha, ha, ha! Gaffer. Ha, ha, ha! Well, the Three Wise Men of Gotham heard of this golden cabinet, and wanted to know what was inside it— Gammer. What for, sakes-alive? Gaffer. They said they wanted to tell Maid Innocent all about it when she had reached years of discretion, don't you see? Gammer. Yes, yes, I see. I shouldn't have thought they had so much gumption. Gaffer. Oh, but they had, and they've been considering the golden cabinet day and night for ever so long, and they can't even so much as find out how to open it! Hush, hush, here they come, all three! They are going to hold a grand council over it this very hour! Gammer. They do look clever, I must say. They carry their noses wonderful! [The Three Wise of Gotham, wearing spectacles, pass over arm-in-arm, sniffing the air. Exeunt all.</field>
+      <field name="fulltext">III. A Study. The Three Wise Men seated, in council. The golden cabinet in the centre of the table. First Wise Man. The Wise Men of Gotham we are! Second Wise Man. Our wisdom we fetch from afar! Third Wise Man. We mend, and we make, and we mar! All Three. The Wise Men of Gotham we are! First Wise Man. Yet we cannot unfasten this box. Second Wise Man. Its lock is the mystery of locks. Third Wise Man. At our wisdom this cabinet mocks. All Three (in solemn monotone, joining hands, and looking up through their spectacles.) We are the Three Wise Men of Gotham. First Wise Man. I am in favour of pick-locks. Second Wise Man. I am in favour of a crowbar. Third Wise Man. I am in favour of a galvanic shock. All Three (in solemn recitative, as before). We are the Three Wise Men of Gotham. First Wise Man. I do not believe the box will ever open. Second Wise Man. I do not believe the box was ever intended to open. Third Wise Man. I do not believe there is anything whatever inside the box. All Three (as before). We are the Three Wise Men of Gotham. Chorus, without. Unto thee, Maid Innocent, Now the messengers are bent; To thee, in the hour of choice, Comes the angel with a voice; Lo, the gift o' the Godmother!— Hasten, angel, speak to her! Angel, speak, and she will hear, For she knows the gift is dear; Angel, speak, and she will know, For the Heavens will have it so: Lo, the gift o' the Godmother! She shall take it unto her. First Wise Man. I thought I heard a noise. Second Wise Man. I consider it possible that a noise might have been heard. Third Wise Man. I decline to commit myself to any positive expression of opinion. All three. We are the Three— Interruption. Enter Fool, with cap and bells. Fool. Gentlemen, my mistress, the Maid Innocent! Maid Innocent. Yes, pardon me, my mind is set This day to claim my cabinet, And—since I know that I can choose— To put the gift within to use. First Wise Man. Why, spite of our united skill— Second Wise Man. And our united work and will— Third Wise Man. And zeal, that cabinet is still— Fool. My lady's cabinet is hers, And, so, give place, philosophers! Maid Innocent (comes forward, and touches the lid of the golden cabinet. It opens easily and instantly). My cabinet unlocks to me. Fool. In spite of all this mystery! First Wise Man (earnestly). You are a fool! Second Wise Man (earnestly). You are a fool! Third Wise Man (earnestly). You are a fool! All Three. And we are the Three Wise Men of Gotham. Maid Innocent. Never mind, Fool! Fool. Sweet mistress, no: I do not mind. Let it be so. I am a fool (mimicking). Ha, ha; ho, ho! But I know where the wise men sit, And I have a scent for others' wit. [Bowing to the table. [The Three Wise Men nod in grave acknowledgment. Maid Innocent (rapt and listening). And now the dream begins to lift, Dread Godmother, I know thy gift; And now the veil begins to part, I place thy gift against my heart; And now to the wide world I wake, Sweet Godmother, my dower I take; And speaking angels round me flit, While in my breast I cherish it. Fool (sings). In the realm where I was born, It is Wisdom goes forlorn, While, with ermine and with rose, Folly in a chariot goes; She is fair, the Queen that rules In the native land of Fools. Gentles all, a Fool am I, By the favour of the sky, And of this good company; Yet I led my mistress dear To the council gathered here, For I knew the box was hers, And not yours, philosophers! And that, spite of such, and such, After all your labour much, It would open to her touch! First Wise Man. Well, since the cabinet unlocks To you, girl, what is in the box? Second Wise Man. Yes, what is in the cabinet? Third Wise Man. To know the same our minds are set! Maid Innocent. Gentles, I cannot tell you how; The gift is in my bosom now. Fool. But I can tell you all about The way to know. All Three Wise Men. How, how? Fool. Find out. Maid Innocent. The days will pass, and I shall hear The speaking angels yet more near, And what my dower is will be seen As the bare trees put on their green In spring. Fool. A Wise Man from the West Once found an egg within a nest, The first he ever saw. He tried A hundred ways to see inside; Angry at last, the egg he broke, And splashed away the golden yolk In doing so. With wit self-willed, That Wise Man of the West had killed— All Three Wise Men. What, what? Fool. A phœnix! First Wise Man. Credulous fool! A story of a cock and bull! All Three of them. We will, we will know what is there, We from her breast the thing will tear! [They make an angry rush at Maid Innocent. Music without. The Fool drives them back with his bladder, shaking his bells at them. They stand at bay close up. Fool. Pray you, put forth again to sea In the old tub, most sacred three! Three Children (in white, pushing forward a tub, and singing)— Rub-a-dub-dub! We bring them the tub; The Wise Men of Gotham. 'Tis easy to know them, And stow them, [Pulling them into the tub by their skirts. And row them, And blow them To Gotham! Rub-a-dub-dub, Be off in the tub! [The tub is drawn off. Tableau. The Three Children in white clasp the skirts of Maid Innocent, who stoops to embrace them, under the benediction of the Fool, who has just given the Tub a parting kick. Music without. The Lady Godmother discovered in the distance, as at first. Slow curtain.</field>
+   </doc>
+</add>

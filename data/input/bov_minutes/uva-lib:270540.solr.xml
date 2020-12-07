@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1850's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2006_06/uvaGenText/tei/bov_18560908.xml</field>
+      <field name="date_indexed_facet">201909240343</field>
+      <field name="date_text">September 8, 1856</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:270540</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. September 8, 1856</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  September 8, 1856</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  September 8, 1856</field>
+      <field name="year_display">September 8, 1856</field>
+      <field name="year_facet">1856-09-08</field>
+      <field name="year_multisort_i">1856</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:270540&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:270540&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. September 8, 1856&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;September 8, 1856&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1856-09-08&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;September 8, 1856&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Public minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;6 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information. Access to minutes containing salary information will be granted only under the procedures of the Virginia Freedom of Information Act (Code of Virginia-2.1-340 ff.) or if permission is granted by the Secretary of the Board. Researchers interested in obtaining access to these records should direct a request in writing to the Office of the Legal Adviser, Madison Hall, University of Virginia. These public minutes have had salary information deleted and bear no restrictions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1856-09-08&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 14 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">SPECIAL MEETING University of Virginia Sept 8th 1856 The Board met pursuant to its adjourning order of June 28th 1856 present A. Stevenson, Rector, J. R. Edmunds W. T. Joynes, Wm J. Robertson &amp; J. R. Tucker, Visitors, these constituting a quorum, the rector called the board to order, and several subjects were considered, but without coming to any definite action, the Board adjourned until tomorrow morning at 8 1/2 oclock A.M. Tuesday Morning Sept 9th 1856 The Board met pursuant to adjournment present the same gentlemen as on yesterday with the exception of the Rector who was detained from his place by indisposition there being no quorum present, the members in attendance were engaged in preparing work, until 12 oclock M. when by the arrival of Col J. E. Baldwin a Board was formed and organized by the election of Wm S. Joynes Rector pro tem. The following proceedings were then had. The Board being impressed with the necessity of some changes in the present laws respecting Hotel Keepers and the mode of their appointment have- Resolved that the Board will itself hereafter, unless otherwise specially ordered, appoint all Hotel Keepers. Resolved that no resignation of any Hotel Keeper nor of a Proctor or other officer shall be made (except at the option of the Board) unless upon 30 days notice to take effect at the terination of the Scholastic year, provided that this last resolution shall not take effect until the 1st day of January 1857. Resolved that in case of any vacancy occuring in any of the aforesaid offices the Executive Committee are hereby authorized to fill them by temporary appointments, whose term shall expire one month after the next annual meeting of the Board. On motion of Col Baldwin it was unanimously Resolved that the first resolution in relation to Mr A. Maupin, one of the Hotel Keepers passed June 28th 1856 be rescinded &amp; that he be furnished with a copy of this resolution &amp; of the one hereby rescinded. On motion of Mr Joynes the following entry was made. Mr George Rives appeared before the Board, and requested the appointment of Mrs Ross as a Hotel Keeper in place of Col Watson, informing the Board that Col Watson proposes to resign his position and to transfer his furnature to Mrs Ross, in case of her appointment. The Board thereupon ordered that the Rector inform Mr Rives that the Board will not entertain any proposition for the appointment of a Hotel Keeper in anticipation of a vacancy, but that if any Hotel Keeper desires to tender his resignation the Board are now prepared to receive it- but that in the event of a vacancy the Board will consider the claims of every applicant upon their merits. Col J.R. Watson appeared in person and resigned his office of Hotel Keeper of the University of Va, which resignation was accepted by the Board. Mr James Neeson appeared and took his seat at the Board. The Board next proceeded to the reading of the testimonials of the following candidates for the Chair of Greek &amp; Hebrew in the University of Virginia. viz George F Holmes, Wytheville Va. William Shelton,       Tennessee B. L. Gildersleeve, Richmond Cty, Va. William Carroll, Lynchburg College William E. Peters, Emory &amp; Henry College W. W. Tibbs, Fauquier County Va. Henry C. Cameron of Princeton New Jersey F.F. Kemper, of Boonville Missouri. The testimonials of these gentlemen being read, the vote was taken in the presence of Mr Stevenson and resulted as follows For B. L. Gildersleeve. Messrs Tucker Edmunds, Robertson, Neeson Baldwin &amp; Joynes For Geo F. Holmes, Mr Stevenson. Mr Stevenson then retired from the meeting in consequence of indisposition. The subject of an increase of Professors Salaries bing under consideration the Board of Visitors deemed it inexpedient to make any change. Resolved that the Proctor pay to Mr Compton $150 with legal interest thereon from the 1st day of July 1855 in full of his claim for rent, &amp;c for the House erected by him on the grounds of the University- But the Board does not mean by the passage of this resolution to sanction the erection of any buildings without their previous approval. Resolved that the Professors of law be authorized to excuse the Candidates for the degree of Bachelor of Laws, who have taken certificates of Proficiency in Constitutional and International Law, from re- examination on those topics. Mrs     Ross is appointed Hotel Keeper in the rplace of Col J.R. Watson resigned. Resolved that the Proctor be authorized to apply to the repairs of the Gymnasium under the direction of Mr D'Alfonce, such sum as may be necessary not exceeding $130. A resolution of the Faculty passed April 1st 1856 was communicated to the Board as follows: "Extract from the proceedings of the Faculty April 1st 1856 Resolved that in the opinion of the Faculty the law passed by the legislature at its last session, in regard to state students, does not apply to those at present members of the institution, and whose terms of appointment will expire either on the 29th of June 1856 or the 29th of June 1857." Resolved that in the opinion of the Board the act of the last Legislature was not intended to interfere with the support of State Students for the session of 1855-56 - but the Board are of opinion that for the future, State Students can only receive[?] the benefits provided by that act. Mr Charles B. Shaw, superintendent of work upon the terraces returned his final estimates of balances due to George W. Spooner &amp; James F. Bowyer the contractors for the work, whereupon it was, Resolved that the Proctor be directed to pay to George W. Spooner the sum of $1301.94/100 &amp; to James F. Bowyer the sum of $86.18/100 in full discharge of the amounts due them respectively upon their contracts, according to the said estimates. The Board having had under consideration the claim of Mr Charles B. Shaw for his services as superintendent &amp; architect of the work done upon the Terraces &amp; having fully heard Mr Shaw in support of his claim is of opinion that nothing is due to him &amp; refuses to make him any payment. Resolved that when the Board adjourns it adjourns to meet the second Wednesday of February 1857. Resolved that the Proctor be authorized to expend under the directions of the Executive Committee a sum not exceeding $600 in making the additions to the outhouses on Dr Cabell's lot as applied for by him, Resolved that the Proctor be directed to assign to Prof Davis a lot of the University land such as has heretofore been assigned to the other professors, The location to be approved by the Executive Committee. Resolved that for the present the salary of the Secretary of the Faculty be increased to $200 per year. The Board then adjourned until the 11th day of February 1857. Wm. T. Joynew Rector pro tem R. T. W. Duke Secretary</field>
+   </doc>
+</add>

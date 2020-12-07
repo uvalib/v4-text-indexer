@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Cornwall, Barry, 1787-1874</field>
+      <field name="author_facet">Cornwall, Barry, 1787-1874</field>
+      <field name="author_sort_facet">cornwall barry 1787 1874</field>
+      <field name="author_text">Cornwall, Barry, 1787-1874</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1850's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V3.0467.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1857</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460817</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Raffaelle and Fornarina</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Raffaelle and Fornarina</field>
+      <field name="title_facet">raffaelle and fornarina</field>
+      <field name="title_sort_facet">raffaelle and fornarina</field>
+      <field name="title_text">Raffaelle and Fornarina</field>
+      <field name="year_display">1857</field>
+      <field name="year_facet">1857</field>
+      <field name="year_multisort_i">1857</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460817&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460817&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Cornwall, Barry, 1787-1874&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;cornwall barry 1787 1874&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Raffaelle and Fornarina&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;raffaelle and fornarina&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1857&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1857&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Cornwall, Barry&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1787&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1874&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Raffaelle and Fornarina&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chapman and Hall&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1857&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872947-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv30467&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Raffaelle and Fornarina&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 28 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted&lt;lb/&gt;The following plays have been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Raffaelle and Fornarina.</field>
+      <field name="desc_meta_file_display">Genre: Dramatic poem.</field>
+      <field name="desc_meta_file_display">Date first published: 1819.</field>
+      <field name="desc_meta_file_display">Date first performed: Unknown.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">RAFFAELLE AND FORNARINA.</field>
+      <field name="fulltext">SCENE I. —A Room in the Palace of the Prince C?. Raffaelle. Julio Romano. (The Picture of ‘The Triumph of Galatea unfinished.) JULIO. I do not like that head. RAFFAELLE. I am sorry for it. JULIO. It is too sleek, too soft, too— RAFFAELLE. 'Tis a woman's. Wouldst have me paint each muscle starting forth? Or play the anatomist with her delicate limbs, As Michael doth? Thou'rt wrong, friend Julio. Here, in this brawny back, thou seest I have writ Strength, and a life of toil: but this—'tis Love's! JULIO. I do not like it. RAFFAELLE. I have done better things; But let it pass. I want her company, Without whose smiles my figures turn to stone. Now, look! JULIO. I'faith, that is a dove-eyed Triton. With what a milk-fed glance he winds his shell! I would have filled it like the North, and puffed His broad cheeks out like two tempest-blown billows. This fellow, now, is like a loving shark, And wears his spirit in his eyes: 'tis good. RAFFAELLE. Dost thou not see that, throughout all this story, The spirit of Love prevails, in many shapes; In some most gentle, and in others warm, Whilst in one form, bare lust alone is seen, The blood's rebellion, the— JULIO. I understand not. Would all were such as he! RAFFAELLE. Pshaw! I had better Have drawn a herd of bulls lowing about One white Europa, than another such. Julio, I tire. I loathe this gaudy prison; I'll paint no more, unless my love be present. JULIO. If thou darest trust thy Venus in my sight— RAFFAELLE. Ha, ha, ha, ha! JULIO. Then why not bring her hither? RAFFAELLE. Hither? I will. She shall stand here before thee, plain as Truth; Less stedfast, but as white as untouched Truth, Whom slander never blew on. Brace thy heart, Lest she take all by storm. JULIO. What is she like? RAFFAELLE. Her eye is like a magnet. JULIO. What, i' the Pole? Is it set round with ice? RAFFAELLE. With blushing fire; With crimson beauty, like the death of day At midsummer. Her look—O Love! O Love! She treadeth with such even grace, that all The world must wonder, and the envious weep, Hopeless to match her ever. How I pined Through months and months (I was a fool and humble) Till at the last—I won her! Dost thou hear? She's mine, my queen; and she shall shine a queen. I'll clasp her round with gems: Her train shall be Rich as a comet's,— JULIO. Art grown mad? RAFFAELLE. I tell thee I'll pave the way she treads on with pure gold. She shall not touch the trampled earth, and do The base dust honor. I'll have Cretan pinions Wrought for her, and a barb whose task shall be To outfly the wind. Scarfs, fine as the air, And dipped in Iris colors, shall be wove, In Cashmere and the sunny Persian looms, To be her commonest 'tire. She shall be decked Forth, as she is, a goddess! JULIO. O rare Love! What a brave dream thou art! Great pity 'tis These rainbows which we weave from our dull thoughts Should perish in broad noon. RAFFAELLE. Once, I despaired! (Painting.) Ha, ha! and saw through tears and cloudy dreams: What wonder that I erred? But now,—'tis day! JULIO. Ay, ay; 'tis what we wish it, day or night: We make our seasons as we make ourselves. RAFFAELLE. There; now I toil no more. While I am gone, Do thou enrich this panel with some tale. Let it be gaunt, and wild, dim as a dream: 'Twill well oppose mine own. JULIO. I'll do it. Farewell! RAFFAELLE. I shall be with thee ere the sun's awake. Be busy, and farewell! [Raffaelle exit. JULIO. I'll do't, I'll do't. —Now, shall I paint the devil? Ah, ha!—or drag Misshapen Chaos from his dark abysm, And stretch him, like a giant, in the sun? Or shall I tear the blue from South to North? Or paint a comet plunging through the wind? This ‘Triumph’ of our friend's is wanton soft: But there's high matter in the sea-nymph's story, Which might become a painter's pencil well. He should have drawn the Cyclop, as he sate Uplifted like a crag, and piped his songs Of Galatea to the watery shores. Some say that Orpheus-like he charmed dull stones, Made ocean murmur, and the airy winds Took captive; but 'tis known he sighed, and sang The deathful ditties which belong to love; Calling on Galatea. She the while Lay mute, and closed (if e'er she heard his strains) Her soul against his passion. Day by day He sang, and like the mateless lark called forth The dawn; and underneath the burning noon Held mournful celebration; and at eve, Fatigued by sorrow and wild songs, he wept. I cannot fill this panel as he bids. [Sketching. The Prince C?enters. PRINCE. So; where is Raffaelle? JULIO. Gone. PRINCE. Gone whither? gone? JULIO. Ay, marry; Cupid called him, and he went. You'll find him by the two great lemon-trees, Which sleep beside the fountain in his garden. H' 'as brought his brown girl there for summer talking. [Paints. PRINCE. 'Sdeath! what art thou doing, sirrah? JULIO. Um! as my master bade me. I have tried— PRINCE. Tried? ay, and failed. Get thou to Raffaelle, fellow. Bid him sketch for thee each particular, The scene, the groups, the—all. I will not have My palace painted by a meaner hand. Bid him come here (if it must be) with his—mistress, And paint with Cupid's colors. [Exeunt.</field>
+      <field name="fulltext">SCENE II. —The Garden of Fornarina, in the Suburbs of Rome. Fornarina and Attendants. Will he not come? FIRST ATTENDANT. Be patient. FORNARINA. He'll not come. The moon, the feigning, fickle, slandered moon Will surely come; and every trooping star Be present at his post in the dark sky; And not a wind that wooes the orange leaves Will dare be absent: But he—false, oh false! Mark, wenches, if ye love—but do not love: Yet, if ye do, fetter your lovers fast; Bind 'em in chains, for love will fail like ice In summer sunbeams: Trust no smiles, no oaths; Bury your hearts beneath demurest frowns; And tremble not, nor sigh, if you'd be safe. Sing me a song, my child; I am not well. [Second Attendant begins to sing. FIRST ATTENDANT. Hark! hark! FORNARINA. He's here. Mother of love, he's here. Come! come away! I'll fly him like a deer. Now if he finds me—Ah! thou faithless one, [Raffaelle enters. Art come at last? I will not look on thee. RAFFAELLE. Then I must punish thee (kisses her). Look up! FORNARINA. Thou false one! RAFFAELLE. Did I not hear the nightingale in the thorn, Just as I entered? Why, what gloom is here? No welcome? none?—Ladies! who make our nights Starry as heaven when no cloud's upon it, Shine and smile sweetly, as ye love us. Shame! What is this sullen sorrow, which so dulls Your brightness? Let rain fall, if rain must be, And straight grow clear again. Look up, sweet heart! FORNARINA. Ha, ha, ha, ha! What seest thou, now I look? RAFFAELLE. A world of mischief in those night-black eyes, And peril on thy mouth. FORNARINA. Now, art thou not A most false lover? Thou didst promise me Thou wouldst come long before the sun went down; And lo! he is departing. RAFFAELLE. The great sun Falls from his fiery strength! This purple light, Traveller of the late sky, will soon—how soon! Pass to another world. I love this light: 'Tis the old age of day, methinks, or haply The infancy of night: pleasant it is. Shall we be dreaming!—Hark! The nightingale, Queen of all music, to her listening heart Speaks and the woods are still. Sorrow and joy, Pleasure that pines to death, and amorous pain Fill (till it faints) her song. What sweet noise was't Came up the garden as I entered it? FORNARINA. The sweetest noise on earth, a woman's tongue; A string which hath no discord. RAFFAELLE. Let me hear it. Come! a soft song! a song! SECOND ATTENDANT. What shall it be? FORNARINA. Sing anything, good girl. Beauty is beauty, Whether it vie with swan's-down or the rose. Sing!—yet not sadly, for the time is mournful; Nor yet too gaily; that were out of tune: But sing whatever tempts thee. Second Attendant sings. SONG. 1 O summer river! Why dost thou prolong Through cold nights for ever Thy sad forest song? 2 Thou hast warm rich hours, Wherein thou mayst pine Underneath the flowers, Which shall ne'er be thine. 3 Through them sing and run, Where green branches quiver; But when day is done, Sleep, sweet summer river! RAFFAELLE. This music falls on me like silver showers, And crowns me, now the toilsome day is over, With sweets akin to slumber. FORNARINA. Many thanks! I think Marcella's voice grows sweeter daily. RAFFAELLE. She'll meet pale Philomel in her haunt, and try Whose tongue is fleetest. Where was't she did learn? FORNARINA. Beside a river, when she was a girl, Mocking its music, as the cuckoo's tongue Is mimicked oft by wandering urchin boys. Sometimes she cast her voice upon the winds, And then strove with the waters; till, at last, She sings as you have heard. Thanks, girls! now leave us. [Attendants exeunt. RAFFAELLE. How soft a prelude are sweet songs to love! I should be humble, but those sounds have crept Into my blood and stirred it. After music What should be heard but kisses? Take thy due. FORNARINA. Tush! Tush! RAFFAELLE. Come nearer to me,—near. Mad Jove Ne'er loved white Leda with such tenderest heart, Nor Dis (forsaking his Tartarean halls) Pale Proserpine, as I do rage for thee. Come nearer, thou wild witch! nearer, I say. Be to me as the green is to the leaf, Crimson to roses, juice to the fresh plant, My life, my strength, my beauty. FORNARINA. I am here. RAFFAELLE. I love thee; dost thou hear? I languished for thee. Ay; I have left sweet praises for thee,—gold, Thrilling ambition, and the crowned delight Which waits upon bold men who dare and do. Near, near; I have left—ha, ha!—a Triton winding His brawny arms around a shapeless nymph, God Cupid without eyes, fish without tails, And Galatea naked as the dawn. What is it that I see in those black eyes Beyond all others? FORNARINA. Love! 'Tis love for thee! But, what didst paint to-day? RAFFAELLE. A team of dolphins, A brace of Tritons and a crooked shell, And some thoughts else,—which I forget. These things Shine well enough for men below the moon: But I have taken flight for Venus' aery, Where I must rest to-night. Our patron prince Will wax most wroth when he doth learn my absence. No matter; he must cool. FORNARINA. But thou hast left Thy friend, thy pupil, him—what is his name? Thy uncouth, clever scholar? RAFFAELLE. Julio Pippi. Troth, he's as rough as winter. Here he is! [Julio Romano enters. Why, what has brought thee here? JULIO. Oh! princely frowns, A vulgar word or two, a Roman oath. Rather than toil for these same well-fed dogs, With a gold badge and a line which runs to Adam, I'll visit a wolf, and starve. Your lord, your prince Disdains my pencil, Sir; commands me stop. I'll paint him with a flaming robe in Hell, And give him a dog-fish's head. RAFFAELLE. Heed him not, Julio. If he contemn thy labor, he's a fool; And so no more of him. Thou shalt paint for me. JULIO. I will. Shall't be an earthquake? or a storm? RAFFAELLE. Neither; yet something which will suit thee well. Dost love a marvel? JULIO. Do I? By the Gods, Who dreamt upon Greek clouds Olympus-high, I love a quaint, wild, wonder-stirring tale. Let it be Goth or Roman, what care I, So that each line be stuffed with witchery. RAFFAELLE. Then this will suit thee. Now, mark well the story. —'Tis said that in some land, I think in Spain, Rising upon you like an awful dream, A wondrous image stands. 'Tis broad and gaunt, Tall as a gaint, with a stormy front And snaky hair, and large eyes all of stone; And armed (or so it seems) from head to heel, With a crook'd falchion and enormous casque; And links of marble mail, which once were brass; And spurs of marble; and marmoreal limbs, All bent, like one who staggers. Full at the East It glares like a defiance, lowering, bold; And scorn still lurks about its stedfast eye; And on its brow a devilish courage sits. This statue, as 'tis told, was once a king, A fierce idolater, who cursed the moon And hated heaven, yet owned some hellish sway: A strange religion this, and yet it was so. Well; he was born a king, as I have said, And reigned o'er armèd millions without law: He sold brave men for beggar gold, and stained The innocent youth of virtue: he robbed altars; Ate, like Apicius; drank, like Afric sands, Rivers of wine; then fell to frenzy. At last Swarming rebellions (like the Atlantic stirred To madness by the bellowing of great storms) Rose up, and lashed to wrath by horrid wrongs, Hunted the tyrant from his brazen throne; Hunted him like a wolf from cave to cave, Through rocks and mountains, and deep perilous glens, Day after day, night after night, until His soul burst out in curses. On one dull dawn, Which showed him, lurking, to relentless foes, He flung some terrible reproach at Heaven; Laughed at its God, 'tis said, and cursed the Sun; Whereat the broad eye of the Day unclosed, And stared him into stone! JULIO. Oh! this is brave. I'll strain my wit but I will do this for thee. Farewell! [JULIO exit. RAFFAELLE. Farewell! Farewell! [Exeunt.</field>
+   </doc>
+</add>

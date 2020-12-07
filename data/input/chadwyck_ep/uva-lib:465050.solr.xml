@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Tickell, Richard, 1751-1793</field>
+      <field name="author_facet">Tickell, Richard, 1751-1793</field>
+      <field name="author_sort_facet">tickell richard 1751 1793</field>
+      <field name="author_text">Tickell, Richard, 1751-1793</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1770's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.0631.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1778</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:465050</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">The Project ; A Poem. The Fourth Edition [by Richard Tickell</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 18th century</field>
+      <field name="subject_text">English poetry -- 18th century</field>
+      <field name="title_display">The Project ; A Poem. The Fourth Edition [by Richard Tickell</field>
+      <field name="title_facet">project</field>
+      <field name="title_sort_facet">project</field>
+      <field name="title_text">The Project ; A Poem. The Fourth Edition [by Richard Tickell</field>
+      <field name="year_display">1778</field>
+      <field name="year_facet">1778</field>
+      <field name="year_multisort_i">1778</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:465050&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:465050&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Tickell, Richard, 1751-1793&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;tickell richard 1751 1793&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Project ; A Poem. The Fourth Edition [by Richard Tickell&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;project&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1778&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1778&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Tickell, Richard&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1751&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1793&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Project&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Poem. The Fourth Edition [by Richard Tickell]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for T. Becket&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1778&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp3929&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;12 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Project&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Poem. The Fourth Edition [by Richard Tickell]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 19 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">DEDICATED TO DEAN TUCKER.</field>
+      <field name="fulltext">Verum, ubi, tempestas, et cœli mobilis humor Mutavêre vias, et Jupiter uvidus Austris Densat erant quæ rara modo, et quæ densa, relaxat Vertuntur species animorum;? Virgil.</field>
+      <field name="fulltext">THE PROJECT. Since sage philosophers aver, That climate forms the character; And prove each nation, tame, or bold, Just as its air is hot or cold; What schemes might crafty statesmen lay, If such a system they'd obey? Suppose the Turks, who now agree It wou'd fatigue them to be free, Should build an ice-house, to debate More cooly on affairs of state, Might not some Mussulmen be brought, To brace their minds, not shrink at thought? How, as their blood began to cool, Would nature scorn despotic rule? The silken sons of slavish ease, Wou'd glow for freedom, while they freeze; And, in porportion to the coldness, Discover latent fire and boldness. For thus 'tis Montesquieu explains The power of air upon the veins; The short'ning fibres brac'd by cold, The blood flies back, the heart grows bold, Relax'd by heat, their force declines, The spirits droop, the being pines: 'Till, quite o'erpow'r'd, the sick'ning soul, Yields to the atmosphere's controul. Thus air each impulse can impart, To that thermometer, the heart. Thanks, mighty Jove, thy sovereign care, Environs us with Northern air! Our atmosphere to honour leads, Inspires the breast to hardy deeds; The heart beats quick;—the spirits rise; All which our latitude supplies. Yet, for extremes ev'n virtue mar, We sometimes carry ours too far: When winter winds too chilly pierce, We grow impatient, wild and fierce; While every softer virtue flies, To gentler climes, and milder skies. To moderate this bold extreme, Is oft the philosophic theme; Sense, wit, and policy combine; But still too learnedly refine. The system's plain if well pursued; We must correct our latitude. How many Questions have been lost, By the house meeting in a frost? The opposition flock together, Like strings of wild geese, in hard weather; Keen, as the blast that chills their blood, They nip each ministerial bud: The tender bloom of ways and means, That North with wit and wisdom screens, Too oft their adverse influence feels, Shrinks from the storm, and half congeals; That, ev'n in all his blushing grace, Rigby scarce thaws them, with—his face. Whence then, in spite of sense and reason, Do statesmen choose this adverse season? Why not the parliament adjourn, 'Till summer's genial suns return? But ah, what honest squire would stay To make his speech, instead of hay? The Beaux wou'd scarcely think of law, To give up Scarborough or Spa: And say ye sportsmen, wou'd a member Attend St. Stephen's in September? Winter, stern pow'r! must still create The kindred storms of mad debate; Still, by the climate's magic pow'r, Must gloomy statesmen droop and low'r, Unless some Project we can frame To smooth its rage, its rigour tame. A simple plan the muse explains; Nor asks a patent for her pains. In either house, below the chairs, Where Bathurst rules, and Norton glares, There stands a table, where they place The votes the journals, and the mace: “Hence with that bauble!” Cromwell cried; And wisely too; 'tis useless pride; Hence with it all! it fills a place A nobler ornament shall grace. Here with capacious bulk, profound As Falstaff's paunch, as Plymouth's round, A vast Buzaglo, day by day, Shall chase the noxious blasts away, And spread an artificial glow, Tho' Palace-yard is wrapt in snow.— Around the flame, with vestal pride, A Fire-Commitee shall preside, Ballotted by the same directions As Grenville's lottery for elections; With Nominees, to feed the fire, And make it spread, and blaze the higher; And Chairmen more sedately sage, To quench its too excessive rage. The fuel for such deep designs, Nor springs from groves, nor lurks in mines; Combustibles for state affairs The press more speedily prepares; The teeming press shall hither scatter Rheams of inflammatory matter; Here, “thoughts that glow and words that burn” To their own element shall turn; But, shifted from their author's aims, Shall spread more salutary flames. Almon, by contract shall provide The libels vamp'd for either side, And stipulate throughout the season To furnish proper stock of treason. How bright will the Buzaglo glow, While heaps of Junius blaze below? What ardours wil Plain truth dispense Fir'd with a page of Common sense? Yet in a moment 'twill be slack'd, By thrusting in Dean Tucker's tract; Again 'twill kindle in a trice, Refresh'd with scraps of Dr. Price; Now smoulder slow with clumsy smoak, While Johnson's fogs each passage choak; Now hiss, and sputter, and besmear The house with brimstone of Shebbeare. O flattering hope, whose gilded ray, Too oft bids raptur'd fancy stray! Thy shadowy forms the muse deceive, Or time shall bid her Project live. Already, by thy fond presage, Her blest Buzaglo melts the age; Relenting Party feels its sway; And Faction's vapours die away. Behold the busy hour approaches, When chariots, vis-a-vis, and coache Rattle with senators each street in, Impatient for the first days meeting: Mark well what looks! what anxioos hopes! Some con their metaphors and tropes; Some, more secure, for fear of flaw, Hide them beneath their chapeaux bras; Whence, if the treacherous memory halts, The glancing eye repairs its faults. But, lo! the royal cavalcade! The trumpet sounds; the signal's made; The Tower-guns tell the speech begun; They fire again;—the speech is done. Now let the full Buzaglo glow! Spread wide the flame above, below; Now, Montesquieu, thy wisdom shines; Thy system's true, 'tis heat refines: Its genial influence all adore; And opposition is no more.— From bench to bench, in spite of gout, The soften'd Chatham moves about: “My good Lord Sandwich, how d'ye do? “I like the speech; 'twas penn'd by you. “America has gone too far; “We must support so just a war: “Its better than to put a curb on “The Spaniard, or the House of Bourbon. “Good day, my Lord! I could say more; “But I must talk to dear Lord Gower.” Chac'd is the cloud from Shelburne's brows; How graciously to Bute he bows! See Camden sitting as a friend by Mansfield! see Richmond close to Denbigh; Ev'n solid Devonshire relents; He smiles and votes with the Contents; While Abingdon, at Markham's nod, Kisses the magisterial rod. Their leaders gone, it follows duly, The plastic minds of Corke and Beaulieu, With half a score of silent votes, Obey the times, and change their notes. And ah, if Fitzroy's whim requires, Ev'n Hinchliff's eloquence expires! What wonder then their Lordship's press, Without division, the Address? Now haste my muse, at Fancy's summons, To try thy Project on the Commons. A secret sympathy espouses The upper and the lower houses; Thus half thy work's already done; Where Chatham hobbles, Granby 'll run. If Rockingham became a Turk, How Mahomet wou'd shine on Burke? He'd send him his enlight'ning pidgeon: For party zeal is Burke's religion. But some there are of firmer frame; For them must the Buzaglo flame: Grenville's with stubborn sense endued; Saville but lives for public good. Yet if ambition, or the weather Some gloomy discontent should gather, The temper'd air shall chase offence; And blend good humour with good sense. Behold at length ev'n Barre soften! “I rise to oppose,” He murmur'd often: But finding that, he knows not how, Reluctant praise his words allow, The hardy veteran sits him down; Yet gives the Treasury Bench a frown. Now mark the Statesmen of the City! Hark, Wilkes grows civil! Hayley witty! Sawbridge, so chang'd the scene appears, Consents to keep his seat seven years; Ev'n Bull, the savage Bull, looks tame! And melts before the conq'ring flame. Not so the Luttrell's; in despair The clamorous band besiege the chair. “I burn, I burn,” old Irnham cries: The Colonel thinks the Project wise; But Jack and Jemmy jointly pledge Themselves, 'tis breach of privilege; And Temple, Greece and Rome can hawk in, Against this barb'rous stop to talking: In vain; the House enjoy th' effect And the Buzaglo all protect. But Fox, more warily, to gain His dear delight to rail again, Most humbly moves, since they approve This potent wonder-working stove, Lest some unseen mischance ensue, They'd have a Ventilator too. Tho' plausible his Project fails; Thine, happy Muse, alone prevails. The vanquish'd Charles to Almack's fled, The Speech is prais'd: the Address is read: The Question carried nemine con: The House is up: the business done. FINIS.</field>
+   </doc>
+</add>

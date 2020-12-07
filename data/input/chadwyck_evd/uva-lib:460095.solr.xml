@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Colman, George, 1732-1794</field>
+      <field name="author_facet">Colman, George, 1732-1794</field>
+      <field name="author_sort_facet">colman george 1732 1794</field>
+      <field name="author_text">Colman, George, 1732-1794</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1770's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V2.0393.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1770</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460095</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Portrait ; A Burletta</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 18th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 18th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Portrait ; A Burletta</field>
+      <field name="title_facet">portrait</field>
+      <field name="title_sort_facet">portrait</field>
+      <field name="title_text">The Portrait ; A Burletta</field>
+      <field name="year_display">1770</field>
+      <field name="year_facet">1770</field>
+      <field name="year_multisort_i">1770</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460095&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460095&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Colman, George, 1732-1794&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;colman george 1732 1794&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Portrait ; A Burletta&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;portrait&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1770&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1770&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Colman, George&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1732&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1794&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Portrait&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Burletta&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for T. Becket and Co. [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1770&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872427-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv20393&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Portrait&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Burletta&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 36 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The portrait.</field>
+      <field name="desc_meta_file_display">Genre: Burletta.</field>
+      <field name="desc_meta_file_display">Date first published: 1770.</field>
+      <field name="desc_meta_file_display">Date first performed: 22 Nov 1770.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE PORTRAIT A BURLETTA</field>
+      <field name="fulltext">CHARACTERS. Pantaloon, Mr. Shuter. Leander, Mr. Reinhold. Pierrot, Mr. Morris. Isabella, Miss Catley. Colombine, Mrs. Thompson.</field>
+      <field name="fulltext">PART THE FIRST. An apartment in Pantaloon's house. The picture in front, as just sent home from the paitner's. ISABELLA alone. AIR. I'm pretty—or my looking-glass And flatt'ring men betray— Genteel and young—and yet, alas! Distress'd!—ah well-a-day! My guardian pursues me, Eternally wooes me: Such courtship may teize me. But never can please me; Let him say what he will, let him do all he can, How shou'd a young maiden endure an old man? I'm tender—as Leander knew: Leander, dearest swain! Loving and true—ah when will you, Sweet youth, return again? How soft were thy graces! How close thy embraces! How melting thy kisses! Oh ravishing blisses! Let her say, let her do all she can, How shou'd a young maiden resist a young man? RECITATIVE. With heroines in romances It was the constant trade, To tell their stories to some confidante; But when a smart gallant Makes amorous advances, A modern lady trusts her chambermaid. And here comes mine: Trusty, tho' flippant, Colombine. Enter COLOMBINE. Oh Colombine! thy kind advice, What shall I do? resolve me in a trice. COLOMBINE. Be rul'd by me, I'll end your sorrows soon. ISABELLA. What shall I do? COLOMBINE. Do? marry Pantaloon. ISABELLA. Marry my guardian? pr'ythee hold! COLOMBINE. He's prudent— ISABELLA. He's extremely old. COLOMBINE. He's loving, and he rolls in gold. A rare rich husband! ISABELLA. He's extremely old. COLOMBINE. Stricken in years no doubt—what then? He's constant— ISABELLA. He's threescore and ten. COLOMBINE. Threescore and ten! a charming sound, When join'd to threescore thousand pound. AIR. Ah, madam, reflect To what you object, The older a husband the better: To his age, which a wife Thinks the curse of her life, A widow will own she's a debtor. A rusty old blade, Worn out in the trade, In love may perhaps disappoint her; But his gout, or his cough, Soon carries him off, And makes her amends in a jointure. RECITATIVE. ISABELLA. Patience, dear Colombine! I wou'd as soon Marry my grave, as wed with Pantaloon. Leander is my love—a charming youth— And nought shall shake my constancy and truth. COLOMBINE. When a girl doats, who dares to contradict her? But Pantaloon— ISABELLA. Behold him! There's his picture. AIR. Is that a form or feature To warm a virgin's breast? Can such an ugly creature Expect to be carest? RECITATIVE. COLOMBINE. Peace, madam! here he comes;—at least deceive him; Tickle his vanity;—and after grieve him. Enter PANTALOON. PANTALOON. Good-morrow, sweetest Isabel! How does my charmer? ISABELLA. Pretty well. PANTALOON. When married, you'll be better still; When shall thy Guardy wed thee? ISABELLA. When he will.— How much his picture he resembles! [Aside. COLOMBINE. How she detests him! yet dissembles. [Aside. PANTALOON. Sweet Isabel, you've set my heart on fire; I'm all a conflagration of desire. First I'll present thee with thy wedding-ring, And give thee, afterwards—a better thing. AIR. How will I play the lover's part, When pretty Bell bestows her heart, Her heart and hand on Pantaloon! Every day, every night, Shall abound with delight, And every month be honey-moon. RECITATIVE. Let not my Isabella frown, If business calls me out of town; For a few days I must depart, Soon to return— ISABELLA. You break my heart! COLOMBINE. Ah, sir, how can you thus afflict her, And leave her nothing but your picture? PANTALOON. Ah, Colombine, it gives me pain; But I shall soon return again. Weep not, my love! I'm griev'd to go; But business must be done, you know. TRIO. PANTALOON. Oh how painful 'tis to part! ISABELLA. Ah, Pantaloon! 'twill break my heart. COLOMBINE. Take comfort, charming Bell! How shocking 'tis to leave her! How cruel 'tis to grieve her! A dismal tale to tell. PANTALOON. My lovey, My dovey, My litttle pigsnye, I pr'ythee don't cry! ISABELLA. How painful to part! PANTALOON. But soon, very soon You shall see Pantaloon. ISABELLA. 'Twill, sure, break my heart. COLOMBINE. How shocking to leave her, How cruel to grieve her, Away you false loon!</field>
+      <field name="fulltext">PART THE SECOND. SCENE continues. Leander, Isabella and Colombine. LEANDER. Do I behold my Isabel once more? Happy the moment I regain'd the shore! ISABELLA. Blest be the waves, and blest the prosp'rous gales That bore your ship, and fill'd the swelling sails! AIR. LEANDER. Tho' doom'd to tempt fickle sea, Still constant was my soul: Still, still it pointed true to thee, As needle to the pole. RECITATIVE. COLOMBINE. In troth, good sir, 'twas well you came so soon, Or Isabel had married Pantaloon. LEANDER. My uncle! Heaven forbid the black design! Who cou'd advise her to it? ISABELLA. Colombine. COLOMBINE. True: but Leander was not on the spot, Nor any other husband to be got. AIR. When beaux and smarts abound, And lovers are in plenty; When youths in swarms surround, A maiden may be dainty; May pick and chuse, And ten refuse, When she has choice of twenty. But when she's left alone, To sigh and hug her pillow, 'Tis vain to sit and moan, Or wear the mournful willow: No Damon near, What wit cou'd sneer, When Cælia took Twangdillo? RECITATIVE. LEANDER. And cou'd my Isabella prove False to Leander, false to love? ISABELLA. Banish thy idle fears, dear youth; Nor doubt my constancy and truth. AIR. Leander was my daily theme, Leander was my nightly dream; For him I wept, I sigh'd. Why wilt thou tempt the dang'rous main? Ah, when wilt thou return again? When bless these eyes? I cried. DUET. LEANDER. Tansporting confession! ISABELLA. Believe it, dear youth. BOTH. How sweet the expression Of faith, love, and truth! LEANDER. My heart beats to thine. ISABELLA. By thy soul, judge of mine. BOTH. One passion, one flame Each bosom inspires: Our fears are the same; The same our desires. [Exeunt. RECITATIVE. COLOMBINE alone. So have I seen two amorous turtle doves, Billing and cooing, murmur forth their loves. Poor Colombine! how cruel is thy fate! Left, like a turtle, here without a mate! AIR. Of all evils under the sun Of one, only one, I'm afraid: I fear no misfortune but one; And that is to die an old maid. O Venus, avert the disgrace! O Cupid, be true to thy trade! What mortal can look in my face, And think I would die an old maid? RECITATIVE. Enter PIERROT. PIERROT. Die an old maid? No, never fear, While honest Pierrot is so near. COLOMBINE. Pierrot return'd? [They embrace.] PIERROT. 'Tis even so. Troth I was very loth to go. But in all perils and disasters, Poor servants must attend their masters. COLOMBINE. Have you been well? PIERROT. Damn'd sea-sick: if I sail A second voyage, set me down a whale. AIR. Oh, think of the winds in a roar, the vast, ocean Swelling, rolling, and foaming in dreadful commotion! Now up to the skies we are tost, And now in a gulph we seem lost; For succour we cry, While nothing we spy, But mountains of water and acres of sky. RECITATIVE. COLOMBINE. Dreadful, indeed! But since you're now on shore, Let us be gay and joyous as before! PIERROT. With all my heart! you know I ne'er lov'd rigour; I'm full of spirits, and brim-full of vigour. COLOMBINE. Sweet loving soul! let each goose have her gander; I have my Pierrot; Madam Bell, Leander. DUET. [COLOMBINE.] Like mistress, like maid. PIERROT. Like master, like man. BOTH. Nature will be obey'd On a general plan. COLOMBINE. Rich and poor, high and low, Are distinctions of art; Love's a levelling blow, For it aims at the heart. BOTH. Like mistress, like maid. Like master, like man. Nature will be obey'd On a general plan. Rich and poor, high and low, Are distinctions of art; Love's a levelling blow, For it aims at the heart.</field>
+      <field name="fulltext">PART THE THIRD. SCENE continues. A Table with Supper. PANTALOON alone. RECITATIVE. Out at one door, and in at t'other— 'Tis thus my purposes I smother. This sudden fondness was a trick: I smoak'd the shrewd young elves! But I shall catch them in the nick, And turn their roguery on themselves. [Sees the table. Supper prepar'd! choice meat and drink! But not for me I plainly see, For I am out of town, they think. Ah! 'tis a melancholy truth, That youth hates age, and age fears youth. AIR. Tho' not in the bloom of my youth, Yet still I have left a colt's tooth; And when I can get a fine chicken, I love to be mumbling and picking: But they laugh at my mumbling, Declare 'tis but fumbling, And cry, there's a lover forsooth! RECITATIVE. My portrait here! this very picture Shall be an engine to convict her; The canvass I'll behead this minute, And thrust my living noddle in it. [Cuts off the head of the picture. No copy shall my portrait be, But an original you see! [Puts his head thro' the hole: I'll watch your motions, ma'am—but mum! Me thinks I hear and see her come. Enter Isabella, Leander, and Colombine. LEANDER. And was I thus to lose my bride! PANTALOON, from the picture. My nephew here! ISABELLA. It cannot be denied. COLOMBINE. Prithee have done your idle prate, Nor let a tempting supper wait! LEANDER. Since Columbine's advice is good, Such counsel cannot be withstood. AIR. Hang care and drive sorrow Away till to-morrow, To-morrow, and after to-morrow! We'll sing and we'll laugh, We'll kiss and we'll quaff, And if night's too short, from the morning we'll borrow. [They sit down to supper. RECITATIVE. PANTALOON. Well said, Leander! COLOMBINE. Mirth can be no crime, But, troth, Leander came in pudding-time. ISABELLA. In happy hour: but always welcome here. LEANDER. Happy the hour that brought me to my dear! COLOMBINE. Leander, Hob or Nob! I'm very thirsty. PANTALOON. My wine! a saucy gipsey!—wou'd 'twou'd burst ye! COLOMBINE. Fill up the glasses.—Very well; Another still, for madam Bell! The glasses shall together ring, While all three drink, and all three sing. TRIO. Away with all strife! To friendship and love Let's gingle our glasses! What joys are above Those of friendship and love! What pleasure in life, Love and friendship surpasses? RECITATIVE. LEANDER. Bravissimo!— [They drink. PANTALOON. Oh, curse your squawling! Was ever heard such caterwauling? LEANDER. What wou'd my uncle say if he were here? PANTALOON. I'll tell you presently. COLOMBINE. Come, never fear; He loves my mistress, cannot contradict her; He's not ill-natured neither.—See his picture! He looks good-humour'd.—Cou'd he thwart her liking? Is't not a strong resemblance? LEANDER. Very striking! ISABELLA. That's but his portrait.—If himself were here, You'd find him jealous, rigid, and severe. AIR. When lovers are old They wrangle and scold; Run rusty, Grow crusty And quarrelsome elves: How wretched the lives Of their sweet-hearts and wives! Men can't please the ladies, who can't please themselves. RECITATIVE. He to our union never wou'd consent. LEANDER. Suppose we ask him but for merriment. Fancy the picture him, and fall before it; Ask his consent, obtain, and thank him for it. ISABELLA. Talk to a picture? what an idle notion! LEANDER. I swear it seems endued with breath and motion. For the life's sake the copy's worth addressing; Down on your knees with me, and ask his blessing! [Leander and Isabella, kneel to the picture. QUARTETTO. ISABELLA. Low at your feet We thus intreat, And thus put up our pray'r. LEANDER. Kind Pantaloon, Oh grant our boon, And bless a happy pair! COLOMBINE Your suit he approves: See, he smiles on your loves, With a favouring eye. PANTALOON. 'Tis a damnable lie. [From the picture, then comes forward. ISABELLA. Confusion! LEANDER. Undone! COLOMBINE. Ah! where shall I run? PANTALOON. Confusion! Undone! But I watch'd them, And catch'd them, And know what they've done. LEANDER, ISABELLA, COLOMBINE. He has watch'd us, And catch'd us, And knows what we've done. RECITATIVE. PANTALOON. Well, madam, not a word? ISABELLA. I faint, I'm weak, I'm quite confounded, sir—I cannot speak. LEANDER. Believe me, sir— PANTALOON. Peace, sirrah; get you hence! I'll make you suffer for your impudence. COLOMBINE. My worthy master, have a little patience! Tho' Isabella cou'd not well return The flame with which she saw your bosom burn, 'Tis plain she's very fond of your relations.— Nephew or uncle if she takes, you know Out of the family she does not go. PANTALOON. 'Tis mighty fine! extremely well! But you shall suffer, Madam Bell! RECITATIVO accompanied. “All my fond love thus do I blow to heaven; 'Tis gone?”—and now, fair lady, we are even.— RECITATIVE. Leander, you shall suffer too The punishment so much your due. Be Isabel your bride elect, And take the damsel I reject. RECITATIVO accompanied. “Look to her, boy! If thou hast eyes to see! “She has deceived her guardian,—and may thee.” LEANDER. “My life upon her faith!”—I tread on sky, I am so blest! ISABELLA. And I. COLOMBINE. And I. PANTALOON. And I. AIR. COLOMBINE. If a father or guardian's too strict, Young maidens are apt to be froward; But if he shou'd chance to be trick'd, He should not call virgins untoward. Can the young e'er agree with the old To form a ridiculous pair; Or ladies endure to be sold Like the cattle expos'd at a fair? CHORUS. Can the young e'er agree with the old, To form a ridiculous pair; Or ladies endure to be sold Like the cattle expos'd at a fair? LEANDER. When Hymen inclines to a joke, He scorns the dull dictates of reason; Youth and age he together will yoke, And clap up a match out of season. The poor couple pull different ways, And lead a most wearisome life; While wrangling and jangling displays A sad picture of husband and wife. CHORUS. The poor couple pull different ways, And lead a most wearisome life; While wrangling and jangling displays A sad picture of husband and wife. PANTALOON. When Cupid at mortals takes aim, On youth let him empty his quiver; In age let him kindle no flame, Nor pierce an old gentleman's liver! In the winter of years left alone, Old bachelors, seek not for wives, Nor envy the joys that are flown With the April and May of your lives! CHORUS. In the winter of years left alone, Old bachelors, seek not for wives, Nor envy the joys that are flown With the April and May of your lives! ISABELLA. Here Cupid and Hymen agree To smile on our mutual caressing, While Guardy, as happy as we, Throws in his consent and his blessing. But if You on our union should frown, Our happiness quickly departs! The height of our wishes to crown, Oh, allow us your hands and your hearts! [To the audience. CHORUS. But if You on our union should frown, Our happiness quickly departs; The height of our wishes to crown, Oh, allow us your hands and your hearts!</field>
+   </doc>
+</add>

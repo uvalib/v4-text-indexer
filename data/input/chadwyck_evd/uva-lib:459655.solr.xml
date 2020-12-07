@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Heywood, Thomas</field>
+      <field name="author_facet">Heywood, Thomas</field>
+      <field name="author_sort_facet">heywood thomas</field>
+      <field name="author_text">Heywood, Thomas</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.1026.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1637</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459655</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Amphrisa</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 17th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 17th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Amphrisa</field>
+      <field name="title_facet">amphrisa</field>
+      <field name="title_sort_facet">amphrisa</field>
+      <field name="title_text">Amphrisa</field>
+      <field name="year_display">1637</field>
+      <field name="year_facet">1637</field>
+      <field name="year_multisort_i">1637</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459655&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459655&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Heywood, Thomas&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;heywood thomas&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Amphrisa&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;amphrisa&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1637&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1637&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Heywood, Thomas&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Amphrisa&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed by R. O. for R. H. and are to be sold by Thomas Slater [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1637&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872071-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv11026&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 17th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;17th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Amphrisa&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 32 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;(c) 1994 Chadwyck-Healey. Do not export or print from this database without checking the Copyright Conditions to see what is permitted.</field>
+      <field name="desc_meta_file_display">&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only verse drama included.&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Dedication and commendatory poems included with Ivpiter and Io&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Amphrisa.</field>
+      <field name="desc_meta_file_display">Genre: Pastoral.</field>
+      <field name="desc_meta_file_display">Date first published: 1637.</field>
+      <field name="desc_meta_file_display">Date first performed: 1635.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">A Pastorall Drama called Amphrisa, or the Forsaken Shepheardesse.</field>
+      <field name="fulltext">The Argument of Amphrisa the forsaken Shepheardesse. The innocence, truth, and simplicitie Of countrey Damsels: What felicitie They arrive to in their low estate; What freedoms they participate, What ioy, what solace, what content To their innocuous life is lent. The humble shed and cottage held More safe than gorgeous houses, swell'd With pompe and wealth. It likewise proves More simple truth in their chaste loves, Than greater Ladies, tympany' de With much more honour, state, and pride. Here's of the Willow wreath dispute, How, and why worne. What best doth sute Forsaken Virgins, reade and finde Their characters who prove vnkinde.</field>
+      <field name="fulltext">Enter two Shepheardesses, Pelopœa and Alope. Pel. Good morrow. Alop. So to you, faire Shepheardesse. Pel. What newes in our Arcadia? Alop. I know none: For well you wot it is no newes with us, That men should prove inconstant. Pel. Thinke you so? Alop. Thought's free. Pel. I pray can you define me Thought? Alop. Let me bethinke my selfe, I thinke I can: For I have thought of many things e're now. Pel. But can you guesse what I thinke? Alop. I (perhaps) May jumpe with your conceit, come neere't at least. Of colours there are none so opposite As white and blacke: and of the Elements Than fire and water none more contrary: Nor is there ought so antipathy'de in men, As what they thinke and speake. Pelop. Now let me helpe you: Mens thoughts like Courtiers clokes are often shifted, And change as oft as they are truly sifted. Alop. This then hath been the cause of womens sorrow; Men thinke to day ill, to do worse to morrow: Witnesse Amphrisa's servant. Pel. Pitty 'tis, So faire a body, and so sweet a soule Should be so foulely dealt with. Her false Lover Vnkindely hath forsooke her. Alop. That's the reason Shee's growne into so deepe a melancholy. I wonder any woman dare trust man, Since, like as the Chamelions change themselves Into all perfect colours saving white; So they can to all humors frame their speech, Save only to prove honest. Pel. You say well. But as no wormes breed where they feele no warmth, No Vultures watch where they can finde no prey; No Pirat roves but where he hopes for spoile: So none of these false servants wait, but where They finde a yeelding Mistresse. Alop. Indeed light minds are catcht with little things, And Phancie smels to Fennell. Pel. But Amphrisa Is held to be the wisest shepheardesse That lives in our Arcadia. Alop. But I have heard, Late wit and cheated wisedome to be counted Next neighbours unto folly. Shepheards now, The holier that they seeme in outward shew, The hollower are their hearts. By subtill sophistry (As I have heard) the best Philosophy May be perverted. And mens flatteries Are iust like Circes riches, which can turne Vain-glorious fooles to Asses, credulous Fooles To Woodcocks, pretty wanton Fooles to Apes, And proud Fooles into Peacocks. Pel. But amongst these, Amphrisa had no place. Enter Amphrisa seeming discontented. Alop. See, here she comes That for her selfe can answer. Pelop. But 'twere sinne In us, not to be answer'd, thus to suffer her To pale the cheerefull bloud in her faire cheeks, Through wilfull passion. Which I'le not endure. Alop. Then rowse her from these dumps. Pel. You'r sad, Amphrisa: Sweet may we know the cause? Amphrisa. You have prevented A strange conceit which somewhat troubled me; But by your interruption almost lost. Pel. Nay recollect your selfe, pray let us hear't. Amph. I was thinking, why Parrasius, drawing Youth, Made Love to tickle one side with a feather, To move a smile; and with the other hand To sting it with a Scorpion. Pel. You'r stung then. But I was thinking on Praxiteles, Who drew his mistresse thus: Looke on her one way, She laught upon him: Strait before, she wept: But change the side, and cast your eye adverse, And then she appear'd sleeping. And so you, Fit but your phansies unto such a face, You'l ne're complain of servant. Amph. Then it seems, My storie 's told aforehand. Alop. Yes, and rumor'd Through all Arcadia. Amph. And none pitty me? Pel. There's none so marble brested, but doth melt To heare of your disaster. Amph. Is there one, To whom the cause of my disease is knowne, That can prescribe me cure for't? Pelop. Without feeling Your pulse, I know the nature of your griefe: You have an heate, on which a coldnesse waits, A paine that is endur'd with pleasantnesse, And makes those sweets you eat have bitter taste: It puts eies in your thoughts, eares in your heart: 'Twas by desire first bred, by delight nurst, And hath of late been wean'd by jelousie. Amp. But how can these disgusts be remedy'd, Which Reason never yet could comprehend? Pel. By patience. Amp. That's a physicke all prescribe, But few or none doth follow. Pray what is't? Pel. It is the best receit that can be tooke Both against love and fortune (Crost in both.) Alop. To wish the best, to thinke vpon the worst, And all contingents brooke with patience. Is a most soveraigne medicine. Pelop. And moreover; What cannot be redrest with peevishnesse, Ought to bee borne with patience. Alop. Patience? She is so like to Fortitude her selfe, That by her sweet aspect she appeares to be Her sister or her daughter. Pel. The onely remedy for injuries, is By patience to forget them. And more noble It is to yeeld your selfe in triumph to't Then to be drawne by force. Amp. You have prevaild, For I am now your Patient; and intreat you, Like skild Phisitians, study for my health. Alop From their Doctors The sick expect more art then eloquence: And therefore what defect you find in words, Expect in our Prescriptions. Enter their Queene and two Nymphs. Queen I never was with pastime better pleas'd; So cleare a morning, and such temperate ayre; The Sun so bright, yet sparing of his heat, Made all the toyle we tooke (to chace the Stag) To seeme no labour, but an exercise. The wily beast to shun our swift pursute, Forsooke the Plaines, to take the mountaine tops. Yet maugre the opposure of the Rocks And clifts depending to molest our speed Our well-tride Nymphs, like wild Kids clim'd those hils, And thrild their arrowie Iavelins after him: Nor left the chace, till all those golden heads Were new stain'd in his blood. 1. Nymph. It prov'd, great Queene Your active Nymphs were better breath'd than he, For whom we could not overtake, we tyr'd: That done, we toucht our Beagles, and so made Both hills and vallies eccho to his death. 2. Nymph. He stood so long, and made us stray so far, Amongst the Swaines and lovely Shepheardesses, That use to graze their Flocks upon these downes; The Sun must needs passe the Meridian, E're we can reach the Lodge. Qu. The Arcadian Girles Are of no common beauty; as their habits Much grace the fields; so many of those features Mine eye by chance hath glanc't on in the Chace, In mine opinion would become the Court. They say, these virgins are acute in wit, And fluent in conceit, to speake or sing; As having oft drunke from the Muses spring. 1. Nym. See, Royall Queene, where three (not of the meanest Or least to be respected) are retyr'd. Qu. Be not too lowd, These bowes will shelter us; Let's listen how they fashion their discourse, And how far short the Folds and Cottages Come of the Court or City. Amp. Nay pray prescribe. 'Tis said of all Physitians What good comes by their Physick, the Sun sees: But in their art, if they have bad successe, That the earth covers. Howsoe're I suffer, You blamelesse are. Alop. All those that are unskilfull Will flatter griefe 'till it grow desperate. But though you know the use of Physick sweet, To taste it is unsavory. Amp. Howsoever I am prepar'd. Pel. Imagin first, You never had a servant. Alop. Not so: for who can know the sweet of ease, That never was in paine? Pel. Or say she had, Thinke that he ne're playd false. Alop. A meere relapse, Before the first be cur'd, to thinke him faithfull, Were but to enter her disease anew, To make her griefe more violent. Amp. But one speake: The medicine that's propos'd of contraries, Can ne're breed peace of mind. For I perceive, those that are sound themselves, Have still more will to help, than skill to cure. (Qu. All, solid sence.) For I perceive, those that are sound themselves, Have still more will to help, than skill to cure. Pel. Well, Mistresse Doctor I'le give way to you. Alop. Thinke then you had a servant, and he false; For whose sake never more trust perjur'd man. And though some say Iove winks at Lovers Oathes, 'Tis (after) with broad eyes to punish them. Words should not credit men, but men their words: For he that breaks his promise lies to heaven; And whom Heaven hates, who but would feare to love? Most cursed 'tis to flatter and forsweare; And dearth of oathes is blessed barrennesse. You'r sicke at heart: the only help for that Is, Let your heart abhorre his trecherie, And him, for it. You'r pain'd too in the head, She presents a wreath of willow For that here's balm made of a willow wreath. Let this charm'd circle but impale your brows, 'Tis present help for both. Amp. Make this apparant. Alop. Thus: All th' Arcadian Swains &amp; Nymphs that see Your browes ingirt with this forsaken wreath Will take note of his falshood, and your faith; Your innocence, and his inconstancie: And those that weare teares in their eies for you, Of love and pitty, to be thus abus'd, Will steep their tongues in wormwood and in gall, To brand him for his open perjury; Their pitty, with your patience join'd, (With this to boot) will prove an absolute cure. Amph. Some ease I finde already, crowne me then. She is crowned with Willow. Alop. May, wheresoe're your head you softly pillow, Be ne're more troubled, whil'st thus wreath'd in willow. Amph. Nor shall it, Alope, for from this houre, Hearts griefe nor heads paine shall of me have power. I now have chac'd hence sorrow. Queen. This conceit Hath tooke me highly; and great pitty 'tis, That such choice wits should finde no other eares Than those that Swains, and flocks, and fowls have. Wit So spent, is only treasur'd in the aire. The earth hath least part on't. Virgins, Good day. Nay, do not fall too low. Pel. You are our Queen Alop. And Lady of our fortunes. Qu. By that title I do command you then to spare your knees. Nay rise. Amp. 'Tis only by your Grace and goodnesse We breathe and live. Qu. It is enough to me, That you present us such acknowledgement. And as for you, faire Virgin, I could wish Your Willow were a Lawrel. Nay, so 'tis: Because all such may be styl'd Conquerors, That can subdue their passions. Alop. Our feare is, That if our rude discourse have toucht your eare, The coursenesse might offend you. Qu. Pleas'd us highly: Which that you may perceive in mee's vnfeignd, I charge you, as I am your Soveraignesse, All coynesse and evasion set apart, To be most free in language. Pel. Imposition That comes from you is vnto us a Law, Which ought to be kept sacred. Qu. I'le as freely Command then, as you willing are t'obey, For were I not a Queen, I'de wish to be As one of you, a witty Shepheardesse. Pray sing me somthing of your countrey life, To make me more in love with't. Amp. Tis our feare; A life that is so meane, so ill exprest As needs it must bee, (if impos'd on us) May make you rather loath it. Qu. I had thought Courts onely had beene fill'd with complement, Of which I see, the cottage is not cleare. Amp. Give not our simple truth, and feare to offend, A character we know not (gratious Queene) But howsoever, if you make us faulty, You have the power to pardon. Qu. And presume That's granted, e're the offence be. Amp. Then thus, Madam. She sings. The Song. We that have knowne no greater state Than this we live in, praise our fate: For Courtly silkes in cares are spent, When Countries russet breeds content. The power of Scepters we admire; But sheep-hookes for our use desire. Simple and low is our condition; For here with us is no ambition. We with the Sunne our flockes unfold, Whose rising makes their fleeces gold. These last two lines twice. “Our musick from the birds we borrow; “They bidding us, we them, good morrow. Qu. Nay, faire ones, what you have begun in song, Continue in discourse: Wee would heare more Of your pleas'd life. Amp. Your highnesse may command. Our habits are but course and plaine, Yet they defend from wind and raine. As warme too, in an equall eye As those be, stain'd in Scarlet dye. Those that have plenty weare (we see) But one at once; and so doe we. Amp. The Shepheard with his home-spun Lasse As many merry houres doth passe, As Courtiers with their costly Girles, Though richly deckt in gold and pearles: And though but plaine, to purpose woo, Nay oft-times with lesse danger too. Pel. Those that delight in dainties store, One stomack feed at once, no more. And when with homely fare we feast, With us it doth as well digest: And many times wee better speed; For our wild fruits no surfets breed, Amp. If we sometimes the Willow weare, By subtill Swaines that dare forsweare. We wonder whence it comes, and feare, Th' have beene at Court, and learn'd it there. If any Lady then shall please, Whose cheeke lookes pale through my disease, By any faithlesse servant, or false friend, (Being cur'd my selfe) this I can give or lend. She offers the willow. Qu. Beleeve't, a sweet conclusion: for oft-times Such things fall out. But we have further heard (Besides what now our eares are witnesse to) That as your words keepe time, your voices tune; So hath the curious motion of your feet Beene taught to know true measure. You can dance? Amp. Yes royall Princesse, as we sing and speake, After such rurall fashion. Qu. If no worse, It may become a Theatre of eyes, Yet wrest no blushes from you. Will you then, Since that we parallell in number thus, Helpe us to fill a measure? Pelop. So wee thought There might no jarring discords grow from us, To spoile your better musick. Qu. No such feare. Come then, such musicke as the place will yeeld, Wee'l instantly make vse of. Musicke sounds, and they dance the measure. Qu. Compleat in all: You have made us now Eie-witnes Of what, Relation sparingly hath spoke. To encourage which, and that so great a merit Passe not without some meed, receive these favors, And weare them for our sake. Iewels given. Time bids us part. Greater than these we have for you in store, And mean hereafter to employ you more. FINIS.</field>
+   </doc>
+</add>

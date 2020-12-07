@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Whittier, John Greenleaf, 1807-1892</field>
+      <field name="author_facet">Whittier, John Greenleaf, 1807-1892</field>
+      <field name="author_sort_facet">whittier john greenleaf 1807 1892</field>
+      <field name="author_text">Whittier, John Greenleaf, 1807-1892</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1890's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ap/uvaGenText/tei/chap_AM1270.xml</field>
+      <field name="date_indexed_facet">201909240350</field>
+      <field name="date_text">1894</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey American Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey American Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:440681</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The demon lady</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">American poetry -- 19th century</field>
+      <field name="subject_text">American poetry -- 19th century</field>
+      <field name="title_display">The demon lady</field>
+      <field name="title_facet">demon lady</field>
+      <field name="title_sort_facet">demon lady</field>
+      <field name="title_text">The demon lady</field>
+      <field name="year_display">1894</field>
+      <field name="year_facet">1894</field>
+      <field name="year_multisort_i">1894</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:440681&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:440681&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Whittier, John Greenleaf, 1807-1892&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;whittier john greenleaf 1807 1892&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The demon lady&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;demon lady&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1894&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1894&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Whittier, John Greenleaf&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1807&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1892&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The demon lady&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Privately printed&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1894&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3865254-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;cham1270&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;American poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The demon lady&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Alexandria, VA&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Inc.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 14 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-AmPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE DEMON LADY. He met her in the greenwood shade, And in the solemn moon-light only, Where rock and tangled forest made Their place of meeting lonely. Yet what recked he of the absent day, And the cloudy sky, the dreary way? The sun might sink, the stars be dim, That lady's eye was a sun to him. The wind might moan in the forest sadly, And the howl of the wolf rise long and madly; He hears them not, for a faint low tone Fell soothing and sweet on his ear alone. Mellow and soft and musical, As a delicate breeze harp dying low; And a fair round arm on his cheek was twining, As white but warmer than driven snow; And a bosom of love on his own reclining, And tresses of gold 'mid his dark locks shining; And he felt her heart-pulse come and go As she gave, in her yielding tenderness, Her beautiful lips to his fervent kiss. He has led her through his grand old hall, Whose turrets through the gray sea mist Rise upward, gloomily and tall; The ivy tendrils creep and twist. Brilliantly the lamps are burning As if the castle's lord was now From red fields of war returning, With gladness on his war-worn brow, Even as the heroes of his line Came from holy Palestine. But he had loved his ancient home, Its meadows green, its mountain's gloom, The stream beneath the gray tower flowing, The broad old trees above it growing, The placid lake beneath the moon; And the willow, bending along its brim With which the breeze played a soft, low tune, Clearly at morning and faintly at noon, Had ever a dearer charm to him Than the banner's sweep in the sunny air. The plume's white top, and the red sword's glare. Dearer the thrill of her trembling fingers, And the smile of her eye and her playful lip, Than the stern salute of a mailed grip, When blood on the clashing gauntlet lingers. But he, the young lord, hath not been The leader of mailed men; He hath not met, as warriors meet, The planted foot and the crimson hand, When hosts on hosts, impetuous, beat Like surges on the rocky strand. Bright are the lamps in the festal hall; Yet why is there gloom on the marble brow? Why steadily looks he on the wall, When visible all in the light below The painted forms of his fathers look From their ancient canvas, harshly grim, Each scowling down from his lofty nook Haughtily upon him? Why start they not to life and breath From the chill and motionless sleep of death When the last of their line forgets his trust, Nor shakes from the sword its scabbard rust; And worst of all, hath taken a bride Of a name unknown to his lordly side? 'Tis done; the priestly rites are spoken; “One kiss, my bride,” and he bent to her With a fervent kiss, for a blissful token. Her cheek was cold as the sepulchre! And he started back with a shuddering sigh When he met the glance of that lady's eye; As the soft sweet light of its love had gone, A sharp fierce lustre was left alone. Oh! once that eye was liquid and pure As the softened light of a summer star; But none might now its flashing endure; Like lightning over a scimitar, She turned her face to her love And smiled to see him shrink with dread As with a jeering tone she said: “Love, thou art mine! the rites are over, Joy to the nuptial bed!” He heard her voice, and her smile he saw, And his spirit sank with its sudden awe; He felt the evil hand upon him, A demon to her arms had won him. The guests are gone, the lamps are dim, The long cold hall gives back no tread; That fearful one hath gone with him Up to the bridal bed. The wind that night had a bodeful sound As it swept the desolate towers around; The turrets shook, and the boughs which swung, In the chill blast to and fro, Mourned like the wail of a human tongue In the dreary court below. The morning light on the dim tower came, Touching the turrets with fingers of flame, Chasing the shadows from chamber and hall And brightening the armor which hung on the wall. The hound is baying in the clear Still beauty of the autumn morn, But nevermore with heedful ear And kindling eye, that dog shall hear The echo of his master's horn! The falcon flutters in his string, But nevermore from his master's wrist Shall that bold hearted robber spring To cleave with long resounding wing The thunder and the mist. He was an old, a feeble man, That gray and reverend priest, Like one that had outlived his span! His beard was low upon his breast; His eye was deeply sunk in his head; And he tottered and reeled in his weary tread. And he muttered his solemn prayer at times, And chimed to himself his holy rhymes, As he sought, at the frightened menial's call, The evil gates of the bride-groom's hall. He mounted the stairs, and stood before The richly antique bridal door, Covered with devices old and quaint; And he called aloud on his patron saint, As that door was open cast, And into that chamber so fearfully still, In the marvellous strength of a holy will, The gray old friar passed. How wildly glared that old man's eye! How moved his lips unceasingly, As striving to utter against some spell A horrible tale which he might not tell. Something of horror his eye hath seen, Something of horror his ear hath heard; But his cold lips were sealed, I wean, And he might not utter the fearful word. The tale is told and ye who bend Your fair forms o'er its careless page May find a moral in its end, Even for this unromantic age. The wildest demon ever wrought In fancy's wizard net of thought Is powerless to the human fiend. Many an angel's love-lost form, Hiding with rainbow hues the storm, Lovely without but dark within As the unrecorded page of sin— A veiled monster who can smile Witchingly for a little while, Until some noble heart hath given Its all on earth, perhaps in heaven, A free and fearless sacrifice. Then wakes the victim from his dreaming, Casts off her false and lovely seeming, A demon to his waking eyes.</field>
+   </doc>
+</add>

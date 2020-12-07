@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Alcott, Amos Bronson, 1799-1888</field>
+      <field name="author_facet">Alcott, Amos Bronson, 1799-1888</field>
+      <field name="author_sort_facet">alcott amos bronson 1799 1888</field>
+      <field name="author_text">Alcott, Amos Bronson, 1799-1888</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1860's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ap/uvaGenText/tei/chap_AM0667.xml</field>
+      <field name="date_indexed_facet">201909240350</field>
+      <field name="date_text">[1868]</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey American Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey American Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:440111</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Tablets by A. Bronson Alcott</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">American poetry -- 19th century</field>
+      <field name="subject_text">American poetry -- 19th century</field>
+      <field name="title_display">Tablets by A. Bronson Alcott</field>
+      <field name="title_facet">tablets by a bronson alcott</field>
+      <field name="title_sort_facet">tablets by a bronson alcott</field>
+      <field name="title_text">Tablets by A. Bronson Alcott</field>
+      <field name="year_display">[1868]</field>
+      <field name="year_facet">1868</field>
+      <field name="year_multisort_i">1868</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:440111&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:440111&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Alcott, Amos Bronson, 1799-1888&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;alcott amos bronson 1799 1888&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Tablets by A. Bronson Alcott&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;tablets by a bronson alcott&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;[1868]&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1868&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Alcott, Amos Bronson&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1799&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1888&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Tablets by A. Bronson Alcott&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Boston&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Electrotyped and printed by Alfred Mudge &amp;amp; Son&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;[1868]&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3865710-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;cham0667&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;American poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Tablets by A. Bronson Alcott&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Alexandria, VA&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Inc.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 16 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only verse included ; some verse extracted from prose text ;</field>
+      <field name="desc_meta_file_display">verse reproduced elsewhere in American Poetry omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-AmPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">“For curious method expect none, essays for the most part not being placed as at a feast, but placing themselves as at an ordinary.” Thomas Fuller. THE SEER'S RATIONS. Takes sunbeams, spring waters, Earth's juices, meads' creams, Bathes in floods of sweet ethers, Comes baptized from the streams; Guest of Him, the sweet-lipp'd, The Dreamer's quaint dreams. Mingles morals idyllic With Samian fable, Sage seasoned from cruets, Of Plutarch's chaste table. Pledges Zeus, Zoroaster, Tastes Cana's glad cheer, Suns, globes, on his trencher, The elements there. Bowls of sunrise for breakfast Brimful of the East, Foaming flagons of frolic His evening's gay feast. Sov'reign solids of nature, Solar seeds of the sphere, Olympian viand Surprising as rare. Thus baiting his genius, His wonderful word Brings poets and sibyls To sup at his board. Feeds thus and thus fares he, Speeds thus and thus cares he, Thus faces and graces Life's long euthanasies, His gifts unabated, Transfigured, translated— The idealist prudent, Saint, poet, priest, student, Philosopher, he. THE CHEAP PHYSICIAN. “That which makes us have no need Of physic, that's physic indeed. Hark, hither, reader, wilt thou see Nature her own physician be? Wilt see a man all his own wealth, His own music, his own health,— A man whose sober soul can tell How to wear her garments well: Her garments that upon her sit, As garments should do, close and fit; A well-clothed soul that's not oppressed, Nor choked with what she should be dressed; A soul sheathed in a crystal shrine, Through which all her bright features shine, As when a piece of wanton lawn, A thin, aerial veil is drawn O'er beauty's face, seeming to hide, More sweetly shows the blushing bride: A soul, whose intellectual beams No mists do mask, no lazy streams; A happy soul that all the way To heaven rides in a summer's day? Wouldst see a man whose well-warmed blood Bathes him in a genuine flood,— A man whose tuned humors be A seat of rarest harmony? Wouldst see blithe looks, fresh cheeks beguile Age; wouldst see December smile? Wouldst see nests of new roses grow In a bed of reverend snow? Warm thought, free spirits flattering Winter's self into a spring? In sum, wouldst see a man that can Live to be old, and still a man Whose latest and most leaden hours Fall with soft wings, stuck with soft flowers; And when life's sweet fable ends, Soul and body part like friends; No quarrels, murmurs, no delay, A kiss, a sigh,—and so away,— This rare one, reader, wouldst thou see? Hark within, and thyself be he.” THE CHASE. O'er earth and seas, In sunshine, shade, Blest Beauty crossed, Nor stopt nor stayed, Nor temples took, Nor idols hewed, Apart she dwelt In solitude. In solitude, Heart said: “Where find the maid? My bride 's a fugitive, From sight doth live, And hearts are hunters of the game, Pursuers of the same Through every passing form, The Beauty that all eyes do seek, All eyes do but deform; The love our faithless lips would speak Dies on the listless air, Nature befriends us not, Nor hearthside doth prepare In all her ample plot; Life's but illusion, Cunning confusion; Flings shadows pale about our path, She shadow is, and nothing hath; Eyes are divorced from seeing, Hearts cloven clean from being; My bride I cannot find, My love I cannot bind; The thousand fair ones of our sphere, Fond, false ones all, nor mine, nor dear; The Paradise I would surprise, From all my following flies, And I'm a thousand infidelities; There's none for me In all I see; Surely the Fair One bides not here, Where dwells she, where, in any sphere?” “In any sphere?” Love whispered: “Where, where, if not here? Here in thy breast the maiden find, Ideas sole imparadise the mind; Here heart's hymeneals begin, Here's ours and only ours housed here within: Through parting gates of human kind Enter thou blest the Unseen Mind.” THE GOBLET. I drank delights from every cup, Arts, institutions, I drank up; Athirst, I quaffed life's flowing bowls, And sipped the flavors of all souls. A sparkling cup remained for me, The brimming fount of Family; This I am still drinking, Since, to my thinking, Good wine beads here, Flagons of cheer, Nor laps the soul In Lethe's bowl. Wine of immortal power Into my chalice now doth pour; Prevailing wine, Juice of the Nine, Flavored of sods, Vintage of gods; Joyance benign This wondrous wine Ever at call;— Wine maddening none, Wine saddening none, Wine gladdening all, Makes love's cup ruddier glow, Genius and grace its overflow. I drained the drops of every cup, Times, institutions I drank up: Still Beauty pours the enlivening wine, Fills high her glass to me and mine; Her cup of sparkling youth, Of love first found, and loyal truth: I know, again I know, Her fill of life and overflow. THE SOUL'S ERRAND. “Go, Soul, the Body's guest, Upon a thankless errand; Fear not to touch the best, The truth shall be thy warrant; Go, since all else must die, And give all else the lie. Go tell the Court it glows And shines like rotten wood; Go tell the Church it shows What's good, but does not good: If Court and Church reply, Give Court and Church the lie. Tell Potentates they live Acting, but base their actions; Not loved, unless they give, Nor strong, save by their factions: If Potentates reply, Give Potentates the lie. Tell men of high condition, That rule affairs of state, Their purpose is ambition, Their practice chiefly hate: And if they do reply, Then give them all the lie. Tell those that brave it most, They beg for more by spending; Who, in their greatest cost, Seek nothing but commending: And if they make reply, Spare not to give the lie. Tell Zeal it lacks devotion; Tell Love it is but lust; Tell Time it is but motion; Tell Help it is but dust: And wish them no reply, For thou must give the lie. Tell Age it daily wasteth; Tell Honor how it alters; Tell Beauty that it blasteth; Tell Favor that she falters: And as they do reply, Give every one the lie. Tell Wit how much she wrangles In fickle points of niceness; Tell Wisdom she entangles Herself in over niceness; And if they do reply Then give them both the lie. Tell Physic of her boldness; Tell Skill it is pretension; Tell Charity of coldness; Tell Law it is contention; And if they yield reply, Then give them all the lie. Tell Fortune of her blindness; Tell Nature of decay; Tell Friendship of unkindness; Tell Justice of delay; And if they do reply, Then give them still the lie. Tell Arts they have no soundness, But vary by esteeming; Tell Schools they lack profoundness And stand too much on seeming: If Arts and Schools reply, Give Arts and Schools the lie. Tell Faith it's fled the city; Tell how the country erreth; Tell manhood, shakes off pity, Tell Virtue least preferreth; And if they do reply, Spare not to give the lie. So when thou hast, as I Commanded thee, done blabbing; Although to give the lie Deserves no less than stabbing; Yet stab at thee who will, No stab the soul can kill.”</field>
+   </doc>
+</add>

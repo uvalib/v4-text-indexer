@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Clarendon Press</field>
+      <field name="author_facet">Clarendon Press</field>
+      <field name="author_sort_facet">clarendon press</field>
+      <field name="author_text">Clarendon Press</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.1083.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1885</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459712</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Tille Thekers ; XIV. The Journey to Bethlehem ; the birth of Jesus</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Tille Thekers ; XIV. The Journey to Bethlehem ; the birth of Jesus</field>
+      <field name="title_facet">tille thekers</field>
+      <field name="title_sort_facet">tille thekers</field>
+      <field name="title_text">The Tille Thekers ; XIV. The Journey to Bethlehem ; the birth of Jesus</field>
+      <field name="year_display">1885</field>
+      <field name="year_facet">1885</field>
+      <field name="year_multisort_i">1885</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459712&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459712&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Tille Thekers ; XIV. The Journey to Bethlehem ; the birth of Jesus&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;tille thekers&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1885&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1885&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Tille Thekers&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;XIV. The Journey to Bethlehem ; the birth of Jesus&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Oxford&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Clarendon Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1885&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873707-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv11083&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Tille Thekers&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;XIV. The Journey to Bethlehem ; the birth of Jesus&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 21 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and editorial matter including introduction and glossary omitted.&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Source texts incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The tille thekers.</field>
+      <field name="desc_meta_file_display">Genre: English mystery and miracle plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1475 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1352–1376 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">XIV. THE TILLE THEKERS. The Journey to Bethlehem; the birth of Jesus. Square brackets represent sections of text unclear or absent in the original and supplied by the current editor</field>
+      <field name="fulltext">[PERSONS OF THE PLAY. Joseph. Maria.]</field>
+      <field name="fulltext">[Scene I] Bethlehem, a cattle shed. 1. Jos. All weldand God in Trinite, I praye þe, lord, for thy grete myght, Vnto thy symple seruand see, Here in þis place wher we are pight, oure self allone; Lord, graunte vs gode herberow þis nyght within þis wone. 2. For we haue sought both vppe and doune, Thurgh diuerse stretis in þis cite, So mekill pepull is comen to towne, Þat we can nowhare herbered be, þer is slike prees; For suthe I can no socoure see, but belde vs with þere bestes. 3. And yf we here all nyght abide, We shall be stormed in þis steede; Þe walles are doune on ilke a side, Þe ruffe is rayned aboven oure hede, als haue I roo, Say, Marie doughtir, what is thy rede? How sall we doo? 4. For in grete nede nowe are we stedde, As þou thy selffe the soth may see, For here is nowthir cloth ne bedde, And we are weyke and all werie, and fayne wolde rest. Now, gracious god, for thy mercie! wisse vs þe best. 5. Mar. God will vs wisse, full wele witt ?e, Þer-fore, Joseph, be of gud chere, For in þis place borne will he be Þat sall vs saue fro sorowes sere, boþe even and morne. Sir, witte ?e wele þe tyme is nere, hee will be borne. 6. Jos. Þan behoves vs bide here stille, Here in þis same place all þis nyght. Mar. ?a, sir, forsuth it is Goddis will. Jos. Þan wolde I fayne we had sum light, what so befall. It waxis right myrke vnto my sight, and colde withall. 7. I will go gete vs light for-thy, And fewell fande with me to bryng. [Goes out. Mar. All weldand God yow gouerne and gy, As he is sufferayne of all thyng fo[r] his grete myght, And lende me grace to his louyng Þat I me dight. 8. Nowe in my sawle grete ioie haue I, I am all cladde in comforte clere, Now will be borne of my body Both God and man to-gedir in feere. Blist mott he be! Jesu! my son þat is so dere, nowe borne is he. [Mary worships the child. 9. Hayle my lord God! hayle prince of pees! Hayle my fadir, and hayle my sone! Hayle souereyne sege all synnes to sesse! Hayle God and man in erth to wonne! Hayle! thurgh whos myht All þis worlde was first be-gonne, merknes and light. 10. Sone, as I am sympill sugett of thyne, Vowchesaffe, swete sone I pray þe, That I myght þe take in þe[r] armys of myne, And in þis poure wede to arraie þe; Graunte me þi blisse! As I am thy modir chosen to be in sothfastnesse.</field>
+      <field name="fulltext">[Scene II] Joseph outside the shed. 11. Jos. A! lorde, what the wedir is colde! Þe fellest freese þat euere I felyd, I pray God helpe þam þat is alde, And namely þam þat is vnwelde, so may I saie. Now, gud God þou be my belde, as þou best may. [A sudden light shines. 12. A! lord God! what light is þis Þat comes shynyng þus sodenly? I can not saie, als haue I blisse; When I come home vn-to Marie þan sall I spirre. A! here be god, for nowe come I. [Re-enters the shed.</field>
+      <field name="fulltext">[Scene III] interior of the shed, as before. Mar. ?e ar welcum sirre. 13. Jos. Say, Marie doghtir, what chere with þe? Mar. Right goode, Joseph, as has been ay. Jos. O Marie! what swete thyng is þat on thy kne? Mar. It is my sone, þe soth to saye, þat is so gud. Jos. Wele is me I bade þis day to se þis foode! 14. Me merueles mekill of þis light Þat þus-gates shynes in þis place, For suth it is a selcouth sight! Mar. Þis hase he ordand of his grace, my sone so ?ing, A starne to be schynyng a space at his bering. 15. For Balam tolde ful longe be-forne How þat a sterne shulde rise full hye, And of a maiden shulde be borne A sonne þat sall oure saffyng be fro caris kene. For suth it is my sone so free, be whame Balam gon meene. 16. Jos. Nowe welcome, floure fairest of hewe, I shall þe menske with mayne and myght. Hayle! my maker, hayle Crist Jesu! Hayle, riall kyng, roote of all right! Hayle! saueour. Hayle, my lorde, lemer of light, Hayle, blessid floure! 17. Mar. Nowe lord! þat all þis worlde schall wynne, To þe my sone is þat I saye, Here is no bedde to laye the inne, Þerfore my dere sone, I þe praye sen it is soo, Here in þis cribbe I myght þe lay betwene þer bestis two. 18. And I sall happe þe, myn owne dere childe, With such clothes as we haue here. Jos. O Marie! beholde þes beestis mylde, They make louyng in ther manere as þei wer men. For-sothe it semes wele be ther chere þare lord þei ken. 19. Mar. Ther lorde þai kenne, þat wate I wele, They worshippe hym with myght and mayne; The wedir is colde, as ye may feele, To halde hym warme þei are full fayne with þare warme breth, And oondis on hym, is noght to layne, to warm hym with. 20. O! nowe slepis my sone, blist mot he be, And lyes full warme þer bestis by-twene. Jos. O nowe is fulfilled, for-suth I see, Þat Abacuc in mynde gon mene and preched by prophicie. He saide oure sauyoure shall be sene betwene bestis lye; 21. And nowe I see þe same in sight. Mar. ?a! sir, for-suth þe same is he. Jos. Honnoure and worshippe both day and nyght Ay-lastand lorde, be done to þe, all way as is worthy, And, lord, to thy seruice I oblissh me, with all myn herte holy. 22. Mar. Þou mercyfull maker, most myghty, My God, my lorde, my sone so free, Thy hande-mayden for soth am I, And to thi seruice I oblissh me, with all myn herte entere. Thy blissing, beseke I thee, þou graunte vs all in feere.</field>
+   </doc>
+</add>

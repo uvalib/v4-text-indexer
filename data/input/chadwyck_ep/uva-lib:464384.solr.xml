@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Lauder, George</field>
+      <field name="author_facet">Lauder, George</field>
+      <field name="author_sort_facet">lauder george</field>
+      <field name="author_text">Lauder, George</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1850's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.1927.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1853</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464384</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Aretophel</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">Aretophel</field>
+      <field name="title_facet">aretophel</field>
+      <field name="title_sort_facet">aretophel</field>
+      <field name="title_text">Aretophel</field>
+      <field name="year_display">1853</field>
+      <field name="year_facet">1853</field>
+      <field name="year_multisort_i">1853</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464384&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464384&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Lauder, George&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;lauder george&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Aretophel&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;aretophel&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1853&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1853&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Lauder, George&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Aretophel&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Edinburgh&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1853&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp2162&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;286 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Aretophel&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 18 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only poem by Lauder included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">TO THE RIGHT HONOURABLE AND HOPEFULL LORDE FRANCIS NOW EARLE OF BUCCLEUCHE. If in your mourninge trayne with heauy cheere Great (litle) Lorde, this Soldier Muse appeare, Shee comes an interest in your losse to claime And waile with you; doe not her boldnes blame, But pardon her kynd duety; for shee would Had Seas been calme com'd sooner if shee could, Accept her zeale and shee shall humbly pray God lead you in your Grandsires glorious way. Your Lo. most humble and heartily devouted Seruant, G. LAVDER. ARETOPHEL. Fame, pray thee tel mee is it true I heare? Which makes my pantinge bosome fainte for feare; And even my soule abhorres to thinke vpon, That my much lou'd Aretophel is gone? A secret greeffe distempering late my minde Of which no reason I could see nor find, Hath in sad augur's made mee watch to weepe Whole nights away nor could my sorrowe sleepe, Or if my wearied eyes theyre lidds did close In broken slumbers and a false repose, Strange visions then of death, and ghostlie sights, Pale exequies, and vncouth funerall rites, In nights still horrour made my soule opprest, With deep-fetch'd sighes awake from such vnrest. When day then cal'd mee up, heavens frowning browe Suteing nights shaddowes did tempesstuous showe. The neighbour element in fearfull roares Rush'd his rude billowes on our lowe-fenc'd shoares, And angry Neptune swelling mad the while Did with deluges boast to drowne this Walcher in Zelande. Isle. The Gians and the monsters of the mayne In silent tumblings seem'd some losse to playne. Blewe Doris with her daughters heavenly fayre, Were seene to weepe and teare theyre golden hayre. Our Shepheards heard lowde cries on Walcher's dounes, From Albion's clyffes reechöed in sad soundes. All look'd so heavy where I cast mine eyes From Earth's cold surface to the stormy skyes, That I resolu'd ere long the sad events Would wound my eares which followed these portents: Which ah too soone! too sure alace! I finde In his greate losse whom I had still in minde. For whilst those feares did fright my soule to death, The babbling Goddesse softlie forth did breath This woefull speech; Aretophel is dead. Dead, Hee is dead! and now his soule is fled, Vnto those blessed bounds from whence it came And he on Earth is nothing but a name. Burst forth my soule, and mourne his Obsequies Sighe heart and breake, melt you in teares myne eyes: And like to Niobe since hee is gone, Greef's showe your power and turne mee all in stone. Sunne shine to me no more, his losse to light, But darknes shrowd mee in the shades of night. And you black birds of night, sad schreeking owles, With dreary notes of death, soule-frighting howles The musicke of misfortune come and keepe A consort in my woe, that whilst I weepe, If mortall anguish moue the heavenly powers To cast a looke on this lowe worlde of ours: His happy Ghost may in my sorrowes see How loathed now this life is vnto mee. Deare Lord, my fortun's hope, my heart's delight, Thy countrye's honour, art thou reft my sight? Ay mee! and shall myne eyes no more beholde Those lookes which they with wonder star'd of olde? That martiall face, those eyes in which did moue Greatnes and Goodnes, Majestie and Loue? Are these (O greeffe!) the spoiles of Death become; And clos'd within a coffin or a tombe? O fraile mortalitie! weake glory's blaize Soon gone, what lasts within the liste of dayes? Whileas my happe enjoy'd thy presence here, When from the calme of Court thou did'st reteere, In Mars his camp to court Bellona's loue, I envy'd not their state whose fortunes prove Great prince's favours, nor the pompe of those Whose glistering wealth no wishes wanting knows. Thy smile to mee, and freyndly looke was more, Then Peru's treasure or Pactolus' ore; All laugh'd mee thought on Belgia's sea and soile, The Souldier did not faint with heavie toile, Thy braue example which a pairt did beare; Made paine seeme pleasing and did banish feare. And all the nurselings of our Tay and Tweed, Braue Scots; did boast to haue Thee for there head, Great Henry gloried, midst his warre-like bands, (Which curbing Ibers pride his power withstands) To see thee armed, lead armed Squadrons on Where honour was with valour to be wonne; And in thy sword did read the fate of Spayne. As once at Newport.If e're a field should trie the Scots againe. Thy Lysis too, who by thy favour stood, Oft wish'd to seale thy service with his blood, But now since cruel death thy dayes did bound, And with cold cypres hath thy temples croun'd, The heartles Souldier droopes, his armes looke blacke, To heare that now his leader hee doth lacke. The drumme sounds hoarse, nor will our ensigns spread, And all their golden wreaths looke pale as lead. To mee the weary day in darknes lowres, And drawes his laizie minutes into howres. Night's clowdie vaile hangs ore my eyes so dampe That it obscures pale Phœbe's weakened lampe. So great thy losse, so wide thy want doth wounde That evry where thy Name with woe doth sounde. Why did you heavens so soon the world bereaue Of his great worth? and all our hopes deceaue? Ere hee applauded, charg'd with mighty spoiles Of Spayne, had rear'd a Trophee of her foiles? And like his Noble Sire had put to flight, In some brave field, remembring Roer's sharp fight There scattered troopes; or did you well forsee, That dark oblivion his rewaird should be, And that his name should never more be found In Belgia's Annals (where the deeds are droun'd Of worthy Scots) then those Heroes are, Whose valour first did teach her hands to warre At Turnehout. And made Her see even in her lowest state, That Spaynards were but men and could be beate. Yet for his countrye's good the weell of State, And usefull service vnto Charles the Greate, Hee should haue liu'd more long, or died more braue, And not enrich'd so soone a silent graue. All those heroicke vertues so desir'd, Which in Aretophel the World admired. Those generous thoughts from vulgar base things free, That spirits which would still in action be; That heart in which true honour had her seat Where lodged no desires but good and great, Were these, O tears! Death's tributaires, to pay A common debt so long before the day? And but a sad remembrance leaue behind T'upbraid theyre losse which ne'er goes out of mind. Thrice happy Ghost, for ever happy rest, And now amid the glory of the blest, Enjoy thy other half which went before, Whom thou did'st oft and heavily deplore; Taste now those pleasures sense can never prove, And liue for ever in æternal loue, Not cloy'd with cares, more great than greatest kings, With all the joyes the quire of Angels sings; Whilst Lysis heere below thy want doth mourne, And with his teares doth washe thy sacred urne. Cold ashes which Earth now in trust doth keepe The dust of braue Aretophel asleepe, Lie close by those (whose fire but late gone out) His pious teares did sprinkle all about. Let no rare artiste hand vaine wonders raise A wandring eye to stay theron to gaize; Sett no Numidian pompe of Paros stone Proude coast and times short wonder therupon. Nor need those live-like stones aboue you stand, Or breathles bulkes of brasse with lampe in hand. All those with what proud Aegypt more can doe, By Time to ashes turned lie buryed to. For age doth in his famish'd jawes devoure The statly obelisques, and turneth ore Colosses, Columns, Therms and such weake things, Which Airt doth reare for monuments of Kings. But if Apollo and the Sisters nine, Whose labours last beyond the vaste of Time: To vnborne dayes thy glory can preserue, Though not so gorgeous as thou did'st deserue Aretophel, thy Lysis heere doth vow Vpon thy sacred reliques resting now, His mourning Muse of sighes and teares shall frame A Mausoleum to thy noble name: In which Thy merite and his love shall liue With all the skill that cunning griefe can giue. Thy Esks and Solweys swaines with hang'd-down heads, Who now haue left to sing, and broke there reeds, Shall leave their flocks and from the mountaines come To doe lowe homage at thy living Tombe. And that thy memorie may last for aye Shall in their Calendars giue thee a day, On which thy name succeeding times may praise And yearely sing due Pæans to thy praise. Meane while, deare Ghost, sleight not these sorrowes teares, In which thy Lysis fayth and zeall appeares: Though in a world-divided corner here Hee liue exil'd, where people more do feare The seas then Spayne, whilst duelling in the deepe, None doth thy losse with more affliction weepe. And those who by the bankes of Thames did see Thee leaue behind the World not worthy thee: What e're theyr interest was in thee, thy losse (With reverence be it spoken) did not tosse Theyre soules so much as myn, which at the sound Of these sad newes; receaued so deep a wound, That Time can never cure the soare againe, But still the smart will make my passion playne. Farewell, deare Lord, forgiue a Souldier's griefe Whose moane lacks measure as his payne reliefe, These common offrings which his duety brings Accept of them in place of better things, And think that now his cheeffest care shall be Unto the World to Time, and unto thee, By some effects, his piety to prooue, Which best may sute thy greatnes and his loue. And that the more to doe hee now shall striue, Since it was not perform'd to thee aliue, But ah! what can hee doe? bring to thy hearse Teare-blubbered Threnody's lugubrious verse; Rough lines vnpolish'd from a barren veine And rudely ranged in true sorrowes strayne. Yett to supplie the wants and lack of art Aboue all these shall lie his bleeding heart. On which if ever Damon do come neare In pittie hee may chance lett fall a teare. FINIS. On the Death of that most Excellent Lady Marie Countesse of Buccleuche. Could Vertue make Immortal but in name, Or could greate birth of noble blood descended From common destiny a freedome clayme, No day this Lady's dayes should ere haue ended. Could Pietie exeeme from Natures lawe Or Charitie divert the fatale doome; This modest Beauty had keept Death in awe, Nor had her spoiles enrich'd this mourning Tombe. Heaven jealous of our blesse enjoying Her, Whose Soule in longing sighes theyre Glorie sought, Haue rob'd us of Her worthe at unaware, And all our hopes are now to nothing brought. O Woefull worldlings! wee may truely say Since Shee is dead and gone, All Fleshe is Hay. G. LAVDER.</field>
+   </doc>
+</add>

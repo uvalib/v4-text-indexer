@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Peele, George, 1556-1596</field>
+      <field name="author_facet">Peele, George, 1556-1596</field>
+      <field name="author_sort_facet">peele george 1556 1596</field>
+      <field name="author_text">Peele, George, 1556-1596</field>
+      <field name="composition_era_facet">16th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.2230.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1589</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464579</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">A Farewell Entituled to the famous and fortunate Generalls of our English forces ; Sir Iohn Norris &amp;amp; Syr Francis Drake Knights, and all theyr brave and resolute followers. Whereunto is annexed: A Tale of Troy. Doone by George Peele</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">A Farewell Entituled to the famous and fortunate Generalls of our English forces ; Sir Iohn Norris &amp; Syr Francis Drake Knights, and all theyr brave and resolute followers. Whereunto is annexed: A Tale of Troy. Doone by George Peele</field>
+      <field name="title_facet">farewell entituled to the famous and fortunate generalls of our english forces</field>
+      <field name="title_sort_facet">farewell entituled to the famous and fortunate generalls of our english forces</field>
+      <field name="title_text">A Farewell Entituled to the famous and fortunate Generalls of our English forces ; Sir Iohn Norris &amp; Syr Francis Drake Knights, and all theyr brave and resolute followers. Whereunto is annexed: A Tale of Troy. Doone by George Peele</field>
+      <field name="year_display">1589</field>
+      <field name="year_facet">1589</field>
+      <field name="year_multisort_i">1589</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464579&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464579&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Peele, George, 1556-1596&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;peele george 1556 1596&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A Farewell Entituled to the famous and fortunate Generalls of our English forces ; Sir Iohn Norris &amp;amp; Syr Francis Drake Knights, and all theyr brave and resolute followers. Whereunto is annexed: A Tale of Troy. Doone by George Peele&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;farewell entituled to the famous and fortunate generalls of our english forces&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1589&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1589&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Peele, George&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1556&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1596&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Farewell Entituled to the famous and fortunate Generalls of our English forces&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Sir Iohn Norris &amp;amp; Syr Francis Drake Knights, and all theyr brave and resolute followers. Whereunto is annexed: A Tale of Troy. Doone by George Peele&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed by I. C. and are to bee solde by William Wright [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1589&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp3009&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;21 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Farewell Entituled to the famous and fortunate Generalls of our English forces&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;Sir Iohn Norris &amp;amp; Syr Francis Drake Knights, and all theyr brave and resolute followers. Whereunto is annexed: A Tale of Troy. Doone by George Peele&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 12 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted; verse reproduced elsewhere in The English Poetry Full-text Database omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Ad Lectorem. Parue nec inuidio sine me (liber) ibis ad arma, Hei mihi, quod domino non licet ire tuo.</field>
+      <field name="fulltext">Ad Lectorem. Parue nec inuidio sine me (liber) ibis ad arma, Hei mihi, quod domino non licet ire tuo.</field>
+      <field name="fulltext">Gallia victa dedit flores, inuicta Leones Anglia: ius bellj in flore, leone suum: O sic O semper ferat Elizabetha triumphos, Jnclyta Gallorum flore Leone suo.</field>
+      <field name="fulltext">To the most famous Generalles of our English forces by land &amp; Sea, Sir Iohn Norris and Sir Frauncis Drake Knightes. A farewell entituled to the famous and fortunate Generalls of our English forces, &amp;c. Haue doone with care my harts, aborde amaine, With stretching sayles to plowe the swelling waues. Bid Englands shoare and Albions chalkie clyffes Farewell: bid statelie Troynouant adiewe, Where pleasant Thames from Isis siluer head Begins her quiet glide, and runnes along, To that braue Bridge the barre that th'warts her course, Neere neighbour to the anncient stonie Towre, The glorious hold that Iulius Cæsar built: Change Loue for Armes, gyrt to your blades my boyes, Your Rests and Muskets take, take Helme and Targe, And let God Mars his consort make you mirth, The roring Cannon and the brasen Trumpe, The angry sounding Drum, the whistling Fife, The shrikes of men, the princelie coursers ney. Now vaile your bonnets to your freends at home, Bid all the louelie brittish Dames adiewe, That vnder many a Standarde well aduaunc'd, Haue bid the sweete allarmes and braues of loue. Bid Theaters and proude Tragædians, Bid Mahomets Poo, and mightie Tamburlaine, King Charlemaine, Tom Stukeley and the rest Adiewe: to Armes, to Armes, to glorious Armes, With noble Norris, and victorious Drake, Vnder the sanguine Crosse, braue Englands badge, To propagate religious pietie, And hewe a passage with your conquering swordes By lande and Sea: where euer Phæbus eye Th'eternall Lampe of Heauen lendes vs light: By golden Tagus or the westerne Inde, Or through the spacious Bay of Portugale, The welthy Ocean maine the Terrhen sea, From great Alcides pyllers braunching foorth, Euen to the Gulfe that leades to loftie Rome, There to deface the pryde of Antechrist, And pull his Paper walles and popery downe: A famous enterprise for Englands strength, To steele your swordes on Auarice triple crowne, And clense Augeus staules in Italie. To Armes my fellow Souldiers, Sea and land Lie open to the voyage you intende: And sea or land bold Brittons farre or neere, What euer course your matchles vertue shapes, Whether to Europes boundes or Asian plaines, To Affricks shore, or rich America, Downe to the shades of deepe Auernus cragges, Sayle on, pursue your honours to your graues: Heauen is a sacred couering for your heads, And euery Clymat vertues Tabernacle. To Armes, to Armes, to honourable Armes, Hoyse sayles, waie Anckers vp, plowe vp the Seas With flying keeles, plowe vp the land with swordes, In Gods name venture on, and let me say To you my Mates, as Cæsar sayd to his Striuing with Neptunes hils: You heare quoth he, Cæsar, and Cæsars fortune in your ships. You follow them whose swords succesfull arc, You follow Drake by Sea, the scourge of Spayne, The dreadfull Dragon, terror to your foes. Victorius in his returne from Inde, In all his high attempts vnuanquished, You followe noble Norrice, whose renowne Wonne in the fertile fieldes of Belgia, Spreades by the gates of Europe, to the Courts Of Christian Kings and heathen Potentates. You fight for Christ and Englands peereles Queene, Elizabeth, the wonder of the worlde. Ouer whose throne th'enemies of God, Haue thundred earst their vaine succesles braues. O tenne times treble happy men that fight, Vnder the Crosse of Christ and Englands Queene, And follow such as Drake and Norris are. All honours doo this cause accompanie. All glory on these endlesse honours waites. These honors, and this glory shall he sende: Whose honour and whose glory you defende. Yours. G. P.</field>
+   </doc>
+</add>

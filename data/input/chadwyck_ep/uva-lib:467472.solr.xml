@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Watson, William, 1858-1935</field>
+      <field name="author_facet">Watson, William, 1858-1935</field>
+      <field name="author_sort_facet">watson william 1858 1935</field>
+      <field name="author_text">Watson, William, 1858-1935</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1890's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_3.2417.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1895</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:467472</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Ode for the centenary of the death of Burns ; By William Watson</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">Ode for the centenary of the death of Burns ; By William Watson</field>
+      <field name="title_facet">ode for the centenary of the death of burns</field>
+      <field name="title_sort_facet">ode for the centenary of the death of burns</field>
+      <field name="title_text">Ode for the centenary of the death of Burns ; By William Watson</field>
+      <field name="year_display">1895</field>
+      <field name="year_facet">1895</field>
+      <field name="year_multisort_i">1895</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:467472&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:467472&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Watson, William, 1858-1935&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;watson william 1858 1935&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Ode for the centenary of the death of Burns ; By William Watson&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;ode for the centenary of the death of burns&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1895&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1895&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Watson, William&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1858&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1935&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Ode for the centenary of the death of Burns&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;By William Watson&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;John Lane&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1895&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp4193&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;11 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Ode for the centenary of the death of Burns&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;By William Watson&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 13 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">ODE FOR THE CENTENARY OF THE DEATH OF BURNS July 21, 1796–1896 No curious craftsman, whom we praise For jewelled line, for carven phrase— For costly verse that yet betrays To no man's view The secret of the easeless days From which it grew; No searcher of our source and goal, No reader of God's secret scroll; No Shakespeare, flashing o'er the whole Of Man's domain The splendour of his cloudless soul And perfect brain; No Keats, to Grecian gods allied, Clasping all Beauty as his bride; No Shelley, soaring dim-descried Above Time's throng, And heavenward hurling wild and wide His spear of song; No Wordsworth, from the eddying crowd Half hid in light, half veiled in cloud; No sphere-born Milton cold and proud, In hallowing dews Dipt, and with gorgeous ritual vowed Unto the Muse; No native of the sky, nor skilled On heights unknown to sing and build, But wholly of that Earth he tilled Was he whose tears, Whose laughter, in that Earth lie stilled These hundred years. He came when poets had forgot How rich and strange the human lot; How warm the tints of Life; how hot Are Love and Hate; And what makes Truth divine, and what Makes Manhood great. A ghostly troop, in pale amaze They melted 'neath that living gaze,— His in whose spirit's gusty blaze We seem to hear The crackling of their phantom bays Sapless and sere! For, 'mid an age of dust and dearth, Once more had bloomed immortal worth. There, in the strong, splenetic North, The Spring began. A mighty mother had brought forth A mighty man. No mystic torch through Time he bore No virgin veil from Life he tore; His soul no bright insignia wore Of starry birth; He saw what all men see—no more— In heaven and earth: But as, when thunder crashes nigh, All darkness opes one flaming eye, And the world leaps against the sky,— So fiery-clear Did the old truths that we pass by To him appear. How could he 'scape the doom of such As feel the airiest phantom-touch Keenlier than others feel the clutch Of iron powers,— Who die of having lived so much, In their large hours? He erred, he sinned: and if there be Who, from his hapless frailties free, Rich in the poorer virtues, see His faults alone,— To such, O Lord of Charity, Be mercy shown! Singly he faced the bigot brood, The meanly wise, the feebly good; He pelted them with pearl, with mud; He fought them well,— But ah, the stupid million stood, And he—he fell! All bright and glorious at the start, 'Twas his ignobly to depart, Slain by his own too affluent heart, Too generous blood; And blindly, having lost Life's chart, To meet Death's flood. So passes, all confusedly As lights that hurry, shapes that flee About some brink we dimly see, The trivial, great, Squalid, majestic tragedy Of human fate. Not ours to gauge the more or less, The will's defect, the blood's excess, The earthy humours that oppress The radiant mind. His greatness, not his littleness, Concerns mankind. A dreamer of the common dreams, A fisher in familiar streams, He chased the transitory gleams That all pursue; But on his lips the eternal themes Again were new. With shattering ire or withering mirth He smote each worthless claim to worth. The barren fig-tree cumbering Earth He would not spare. Through ancient lies of proudest birth He drove his share. To him the Powers that formed him brave, Yet weak to breast the fatal wave, A mighty gift of Hatred gave— A gift above All other gifts benefic, save The gift of Love. He saw 'tis meet that Man possess The will to curse as well as bless, To pity—and be pitiless, To make, and mar; The fierceness that from tenderness Is never far. And so his fierce and tender strain Lives, and his idlest words remain To flout oblivion, that in vain Strives to destroy One lightest record of his pain Or of his joy. And though thrice statelier names decay, His own can wither not away While plighted lass and lad shall stray Among the broom, Where evening touches glen and brae With rosy gloom; While Hope and Love with Youth abide; While Age sits at the ingleside; While yet there have not wholly died The heroic fires, The patriot passion, and the pride In noble sires; While, with the conquering Saxon breed Whose fair estate of speech and deed Heritors north and south of Tweed Alike may claim, The dimly mingled Celtic seed Flowers like a flame; While nations see in holy trance That vision of the world's advance Which glorified his countenance, When from afar He hailed the Hope that shot o'er France Its crimson star; While, plumed for flight, the Soul deplores The cage that foils the wing that soars; And while, through adamantine doors In dreams flung wide, We hear resound, on mortal shores, The immortal tide. Folkestone, June 1895.</field>
+   </doc>
+</add>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Mitford, Mary Russell, 1787-1855</field>
+      <field name="author_facet">Mitford, Mary Russell, 1787-1855</field>
+      <field name="author_sort_facet">mitford mary russell 1787 1855</field>
+      <field name="author_text">Mitford, Mary Russell, 1787-1855</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1820's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V3.0072.xml</field>
+      <field name="date_indexed_facet">201909240355</field>
+      <field name="date_text">1827</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460510</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Captive</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Captive</field>
+      <field name="title_facet">captive</field>
+      <field name="title_sort_facet">captive</field>
+      <field name="title_text">The Captive</field>
+      <field name="year_display">1827</field>
+      <field name="year_facet">1827</field>
+      <field name="year_multisort_i">1827</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460510&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460510&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Mitford, Mary Russell, 1787-1855&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;mitford mary russell 1787 1855&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Captive&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;captive&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1827&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1827&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Mitford, Mary Russell&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1787&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1855&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Captive&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Geo. B. Whittaker&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1827&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872839-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv30072&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Captive&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 21 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only verse drama included&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Dedication included with Cunigunda's Vow&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The captive.</field>
+      <field name="desc_meta_file_display">Genre: Drama.</field>
+      <field name="desc_meta_file_display">Date first published: 1827.</field>
+      <field name="desc_meta_file_display">Date first performed: Unknown.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE CAPTIVE. A DRAMATIC SCENE.</field>
+      <field name="fulltext">CHARACTERS. Alberto, an usurper of the throne of Sicily. Theodore, a boy of fifteen, the rightful King. Julia, a girl of the same age, Alberto's daughter.</field>
+      <field name="fulltext">Scene, A gloomy Chamber in a Gothic Castle in Messina.</field>
+      <field name="fulltext">Enter Alberto and Theodore. Alberto. Enter and fear not, trembler. Thou shalt live. Theodore. Ay, that I feared. Alberto. Dost hear me, boy? I say That thou shalt live. Theodore. I feared so. Alberto. Would'st thou die? Theodore. If it pleased Heaven, most willingly. I know That I'm a prisoner. I shall never walk In the sun's blessed light, or feel the touch Of the free air, or hear the summer brook All idly babbling to the moon, or taste The morning breath of flowers. The thousand charms Which make in our Sicilian Isle mere life A thrilling pleasantness, which send a glow Through the poorest serf that tills the happy soil— I am shut out from all. This is my tomb. Uncle, be merciful! I do not ask My throne again—Reign! reign! I have forgot That I was once a King. But let me bide In some small woodland cottage, where green leaves May wave around me, and cool breezes kiss My brow. Keep me not in a dungeon, uncle, Or this dark gloomy chamber. Let me dwell In some wild forest. I'll not breathe a word That might be dangerous. No! not to the birds My songsters, or the fawns my playmates, uncle; Thou ne'er shalt hear of me again. Alberto. Boy! boy! Cling not about me thus! Theodore. Thou wilt have mercy! Thy heart is softening. Alberto. 'Tis too late.—To reign, And he at liberty! I am a child Myself, that won by this child's gentleness I seemed to waver. Boy, thy fate is fixed; Thyself hast said it. Thou'rt a prisoner, And for thy whole life long; a caged bird. Be wiser than the feathered fool that beats His wings against the wire. Thou shalt have all Thy heart can ask, save freedom, and that never! I tell thee so in love, and not in hate; For I would root out hope and fear, and plant Patience in thy young soul. Theodore. And Julia? Alberto. Her Thou ne'er must see again. Theodore. Never! Is she A prisoner too? Not once to say farewell! Alas! alas! that bauble of a crown, How it makes kind hearts cruel! Thou wast once In all my little griefs my comforter, And now—Not see my cousin Julia once! Mine own dear cousin Julia! Let me see her Once, only once!—only to catch one sound Of that sweet voice, and on that whitest hand Drop one fond tear, and steal but one of the bright And wavy ringlets from her brow, and pray That Heaven may bless her.—Let me see her once, But once, and then I'll walk back to my prison, And dream away this winter of a life, As a silly dormouse in his Christmas nest Sleeps through his six months' night. Turn not away! Was thou born pitiless? Alberto. No. I have quelled That dangerous softness. Pretty boy, farewell! Rest thee content. No harm shall happen thee. [Exit. Theodore. Content! Oh mockery of grief! Content! Was't not enough to take away my crown, To mew me up here in a living tomb, Cut off from every human tie, from thee, Julia, my cousin Julia; but my jailor Must bid me be content! Would I were dead! Forgive me, Heaven, for my impatience! I will take better thoughts. 'Tis but to fancy This room a quiet hermitage, and pray As hermits use through the long silent hours. I shall be innocent. Sure, he's a friend That shuts me out from sin. Did he not call me A caged bird? I've seen one prune himself, And hop from perch to perch, and chirp and sing Merrily! Happy fool, it had forgot Blithe liberty! But man, though he should drag A captive's heavy chain, even till he starts To hear his own sad voice, cannot forget. He wants that blessed gift.—Is not to-day The gay procession of the vintagers Ere they begin their annual toil? A relic Of the old heathen rites! Last year I saw it; 'Twas a fair pageant; one that might have graced The famous Grecian day, with its long line Of maidens tripping under the light load Of grape-piled baskets on their heads, and youths With pipes timing their steps, and younger girls And rosy boys dragging the struggling goats, By flow'ry garlands. Such procession well Had honour'd the god Bacchus. She was there, And in her innocent gaiety led on The virgin troop, distinguish'd but by grace Unrivall'd, and a wreath of brightest flowers That crown'd her brimming basket. How she sway'd Her pretty head to the soft double flute, Whilst ever as she bent, the coronal Seem'd like to fall, till with a smiling toss She flung it up again, and danced along With such an airiness, as if her step Belong'd not to dull earth. Oh, loveliest maid, Must I ne'er see thee more! Enter Julia, through a secret door. Who's there? How cam'st thou? Art thou indeed my cousin Julia? Is't Thyself, thy living self? I cannot trust My sight. Julia (giving him her hand). Dost doubt me now? Theodore. No. But when first I saw thee standing with thy pitying eyes Fix'd on thy face, thou seem'dst an angel! Say How cam'st thou here? Julia. He,—I'll not call him father— He, who imprisoned thee, forgot, or knew not, The secret passage, that in one long chain Links all the western chambers. Constance mark'd The guarded door. Follow me. Theodore. Where? Julia. To freedom! To happiness! Theodore. Now, blessings on thy head! Did I not say thou wast an Angel? Freedom! Ay, that is happiness. A whole life's service Were over poor to pay this debt. Julia. We stay Too long. Come with me. Theodore. But to leave thee, sweetest,— Perchance in danger,—for should he suspect— No! I'll stay here,—my very inmost soul Thanks thee, my kindest cousin. But I'll stay, I'll not awaken his unnatural hate 'Gainst thee. He loves thee—but he loved me once— And mated with ambition, even his child, His only child, were nothing. I'll stay here, In my lone prison. Think of me as one Freed from a cumbrous load of state and care, Held to the world but by the undying love That knits my soul to thine. Go and be happy, And in thy bliss shall I be blest. We still Shall breathe the same air, Julia. I may catch From out my window a short stolen glance Of thy fair form; may hear, when distant doors Shall chance to open, a brief passing sound Of thy dear voice; and sometimes thou may'st glide Even to this gloomy chamber, bringing light, And life, and joy. A moment since I pined For liberty. Now I would rather dwell In a deep dungeon, where such visions come, Than fill a throne without them. Thou wilt deign To visit the poor captive, wilt thou not? Oh, dearest, to be banished from thy sight Were worse than death. Thou'lt come again? But now Away! I fear the king. Julia. He whom thou call'st such Is busy at the council. Theodore, In mercy follow me! I too shall share Thy flight. Theodore. Thou! Thou! Oh sweetest, dearest, best! I stand as in a dream.—Thou go with me! Whither? and wherefore? Julia. Question not; but come. There is a Spanish ship in harbour here, With her sails spread for instant voyage, My Constance And her bold captain are betroth'd. He waits With sure disguises, and hath promised us A safe and pleasant home in fair Castile. A mountain hut close by a gushing spring, Where the huge cork trees fling their heavy shade O'er herds and flocks; and we shall lead a calm And happy pastoral life; a shepherd thou With pipe and crook, and I a cottage maid, A careful housewife. Thou shalt see how soon I'll learn the rustic craft, to milk my ewes Or press the snowy curd, or haply mould The richer cheese. Shalt thou not like, dear cousin, To be a shepherd on the downy hills, Tending thy flock all day, and I to bring Water and country cates, an homely meal, And sing and prattle at thy side, most like A mountain bee? I'll wager, Theodore, I prove the thriftier peasant. Theodore. But to bend thee To poor and servile toil— Julia. Poor! I have here Jewels to buy an earldom. See! a sword too, To guard us on the way. Take it. Dear cousin, We waste the hour. Theodore. My Julia, tempt me not To selfish and ungrateful sin. The saints May witness for me, that I ever loathed Pomp and its slavery. The lot thou offerest Hath been the vision of my dreamy hours All my life long. But thou so proudly reared So delicately served,—thou born a princess, And nurtured like a queen, how could'st thou bear The peasant's lowly lot?—Had I the crown That once prest my young brow—had I a throne To share with thee, my fairest—but an exile— A houseless fugitive,—Alas! Alas! Tempt me no more, sweet maiden! Stay and reign In thine own Sicily. Julia. I'll stay and die, Since thou dost spurn me from thee. Fare thee well! Yet, in thy calmer thoughts,—if thou should'st think Again on thy poor friend—Oh, deem her not Bold or unmaidenly! We lived and loved As brother and as sister.— Theodore. Far, far dearer! Julia. And as a sister in our mutual grief I came to thee. Oh, let us fly, dear cousin! In pity, let us fly! My cruel father— Theodore. Cruel to thee?—to thee! Julia. Alas, to bind The subtle traitor Lanza to his cause, He offers up his child. Another day, And I must wed. Theodore. Give me the sword. Wed! Cousin, I'll fly with thee to the end of the earth. Wed Lanza! Wed any man! He must fight well that wins thee, Boy though I be, my Julia! Haste thee, sweet, Each moment's worth an age. Away! Away! Julia. Heaven speed our steps! Theodore. Away! [Exeunt.</field>
+   </doc>
+</add>

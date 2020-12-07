@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1860's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2006_06/uvaGenText/tei/bov_18671203.xml</field>
+      <field name="date_indexed_facet">201909240343</field>
+      <field name="date_text">December 3, 1867</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:270564</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. December 3, 1867</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  December 3, 1867</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  December 3, 1867</field>
+      <field name="year_display">December 3, 1867</field>
+      <field name="year_facet">1867-12-03</field>
+      <field name="year_multisort_i">1867</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:270564&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:270564&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. December 3, 1867&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;December 3, 1867&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1867-12-03&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;December 3, 1867&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Public minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;4 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information. Access to minutes containing salary information will be granted only under the procedures of the Virginia Freedom of Information Act (Code of Virginia-2.1-340 ff.) or if permission is granted by the Secretary of the Board. Researchers interested in obtaining access to these records should direct a request in writing to the Office of the Legal Adviser, Madison Hall, University of Virginia. These public minutes have had salary information deleted and bear no restrictions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1867-12-03&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 12 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Called Meeting December 3rd 1867 A special meting having been ordered for this day, the following members appeared and took their seats- B. Johnson Barbour, Rector, W. E. M. Word, R. W. Hughes, Thomas L. Preston, Thomas J. Pretlow, and John R. Woods. The Board having been called to order by the Rector. Resolved, that $25 be appropriated to the repair of Instruments belonging to the School of Applied mathematics. Resolved That the Faculty be authorized to contract with any person or persons to erect a washing and bathing Establishment below the University Pond on some more elegible point; restricted to one acre of land- The Board reserving to itself full control of the whole concern and the right of dismissal in case of failure to comply with conditions and restrictions and proper administration.- the lease to last ten years- the property to revert to the University whenever the lease ceases. Resolved That the application of F. Hildebrand for leave to occupy a room in the basement of Washington Hall building, in order that students may carry on their gymnastic exercises on rainy days, be referred to the favourable consideration of the Proctor &amp; Supt. of Grounds &amp; Buildings. Resolved That unless precedence shall be claimed by Prof. Southall the first house within the precincts that shall become vacant shall be assigned to Prof. Harrison, and that the Executive Committee be invested with authority to assign him one of the Dawson Row Buildings as soon as arrangements can be made for its vacation by the students. Resolved- That in view of the fact that there are now three Professors ( and likely to be a larger number) unprovided with houses, that they be invited to have appropriate Dwellings constructed on the following conditions. 1. That such Dwellings be erected on the most eligible sites of the University land- the location, construction, architectual style and all other matters pertaining thereto to be subject to the consideration of the Superintendent and Faculty, and to the approval &amp; decision of the Executive Committee. 2. That the cost of such houses shall not exceed $6000one half to be advanced by the Professor and the other half by the University- either in cash or bonds as may be most convenient- with a bond (bearing interest from the completion of the building) for the amount advanced by him. Resolved- That until otherwise ordered by the Board the Infirmary fund of the present University session be placed under the control of Drs. Cabell, Davis &amp; Harrison, who shall disburse it as they may deem best for the interest of the University and the preservation of the health of the students-Provided, however, that the fund be so used and employed as to make the Infirmary self sustaining- including repairs- and that an annual report of receipts and disbursements be made to the Board of Visitors. Resolved- That the Infirmary fund be charged with the cost of the new roof on the building. Resolved- That the Board of Visitors recognize the vital importance of establishing an Observatory at the University, and that the Rector be instructed to solicit state and individual aid for that purpose, and to renew the correspondence with Lieut. Maury to enlist his cooperation in the Scheme, and tendering him prospectively the position of Superintendent of said Observatory, coupled with the Chair of Practical Astronomy, Physical Geography and Climatology. The Board adjourned till tomorrow morning at 9 oclock A.M. Wm. Wertenbaker Secretary B. Johnson Barbour Rector of Univ. of Virg. December 4th 1867 The Board met at 9 oclock A.M. pursuant to adjournment-Present the same members as on yesterday. Resolved- That the order made in reference to the Superintendent of Public grounds whereby he was withdrawn from the control of the Chairman of the Faculty, is hereby rescinded-and it is further ordered that in both offices and in his administration, the Proctor &amp; Superintendent of Grounds &amp; Buildings, shall be subordinate to the Chairman, who shall be regarded and respected as the Executive Chief of the University. Resolved That the Rector be and he is hereby authorized to effect a Loan of Ten Thousand Dollars on the Bonds of the University at a rate of interest not exceeding ten per cent-the proceeds to be applied to the enlargement, improvement &amp; completion of the water works of the University- and that when completed a Tariff of water rates shall be established - the whole of which (after deducting the ordinary expenses) shall be pledged and devoted to the payment of the interest and liquidation of said debt- Resolved That the Rector be authorized and requested to confer with the authorities of Charlottesville, to secure if possible, their cooperation in the proposed enlargement and improvement of the waterworks of the University- Col. John E. Johnson personally appeared before the Board and tendered his resignation of the Office of Proctor &amp; Superintendent of Grounds &amp; Buildings- Whereupon, on motion Resolved That Col. John E. Johnson's resignation of the Office of Proctor &amp; Superintendent of Grounds &amp; Buildings be accepted to take effect whenever his successor shall be ready to enter upon the duties of his Office. M. Green Peyton was then unanimously elected Proctor &amp; Superintendent of Grounds &amp; Buildings in place of Col. John E. Johnson resigned. The Board then adjourned. Wm. Wertenbaker Secretary B. Johnson Barbour Rector of Univ. of Va.</field>
+      <field name="fulltext">Called Meeting December 3rd 1867 A special meting having been ordered for this day, the following members appeared and took their seats- B. Johnson Barbour, Rector, W. E. M. Word, R. W. Hughes, Thomas L. Preston, Thomas J. Pretlow, and John R. Woods. The Board having been called to order by the Rector. Resolved, that $25 be appropriated to the repair of Instruments belonging to the School of Applied mathematics. Resolved That the Faculty be authorized to contract with any person or persons to erect a washing and bathing Establishment below the University Pond on some more elegible point; restricted to one acre of land- The Board reserving to itself full control of the whole concern and the right of dismissal in case of failure to comply with conditions and restrictions and proper administration.- the lease to last ten years- the property to revert to the University whenever the lease ceases. Resolved That the application of F. Hildebrand for leave to occupy a room in the basement of Washington Hall building, in order that students may carry on their gymnastic exercises on rainy days, be referred to the favourable consideration of the Proctor &amp; Supt. of Grounds &amp; Buildings. Resolved That unless precedence shall be claimed by Prof. Southall the first house within the precincts that shall become vacant shall be assigned to Prof. Harrison, and that the Executive Committee be invested with authority to assign him one of the Dawson Row Buildings as soon as arrangements can be made for its vacation by the students. Resolved- That in view of the fact that there are now three Professors ( and likely to be a larger number) unprovided with houses, that they be invited to have appropriate Dwellings constructed on the following conditions. 1. That such Dwellings be erected on the most eligible sites of the University land- the location, construction, architectual style and all other matters pertaining thereto to be subject to the consideration of the Superintendent and Faculty, and to the approval &amp; decision of the Executive Committee. 2. That the cost of such houses shall not exceed $6000one half to be advanced by the Professor and the other half by the University- either in cash or bonds as may be most convenient- with a bond (bearing interest from the completion of the building) for the amount advanced by him. Resolved- That until otherwise ordered by the Board the Infirmary fund of the present University session be placed under the control of Drs. Cabell, Davis &amp; Harrison, who shall disburse it as they may deem best for the interest of the University and the preservation of the health of the students-Provided, however, that the fund be so used and employed as to make the Infirmary self sustaining- including repairs- and that an annual report of receipts and disbursements be made to the Board of Visitors. Resolved- That the Infirmary fund be charged with the cost of the new roof on the building. Resolved- That the Board of Visitors recognize the vital importance of establishing an Observatory at the University, and that the Rector be instructed to solicit state and individual aid for that purpose, and to renew the correspondence with Lieut. Maury to enlist his cooperation in the Scheme, and tendering him prospectively the position of Superintendent of said Observatory, coupled with the Chair of Practical Astronomy, Physical Geography and Climatology. The Board adjourned till tomorrow morning at 9 oclock A.M. Wm. Wertenbaker Secretary B. Johnson Barbour Rector of Univ. of Virg.</field>
+      <field name="fulltext">December 4th 1867 The Board met at 9 oclock A.M. pursuant to adjournment-Present the same members as on yesterday. Resolved- That the order made in reference to the Superintendent of Public grounds whereby he was withdrawn from the control of the Chairman of the Faculty, is hereby rescinded-and it is further ordered that in both offices and in his administration, the Proctor &amp; Superintendent of Grounds &amp; Buildings, shall be subordinate to the Chairman, who shall be regarded and respected as the Executive Chief of the University. Resolved That the Rector be and he is hereby authorized to effect a Loan of Ten Thousand Dollars on the Bonds of the University at a rate of interest not exceeding ten per cent-the proceeds to be applied to the enlargement, improvement &amp; completion of the water works of the University- and that when completed a Tariff of water rates shall be established - the whole of which (after deducting the ordinary expenses) shall be pledged and devoted to the payment of the interest and liquidation of said debt- Resolved That the Rector be authorized and requested to confer with the authorities of Charlottesville, to secure if possible, their cooperation in the proposed enlargement and improvement of the waterworks of the University- Col. John E. Johnson personally appeared before the Board and tendered his resignation of the Office of Proctor &amp; Superintendent of Grounds &amp; Buildings- Whereupon, on motion Resolved That Col. John E. Johnson's resignation of the Office of Proctor &amp; Superintendent of Grounds &amp; Buildings be accepted to take effect whenever his successor shall be ready to enter upon the duties of his Office. M. Green Peyton was then unanimously elected Proctor &amp; Superintendent of Grounds &amp; Buildings in place of Col. John E. Johnson resigned. The Board then adjourned. Wm. Wertenbaker Secretary B. Johnson Barbour Rector of Univ. of Va.</field>
+   </doc>
+</add>

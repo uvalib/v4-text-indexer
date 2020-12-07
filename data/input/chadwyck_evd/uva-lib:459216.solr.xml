@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University Press</field>
+      <field name="author_facet">University Press</field>
+      <field name="author_sort_facet">university press</field>
+      <field name="author_text">University Press</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1910's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.0498.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1911-1956</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459216</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Four Cardinal Virtues</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 20th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 20th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Four Cardinal Virtues</field>
+      <field name="title_facet">four cardinal virtues</field>
+      <field name="title_sort_facet">four cardinal virtues</field>
+      <field name="title_text">The Four Cardinal Virtues</field>
+      <field name="year_display">1911-1956</field>
+      <field name="year_facet">1911</field>
+      <field name="year_multisort_i">1911</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459216&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459216&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Four Cardinal Virtues&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;four cardinal virtues&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1911-1956&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1911&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Four Cardinal Virtues&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Oxford&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1911-1956&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873444-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv10498&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Four Cardinal Virtues&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 23 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Moralities.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries, introductory and editorial matter omitted&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Source texts incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Copyright (c) 1911 The Malone Society. This text may not be reproduced, except for fair dealing purposes, without the express permission of Chadwyck-Healey and the copyright holder.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The four cardinal virtues.</field>
+      <field name="desc_meta_file_display">Genre: Moralities.</field>
+      <field name="desc_meta_file_display">Date first published: 1541.</field>
+      <field name="desc_meta_file_display">Date first performed: 1537–1547.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Source text incomplete&lt;lb/&gt;Angle brackets represent sections of the text unclear in the original and supplied by the current editor&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE FOUR CARDINAL VIRTUES</field>
+      <field name="fulltext">And after your wayes me to take Nay rather with deth amendes wyll I make I«u» Meruayle where prudence is so longe Te«m»pe. Now Iesu sende hym vs amonge wylfull. Prudence the deuyll of hell hym hange Ye breke myne armes ye theues I saye I trust ones in auctoryte to be full stronge Than I wyll quyte you theues and I may Iustice. Nay thou shalte neuer se that day Tempe. Let hym haue ryght syr I you praye For he wyll do sorowe yf he go thus away Iustice. Nay for this mysse truly he shall pay Prud?c. The father most potenciall in all maiestie The wysedome of the sone to vs most fructuous With grace of the holy ghost most «of b»enygnitie Preserue al this company assembled «to»gyther Conserue vs in grace our sou«l?»s be neuer lost With helpe and intersessyoof that mayden fre Mother to the seconde per«so»n in trinite Prud?ce is a vertue yt wysedome doth constrayne Without whome grace dothe persuade and fle Wherfore of prudence ye shulde be fayne And prudence forsoth is the name of me Mankynde ensueth vyes and folye Wylfulnes hym tyceth &amp; maketh hym full prone He wyll nat remembre what he hase mysdone Whan a man is vp brought and set in his aboue He wyl nat remembre fro whence that he came Who hath hym forth broughte he taketh no leue But foloweth his own wyl to brynge h? to shame Hye for to clymbe they take it for a game To regarde theyr power fewe hath a zele But beware the worlde it turneth as a whele Iustice. In good trouth brother ye say ryght wele This worlde is combred and brought in wo «W»ylfulnes hath approchcd this worlde to spyll If he myght haue reygned his wyll for to do «Tem»pe. He was gyuen great auctorytye vnto The worlde hym auaunce and set in degre Soone he rebelled and nowe he is gone ther fro Depe he lyeth in pryson, and nowe where is he wylfull. I beshrewe thyne herte for it is longe of the Iustice. Lo syr nowe may you se Wylfulnes in this degre Tempe. Nowe reuerende iustyce I you requyre Let hym haue ryght or he go For yf he departe I you ensure All this countrey he wyll vndo wylfull. The deuyll spede the thou art euer my fo Prud?c. He hath some cause why he doth so Tempe. Ye truely this caytyfe vnkynde My brother reason ??bdued hath he He wolde hym sle yf h«e» coulde hym fynde And all my goodes he hath taken fro me Rex regum he wylled to be But it hath be sayde before this A shrewde cowe ofte hath short hornes wylfull. Hornes ye with many hornes I say Thou hast made syth thou were bore And many a cokolde hath borne them away It were almes that thou were hanged therfore Here they take hym out. Iustice. Temperaunce take out this caytyfe And let hym stande here before vs also He shalbe punyshed lyke a thefe Tell vs prudence with hym what we shall do Prud?c. Fortytude I wolde were here wylfull. Nowe reuerende lorde let me be messenger? And truely I wyll hym brynge He is my lorde I you ensure And he wyll be sory to here of this thynge Iustice. Ye but wylte thou nat come agayne wylfull. Than syr let me be slayne Tempe. Ye syr but he thynketh some subtyll trayne Prud?c. Here is an oblygacyon of twenty pounde And thou wylte to vs be bounde Surely to come This obligacyon here I seale with wa«xe» Mary it wolde make my purs take th«e» «I»ustice. Nowe spede the on thy iourne«y» And come agayne within dayes «w»ylfull. The deuyll breke all your Shulde I come to yon ??ay Nay I beshrewe than «s» I had leuer to be sl??? But for all thi? Yet wyll I I had leuer Iustice. What doe? wylfll. I beshrewe you all I g«o» my«y» Thus deuoutly wyll I praye Tempe. Here syr what he dothe saye He wyll neuer amende his lay wylfull. Yes yes maystres I wyll I wyll And shortly I wyll come you tyll Et exeat ad lud' poorely Prud?c. Nowe gone is this who hym betyde For wylfulnes hath made here muche to do For iustice ne trouth coude nat abyde Suche sorowe he procured where he dyd go Sore he rebelled as his owne fo He wolde neuer knowe his degre And therfore nowe deposed is he e. Wylfulnes dyd neuer good in dede Aduersytye it bryngeth apase And causeth welth to stande in drede And to be banysshed fro all solace Iustice. Wylfulnes causeth dysobedience A man that is well and can nat se With a state he is in presence «L»et hym make his owne degre «o»ftentymes vndone is he neuer in welth take hede all he may stande in drede Ato shame «h»ede He «r?nnly» bo«th» halte and lame Fortitu. poorely. W«?a»t «or»lde with dowblenes Somtyme of hye degre But ?? n?? «w»ylfulnes «Al» my o Myne Ne remwh«e»ns I came Ne know«elege» of wh«o»me I had that name Iustice. In good fayth father there ye were to blame But I praye you what do men you call Fortitu. You to tell I haue great shame Syth somtyme I was full royall Than prosperytye was my name My power than was most potentyll Tempe. Lo iustice nowe knowe ye shall Disobedience this same is he He wylled to haue bene lorde of all So wylfull he was in degre Prud?c. He refused you and also me He banysshed welth with loue also He wolde nat suffre in no countre Vertue to dwell where he shulde go Iustice. Now ye may se what he is come to Wylfulnes is cause of mekyll wo Many is the man he hath brought full lo And many a great lorde he hath brought ful lo Fortitu. Now reuerende lordes I praye you of this To be my comforte and helpe me in my wo And a sure promyse make to you ywys Here after to beware I wyll no more do so Iustice. Ryght to iustefye for thy wycked wyll Thou arte worthy to suffre al thys yl Tempe. And he wyll inclyne euer to fulfyl Gods commaundementes and obedyent to be Vnto his superyour as reason is and skyle Than he shalbe holpen shortly by me Prud?c. Obedience is a vertue most potentiall And is so precyous yt the son of god came downe Into this worlde and pecame mortall And for vs suffred deth and bytter passyon X?«?» fac«t»? ??«n»obis obedi?ce. to gra?«t» vs remissi? Thus with obedience he purchased our place In heuen yt we may dwell by his specyall grace Prud?c. My purpose was pyght me to magnyfye Aboue all other exalted to be So serre in my wylfulnes I dyd me reply That nowe I am cast in to this degre And all is longe of aduersytye The whiche I loued moost excellent It was a corde to myne entent As for loue, peace, and tranquylytie I loued neuer with them to dwell Temperaunce, prudence, and humilitie I dyd forsake my selfe to quell An«d» nowe I knowe I dyd nat well Wherfore it rueth me full sore Forgyue me this I wyll do no more Iustice. Than with a newe name we wyll the restore Fortytude thus we the call In vertue to encrease more and more And as our brother be thou shall In token wherof take this crowne ryall With this robe and garment gay Nowe art thou well thus may thou saye Fortitu. I thanke you my soueraines of your goodnes Syth it hath pleased you me to vnbynde Nowe men may se what auayleth wylfulnes It presenteth man euer to be vnkynde By me it may be verefyed and ye haue in mynde Of my fyrste commynge in to this hall For than aduersytye men dyd me call Chaunged into prosperyte by crafte colorable Disobedience I was I feared no fall My myght and my myschefe was intollerable My purpose exalted to clymbe aboue all But fortune sone chaunged and turned as a ball And depryued me fro honour wt my wylful m?de So outragious I began in wilful to be vnstable Vnto prudence and tempera?ce I was vnkynde Also agaynst reason I wrought importunable Thus was my lyuynge euer to be vnfortunable For lacke of grace my selfe I wolde nat knowe Than was I depryued and brought full lowe Nowe Iesu I thanke the of thy goodly grace That with this penytent herte me doost restore Of my knees bare Knowlege my trespas And askehym of mercy for I wyll neuer more And Iesu as thou were of a mayde borne Preserue this realme from aduersytye And kepe it alwaye in prosperytye Tempe. And all wylfull counsell Iesu amende And graunt vs peace and tranquylytie That vertue of grace Iesu vs sende That we may banyshe all iniquitie Prud?c. Ye and lorde Iesu we pray to the Dayly to preserue and defende Our noble kynge Henry the eyght All welth and prosperitie Iesu hym sende And we his true c?mens in our prayers c?mende With all the states of his noble progeny Which of theyr goodnes our welth doth intende Iustice. Bothe the kynge and ye prynce &amp; the lordes all Iesu graunt them longe for to raygne And whan they departe out of this lyfe mortall That prynce Edwarde maye be our souerayne Fortitu. Lo ye foure cardynall vertues ye may behold Temperaunce, prudence, and also iustice And I fortytude full louely on molde Ben often mysused by reason of vyce The enuy of man so prest is to attyce Our sensuall nature whiche of it selfe is frayle Contynually temptynge leudnes to aryce And all vertues holly to cause from vs fayle But yet reason draweth to counsayle Vertuous opposytes, suche vyces to peruert With helpe of grace soner to preuayle The stoberne wyll inclose in the herte Thus euery man felynge the synfull smert By grudge and pryckynge of the consyence Fro suche frowarde lyuynge may sone asterte Resistynge wyllynge with his dylygence And in his herte with perfyte pacyence Take suche assautes done by aduersytye For surely here ye may se hy experyence That sone ouertourned this worldly prosperytye Therfore I counse«llu»ery degre Trust to that welth promysed from aboue And to haue that in perfyte charyte Pray we to that lorde that dyed for our loue AMEN. Thus endeth the enterlude of the .iiii. cardynal vertues, &amp; ye vyces contrarye to them. Imprynted at London in Fletestrete. at the sygne of ye George by Wyl lyam Myddylton</field>
+   </doc>
+</add>

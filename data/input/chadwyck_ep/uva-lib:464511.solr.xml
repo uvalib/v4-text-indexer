@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Max Niemeyer</field>
+      <field name="author_facet">Max Niemeyer</field>
+      <field name="author_sort_facet">max niemeyer</field>
+      <field name="author_text">Max Niemeyer</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1900's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.2114.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">1906</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464511</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">New Testament verse passages</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 20th century</field>
+      <field name="subject_text">English poetry -- 20th century</field>
+      <field name="title_display">New Testament verse passages</field>
+      <field name="title_facet">new testament verse passages</field>
+      <field name="title_sort_facet">new testament verse passages</field>
+      <field name="title_text">New Testament verse passages</field>
+      <field name="year_display">1906</field>
+      <field name="year_facet">1906</field>
+      <field name="year_multisort_i">1906</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464511&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464511&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;New Testament verse passages&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;new testament verse passages&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1906&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1906&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;New Testament verse passages&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Halle&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Max Niemeyer&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1906&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp2552&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;172 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;New Testament verse passages&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 27 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only "New Testament verse passages" included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Middle English poetry.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">In principio erat verbum, &amp; verbum In biginning worde it was, And þe worde at gode it vas, And god him selue þe worde was he, þat is and euer more schal be. At god it was in biginning, þorou him is maked alle þing, With outen him is maked noght, Euer yiet þat might be oght, þat made in him his lif was riht, Atte lif was mannes light, And light in merkenes þat shines bright, And mirkenes it vmbilappene miht. A Man fro god was sende, hight Iohn; He comes in wittnes sone on an, To giue witnes of þe light þorou him þat alle sulde truwe it riht. He was noght liht, bot, for to wisse, þurgh wittnes of þe light þat isse, Right light was þat lightes al Man come in to þis werld þat schal. In werld he was in flex and blode, Ne was none þat him vndirstode; And al þe werld þorou him is wroght, And te werld ne knew him noght. In til his oven he come with blis, þai keppe him noht, þo þat wore his. þo þat keppe him dai or niht, Ere in er?e he gaf hem miht, Als godes sones to be þe same Til alle þat liuen in his name, þat nouht of blodes þai be-gan Ne of will of flex ne of wil of man; Bot of god þen are þai born, þat is and euer was bi-forn, And worde in flex made right And woned in vs þorou godes miht. And we þe blisse of him sal se, Als blis þat euermore sal be, Of oneli sone fadir þat es fful of happe and sothefastnes. Amen. II. Missus est angelus Gabriel. In þat time, als was ful wel, Sende is þe aungel Gabriel ffro god in til a cite, Hat Nazareth in Galile, Un to a Maiden wedded riht Til a man, whos name hight Iosep of þe house of Daui, And name of þe maiden Mari. And when þe aungel was in gon, Vnto hire he saide onon: “Haile ful of hape, god is with þe, In wemmen blissed þou be!” When þat sho hade herde þisse, In his sagh drofede sho isse, And sho soght for bi anni þing, What þat miht be þis hailsing. þen saide þe angel witerli To hir þat was so hali: “Mari, drede þe noþing nou, For hape at gode funden has tou. Loke, in wombe on-fong þou mon, And for þi salt tou bere a son, And þou salt kalle his name Iesus, ffor god wil þat it be þus. Swiþe mekel sal he be, And son of heighest be kald sal he, And louerd sal giue him þer with þe sete of his fadir hous Dauid, And in Iacob hous rike sal he, And of his rike no ende sal be. Vnto þe aungel saide Mari: “Hou mai þis be? no man knaw I.” And ansuerd þe angel bright, He saide to hire was ful of miht: “þe hali gaste sal come in þe al, And miht and heighest inshadw þe sal, And forþi þat heli born of þe, Godes sone be kalde sal he. And loke, Elizabeth, þi nece vn-welde, Onfonges a son in hir elde, And þis moneth sext til hire is yhit, Gelde unberand þat kald is it. ffor vnimiht sal noght be At god, no worde I sai to þe.” þen seide Mari with milde chier: “Godes handemaiden lo me here! Als tou has saide, so mot it be After thi worde vnto me!” III. Cvm natus esset Iesus in Bedelem. When þat Iesus was born yhing In daies of Erode þe kyng, Lo, kynges of oþer lande, þai come to Iherusalem saiand: “Whore is þat t[i]l vs born is he, King of Iues sal be? In þe est his stern we se, And to bidde him come we.” Herand Herod droued is þo, Al Iherusalem with him als so. And princes of prestes kalland al And maistre writers of s[c]ole men kal, Of þam yhornlie spired he, Whore þat Crist born miht be. “In Bethelem Iude”, saide þo, “þurght prophete is it writen so: And þou Bethelem, land of Iude nou, Noht litel in princes of Iude ert þou, ffor fro þe Duk come sal þai wel, Stere sal mi folk of Irael. þen Herode kalland þe kynges stilli, Of þam spired he bisili þe time of þe sterne so briht þat to þam shewes dai and niht. And in to Bethelem þam sendand, He saide with mikel niht and and: “Goos and spires hardeli Of þe child ful witerli! And when þat ye haue funden hit, Again to me þen do ye wit, þat I mi selfe mai come with al, And to him biseke I sal.” When þat þai þe kyng had herde, fforth opon þar wai þai ferde. And lo, þe sterre while þai seghe, Bifore þam wited apon heghe, Whil þat comand stille it stode, þar was the childe in flesshe and blode. And þai, seand þe sterne so, With mikel gladschip glade are þo, And þe heli hous incomand With Mari, his Moder, þe child þo fand. And þai be-soght him dounfalland And þar bordes openand. [G]iftes to him bede þai þore, Golde, Recles, Mirre wel more. And awnsuerd in drem takand þo þat bi Herode noght sulde þai go, Hamward bi a noþer wai In to þaire rike went are þai. IV. In illo tempore Recumbentibus. In þat time and in þat lande Ellefe disciples wore sitand, And Iesus to þam shewed he, þat louerd is and ai sal be, And vpbraided mistrouht of þo And hardnes of hert als so, ffor to þo þat segh him rise Walde þai noht liue on no kin wise. And to þam he saide on hand: “In alle þe werlde yhe be goand, And þe ewangel spelle yhe Til alkyn creature mai be. And þat trowes and cristend isse, Sal be sauf til heuen blisse, And þat leues noght for thi, Sal be fordone witerli. þhese tokenes þat liuen right, Sal filihe þam bi dai and niht. In the name min deuelnesse Sal þai out kest fro more and lesse; With new tunges speke sal þai, Neddres sal þai do a-wai; And if dedlic dronken haue þai oght, To þam dere sal it noht; Apon seke lai sal þai hende, And wel sal þo haue and amende!” When þat soghlic louerd Iesus Hade spoken in til am þus, Vptan he is in heuen briht And sites on godes halue riht. þai sothelic forth yhode spelland Ouer alle in ilka land, God wirkand and sagh festenand With tokenes þat wore filihand. Amen. Q vicumque vult saluus esse. Who so wil be sauf to blis, I Before alle þinges nede it is þat he hald with alle his miht þe heli trauth and leue it riht. Whilk bot ilkon to queme II Quam nisi quisque Hole and wemles it yheme With outen drede bes þer forn ffro godes sight in ai forlorn. Sothelic þe heli trauht þis isse, III Fides autem þat .o. god in þrinnesse And þrinnes in onnesse Wurchip we þe more and lesse. Ne þe hodes oht mengande, IV Neque confundantes Ne þe staþelnes sondrande, ffor oþer hode of fader, oþer of son, V Alia est enim Oþer of heli gost wil with am wun. Bot of fadir and son and heli goste VI Sed patris et filii On is godes coningue, þat is moste; Heuen blis is til am þre, Ai .on. in mikelhede to be. Whilk þe fader, whilk þe son, VII Qualis pater, talis Whilk heli gost wil with am to wun. Vnshapen fadir, unshapen son is, VIII Increatus pater Vnshapen heli gost in blis. Mikel fader, mikel son ai, IX Inmensus pater Mikel heli goste niht and dai. Ailastand fadir, ai-lastand son, X Eternus pater, eternus filius Ailastand heli [gost] be mon. And þowheþer noht þre ailastand, XI Et tamen non tres Bot .on ailastand ouer al land. Als noht þre unmade ne mikel þre, XII Sicut non tres Bot .on. unmade and .on. mikel is he. Als so al-mihtand fader, almihtand son, XIII Similiter omnipotens Al-mihtand heli goste to wun. And þowheþer noht [þre] al-mihtand, XIV Et tamen non tres Bot on. almihtand is liuand. Als so god fadir, god sone isse, XV Ita deus pater, deus God hali gost with am in blis. And þowheþere noht godes þhre, XVI Et tamen non tres Bot on is god and ai sal be. XVII Ita dominus pater XVIII Et tamen non tres ffor als sengellic hode god oure louerd to be XIX Quia sicut þurght cristen sothenes lette sal we, To þre godes or louerdes to kall þurght heli festnes forboden ar all. þe fadir of non made is he, XX Pater a nullo est Ne shapen ne kinned to be. þe sone of onli fader blis XXI Filius a patre Noht shapen ne made, bot kinned is. þe heli goste of fadir and son mihtand XXII Spiritus sanctus a patre Noht shapen ne made, bot forth comand. þen .o. fader, noht fadres þre, XXIII Unus ergo pater .O. son, noht þre sones to be, .O. heli gost and nomo— Of þam comand ne .þre. ne two. And þis þrinnes þer with inne XXIV Et in hac trinitate Noght frist or latter, noht more or minne, Bot al þre persones lastand ai To þam and euenmette are þai. So þat bi alle, als bifore saide is, XXV Ita vt per omnia And þrinnenes in onnes, And onnesse in þrinnes ai Are to wurschip niht and dai. Who þat þen wil berihed be, XXVI Qui vult ergo So of þe þrinnes leue he. And nede at hele þat last ai sal XXVII Set necessarium est þat þe flesshede ai with al Of oure louerd Iesu Crist for þi, þat he trowe it trewli þen is euer trauht right, XXVIII Est ergo fides þat we leue with alle oure miht þat oure louerd Iesu Crist in blis Godes sone and man he his. God of kinde, of fader kinned werld bi-forn, XXIX Deus est ex substancia Man of kind, of moder in to werld born. ffulli god, fulli man liuand, XXX Perfectus deus Of schilful saule and mannes flesshe beand. Euen to þe fadir þurght godhede, XXXI Equalis patri Lesse þen fader þu[r]ght manhede þat þof he be god and man, XXXII Qui licet deus Noght two þowheþer, is bot Crist an. On noht þurght wending of godhede in fflesshe, Bot þurght takyng of manhede in god-nesshe. On al noht be menging of staþelnes, XXXIII Unus autem Bot þurht onhede of hode þat is. þat þholed for oure hele, doun went til helle, XXXIV Qui passus þe þreddai ros fro dede so felle, Vpstegh til heuen, sites on right hand XXXV Ascendit ad Of god fadir alle-mightand, And yhit fortocome is he, To deme þe quik and dede þat be. Ate whos come alle men þat are XXXVI At cuius aduentum Sal rise with þaire bodies þare, And yelde sal þai, nil þai ne wil, Of þair awen dedes il. And þat wel haf donn þat dai, XXXVII Et qui bona egerunt Sal go to lif þat lastes ai; And iuel haf donn, sal wende In fire lastand with outen ende. þis is þe trauht þat heli isse, XXXVIII Hec est fides Whilk bot ilkon with miht hisse Trewlic and fastlic trowe he, Saufe ne mai he neuer be. Amen. VI. Veni creator spiritus. 1 Cvm, maker of gaste þou ert, Veni creator þouhtes of þine þou seke and hert, Of heiest hape fulfild in quert þe brestes þat þou make gert. 2 Whilk þou art saide maker of gle, Qui paraclitus Gaste of god heiest is he, Welle, quicfire, and charite, And gosteli seruise, þe best mai be. 3 þou seuen-fold of gifte þat isse, Tu septifor[mis] Of god rihthand þou finger is, þou righwis hote of fadir blis, Righthand þrotes with worde þou wisse. 4 Kyndelik in wittenes for to wende, Accende In-yiet loue in hertes hende, þe vnmigh of oure bodi oure þou mende, festenand. 5 A-wai þou fleme oure fo, Hostem And pais þou gif vs sone als so, þe leder so be-fore to go, þar dering alle we fle þer fro. 6 þe fadir, gif, we with þorou þe Per te sciamus And knowe þe sone als so þe se, þe hali gaste of lyþe wil be— In al time we trowe þise tre. 7 Whilum ful mani a haleghed brest Dudum sacra[ta] With þi hape þou fild and fest; For-giue sinnes—þat is best— And times giue of ro and rest. 8 To þe fadir ante sonne be louyng maste Sit laus And to þe heli rouere with chaste, Til vs þe sune he sende on haste Giftes of þe heli gaste. Amen.</field>
+   </doc>
+</add>

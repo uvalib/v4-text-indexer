@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">The Folk-Lore Society c/o University College London</field>
+      <field name="author_facet">The Folk-Lore Society c/o University College London</field>
+      <field name="author_sort_facet">the folk lore society co university college london</field>
+      <field name="author_text">The Folk-Lore Society c/o University College London</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1960's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.1122.xml</field>
+      <field name="date_indexed_facet">201909240355</field>
+      <field name="date_text">1967</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459751</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Mummers' Play from Romsey, Hants</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 20th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 20th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Mummers' Play from Romsey, Hants</field>
+      <field name="title_facet">mummers play from romsey hants</field>
+      <field name="title_sort_facet">mummers play from romsey hants</field>
+      <field name="title_text">Mummers' Play from Romsey, Hants</field>
+      <field name="year_display">1967</field>
+      <field name="year_facet">1967</field>
+      <field name="year_multisort_i">1967</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459751&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459751&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Mummers' Play from Romsey, Hants&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;mummers play from romsey, hants&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1967&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1967&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Mummers' Play from Romsey, Hants&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;The Folk-Lore Society c/o University College London&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1967&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873621-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv11122&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Mummers' Play from Romsey, Hants&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 11 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only verse drama included&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Source text incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Reproduced by permission of the British Library&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Mummer's play from Romsey, Hants.</field>
+      <field name="desc_meta_file_display">Genre: Folk drama.</field>
+      <field name="desc_meta_file_display">Date first published: 1967.</field>
+      <field name="desc_meta_file_display">Date first performed: Unknown.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">MUMMERS' PLAY FROM ROMSEY, HANTS</field>
+      <field name="fulltext">In Romsey among other Places this Mummery is kept up, fm about Christmas, &amp; for [?] days after, 6 or 8 Lads, or more, dress themselves in a Manner in wch the Shirt is ever uppermost decorated with Ribbons of various Colours tied about their arms waist &amp; legs. The Christmas Mummers performed by y grown Boys of Romsey in fancy dresses—act y following Scene</field>
+      <field name="fulltext">Welcome Welcome old father Christmas In comes old Father Christmas Welcome or welcome not I hope old Father Christmas will never be forgot Rome Rome I do disdain For after comes St George &amp; all his noble Train and in this Room there shall be shown The finest Battle that ever was known Between St Geo. &amp; ye Turkish Knight Enter St. George—who says In come I St George St George That valiant Man of courage bold all with my Sword and Spear I won 10 Crowns of Gold I fought the fierce Dragon and brought him to slaughter &amp; by this means I won the Kg of Bohemia's Daughter Enter Turkish Knight In come I the Turkish Knight old England for the fight I will fight St George that valiant Man of courage bold and if his Blood is hot I'll quickly make it cold. They fight &amp; St George vanquishes T. Knight. St George then Says I am a little Man that talks very bold much like a Lad that I have been told Therefore draw out thy Sword &amp; fight, pull out thy Purse &amp; pay— Satisfaction I will have before I go away Turkish Knight Spare Me St Geo: &amp; do not cut Me down St George Oh, I'll cut thee down &amp; thou shalt rise no more Then forfeit thy life to make a Store. Gentn &amp; Ladies walk out &amp; see what Miracles I've done. I've cut &amp; slain my Father down all by y Evening Sun. Oh Doctor Doctor is there an Italian Doctor lately come from Spain. To heal ye Sick &amp; raise ye dead again. Oh yes, there is an Italian Doctor lately come from Spain To heal ye Sick &amp; raise ye dead again. Doctor appears Oh Doctor what canst Thou cure Docr I can cure ye Itch P. Palsy &amp; Gout and raging Pains that run both in &amp; out Broken Legs &amp; arms, if any Man shall break his Neck I will set it again, &amp; have nothing for my Pains To y Doctor Oh Doctor what is thy Pay Doc. Ten Guineas is my Fee, but 10 pds I will take of thee Take it— Doctr. Ive got a little Bottle in y Band of my Breeches called Elecampane—applies it saying Rise, Beau Champion, &amp; fight again (The T. Knight rises up) &amp; says The Dragon is my Enemy, to quietly end ye Strife I'll crop his wings, He shall fly no more, St George shall end his Life. Enter Cut &amp; Star In come I cut &amp; Star—just come from ye bloody War I &amp; seven more will beat eleven Score. Marching Men of War, many Battles I have Seen Many Battles I have been in for St Geo. our King. Enter Poor &amp; Mean—He Says In come I poor &amp; Mean, hardly worthy to be seen Christmas comes but once a Year When it comes it brings good Cheer Roast Beef, Plum Pudding &amp; mince Pye no body loves them better than I a Mug of yr Christmas Ale will make us dance &amp; sing &amp; money in our Pockets is a very fine Thing. Enter Bold Slasher In come I Bold Slasher, Bold Slasher is my Name with my Sword &amp; Buckler by my side I hope to win this Game what Man, what Man comes under my bloody Hand I cut him and slay Him as small as dust and send him to ye Cook's Shop to make Pye Crust Enter Twing Twang In comes Twing Twang, Lieutenant of ye Press Gang I press all these bold Mummers &amp; send them aboard a Man of War—To fight the French &amp; Dutch &amp; Spaniards also Enter Jolly Jack In come I Jolly Jack with my Wife &amp; Children at my Back when she comes she only Says Gent. &amp; Ladies give me what You please Exeunt omnes, saying I wish You a merry Christmas, &amp; a happy new Year a pocket full of Money &amp; a Cellar full of Beer.</field>
+   </doc>
+</add>

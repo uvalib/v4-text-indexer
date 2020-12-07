@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Clarendon Press</field>
+      <field name="author_facet">Clarendon Press</field>
+      <field name="author_sort_facet">clarendon press</field>
+      <field name="author_text">Clarendon Press</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.1117.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1885</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459746</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Merceres ; XLVIII. The Judgement Day</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Merceres ; XLVIII. The Judgement Day</field>
+      <field name="title_facet">merceres</field>
+      <field name="title_sort_facet">merceres</field>
+      <field name="title_text">The Merceres ; XLVIII. The Judgement Day</field>
+      <field name="year_display">1885</field>
+      <field name="year_facet">1885</field>
+      <field name="year_multisort_i">1885</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459746&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459746&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Merceres ; XLVIII. The Judgement Day&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;merceres&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1885&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1885&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Merceres&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;XLVIII. The Judgement Day&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Oxford&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Clarendon Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1885&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873618-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv11117&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Merceres&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;XLVIII. The Judgement Day&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 36 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and editorial matter including introduction and glossary omitted.&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Source texts incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The merceres.</field>
+      <field name="desc_meta_file_display">Genre: English mystery and miracle plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1475 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1352–1376 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">XLVIII. THE MERCERES. The Judgment Day. Square brackets represent sections of text unclear or absent in the original and supplied by the current editor</field>
+      <field name="fulltext">[PERSONS OF THE PLAY. Deus. 1, 2, 3 Angelus. 1, 2 Anima bona. 1, 2 Anima mala. 1, 2 Apostolus. 1, 2, 3 Diabolus.]</field>
+      <field name="fulltext">[Scene I Heaven.] Deus incipit. 1. FIRSTE when I þis worlde hadde wroght, Woode and wynde and wateris wan, And all-kynne thyng þat nowe is oght, Fulle wele me þoght þat I did þanne. Whenne þei were made goode me þame þoght, Sethen to my liknes made I man, And man to greue me gaffe he noght, Þerfore me rewis þat I þe worlde began. 2. Whanne I had made man at my will, I gaffe hym wittis hym selue to wisse, And paradise I putte hym till, And bad hym halde it all as his. But of þe tree of goode and ill, I saide, “what tyme þou etis of þis, Manne, þou spedes þi selue to spill, Þou arte broght oute of all blisse.” 3. Belyue brak manne my bidding, He wende haue bene a god þerby, He wende haue wittyne of all-kynne thyng, In worlde to haue bene als wise as I. He ete the appill I badde schulde hyng, Þus was he begilid thurgh glotony, Sithen both hym and his ospring, To pyne I putte þame all for-thy. 4. To lange and late me þoghte it goode, To catche þois caitiffis oute of care, I sente my sone with full blithe moode Till erþe, to salue þame of þare sare. For rewþe of þame he reste on roode, And boughte þame with his body bare, For þame he shedde his harte and bloode, What kyndinesse myght I do þame mare? 5. Sethen aftirwarde he heryed hell, And toke oute þois wrechis þat ware þare-inne. Þer faughte þat free with feendis feele For þame þat ware sounkyn for synne. Sethen in erthe þan gonne he dwelle, Ensaumpill he gaue þame heuene to wynne, In tempill hym-selffe to teche and tell, To by þame blisse þat neuere may blynne. 6. Sethen haue þei founde me full of mercye, Full of grace and for-giffenesse, And þei als wrecchis, wittirly, Has ledde þer liffe in lithirnesse. Ofte haue þei greued me greuously, Þus have þei quitte me my kyndinesse, Þer-fore no lenger, sekirlye, Thole will I þare wikkidnesse. 7. Men seis þe worlde but vanite, ?itt will no-manne be ware þer-by, Ilke a day þer mirroure may þei se, ?itt thynke þei no?t þat þei schall dye. All þat euere I saide schulde be Is nowe fulfillid thurgh prophicie, Ther-fore nowe is it tyme to me To make endyng of mannes folie. 8. I haue tholed mankynde many a ?ere, In luste and likyng for to lende, And vnethis fynde I ferre or nere A man þat will his misse amende. In erthe I see butte synnes seere, Therfore myne aungellis will I sende To blawe þer bemys, þat all may here The tyme is comen I will make ende. 9. Aungellis! blawes youre bemys belyue! Ilke a creatoure for to call, Leerid and lewde, both man and wiffe, Ressayue þer dome þis day þei schall; Ilke a leede þat euere hadde liffe, Bese none for-getyn, grete ne small. Ther schall þei see þe woundes fyve Þat my sone suffered for þem all. 10. And sounderes þame be-fore my sight, All same in blisse schall þei not be, Mi blissid childre, as I haue hight, On my right hande I schall þame see: Sethen schall ilke a weried wight On my lifte side for ferdnesse flee. Þis day þer domys þus haue I dight, To ilke a man as he hath serued me. 11. Primus Ang. Loued be þou, lorde of myghtis moste, Þat aungell made to messengere, Thy will schall be fulfillid in haste, Þat heuene and erthe and helle schalle here. Goode and ill euery ilke agaste, Rise and fecche youre flessh þat was youre feere, For all þis worlde is broght to waste, Drawes to youre dome, it neghes nere. 12. ii Angel. Ilke a creature, bothe olde and yhing, Be-lyue I bidde ?ou þat ?e ryse, Body and sawle with ?ou ?e bring, And comes be-fore þe high justise. For I am sente fro heuene kyng To calle ?ou to þis grette assise, Þerfore rise vppe and geue rekenyng, How ?e hym serued vppon sere wise. [The Souls rise up.] 13. Prima anima bona. Loued be þou lorde, þat is so schene, Þat on þis manere made vs to rise Body and sawle to-gedir, clene, To come before þe high justise. Of oure ill dedis, lorde, þou not mene, That we haue wroght vppon sere wise, But graunte vs for thy grace be-dene Þat we may wonne in paradise. 14. ii An. bona. A! loued be þou, lorde of all! Þat heuene and erthe and all has wroght, Þat with þyne aungellis wolde vs call, Oute of oure graues hidir to be broght. Ofte haue we greued þe, grette and small, Þer aftir lorde þou deme vs noght! Ne suffir vs neuere to fendis to be thrall, Þat ofte in erþe with synne vs soght. 15. i An. mala. Allas! allas! þat we were borne, So may we synfull kaytiffis say, I here wele be þis hydous horne Itt drawes full nere to domesday. Allas! we wrecchis þat ar for-lorne, Þat never ?itt serued God to paye, But ofte we haue his flessh for-sworne, Allas! allas! and welaway. 16. What schall we wrecchis do for drede, Or whedir for ferdnes may we flee? When we may bringe forthe no goode dede, Before hym þat oure juge schall be. To aske mercy vs is no nede, For wele I wotte dampned be we, Allas! þat we swilke liffe schulde lede, Þat dighte vs has þis destonye. 17. Oure wikkid werkis þei will vs wreye, Þat we wende never schuld haue bene weten, Þat we did ofte full pryuely, Appertely may we se þem wreten. Allas! wrecchis, dere mon we by, Full smerte with helle fyre be we smetyn, Nowe mon neuere saule ne body dye, But with wikkid peynes euermore be betyne. 18. Allas! for drede sore may we quake, Oure dedis beis oure dampnacioune, For oure mys-meuyng mon we make, Helpe may none excusacioune. We mon be sette for our synnes sake For euere fro oure saluacioune, In helle to dwelle with feendes blake, Wher neuer schall be redempcioune. 19. ii An. mala. Als carefull caitiffis may we ryse, Sore may we ringe oure handis and wepe, For cursidnesse and for covetise, Dampned be we to helle full depe. Rought we neuere of goddis seruise, His comaundementis wolde we no?t kepe, But ofte þan made we sacrafise, To Satanas, when othir slepe. 20. Allas! now wakens all oure were, Oure wikkid werkis may we not hide, But on oure bakkis vs muste þem bere, Thei wille vs wreye on ilke a side. I see foule feendis þat wille vs feere, And all for pompe of wikkid pride, Wepe we may with many a teere, Allas! þat we þis day schulde bide. 21. Before vs playnly bese fourth brought Þe dedis þat vs schall dame be-dene, Þat eres has herde, or harte has þoght, Sen any tyme þat we may mene, Þat fote has gone or hande has wroght, That mouthe has spoken or ey has sene, Þis day full dere þanne bese it boght. Allas! vnborne and we hadde bene. 22. iii Angel. Standis noght to-gedir, parte you in two, All sam schall ?e noght be in blisse, Mi fadir of heuene woll it be soo, For many of yowe has wroght amys. Þe goode on his right hande ?e goe, Þe way till heuene he will you wisse; ?e weryed wightis, ?e flee hym froo, On his lefte hande as none of his. 23. Deus. Þis woffull worlde is brought till ende, Mi fadir of heuene he woll it be, Þerfore till erþe nowe will I wende, Mi-selue to sitte in mageste. To deme my domes I woll descende, Þis body will I bere with me, Howe it was dight, mannes mys to mende, All mankynde þere schall it see. [Descends to earth.]</field>
+      <field name="fulltext">[Scene II The Seat of Judgment.] 24. Deus. Mi postelis and my darlyngis dere, Þe dredfull dome þis day is dight. Both heuen and erthe and hell schall here, Howe I schall holde þat I haue hight, That ?e schall sitte on seetis sere, Be-side my selffe to se þat sight. And for to deme folke ferre and nere, Aftir þer werkyng, wronge or right. 25. I saide also whan I you sente To suffre sorowe for my sake, All þo þat wolde þame right repente Schulde with you wende and wynly wake; And to youre tales who toke no tente, Shulde fare to fyre with fendis blake, Of mercy nowe may no?t be mente, Butt aftir wirkyng, welth or wrake. 26. My hetyng haly schall I fullfille. Therfore comes furth and sittis me by To here þe dome of goode and ill. i Apost. I loue þe, lord god all myghty, Late and herely, lowde and still, To do thy bidding bayne am I, I obblissh me to do þi will, With all my myght, als is worthy. 27. ii Apost. A! myghtfull god, here is it sene, Þou will fulfille þi forward right, And all þi sawes þou will maynteyne; I loue þe, lorde, with all my myght. Þer-fore vs þat has erthely bene, Swilke dingnitees has dressed and dight. Deus. Comes fourthe, I schall sitte ?ou betwene, And all fulfille þat I haue hight. Hic ad sedem iudicij cum cantu angelorum. 28. i Diab. Felas, arraye vs for to fight, And go we faste oure fee to fange, Þe dredefull dome þis day is dight, I drede me þat we dwelle full longe. ii Diab. We schall be sene euere in þer sight, And warly waite, ellis wirke we wrange, For if þe domisman do vs right, Full grete partie with vs schall gang. 29. iii Diab. He schall do right to foo and frende, For nowe schall all þe soth be sought, All weried wightis with vs schall wende, To payne endles þei schall be broght. 30. Deus. Ilke a creature, takes entent, What bodworde I to you bringe, Þis wofull worlde away is wente, And I am come as crouned kynge. Mi fadir of heuene, he has me sente, To deme youre dedis and make ending, Comen is þe day of jugement, Of sorowe may ilke a synfull synge. 31. The day is comen of kaydyfnes, All þam to care þat are vnclene, Þe day of bale and bittirnes, Full longe abedyn has it bene, Þe day of drede to more and lesse, Of care, of trymbelyng and of tene. Þat ilke a wight þat weried is May say, allas! þis daye is sene! 32. Here may ?e see my woundes wide, Þe whilke I tholed for youre mysdede, Thurgh harte and heed, foote, hande, and hide, Nought for my gilte, butt for youre nede. Beholdis both body, bak, and side, How dere I bought youre brotherhede. Þes bittir peynes I wolde abide To bye you blisse, þus wolde I bleede. 33. Mi body was scourged with-outen skill, As theffe full thraly was [I] thrette, On crosse þei hanged me, on a hill, Blody and bloo, as I was bette. With croune of thorne throsten full ill, Þis spere vnto my side was sette, Myne harte bloode spared noght þei for to spill, Manne for thy loue wolde I not lette. 34. Þe Jewes spitte on me spitously, Þei spared me nomore þan a theffe, Whan þei me strake I stode full stilly, Agaynste þam did I no thyng greve. Behalde mankynde, þis ilke is I, Þat for þe suffered swilke mischeue, Þus was I dight for thy folye, Man, loke thy liffe was to me full leffe. 35. Þus was I dight þi sorowe to slake, Manne, þus behoued þe to borowed be, In all my woo toke I no wrake, Mi will itt was for þe loue of þe. Man, sore aught þe for to quake, Þis dredfull day þis sight to see, All þis I suffered for þi sake, Say man, what suffered þou for me? 36. Mi blissid childre on my right hande, Youre dome þis day ?e thar not drede, For all youre comforte is command, Youre liffe in likyng schall ?e lede. Commes to þe kyngdome ay lastand, Þat ?ou is dight for youre goode dede, Full blithe may ?e be where ?e stande, For mekill in heuene schall be youre mede. 37. Whenne I was hungery ?e me fedde, To slake my thirste youre harte was free, Whanne I was clothles ?e me cledde, ?e wolde no sorowe vppon me see. In harde presse whan I was stedde, Of my paynes ?e hadde pitee, Full seke whan I was brought in bedde Kyndely ?e come to coumforte me. 38. Whanne I was wikke and werieste ?e herbered me full hartefully, Full gladde þanne were ?e of youre geste, And pleyned my pouerte piteuously. Be-lyue ?e brought me of þe beste, And made my bedde full esyly; Þerfore in heuene schall be youre reste, In joie and blisse to be me by. 39. i an. bona. Whanne hadde we, lorde, þat all has wroght, Meete and drinke þe with to feede? Sen we in erþe hadde neuere noght But thurgh þe grace of thy godhede. ii an. bona. Whanne waste þat we þe clothes brought, Or visite þe in any nede? Or in þi sikenes we þe sought, Lorde, when did we þe þis dede? 40. Deus. Mi blissid childir, I schall ?ou saye, What tyme þis dede was to me done, When any þat nede hadde, nyght or day, Askid ?ou helpe and hadde it sone. Youre fre hartis saide þem neuere nay, Erely ne late, mydday ne none, But als ofte sithis as þei wolde praye, Þame thurte but bide, and haue þer bone. 41. ?e cursid caytiffis of Kaymes kynne, Þat neuere me comforte in my care, I and ?e for euer will twynne, In dole to dwelle for euermare; Youre bittir bales schall neuere blynne, Þat ?e schall haue whan ?e come þare. Þus haue ?e serued for youre synne, For derffe dedis ?e haue done are. 42. Whanne I had mistir of mete and drynke, Caytiffis, ?e cacched me fro youre ?ate, Whanne ?e were sette as sirs on benke, I stode þer-oute, werie and wette, Was none of yowe wolde on me thynke Pyte to haue of my poure state; Þer-fore till hell I schall you synke, Weele are ?e worthy to go þat gate. 43. Whanne I was seke and soriest, ?e visitte me noght, for I was poure, In prisoune faste whan I was feste, Was none of you loked howe I fore. Whenne I wiste neuere where for to reste, With dyntes ?e draffe me fro your dore, Butte euer to pride þanne were ?e preste, Mi flessh, my bloode ofte ?e for-swore. 44. Clothles whanne I was ofte, and colde, At nede of you ?ede I full naked, House ne herborow, helpe ne holde, Hadde I none of you, þof I quaked. Mi mischeffe sawe ye many-folde, Was none of you my sorowe slaked, Butt euere for-soke me, yonge and alde, Þerfore schall ?e nowe be for-saked. 45. i aia. mala. Whan had þou, lorde þat all thyng has, Hungir or thirste? sen þou god is, Whan was þou in prisonne was, Whan was þou naked or herberles? ii aia. mala. Whan was it we sawe þe seke, allas! Whan kid we þe þis vnkyndinesse, Werie or wette to late þe passe, When did we þe þis wikkidnesse? 46. Deus. Caistiffis, als ofte als it be-tidde Þat nedfull aught askid in my name, ?e herde þem noght, youre eris ?e hidde, Youre helpe to þame was no?t at hame. To me was þat vnkyndines kyd,— Þere-fore bere þis bittir blame, To leste or moste whan ?e it did, To me ?e did þe selue and þe same. 47. Mi chosen childir, comes vnto me, With me to wonne nowe schall ?e wende, Þere joie and blisse schall euer be, Youre liffe in lyking schall ?e lende, ?e cursed kaitiffis, fro me ?e flee, In helle to dwelle with-outen ende, Þer ?e schall neuere butt sorowe see And sitte be Satanas þe fende. 48. Nowe is fulfillid all my for-þoght, For endid is all erthely thyng, All worldly wightis þat I haue wroght, Aftir þer werkis haue nowe wonnyng, Thei þat wolde synne and sessid noght, Of sorowes sere now schall þei syng, And þei þat mendid þame whils þei moght, Schall belde and bide in my blissing. Et sic facit finem cum melodia angelorum transiens a loco ad locum.</field>
+   </doc>
+</add>

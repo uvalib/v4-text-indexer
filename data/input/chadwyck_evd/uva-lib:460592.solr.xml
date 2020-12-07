@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Cornwall, Barry, 1787-1874</field>
+      <field name="author_facet">Cornwall, Barry, 1787-1874</field>
+      <field name="author_sort_facet">cornwall barry 1787 1874</field>
+      <field name="author_text">Cornwall, Barry, 1787-1874</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1820's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V3.0166.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1820</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460592</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Rape of Proserpine</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Rape of Proserpine</field>
+      <field name="title_facet">rape of proserpine</field>
+      <field name="title_sort_facet">rape of proserpine</field>
+      <field name="title_text">The Rape of Proserpine</field>
+      <field name="year_display">1820</field>
+      <field name="year_facet">1820</field>
+      <field name="year_multisort_i">1820</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460592&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460592&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Cornwall, Barry, 1787-1874&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;cornwall barry 1787 1874&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Rape of Proserpine&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;rape of proserpine&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1820&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1820&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Cornwall, Barry&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1787&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1874&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Rape of Proserpine&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;John Warren ... and C &amp;amp; J Ollier [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1820&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872948-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv30166&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Rape of Proserpine&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 19 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only verse drama included&lt;lb/&gt;The following plays have been taken from this source&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The rape of Proserpine.</field>
+      <field name="desc_meta_file_display">Genre: Drama.</field>
+      <field name="desc_meta_file_display">Date first published: 1820.</field>
+      <field name="desc_meta_file_display">Date first performed: Unknown.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE RAPE OF PROSERPINE</field>
+      <field name="fulltext">This Scene is written in imitation of, rather than in strict conformity to, the mode originated by the Greek Tragic-writers.</field>
+      <field name="fulltext">SCENE. The Vale of Enna. Proserpine, Virgins. Proser. Now come and sit around me, And I'll divide the flowers, and give to each What most becomes her beauty. What a vale Is this of Enna! Every thing that comes From the green earth, springs here more graciously; And the blue day, methinks, smiles lovelier now Than it was wont, even in Sicily. My spirit mounts as triumphing, and my heart In which the red blood hides, seems tumulted By some delicious passion. Look, above, Above—How nobly through the cloudless sky The great Apollo goes!—Jove's radiant son— My father's son: and here, below, the bosom Of the green earth is almost hid by flowers. Who would be sad to-day! Come round, and cast Each one her odorous heap from out her lap, Into one pile. Some we'll divide amongst us, And, for the rest, we'll fling them to the Hours; So may Aurora's path become more fair, And we be blest in giving. Here—this rose (This one half blown) shall be my Maia's portion, For that like it her blush is beautiful: And this deep violet, almost as blue As Pallas' eye, or thine, Lycimnia, I'll give to thee; for like thyself it wears Its sweetness, never obtruding. For this lily, Where can it hang but at Cyane's breast? And yet 'twill wither on so white a bed, If flowers have sense for envy:—It shall lie Amongst thy raven tresses, Cytheris, Like one star on the bosom of the night. The cowslip, and the yellow primrose,—they Are gone, my sad Leontia, to their graves; And April hath wept o'er them, and the voice Of March hath sung, even before their deaths, The dirge of those young children of the year. But here is heart's-ease for your woes. And now, The honeysuckle flower I give to thee, And love it for my sake, my own Cyane: It hangs upon the stem it loves, as thou Hast clung to me, thro' every joy and sorrow; It flourishes with its guardian's growth, as thou dost; And if the woodman's axe should droop the tree, The woodbine too must perish.—Hark! what sound— Do ye see aught? CHORUS. Behold, behold, Proserpina! Dark clouds from out the earth arise, And wing their way towards the skies, As they would veil the burning blush of day. And, look! upon a rolling car, Some fearful being from afar Comes onward. As he moves along the ground, A dull and subterranean sound Companions him; and from his face doth shine, Proclaiming him divine, A light that darkens all the vale around. SEMICHORUS, (Cyane.) 'Tis he, 'tis he: he comes to us From the depths of Tartarus. For what of evil doth he roam From his red and gloomy home, In the centre of the world, Where the sinful dead are hurled? Mark him as he moves along Drawn by horses black and strong, Such as may belong to Night 'Ere she takes her morning flight. Now the chariot stops: the god On our grassy world hath trod: Like a Titan steppeth he, Yet full of his divinity. On his mighty shoulders lie Raven locks, and in his eye A cruel beauty, such as none Of us may wisely look upon. Proser. He comes indeed. How like a god he looks! Terribly lovely—Shall I shun his eye Which even here looks brightly beautiful? What a wild leopard glance he has.—I am Jove's daughter, and shall I then deign to fly? I will not: yet, methinks, I fear to stay. Come, let us go, Cyane. [Pluto enters.] Pluto. Stay, oh! stay. Proserpina, Proserpina, I come From my Tartarean kingdom to behold you. The brother of Jove am I. I come to say Gently, beside this blue Sicilian stream, How much I love you, fair Proserpina. Think me not rude that thus at once I tell My passion. I disarm me of all power; And in the accents of a man I sue, Bowing before your beauty. Brightest maid! Let me—still unpresuming—say I have Roamed through the earth, where many an eye hath smiled In love upon me, tho' it knew me not; But I have passed free from amongst them all, To gaze on you alone. I might have clasped Lovely and royal maids, and throned queens, Sea nymphs, and airy shapes, that glide along Like light across the hills, or those that make Mysterious music in the desert woods, Or lend a voice to fountains, or to caves, Or answering hush the river's sweet reproach— Oh! I've escaped from all, to come and tell How much I love you, sweet Proserpina. SEMICHORUS, (Cyane.) Come with me, away, away, Fair and young Proserpina. You will die unless you flee, Child of crowned Cybele. Think of all your Mother's love, Of every stream and pleasant grove That you must for ever leave, If the dark king you believe. Think not of his eyes of fire, Nor his wily heart's desire, Nor the locks that round his head Run like wreathed snakes, and fling A shadow o'er his eyes glancing; Nor, the dangerous whispers hung, Like honey, roofing o'er his tongue. But think of all thy Mother's glory— Of her love—of every story Of the cruel Pluto told, And which grey Tradition old, With all its weight of grief and crime, Hath plucked from out the grave of Time. Once again I bid thee flee, Daughter of great Cybele. Proser. You are too harsh, Cyane. Pluto. Oh! my love, Fairer than the white Naiad—Fairer far Than aught on earth, and fair as aught in heaven: Hear me, Proserpina! Proser. Away, Away. I'll not believe you. What a cunning tongue He has, Cyane; has he not?—Away. Can the gods flatter? Pluto. By my burning throne! I love you, sweetest: I will make you queen Of my great kingdom. One third of the world Shall you reign over, my Proserpina; And you shall rank as high as any she, Save one, within the starry court of Jove. Proser. Will you be true? Pluto. I swear it. By myself!— Come then, my bride. Proser. Speak thou again, my friend. Speak, harsh Cyane, in a harsher voice, And bid me not believe him. Ah! you droop Your head in silence. Pluto. Come, my brightest queen! Come, beautiful Proserpina, and see The regions over which your husband reigns; His palaces, and radiant treasures, which Mock and outstrip all fable; his great power, Which the living own, and wandering ghosts obey, And all the elements.—Oh! you shall sit On my illuminated throne, and be A queen indeed; and round your forehead shall run Circlets of gems, as bright as those which bind The brows of Juno on Heav'n's festal nights, When all the gods assemble, and bend down In homage before Jove. Proser. Speak out, Cyane! Pluto. But, above all, in my heart shall you reign Supreme, a goddess and a Queen indeed, Without a rival. Oh! and you shall share My subterranean power, and sport upon The fields Elysian, where, 'midst softest sounds, And odours springing from immortal flowers, And mazy rivers, and eternal groves Of bloom and beauty, the good spirits walk: And you shall take your station in the skies Nearest the queen of Heaven, and with her hold Celestial talk, and meet Jove's tender smile, So beautiful— Proser. Away, Away, Away. Nothing but force shall ever. Oh! away. I'll not believe—Fool that I am to smile. Come round me virgins. Am I then betrayed? O fraudful king! Pluto. No, by this kiss, and this: I am your own, my love; and you are mine For ever and for ever.—Weep Cyane. CHORUS. They are gone, afar—afar: Like the shooting of a star, See,—their chariot fades away. Farewell, lost Proserpina. (Cyane is gradually transformed.) But, ah! what frightful change is here? Cyane, raise your eyes, and hear! We call thee,—vainly; On the ground She sinks, without a single sound, And all her garments float around. Again, again, she rises,—light; Her head is like a fountain bright, And her glossy ringlets fall, With a murmur musical, O'er her shoulders, like a river That rushes and escapes for ever. —Is the fair Cyane gone? And is this fountain left alone For a sad remembrance, where We may in after times repair, With heavy heart, and weeping eye, To sing songs to her memory? Oh! then farewell: and now with hearts that mourn Deeply, to Diana's temple will we go: But ever on this day we will return, Constant, to mark Cyane's fountain flow: And haply,—for among us who can know The secrets written on the scrolls of Fate, A day may come, when we may cease our woe; And she, redeemed at last from Pluto's hate, Rise in her beauty old, pure, and regenerate.</field>
+   </doc>
+</add>

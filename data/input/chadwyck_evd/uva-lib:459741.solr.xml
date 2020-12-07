@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Clarendon Press</field>
+      <field name="author_facet">Clarendon Press</field>
+      <field name="author_sort_facet">clarendon press</field>
+      <field name="author_text">Clarendon Press</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.1112.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1885</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459741</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Tailoures ; XLIII. The Ascension</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Tailoures ; XLIII. The Ascension</field>
+      <field name="title_facet">tailoures</field>
+      <field name="title_sort_facet">tailoures</field>
+      <field name="title_text">The Tailoures ; XLIII. The Ascension</field>
+      <field name="year_display">1885</field>
+      <field name="year_facet">1885</field>
+      <field name="year_multisort_i">1885</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459741&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459741&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Tailoures ; XLIII. The Ascension&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;tailoures&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1885&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1885&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Tailoures&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;XLIII. The Ascension&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Oxford&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Clarendon Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1885&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873701-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv11112&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Tailoures&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;XLIII. The Ascension&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 28 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and editorial matter including introduction and glossary omitted.&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Source texts incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The tailoures.</field>
+      <field name="desc_meta_file_display">Genre: English mystery and miracle plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1475 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1352–1376 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">XLIII. THE TAILOURES. The Ascension. Square brackets represent sections of text unclear or absent in the original and supplied by the current editor</field>
+      <field name="fulltext">[PERSONS OF THE PLAY. Jesus. Maria. Petrus. Johannes. Jacobus. Andreas. 1 Angelus. 2 Angelus.]</field>
+      <field name="fulltext">[Scene, The Mount of Olives, near Bethany: the disciples with Mary are assembled.] 1. Petrus. O mightfull god, how standis it nowe, In worlde þus will was I neuere are,— Butte he apperes,—bot I ne wote howe He fro vs twynnes whanne he will fare. And ?itt may falle þat for oure prowe, And alle his wirkyng lesse and mare, A! kyng of comforte! gudde arte þou, And lele and likand is thy lare. 2. Johannes. The missing of my maistir trewe, That lenghis not with vs lastandly, Makis me to morne ilke a day newe, For tharnyng of his company. His peere of gudnes neuere I knewe, Of myght ne wisdome it anly. Petrus. That we hym tharne, sore may vs rewe, For he luffed vs full faithfully. 3. Bot ?itt in all my mysselykyng, A worde þat Criste saide comfortis me, Oure heuynes and oure mournyng, He saide to joie turned schuld be. Þat joie he saide in his hetyng, To reue vs none schulde haue no poste, Wherfore abouen all othir thyng That joie me longis to knowe &amp; see. 4. Maria. Þou Petir, whanne my sone was slayne, And laide in graue, ?e wer in were Whedir he schulde rise, al moste ilkane, But nowe ?e wotte thurgh knowyng clere. Come þat he saide schulde is gane, And some to come, but ilkane sere, Whedir it be to come or none, Vs awe to knowe it all in fere. [Jesus appears.] 5. Jesus. Almyghty god, my Fadir free, In erthe þi bidding haue I done, And clarified þe name of þe, To thy selffe clarifie þe sone. Als þou haste geuen me pleyne poste, Of ilke a flesh graunte me my bone, Þat þou me gaffe myght lyffand be In endles liffe and with þe wonne. 6. Þat liffe is þis þat hath none ende, To knawe the Fadir, moste of myght, And me thy sone, whanne þou gon sende To dye for man with-outen plight, Mankynde was thyne whome þu be-kende And toke me to þi ?emyng right. I died for man, mannes misse to mende, And vnto spitous dede was dight. 7. Thy wille vn-to þem taughte haue I, Þat wolde vn-to my lare enclyne, Mi lare haue they tane buxsomly, Schall none of them þer trauaile tyne. Þou gaffe þem me but noght for-thy ?itt are they thyne als wele as myne, Fleme þem not fro oure companye, Sen thyne are myne and myne er thyne. 8. Sen they are oures, if þame nede ought Þou helpe þem, if it be thy will, And als þou wate þat I þame boght, For faute of helpe latte þem not spill. Fro þe worlde to take þem pray I noght, But þat þou kepe þame ay fro ill. All þois also þat settis þare þoght In erthe my techyng to fulfill. 9. Mi tythandis tane has my men?e To teche þe pepull wher they fare; In erthe schall þei leue aftir me, And suffir sorowes sadde and sare. Dispised and hatted schall þei be, Als I haue bene, with lesse and mare, And suffer dede in sere degre For sothfastnesse schall none þem spare. 10. Þou halowe þame, fadir, for-thy, In sothfastnes so þat þei may Be ane as we ar, yowe and I, In will and werke, both nyght and day, And knawe þat I ame verilye Both sothfastnes and liffe alway; Be the whilke ilke man þat is willy May wynne þe liffe þat laste schall ay. 11. Bot ?e, my postelis all be-dene, Þat lange has wente a-bowte with me, In grete wanne-trowing haue ?e bene, And wondir harde of hartis ar ?e, Worthy to be reproued, I wene, Ar ?e forsothe, and ?e will see, In als mekill als ?e haue sene My wirkyng proued and my poste. 12. Whan I was dede and laide in graue, Of myne vpryse ?e were in doute, And some for myne vprysing straue, When I was laide als vndir-lowte So depe in erthe; but sithen I haue Ben walkand fourty daies aboute, Eten with ?ou, youre trouthe to saue, Comand emange ?ou inne and oute. 13. And þerfore beis nomore in were Of myne vppe-rysing, day nor nyght, Youre misbeleue leues ilkone seere, For witte ?e wele, als man of myght Over whome no dede may haue poure, I schall be endles liffe and right. But for to schewe you figure clere, Schewe I me þus-gatis to youre sight, 14. Howe man by cours of kynde schall ryse, All þogh he be roten on-till no?t, Oute of his graue in þis same wise At þe daye of dome schall he be broght Wher I schall sitte as trewe justise, And deme man aftir he has wroght; Þe wikkid to wende with þer enmyse, Þe gode to blisse þei schall be broght. 15. A-nodir skill for-soth is þis, In a tre man was traied thurgh trayne, I man, for-thy, to mende þat misse On a tree boght mankynde agayne. In confusioune of hym and his Þat falsely to forge þat frawde was fayne, Mankynde to bringe agayne to blisse His foo þe fende till endles peyne. 16. Þe thirde skille is, trewly to telle, Right als I wende als wele will seme, So schall I come in flessh and fell Atte þe day of dome; whan I schal deme Þe goode in endles blisse to dwell, Mi fomen fro me for to fleme, With-outen ende in woo to well. Ilke leuand man, here to take yeme. 17. But in-till all þe worlde weldand Þe Gospell trewly preche schall ?e, Tille ilke a creatoure liffand. Who trowes, if that he baptised be He schall, als yhe schall vndirstande, Be saued, and of all thraldome free; Who trowis it not, as mistrowand For faute of trouth dampned is he, 18. But all þer tokenyngis be-dene Schall folowe þam þat trowis it right, In my name deuellis crewell and kene, Schall þei oute-caste of ilk-a wight; With newe tongis speke; serpentis vnclene For-do; and if þei day or nyght Drinke venym wik, with-outen wene, To noye þame schall it haue no myght. 19. On seke folke schall þei handes lay, And wele schall þei haue sone at welde; Þis poure schall þei haue alway, My men?he, bothe in towne and felde. And witte ?e wele, so schall þei Þat wirkis my wille in youthe or elde, A place for þame I schall purveye In blisse with me ay in to belde. 20. Nowe is my jornay brought till ende, Mi tyme þat me to lang was lente, To my Fadir nowe vppe I wende, And youre Fadir þat me doune sente. Mi God, youre God, and ilke mannes frende, That till his techyng will consente, Till synneres þat no synne þame schende, Þat mys amendis and will repente. 21. But for I speke þes wordis nowe To you, youre hartis hase heuynes, Full-ffillid all be it for youre prowe, Þat I hense wende, als nedful is. And butte I wende, comes noght to yowe Þe comfortoure of comforteles; And if I wende, ?e schall fynde howe I schall hym sende, of my goodnesse. 22. Mi Fadirs will full-fillid haue I, Therfore fareswele, ilkone seere, I goo make youe a stede redye Endles to wonne with me in feere. Sende doune a clowde, fadir! for-thy I come to þe, my fadir deere. Þe Fadir blissing moste myghty Giffe I you all þat leffe here. [Jesus ascends. 23. Maria. A! myghtfull god, ay moste of myght, A selcouth sight is þis to see, Mi sone þus to be ravisshed right In a clowde wendande vppe fro me. Bothe is my harte heuy and light, Heuy for swilke twynnyng schulde be, And light for he haldis þat he hight, And þus vppe wendis in grette poste. 24. His hetyngis haldis he all be-dene, Þat comfortis me in all my care, But vnto whome schall I me mene, Þus will in worlde was I neuere. To dwelle amonge þes Jewes kene, Me to dispise will þei not spare. Joh. All be he noght in presens seene, ?itt is he salue of ilk a sare, 25. But lady, sen þat he be-toke Me for to serue you as youre sonne, ?ou nedis no-thyng, lady, but loke What thyng in erthe ?e will haue done. I ware to blame if I for-soke To wirke youre wille, midday or none, Or any tyme ?itt of þe woke. Maria. I thanke þe, John, with wordis fune, 26. Mi modirhed, John, schall þou haue, And for my sone I wolle þe take. Joh. Þat grace, dere lady, wolde I craue. Maria. Mi sone sawes will I neuere for-sake. Itt were not semand þat we straue Ne contraried no?t þat he spake. But John, tille I be broght in graue, Schall þou never see my sorowe slake. 27. Jacob. Owre worthy lorde, sen he is wente For vs, lady, als is his will, We thanke hym þat vs þe hath lente With vs on lyue to lenge her stille. I saie for me with full concente, Þi likyng all will I fulfille. Andreas. So wille we all with grete talent, For-thy, lady, giffe þe noght ill. [Enter Angels. 28. i Angelus. ?e men of þe lande of Galile, What wondir ?e to heuene lokand? Þis Jesus whome ?e fro youe see Vppe-tane, ?e schall well vndirstande, Right so agayne come doune schall he, When he so comes with woundes bledand, Who wele has wrought full gladde may be, Who ill has leved full sore dredand. 29. ii Angel. ?e þat has bene his seruauntis trewe, And with hym lengand, nyght and day, Slike wirkyng als ?e with hym knew, Loke þat ?e preche it fourthe alway. Youre mede in heuene beis ilke day newe, And all þat seruis hym wele to paye, Who trowes you noght, it schall þame rewe, Þei mon haue peyne encresand ay. 30. Jacobus. Loued be þou lorde ay, moste of myght, Þat þus, in all oure grete disease, Vs comfortist with thyne aungellis bright; Nowe might þer Jewes þare malise meese, Þat sawe þame-selue þis wondir sight, Þus nere þame wroght vndir þer nese. And we haue mater day and nyght, Oure god more for to preyse and plese. 31. Andreas. Nowe may þer Jewes be all confused If þai on-thinke þame inwardly, Howe falsely þei haue hym accused, And sakles schente thurgh þer envy. Þer falsed, þat þei longe haue vsed, Nowe is it proued here opynly, And they were of þis mater mused, Itt schulde þame stirre to aske mercy. 32. Petrus. Þat wille þei no?t, Andrewe, late be! For þei are full of pompe and pride, Itt may no?t availe to þe ne me, Ne none of vs with þame to chide. Prophite to dwelle can I none see, For-thy late us no lenger bide, But wende we vnto seere contre, To preche thurgh all þis worlde so wide. 33. Joh. Þat is oure charge, for þat is beste, Þat we lenge nowe no lenger here, For here gete we no place of reste, To lenge so nere þe Jewes poure. Vs to for-do þei will þame caste, For-thy come forthe my lady dere, And wende vs hense, I am full preste With you to wende with full goode chere. 34. Mi triste is nowe euer ilk a dele In yowe to wirke aftir youre counsaill. Jacob. Mi lady dere, þat schall ?e fele In oght þat euere vs may availe, Oure comforte, youre care to kele, Whill we may leue we schall not faile. Maria. Mi brethir dere, I traste itt wele, Mi sone schall quyte ?ou youre trauaile. 35. Petrus. To Jerusalem go we agayne, And loke what fayre so aftir fall, Oure lorde and maistir moste of mayne, He wisse youe, and be with youe all.</field>
+   </doc>
+</add>

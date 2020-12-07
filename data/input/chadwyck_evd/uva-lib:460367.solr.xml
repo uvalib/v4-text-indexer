@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Cumberland, Richard, 1732-1811</field>
+      <field name="author_facet">Cumberland, Richard, 1732-1811</field>
+      <field name="author_sort_facet">cumberland richard 1732 1811</field>
+      <field name="author_text">Cumberland, Richard, 1732-1811</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1800's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V2.0799.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1805</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460367</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">A Melo-Dramatic Piece</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">A Melo-Dramatic Piece</field>
+      <field name="title_facet">melo dramatic piece</field>
+      <field name="title_sort_facet">melo dramatic piece</field>
+      <field name="title_text">A Melo-Dramatic Piece</field>
+      <field name="year_display">1805</field>
+      <field name="year_facet">1805</field>
+      <field name="year_multisort_i">1805</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460367&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460367&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Cumberland, Richard, 1732-1811&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;cumberland richard 1732 1811&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A Melo-Dramatic Piece&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;melo dramatic piece&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1805&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1805&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Cumberland, Richard&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1732&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1811&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Melo-Dramatic Piece&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed by Luke Hansard ... for Lackington, Allen, and Co. [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1805&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872442-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv20799&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Melo-Dramatic Piece&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 13 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Lord Viscount Nelson.</field>
+      <field name="desc_meta_file_display">Genre: Spectacle.</field>
+      <field name="desc_meta_file_display">Date first published: 1805.</field>
+      <field name="desc_meta_file_display">Date first performed: 11 Nov 1805.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">The Death AND VICTORY OF Lord Viscount NELSON.</field>
+      <field name="fulltext">The Characters by Mr. ELLISTON, Mr. BRAHAM, Mr. BARTLEY, Mr. COOKE. Mrs. POWELL, Mrs. BLAND.</field>
+      <field name="fulltext">After a Prelude of Rule Britannia, the Curtain rises, and discovers a Sea Port. The Music now takes a strain correspondent to the approach of a Vessel, discovered at Sea, which lands a Post Captain with his Boat's Crew. (Music ceases.) Sea Captain. HAIL to my native land! With favouring airs O'er the curl'd billows, curtsying as we pass'd To give us welcome, our light galley glides; Whilst Fame, bestriding her swift prow, displays The laurel Crown her dying Hero sends. (Flourish of martial Music.) Oh Albion, sea-girt Goddess, Queen of Isles, We bring thee trophies, nobly, hardly earn'd, Torn from the vanquisht foe; but bath'd, alas! And all o'er red with thy dear Children's blood, The best, the bravest blood, that ever flow'd From human veins and mingled with the waves. (Slow and soft Music.) Sad Mother, thou must mourn thy fav'rite Son, For Heav'n, which put the trident in thy hand, And bade thee wave it o'er the subject seas, Now bids thee cloak thyself in sable weeds, And, following his dead body, intertwine The funeral cypress with the conqu'ring wreath. (Solo, Mr. Braham.) “In death's dark house the Hero lies, “Cold is his heart and clos'd his eyes; “His Flag, that to the foe ne'er bow'd, “His Signal once, is now his Shroud. “The partners of his former wars “View his brave body trench'd with scars, “He gave the wreck—he cou'd no more— “All but his life was lost before. “Death, the great Conqu'ror, cou'd not win the whole, “Earth keeps his Ashes, Heav'n receives his Soul.” (A mixt company of Soldiers, Sailors, &amp; Women enter.) Soldier. Whence came ye, friends, and what hath England lost, That shou'd provoke these melancholy strains? Speak, if your sorrows will give way to words, And let us hear the tidings that you bring; For we are soldiers, and will defend our shores, Our King, our Country, and the generous Fair, Whose smiles inspire the courage that protects them. (Martial Music.) Sea Captain. Hear me, my gallant friends, and whilst I tell How your combining foes by thousands fell, If the afflicting loss of One so dear Should damp your kindling transports with a tear, Remember whilst his mortal part has rest, Th' immortal lives in every Briton's breast; Tho' short his span of life, recording Fame Inscribes a deathless volumn to his Name; And there in each immortalizing page He lives, and still shall live from age to age. (Sprightly Music.) Remember too, the Hero, as he fell, To his brave Second sent his last farewell; Instant his soul, to deeds of glory fir'd, As with the Prophet's mantle was inspir'd. In this one word he read the full intent, And knew 'twas This his lov'd Commander meant; —“Mourn not for Me! 'tis vain. Chase grief away, “Compleat my work, and crown the Glorious Day!” —Behold, 'tis done! His parting Spirit flew, And lighting rests, brave Collingwood, with you. Woman. Daughters of Albion, mourn your Hero dead, For you he conquer'd and for you he bled, E'er the commission'd ball had stopt his breath, He hail'd the Victory purchas'd with his death. Maim'd tho' he was, and shorn of Nature's right, In action stinted and curtail'd of sight, Still in his mangled frame whilst Heav'n wou'd spare One living atom, his great soul was there; His very name appall'd the fear-struck foe, Exterminating nations at a blow. Tell me, recorders of a distant age, Is there a name like his in History's page? There is a man, the scourge of present times, A living monument of human crimes, He triumphs over Liberties and Laws, He lives—but NELSON dies in Freedom's Cause; Heav'n from the World its gracious loan withdrew, And by enriching Him, impoverish'd You. (Martial Music.) Sea Captain. He lives, he lives! Let our loud Pæans rise, And hail his Spirit as it mounts the skies. Peace to the Dead! With joyous triumph greet The living Heroes of your conqu'ring Fleet! They come, they come! Let France command her slaves, Freedom is our's, for Britain rules the waves. (GLEE for three Voices, Mr. Braham, Mr. Cooke, Mrs. Bland.) He lives, he lives! Let our loud Pæans rise, And hail his Spirit as it mounts the skies. Peace to the Dead! With joyous triumph greet The living Heroes of your conqu'ring Fleet! They come, they come! Let France command her slaves, Freedom is our's, for Britain rules the waves. Chorus. They come, they come! Let France command her slaves, Freedom is Our's, for Britain rules the Waves.</field>
+   </doc>
+</add>

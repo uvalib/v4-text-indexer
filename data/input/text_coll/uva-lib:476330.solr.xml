@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Ezra Pound and Ernest Fenollosa</field>
+      <field name="author_facet">Ezra Pound and Ernest Fenollosa</field>
+      <field name="author_sort_facet">ezra pound and ernest fenollosa</field>
+      <field name="author_text">Ezra Pound and Ernest Fenollosa</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1910's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/PouHago.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">1916</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476330</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Hagoromo</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">Hagoromo</field>
+      <field name="title_facet">hagoromo</field>
+      <field name="title_sort_facet">hagoromo</field>
+      <field name="title_text">Hagoromo</field>
+      <field name="year_display">1916</field>
+      <field name="year_facet">1916</field>
+      <field name="year_multisort_i">1916</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476330&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476330&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Ezra Pound and Ernest Fenollosa&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;ezra pound and ernest fenollosa&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Hagoromo&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;hagoromo&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1916&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1916&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Ezra Pound and Ernest Fenollosa&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Hagoromo&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1916&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;MacMillan&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1916&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="callNo"&gt;Print copy consulted: UVa Library call number PL 735 .F4 1916&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;pp. 165-176&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Hagoromo&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 19 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Footnotes in the print source have been moved to the end of the</field>
+      <field name="desc_meta_file_display">document. For descriptive purposes, words or phrases preceding footnote</field>
+      <field name="desc_meta_file_display">markers in the print source have been added to footnotes at the end of</field>
+      <field name="desc_meta_file_display">the electronic document.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Hagoromo A Play in one Act Characters Chief Fisherman, Hakuryo. A Fisherman. A Tennin. Chorus. The plot of the play Hagoromo, the Feather-mantle, is as follows: The priest finds the Hagoromo, the magical feather-mantle of a Tennin, an aerial spirit or celestial dancer, hanging upon a bough. She demands its return. He argues with her, and finally promises to return it, if she will teach him her dance or part of it. She accepts the offer. The Chorus explains the dance as symbolical of the daily changes of the moon. The words about "three, five, and fifteen" refer to the number of nights in the moon's changes. In the finale, the Tennin is supposed to disappear like a mountain slowly hidden in mist. The play shows the relation of the early Noh to the God-dance.</field>
+      <field name="fulltext">Hakuryo Windy road of the waves by Miwo, Swift with ships, loud over steersmen's voices. Hakuryo, taker of fish, head of his house, dwells upon the barren pine-waste of Miwo. A Fisherman Upon a thousand heights had gathered the inexplicable cloud. Swept by the rain, the moon is just come to light the high house. A clean and pleasant time surely. There comes the breath-colour of spring; the waves rise in a line below the early mist; the moon is still delaying above, though we've no skill to grasp it. Here is a beauty to set the mind above itself. Chorus I shall not be out of memory Of the mountain road by Kiyomi, Nor of the parted grass by that bay, Nor of the far seen pine-waste Of Miwo of wheat stalks. Let us go according to custom. Take hands against the wind here, for it presses the clouds and the sea. Those men who were going to fish are about to return without launching. Wait a little, is it not spring? will not the wind be quiet? This wind is only the voice of the lasting pine-trees, ready for stillness. See how the air is soundless, or would be, were it not for the waves. There now, the fishermen are putting out with even the smallest boats. Hakuryo I am come to shore at Miwo-no; I disembark in Matsubara; I see all that they speak of on the shore. An empty sky with music, a rain of flowers, strange fragrance on every side; all these are no common things, nor is this cloak that hangs upon the pine-tree. As I approach to inhale its colour, I am aware of mystery. Its colour-smell is mysterious. I see that it is surely no common dress. I will take it now and return and make it a treasure in my house, to show to the aged. Tennin That cloak belongs to some one on this side. What are you proposing to do with it? Hakuryo This? this is a cloak picked up. I am taking it home, I tell you. Tennin That is a feather-mantle not fit for a mortal to bear, Not easily wrested from the sky-traversing spirit, Not easily taken or given. I ask you to leave it where you found it. Hakuryo How! Is the owner of this cloak a Tennin? So be it. In this downcast age I should keep it, a rare thing, and make it a treasure in the country, a thing respected. Then I should not return it. Tennin Pitiful, there is no flying without the cloak of feathers, no return through the ether. I pray you return me the mantle. Hakuryo Just from hearing these high words, I, Hakuryo, have gathered more and yet more force. You think, because I was too stupid to recognize it, that I shall be unable to take and keep hid the feather-robe, that I shall give it back for merely being told to stand and withdraw? Tennin A Tennin without her robe, A bird without wings, How shall she climb the air? Hakuryo And this world would be a sorry place for her to dwell in? Tennin I am caught, I struggle, how shall I . . .? Hakuryo No, Hakuryo is not one to give back the robe. Tennin Power does not attain . . . Hakuryo . . . to get back the robe . . . Chorus Her coronet, [1] jewelled as with the dew of tears, even the flowers that decorated her hair, drooping and fading, the whole chain of weaknesses [2] of the dying Tennin can be seen actually before the eyes. Sorrow! Tennin I look into the flat of heaven, peering; the cloud-road is all hidden and uncertain; we are lost in the rising mist; I have lost the knowledge of the road. Strange, a strange sorrow! Chorus Enviable colour of breath, wonder of clouds that fade along the sky that was our accustomed dwelling; hearing the sky-bird, accustomed, and well accustomed, hearing the voices grow fewer, the wild geese fewer and fewer, along the highways of air, how deep her longing to return! Plover and seagull are on the waves in the offing. Do they go or do they return? She reaches out for the very blowing of the spring wind against heaven. Hakuryo to the Tennin What do you say? Now that I can see you in your sorrow, gracious, of heaven, I bend and would return you your mantle. Tennin It grows clearer. No, give it this side. Hakuryo First tell me your nature, who are you, Tennin? Give payment with the dance of the Tennin, and I will return you your mantle. Tennin Readily and gladly, and then I return into heaven. You shall have what pleasure you will, and I will leave a dance here, a joy to be new among men and to be memorial dancing. Learn then this dance that can turn the palace of the moon. No, come here to learn it. For the sorrows of the world I will leave this new dancing with you for sorrowful people. But give me my mantle, I cannot do the dance rightly without it. Hakuryo Not yet, for if you should get it, how do I know you'll not be off to your palace without even beginning your dance, not even a measure? Tennin Doubt is fitting for mortals; with us there is no deceit. Hakuryo I am again ashamed. I give you your mantle. Chorus The young sprite now is arrayed, she assumes the curious mantle; watch how she moves in the dance of the rainbow-feathered garment. Hakuryo The heavenly feather-robe moves in accord with the wind. Tennin The sleeves of flowers are being wet with the rain. Hakuryo All three are doing one step. Chorus It seems that she dances. Thus was the dance of pleasure, Suruga dancing, brought to the sacred east. Thus was it when the lords of the everlasting Trod the world, They being of old our friends. Upon ten sides their sky is without limit, They have named it, on this account, the enduring. Tennin The jewelled axe takes up the eternal renewing, the palace of the moon-god is being renewed with the jewelled axe, and this is always recurring. Chorus commenting on the dance The white kiromo, the black kiromo, Three, five into fifteen, The figure that the Tennin is dividing. There are heavenly nymphs, Amaotome, [3] One for each night of the month, And each with her deed assigned. Tennin I also am heaven-born and a maid, Amaotome. Of them there are many. This is the dividing of my body, that is fruit of the moon's tree, Katsura. [4] This is one part of our dance that I leave to you here in your world. Chorus The spring mist is widespread abroad; so perhaps the wild olive's flower will blossom in the infinitely unreachable moon. Her flowery head-ornament is putting on colour; this truly is sign of the spring. Not sky is here, but the beauty; and even here comes the heavenly, wonderful wind. O blow, shut the accustomed path of the clouds. O, you in the form of a maid, grant us the favour of your delaying. The pine-waste of Miwo puts on the colour of spring. The bay of Kiyomi lies clear before the snow upon Fuji. Are not all these presages of the spring? There are but few ripples beneath the piny wind. It is quiet along the shore. There is naught but a fence of jewels between the earth and the sky, and the gods within and without, [5] beyond and beneath the stars, and the moon unclouded by her lord, and we who are born of the sun. This alone intervenes, here where the moon is unshadowed, here in Nippon, the sun's field. Tennin The plumage of heaven drops neither feather nor flame to its own diminution. Chorus Nor is this rock of earth overmuch worn by the brushing of that feather-mantle, the feathery skirt of the stars: rarely, how rarely. There is a magic song from the east, the voices of many and many: and flute and sho, filling the space beyond the cloud's edge, seven-stringed; dance filling and filling. The red sun blots on the sky the line of the colour-drenched mountains. The flowers rain in a gust; it is no racking storm that comes over this green moor, which is afloat, as it would seem, in these waves. Wonderful is the sleeve of the white cloud, whirling such snow here. Tennin Plain of life, field of the sun, true foundation, great power! Chorus Hence and for ever this dancing shall be called "a revel in the East." Many are the robes thou hast, now of the sky's colour itself, and now a green garment. Semi-Chorus And now the robe of mist, presaging spring, a colour-smell as this wonderful maiden's skirt — left, right, left! The rustling of flowers, the putting on of the feathery sleeve; they bend in air with the dancing. Semi-Chorus Many are the joys in the east. She who is the colour-person of the moon takes her middle-night in the sky. She marks her three fives with this dancing, as a shadow of all fulfilments. The circled vows are at full. Give the seven jewels of rain and all of the treasure, you who go from us. After a little time, only a little time, can the mantle be upon the wind that was spread over Matsubara or over Ashitaka the mountain, though the clouds lie in its heaven like a plain awash with sea. Fuji is gone; the great peak of Fuji is blotted out little by little. It melts into the upper mist. In this way she (the Tennin) is lost to sight.</field>
+      <field name="fulltext">Footnotes [1: Her coronet] Vide examples of state head-dress of kingfisher feathers in the South Kensington Museum. [2: the chain of weaknesses] The chain of weaknesses, or the five ills, diseases of the Tennin: namely, the Tamakadzura withers; the Hagoromo is stained; sweat comes from the body; both eyes wink frequently; she feels very weary of her palace in heaven. [3: There are heavenly nymphs, Amaotome] Cf. "Paradiso," xxiii. 25: "Quale nei plenilunii sereni Trivia ride tra le ninfe eterne." [4: Katsura] A tree something like the laurel. [5: the gods within and without] "Within and without," gei, gu, two parts of the temple.</field>
+   </doc>
+</add>

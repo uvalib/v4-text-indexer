@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Cornwall, Barry, 1787-1874</field>
+      <field name="author_facet">Cornwall, Barry, 1787-1874</field>
+      <field name="author_sort_facet">cornwall barry 1787 1874</field>
+      <field name="author_text">Cornwall, Barry, 1787-1874</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1850's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V3.0459.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1857</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460810</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Juan</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Juan</field>
+      <field name="title_facet">juan</field>
+      <field name="title_sort_facet">juan</field>
+      <field name="title_text">Juan</field>
+      <field name="year_display">1857</field>
+      <field name="year_facet">1857</field>
+      <field name="year_multisort_i">1857</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460810&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460810&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Cornwall, Barry, 1787-1874&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;cornwall barry 1787 1874&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Juan&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;juan&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1857&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1857&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Cornwall, Barry&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1787&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1874&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Juan&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chapman and Hall&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1857&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872940-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv30459&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Juan&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 28 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted&lt;lb/&gt;The following plays have been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Juan.</field>
+      <field name="desc_meta_file_display">Genre: Dramatic poem.</field>
+      <field name="desc_meta_file_display">Date first published: 1819.</field>
+      <field name="desc_meta_file_display">Date first performed: Unknown.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">JUAN.</field>
+      <field name="fulltext">Like a village nurse Stand I now cursing and considering, when The tamest fool would do—I will be sudden, And she shall know and feel, love in extremes Abused, knows no degree of hate. Massinger—Duke of Milan.</field>
+      <field name="fulltext">I come, Death! I obey thee, Yet I will not die raging: for, alas! My whole life was a frenzy.— Bury me with Marcelia; And let our opitaph be.... The same.</field>
+      <field name="fulltext">SCENE— The Gardens belonging to a Spanish Castle. Juan and a Boy. JUAN. The night grows foul and dark; and the thick air Wakes pulses at my heart, which now should sleep. Hark! the winds draw the curtains of the sky, Like ministers to lust. Queen Dian, now, Is with her paramour. BOY. Spoke you, my lord? JUAN. They'll rock her into slumber. She should watch: For others may be busy while she sleeps, And stain her fame with falsehood. The hot air Weighs on my forehead. Break a lemon branch And give't me, Lopez. So; how fresh! how cool! (Tho' all its sweets are fled:) another—Thanks! I'll bind them round my forehead. What time is't? BOY. Near midnight. JUAN. Wants it long? BOY. Some minutes; the last chimes have just now ceased. JUAN. They sounded sadly. Let me hear thee sing A song; 'twill drive some blacker thoughts away. BOY. What sort of song? Shall it be tender? gay? JUAN. Let it be full of love, and foaming o'er; But not a jot of kindness: burning passion; No more: yes, headlong folly; flames that parch And wither up the heart: fierce jealousy, And horrid rage; and doubt and—dark despair! Sing she you loved was false, and that you grew Mad, and a murderer; anything. BOY. My lord! JUAN. Then you may say how she Was beautiful as Sin, and that her eyes Shone like the morning; that her arms were smooth, And gracefully turned, and that her figure seemed Shaped from the mould of Dian's. You then may tell How her white bosom rose and sank, at times, To the music of her passionate heart. But, no; We'll have no music now; my soul's untuned, And discord is the only element. A wife?—When went my wife hence, boy? BOY. Sir! JUAN. Where is your lady, fool? BOY. At prayers, I think. JUAN. Excellent, excellent! the times are good (Must be) when strumpets pray. My bosom now Swells like the boiling ocean. How could she Be false to me? to me who loved her more Than heaven or hope hereafter. How I gazed Upon her brow, and thought it fairer than The face of the starry heavens! Begone, and send Your mistress hither. BOY. She's at prayers, my lord. JUAN. Ha! true; forgot! no matter: leave me, sirrah, And place the lamp upon the dial yonder, And draw the shade around it. Now, go, go. [Boy goes out. Now then I am—alone. There's not a sound To cheer my purpose: It is dark and close. My soul is dark; imprisoned in—a grave; Yet, resolute to bear. Shall I revenge? I'll kill her, tho' the stars dissolve in tears, And thunder mutters help; and so, all's past. Having resolved, the bloody part is done;— And all the rest is mercy. She must perish. I'll wash away her sins with all her blood. Yet—if I slay her, I shall surely die. Die? I am dead already; jealous hate, Despair, and too much love have poisoned me. Oh, widow, who hast lost thine all on earth, What is thy pain to mine? A step?—a step? She comes then: not alone? ah! not alone. Now for my hiding-place. He retires. Olympia and Bianca enter. OLYMPIA. Did I believe in fables, I should think Some evil hung about me: the black night Has not allowed one small star to escape, To light us on our path: who's there? I thought A figure passed us. Hark! BIANCA. I heard nothing. OLYMPIA. Nor I: and yet when dæmons walk about, Their steps 'tis said are noiseless. I could now Think half my nursery stories true, and spurn My better reason from me. BIANCA. Let us talk Of something else, dear lady. OLYMPIA. Tremble not. You have no cause to fear; your days have been Harmless, (I hope so,) and the spirits of ill Leave innocent life untouched. Look, girl, the worm Lights her green lamp; and, see! the fountain, there, Into the night shoots up its silver rain. How fresh and sweet it is! how musical. Bianca, get you homewards; I will rest Here, in the cool awhile. [Bianca exit. What a most delicate air this garden hath! There's scarce a flower or odorous shrub that lives We have not. There, how clearly I scent the rose; And now the limes; and now, as the sad wind Sobs, an uncertain sweetness comes from out The orange-trees: Their fragrance charms me Almost to sleep. Reclines. Juan enters. JUAN. She sleeps at last, then: yet I will not kill The frail thing sleeping. Why did I delay? I feared (why did I fear?) to meet her eye: The eye of her whom justice bids me strike? Oh! what a beautiful piece of sin is there! They fabled well who said that woman won Man to perdition: hark! the thunder mutters; And lightnings—Rest, wild spirits, I am come To save ye a worthless task. Now then, my soul! Rise up, Olympia! (she sleeps soundly:) Ho! Stirring at last: Rise, Fair Olympia: you Have much to do to-night. The fates have writ Your early doom upon their brazen book; And I must do their bidding. OLYMPIA. What is this? JUAN. Now by—but I am quiet. You have sinned Most foully 'gainst your husband: that's not much; But you have done a deed at which the skies Blacken: look up. OLYMPIA. Dear Juan? JUAN. You have made Me (I forgive that) base: our noble house, 'Till now illustrious, you have stained. Hark, hark! The voices that you hear amongst the clouds (But understand not) say ‘confess your sin.’ I wait to hear it. OLYMPIA. Oh, your mind is filled With dreaming terrors. Let us home, dear Juan; We'll talk to-morrow of this. JUAN. Talk? to-morrow? Now, by the burning passion that doth stir Vengeance within me, Olympia! This night You take your leave of earth. Yet, ere you die, I'll tell you how I loved you; doated—oh! Grew guilty for you: guilty, do you hear? OLYMPIA. Most perfect, sir; I tremble. JUAN. Ere you married I loved you; that you know: your father shook A poor petitioner away; and you (Although you owned to love) forsook me. Then I tried my fortune in the wars: you gave Your hand to old Ramirez. OLYMPIA. I was bid. JUAN. My uncle's death raised me to wealth, and then I came home quickly: you were married. OLYMPIA. Well! JUAN. Well! Why then despair possessed me. Madness stamped His brand upon my brain, and years flamed on, (You still Ramirez' wife) when I became A man again: The impudent dotard laughed, Boasting he had out-schemed a younger man, Me,—me. My curse upon him! OLYMPIA. Peace, no more. JUAN. So, you still love him? OLYMPIA. Sir, I love him not. But I disdain the madman that belies him. JUAN. Mad? mad? Now shall you die,—die! (do you hear?) By me, who love you. Mad? I have been mad; But 'twas because I lost you; you, thrice false one! Now, being sane, 't shall be my bloody care To see none rave like me from too much love. Mad? mad? and you to jeer me? Blighting shame Weigh on your soul for that. OLYMPIA. You have belied My husband's honoured name. JUAN. His name? I slew him, harlot! stabbed him thro' and thro'. Ha, ha, ha, ha! Thou fool, who couldst believe That common villains struck and robbed him not. OLYMPIA. I dream; I hope I dream. JUAN. 'Twas I. Laugh out! Yet if thou dost 'twill be at my great woe. And though thou jeerest me, I deserve it not. For all was done for thee; and now hast thou Called back the love I bought at such a price, And sold it to another. OLYMPIA. Sir, 'tis false: You are all false. How I abhor you now! Hearken, Don Juan; I have loved you, (how You will remember quickly;) 'twas an error: For had I known his blood was spilt by you, I would have cast you off, as now I do, For ever. JUAN. Speak again. OLYMPIA. For ever; ever. JUAN. Will-will your paramour come then? Ha, ha, ha! He waits, and wishes: do not keep him long. OLYMPIA (aside). God! he is mad, indeed. I must escape. JUAN. Stay! Stop! but weep not; pray not: wouldst thou pray To the deaf adder? to the insensate sea? Look, I am stern, but just; determined, wronged; A judge, and you the victim. OLYMPIA. Let me pass. JUAN. Kneel down before the gods. Now answer me. Lovest thou, or not, (speak truly, for thou speak'st Thy last words to the world,) this stranger? Quick! OLYMPIA. I love him. (Juan cries out.) But— JUAN. Traitress! adultress! I strike (stabs her)—and kill my wrongs! OLYMPIA. Stay, Juan, stay! but no; 'tis past—and over. It cannot be:—you've done ill. JUAN. You—you are Not hurt? not slain? Speak! OLYMPIA. Save yourself, dear Juan. That youth— JUAN. Yes, yes. OLYMPIA. He is my brother. JUAN. Hell! OLYMPIA. The Inquisition now are watching for him. Save him. JUAN. I will. OLYMPIA. By—ah— Dies. JUAN. By my lost soul. Look up, look up, Olympia! Juan's here; Thy husband,—murderer, (that's the name:) My love! My love! Olympia! I—she's dead. A pause. How's this? So, where am I? Olympia! she is false. Dead? Ah some villain has been busy here. By Heaven, the golden hair is wet: the eye Has lost its tender meaning. Life and love Have fled together—to the grave. Was't I? Oh! I have cut those sweet blue veins asunder And filled her breast with blood: there's not a touch Of colour in her lip, (so red once,) and her hand Falls: it will never press my own again. What a voice she had! 'tis silent! Could it die In a single groan? impossible. (Voices are heard.) My lord! JUAN. Hark, hark! they call the murderer: he is here. (Voices.) My lord, my lord! JUAN. Now, first to hide The body. Body!—is she changed so soon? Hides the body And now to fly: yet wherefore? Can they read In my white visage and unaltered eye A murder redder than the crime of Cain? I'll stay, and dream of death. Oh! I have lost What was my life on earth: what was, alas! A horrid sound. They come. Enter Servants. Whom seek ye? She— Your lady's gone; gone, do you doubt me? gone SERVANT. My lord! a stranger is arrived; her brother. JUAN. Who? what? She has none; none. SERVANT. My lord, he's at the castle. JUAN. Peace! She is gone On a dark journey. Oh! SERVANT. You've cut your hand, sir. JUAN. I have cut—my heart. Leave me; all but Diego. [Servants go out. Poor old man, You were my father's servant; nay his father's. We prized you, and you served us faithfully; But now's your service ended. Old Diego! Long before sun-rise, I shall be— DIEGO. My lord! JUAN. Quiet, Diego. No foul passions, then, No turbulent love, nor fierce idolatry, Nor bitter hate, nor jealousy, shall mar My solitary rest: I shall be—dead. The last ('tis pity) of a princely house; Let not our name be slandered. DIEGO. My dear lord! JUAN. One old man thought I should do honour to his name;—that's past: For look! my star is setting. I am now The last of a famous line, which backward ran To the blood of kings and then was lost in time. Ah! where is now my father's prophecy, And where my own hopes? withered, withered. DIEGO. Alas! JUAN. A few more words, and then—and then, good night. I smote—I smote—now let the black skies fall And crush me in a moment. Oh! my queen! My own incomparable wife! My love! Oh! all my life has been an error: So, I'll shift a troublesome burden from my back, And lay me down to sleep. DIEGO. Beseech you, home! JUAN. We'll do as thou dost say. That rich red draught, Which filled the frames of aged men with youth, And strung their sinews like the bracing air, Were now an useless medicine. DIEGO. Noble master! Let me for once forget my place, dear lord! And bid you hope for comfort. JUAN. Hush, hush, hush! No more a lord: a vulgar slave am I, Who caught one look from heaven; but the soft light Is out, which was my guide; and here I stand Lost, and in terrible darkness near my tomb. And angry shadows beckon me; fierce shapes And fears (which no hope tempers) drag me on. Look, I must go: yet first we'll make all plain, And leave the earth a warning. I—the story Hangs on my tongue. I smote—I—look aside While I burst forth in guilt. I smote—Oh God! The tenderest, noblest woman in the world; And with my cruel dagger cut a road To a heart where I was lord; but knew it not. Ay, weep, Diego; thou may'st weep, poor man; But for myself my tears are dried to dust: Burnt and scorched up by pain. But let's be still. Your hand, my last firm friend; I have not yet Forgotten how you used (bright years ago) To bear me, then a boy, sport-tired, home. Bear me so far once more: 'tis your last toil; And lay me gently on my marble bed, And ask no man to curse me! All's done. Now Open your arms, Olympia! Stabs himself.</field>
+   </doc>
+</add>

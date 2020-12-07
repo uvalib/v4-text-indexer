@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Clarendon Press</field>
+      <field name="author_facet">Clarendon Press</field>
+      <field name="author_sort_facet">clarendon press</field>
+      <field name="author_text">Clarendon Press</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.1088.xml</field>
+      <field name="date_indexed_facet">201909240355</field>
+      <field name="date_text">1885</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459717</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Gyrdillers and Naylers ; XIX. The Massacre of the Innocents</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Gyrdillers and Naylers ; XIX. The Massacre of the Innocents</field>
+      <field name="title_facet">gyrdillers and naylers</field>
+      <field name="title_sort_facet">gyrdillers and naylers</field>
+      <field name="title_text">The Gyrdillers and Naylers ; XIX. The Massacre of the Innocents</field>
+      <field name="year_display">1885</field>
+      <field name="year_facet">1885</field>
+      <field name="year_multisort_i">1885</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459717&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459717&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Gyrdillers and Naylers ; XIX. The Massacre of the Innocents&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;gyrdillers and naylers&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1885&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1885&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Gyrdillers and Naylers&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;XIX. The Massacre of the Innocents&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Oxford&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Clarendon Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1885&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873592-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv11088&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Gyrdillers and Naylers&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;XIX. The Massacre of the Innocents&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 29 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and editorial matter including introduction and glossary omitted.&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Source texts incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The gyrdillers and naylers.</field>
+      <field name="desc_meta_file_display">Genre: English mystery and miracle plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1475 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1352–1376 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">XIX. THE GYRDILLERS AND NAYLERS. The Massacre of the Innocents. Square brackets represent sections of text unclear or absent in the original and supplied by the current editor</field>
+      <field name="fulltext">[PERSONS OF THE PLAY. Herodes. Primus et secundus Consules. Primus et secundus Milites. Prima et secunda Mulieres.]</field>
+      <field name="fulltext">[Scene I] Herod's court. 1. Her. Powre bewsheris aboute, Peyne of lyme and lande, Stente of youre steuenes stoute, And stille as stone ?e stande, And my carping recorde; ?e aught to dare and doute, And lere you lowe to lowte To me youre louely lorde. 2. ?e awe in felde and towne To bowe at my bidding, With reuerence and renoune, As fallis for swilk a kyng Þe lordlyest on-lyue Who her-to is noght bowne, Be all-myghty mahounde To dede I schall hym dryue! 3. So bolde loke no man be, For to aske help ne helde But of mahounde and me, Þat hase þis worlde in welde, To mayntayne vs emelle, For welle of welthe are we, And my cheffe helpe is he; Her-to what can ?e tell. 4. i Cons. Lord, what you likis to do All folke will be full fayne, To take entente þer-to, And none grucche þer-agayne. Þat full wele witte shall ?e, And yf þai wolde no?t soo, We shulde sone worke þam woo. Her. ?a! faire sirs, so shulde it bee. 5. ii Cons. Lorde, þe soth to saie, Fulle wele we undirstande, Mahounde is god werraye, And ?e ar lorde of ilke a lande. Ther-fore, so haue I seell, I rede we wayte all-way, What myrthe most mend ?ou may. Her. Certis ?e saie ryght well. 6. But I am noyed of newe, Þat blithe may I no?t be, For thre kyngis as ?e knowe That come thurgh þis contree, And saide þei sought a swayne. i Cons. Þat rewlle I hope þam rewe, For hadde þer tales ben trewe, They hadde comen þis waye agayne. 7. ii Cons. We harde how þei ?ou hight, Yf they myght fynde þat childe, For to haue tolde ?ou right, But certis þei are begilyd. Swilke tales ar noght to trowe, Full wele wotte ilke a wight, Þer schalle neuere man haue myght Ne maystrie unto ?ou. 8. i Cons. Þam schamys so, for certayne, That they dar mete ?ou no more. Her. Wherfore shulde þei be fayne To make swilke fare before; To saie a boy was borne That schulde be moste of mayne? This gadlyng schall agayne Yf þat þe deuyll had sworne; 9. For be well neuer þei wotte, Whedir þei wirke wele or wrang To frayne garte þam þus-gate, To seke that gedlyng gane, And swilke carping to kith. ii Cons. Nay lorde, they lered ouere latte, Youre blisse schall neuere abatte, And therfore, lorde, be blithe. [Enter Messenger.] 10. Nunc. Mahounde with-outen pere My lorde! ?ou saue! and see. Her. Messenger, come nere, And, bewcher! wele ye be. What tydyngis telles þou, any? Nun. ?a! lorde, sen I was here, I haue sought sidis seere, And sene merueyllis full many. 11. Her. And of meruayles to move, That were most myrthe to me. Nunc. Lorde, euen as I haue seene, The soth sone schall ?e see, Yf ?e wille, here in hye. I mette tow townes betwene Thre kyngis with crounes clene, Rydand full ryally. Her. A! my blys! boy, þou burdis to brode! [Nunc.] Sir, þer may no botment be. 12. [Her.] O we! by sonne and mone, Þan tydis vs talis to nyght. Hopes þou þei will come sone Hedir, as þei haue hight, For to telle me tythande? Nunc. Nay, lorde, þat daunce is done. Her. Why, whedir are þei gone? Nunc. Ilkone in-to ther owne lande. 13. Her. How sais þou, ladde? late be. Nunc. I saie for they are past. Her. What, forthe away fro me? Nunc. ?a, lord, in faitht ful faste. For I herde and toke hede How þat þei wente, all thre, In to ther awne contre. Her. A! dogges, þe deuell ?ou spede. 14. Nunc. Sir, more of þer menyng ?itt well I undirstode How þei hadde made offering Unto þat frely foode Þat now of newe is borne. Þai saie he schulde be kyng, And welde all erthely thyng. Her. Allas! þan am I lorne. 15. Fy on thaym! faytours, fy! Wille þei be-gylle me þus. Nunc. Lorde, by ther prophicy, Þei named his name Jesus. Her. Fy! on þe, ladde, þou lyes! ii Cons. Hense! tyte, but þou þe hye, With doulle her schall þou dye, That wreyes hym on this wise. 16. Nunc. ?e wyte me all with wrang, Itt is þus and wele warre. Her. Thou lyes! false traytoure strange, Loke neuere þou negh me nere. Vppon liffe and lyme May I þat faitour fange, Full high I schall gar hym hange, Both þe harlott and hym. 17. Nunc. I am nott worthy to wyte, Bot fares-wele, all þe heppe! i Consul. Go, in þe deueles dispite, Or I schall gar the leppe, And dere aby this bro. [Exit Messenger. Herodus. Alas! for sorowe and sighte, My woo no wighte may wryte, What deuell is best to do. 18. ii Cons. Lorde, amende youre chere, And takis no nedles noy, We schall ?ou lely lere, Þat ladde for to distroye, Be counsaille if we cane. Her. Þat may ?e noght come nere, For it is past two ?ere Sen þat þis bale be-gane. 19. i Cons. Lorde, þerfore haue no doute If it were foure or fyve, Gars gadir in grete rowte Youre knyghtis kene be-lyue. And biddis þam dynge to dede Alle knave childir kepte in dowte, In Bedlem and all aboute, To layte in ilke a stede. 20. ii Cons. Lorde, saue none, for youre seell, Þat are of ii ?ere age with-inne, Þan schall þat fandelyng felle Be-lyue his bliss schall blynne, With bale when he shall blede. Her. Sertis, ?e saie right wele, And as ?e deme ilke dele, Shall I garre do in-dede. 21. Sir knyghtis, curtayse and hende, Þow ne nott bees nowe all newe, ?e schall fynde me youre frende, And ?e þis tyme be trewe. i Cons. What saie ?e, lorde, lette see. Her. To Bedlehem bus ?e wende, That schrewe with schame to schende Þat menes to maistir me. 22. And a-bowte Bedlehem boght he, Bus yowe wele spere and spye, For ellis it will be waghe Þat he losis þis Jury. And certis þat were grete schame. ii Cons. My lorde, þat wer vs lathe, And he escapid it wer skathe, And we welle worthy blame. 23. i Miles. Full sone he schall be soughte, That make I myne a-vowe. i Cons. I bide for him ?ow loghte, And latte me telle yowe howe. Go werke when ?e come there, By-cause ?e kenne hym noght, To dede they muste be brought, Knave childre, lesse and more. 24. Her. ?aa, all with-inne two ?ere, That none for speche be spared. ii Miles. Lord, howe ?e vs lere Full wele we take rewarde, And certis we schall not rest. [Exeunt.</field>
+      <field name="fulltext">[Scene II] Round about Bethlehem. i Miles. Comes furth, felowes, in feere; Loo! fondelyngis fynde we here. 25. i Mul. Owte on ?ou! theves, I crye! ?e slee my semely sone. ii Miles. Ther browls schall dere abye This bale þat is be-gonne, Þer-fore lay fro þe faste. ii Mul. Allas! for doule I dye, To saue my son schall I, Aye whils my liff may last. 26. i Miles. A! dame, þe deuyll þe spede. And me, but itt be quytte. i Mul. To dye I haue no drede, I do þe wele to witte, To saue my sone so dere. i Miles. As armes! for nowe is nede, But yf we do yone dede, Ther quenys will quelle us here. 27. ii Mul. Allas! þis lothly striffe! No blisse may be my bette, þe knyght vppon his knyffe Hath slayne my sone so swette; And I hadde but hym allone. i Mul. Allas! I lose my liffe, Was neuere so wofull a wyffe, Ne halffe so wille of wone! 28. And certis, me were full lotht Þat þei þus harmeles ?ede. i Miles. Þe deuell myght spede you bothe, False wicchis, are ye woode? ii Mul. Nay false lurdayns, ye lye. [i Miles.] Yf ?e be woode or wrothe, Ye schall no?t skape fro skathe, Wende we vs hense in hye. 29. i Mul. Allas! þat we wer wroughte, In worlde women to be, Þe barne þat wee dere bought, Þus in oure sighte to see Disputuously spill. ii Mul. And certis, þer nott is noght, The same þat þei haue soughte, Schall þei neuere come till. 30. i Miles. Go we to þe kyng, Of all þis contek kene I schall nott lette for no-thyng To saie as we haue sene. ii Miles. And certis, no more shall I. We haue done his bidding, We schall saie sothfastly, How so they wraste or wryng.</field>
+      <field name="fulltext">[Scene III] Herod's court. 31. i Miles. Mahounde, oure god of myght, Saue þe! sir herowde þe kyng! i Cons. Lorde, take kepe to youre knyght, He wille telle ?ou nowe thydingis Of bordis wher they haue bene. Her. ?aa, and þei haue gone right, And holde þat þei vs hight, Þan shall solace be sene. 32. ii Miles. Lorde, as ?e demed vs to done, In contrees wher we come— Her. Sir, by sonne and mone, ?e are welcome home, And worthy to haue rewarde. Haue ?e geten vs þis gome? i Miles. Wher we fande felle or fone, Wittenesse we will þat þer was none. 33. ii Miles. Lord, they are dede ilkone, What wolde ?e we ded more? Her. I aske but aftir oone, Þe kyngis tolde of before, Þat schulde make grete maistrie; Telle vs if he be tane. i Miles. Lorde, tokenyng hadde we none To knawe þat brothell by. 34. ii Miles. In bale we haue þam brought A-boute all Bedleham towne. Her. Ye lye, ?oure note is nought! Þe deueles of helle ?ou droune! So may þat boy be fledde, For in waste haue ?e wroght Or that same ladde be sought, Schalle I neure byde in bedde. 35. [? i Cons.] We will wende with you þan To dynge þat dastard doune. [? ii Cons.] Asarme! euere ilke man, That holdis of mahounde. Wer they a thousand skore, This bargayne schall þai banne Comes aftir as yhe canne, For we will wende be-fore. [Exeunt.</field>
+   </doc>
+</add>

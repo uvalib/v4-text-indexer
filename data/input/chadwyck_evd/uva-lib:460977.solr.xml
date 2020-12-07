@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Rands, William Brighty, 1823-1882</field>
+      <field name="author_facet">Rands, William Brighty, 1823-1882</field>
+      <field name="author_sort_facet">rands william brighty 1823 1882</field>
+      <field name="author_text">Rands, William Brighty, 1823-1882</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1870's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V3.0648.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1871</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460977</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Whisper</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Whisper</field>
+      <field name="title_facet">whisper</field>
+      <field name="title_sort_facet">whisper</field>
+      <field name="title_text">The Whisper</field>
+      <field name="year_display">1871</field>
+      <field name="year_facet">1871</field>
+      <field name="year_multisort_i">1871</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460977&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460977&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Rands, William Brighty, 1823-1882&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;rands william brighty 1823 1882&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Whisper&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;whisper&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1871&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1871&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Rands, William Brighty&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1823&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1882&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Whisper&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;George Routledge&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1871&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873315-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv30648&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Whisper&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 28 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted&lt;lb/&gt;The following plays have been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The whisper.</field>
+      <field name="desc_meta_file_display">Genre: Extravaganza.</field>
+      <field name="desc_meta_file_display">Date first published: 1871.</field>
+      <field name="desc_meta_file_display">Date first performed: Unknown.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE WHISPER.</field>
+      <field name="fulltext">CHARACTERS. Old Hunks, miser and dealer in old stores. Dame Dimity, his cousin. Fred Fourandtwenty, her son. Cissy Cowslip, his sweetheart. Faith Fairlight. Children, &amp;c. The Whisper.</field>
+      <field name="fulltext">I. A fine day in early autumn. The Dame's poor cottage, with the window open. Outside, children singing. The Dame and Cissy, who are fretting. The Children (without). The bee is a rover; The brown bee is gay; To feed on the clover, He passes this way. Brown bee, humming over, What is it you say? “The world is so happy—so happy to-day!” The martens have rested All under the eaves; The field-mice have jested And played in the sheaves; We have played, too, and nested, And none of us grieves. All over the wide world, who is it that grieves? Dame Dimity. Who is it grieves? A pretty question that! Cissy Cowslip. They little think, poor things, what they are at. Dame. Their turn will come in time. Cissy. Mine has begun. Dame Dimity, I do so love your son! Dame. Yes, yes; I looked on you as man and wife. It has been my turn nearly all my life; Up-hill and down-hill, troubled in and out, With nearly always things to fret about. Cissy. And now our Fred is taken for the war; Such things are hard to bear. Dame. Ay, that they are. Poor Fred! (weeps.) Cissy. Poor Fred! (weeps.) Dame. Whatever shall we do? Whisper. (A distinct whisper is heard.) The ironing. Do the ironing. Dame. (starting). Did you hear A whisper? Cissy. Yes, indeed. I heard it clear. Did you hear what it said? Dame. It seemed to bid Us do the ironing! Cissy. Yes, dame, that it did! But let us try if it will speak once more. [They each go down on one knee. Please, Whisper, what was that you said before? What shall we do in this distress of ours? Whisper. The ironing. Do the ironing. Dame., Cissy. Gracious powers! Dame. The ironing will not bring my Frederick back. Cissy. Nor keep him safe in battle. Dame. No, alack! But, Cissy, run to Hunks, my cousin, pray, And borrow a box-iron for the day; I can't find mine. Cissy. And then what shall we do? Whisper. The ironing. Do the ironing. Dame. Make haste, girl. Cissy. I will; but my poor head is in a whirl. [Exit to borrow the box-iron.</field>
+      <field name="fulltext">II. Old Hunks in a room opening to the road. Evening. A Candle. Money-bags upon the table. Old Hunks is angry. Hunks. I am a victim and a fool; I always was; it is the rule. For when I had Faith Fairlight's ring It turned into a worthless thing; Next, it escapes my hand, and then It is a diamond ring again! There must be some conspiracy— There must—to get the best of me. A poor old man. It is a sin That I should thus be taken in; My money has been hardly earned— Hah! is that box-iron returned? No! I will not again be bit, I will go forth in search of it. How shameful! A conspiracy To ruin a poor old man like me! But who is chief conspirator? [Laughter without. That (starting) was the rats beneath the floor. [Laughter without. There must be some one at the door. [Opens the door—the wind blows the candle out. Laughter again. In every limb I now do shake, And know not what of this to make. [Laughter without. I cannot strike a light. I find My tinder-box I left behind. The window let me open throw, And call for help. What ho, what ho! [Calling out at the window. A lantern not far off I see, And it is making straight for me. [A tapping at the door. Hah! who is there? Faith Fairlight (outside.) Faith Fairlight! Hunks. Well, Come in! But— [Enter Faith with lantern. He covers up his money. Say how it befell That you, Faith Fairlight, passed this way Just now. [Relighting his candle. Faith. Oh, sir, I cannot say. I came because I heard you call! Hunks. You heard no laughter? Faith. None at all. Hunks (aside). A thought, a thought! (aloud) Good-natured thing! Pray let me see your diamond ring. Ha, ha! (aside) it shall be mine again. Faith. Pray, sir, forbear. Whisper. Old man, refrain! Hunks (starting). Did you hear nothing? Faith (smiling). No. Hunks. No sound That seemed to come from underground? Faith. No, none. A voice there might yet be, But, if it did not speak to me, I should not hear a word it said. Hunks (aside). A witch she is. Her eyes burn red— You do hear voices then? Faith (smiling). Yes. Hunks. And— Faith. The thing they say I understand. Hunks (mazed). To sift this through and through I burn, For some deception I discern. Pray, Faith (aloud), your lantern—come with me To find my cousin Dimity. Faith. The Dame that I was going to see. Hunks (aside). Upon the road, I may regain The diamond ring. Whisper. Old man, refrain! Hunks. There, then! did you not hear a noise? Faith (smiling). I certainly did hear a voice. Hunks (seizing her by the shoulder). What said the voice? What did you hear? Faith. It only whispered, Do not fear. Hunks (aside). That is not what it said to me; The voices do not quite agree. [Ironically. [Exeunt.</field>
+      <field name="fulltext">III. Dame Dimity's cottage again. The box-iron and a bank-note for a hundred pounds on the table. Dame Dimity. Oh, if we could but keep this hundred pound, A substitute for Frederick might be found! Cissy. And after that there would be plenty more, To set us up in life, with stock and store, And you could come and live with us, and—oh, It would be nice! And yet the note must go! [Weeps. Dame. Who would have thought that in that stupid place A bank-note would be hidden? Cissy. Hunks's ways Are not like other people's. He forgot Where he had hid the note, as like as not. Dame. Perhaps he bought the box-iron, and never Looked into it. Cissy. Oh, he is far too clever. Dame. But after all, you know, such things might be. May we not keep the money? Cissy. Let us see— Enter Hunks hastily, with Faith. Hunks. Where is my box-iron, Dame Dimity? People who borrow should return with speed. Where is my box-iron?—they should indeed— I want my box-iron. That hundred pound! Where did you get it? Fairly, I'll be bound. [Ironically. Whisper. Speak truth. Dame (starting and stiffening up). In your box-iron it was found. Hunks (jumping for joy). In my box-iron? Give it me! And you May have the box-iron, for speaking true. [Laughter without. What are you laughing at? All. We did not laugh. [Cissy bursts into tears. Hunks. What are you crying for, you little calf? Is this a time to cry when I have earned A hundred pounds, with scarce a finger turned? Dame. She wants some money to buy off our Fred, My son, with whom she one day thought to wed. [Crying. Hunks. Oh, ah! Well, keep the box-iron—you may— And take in ironing; and day by day You can save up the money— [Laughter without. Hunks starts. Cissy. But in the meantime, sir, my Fred— Dame. My Fred— Cissy. May very likely wounded be, or dead. Hunks. Pooh, pooh, you women look so far ahead. Whisper. Give up the note, old miser. Hunks (starting). What was that? Somebody spoke to me. Cissy. Perhaps, the cat— Hunks. It was no cat; it was— [Shaking. Whisper. Give up the note. Hunks (looking back over his shoulder—a short pause). Well! the box-iron will be worth a groat, So give me that, and—take the hundred pound, And I'll be off. [Movements of surprise and thanks. Confusion. The door is flung open, and enter Fred. Dame., Cissy. What! Fred back, safe and sound! Fred. Yes, Cis, Yes, mammy. The fellows found they had Too many, and so, by lot, let off your lad. [Embraces all round, except as to Hunks. Hunks. Ha, ha! Then give me back my hundred pound. Dame. Well, we are happy enough. Faith. That I'll be bound! Hunks. You do not want it now. Whisper. Give up the note. Hunks (starting surlily). Well, if I must, I must. A groat's a groat. Come, box-iron! Here, once again you see How everybody gets the best of me. [Looks out at the door shuddering. Ugh! it is dark. Faith. Oh, sir, the light I brought is at your service quite— My lantern. I will go with you, And light you home, if that will do. Hunks (aside). Perhaps upon the road I may That diamond ring recover, hey? Come on, then, with your lantern! Faith. Ay; Good night, friends! Fred. On the wedding-day, I hope we all shall meet in joy. Cissy. Pray hold your tongue, you saucy boy. [Exeunt Faith and Hunks. Dame. Faith Fairlight is a curious maid. Cissy. Yes, yes; she never seems afraid. Fred. Not even of old Hunks—ho! ho! Cissy. Nothing will happen to her that's bad. But what a strange day we have had! The ironing. Do the ironing. [Imitating the whisper. Dame. True! Fred. What has the ironing to do With all this luck to me and you? Dame. Oh, we will tell you by-and-by. Cissy. But mother first a song shall try. Dame. My old cracked voice! you giddy thing! Fred. A song, a song! Cissy. Yes, you shall sing. The Dame's Song. As I was out a-making hay, My lad came up, and he did say, “The times are bad, though love is true, And so I cannot marry you.” Into my eyes the tears did start, Because my lad was out of heart; I says to him, “If love is true, Dear William, I will wait for you.” Then William brightens up and cries (He saw the tears stood in my eyes), “Dear Lucy, love is true indeed, So of my words pray take no heed.” “Indeed I shall,” says I, “my man!” (To chide I now of course began). “If love is true, how can it be That you do say such things to me?” Then William plucked me by the sleeve, And says to me, “I do believe You see right down into my heart!” “Oh, don't,” says I, “you make me start!” But he would no denial take, And next he catch'd away my rake; So kind he spoke, he eased my pain, And never said such words again. We waited till the times did change, And then to wed we did arrange; And this is all that I shall sing About the pleasant hay-making.</field>
+   </doc>
+</add>

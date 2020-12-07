@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Hill, Aaron, 1685-1750</field>
+      <field name="author_facet">Hill, Aaron, 1685-1750</field>
+      <field name="author_sort_facet">hill aaron 1685 1750</field>
+      <field name="author_text">Hill, Aaron, 1685-1750</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1760's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V2.0267.xml</field>
+      <field name="date_indexed_facet">201909240355</field>
+      <field name="date_text">1760</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459983</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Saul</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 18th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 18th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Saul</field>
+      <field name="title_facet">saul</field>
+      <field name="title_sort_facet">saul</field>
+      <field name="title_text">Saul</field>
+      <field name="year_display">1760</field>
+      <field name="year_facet">1760</field>
+      <field name="year_multisort_i">1760</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459983&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459983&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Hill, Aaron, 1685-1750&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;hill aaron 1685 1750&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Saul&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;saul&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1760&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1760&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Hill, Aaron&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1685&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1750&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Saul&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for T. Lownds [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1760&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872321-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv20267&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Saul&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 37 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only verse drama included&lt;lb/&gt;The following plays have been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Saul.</field>
+      <field name="desc_meta_file_display">Genre: Tragedy.</field>
+      <field name="desc_meta_file_display">Date first published: 1760.</field>
+      <field name="desc_meta_file_display">Date first performed: Unknown.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">SAUL: A TRAGEDY.</field>
+      <field name="fulltext">ACT I. SCENE I. Saul. Be dumb, vain boy!—nor force a soldier's blush: A King's I name not:—for, thy recreant blood Stagnates, too cold, to feel a Monarch's fires.— Born, with a supple, an un-mounting, soul, Daring, yet dull! and, without motive, brave!— Un-jealously, supporting, even the hand, That bars thee from a throne!—by birth, indeed, Thy claim: but, punily, resign'd, to fondness, For one, whose guilt, thy blindness wou'd protect, To hunt thy father's life, and shame thy own! Jonath. Far from my heart, with humblest duty fill'd, Be every thought that gives a father pain. Oh!—by those virtues, which (uncrown'd) had reign'd, And owe no honours to a rescued throne! Distrust not him, whose inmost soul I've search'd, And find it stamp'd for virtue!—Jonathan Scarce, more, avow'd your son, than— Saul. For thy life, Breathe not the traitor's name. Jonath. I must not, now.— Yet,—but your frown prevented—I might, else, Perhaps, unwarily, have judg'd him wrong'd: Perhaps, have added,—(had the King not frown'd) That, tho' far fall'n, himself, his faith stands firm: His loyalty un-match'd, as, when, alone, Un-arm'd, he dar'd, beyond an army's power!— When, charg'd with trophies, from that wretch of Gath, Modest, he met, your joy, and wonder, mix'd; And blush'd, beneath the justice of your praise! Saul. I see, nor see, displeas'd, thy gen'rous aim: That, to disarm my vengeance, wou'd re-call The triumphs of his hand, whose heart I hate.— Thou art too weakly partial, in his cause. Jonath. Yet, meant I, to be just.— Saul. Ha! just?—Where,—answer me, Where is the rebel, now? this modest rebel! Now, when his bleeding country claims his sword! When hostile Palestine, with conqu'ring hand, O'er Israel's mountains, pours the tawny war! Where is your David, now,—your base deserter? Does he not march, enroll'd, th'invader's guide? Heads he not out-law'd Hebrews, in their cause; Perverted, all, by him? all rebel braves! All, emulative of their traitor chief?— Does he not come, disclosed? a foe, proclaim'd? Blasting his native air! to stain the land, With bloody blushes, at thy friendship wrong'd? Jonath. Might I presume?—but—if I err— Saul. Go on. I love thy virtue;—'tis thy choice, I scorn. Jonath. Oh! passive fate, of friendless misery! Thus, the unfortunate, condemn'd, by all, Hear, what they suffer, charg'd, as, what they seek! Even Saul! imperial Saul! the wise! the just! His country's guardian! and his subject's soul! Even he!—forgets—that—whom his anger blames, But, from his Sovereign's darted javelin, fled! Saul. He shou'd have staid; and watch'd returning peace. Another day, perhaps, my soul, like thine, Might have o'er-look'd th'insulting stamp, of scorn, The leer of conscious hope, th'exulting scowl; That, proudly blastful, from the traitor's brow, Eye'd his supplanted lord, and glow'd with joy! Jonath. Shall then officious prophets' erring zeal Condemn the guiltless?—He nor knew, nor wish'd, it: His humbler thoughts repell'd th'unpleasing hope. Saul. Perish those priests! whose guilt-anointing hands Light up ambition: and, beneath the name Of un-concurring Heav'n, lodge grace in lies, To sanctify rebellion!—So, was my youth Seduc'd from quiet happiness!—so, drawn, To quit the joys of independent peace; And sacrifice retreat, to pompous misery! But, when, detective of their coward frauds, When, self-assur'd, I fear'd not to forgive; When, firm, to spare the conquer'd, and distress'd, I dar'd assert the God, against the Priest; Dar'd disbelieve, that mercy cou'd offend, Or cruelty delight him—trembling hypocrites Transferr'd dominion, to an humbler upstart; And wrong'd the power of Heav'n to keep their own. Enter High-Priest melancholy. H. Priest. Thus, to enquiring Saul, th'Almighty speaks. Saul. Smile, reverend dotard!—smile—That gloom betrays thee. Ere thou begin'st thy list, of lying woes, Know I fore-judge 'em.—'Tis not a Priest's virtue, To aid a power, that not on Priests depends. Were the God really yours, whose name you play with, He wou'd be yours, but, while he serv'd your ends; If he forgave your foes, he lost your prayers. H. Priest. Hear, not my voice: but, hear, the voice of Heaven. Thus says the Great, th'offended, Lord of All; “Why seek'st thou help from me, when my Commands “Presumptuous, thou hast broken.—From thy house “The forfeit kingdom, rent, from faithless Saul, “Is to another, given:— Saul. Lessener of Heaven! When I, at Shiloh, sought thy fruitless prayer, I ask'd not my own fate—my wish but glow'd With warlike warmth, to meet th'invader's powers. I hop'd, the fears, you felt, had turn'd your oracle, To warrant, now, repenting subjects duty, Whom, when you found no call for their assistance, You taught rebellion; and disarm'd the State. H. Priest. U—rim, and Thu—mim, every various rite Of our mysterious law, we tried, in vain: No answering God envoic'd the sacred vail, No sign propitious, snatch'd th'accepted fire, 'Twas all blanc silence—all, portentous gloom— The half burnt offering smoak'd, in beamless flame, Drops of cold sweat bedew'd my lifted hands, The rising pavement heav'd against my foot; A sighing wind, groan'd, bodeful, from within, The curtains trembled, and the lamps expir'd. Jonath. Oh, horrid!—deprecate, thou reverend Seer! Th'impending frowns of Heaven—a Monarch, sav'd, Shall kneel, to thank thy prayer, and hail thee, blest. Saul. When suppliant Princes kneel, to pamper'd Priests, The mitre hides the crown—degenerate boy! Kings, who, themselves, want props, support no State.— Abner, yet, mine—and Gilead's captains firm, With their unshaken thousands, aid my cause— Priest, let thy trumpets sound sedition's call, Mine shall rise, shriller, and be heard to Heaven; For, 'tis thy cause, O Heaven! for which I fight.— Away—go, kneel—pray hard for my destruction, Then, Heaven, to cross your hopes, may bless my arms. H. Priest. No—when, from battle, Saul returns, with life. Say, by my voice, th'Eternal never spoke— Then, be the death, thy doom, reserv'd for me! Saul. Oh! greatly hinted! all thy curses fall, Redoubled, on my head, if thou not diest, A punish'd traitor, in the army's view, That day, when I return with conquest home. Enter Abner. Abner, thou com'st, at wish—See the High Priest Committed to the care of watchful guards; My victory, or death, decides his fate. [Abner nods to two soldiers, who seize the High Priest. H. Priest. Ah! Prince—What man can do, thy courage will. But man, against his Maker, strives in vain.— [Exit guarded. Abner. Let the King live for ever,—let his foes Fall, and be crush'd, beneath his virtues' power, Till he looks round, upon a smiling world, And every eye, that meets him, owns him Lord. Ranging, this morning, o'er the neighbouring hills, In a high cave, on Endor's craggy side, Deep, in the clifted rock, retir'd from day, Sleeping, I took this sorceress; taught her power, By oft-hurt shepherds, who, in vales, beneath, Tending their fleecy care, had felt her spleen. Saul. Hag! when thou heard'st of thy dark sister's fate, How didst thou dare to bid thy flattering hope Cherish a thought of life, plung'd in an art, Baleful, polluted, horrible, and black, With mystic bloodshed, and with midnight spells? Witch. Oh, spare my worthless life, a nameless wretch Dependent on a mistress, who compels Th'infernal powers, themselves, to serve her will, And chains up life and death, to wait her call. Saul. Where does the death-devoted mischief dwell? Witch. Safe, and far hid, within that dreadful cave, Lie cells, which shadowy forms, at midnight, skim, Fill'd, with thin yellings, and faint screams of ghosts, Constrain'd to measure earth's remotest bounds, And rob the graves of Kings, to feed her fires. Saul. What can her power perform? Witch. What can it not?— If, from the front of heaven she lur'd the stars, The trembling fires, obedient to her charms, Wou'd, swift descending, leave their darken'd sphere, And stream new daylight on the wondering world. Or, if the silent realms of starting Death Hear her known call, strait, from the bursting tombs, Unbodied dust resumes the summon'd shape, And leaps to life, connected, for her aim. Saul. Abner, my soul takes fire! this, if she can, Blessing my hope, she claims my mercy, too.— [To the Witch.] Tell me, again—can she compel the dead? Jonath. Alas! what dreadful purpose shakes the King? Saul. Be hush'd—nor intercept th'important sound. Witch. Bow'd, o'er a bursting tomb, I've seen her stand, And breathe new life, through the unjointed dust, Till every atom heav'd, with ent'ring soul. Saul. As thou would'st live, conduct me to her cell, And open all its windings, to my tread. Abner. Oh! think! dread Sovereign! think!—what rashness this! To trust th'infernal reach of her revenge! Think, by whose late command, her partners fell, Think, what a direful diff'rence will be found, 'Twixt mortal courage, and th'elusive force Of spirits, bodiless, yet cloath'd with form! Saul. Did the bow'd cedars, when broad Lebanon Bends, like the waving corn, nor feel the wind. Now, by that aweful Pow'r, which priests profane, Which is, and must be, yet what none can know, Which fills all space, and glows, in every star, Uncircumscrib'd by narrow human bounds! Too great for vengeance—and too great for change! By the mysterious darkness of that name, Whose felt idea fills (not frights) the soul, I will not be withheld.—Samuel shall rise: That proud condemner of his master's mercy! That Prince of Priests!—that tasker of his God!— Samuel shall rise; and, from th'all-humbling grave, Forgetful of his now forsaken craft, Tell me the will of Heaven, against his own. Jonath. May Heaven avert th'attempt! Abner. It is a thought, From which Imagination, shuddering back, Rolls inward, and repels th'advancing blood. Saul. Teach thy replenish'd veins to boil, like mine; Call burning Indignation to thy aid, And having felt the priest, defy the fiend. —Lead on— Witch. Swear first, this done, to save my life. Saul. Else, may that trembling earth his ghost shall cleave, Swallow me quick, while his pale spirit's grasp Chills me to death, amidst his airy arms. [Going out, meets Jessida. Jessid. [Kneeling.] Mercy, great King! Saul. Away—Thy brother's guilt Blots out thy virtues—Hold me not—'Tis Fate Now calls me, and I hear no idle prayer. [To Jonath.] Stay—thy calm blood would freeze, to follow me; On thy allegiance, I command thee, stay: Nor, for thy life, presume to quit the camp— Love, and the warm embrace of smiling beauty, Befit thee better than these dauntless visits To death's dim shadows, thro' the midnight glare Of un-embodied seemings.—Abner, along. [Exeunt Saul, Abner, Witch, and guards. Jessid. Whither so fiercely tends thy angry father? Jonath. Soul of my life's best wishes—lovely Jessida! Sweet sister of my friend! thou all, that nature Best pleas'd, could form, and all that art could polish! He goes, forsaken by the Priests, and Heaven, To learn his fate from hags and magic spells. Jessid. What fate?—what hags?—what magic can he find? Methought, th'unhappy Monarch look'd distraction. Jonath. He seeks, on Endor's side, a witch's cave, Where, late— Jessid. Ah! speak again—didst thou say Endor? Jonath. Endor,—my gentle love. Jessid. Then I am lost— Read that—and learn my errand, and my fate. Jonath. [Reads.] 'Hid, among Endor's caves, this messenger ‘Will find me, with thy answer.—Press the King ‘To join my followers to his army's aid; ‘Divided from the foe, we wait his call. —Oh, David!—what a danger to thy life; Or period to thy virtue! Jessid. Tell me, Prince, Have I been lov'd? or have thy arts deceiv'd me? Jonath. Why dost thou ask a truth, thou know'st too well? Jessid. Oft thou hast told me, that thy willing heart Sigh'd for some soft command, to prove my power. Jonath. Oh! snatch me, Death! for ever, from these eyes, When I dispute thy will.—Resistless innocence Smiles, at thy harmless heart; and each soft wish Is whiten'd, in its rising. Jessid. Let thy feet, Swifter than eagles, (thou art fam'd for speed, And first in every race of love and virtue) Let thy befriending feet make haste, and save him. Jonath. Alas! thou heardst the twice renew'd command, The Father, and the King—have fix'd me here. Jessid. Go—there is nothing in this world but wrongs. Oh, Jessida! deceiv'd, unhappy, Jessida! Since he is false, there ne'er was truth in man. Cruel! what hours hast thou not wish'd away, To urge this trial of a faith thou hadst not? Oh, that I could divest me of my sex, And, borrowing a delusive form like thine, Fly to the wilds of Idumæa's hills, And hide me among rocks, more soft than man. Jonath. Peace to thy gentle breast! Terror's false forms Disturb that downy seat of love and joy: Teach my tormented thoughts to start some hope, Timely to save thy brother, and my friend; Yet shun to disobey my jealous father. Jessid. Father, and friend, and brother! All are, now, Shadows of empty sound—and vain deceivers. Ah! why was our obscure, unbusied, life, Thus painfully exchang'd for proud distinction? Till the false glories of a court unbless'd us, Hours after hours, years after years smil'd on, And every hour, and every year was happy! Quiet, and truth, and peace, and plenty, found us, Converse, and music, mirth, and thought, and freedom, Lighten'd our leisure, and made time seem shorter. Life was, then, lovely, without eminence; Now, in its eminence, 'tis all unlovely. Jonath. Why dost thou waste thy cares, in fruitless grief, When thou shou'dst lend thy thoughts, to aid my meaning? Jessid. Cold and ungrateful! Now thy summon'd soul Should rush, to act the duties of a friend, Thou, with a wily statesman's feeble craft, Find'st out new salvo's for reluctant will; And, while my David dies, form'st schemes, to save him. Lend me a guard, disguise me into man, If woman's truth consists with that resemblance, I will, myself, go warn him—one short hour Suffices, and I save him. Jonath. Not, for the world! Alas! thou know'st not, that, beneath yon mountain Elon, the fierce Philistine, spreads his camp; There, intercepting thy too slow advance, He blasts my hopes in life, and thy dear purpose. The End of the First Act.</field>
+   </doc>
+</add>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Collot, Georges-Henri-Victor, 1750-1805</field>
+      <field name="author_facet">Collot, Georges-Henri-Victor, 1750-1805</field>
+      <field name="author_sort_facet">collot georges henri victor 1750 1805</field>
+      <field name="author_text">Collot, Georges-Henri-Victor, 1750-1805</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1820's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/amstudies/uvaPageBook/tei/z000000032.xml</field>
+      <field name="date_indexed_facet">201909240348</field>
+      <field name="date_text">1826</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Westward Exploration</field>
+      <field name="digital_collection_text">Westward Exploration</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:19085</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">A journey in North America, containing a survey of the countries watered by the Mississippi, Ohio, Missouri, and other affluing rivers ; with exact observations on the course and soundings of these rivers, and on the towns, villages, hamlets and farms of that part of the new-world, followed by philosophical, political, military and commercial remarks and by a projected line of frontiers and general limits, illustrated by 36 maps, plans, view and divers cuts</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">Mellon, Paul -- Library -- Personal copy</field>
+      <field name="subject_facet">Mississippi River Valley -- Description and travel</field>
+      <field name="subject_facet">Missouri River Valley -- Description and travel</field>
+      <field name="subject_facet">Ohio River Valley -- Description and travel</field>
+      <field name="subject_facet">Clark, William, 1770-1838 -- Library -- Personal copy</field>
+      <field name="subject_text">Mellon, Paul -- Library -- Personal copy</field>
+      <field name="subject_text">Mississippi River Valley -- Description and travel</field>
+      <field name="subject_text">Missouri River Valley -- Description and travel</field>
+      <field name="subject_text">Ohio River Valley -- Description and travel</field>
+      <field name="subject_text">Clark, William, 1770-1838 -- Library -- Personal copy</field>
+      <field name="title_display">A journey in North America, containing a survey of the countries watered by the Mississippi, Ohio, Missouri, and other affluing rivers ; with exact observations on the course and soundings of these rivers, and on the towns, villages, hamlets and farms of that part of the new-world, followed by philosophical, political, military and commercial remarks and by a projected line of frontiers and general limits, illustrated by 36 maps, plans, view and divers cuts</field>
+      <field name="title_facet">journey in north america containing a survey of the countries watered by the mississippi ohio missouri and other affluing rivers</field>
+      <field name="title_sort_facet">journey in north america containing a survey of the countries watered by the mississippi ohio missouri and other affluing rivers</field>
+      <field name="title_text">A journey in North America, containing a survey of the countries watered by the Mississippi, Ohio, Missouri, and other affluing rivers ; with exact observations on the course and soundings of these rivers, and on the towns, villages, hamlets and farms of that part of the new-world, followed by philosophical, political, military and commercial remarks and by a projected line of frontiers and general limits, illustrated by 36 maps, plans, view and divers cuts</field>
+      <field name="year_display">1826</field>
+      <field name="year_facet">1826</field>
+      <field name="year_multisort_i">1826</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:19085&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:19085&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Collot, Georges-Henri-Victor, 1750-1805&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;collot georgeshenrivictor 1750 1805&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;A journey in North America, containing a survey of the countries watered by the Mississippi, Ohio, Missouri, and other affluing rivers ; with exact observations on the course and soundings of these rivers, and on the towns, villages, hamlets and farms of that part of the new-world, followed by philosophical, political, military and commercial remarks and by a projected line of frontiers and general limits, illustrated by 36 maps, plans, view and divers cuts&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;journey in north america, containing a survey of the countries watered by the mississippi ohio missouri and other affluing rivers&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1826&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1826&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Collot, Georges-Henri-Victor&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1750&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1805&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A journey in North America, containing a survey of the countries watered by the Mississippi, Ohio, Missouri, and other affluing rivers :&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;with exact observations on the course and soundings of these rivers, and on the towns, villages, hamlets and farms of that part of the new-world, followed by philosophical, political, military and commercial remarks and by a projected line of frontiers and general limits, illustrated by 36 maps, plans, view and divers cuts&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Paris&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for Arthus Bertrand&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1826&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="LC call number"&gt;F353 .C72&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;F353 .C72 1816&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3545850-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;o07750212&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;2 v. ; 27 cm. + atlas (36 pl. : ill., maps ; 35 cm.) (Text bound in 1 volume; in slipcase with atlas)&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Mellon, Paul -- Library -- Personal copy&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Mississippi River Valley -- Description and travel&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Missouri River Valley -- Description and travel&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Ohio River Valley -- Description and travel&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Clark, William, 1770-1838 -- Library -- Personal copy&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Text was printed simultaneously in both English and French, in 1804, but was not published at that time because of the author's death. The sheets were purchased by M. Bertrand, who "reserved 100 copies of the English and 300 of the French edition, and made waste paper of the remainder." -- Cf. Auction house description which is laid in slipcase.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;SPECIAL COLLECTIONS: Text bound in 1 vol., without t.p. for 2nd volume. Contemporary marbled boards, with calf backstrip and corners. Pencilled note tipped in text volume: "This book and the Atlas accompanying it are very rare, since only one hundred copies in English were sold by the notary in charge of Collot's estate. See page iii. This copy came from the library of M.L. Clark and was formel=rly the property of William Clark of the Lewis and Clark Expedition." Another pencilled note on front flyleaf "The Atlas to this work is No. 110 of the library catalogue of M.L. Clark. Bookplate of Henry H. Vail. Paul Mellon bequest, May 12, 2000.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;covplace&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Mississippi River Valley&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covplace&gt;</field>
+      <field name="desc_meta_file_display">&lt;covplace&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Missouri River Valley&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covplace&gt;</field>
+      <field name="desc_meta_file_display">&lt;covplace&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Ohio River Valley&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covplace&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;A Journey in North America, Containing a Survey of the Countries Watered by the Mississippi, Ohio, Missouri, and Other Affluing Rivers&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2003&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2003 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 3 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-WestwardExplor"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext"/>
+   </doc>
+</add>

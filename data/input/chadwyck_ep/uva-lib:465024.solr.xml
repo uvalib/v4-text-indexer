@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Duck, Stephen, 1705-1756</field>
+      <field name="author_facet">Duck, Stephen, 1705-1756</field>
+      <field name="author_sort_facet">duck stephen 1705 1756</field>
+      <field name="author_text">Duck, Stephen, 1705-1756</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1730's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.0593.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1737</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:465024</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Vision ; A Poem on the Death Of Her Most Gracious Majesty Queen Caroline. By Stephen Duck</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 18th century</field>
+      <field name="subject_text">English poetry -- 18th century</field>
+      <field name="title_display">The Vision ; A Poem on the Death Of Her Most Gracious Majesty Queen Caroline. By Stephen Duck</field>
+      <field name="title_facet">vision</field>
+      <field name="title_sort_facet">vision</field>
+      <field name="title_text">The Vision ; A Poem on the Death Of Her Most Gracious Majesty Queen Caroline. By Stephen Duck</field>
+      <field name="year_display">1737</field>
+      <field name="year_facet">1737</field>
+      <field name="year_multisort_i">1737</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:465024&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:465024&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Duck, Stephen, 1705-1756&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;duck stephen 1705 1756&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Vision ; A Poem on the Death Of Her Most Gracious Majesty Queen Caroline. By Stephen Duck&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;vision&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1737&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1737&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Duck, Stephen&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1705&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1756&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Vision&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Poem on the Death Of Her Most Gracious Majesty Queen Caroline. By Stephen Duck&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for J. Roberts ... and J. Jackson [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1737&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp1201&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;7 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Vision&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Poem on the Death Of Her Most Gracious Majesty Queen Caroline. By Stephen Duck&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 12 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE VISION. A POEM. 'Twas on the fatal Day that claims a Sigh From ev'ry Heart, a Tear from ev'ry Eye; Ere Albion's Joys were wholly snatch'd away, Or Britons for their Queen forbid to pray: While Hope and Fear contended in my Breast, Intruding Sleep my weary Eyes opprest: Wrapt in a Vision,—where I cannot say, Nor can the Muse the glorious Place display: It seem'd some blessed Angel's happy Sphere, (Or blessed Angels might inhabit there;) For sure the beauteous Scene did far excel, What Heathen Bards of blest Elysium tell. A Cloud of Glory shone before my Face, Which shed refulgent Rays around the Place, And scatter'd Colours, various to behold, Here blushing Rubies, there the burnish'd Gold. As, wond'ring at the Scene, I gazing stood, (Struck with religious Awe, that chill'd my Blood) I saw Britannia, with dejected Air, Pale was her Face, dishevell'd was her Hair: Her trembling Hand had dropt the Laurel Bough, A mournful Cypress wreath'd her pensive Brow: Before the shining Cloud she prostrate lay, And thus she pray'd, or seem'd, at least, to pray. “Almighty Father! whose Commanding Pow'r, Can hasten, or adjourn, the fatal Hour; Can lengthen, or contract, a Monarch's Reign, Or raise the silent Dead to Life again: Oh! stop thy threat'ning Arm, and spare awhile One sacred Life, so precious to my Isle. For Royal Carolina's Health I sue, The best of Sov'reigns, and of Subjects too: In ev'ry State her Goodness has been prov'd, When rul'd, obedient; and when ruling, lov'd. Securely blest, beneath her gentle Sway, 'Tis Happiness to serve, and Pleasure to obey. Nor fewer Charms adorn her private Life, The tend'rest Mother, most submissive Wife; Who never yet her Consort disobey'd, By Honour, Duty, Love, and Virtue sway'd: In Virtue's Path she constantly proceeds, By Virtue's Rule she measures all her Deeds. Ev'n now, tho' tortur'd with severest Pains, Her patient Tongue adores Thee, not complains. To Thee her ardent Pray'rs and Praises tend, On Thee, on Thee alone, her Hopes depend; Firm Faith and Patience fortify her Mind, To live, indiff'rent; or to die, resign'd. Yet spare her longer from her heav'nly Throne; Spare her, for others Good, tho' not her own. Look down, and see her duteous Children's Tears; Look down, and hear the best of Monarch's Pray'rs: See, round her Bed her tender Offspring kneels, While ev'ry Pang her Royal Consort feels. Nor only They intreat Thee for her Breath, Three Kingdoms beg Thee to avert her Death: Religion, Learning, Art, and Science fear To find a Period, and a Grave with Her. For Her, the Widows weep a briny Tide; For Her, whose Bounty has their Loss supply'd: For Her, unhappy, helpless Orphans mourn, And shed more Tears than o'er their Parents Urn; Their Parents Death they need no longer grieve, Might Caroline, their better Parent, live; Who feeds the Hungry, succours the Distrest; And from Oppression rescues the Opprest. Ev'n in the Height of Power her Power was shown In Acts of Love and Mercy like Thy own. Oh! were She like Thee more in ev'ry State; Oh! were She, were She, like Thee, free from Fate! But That, alas! is not to Mortals giv'n; Yet surely This is in the Grant of Heav'n: Increase her Days, restore her native Bloom, Nor crop the Royal Fruit till Autumn come. Few are the Years to Mortal Man assign'd, Ah! let not Her—to fewer be confin'd: But stop thy threat'ning Arm, and spare awhile Her sacred Life, so precious to my Isle.” She said: The Tears ran trickling as she spoke; While from the radiant Cloud these Accents broke. “Britannia, cease thy fruitless Tears, and know, One certain Day is fix'd for all below: That Day permit to Heav'n; for Heav'n alone Knows when the noble Work of Virtue's done. Few are the Years, you say, of human Kind; But Years add nothing to the perfect Mind. Improperly, by Time, you count the Date; 'Tis virtuous Actions make a Life complete. Suppose the Sun, that chears your earthly Clime, Should run his destin'd Course in half the Time, Performing all the Offices of Light, Of Heat, of circling Seasons, Day and Night: Say, Could you think his Race too swiftly run? Or, Could you call him an imperfect Sun? Heav'n's greatest Lord, that over All presides; Who rules that Sun, and all his Motions guides; In Length of Years an Equal ne'er survey'd; But is not therefore worshipp'd, or obey'd: His Goodness only claims that Tribute due; His Goodness, not his Age, tho' ever New. If then, your gracious Queen, tho' few her Days, Has practis'd ev'ry Virtue worthy Praise, Worthy immortal Bliss: What can she more, Tho Heav'n again her former Health restore? Tho' Heav'n a Thousand added Years bestow, Her Soul can be no perfecter below. 'Tis Time She now should quit her mortal Throne, To change an Earthly for a Heav'nly Crown. And, see! She mounts Triumphant to the Skies, Of all her Virtues reaps the glorious Prize!” Starting to hear the fatal Sentence spoke, With trembling Joints, and streaming Eyes, I 'woke. When strait I hear Complaints from ev'ry Tongue, On ev'ry Face a Cloud of Sorrow hung: Sad Sighs and Floods of fruitless Tears bemoan The Noblest Queen that ever grac'd a Throne. FINIS.</field>
+   </doc>
+</add>

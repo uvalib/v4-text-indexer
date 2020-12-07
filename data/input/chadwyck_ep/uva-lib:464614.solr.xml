@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Hunnis, William</field>
+      <field name="author_facet">Hunnis, William</field>
+      <field name="author_sort_facet">hunnis william</field>
+      <field name="author_text">Hunnis, William</field>
+      <field name="composition_era_facet">16th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.2271.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">1550</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464614</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">Certayne Psalmes chosen out of the Psalter of David ; and drawen furth into Englysh meter by William Hunnis</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">Certayne Psalmes chosen out of the Psalter of David ; and drawen furth into Englysh meter by William Hunnis</field>
+      <field name="title_facet">certayne psalmes chosen out of the psalter of david</field>
+      <field name="title_sort_facet">certayne psalmes chosen out of the psalter of david</field>
+      <field name="title_text">Certayne Psalmes chosen out of the Psalter of David ; and drawen furth into Englysh meter by William Hunnis</field>
+      <field name="year_display">1550</field>
+      <field name="year_facet">1550</field>
+      <field name="year_multisort_i">1550</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464614&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464614&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Hunnis, William&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;hunnis william&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Certayne Psalmes chosen out of the Psalter of David ; and drawen furth into Englysh meter by William Hunnis&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;certayne psalmes chosen out of the psalter of david&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1550&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1550&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Hunnis, William&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Certayne Psalmes chosen out of the Psalter of David&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;and drawen furth into Englysh meter by William Hunnis&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Imprinted ... by Jhon Hertforde, for Jhon Harrington [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1550&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp1874&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;[60] p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Certayne Psalmes chosen out of the Psalter of David&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;and drawen furth into Englysh meter by William Hunnis&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 43 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Certayne Psalmes of Dauid, drawen into Englyshe meter. The .li. Psalme. [Haue mercye lorde, vpon my soule] Miserere mei deus. Haue mercye lorde, vpon my soule thy goodnes me restore, And for thy mercy infinite my synne thynke on no more. From wickednes lorde wasshe thou me and clense me from my synne, For I confesse my euyll lyfe that I before was in. Onlye to the haue I synned and done yll in thy syght, That in thy wordes whe men the iudge myghtest ouercome by ryghte. Beholde I was begotte in synne and so my mother bare me Wherfore I clayme thy sauynge helthe Mercy good lorde and spare me. That I maye render vnto the truthe in the inwarde parte Then secretely I shall receiue thy wysedome in my hart. With ysope lorde thou sprinkell me And so shall I be cleane, And whyter thus shall I be made then euer snowe hath ben. Replenyshe me with ioye and myrth my brused bones restore. From my mysdedes turne thou thy face In mynde haue them no more. A parfyt spyryte and a pure harte O god renewe in me, And caste me not out of thy syght For myne iniquitie. Geue me the comfort of thy helpe And stablyshe me for aye And I shall then, the wicked menne conuert vnto thy waye. Delyuer me from bloude gylte thou god my helth alwayes Thou shalt open my lyppes to speake my mouth shall shewe thy praise Burnt offeringes y? wouldest none haue elles I had geuen it the A broken and a contrite harte as it that pleaseth the. To Syon lorde be good agayne after thy godly wylle And lette thy kyndnes, there abyde thy promys to fulfyll. Then sacrifices of rightousnes thou lorde wilt well regarde And they shall offer their bullockes thyne aulter to rewarde. Praise we the father and the sonne and eke the holy ghost As hath ben is and styll shalbe in euerye age and coste. The .lvi. psalme. [Be mercyfull to me o god] Miserere mei deus quoniam. Be mercyfull to me o god myne enemies withstande Whiche alwayes go about to seke my lyfe to haue in hand For they runne dayly to and fro my body to annoye And manye they in number be that woulde my soule destroye And thoughe sometyme I am afrayde Yet do I trust in the Wherefore o lord, I wil not feare what flesh can do to me. My wordes alwayes they do mistake thus for to do me yll, Often they do ymagen howe My lyfe and soule to kylle. They cleue and hold, as thick as burres and kepe thus on a thronge. They marke the steppes, that I do vse and all to do me wronge. O lorde for this their wyckednes thou wylt them sone confounde And in thy rage thou shalt them cast hedlonge vnto the grounde. My commynge in, and goinge out is knowen, to the o lorde And eke my teares, be in thy syght thy worde doth it recorde. When so that I shall calle to the thou wylt guyde me aryghte, So that my foes shall haue no power But runne and take their flyght My myrth and ioye is in the word of god, and parsons thre In hym I trust and wyll not feare What man can do to me. The vowes of thankes and rightousnes to the lorde, wyll I geue My tonge shall neuer stynt thy prayse so longe as I here lyue For thou hast kept my soule from death and eke my fete from fallynge That I may walke before thy face in the lyght, of the lyuyng. Prayse we the father. &amp;c. The .lvii. Psalme. [Be mercyfull to me o god] Miserere mei deus. Be mercyfull to me o god be mercyfull to me, My fleshe, and hart, my soule and minde putteth their truste in the. Under the shadowe, of thy wynges there shall be my defence Untyll this time of tyrannye be paste awaye from hence I call vnto the moost iust god whyche made both sea and lande He will perfourme his seruauntes cause that he dydde take in hande He shal send downe from heauen aboue his stretched arme in myghte And wyl me saue from their reprofe whiche woulde do me vnryght God shall sende furth his mercy great and therwith wyll me arme And he shall stoppe the lyons mouthes to saue my soule from harme For it doth lye amonge those men that be so set on fyer Whose teth are speares, their tonges be wordes so hote is their desyre. But set thou vp thy selfe o god and let thy power be knowen. So that the wycked men in earth may quyte be ouerthrowen They lye in waite, and haue layde furth a nette to take me in A pytte also they made for me But they be caught therin. This is the goodnes of my god Suche comfort to vpraise My hart alwaye shall ready be to synge, and to geue prayse Awake my lute and eke my harpe and geue forth pleasaunt sounde And I shall praise the lorde with you as I therto am bounde I wyll gyue prayse to the o god thy people shall it here And I shall synge vnto thy praise amonge them euery where Thy mercyes greate, excede the heuyns in bredth and eke in lengthe. euyn as thy truth doth passe the cloudes in beuty and in strength. O god, exalte thy selfe therefore aboue thy heauyns hye, Thy glorye is aboue the earth no man can it denye. Prayse we the father, &amp;c. The .c.xiii. psalme. [O all ye seruauntes, prayse the lorde] Laudate puen. O all ye seruauntes, prayse the lorde Prayse ye his holy name, And euerye thynge that beareth lyfe Lykewyse do ye the same. Blesse ye the name, of god the lord and prayses in great store Be vnto god and Christe his sonne From henseforthe euermore. From the vprysynge of the sonne vntyll his goinge downe Prayse ye the lorde in euery place both in the feilde and towne. The lorde is hyghe aboue all landes his glory passe the heauens, Lyke as the sonne doth passe all lyghte with clernes of his beames. Who may be lyke vnto our god That hath his seate on hye, Whiche wyll not let to see the thynges That on the earth doth lye. The symple men he doth vprayse and settes them vp alofte Euyn with the prynces of his flocke these be his doynges ofte. And eke the woman he hath made that longe before was barren Nowe she remayneth in her house a glad mother of chyldren. Prayse we the father. &amp;c. The .c.xvii. psalme [O all ye landes, praise ye the lorde] Laudate dominum. O all ye landes, praise ye the lorde that in the earth doth byde And euerye thinge that there in is throughout the world so wyde His mercye is to vs alwaye increasyng more and more And eke his truth shall styll remayne praise ye the lorde therfore Prayse we the father, &amp;c. The .c.xlvii. psalme. [How good it is to praise the lord] Laudate dominum. How good it is to praise the lord no tongue can it expresse A ioyfull and a pleasaunt thinge the lordes praise is doutles The lord doth buylde Ierusalem So that it shall remayne And the out castes of Israell he bryngethe home agayne The lord doth heale, the contrytt hatt and medecyne doth hym gyue And in his sycknes, thus sayth he, thou shalt not dye, but lyue The sterrys also he dothe number and callyth them by name, And euerye one in order due, doth ansuer to the same Great is our god, &amp; eke his power hys wysdome hath no ende, He settyth vp the meke in hart, the wyckyde do contende, O synge vnto the lord our god, a songe of thanckfulnes Synge prayse vpon the tunyd harpe hys goodnes to expresse For he doth hyde y? heuens with cloudes that no man may it se And doth prepare the rayne for earth to water the plant and tre. And on the hylles that be so hye he maketh grasse to growe And al is for the vse of man such kyndenes he dothe showe And eyke the bestes, that be in feilde he helpeth, them at nede And the yonge rauyns, that call on hym he doth them al wayes fede As in the strengthe of horsys great the lord hath no delyght Nor neyther in the legges of men that be so full of myght The lordes delyght, is in those men, that feare, and do hym serue, And they whyche put their trust in hym, for mercye shal not sterue Ierusalem, Ierusalem praise thou the lorde aboue, And thou Syon do not forget his mercy and his loue. For he hath fortified thy gates With barres that be ryght suer And he in the hath blest thy sede for euer to endure: And in thy borders, he hath set peace in euery place, Wyth grayne and corne he hath the fild of him thou founde suche grace. He sendeth furth his holy worde the worlde to runne aboute, That euery m? myght know his power and therin haue no dout He gyueth snowe whyter then woll as we oftene do se. And skatereth the hory frostes lyste ashes made of tree. He casteth forth his yse abrode Whose colde no man maye byde Againe his worde sone doth them melte throughout the worlde so wyde To Iacob then the lorde dydde shewe hys worde both pure and right And Israel his ordynaunce to kepe both day and nyght He hath not delt with any lande suche kyndnes for to shew Neither his wordes nor yet his lawes the he then doth not knowe. Praise we the father, &amp;c. The songe of zacharias. Benedictus dominus deus Israel The lorde our god of Israel Be blessed now therefore That hath his people visited with mercy euermore And hath lyft vp his sauynge helth that is both fyrme and stronge To Dauyd who hys seruaunt is and all that of him spronge As god dyd speake by his prophets Euen synce the worlde begonne Whose sayinges true shall styl remaine vntyll the worlde be done. That we shulde thus be saued than from all oure enemyes handes And from those gyantes crueltye that woulde vs tye with bandes. This shall he do whiche promysed Our fathers mercy great And wyll remember his couenaunte Of promys that is swete And eke the othe, performe will he whiche longe before was sworne Unto our father Abraham before that we were borne That we beynge delyuered out of the wycked hande Myght serue the lorde in loue and feare as well by sea as lande. In holynes and rightousnes abhoryng bate and stryfe Before the lorde and Christe his sonne the dayes of all our lyfe. And then thou chylde shalt called be the prophete of an hye For thou shalt go before the lorde his worde to preache truelye. And to geue knowledge of his health Unto his people deare, For the forgiuenes of their synnes that they before in were. And through the mercy of our god whereby the daye doth springe That from an hye, doth vysyt vs and lyghte on earth doth brynge That they whiche sytte, beneth in darke and lyght, ther can none se Myghte se to guyde their feete in peace that they from death myght fle. Prayse we the father. &amp;c. The songe of the thre chyldren. Benedicite omnia opera. O all ye workes, in heauyn and erth, and angelles in due order, Speake ye good of the lorde our god and set hym vp for euer. O ye heauyns and waters hyghe and powers great perseuer To speake good of the lorde our god and set him vp for euer. O sunne and mone that is so bryght and sterres of heauen endeuer, To speake good of the lorde our god and set hym vp for euer, O ye showers ye dewes and wyndes that goeth no man knoweth whether Speake ye good of the lord our god and sette hym vp for euer. O ye fyer and heat feruent eke ye wynter and sommer Speake ye good of the lorde our god and set him vp for euer Ye froste and colde, with yse and snowe praise ye the lorde together And speake good of his holy name and set him vp for euer. O nyghtes and dayes lyght &amp; darkenes adioynynge eche together Speake ye good of the lorde our god and set him vp for euer. O mountaynes hylles, &amp; ye grene wods that fruite in tyme doth render Speake ye good of the lorde our god and set him vp for euer. O all ye welles, with seas, and fluddes and all that mouyth in water Speake ye good of the lord our god and set hym vp for euer. O all ye cattell beastes and foules bearynge heare, or fether, Speake ye good of the lorde our god and set hym vp for euer. O Israell prayse thou the lorde And eke ye men, and chylder Speake ye good of the lorde oure god and set him vp for euer: Ye preistes and seruauntes of the lorde alwayes do your indeuer: To speake good of the lorde our god and set him vp for euer. Ye soules of men of meke in harte from this do not dysseuer To speake good of the lorde our god and set him vp for euer: O Ananias Azarias and Mysaell together Speake ye good of the lorde oure god and set him vp for euer Prayse we the father and the sonne and eke the holy ghoste As hath ben, is, and styll shalbe in euery age and coste Finis A THANKESGEVINGE TO god for delyuerynge from aduersitie. Ecclesiastus the laste. I thanke the lorde &amp; god my kynge And praise the Christe my sauyour Early and late whiles I here lyue Alwaye to exalte thyne honoure. I wyll yelde prayse vnto thy name For thou hast bene my buckeler Against those men that sought my lyfe Thou art my ayde and soccoure And hast preserued my body Ir? them that thought to destroy it With their false and trayterous tonges Yet coulde they nothynge anoye it Thou gauest me the vpperhande Of them that rose vp against me So that my foes could find no cause Of right to triumph ouer me. When I was compassed rounde about And no man by that coulde helpe me I loked backe but none was there that then myght helpe or succour me Then lord thought I vpon thine actes And had in mynde thy great mercye Namely of olde howe thou doest them Preserue that put their truste in the Thus lyft I vp my prayer then and prayed for delyueraunce Thou lorde dyddest heare me by and by Wherof I had perseueraunce, Therfore wil I acknowledge the So longe as lyfe doth in me byde I wil not stynt thy name to praise Throughout the worlde so wyde: Finis. The complaynt of a synner. Alas wretched synner that I am Comfortles and of men forsaken A synner into the worlde I came From whence I knowe I shalbe taken Yet of my synfull lyfe amendynge to the I crye O Lorde swete Iesus. Miserere mei deus. I haue offended both heauen and erth Nowe whether shall I go or turne me I haue transgressed from my byrthe The lawes of god and that greuouslye To whome shulde I for succour flye But vnto the o lorde swete Iesus Miserere mei deus. To heauen I dare not lyft vp mine eyes I haue so sore synned against it Yet lorde thy seruaunt do not dispise Whiche wyllyngly doth nowe repent it Al sinnes hast thou forgeu? &amp; graunted To him in faith that doth cry thus Miserere mei deus. In earth I fynde no place of defence I haue ben so noysome vnto it Shall I dispaire in this my offence Then am i dampned God forbyd it My soule shal cry in the lordes presence Euermore continuallye thus Miserere mei deus. Mercy is with god my sauyour And he onlye shalbe my refuge He wyll not dispice his creatoure Ne yet forsake his owne ymage But gyueth increase of knowledge To hym that in fayth doth stil cry thus Miserere mei deus. FINIS.</field>
+   </doc>
+</add>

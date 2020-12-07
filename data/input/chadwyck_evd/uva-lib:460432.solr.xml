@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Foote, Samuel, 1720-1777</field>
+      <field name="author_facet">Foote, Samuel, 1720-1777</field>
+      <field name="author_sort_facet">foote samuel 1720 1777</field>
+      <field name="author_text">Foote, Samuel, 1720-1777</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1980's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V2.0920.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1983</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460432</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Wilkes ; An Oratorio</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 20th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 20th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Wilkes ; An Oratorio</field>
+      <field name="title_facet">wilkes</field>
+      <field name="title_sort_facet">wilkes</field>
+      <field name="title_text">Wilkes ; An Oratorio</field>
+      <field name="year_display">1983</field>
+      <field name="year_facet">1983</field>
+      <field name="year_multisort_i">1983</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460432&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460432&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Foote, Samuel, 1720-1777&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;foote samuel 1720 1777&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Wilkes ; An Oratorio&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;wilkes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1983&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1983&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Foote, Samuel&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1720&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1777&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Wilkes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;An Oratorio&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York, London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Garland Publishing, Inc.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1983&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872788-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv20920&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Wilkes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;An Oratorio&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 21 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only verse drama inlcuded&lt;lb/&gt;The following play has been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Reproduced by permission of the Houghton Library of Harvard University&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Wilkes: an oratorio.</field>
+      <field name="desc_meta_file_display">Genre: Burlesque.</field>
+      <field name="desc_meta_file_display">Date first published: 1769.</field>
+      <field name="desc_meta_file_display">Date first performed: Unknown.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Square and angle brackets represent additions by the current editor&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">WILKES: An ORATORIO. p. [i]:</field>
+      <field name="fulltext">As Performed at The Great Room in BISHOPSGATE-STREET Written by Mr. FOOTE The MUSIC by Signor Carlos Francesco Baritini. LONDON, Sold by F. Richards, in Bell-Savage Yard; and S. Woodgate, No. 3, Paul's-Alley, St. Paul's Church-Yard. [1769]</field>
+      <field name="fulltext">p. [iii]: Characters in the Oratorio. Doctor TYPO, Mr. HORNE. CREOLE, Mr. BECKFORD. OFFICER, Mr. TOWNSEND. OFFICER, Mr. SAWBRIDGE. PRINTER, Mr. BALDWIN. BOOKSELLER, Mr. WILLIAMS. With proper Attendants, Ballad-Singers, Mob, Choristers, and suitable Decorations.</field>
+      <field name="fulltext">P. [1]: SCENE St. George's Fields. Enter a Company of Middlesex Freeholders. RECITATIVE, accompanied. O come, let us sing unto Wilkes, let us rejoice, and be exceeding glad. For he is the man who hath shewed us great things, and we are the people who read and believe in the works of his hands. p. 2: Enter, to them, Dr. Typo, in the Dress of a Parson. In jovial mirth each hour employ, Let ev'ry heart be crown'd with joy, And ev'ry soul be glad; The glorious day, to-day we sing, And all our songs of freedom bring, For we shall ne'er grow mad. 'Tis Wilkes's birth-day, who can then refuse To spread abroad with joy the gladsome news? Rouse, rouse each soul, to-day aloud proclaim Your Patriot's Firmness, and unsullied Fame. CHORUS. Like jovial souls, With flowing bowls, Our joy around shall spread; On George's plain We'll raise the strain, With Beckf?d at our head. CREOLE. Your spirit's good, with you I'll join my chearful voice; Rejoice, my friends! to-day with rapt'rous souls rejoice. p. 3: SONG. Be merry, O my countrymen! let your hearts be filled with gladness, and chear up your souls with a song. Go your ways into the city with huzzas, and let the day of his birth be as a day of great joy amongst men. CHORUS. For it is he who hath defended us, and not our Twitchers; we are his friends, and the delight of his heart. Therefore we will rejoice with a great noise, and it shall be for a sign that we do not forget him whom our soul loveth, even from one end of the year unto the other. Enter Two Ballad-Singers, accompanied with a Violin. AIR. Come all you jovial souls both far and near, Attend unto my song, and lend an ear; 'Tis of Great Wilkes's birth-day, as you shall understand, Who never feared no man that came from Scottish land. p. 4: The mention of his name, it makes, as we do hear, All wicked ministers to stand in greatest fear: Then let it ne'er be said among you all, I pray, That you forget aloud to sing on Wilkes's day. Besides, as some do know, Lord Bute wou'd him ensnare, For writing of North Britons, as I to you declare; But all their artful schemes could never him dismay, So do not e'er forget to value Wilkes's day. 'Tis true he is in prison, within those walls so strong, But that, as we do understand, will not be long; For in next April month, as for a truth we know, Brave 'Squire Wilkes so stout without those walls will go. So now for to conclude, and end my jovial song, May God the previous life of ‘Squire Wilkes prolong; And send that every one may join to sing his praise, And give him life to see a many more birth-days. CHORUS. We sing of Wilkes's birth-day, as you shall understand, Who never feared no man that came from Scottish land. p. 5: SONG. Wilkes, thou hast been our glory from one tribulation to another. Before the Essay was brought forth, or the North Briton was made, thou wast the man of liberty who defendedst our cause, and stood [!] up in our behalf. CHORUS. Thou turnest Bute to distraction—to distraction—to distraction—to distraction—and again thou sayest, Rise no more—rise no more—rise no more to perplex a free people. RECITATIVE, accompanied. He's conquer'd now, the tyrant's fast in chains; The Scottish laird has sunk beneath his guilt: Pale Sickness smites him with a heavy hand, While Silence keeps his tongue in sad constraint. Thus shall the foes of Wilkes in silence lie, And thus his enemies in horror die. p. 6: Enter two officers belonging to the city, with music, represented as under Mr. Wilkes's window fronting the fields. First officer. Raise ev'ry voice, raise ev'ry song, In highest strains of joy; To Wilkes both truth and love belong, Whose friendship ne'er can cloy. Second officer. Proclaim aloud his praise to-day, The day of Wilkes's birth; In gen'ral chorus let's display New songs with jovial mirth. CHORUS. Into the city let's away, And the gladsome call obey, Filling up the flowing bowl, Toasting ev'ry worthy soul; Drinking health and fresh success, To the Patriot's steadiness. «The two last lines repeated, and exeunt omnes. p. 7: SCENE, The three Tuns, Spitalfields. Enter a Printer and a Bookseller. PRINTER, SOLO. O all ye printers of the land! praise ye Wilkes, bless him, and huzza him for ever. O all ye printers devils, and their agents of whatsoever denomination, praise ye Wilkes, bless him, and huzza him for ever. BOOKSELLER, SOLO. O all ye booksellers, pamphlet-stitchers, and bookbinders, praise ye Wilkes, bless him, and huzza him for ever. AIR. God prosper Wilkes's noble pen, And grant he long may write; For sure he is, of all great men, A worthy able wight. p. 8: He makes the press to go by night, And eke to go by day; So much doth he so well indite, As do our pains repay. Therefore, as men in days of old, When they did wonders great, We will great Wilkes's works unfold, And them communicate. CHORUS. Then let us all as one rejoice, For this is his birth day; Prepare your songs, prepare your voice, His trust he'll ne'er betray. RECITATIVE, accompanied. Fill, fill your glasses fill; prepare in turn To give your toast with generous spirit: Charge to the brim: and now, with hearts unfeign'd, Drink, WILKES. «They drink. p. 9: General CHORUS, with music. 'Tis him we drink; 'tis him our souls approve, Wilkes is the man who first deserves our love. SEMI-CHORUS Hail to the morn! SEMI-CHORUS Hail to the rising day! Let's be jovial; let's be merry while we may! SONG. As for ourselves we will be glad; our hands shall be lifted up in his praise; our lips shall speak of him in the streets, and our tongues shall say good things in his behalf, for he has done much good, and therefore will we do these things, as it is right in our eyes. CHORUS, for two voices. Let Britons sing—let Britons sing—let Britons sing—Britons— Britons sing—let Britons sing— [p. 10:] let Britons sing for ever— for ever—for ever—for ever—let Britons sing for ever. This is a day to be recorded for ever. SCENE changes to Cheapside. Lights in most of the windows, and a croud of people. One of the mob sings, God save great George our— «Here a general hiss, upon which he sings, God save John Wilkes, Esq. Long live John Wilkes, Esq. God save John Wilkes; Send him a life of peace, May his great worth encrease, And may it never cease, God save John Wilkes. SCENE changes again to the inside of the King's-Bench prison. The whole prison illuminated. From the window of Mr. Bingley is hung out, painted in large characters, BINGLEY AND WILKES FOR EVER! p. 11: Enter, one of the prisoners singing, accompanied with a violin. How happy a debtor's life passes; How free from all care and all strife; No treasure he ever amasses; But chearfully spends his whole life. Sing tol de rol lol de rol lol. May Wilkes, our old friend, here continue; His company much we admire; May he and his num'rous retinue, Against the state ever conspire. Sing tol de rol lol de rol lol. Now this is the day of his birth; Huzza! let the tidings round fly; Let's drink in the midst of our mirth, That his memory never may die. Sing tol de rol lol de rol lol. After him, Andrew Attachment. Sing, O my soul! for I am wonderfully exalted above men! My fame, lo! how it is spread from the rising of the sun to the setting of the same; and my heart is exceeding glad on account thereof; for it is even good unto me, and therefore will I sing because of these things. p. 12: SCENE the inside of a printing-house. Enter, a printer. D?n the letter! d?n the press Come and join the drunken mess: This is Wilkes's day! Persecution! What d'ye mean? Drink the King, and drink the Queen; To-day's a day of play. Enter a servant of Andrew Attachment. RECITATIVE. Hell! blood! and death! What not one proof? Know ye not, that the dread public, Now demands, and impatient waits Th'appearance of the North Briton? Haste then to work.— SONG. No work to day We're all for play; So prithee, fool, be quiet! 'Tis Wilkes we drink, While chink is chink, For this is printer's diet. Exeunt omnes. FINIS.</field>
+   </doc>
+</add>

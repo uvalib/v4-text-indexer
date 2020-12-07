@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Oxford University Press</field>
+      <field name="author_facet">Oxford University Press</field>
+      <field name="author_sort_facet">oxford university press</field>
+      <field name="author_text">Oxford University Press</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1970's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.0929.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1974</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459559</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Passion ; - The Ironmongers</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 20th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 20th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Passion ; - The Ironmongers</field>
+      <field name="title_facet">passion</field>
+      <field name="title_sort_facet">passion</field>
+      <field name="title_text">The Passion ; - The Ironmongers</field>
+      <field name="year_display">1974</field>
+      <field name="year_facet">1974</field>
+      <field name="year_multisort_i">1974</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459559&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459559&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Passion ; - The Ironmongers&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;passion&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1974&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1974&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Passion&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;- The Ironmongers&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York, Toronto&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Oxford University Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1974&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873647-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv10929&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Passion&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;- The Ironmongers&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 34 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries, introductory and editorial matter omitted&lt;lb/&gt;The following plays have been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Copyright (c) 1974 Early English Text Society. This text may not be reproduced, except for fair dealing purposes, without the express permission of Chadwyck-Healey and the copyright holder.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The passion.</field>
+      <field name="desc_meta_file_display">Genre: English mystery and miracle plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1475 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1377–1382 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Square brackets represent sections of text which have been deleted or added at different stgaes in the evolution of the manuscript.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">THE IRENMONGERS PLAYE Incipit Pagina de Crucifixione Christi et de his qui fuerunt in eundo versus locum Calvariae; et incipit Cayphas.</field>
+      <field name="fulltext">CAYPHAS Nowe of this segger we binne seker. Agaynst us boote he not to beker. Though he flyre, flatter and flycker, thys fiste shall he not flee. Thou, Jesu, would be our kinge? Goe forth! Evill joye thee wringe, for wroken on thee at our likinge full soone shall we bee. Gurd on fast and make him goe, this freake that ys our elders foe; for all his wyles, from this woe shall no man him warne. ANNAS Him seemes werye of his waye. Some helpe to gett I wyll assaye, for this crosse, in good faye, soe farre he may not beare. Come hither, Symon of Surrey, and take this crosse anon in hye. Unto the mount of Calverye, helpe that yt were borne. SYMON The devill speede this companye! For death hee is not worthye. For his sake, syckerlye, I hould you all forlorne. To beare no crosse am I entent, for yt was never myne assent to procure thys profettes judgment, full of the Holy Ghoost. CAYPAS Symon, but thou will be shent and suffer payne and imprisonment, this crosse upon thy backe thou hent and lett be all thy bost. SYMON Alas, that ever I hither come! Would God I had bynne in Rome when I the waye hither come, thus to be anoyed! But God I take to wytnes that I do this by distresse. All, iwys, through your falsnes I hope will be destroyed. ANNAS Have donne! Bringe forth those theeves two! On eyther halfe him they shall goe. This freake shall be handled soe with fellowshippe in fere. PRIMUS JUDEUS Take them here, bound fast, while this whippecorde may last, for the pryme of the daye is past. How longe shall we be here? PRIMA MARIA Alas, alas, and woe is mee! A deolfull sight this is to see. So many sycke saved hath hee, and nowe goeth this waye. SECUNDA MARIA Sorrowfull may his mother bee to see thy flesh so fayre and free nayled so fowle upon a tree, as he mon be todaye. JESUS Yee weomen of Jerusalem, weepe not for mee, ne make noe [swem]; but for your owne barme-[teame] ye mon reame tenderlye. For tyme shall come, withowten were, ye shall blesse ballye that never child bere and pappe that never milke came nere, so nygh ys your anoye. CAYPHAS Have donne, you tormentours, tyte, and spoyle him that hath donne us spyte. PRIMUS JUDEUS Yea, though hee both growne and stryke, owt hee shalbe shaken. Bee thou wroth or be thou fayne, I will be thy chamberlayne. This coate gettes thou never agayne and I may be waken. SECUNDUS JUDEUS This coate shalbe myne, for yt is good and fyne and seame is none therin that I can see. TERTIUS JUDEUS Yea, God give me pyne and that shalbe thine, for thou art ever inclind to drawe towardes thee. QUARTUS JUDEUS Naye, fellowes, by this daye, at the dyce we will playe, and there we shall assaye thys weede for to wyn. PRIMUS JUDEUS A, fellowe, by this daye, well can thou saye! Laye forth those clothes; laye on boord or we blyn! SECUNDUS JUDEUS Fellowes, nowe let see! Here are dyce three. Which of all wee shall wynne this ware? TERTIUS JUDEUS Nay, parted they shalbe, for that ys egallye. Therfore, as mote I thee, or we hethen fare— QUARTUS JUDEUS This coate bowt seame, to breake yt were shame, for in all Jerusalem ys non such a garment. PRIMUS JUDEUS His dame nowe may dreame for her owne barme-teame; for nother aunte nor eame gettes this gaye garment. SECUNDUS JUDEUS His other clothes all to us fowre can fall. First parte them I shall, and after playe for this. This kyrtle myne I call. Take thow this pawlle. Iche man in this halle wottes I doe not amysse. Ad Tertium: This kyrtle take to thee— Ad Quartum: and thou this to thy fee. Iche man nowe maye see that all wee be served. TERTIUS JUDEUS Yea, nowe I read that wee sytt downe, as mote I thee, and looke whose thys shalbe that ys here reserved. Tunc omnes sedent et dicat Primus Judeus jactans decios: Nowe will I beginne for to cast, or I blynne, this coate for to wynne that is both good and fyne. SECUNDUS JUDEUS By my fathers kynn, noe parte hasse thou therin; but, or I hethen wynne, this coate shalbe myne. Take! Here, I darre laye, are dubletts in good araye. TERTIUS JUDEUS Thou fayles, fellowe, by my faye, to have this to thy fee, for here is cator-traye. Therfore goe thou thy waye, and as well thou maye, and leave this with mee. QUARTUS JUDEUS Fellowes, verament, I read we be at on assent. This gaye garment that is bowt seame, you give by judgment to mee this vestement, for synnce God hath me sent, thinke you never so sweene. PRIMUS JUDEUS As have I good grace, well wonne yt thou hasse, for synke ther was that every man might see. CAYPHAS Men, for cockes face, howe longe shall pewee-ars stand naked in that place? Goe nayle him on the tree! SECUNDUS JUDEUS Anon, mayster, anon. A hommer have I wonne. As farre as I have gonne ys non such another. TERTIUS JUDEUS And here are, by my pon, nayles good wonne to nayle him upon and he were my brother. QUARTUS JUDEUS Goe we too as fast. This caytyffe have I cast. Hee shall be wronge wrast or I wynd awaye. PRIMUS JUDEUS Here is a rope wyll last for to drawe at the mast. This poplard never past so perrelous a playe. SECUNDUS JUDEUS Layes him therupon, this ilke mased man, and I shall dryve one this nayle to the end. TERTIUS JUDEUS As broke I my ponn, well cast him I con and make him full wonne or I from him wend. QUARTUS JUDEUS Fellowes, will yee see howe sleight I shalbe this fist, or I flee, here to make fast? PRIMUS JUDEUS Yea, but, as mote I thee, shorte-armed is hee. To the booringe of this tree hit will not well last. SECUNDUS JUDEUS A, therfore care thou nought. A sleight I have sought. Roopes must be bought to strayne him with strenght. TERTIUS JUDEUS A rope, as I beheight, yee shall have in brought. Take yt here well wrought, and drawe him a lenght. QUARTUS JUDEUS Drawes, for your fathers kynne, while that I dryve yn this ilke iron pynne that I dare laye will last. PRIMUS JUDEUS As ever have I wynne, his arme is but a fynne. Nowe drive on bowten dynne and we shall drawe fast. SECUNDUS JUDEUS Fellowe, be this light, nowe were his feete dight, this gamon went on right and up he should be raysed. TERTIUS JUDEUS That shall be donne in hight anon in your sight, for, by my trouth I plight, I sarve to be praysed. QUARTUS JUDEUS Fellowes, will you see howe I have stretched his knee? Why prayse ye not mee that have so well donne? PRIMUS JUDEUS Yea, helpe nowe that hee on height raysed bee, for, as mote I thee, almost hit ys noone. Tunc Pilatus, habens tabulam in manu, dicit. PILATUS Come hither thou, I command thee; goe nayle thys table unto the tree. Sythen he wyll kynge of Jewes bee, he must have a cognisens. ‘Jesu of Nazareth,’ mon may see; ‘Kynge of Jewes’—howe lykys thee?— is wrytten theron, for so sayd hee withowten varyens. SECUNDUS JUDEUS Naye, syr Pilate, to us beede. Kinge ys he non, so God me speede. Therfore thou doest a sorye deede; this writinge many a mon rewes. Thou should wryte that men might reede howe hee lyes to eych leede and tould over all theras he yeede that he was kynge of Jewes. PILATE That that ys wrytten I have wrytten. TERTIUS JUDEUS And in good fayth that ys fowle wrytten, for everye mon may well wytten that wronge thou hasse wrought. What the devyll kynge ys he, mon? But falslye thereas hee hath gone hee hasse tould leasinges manye one, that deere they should be bought. Tunc venit Maria lachrimans. MARYE Alas, my love, my liffe, my leere! Alas, nowe mourninge, woe ys mee! Alas, sonne, my boote thou bee, thy mother that thee bare. Thinke one, my fruyte, I fostred thee and gave thee sucke upon my brest. Upon my pyne thou have pittye; thou feyles no power. Alas, whye nyll my liefe forlorne to fynd my sonne here me beforne, tugget, lugget, and all totorne with traytors nowe this tyde, with nayles thrast and crowne of thorne? Therfore I made, both evon and morne, to see my byrth that I have borne this bitter bale to byde. Alas, my sorrowe when wyll thou slake and to these traytors me betake to suffer death, sonne, for thy sake —and doe as I thee saye? Alas, theeves, why doe ye soe? Slayes ye mee and lett my sonne goe. For him suffer I would this woe and lett him wend awaye. MARIA MAGDALENA Alas, howe should my hart be light to see my seemely lord in sight deolfully drawne and so dight that did never man greivans? Marred I am mayne and might and for him fayles me to fight; but God, that rules aye the right, give you mickell mischance. MARIA JACOBI Alas, sorrowe syttys me sore! Myrth of thee I gett no more. Why wouldest thou dye, Jesu, wherfore, that to the dead gave liffe? Helpe me, Jesu, with some thinge and out of this bitter bale me bringe, or elles slaye me for anythinge and stynt me of this stryffe. MARIA SALOMEE Come downe, lord, and breake thy bandes. Lose and heale thy lovely handes. Or tell me, Jesu, for whom thou wondes, syth thou art God and man. Alas, that ever I borne was to see thy bodye in such a case. My sorrowe wyll never slake nor seace, such sorrowe is me upon. ANNAS Nowe this shrewe ye hoven on height I would see, for all his sleight, for his crowne howe he can feight and ferre from us to flee. He that hasse healed so manye one nowe save himselfe give that he can, and then all we shall leeve him upon that hit soothly so ys. JESUS Father of heaven, yf thy will be, forgive them this they donne to mee; for they be blynd and may not see howe fowle they donne amys. CAYPHAS If thou be of such postee, and Godes Sonne in majestie, come downe and we will leeve on thee that yt soothly so ys. PRIMUS LATRO (The First Theefe) If thou be Christ verrey and Godes Sonne, nowe as I saye save us from this death todaye and thyselfe also. SECUNDUS LATRO (The Second Theefe) A, man, be still, I thee praye! Dreede God, I read thee aye, for folylye thou speakest in faye. Make not thy freind thy foe. Mon, thou wottest well, iwys, that rightwisely we suffer this, for he hath not donne so mych amys to suffer so great anoye. But, lord, I beseech thee, when thou art in thy majestie, then that thou wilt thinke on mee and on mee have mercye. JESUS Mon, I tell thee, in good faye, for thy beleeffe is so verey, in paradyce thou shalt be todaye with me there in my blys. And, woman, to thee also I saye by the thy sonne there thou se maye that cleane virgine hasse binne aye right as thyselvon ys. And, John, there thy mother thou may see. JOHN Yea, lord, her keper I shalbe. Welcome, Marye, mother free; together we must goe. MARY THE FIRST Alas, my hart will brast in three! Alas, death, I conjure thee! The liffe, sonne, thou take from mee and twyn me from this woe. JOHN Comforte thee nowe, sweete Marye, for though we suffer this anoye, suster, I tell thee sekerlye, on lyve thou shalt him see and ryse with full victorye when he hasse fullfilled the prophecye. Thy sonne thou shalt se, sekerlye, within these dayes three. JESUS Eloye, Eloy! My God, I speake to thee! Eloy lamazabathany! Why hasse thou thys forsaken mee? PRIMUS JUDEUS A, herke, herke howe hee cryeth upon Elye to delyver him of his anoye. SECUNDUS JUDEUS Abyde, and we shall see in hye whether Elye dare come here or noe. JESUS My thyrst ys sore, my thyrst ys sore. TERTIUS JUDEUS Yea, thou shalt have drynke therfore that thow shalt lyst to drynke no more of all thys seaven yeare. JESUS Mightie God in majestie, to worke thy wyll I would never wend. My [spiritte] I betake to thee; receyve yt, lord, into thy handes. ‘Consummatum est.’ CENTURIO Lordinges, I say you sickerlye, this was Godes Sonne almightie. No other, forsooth, leeve will I, for needes so yt must be. I knowe by manner of his crye hee hasse fulfilled the prophecye and godhead shewed apertlye in him, all men may knowe. CAYPHAS Centurio, as God me speede, thou must be smutted; thou canst not read. But when thou seest his hart bleede, lettes se what thou can saye. Longys, take this speare in hand and put from thee—looke thou ne wond. LONGYUS A, lord, I see ne sea ne lond this seaven yeare, in good fay. QUARTUS JUDEUS Have this speare and take good heede. Tho must doe, as the bushoppe thee bade, a thinge that ys of full great neede. To warne I hould thee wood. LONGYUS I will do as ye byd mee, but on your perill hitt shalbe. What I doe I may not see, whether yt be evell or good. Tunc Longyus lancia perforat latus Christi, dicens: High kinge of heavon, I thee here. What I have donne well wott I neere, but on my hand and on my speare owt water runneth throwe; and on my eyes some can fall that I may see both one and all. A, lord, wherever be this wall that this water came froe. Alas, alas, and wellawaye! What deede have I donne todaye? A mon I see, sooth to saye, I have slayne in this stead. But this I hope be Christ verey that sycke and blynd hasse healed aye. Of mercye, lord, I thee nowe praye, for I wyste not what I did. Jesu, mych have I hard speake of thee, that sycke and blynd through thy pittie hasse healed before in this cittie as thou hasse me todaye. Thee will I serve and with thee bee, for well I leeve in dayes three thou will ryse full in postee from enemyes. Lord, I thee praye. JOSEPHE A, lord God, what hartes have yee to slea this mon that I here see dead, hanginge upon roode-tree, that never yett did amys? For, sekerly, Goddes Sonne ys hee. Therfore a tombe is made for mee therin his bodye buryed shalbe, for hee is kinge of blys. NYCODEMUS Syr Joseph, I saye sekerly, this ys Godes Sonne almightie. Goe aske at Pilate his bodye, and buryed shall hee bee. I shall helpe thee, witterlye, to take him downe devowtlye, though Cayphas goe horne-wood thereby and all his meanye. Tunc veniet Joseph ab Aramathia ad Pilatum et dicat JOSEPH Syr Pilate, speciall I thee praye a boone thou grant me as thou maye. This prophett that ys dead todaye, thou grant me his bodye. PILATUS Joseph, all ready, in good faye! If that Centurio he will saye that hee ys dead withowten naye, him will I not denye. Centurio, is Jesus dead? CENTURIO Yea, syr, as broke I my head, in him ther is no liffe lead, for I stood therby. PILATUS Joseph, take him then to thee and burye him where thy will be. JOSEPH Grantmercy, syr, perdee. I thanke you hartfullye. Tunc ibit Joseph super montem, et dicat Joseph: A, sweete Jesu, sweete Jesu, as thou art God, faythfull and true, in a tombe ys made full newe thy bodye shall in be layd. Shouldest thou never have such vertue as thou hast shewed synce I thee knewe but yf godhead thy deede should shewe as thou before hasse sayde. Therewith, Jesu, come hyther to mee. Thy blessed bodye buryed shalbe with all worshipp and honestie and menske all that I may. Yett hope I within these dayes three in flesh and blood alyve to see thou that art nayled on a tree unworthely todaye. NICODEMUS Joseph, brother, as I well see, this holy prophet is given to thee. Some worshipp hee shall have of mee that ys of myghtiest most. For as I leve by my lewtye, verey Goddes Sonne ys hee, for wonders sightes men might see when that he yeeld the goost. For the sonne lost all his light; yearthquake made men afright; the rocke that never before had clyft clayve, that men might knowe; graves opened in mens sight; dead men did ryse. Therfore, by right I may saye this was Goddes Sonne almight that so great sygnes can shewe. Therefore here brought have I a hundreth poundes of spicerye. Myr, alloes, and many more therbye to honour him with I bringe, for to balme his sweete bodye in sepulcher for to lye, that hee maye have on me mercye in heaven where hee ys kinge. Finis</field>
+   </doc>
+</add>

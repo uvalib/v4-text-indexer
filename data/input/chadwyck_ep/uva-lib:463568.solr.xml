@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Chamberlain, Robert</field>
+      <field name="author_facet">Chamberlain, Robert</field>
+      <field name="author_sort_facet">chamberlain robert</field>
+      <field name="author_text">Chamberlain, Robert</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.0857.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">1638</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:463568</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">Nocturnall Lucubrations ; or, Meditations Divine and Morall. Whereunto are added Epigrams and Epitaphs: written by Rob: Chamberlain</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">Nocturnall Lucubrations ; or, Meditations Divine and Morall. Whereunto are added Epigrams and Epitaphs: written by Rob: Chamberlain</field>
+      <field name="title_facet">nocturnall lucubrations</field>
+      <field name="title_sort_facet">nocturnall lucubrations</field>
+      <field name="title_text">Nocturnall Lucubrations ; or, Meditations Divine and Morall. Whereunto are added Epigrams and Epitaphs: written by Rob: Chamberlain</field>
+      <field name="year_display">1638</field>
+      <field name="year_facet">1638</field>
+      <field name="year_multisort_i">1638</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:463568&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:463568&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Chamberlain, Robert&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;chamberlain robert&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Nocturnall Lucubrations ; or, Meditations Divine and Morall. Whereunto are added Epigrams and Epitaphs: written by Rob: Chamberlain&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;nocturnall lucubrations&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1638&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1638&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chamberlain, Robert&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Nocturnall Lucubrations&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;or, Meditations Divine and Morall. Whereunto are added Epigrams and Epitaphs: written by Rob: Chamberlain&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed by M. F. for Daniel Frere [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1638&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp0694&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;[8], 89, [28] p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Nocturnall Lucubrations&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;or, Meditations Divine and Morall. Whereunto are added Epigrams and Epitaphs: written by Rob: Chamberlain&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 22 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only verse included; Latin verse omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">In mundo spes nulla boni, spes nulla salutis: Sola salus servire Deo, sunt cætera fraudes.</field>
+      <field name="fulltext">TO THE WORSHIPFULL, And his honored Master PETER BALLE Esquire, Solliciter generall to the Queenes Majestie.</field>
+      <field name="fulltext">EPIGRAMS AND EPITAPHS Beatus ille, qui procul negotiis, Vt prisca gens mortalium Paterna rura bobus exercet suis, Solutus omnifœnore. Horat. To his honored, and dearely affected Master, M? William Balle, Son and Heire to the Worshipfull Peter Balle Esquire. To his well beloved friend, M? Robert Chamberlain, the Author, in praise of his following Poems. The wisest of Philosophers conclude, Best Contemplations spring from solitude: And wanting outward objects, the minds eye Sees cleerest into every mysterie. Scipio's last life, in's Villa spake him man More than his conquest of tho Affrican. So are the seasons helpers unto Art; And Time to industry applyes each part. These thou hast made the subjects of thy Layes; And they for praising them, returne thee praise. So that to praise agen would shew to be But repetition, and Tautologie. And thine own works allow thee better note Than any friends suspected partiall vote. Thomas Nabbes. In praise of a Country life. The winged fancies of the learned quill, Tel of strange wonders, sweet Parnassus hil, Castalia's Well, the Heliconian Spring, Star-spangled valleyes where the Muses sing. Admired things another Storie yeelds, Of pleasant Tempe, and th' Elysian fields; Yet these are nothing to the sweet that dwells In low built cottages, and country cells. What are the Scepters, Thrones, and Crowns of kings, But gilded burdens, and most fickle things? What are great offices but cumbring troubles And what are honours but dissolving bubbles What though the gates of greatnes be frequented With chains of glittring gold? he that's contented Lives in a thousand times a happier way, Than he that's tended thus from day to day. Matters of State, nor yet domestick jars, Comets portending death, nor blazing stars Trouble his thoughts; hee'l not post hast run Through Lethe, Styx, and fiery Phlegiton For gold or silver: he will not affright His golden slumbers in the silent night For all the precious wealth, or sumptuous pride That lies by Tiber, Nile, or Ganges side. Th'imbroidred meadows, &amp; the crawling stream Make soft and sweet his undisturbed dreams: He revels not by day, nor in the nights, Nor cares he much for Musicall delights; And yet his humble roofe maintains a quire Of singing Crickets round about the fire. This harmlesse life he leads, and I dare say Doth neither wish, nor feare his dying day. On the VVorshipfull, and worthy of all honour, M?? Anne Balle, Wife of Peter Balle Esquire. If worth can mortals to advancement bring, If birth, or beauty be a precious thing, Meeknesse be great Honours Palace gate, And the fore-runner of some happy fate, Happy, then happy thou, that art the sweet And little center where all these doe meet. In Dominum Gulielmum Ball filium &amp; hæredem Petri Balle Armigeri. The same in English. Apollos skill, the Grecian pen for wars, And Virgils too, transc?d the glittring stars: Praise makes men live, but thou a child unfit, Transcends the limits of an old mans wit. Both sea and land thou know'st, &amp; for thy praise Our times shall give thee thy deserved bayes. Great Poets sing great things that children know not, Which to the places of oblivion go not. Thy learning sits not with thy tender mold, Old men are children, thou a child, art old. The heavenly stars upon thy birth did shine, To make thee happy, now the praise is thine. Take up thy bayes, I'le teach thee what's in me, And may the Gods give prosp'rous fates to thee. In praise of Learning. Happy, thrice happy, ô ye sisters still, That love and live on sweet Parnassus hill; Blest be your times and tunes, that sit and sing On flowrie banks by Aganippes Spring. Blest be the shadie groves where those doe dwell Which doe frequent that Heliconian Well, Where learning lives, whereby when men expire, They are made chanters in the heavenly quire. That sacred learning, whose inspired notions Makes Mortalls know heavens high alternat motions: Tr?pets their names unto the christal sky Though in the grave their bones consuming lie. Thrice happy those then, to wh? learning's given, Whose lives on earth doe sympathize with heav?. Whose thoughts are still on high, longing to see Heavens Tabernacles of Eternity; Sleighting the world, and spurning at its praise, Which like Meander runs ten thousand waies. They (when pale death to dust their corps shall bring) With quires of Angels shal in heav? sing. On the Spring. To his honoured friend, M? Giles Balle Merchant. The lofty Mountains standing on a row, Which but of late were periwigd with snow D' off their old coats, and now are daily scene To stand on tiptoes, all in swaggering greene. Meadows and gardens are prankt up with buds, And chirping birds now chant it in the woods. The warbling Swallow, and the Larks do sing, To welcome in the glorious verdant Spring. On the Morning. To his deare friend and cousin, M? Allan Penny, Citizen of Exeter. The morning golden horse rush forth amain, Spending their breath, suckt fr? the Eastern plain; And posting still with speed through gentle aire, Hurle their perfumes from out the glittring chair. The Suns bright Steeds come running up again To Taurus top, still glad to see the plain Of Indolstan: and now begins t'approach The winged Messenger of heaven, in's Coach Of ruddy flames; night-wandring stars have done Their stragling course, and now the day's begun. Bright burning Luna drags her dazling taile Into the dungeon of a darksome vaile. On the Evening. To his deare friend and brother, M? Thomas Bowdon. Rise, rise, yee sootie horse from duskie dale, And draw your Mistresse in a sable vaile: Who rides it out with her knot curled haire, Like to an Æthiope in an Ebonie chaire: Whose dark unseemly face is wrapt in shrowds, With Styx dy'd curtains of congealed clouds. Rise thou pale Queen of night, prepare thy carres, And climb you glittring glorious mount of stars. Deaths impartiality. Carmen Hexametrum. To his dearest brother, M?. William Holmes, Citizen of Exeter. High minded Pyrrhus, brave Hector, stout Agamemnon, Hannibal, and Scipio, whom all the world did attend on, That worthy Captain, world conquering great Alexander, That tender, constant, true hearted, lovely Leander, That cunning Painter, that curious handed Apelles, Mirmidons insatiate, that kept the Tent of Achilles, Alphonsus Aragon, that great Mathematicall Artist, That stately Queene of beauty, that Lady Mars kist, Wit, wealth, and beauty, yea all these pomps that adorne us, Must see black Phlegiton, rough Styx, and fatall Averaus. On the sweetnesse of Contentation. To his kind and loving friend, M? Henry Prigg, Citizen of Exeter. The world still gazeth on the glittering shew Of Scepters, Crowns, and Diadems, but few Consider truely the tempestuous cares, And tumbling troubles of the State affaires. Honour's the spur that pricks th'ambitious mind, And makes it puffe and swel with th'empty wind Of self conceit: But yet me thinks I see A state more full of sweet security. The russet Farmer, more contentment yeelds Unto himselfe, whilst toiling in his fields, Beholds upon the pleasant fertile banks, Wise Natures flowrie wonders in their ranks. And when the halfe part of the day is spent, His wife her basket brings, they with content Do both sit down by some sweet strugling Spring And make a Feast, whilst 'bout his table sing The chirping birds; he when the day is past, Home to his children, and his wife makes haste: The children joy to see their father there; The father joyes to see his children deare: Then they begin to him their pleasant prattle, One shewes his pins, another brings his rattle. With these contents the good man's over-joy'd, When thus he sees his deare affections cloid, Whil'st others toile for honour, and in vaine Deny themselves those sweets they might obtain. O then thou great Commander of the skyes, That dings downe pride, and makes the poor man rise, Let them that will dote on these gilded toyes, Let me account it chiefest of my joyes T' enjoy a meane estate, and nothing more, If't be thy pleasure that I still be poore. Give me this sweet content, that I may die A patient servant to thy Majestie. On the vanity of Man. To his dearely affected friend, M? George Leach of Broadclist in Devon. Like to the Swan on sweet Meanders brink, Like flowers that flourish in the morne, and shrink Down with their heads, when sable night appears; Such is our frailty in this vale of teares. The gilded gallant, and the tortur'd slave Cut down by death, come tumbling to the grave. Not Europes riches, nor an Ajax bold, Nor men, nor Angels, nor our bags of gold, Nor he that was the spacious worlds C?mander, Cæsar, Pompey, nor an Alexander, Nor can greene youth, well, wit, or tender age, The raging fury of thy Sword asswage. O then thou Star Commander, dreadfull King, Whose Fiat makes the trembling world to ring, Teach us, ô teach us so to know our dayes, Thereby to rectifie our crooked waies; That when with Angels, and Archangels thou Shalt come to judge the world, and make it bow, We then may render up a good account, And live with thee upon that starrie mount. On the death of M?. Charles Fitz-Geffrays, Minister of Gods Word. O thou the saddest of the Sisters nine, Adde to a sea of teares, one teare of thine. Unhappy I, that am constrain'd to sing His death, whose life did make the world to ring With ecchoes of his praise. A true Divine In's life &amp; doctrine, which like Lamps did shine Till they were spent and done, did never cease To guide our steps unto eternall peace. Thy habitation's now the starry mount, Where thy great Maker makes of thee account. Farewell thou splendor of the spacious West, Above th' Ætheriall clouds for ever blest: The losse of thee a watry mountaine reares, With high spring-tide of our sad trickling teares. On Sack. O thou so much admir'd by ev'ry soule, That lives 'twixt th' Artick &amp; th' Antartick Pole; Apollo's drink, drawn from the Thespian spring, Whereof the silver Swans before they sing Doe alwaies drink: though thy sweet simpring smiles Some mortall creatures of their coine beguiles, Yet from black Limbo's gate thou bring'st mans soule, And makes his spirits knock the highest Pole. On Tobacco. Thou hell-bred lump of sin, infernall drink, Pernicious, damn'd, foule-fascinating stink, Time's great consumer, cursed child of hell, Scum of perdition, sprung from Pluto's cell: Thy barbarous nature likes no soile so well, As where the Devill and his Pagans dwell. Bewitched then are those that stand up for thee, Till they have grace t'abandon and abhor thee. FINIS.</field>
+   </doc>
+</add>

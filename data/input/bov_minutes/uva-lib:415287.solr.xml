@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1930's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2007_03/uvaGenText/tei/bov_19320613.xml</field>
+      <field name="date_indexed_facet">201909240347</field>
+      <field name="date_text">June 13, 1932</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:415287</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. June 13, 1932</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  June 13, 1932</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  June 13, 1932</field>
+      <field name="year_display">June 13, 1932</field>
+      <field name="year_facet">1932-06-13</field>
+      <field name="year_multisort_i">1932</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:415287&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:415287&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. June 13, 1932&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;June 13, 1932&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1932-06-13&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;June 13, 1932&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Official minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;3 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1932-06-13&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 16 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">June 13, 1932. The annual meeting of the Rector and Visitors was held on this date with the Rector, Fred W. Scott, and Visitors Carson, McIntire, Munford, Rinehart, Walker, Lewis C. Williams, R. Gray Williams and Sidney B. Hall, and Acting President J. L. Newcomb, present. Mr. Rinehart presented his certificate of qualification as a Visitor of the University, for the term ending February 28, 1936. The minutes of the previous meeting which had been copied and mailed to the members, were approved. The following gifts and bequests were announced: From Miss Unity D. Dancy, of Decatur, Alabama, to be used for the benefit of the Department of Law of the University of Virginia $ 12,500 and an undivided interest in 50% of the rentals until sold and of the proceeds of sale when sold, of 320 acres of land in Coleman County, Texas, 320 acres of land in Brown County, Texas, and of Miss Dancy's undivided one-half interest in the oil rights in 1900 acres of land located in Callahan County, Texas. From the University Hospital League, for the purchase of twelve special Gatch beds, complete with mattresses, and two office scales for hospital use 735 From the Class of 1932, a portrait of Dean James Morris Page, painted by Prince Pierre Troubetzkoy. From the Law Class of 1902, a portrait of Dean William Minor Lile, painted by Prince Pierre Troubetzkoy. From Mrs. Raleigh C. Minor and C. Venable Minor the law library of John B. Minor and Raleigh C. Minor, consisting of some 2000 volumes. A communication was received from Dr. Wm. A. Lambeth offering to donate his residence property, located near the Memorial Gymnasium, to the University with certain conditions attached, whereupon the following resolutions were adopted: RESOLVED, by the Rector and Visitors of the University of Virginia, That the gratitude and appreciation of the Board go out to Dr. Wm. A. Lambeth for his generous offer to give to the University his house and lot located north of the Memorial Gymnasium. The Board appreciates the love and devotion to the University which prompted Dr. Lambeth to make this splendid gift. It is RESOLVED, further, that the Acting President be requested to write a letter to Dr. Lambeth expressing the gratitude and appreciation of the Board, and it is RESOLVED, finally, that the Acting President arrange to have the attorney for the University prepare the necessary papers to effect the transfer of this property. The resignation of Professor W. M. Lile, Dean of the Law Department, was presented and accepted as set forth in the following resolution: RESOLVED, by the Rector and Visitors of the University of Virginia, That the resignation of Professor William Minor Lile as James Madison Professor of Law and Dean of the Law Department at the University of Virginia be accepted with deep regret. The Board of Visitors desire to place on record their appreciation of the character, devotion to duty and unusual attainments in scholarship and teaching ability of Professor Lile, as exemplified in a continuous service of thirty-nine years at the University of Virginia. The Rector and Visitors wish for Dean Lile the pleasure and freedom that come of duty nobly done, and they desire the privilege of retaining him as Emeritus Professor of Law upon the rolls of the University. Leave of absence was granted to John A. Rorer, Assistant Professor in charge of Extension Teaching, from October 1, 1932, until June 1, 1933, for the purpose of pursuing advanced study at Columbia University. This leave was granted without salary and no substitute will be required. Associate Professor Leslie H. Buckler, M. A., was promoted to Full Professor of Law at a salary of $4,050.00. Dr. Robert V. Funston was elected Professor of Orthopedic Surgery, at a salary of $900, incumbency to begin July 1, 1932. This salary is in addition to $900 to be paid him from the Hospital. Mr. Hardy Cross Dillard was elected Acting Associate Professor of Law at a salary of $3,500, incumbency to begin September 15, 1932. Mr. John Garfield de Gruchy was elected Acting Assistant Professor of Commerce for the session of 1932-33 at a salary of $2,520. Mr. de Gruchy is to substitute for Professor Melvin G. de Chazeau who will be absent on leave. Professor Armistead M. Dobie, Professor of Law, was elected Dean of the Department of Law, his duties to begin July 1, 1932, at a salary of $450 per annum. The following action was taken with respect to appointments during the summer: RESOLVED, by the Rector and Visitors of the University of Virginia, That the Acting President of the University, in consultation with the Deans and Committees appointed by the Acting President from the staff, be empowered during the summer to employ those professors who have been authorized by the Board but who have not yet been selected. It is understood that all actions of the Acting President and Committees will be brought to the Board for ratification at their next meeting. The question of establishing a Publication Fee of $4.50 for the support of College Topics and Corks and Curls, to be required of all students admitted to the University, was discussed and referred to a committee consisting of Mr. Rinehart, Mr. Lewis C. Williams and the Acting President, and to report their decision to the next meeting of the Board. Senator Walker was requested to prepare resolutions with respect to the death of Senator B. F. Buchanan, a member of this Board, and to present same at the next meeting. A loan of $9,000 to Dr. James R. Cash, secured on his residence by first mortgage, was approved. The loan had been approved by the Rector, Mr. Rinehart, and Mr. McIntire. Request from Professor S. J. Makielski for a loan of $7,000 to be used in building his residence was referred to a committee composed of Mr. McIntire, Mr. Rinehart and the Acting President, with power to make said loan if they think it wise and judicious. Upon the recommendation of the Acting President the following resolutions were adopted: RESOLVED, by the Rector and Visitors of the University of Virginia, That the Governor and the Director of the Budget, be requested to transfer $2,006.62 from Capital Outlay appropriation surplus budget, to Expenses of Operation to cover equipment for the Hospital. RESOLVED, by the Rector and Visitors of the University of Virginia, That the Acting President be, and he is hereby authorized to make such reductions in the budget approved by the Board as may be found necessary on account of decreased income, after consultation with such members of the Board as he may be able to reach. Mr. Rinehart, Chairman of the Building Committee, submitted a report on the erection of the Clark Memorial Law Building, and the following resolution was adopted: RESOLVED, by the Rector and Visitors of the University of Virginia, That the Clark Memorial Law Buildings be accepted, and the payments be made in accordance with the contract between the Johnson Construction Company and the Rector and Visitors of the University. The Thomas Fortune Ryan Scholarships for the session of 1932-33 were appointed, as follows: First Congressional District Robert A. G. Jones Second Congressional District Wm. Alexander Hobbs Third Congressional District Richmond Moore, Jr. Fourth Congressional District John Wilson Lucas Fifth Congressional District Wm. Randolph Watkins Sixth Congressional District Herman Wolff Seventh Congressional District Chas. F. Payne Eighth Congressional District David M. French Ninth Congressional District John C. Buchanan Tenth Congressional District Thomas Moore Butler On motion of Mr. Gray Williams, it was RESOLVED, That the du Pont, Alumni and Tiffany Scholarships be awarded by the faculty. The nominations by the Acting President for Instructors, Assistants, Student Assistants, and Fellowship and Scholarship holders, as recommended by the several departments, were approved. These will be found spread on the Scholarship and Fellowship book in the Bursar's Office. Mr. P. M. Stuart, of Buena Vista, Va., presented a petition to the Board appealing from the decision of the Honor Committee in having dismissed him from the University for a breach of the Honor Code on June 2, 1932, and praying that the Board allow him an appeal to the Board of Visitors. After giving every consideration to the matter, the following motion, duly made and seconded, was adopted: The heart of student discipline at the University of Virginia is the honor system. Since June, 1842, the student body has exercised complete authority in the operation of the honor system. In the catalogue of this Institution is the statement that the administration of the system "is entirely in the hands of the students" and that "the essence of the system" is "that the violation of a student's word of honor is an offense not against the University authorities but against the whole student body, and on the rare occasions on which it has occurred, the students themselves have quietly and promptly sent the offender away from the University without need of faculty action." Every student on matriculation subscribes to the support of the honor system and the Board of Visitors finds no justification for its interference in the decision of the Honor Committee in this case and must respectfully decline to take any action with reference thereto. The meeting then adjourned. C. Harding Walker Rector. E. I. Carruthers Secretary.</field>
+   </doc>
+</add>

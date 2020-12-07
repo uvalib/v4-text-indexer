@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Clarendon Press</field>
+      <field name="author_facet">Clarendon Press</field>
+      <field name="author_sort_facet">clarendon press</field>
+      <field name="author_text">Clarendon Press</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.1077.xml</field>
+      <field name="date_indexed_facet">201909240355</field>
+      <field name="date_text">1885</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459706</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Shipwrites ; VIII. The building of the Ark</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Shipwrites ; VIII. The building of the Ark</field>
+      <field name="title_facet">shipwrites</field>
+      <field name="title_sort_facet">shipwrites</field>
+      <field name="title_text">The Shipwrites ; VIII. The building of the Ark</field>
+      <field name="year_display">1885</field>
+      <field name="year_facet">1885</field>
+      <field name="year_multisort_i">1885</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459706&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459706&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Shipwrites ; VIII. The building of the Ark&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;shipwrites&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1885&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1885&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Shipwrites&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;VIII. The building of the Ark&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Oxford&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Clarendon Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1885&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873691-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv11077&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Shipwrites&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;VIII. The building of the Ark&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 19 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and editorial matter including introduction and glossary omitted.&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Source texts incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The shipwrites.</field>
+      <field name="desc_meta_file_display">Genre: English mystery and miracle plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1475 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1352–1376 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">VIII. THE SHIPWRITES. The building of the Ark. Square brackets represent sections of text unclear or absent in the original and supplied by the current editor</field>
+      <field name="fulltext">[PERSONS OF THE PLAY. Deus. Noe.]</field>
+      <field name="fulltext">Deus. Fyrst qwen I wrought þis worlde so wyde, Wode and wynde and watters wane, Heuyn and helle was noght to hyde, Wyth herbys and gyrse þus I be-gane, In endles blysse to be and byde. And to my liknes made I man, Lorde and syre on ilke-a side Of all medill-erthe I made hym þan. A woman also with hym wrought I, Alle in lawe to lede þer lyffe, I badde þame waxe and multiplye, To fulfille þis worlde, with-owtyn striffe. Syþn hays men wroght so wofully, And synne is nowe reynand so ryffe, Þat me repentys and rewys for-þi Þat euer I made outhir man or wiffe. Bot sen they make me to repente My werke I wroght so wele and trewe, Wyth-owtyn seys will noght assente, Bot euer is bowne more bale to brewe. Bot for ther synnes þai shall be shente, And for-done hoyly, hyde and hewe. Of þam shall no more be mente, Bot wirke þis werke I will al newe. Al newe I will þis worlde be wroght, And waste away þat wonnys þer-in, A flowyd a-bove þame shall be broght, To stroye medilerthe, both more and myn. Bot Noe alon lefe shal it noght, To all be sownkyn for ther synne, He and his sones, þus is my thoght, And with þere wyffes away sall wynne. [To Noah.] Nooe, my seruand, sad an cleyn, For thou art stabill in stede and stalle, I wyll þou wyrke, with-owten weyn, A warke to saffe þi-selfe wyth-all. Noe. O! mercy lorde, quat may þis meyne? Deus. I am þi gode of grete and small, Is comyn to telle þe of thy teyn, And quat ferly sall eftir fall. Noe. A! lorde, I lowe þe lowde and still, Þat vn-to me, wretche vn-worthye, Þus with thy worde, as is þi will, Lykis to appere þus propyrly. Deus. Nooe, as I byd þe, doo fulfill. A shippe I will haue wroght in hye; All-yf þou can litill skyll, Take it in hande, for helpe sall I. Noe. A! worthy lorde, wolde þou take heede, I am full olde and oute of qwarte, Þat me liste do no daies dede, Bot yf gret mystir me garte. Deus. Be-gynne my werke behoves þe nede, And þou wyll passe from peynes smerte, I sall þe sokoure and the spede, And giffe þe hele in hede and hert. I se suche ire emonge mankynde, Þat of þare werkis I will take wreke, Þay shall be sownkyn for þare synne, Þer-fore a shippe I wille þou make. Þou and þi sonnes shall be þere-in, They sall be sauyd for thy sake. Therfore go bowdly and begynne Thy mesures and thy markis to take. Noe. A! lorde, þi wille sall euer be wrought, Os counsell gyfys of ilka clerk, Bot first, of shippe-craft can I right noght, Of ther makyng haue I no merke. Deus. Noe, I byd þe hartely haue no þought, I sall þe wysshe in all þi werke, And euen to itt till ende be wroght, Ther-fore to me take hede and herke. Take high trees and hewe þame cleyne, All be sware and noght of skwyn, Make þame of burdes and wandes betwene, Þus thrivandly and noght ouer thyn. Luke þat þi semes be suttilly seyn, And naylid wele þat þei noght twyne, Þus I deuyse ilk dele be-deyne, Þerfore do furthe, and leue thy dyne. iij C cubyttis it sall be long, And fyfty brode, all for thy blys, Þe highte of thyrty cubittis strong, Lok lely þat þou thynke on þis. Þus gyffe I þe grathly or I gang, Þi mesures þat þou do not mysse, Luk nowe þat þou wirke noght wrang, þus wittely sen I þe wyshe. Noe. A! blistfull lord, þat al may beylde, I thanke þe hartely both euer and ay, Fyfe hundreth wyntres I am of elde, Me thynk þer ?eris as yestirday. Ful wayke I was and all vn-welde, My werynes is wente away, To wyrk þis werke here in þis feylde Al be my-selfe I will assaye. To hewe þis burde I will be-gynne, But firste I wille lygge on my lyne, Now bud it be alle in like thynne, So put it nowthyr twynne nor twyne. Þus sall I iune it with a gynn, And sadly sette it with symonde fyne, Þus sall y wyrke it both more and myn[n]e, Thurgh techyng of god maister myne. More suttelly can no man sewe, It sall be cleyngked euer-ilka dele, With nayles þat are both noble and newe, Þus sall I feste it fast to feele. Take here a revette, and þere a rewe, With þer bowe þer nowe wyrke I wele, Þis werke I warand both gud and trewe, Full trewe it is who will take tente. Bot faste my force begynnes to fawlde, A hundereth wyntres away is wente, Sen I began þis werk, full grathely talde, And in slyke trauayle for to be bente, Is harde to hym þat is þus olde. But he þat to me þis messages sent, He will be my beylde, þus am I bowde. Deus. Nooe, þis werke is nere an ende, And wrought right as I warned þe, Bot yit in maner it must be mende, Þerfore þis lessoun lerne at me. For dyuerse beestis þer-in must lende, And fewles also in þere degree, And for (þat) þay sall not sam blende, Dyuerse stages must þer be. And qwen þat it is ordand soo, With dyuerse stawllys and stagis seere, Of ilka kynde þou sall take twoo, Bothe male and femalle fare in fere; Thy wyffe, thy sonnes, with þe sall goo, And thare thre wyffes, with-owten were, Þere viij bodies with-owten moo, Sall þus be saued on this manere. Ther-fore to my biddyng be bayne, Tille all be herberd haste þe faste, Eftir þe vij day sall it rayne Till fowrty dayes be fully paste; Take with þe geere, sclyk os may gayne, To man and beeste þare lyffes to laste. I sall þe socoure for certayne, Tille alle þi care awey be kaste. Noe. A! lorde þat ilk a mys may mende, I lowe þi lare, both lowde and stille, I thanke þe both with herte and hende, That me wille helpe, fro angrys hille. Abowte þis werke nowe bus me wende With beestys and fewlys my shippe to fille, He þat to me þis crafte has kende, He wysshe vs with his worthy wille.</field>
+   </doc>
+</add>

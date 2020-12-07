@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Edith Wharton</field>
+      <field name="author_facet">Edith Wharton</field>
+      <field name="author_sort_facet">edith wharton</field>
+      <field name="author_text">Edith Wharton</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1900's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/WhaOgri.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">1909</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476505</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Ogrin the Hermit</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">Ogrin the Hermit</field>
+      <field name="title_facet">ogrin the hermit</field>
+      <field name="title_sort_facet">ogrin the hermit</field>
+      <field name="title_text">Ogrin the Hermit</field>
+      <field name="year_display">1909</field>
+      <field name="year_facet">1909</field>
+      <field name="year_multisort_i">1909</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476505&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476505&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Edith Wharton&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;edith wharton&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Ogrin the Hermit&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;ogrin the hermit&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1909&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1909&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Edith Wharton&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Ogrin the Hermit&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1909&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Boston&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Atlantic Monthly Co.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1909&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Wharton, Edith. "Ogrin the Hermit." Atlantic Monthly 104 (1909): 844-848.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Ogrin the Hermit&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 13 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Ogrin the Hermit in old age set forth This tale to them that sought him in the extreme Ancient grey wood where he and silence housed: Long years ago, when yet my sight was keen, My hearing knew the word of wind in bough, And all the low fore-runners of the storm, There reached me, where I sat beneath my thatch, A crash as of tracked quarry in the brake, And storm-flecked, fugitive, with straining breasts And backward eyes and hands inseparable, Tristan and Iseult, swooning at my feet, Sought hiding from their hunters. Here they lay.For pity of their great extremity, Their sin abhorring, yet not them with it, I nourished, hid, and suffered them to build Their branched hut in sight of this grey cross, That haply, falling on their guilty sleep, Its shadow should part them like the blade of God, And they should shudder at each other's eyes.So dwelt they in this solitude with me, And daily, Tristan forth upon the chase, The tender Iseult sought my door and heard The words of holiness. Abashed she heard, Like one in wisdom nurtured from a child, Yet in whose ears an alien language dwells Of some far country whence the traveller brings Magical treasure, and still images Of gods forgotten, and the scent of groves That sleep by painted rivers. As I have seen Oft-times returning pilgrims with the spell Of these lost lands upon their lids, she moved Among familiar truths, accustomed sights, As she to them were strange, not they to her. And often, reasoning with her, have I felt Some ancient lore was in her, dimly drawn &gt;From springs of life beyond the four-fold stream That makes a silver pale to Paradise; For she was calm as some forsaken god Who knows not that his power is passed from him, But sees with tranced eyes rich pilgrim-trains In sands the desert blows about his feet.Abhorring first, I heard her; yet her speech Warred not with pity, or the contrite heart, Or hatred of things evil: rather seemed The utterance of some world where these are not, And the heart lives in heathen innocence With earth's innocuous creatures. For she said: "Love is not, as the shallow adage goes, A witch's filter, brewed to trick the blood. The cup we drank of on the flying deck Was the blue vault of air, the round world's lip, Brimmed with life's hydromel, and pressed to ours By myriad hands of wind and sun and sea. For these are all the cup-bearers of youth, That bend above it at the board of life, Solicitous accomplices: there's not A leaf on bough, a foam-flash on the wave, So brief and glancing but it serves them too; No scent the pale rose spends upon the night, Nor sky-lark's rapture trusted to the blue, But these, from the remotest tides of air Brought in mysterious salvage, breathe and sing In lovers' lips and eyes; and two that drink Thus onely of the strange commingled cup Of mortal fortune shall into their blood Take magic gifts. Upon each others' hearts They shall surprise the heart-beat of the world, And feel a sense of life in things inert; For as love's touch upon the yielded body Is a diviner's wand, and where it falls A hidden treasure trembles: so their eyes, Falling upon the world of clod and brute, And cold hearts plotting evil, shall discern The inextinguishable flame of life That girdles the remotest frame of things With influences older than the stars."So spake Iseult; and thus her passion found Far-flying words, like birds against the sunset That look on lands we see not. Yet I know It was not any argument she found, But that she was, the colour that life took About her, that thus reasoned in her stead, Making her like a lifted lantern borne Through midnight thickets, where the flitting ray Momently from inscrutable darkness draws A myriad-veined branch, and its shy nest Quivering with startled life: so moved Iseult. And all about her this deep solitude Stirred with responsive motions. Oft I knelt In night-long vigil while the lovers slept Under their outlawed thatch, and with long prayers Sought to disarm the indignant heavens; but lo, Thus kneeling in the intertidal hour 'Twixt dark and dawning, have mine eyes beheld How the old gods that hide in these hoar woods, And were to me but shapings of the air, And flit and murmur of the breathing trees, Or slant of moon on pools—how these stole forth, Grown living presences, yet not of bale, But innocent-eyed as fawns that come to drink, Thronging the threshold where the lovers lay, In service of the great god housed within Who hides in his breast, beneath his mighty plumes, The purposes and penalties of life. Or in yet deeper hours, when all was still, And the hushed air bowed over them alone, Such music of the heart as lovers hear, When close as lips lean, lean the thoughts between— When the cold world, no more a lonely orb Circling the unimagined track of Time, Is like a beating heart within their hands, A numb bird that they warm, and feel its wings— Such music have I heard; and through the prayers Wherewith I sought to shackle their desires, And bring them humbled to the feet of God, Caught the loud quiring of the fruitful year, The leap of springs, the throb of loosened earth, And the sound of all the streams that seek the sea.So fell it, that when pity moved their hearts, And those high lovers, one unto the end, Bowed to the sundering will, and each his way Went through a world that could not make them twain, Knowing that a great vision, passing by, Had swept mine eye-lids with its fringe of fire, I, with the wonder of it on my head, And with the silence of it in my heart, Forth to Tintagel went by secret ways, A long lone journey; and from them that loose Their spiced bales upon the wharves, and shake Strange silks to the sun, or covertly unbosom Rich hoard of pearls and amber, or let drip Through swarthy fingers links of sinuous gold, Chose their most delicate treasures. Though I knew No touch more silken than this knotted gown, My hands, grown tender with the sense of her, Discerned the airiest tissues, light to cling As shower-loosed petals, veils like meadow-smoke, Fur soft as snow, amber like sun congealed, Pearls pink as may-buds in an orb of dew; And laden with these wonders, that to her Were natural as the vesture of a flower, Fared home to lay my booty at her feet.And she, consenting, nor with useless words Proving my purpose, robed herself therein To meet her lawful lord; but while she thus Prisoned the wandering glory of her hair, Dimmed her bright breast with jewels, and subdued Her light to those dull splendours, well she knew The lord that I adorned her thus to meet Was not Tintagel's shadowy King, but he, That other lord beneath whose plumy feet The currents of the seas of life run gold As from eternal sunrise; well she knew That when I laid my hands upon her head, Saying, "Fare forth forgiven," the words I spoke Were the breathings of his pity, who beholds How, swept on his inexorable wings Too far beyond the planetary fires On the last coasts of darkness, plunged too deep In light ineffable, the heart amazed Swoons of its glory, and dropping back to earth Craves the dim shelter of familiar sounds, The rain on the roof, the noise of flocks that pass, And the slow world waking to its daily round. . . .And thus, as one who speeds a banished queen, I set her on my mule, and hung about With royal ornament she went her way; For meet it was that this great Queen should pass Crowned and forgiven from the face of Love.</field>
+   </doc>
+</add>

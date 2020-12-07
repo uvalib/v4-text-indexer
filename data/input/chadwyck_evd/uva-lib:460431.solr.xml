@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Brooke, Henry, 1703-1783</field>
+      <field name="author_facet">Brooke, Henry, 1703-1783</field>
+      <field name="author_sort_facet">brooke henry 1703 1783</field>
+      <field name="author_text">Brooke, Henry, 1703-1783</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1780's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V2.0919.xml</field>
+      <field name="date_indexed_facet">201909240355</field>
+      <field name="date_text">1789</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460431</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Ruth ; An Oratorio</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 18th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 18th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Ruth ; An Oratorio</field>
+      <field name="title_facet">ruth</field>
+      <field name="title_sort_facet">ruth</field>
+      <field name="title_text">Ruth ; An Oratorio</field>
+      <field name="year_display">1789</field>
+      <field name="year_facet">1789</field>
+      <field name="year_multisort_i">1789</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460431&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460431&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Brooke, Henry, 1703?-1783&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;brooke henry 1703 1783&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Ruth ; An Oratorio&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;ruth&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1789&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1789&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Brooke, Henry&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1703&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1783&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Ruth&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;An Oratorio&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for John Sewell [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1789&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872802-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv20919&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 18th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;18th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Ruth&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;An Oratorio&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 26 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and introductory matter, including The Life Of The Author, omitted&lt;lb/&gt;Only verse drama included&lt;lb/&gt;Plays reproduced elsewhere in English Verse Drama not included&lt;lb/&gt;The following plays have been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Ruth.</field>
+      <field name="desc_meta_file_display">Genre: Opera.</field>
+      <field name="desc_meta_file_display">Date first published: 1778.</field>
+      <field name="desc_meta_file_display">Date first performed: Unknown.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">RUTH: AN ORATORIO.</field>
+      <field name="fulltext">PERSONS. BOAZ. HIGH PRIEST. NAOMI. RUTH. ISRAELITES. MOABITES.</field>
+      <field name="fulltext">PART I. SCENE I. A Field in Moab. Israelite Travellers, and Naomi. RECITATIVE. 1st Isr. Stay, brother—see, in yonder shade, Some sable Daughter of Affliction laid! She rises—mark her mournful air! She looks, she moves, she breathes despair! Too great appears her woe, To suffer words to break away, or swelling tears to flow. RECITATIVE Accompanied. 2d Isr. 'Tis nought to us—Come, let's be gone— This land for us no friendship knows: All are strangers here, and foes!— Shall we regard a foe's distress?—no, brother, no!—pass on. AIR. 1st Isr. Thro' every clime, the heart humane Is pleased to share in every pain— There dwells a secret sense within, To frail mortality a-kin; And to the Child of humbling Grief, Or friend, or foe, it brings relief! CHORUS. Or friend, or foe, the Child of Grief From hearts humane will find relief! RECITATIVE. 1st Isr. Unhappy sister! whence the care, That seems above thy strength to bear? RECITATIVE. Nao. 'Tis an incurable despair!— RECITATIVE. 1st Isr. Yet if our power cannot relieve, our pity sure may share. RECITATIVE. Nao. Lopt from the trunk of Israel's tree, And stript of foliage and of fruit, a blasted branch you see! RECITATIVE. 2d Isr. Of Israel?—O, declare thy grief!— I hasten, now, to bring relief. AIR. Nao. Ah cease—your comforts come in vain! As on a barren rock they fall; Whence soft descending stores of rain, No blade of kindly growth can call. AIR. 1st Isr. From desolated lands, From rugged rocks, and parching sands, The powerful word of Israel's King Can call the beauties of the spring!— RECITATIVE. His hand the wounded heart can heal— But O, whence springs thy grief, reveal! RECITATIVE. Nao. Once I was blest, supremely blest! These arms a loved and loving consort prest— Two sons, beside, were mine—all now, alas, no more! Husband and children lost I'm destined to deplore! RECITATIVE. 1st Isr. Alas, sad matron!—May we claim Thy tribe, thy native place, and name? RECITATIVE. Nao. Of Judah's tribe, in Bethlehem's town, Naomi once was known. But late, when famine ravaged all our plains, I, with my houshold, succour sought from Moab's foreign swains. RECITATIVE. 2d Isr. Our sister!— 1st Isr. —O, our sister dear! 2d Isr. Return!— 1st Isr. —Thy kin, thy country, chear! RECITATIVE. 2d Isr. The LORD hath visited our land, And on his chosen people pour'd the bounty of his hand! AIR, Duet. Rich verdure and blossoms again deck the spring, Again in the groves the wing'd choristers sing; Again the blithe milkmaid is heard at her pail, And the ploughman's glad whistle descends on the vale. RECITATIVE. Nao. Though fall my ills so heavy from his hand, I bless the LORD who saves my native land. Yes, happy soil! ye hills and vales of Grace! Thou sacred, pleasing, promised place! With thee, once more, these eyes shall glad their sight, Then closing bid a last adieu to mortal life and light! AIR. Dear Natal Earth, prepare my grave, Receive the fading form you gave! Dear Natal Earth, upon your breast, The fading form you gave, shall rest! RECITATIVE. 2d Isr. Cease, cease, O hapless sister! cease to mourn— Thy joyful friends shall hail thy wish'd return; Bethlehem exulting thy approach shall greet, And her throng'd ways spread flow'rs beneath thy feet. AIR. Let no wretched offspring of Adam despair— As passes our pleasure, so passes our care! Man's life is an April, now gloomy, now gay; His shade and his shine fleet successive away! To the pain thy Creator appoints thee resign, And seize the glad moment allowed to be thine. RECITATIVE. Nao. My friends, my country, now, Naomi scarce will own— To haughty Wealth in prosperous state, the Poor remain unknown! RECITATIVE. 1st Isr. As o'er a treasure lost and found, O'er thee thy kindred will rejoice around. AIR. O Israel, receive to thy breast, This thy daughter, so virtuous and dear! In thy songs be her welcome exprest, And her diffidence lost in thy chear! As her morning in clouds has begun, Let her noon in its progress be bright; And her evening, like summer's fair sun, Leave behind it a glory of light! END OF THE FIRST PART.</field>
+      <field name="fulltext">PART II. SCENE I. Naomi, Ruth, and Moabites. RECITATIVE. Nao. Daughters of Moab, hear! By famine's hand Opprest, erewhile I left my native land— To you I came; ye took the stranger in, And fill'd the place of country and of kin. Now home recall'd, for leave to part I sue, And my full heart must take the last adieu! RECITATIVE. Moab. Wouldst thou their blessing from thy servants take? Your LORD loves Moab for Naomi's sake. AIR. Where'er thy visit is addrest, The household and the house are blest! RECITATIVE. Nao. Though you, my friends, I quit, my broken heart Leaves in your hospitable earth its better, dearer part! AIR. A long, long adieu, my kind neighbours, I take, Ye wealth of the wealthless, ye strength of the weak! While worth shall endear, or beneficence bind, Your memory shall hold the first place in my mind: And if ever your lot should oblige you to stray, May others the friendship you shew'd me repay! RECITATIVE. Ruth. Come, mother, come! no more indulge delay! Towards your Israel's pleasant land I long to bend my way. RECITATIVE. Nao. What means my daughter? would she leave Her friends of Moab for her loss to grieve? AIR. Ruth. Yes, mother, yes; with thee, Though faint from travel and from toil, Each land will prove a native soil, Each house a home to me! Companion'd with thee, as we journey along, No time can be tedious, no road can be wrong! RECITATIVE. By wedlock, Ruth, allied to thee, Became a graft of Israel's tree— So firmly fix'd, so strongly tied, No storm can shake, no stroke divide! AIR. Nao. O flower of Moab, passing fair! Say, shall my unpropitious hand Thee, from thy native garden, bear, To wither in a foreign land? RECITATIVE. Ruth. Some power, unconquerably strong, Impells thy daughter's steps along. AIR. As the LORD of thy Israel now reigneth above, In his Kingdom of Peace, and his Regions of Love, 'Tis in vain To restrain; With thee I will wander, with thee will remain. To the lot that is thine, Or pleasant, or painful, with joy I resign; Thy people, thy God, and thy grave, shall be mine! RECITATIVE. Nao. O child, above all kindred dear, Thou bless'd of our JEHOVAH, hear! AIR. I see, I see with other eyes, From darkness distant radiance rise! Soon shall the Promised Son be born, And come on Solyma like morn, Enlightening all her skies! CHORUS of Moabites. Amid the great the glorious thought, Our souls to future times are caught. We see, with other eyes, From darkness distant radiance rise! Soon shall the Promised Son be born, And come on Moab like the morn, Enlightening all her skies! END OF THE SECOND PART.</field>
+      <field name="fulltext">PART III. SCENE I. Naomi, and Ruth. RECITATIVE. Nao. Turn, O daughter, turn thy eyes, Where Bethlehem's glittering spires arise— How fair her flowery vales extend! How bold her swelling hills ascend! AIR. Dear native Soil! do I again Thy kindly breeze inhale? No air of any foreign plain Could thus my sense regale. RECITATIVE. Ruth. Fair is thy land, O mother! wondrous fair! My bosom from the view strange transport seems to share. AIR. New scenes, and new prospects, my spirit employ, And with hopes of new happiness chear me; My heart all enliven'd indulges its joy, And some sudden blessing seems near me. RECITATIVE. Nao. Behold, my lovely child, behold, How Bethlehem's streets at our approach pour forth their young and old! SCENE II. Naomi, Ruth, Boaz, Israelites. CHORUS. Naomi?—lost and found again, O welcome to thy native plain! Raise all your voices, brethren, raise, And hail your sister's glad return with gratulating lays. RECITATIVE. Nao. Say, brethren, who is he that leads the throng, And like a hero moves majestical along? RECITATIVE. 1st Isr. 'Tis Boaz, Bethlehem's Prince, your near allied— Your first of kindred by your husband's side! AIR, Duet. Isr. His step is at a distance from thousands discern'd! When he speaks in the gate, Elders hear and grow learn'd! His couches are spread for the stranger's repose; For the naked he shears, for the hungry he sows! He stands like a tree in the midst of his ground, With the widow and orphan rejoicing around! RECITATIVE. Boaz. Hail, mother of thy people!—this embrace Bids thee thrice welcome to thy native place. Oft have those arms my infant years carest, And clasp'd thy little kinsman to thy breast! RECITATIVE. Nao. Hail, son!—May Heaven in bounty heap on thee Tenfold the blessings it has rent from me! RECITATIVE. Boaz. In this our present happy lot, Be past calamities forgot! But where is she, our new allied— Of Moab's land so late the pride? AIR. Nao. Lo there! like a mist on the morning, her veil Strives in vain to obscure her from sight; It betrays what it means to conceal, A beauty for vision too bright! RECITATIVE. Boaz. Thee, fairest Ruth, by Israel's law I claim, A glad succeeder to thy husband's name! Thrice have the visions of the night, Brought to my view thy semblance fair, that fill'd my tent with light! RECITATIVE. Ruth. If so your laws ordain, Your handmaid will not of her lot complain. RECITATIVE. H. Priest. Hear men of Bethlehem, and rejoice! The LORD informs his servant's voice— Yon portion fair of Moab's earth, To Israel's Chosen Plant gives birth! Hence the Mighty Tree shall spring, The Glory of the grove, of every tree the King! CHORUS of Priests. To the center, shall reach the vast Depth of his Root! To the stars, the vast Height of his Summit shall shoot! Thro' the world, the vast Length of his Boughs shall extend! For their food, on His Fruit, shall all nations depend! GRAND CHORUS. Hail Mother of Approaching Grace! Hail Parent of the Promised Race! Far distant I see Him!—The young and the old Rush to meet the MESSIAH, by prophets foretold! The Lame, with a bound, Lightly leap from the ground; The Deaf run to hear, and the Blind to behold— And the Dead rise triumphant around!</field>
+   </doc>
+</add>

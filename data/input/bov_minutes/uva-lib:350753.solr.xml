@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">University of Virginia, Board of Visitors</field>
+      <field name="author_facet">University of Virginia, Board of Visitors</field>
+      <field name="author_sort_facet">university of virginia board of visitors</field>
+      <field name="author_text">University of Virginia, Board of Visitors</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1950's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/2006_10/uvaGenText/tei/bov_19531211.xml</field>
+      <field name="date_indexed_facet">201909240346</field>
+      <field name="date_text">December 11, 1953</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="digital_collection_text">UVa Board of Visitors Minutes, 1817-2002</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:350753</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Board of Visitors minutes. December 11, 1953</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">University of Virginia</field>
+      <field name="subject_facet">Minutes</field>
+      <field name="subject_text">University of Virginia</field>
+      <field name="subject_text">Minutes</field>
+      <field name="title_display">Board of Visitors minutes.  December 11, 1953</field>
+      <field name="title_facet">board of visitors minutes</field>
+      <field name="title_sort_facet">board of visitors minutes</field>
+      <field name="title_text">Board of Visitors minutes.  December 11, 1953</field>
+      <field name="year_display">December 11, 1953</field>
+      <field name="year_facet">1953-12-11</field>
+      <field name="year_multisort_i">1953</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:350753&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:350753&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;serial volume&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;University of Virginia, Board of Visitors&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;university of virginia, board of visitors&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Board of Visitors minutes. December 11, 1953&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;board of visitors minutes&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;December 11, 1953&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1953-12-11&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia, Board of Visitors&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;December 11, 1953&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;Official minutes&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa call number"&gt;Accession# RG-1/1/&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;a2846310&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;3 pages&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;University of Virginia&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="AAT"&gt;Minutes&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;The official minutes contain salary information.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Board of Visitors' minutes, Accession # RG-1/1/, Special Collections Dept., University of Virginia, Charlottesville, Va.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Minutes of meetings of the university's governing body which is the legal owner and operator of the institution. Recorded in the minutes are appointments and other personnel decisions concerning faculty, decisions about construction of facilities, gifts to the university, and all other board actions, decisions and resolutions.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Board of Visitors minutes&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;numbering type="date"&gt;1953-12-11&lt;/numbering&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;2006&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©2006 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 20 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-BoardOfVisitorsMinutes"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">11 December 1953 The regular monthly meeting of the Board of Visitors of The Rector and Visitors of the University of Virginia was held on this date in the Office of the President of the University, at Charlottesville, with the following present. The Rector, Barron F. Black, President Colgate W. Darden, Jr.; Visitors Barksdale, Carrington, Coxe, Emmett, Gay, Gravatt, Howard, Mears, Mrs. Smith, Mr. Smith, Talbott, Wailes, and Wheeler. Absent: Dr. M. L. Combs, President, Mary Washington College. The minutes of the meeting of 6 November 1953, previously distributed, were approved GIFTS The President reported the following gifts and grants From Mr. Forrest Hyde, for the Samuel Baker Wood award $ 250.00 From Mr. Linton Massey, for the use of the Bibliographical Society 500.00 From Mr. Carlysle A. Bethel, to be added to the "Calvin Satterfield Loan Fund" 100.00 From an anonymous donor, contribution for a debate prize for students majoring in Economics and Commerce 100.00 From the Alumni Association, contributions made through that office for the Medical School 4,043.65 From the Doherty Foundation, for support of the Woodrow Wilson School of Foreign Affairs 10,000.00 From the Virginia Heart Association, to be used for the Cardio-Pulmonary Laboratory 150.00 From the General Electric Company, for a scholarship in Business Administration 500.00 From the estate of the late S. Perry Howze, to set up a trust fund, the income therefrom to be used by the School of Medicine for research in the field of cancer 40,759.93 From the Richmond Engineering Company, for research under the direction of Mr. Hubbard, of the Chemical Engineering Department 2,000.00 From the National Institute of Health, for continued research under the direction of Dr. J. Edwin Wood, Jr., of the Department of Internal Medicine 17,496.00 CANCELLATION OF ELECTION The following resolution was adopted by the Board. RESOLVED by the Board of Visitors of the University of Virginia that the election of Mr. Norman Burns as Visiting Lecturer in Foreign Affairs for the second semester of the session of 1953-54 be and it is hereby cancelled since Mr. Burns will be unable to come RESIGNATIONS The Board adopted the following resolutions RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that the resignation of Dr. John L. Riordan, Assistant Professor of Germanic Languages, be and it is hereby accepted as of November 27, 1953. Mr. Riordan is on leave of absence for duty with the Navy, and he has now accepted a position with the Department of Defense. We wish for him the highest success in his new undertaking. RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that the resignation of Dr. Ellen F. Birchall, Instructor in Neurology and Psychiatry, be and it is hereby accepted as of December 31, 1953, as she plans to enter private practice. We wish for her the highest success in her new undertaking. ELECTIONS RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that Mr. Samuel Walter Washington be and he is hereby elected Lecturer in Foreign Affairs for the second semester of the session of 1953-54, at a salary of $2,000. for the semester. He is to take the place of Mr. Norman Burns UNCOLLECTIBLE HOSPITAL ACCOUNTS The following resolution was adopted RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that the Hospital Accounts Committee be and it is hereby authorized to charge off as uncollectible accounts Schedules 401, 404, and 405, aggregating $32,822.94, recommended by them for cancellation. LETTER TO MRS. LAMBETH The Rector having read to the Board a statement prepared by President Darden in pursuance of the Board's Resolution of November 6th regarding Mrs. W. A. Lambeth's proposal to purchase "Villino Lambeth", it was resolved by the Board that the Rector should (1) supply copies of the President's statement to the members of the Board, and (2) that he should write to Mrs. Lambeth, on behalf of the Board, a reply to her proposal and to her representations made before the Board on June 12th, using as a basis for his letter the Resolution of November 6th and the President's statement. NAMING OF LAMBETH LANE In response to a proposal by President Darden, the following resolution was adopted by the Board. RESOLVED by the Board of Visitors of The Rector and Visitors of the University of Virginia that the street which lies between the Faculty Apartments and the residence of Mrs. Philip Speed be and it is hereby named Lambeth Lane as a token of the regard of the University community for the memory of the late William A. Lambeth. McINTIRE BEQUEST A proposal to sell items of jewelry in the McIntire bequest appearing in the docket, President Darden noted that this matter had been settled by a vote of the Board on 10 April 1953 authorizing the appraisal and sale of the jewelry, the matter to be referred back to the Board if the appraised value could not be realized The Rector informed the Board that he had been consulted during President Darden's absence by Mr. C. Venable Minor, the University's Attorney, regarding pending litigation as to the disposal of surplus income from trusts created by the late Paul Goodloe McIntire. Because he agreed with Mr. Minor that the matter could not be delayed, he had approved the employment of Col. Joseph Hartfield, of New York, to act on behalf of the University. It was thereupon resolved that the Rector's action had the full approval of the Board. BAYLY-TIFFANY SCHOLARSHIPS Mr. Gravatt, Chairman of the special Committee on the Bayly-Tiffany Scholarships, reported that his Committee had met with the University Committee on Scholarships, Loans, and Employment immediately before the Board meeting, and that he would present a report at the next meeting of the Board DELAYED REGISTRATION FEE The President mentioned the good work of Professor Frank S. Kaulback, Jr. in organizing student registration procedures, explaining that the weakness remaining in the system is the low delayed registration fee of $5.00, which barely meets the administrative costs of late registration and provides no incentive to students to register on time, when the machinery is set up for it. It was accordingly resolved by the Board that the Delayed Registration fee be increased to $15.00, one-third of this fee ($5.00) to be non-remittable, to meet the costs of late registration, and the other two-thirds ($10.00) to be remittable at the discretion of the appropriate dean for proper cause. YOUNG ESTATE Mr. Gay requested, for the Finance Committee, approval of the Board to pay to Clara Mosby and Alice Bradshaw the sums of $600. and $500., respectively, from the estate of the late Mrs. Claudia Palmer Young, fifty per cent of whose estate had been willed to the University after the death of her son William, an Alumnus, if he should die without issue. Mr. Gay explained that the difficult handwriting in Mrs. Young's codicil to her will had raised a question as to the amounts, but that the two sums named above were believed to be the amounts intended. The Board accordingly resolved that Mr. Gay's request be approved SEPARATE DEPARTMENT OF PSYCHOLOGY The recommendation that Philosophy and Psychology be established as separate departments in the College was carried over to the next meeting. COMPLAINTS AGAINST PRESIDENT MORGAN L. COMBS The Rector reported to the Board that complaints had been made by certain student waitresses regarding their treatment by Dr. Combs and that these complaints had been supplemented by statements made by Miss Ann Lewis Payne, President of the Student Council of the school, in which she complained of the low morale of the students, due to the dictatorial attitude of Dr. Combs, the complete abolition of student government and the suppression of a free expression of opinion, and the general dissatisfaction of the students. Mrs. Hester Jacobus, one of the dormitory hostesses, likewise complained of her treatment by Dr. Combs. The complaints contained statements that Dr. Combs periodically was subject to bursts of temper in which he said and did things not consistent nor proper for one in his position of dignity. The Rector stated that those who complained seemed firm in their belief that these incidents and the present crisis were merely the culmination of a long series of similar incidents. The Rector further reported that certain faculty members had, at his request, appeared before the Mary Washington Committee. He summarized to the Board the statements of these faculty members Mrs. Wailes supplemented what the Rector had said, relating actual incidents as told to her and to the Mary Washington Committee, of which she is Chairman. She stated that the Mary Washington Committee - the Rector presiding - had met for the purpose of inquiring into certain complaints that had been made concerning conditions at Mary Washington College. If substance was found to the charges, the matter would be reported to the Board, otherwise it would be dropped. However, on the basis of information received during the inquiry and through letters, the Committee felt that the Board should be apprized of the situation existing there. The members of the Board then discussed at great length the entire situation In view of the fact that no opportunity to explain the matters concerned in the complaints had been afforded to Dr. Combs, a resolution was passed directing the Rector to write to Dr. Combs a summary of the complaints, and to request his appearance before the Board at Charlottesville on December 22nd, at 10:00 a.m. This resolution was adopted by a 13-0 vote. Mr. Gay, who had offered an earlier motion to suspend President Combs' administrative responsibilities pending further proceedings, refrained from voting on the ground that the welfare of the College required more immediate action. Mr. Black was cautioned to put in his letter to Dr. Combs a request that none of the persons who had made complaints, or who had appeared before the Board or the Board's Committee, or who had given statements to the Board or its Committee, should be in any way punished or their status changed. There followed a discussion of the procedure, and the view was offered by some of the members that Dr. Combs was an ill man, and that some of his difficulties in the administration of Mary Washington College might be due to his ill health. Others expressed the opinion that there had been indications over a considerable period of time of Dr. Combs' exercising authority in an arbitrary manner. Several of the members of the Board volunteered the statement that Dr. Combs had given twenty-five years of his life to the building up of Mary Washington and that great credit was due him for the present fine physical condition of the college buildings and grounds The President was asked to call on Dr. Combs and to ascertain his attitude. President Darden stated that if Dr. Combs should desire to retire on account of ill health, he did not believe that a pension could be provided for him, and in order for him to have any appreciable income he would have to occupy a position and render a service to Mary Washington College. It was the general consensus that if the complaints made were true that Dr. Combs' connection with the administration of the College should be severed, and whatever position were offered him should have no relation to administrative duties, and he should be requested to take no part in administrative duties. In fact, the consensus was that if he did take part in administrative duties, despite the request from the Board, that his entire connection with the College should then be severed President Darden, emphasizing the value of Dr. Combs' past accomplishments, and his own and others' respect for Dr. Combs' special abilities urged that Dr. Combs be retained at the College in an advisory capactiy even if relief from administrative duties should become necessary The matter was discussed in great detail, but with the thought that if the complaints were proven, the Board should take the firmest of action to protect the interests both of the faculty of Mary Washington and of the students. - - - - - - - - - - - - - - - - - On motion, the meeting was then adjourned. Barron F. Black Rector Francis L. Berkeley Secretary</field>
+   </doc>
+</add>

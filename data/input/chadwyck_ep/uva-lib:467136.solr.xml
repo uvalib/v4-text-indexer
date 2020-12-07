@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Johnson, Lionel Pigot, 1867-1902</field>
+      <field name="author_facet">Johnson, Lionel Pigot, 1867-1902</field>
+      <field name="author_sort_facet">johnson lionel pigot 1867 1902</field>
+      <field name="author_text">Johnson, Lionel Pigot, 1867-1902</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_3.1954.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">[1885]</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:467136</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Greek, Modern (1453- )</field>
+      <field name="main_title_display">Sir Walter Raleigh in the Tower ; [by L. P. Johnson</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">Sir Walter Raleigh in the Tower ; [by L. P. Johnson</field>
+      <field name="title_facet">sir walter raleigh in the tower</field>
+      <field name="title_sort_facet">sir walter raleigh in the tower</field>
+      <field name="title_text">Sir Walter Raleigh in the Tower ; [by L. P. Johnson</field>
+      <field name="year_display">[1885]</field>
+      <field name="year_facet">1885</field>
+      <field name="year_multisort_i">1885</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:467136&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:467136&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Johnson, Lionel Pigot, 1867-1902&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;johnson lionel pigot 1867 1902&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Sir Walter Raleigh in the Tower ; [by L. P. Johnson&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;sir walter raleigh in the tower&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;[1885]&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1885&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Johnson, Lionel Pigot&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1867&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1902&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Sir Walter Raleigh in the Tower&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;[by L. P. Johnson]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Chester&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Phillipson and Golder&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;[1885]&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp1949&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;gre&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;12 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Sir Walter Raleigh in the Tower&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;[by L. P. Johnson]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 24 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Sir Walter Raleigh in the Tower. I do not know what you are for, (I do not know what I am for myself, nor what anything is for), But I will search carefully for it even in being foiled, In defeat, poverty, imprisonment—for they too are great. Did we think victory great? So it is—but now it seems to me, when it cannot be helped, that defeat is great, And that death and dismay are great. —Walt Whitman. And have I lived so vainly? From the child Beside the Devon seas, past wars and wars, Up to this twelve years lodging? But I think Not vainly, from the first; can I think false, Who have not done aught else but merely think Through twelve years gradual moons? But that is past Now, and instead of a world's history's Dead weight within my brain, Guyana gold Shall gleam and glamour me across the seas, And burnish the grey dreams about my sleep, And I shall play the willing fool once more Beneath gold's gracious smile. What bars me here? Is gold so viler than the holier pearl, Chrysolite—than the jewel-fires that flash Through John's Apocalypse, that I should keep My lips from kissing gold? Well, this one time, Hard by the shades, truth shall have farther flight Than I am used to grant her—I have lived Ever in the world and made the seasons serve— The Devon shores were lighter. Wars, quick clash Of living blades athwart the heat o' the sun Everywhere—France and the Netherlands— Ah me, war's pulsing passion! I was then Young, and the years were mine, and little need To waste my wisdom on dead men, dead deeds, To moralise old worlds, when death-clutched gulphs And hidden continents of solemn cold Called to me: and I went with him who dreams Down in the lower calm below the winds, Unvexed of violent nights—Gilbert and I Northward together sailed an empty quest; Wherefore perforce I slaughtered Irish folk Until my star should rise: and my star rose, A sudden glory blossomed into light Along the lively skies: nay, no far star Tremulous in the low sun's waving fields— But my star was the sun, that drew me close Within the splendour of its path, whereon It moved with music, and the dancing spheres Sang crystalline concent: my sixty years Keep still the thrill of it. Virginia— The maiden land, crown of that unworn world Mine, mine own work laboured in praise of her, The Virgin Queen to whom some gave their hearts And all of us our breath—Virginia Will hold me in men's memories until A newer world enthral them. And I won Honour from out the whirl of warring ships Midway the English waters, when the west Swayed on to death a world of Spanish ships And Spain upon the wrathful curling wastes And paths illimitable between all lands Would lay his domination: but the winds Whirled and the winds were against him, shielding us: And into northern waves that storm of death Wind-wildered fell away. Now though I die Dishonoured, having known this one great thing, I have not lived so vainly—nay but now Most richly, having loved: love won me next, Love that is lord of life, whose dominance Is life's justification: and with love, Under my sun's eclipse—two present suns Were over glory—with my light of love I lay i' the fields of Sherborne, shutting out Keen-griding wars and careful courtier-cares To carol all I knew, mere lilting wise, I could not make fair music, but I drew That deathless breath of music from the wilds Werethrough it thrilled, across the opalled path And palace of the sun: ah, and all lutes, All viols of the morning failed, all harps Left off to speak their meaning, for the strange Calm beauty of that passionate large tone And paradisal quiring, when the song Of loftiest Spenser charmed them. Then I sailed, Breaking from love: was there not gold and gold And still gold, in the forest world that lay A glory of sunflushed flowers and flowing leagues Of unimagined waterways, that lay I' the south, a Patmos-vision? Always gold Is the most mightiest lord; and so I sailed, Days and nights, days and nights, an upright life Close to white stars and throbbing suns, with winds Blown round it from the waters, and blue gulphs Pearl-islanded on high—I think those seas Are holier than all soil with gold in it, That are thus large-natured: I think that scarce Between the Clashing Rocks and scarce amid Night's utter peril and star-blinding wrath One thought of possible Glauce stung the heart Of Jason Argonaut—the seas forbade, And his dark isolate love sufficed him there Afar from venomous Corinth. At the end, Touching on Trinidad, we wrested that From the branding grasp of Spain and set our sails To win the golden country. Ah, the pang Beating upon our hearts when that fresh world Flashed, and the thunder of our triumph cry Rang down the glinting surf: and suddenly, With hearts aflame and eyes whirling, we swept Out from the heaving ocean glare and won The breast of Orinoco! And meseems, Sitting here far enough from any wild Voices of hurricane and battle roar, That only up those virgin-furrowed leagues Where the mere air breathed glory, and a world Panted a purer passion than elsewhere Poisons all innocent life, that only there I touched that earlier height, wherefrom fair Greeks Beside the breathless beautiful hyaline Spoke with night's choral voices, and were blest With fervency of instant suns, and knew The secular love of earth. Woe's me, the tense Passion of our strange voyage when we dreamed Old phantasies of Zion citadel, And won their revelation! for by day Wonderful living flames blinded and smote The quickened air with music: and we cried That surely these were spirits of the Throne And very Seraphim: and the rich nights Heavy-breathed, flower-passioned, when our sleep Whispered low Spanish syllables, and one Waking caught murmured names of faery towns, Manoa—El Dorado—or a star Fell from its fellows and was lost—gold, gold, Ever more gold for gleaning; then a breath Fired the wide east with flame-flowers, and the night Became coruscant crystal purple-veined And pierced with paling planets: but we found Never our hungered city, where it glows A glory and a silence evermore, Men shall not walk there—never won our quest Crowning our sea-worn foreheads: but we won Open embrace of ocean falling down Into the flame-pulsed gulphs, and fought the winds And brought our memories home. The rest? for the rest— A trouble of worldly glare wherein I laughed All chains of conscience from me, rising high Beyond the bars of friendship, and false thoughts Of common kindliness—that Cadiz hour, A very blast of battle—and the fall Of that high star that swept too nigh the sun Athwart my path; my sphere strode passingly Its lightning field of lustre; but perchance The fallen Essex found as fair a lot I' the night where to I thrust him: for a cold Shudder of death swayed heavily over us And smote upon our sun: and all we paled Darkling and undistinguished, while mere night Crept on our faded heavens, that we traced An obscure orbit striking transverse ways About the dubious gloom: and when he came, This James of Scotland from his bleak-blown north, This pitiful meanly passioned fitfulness Of devious starlight flickering a sickly glow Athwart the great sky pastures, verily My sphere, out-passioning his, affrighted him; And from the morning glory perishing I vailed me of my brightness. Oh, I mind me The beautiful grey city Winchester, the scene of Raleigh's treason trial. and the press Thronging their justice hall, and lending me The love of kindly eyes; and at the last Mine enemies had their will, vouchsating me To dwell twelve years in dreamland; of the which I dream this last of all, looking to take The sea's rough kiss erelong, and never dream Aught else but merely gold until I die And fill death's lingered pause with weary dreams, Thinking no more of gold. But now I know this truth at least of all Imaginable truths! that I have lived (As would I live again, were that to be?) Ever for mine own sake. I will not say That I have lived in vain, judging myself As from a clear decision. “Sir Walter Raleigh loved more fame than conscience.”—Ben Jonson In this whirl, Strain, clash of circumstance where men strike out Wildly and gasp for air and gasp for light But the keen air reels, and the light cleaves, blinds—oh here I cannot pluck truth from a common road, Find faith beside the path; but in myself Groping I clamber toward the lonely sun, A mark for staring men—and yet When the pierced heart of music throbs away Its terror of pitiless thrills, or when a sob Pants through the beautiful waters for a sign, And foreword of Typhoon coming with far Resonant thunder-sway of swooping waves, And vast inhuman whirl of cloud-passion Vibrating the clear stars, and on the low Marmoreal fields of sunset shuddering Havoc and dull eclipse; then even I, Raleigh, the courtly traitor, I, Raleigh, A clarion name in fight, I have felt at these Rare vision-hours a spirit lily-souled “Pure as the streame of aged Simois, And as the spotlesse lilly, was her soule.” —Browne. Float through the waste air-spaces, with strange flowers Fulfilling barren hollows, on the heights Naked of any beauty, any grace Desirable, shedding an aureole Of triple-enfolded flame—and then at close The circling echo breaks, and the drear seas Shiver discoloured coldly, and the flight Of saffron wings chills the grey wastes of air, And I have learnt my lesson: never peace, Never a visioned beauty, but some death Outstretching hands of ice ensnareth it; And then come delicate pangs playing a low Sweet undertone of sorrow: once I caught The very tune of it, and fashioned it Into a careless song, and sang it out Among the Sherborne birds:— Over the fields of the Morning Star Strays the spirit I find not here Under the Morning Star: When the flush i' the East is clear, Among the rose and the lily beds There she wanders afar: Through the fields of the Morning Star, Where the light outspreads. Over the lawns of the Evening Star Glides the spirit I there shall find “??????, ????? ?????? ??? ???????? ???????? ????.” —Sappho. Over the Evening Star: When the death of the Sun is blind, Among the reed and the poppy beds There she lingers afar: On the lawns of the Evening Star, Where the light downspreads. A provident song, with hope to help it fly Scaling the summer air! and yet it rests Merely on death's solution, whereupon All tired labours rest: myself have known Death's province peopled proudly; our lone queen Rules there her solitude of cold; and there Fair Henry's lips laugh gently; and high souls Scorn there the wingless waters—not more high Ulysses hailed his brothers bowed to death Discomfortably moaning. O great Death! Imperial, perdurable, ancient of days! That I must die, broken with breaking years, Embittered past my mood, not having won Any so great a thing that I would leave The Devon coast, and be no more a child, Were I a child there now, to toil for it! That death must be my crown and goal! I pray Death reap me with the glitter of sudden steel Or find me on the sea ways: I would hate A crown that were no crown: I that have flared My years out mid the windy battle breath, And known the tempest and insatiate wings Of outlawed shrieking winds: I that have hailed (Hath ever an ocean speech so terrible As tragic antiphons alternating Extremes o' the world's old passion? hath the sea Surges thus earth-shaking?) I that have hailed Lips of so mighty a music, and have heard The fiery voices of battalioned stars Clang through the ways of darkness and upflow Among the springs of light, reverberate From mouths fulfilled with thunder and the thoughts That fought at Shakespeare's heart: I too that thus Captive have wrestled these laborious years To tell a world of weariness, a world Starred with long burning splendours, a world grown From unconceived abeyance to a full Stature and complete present—can I pass Utterly, and the world be never stirred With memories of me? And though the world,— The far, unknowing, unfamiliar world,— Find me no soul to praise, no starry brow To circle with high praises, what skills then Praise or dispraise to mould men's dreams in death? Yet to live on past death a popular scorn Surpasses silence. And at least that style, Shepherd of Ocean, will not suffer me Find sheer forgetfulness. Ah, scorn of fate! Shepherd of Ocean! shepherding the flock Of all my days far down the whelming seas To fold with Death i' the West! Such poison-spilth Hath chymic fate shed over the clear phrase That leaped to hail me from pure Spenser's lips Instinct with silvern notes by the pure flow Of Heliconian Mulla. But do I see so clearly at this last, That I may part the clouds this way and that Tracing a path for truth? I do not know More than men may—therein the laughter lies That shrills our work to death: and though I loathed Dark Spain's priest-kindly smile, and though I gave Such love as I could find about my heart To comfort her curst wounds, yet of these things I know no word to say: we never know, Always that is the pity; if we might know, Faith had less evil feet. Ah, was it thus With sickly thoughts and waste of weakling words The world once heard me speak? I think the world Will never lose the trumpet of my tongue, Set blown by godlike Grenville dying there Amid the Spanish faces. I could speak Man's language then, long since. Well, these twelve years Have left me somewhat weary, though I sail Gold-greedy to Guyana; and I think I shall have silence round about my sleep Presently.</field>
+   </doc>
+</add>

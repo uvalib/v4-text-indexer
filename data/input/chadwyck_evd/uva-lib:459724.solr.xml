@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Clarendon Press</field>
+      <field name="author_facet">Clarendon Press</field>
+      <field name="author_sort_facet">clarendon press</field>
+      <field name="author_text">Clarendon Press</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.1095.xml</field>
+      <field name="date_indexed_facet">201909240355</field>
+      <field name="date_text">1885</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459724</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Cutteleres ; XXVI. The conspiracy to take Jesus</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Cutteleres ; XXVI. The conspiracy to take Jesus</field>
+      <field name="title_facet">cutteleres</field>
+      <field name="title_sort_facet">cutteleres</field>
+      <field name="title_text">The Cutteleres ; XXVI. The conspiracy to take Jesus</field>
+      <field name="year_display">1885</field>
+      <field name="year_facet">1885</field>
+      <field name="year_multisort_i">1885</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459724&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459724&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Cutteleres ; XXVI. The conspiracy to take Jesus&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;cutteleres&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1885&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1885&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Cutteleres&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;XXVI. The conspiracy to take Jesus&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Oxford&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Clarendon Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1885&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873563-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv11095&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Cutteleres&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;XXVI. The conspiracy to take Jesus&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 36 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and editorial matter including introduction and glossary omitted.&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Source texts incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The cutteleres.</field>
+      <field name="desc_meta_file_display">Genre: English mystery and miracle plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1475 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1352–1376 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">XXVI. THE CUTTELERES. The conspiracy to take Jesus. Square brackets represent sections of text unclear or absent in the original and supplied by the current editor</field>
+      <field name="fulltext">[PERSONS OF THE PLAY. Pilatus. Cayphas. Anna. Judas. Janitor. Primus, secundus Doctor. Primus, secundus Miles.]</field>
+      <field name="fulltext">[Scene I, Pilate's Hall.] 1. Pil. Vndir þe ryallest roye of rente and renowne, Now am I regent of rewle þis region in reste, Obeye vnto bidding bud busshoppis me bowne, And bolde men þat in batayll makis brestis to breste. To me be-taught is þe tent þis towre begon towne, For traytoures tyte will I taynte, þe trewþe for to triste, The dubbyng of my dingnite may no?t be done downe, Nowdir with duke nor dugeperes, my dedis are so dreste. My desire muste dayly be done With þame þat are grettest of game, And þer agayne fynde I but fone, Wherfore I schall bettir þer bone. But he þat me greues for a grume, Be-ware, for wystus I am. 2. Pounce Pilatt of thre partis/Þan is my propir name; I am a perelous prince,/To proue wher I peere Emange þe philosofers firste/Ther fanged I my fame, Wherfore I fell to affecte/I fynde no?t my feere. He schall full bittirly banne/Þat bide schall my blame; If all my blee be as bright/As blossome on brere. For sone his liffe shall he lose,/Or left be for lame, Þar lowtes no?t to me lowly,/Nor liste no?t to leere. And þus sen we stande in oure state, Als lordis with all lykyng in lande, Do and late vs wete if ?e wate Owthir, sirs, of bayle or debate, Þat nedis for to be handeled full hate, Sen all youre helpe hanges in my hande. [Enter Caiaphas and Annas.] 3. Caip. Sir, and for to certefie þe soth in youre sight, As to ?ou for oure souerayne semely we seke. Pil. Why, is þer any myscheue þat musteres his my?t, Or malice thurgh meene menn vs musters to meke? Anna. ?a, Sir, þer is a ranke swayne/Whos rule is no?t right, For thurgh his romour in þis reme/Hath raysede mekill reke. Pil. I here wele ?e hate hym,/Youre hartis are on heght, And ellis if I helpe wolde/His harmes for to eke. But why are ?e barely þus brathe? Bees rewly, and ray fourth your reasoune. Caip. Tille vs, sir, his lore is full lothe. Pil. Be-ware þat we wax no?t to wrothe. An. Why, sir, to skyste fro his skath We seke for youre socoure þis sesoune. 4. Pil. And if þat wrecche in oure warde/Haue wrought any wrong, Sen we are warned we walde witte,/And wille or we wende; But and his sawe be lawfull,/Legge no?t to lange, For we schall leue hym if us list/With luffe here to lende. i Doc. And yf þat false faytor/Youre fortheraunce may fang, Þan fele I wele þat oure folke/Mon fayle of a frende; Sir þe streng[t]he of his steuen ay still is so strange, That but he schortely be schent he schappe vs to schende. For he kennes folke hym for to call Grete god son, þus greues vs þat gome, And sais þat he sittande be schall, In high heuen, for þere is his hall. Pil. And frendis if þat force to hym fall, It semes no?t ?e schall hym consume. 5. But þat hymselfe is þe same/?e saide schulde descende, ?oure seede and ?ou þen all for to socoure. Cayp. A! softe sir, and sese, For of criste whan he comes/No kynne schall be kenned; But of þis caytiffe kynreden/We knawe þe encrese. He lykens hym to be lyke god/Ay lastand to lende, To lifte vppe þe laby to lose or relesse. Pil. His maistreys schulde moue ?ou,/Youre mode for to amende. An. Nay, for swilke mys fro malice/We may no?t vs meese, For he sais he schall deme vs, þat dote, And þat tille vs is dayne or dispite. Pil. To noye hym nowe is youre noote, But ?itt þe lawe lyes in my lotte. i doc. And yf ?e will witt sir, ?e wotte, Þat he is wele worthy to wyte. 6. For in oure temple has he taught/By tymes moo þan tenne, Where tabillis full of tresoure lay/To telle and to trye, Of oure cheffe mony-changers;/Butte, curstely to kenne, He caste þam ouere, þat caytiffe,/And counted no?t þer by. Cay. Loo! sir, þis is a periurye/To prente vndir penne, Wher-fore, make ?e þat appostita,/We praye ?ou, to plye. Pil. How mene ?e? Cay. Sir, to mort hym for mouyng of menne. Pil. Þan schulde we make hym to morne/But thurgh ?oure maistrie. Latte be sirs, and move þat no more But what in youre temple be-tyde. i Mil. We! þare sir, he skelpte oute of score, Þat stately stode selland þer store. Pil. Þan felte he þam fawte be-fore, And made þe cause wele to be kydde. 7. But what taught he þat tyme,/Swilk tales as þou telles? i Mil. Sir, þat oure tempill is þe toure/Of his troned sire, And þus to prayse in þat place/Oure prophettis compellis, Tille hym þat has poste/Of Prince and of Empire. And þei make domus domini/Þat derand þare dwellis, Þe denn of þe derfenes/And ofte þat þei desire. Pil. Loo! is he noght a mad man/Þat for youre mede melles? Sen ?e ymagyn a-mys/Þat makeles to myre. ?oure rankoure is raykand full rawe. Cay. Nay, nay, sir, we rewle vs but right. Pil. For sothe, ?e ar ouer cruell to knawe. Cay. Why, sir? for he wolde lose oure lawe Hartely we hym hate as we awe, And þerto schulde ?e mayntayne oure myght. 8. For why, vppon oure sabbott day/Þe seke makes he saffe, And will no?t sesse for oure sawes/To synke so in synne. ii Mil. Sir, he coueres all þat comes/Recoueraunce to craue, But in a schorte contynuaunce/Þat kennes all oure kynne. But he haldis noght oure haly dayes,/Harde happe myght hym haue! And ther-fore hanged be he/And þat by þe halse. Pil. A! hoo sir, nowe, and holde in? For þoff ?e gange þus gedy/Hym gilteles to graue, With-outen grounde ?ow gaynes noght,/Swilke greffe to be-gynne. And loke youre leggyng be lele, With-owtyn any tryfils to telle. An. For certayne owre sawes dare we seele. Pil. And þan may we prophite oure pele. Cay. Sir, bot his fawtes were fele, We mente no?t of hym for to melle. 9. For he pervertis oure pepull/Þat proues his prechyng, And for þat poynte ?e schulde prese/His pooste to paire. ii doc. ?a, sir, and also þat caytiff/He callis hym oure kyng, And for þat cause our comons are casten in care. Pil. And if so be, þat borde to bayll will hym bryng, And make hym boldely to banne þe bones þat hym bare. For-why þat wrecche fro oure wretthe schal not wryng, Or þer be wrought on hym wrake. i doc. So wolde we it ware. For so schulde ?e susteyne youre seele, And myldely haue mynde for to meke ?ou. Pil. Wele, witte ?e þis werke schall be wele, For kende schall þat knave be to knele. ii doc. And so þat oure force he may feele, All samme for þe same we beseke ?ou.</field>
+      <field name="fulltext">[Scene II, Outside Pilate's hall, Judas alone.] 10. Jud. Ingenti pro Iniuria, hym Jesus, þat Jewe, Vn-iust vn-to me, Judas, I juge to be lathe; For at oure soper as we satte, þe soþe to pursewe, With Symond luprus full sone/My skiffte come to scathe. Tille hym þer brought one a boyste,/My bale for to brewe, That baynly to his bare feet/To bowe was full braythe. Sho anoynte þam with an oynement/T[h]at nobill was and newe; But for þat werke þat sche wrought/I wexe woundir wrothe. And this, to discouer, was my skill, For of his penys purser was I, And what þat me taught was vntill, The tente parte þat stale I ay still; But nowe for me wantis of my will, Þat bargayne with bale schall he by. 11. Þat same oynement, I saide,/Might same haue bene solde For siluer penys in a sowme/Thre hundereth, and fyne Haue ben departid to poure men/As playne pite wolde. But for þe poore ne þare parte/Priked me no peyne, But me tened for þe tente parte,—/Þe trewthe to be-holde,— That thirty pens of iij hundereth/So tyte I schulde tyne. And for I mysse þis mony/I morne on þis molde, Wherfore for to mischeue/Þis maistir of myne, And þerfore faste forþe will I flitte The princes of prestis vntill, And selle hym full sone or þat I sitte, For therty pens in a knotte knytte. Þus-gatis full wele schall he witte, Þat of my wretthe wreke me I will. [Knocks at the gate of Pilate's hall. 12. Do open, porter, þe porte of þis prowde place, That I may passe to youre princes/To proue for youre prowe. [Janitor, opening. Jani. Go hense, þou glorand gedlyng!/God geue þe ille grace, Thy glyfftyng is so grymly/Þou gars my harte growe. Jud. Goode sir, be toward þis tyme,/And tarie noght my trace, For I haue tythandis to telle. Jani. ?a, som tresoune I trowe, For I fele by a figure in youre fals face, It is but foly to feste affeccioun in ?ou. For Mars he hath morteysed his mark, Eftir all lynes of my lore, And sais ?e are wikkid of werk, And bothe a strange theffe and a stark. Jud. Sir, þus at my berde and ?e berk It semes it schall sitte yow full sore. 13. Jani. Say, bittilbrowed bribour,/Why blowes þou such boste? Full false in thy face in faith can I fynde/Þou arte combered in curstnesse And caris to þis coste; To marre men of myght/Haste þou marked in thy mynde. Jud. Sir, I mene of no malice/But mirthe meve I muste. Jani. Say on, hanged harlott,/I holde þe vn-hende, Thou lokist like a lurdayne/His liffelod hadde loste. Woo schall I wirke þe away but þou wende! Jud. A! goode sir, take tente to my talkyng þis tyde, For tythandis full trew can I telle. Jani. Say, brethell, I bidde þe abide, þou chaterist like a churle þat can chyde. Jud. ?a, sir, but and þe truthe schulde be tryed, Of myrthe are þer materes I mell. 14. For thurgh my dedis youre dugeperes/Fro dere may be drawe[n]. Jani. What! demes þou till oure dukes/That doole schulde be dight? Ju. Nay, sir, so saide I noght,/If I be callid to counsaille/Þat cause schall be knawen Emang þat comely companye,/To clerke and to knyght. Jani. Byde me here, bewchere,/Or more blore be blowen, And I schall buske to þe benke/Wher baneres are bright, And saie vnto oure souereynes,/Or seede more be sawen, Þat swilke a seege as þi selff/Sewes to þer sight. [He goes to the lords.] My lorde nowe, of witte þat is well, I come for a cas to be kydde. Pil. We! speke on, and spare not þi spell. Cay. ?a, and if vs mystir to mell, Sen ?e bere of bewte þe bell, Blythely schall we bowe as ?e bidde. 15. Jani. Sir, withoute þis abatyng,/Þer houes as I hope, A hyve helte full of ire, for hasty he is. Pil. What comes he fore? Jani. I kenne hym noght, but he is cladde in a cope, He cares with a kene face vncomely to kys. Pil. Go, gete hym þat his greffe/We grathely may grope, So no oppen langage be goyng amys. [Janitor returns to Judas. Jani. Comes on by-lyue, to my lorde,/And if þe liste to lepe, But vttir so thy langage/That þou lette noght þare blys. [Judas enters.] Jud. That lorde, sirs, myght susteyne ?oure seele Þat floure is of fortune and fame. Pil. Welcome, thy wordis are but wele. Cay. Say, harste þou knave? can þou not knele? Pil. Loo, here may men faute in you fele. [To Cayphas.] Late be, sir, youre scornyng, for schame. 16. Bot, bewshere, be no?t abayst to byde at þe bar. Ju. Be-fore you, sirs, to be brought/Abowte haue I bene, And allway for youre worschippe. An. Say, wotte þou any were? Ju. Of werke sir, þat hath wretthid ?ou,/I wotte what I meene. But I wolde make a marchaundyse/Youre myscheffe to marre. Pil. And may þou soo? Ju. Els madde I such maistries to mene. An. Þan kennes þou of som comberaunce/Oure charge for to chere? For cosyne, þou art cruell. Ju. My cause, sir, is kene. For if ?e will bargayne or by, Jesus þis tyme will I selle ?ou. i doc. My blissing, sone, haue þou for-thy, Loo! here is a sporte for to spye. Jud. And hym dar I hete ?ou in hye, If ?e will be toward I telle ?ou. 17. Pil. What hytist þou? Jud. Judas scariott. Pil. Þou art a juste mane, Þat will Jesu be justified/By oure jugement; But howe-gates bought schall he be?/Bidde furthe thy bargayne. Jud. But for a litill betyng/To bere fro þis bente. Pil. Now, what schall we pay? Jud. Sir, thirtipens and plete, no more þane. Pil. Say, ar ?e plesid of this price/He preces to present? ii doc. Ellis contrarie we oure consciens,/Consayue sen we cane Þat Judas knawes h[y]m, culpabill. Pil. I call ?ou consent. But Judas, a knott for to knytt, Wilte þou to þis comenaunt accorde? Jud. ?a, at a worde. Pil. Welcome is it. ii Mil. Take þee of! a traytour, tyte! i Mil. Now leue sir, late noman wete, How þis losell laykis with his lorde. 18. Pil. Why, dwellis he with þat dochard,/Whos dedis hase us drouyd? i Mil. Þat hase he done sir, and dose,/No dowte is þis day. Pil. Than wolde we knawe why þis knave/Þus cursidly contryued? ii Mil. Enquere hym sen ?e can best/Kenne if he contrarie. Pil. Say, man, to selle þi maistir/What mysse hath he moved? Ju. For of als mekill mony he made me delay; Of ?ou, as I resayue, schall but right be reproued. An. I rede noght þat ?e reken vs/Oure rewle so to 'ray. For þat þe fales fende schall þe fang, i Mil. When he schall wante of a wraste. i doc. To whome wirke we wittandly wrang, ii doc. Tille hym bot ?e hastely hang. iii doc. ?oure langage ?e lay oute to lang, But Judas, we trewly þe trast. 19. For truly þou moste lerne vs/That losell to lache, Or of lande, thurgh a-lirte,/That lurdayne may lepe. Jud. I schall ?ou teche a token/Hym tyte for to take Wher he is thryngand in þe thrang,/With-outen any threpe. i Mil. We knawe hym noght. Ju. Take kepe þan þat caytiffe to catche The whilke þat I kisse. ii Mil. Þat comes wele þe, corious, I cleepe! But ?itt to warne vs wisely,/All-wayes must ?e wacche; Whan þou schall wende forth-with/We schall walke a wilde hepe, And therfore besye loke now þou be. Jud. ?is, ?is, a space schall I spie vs, Als sone as þe sonne is sette, as ?e see. i Mil. Go forthe, for a traytoure ar ?e. ii Mil. ?a, and a wikkid man. i doc. Why, what is he? ii doc. A losell sir, but lewte shuld lye vs, 20. He is trappid full of trayne þe truthe for to trist, I holde it but folye his [? faythe] for to trowe. Pil. Abide in my blyssing,/And late youre breste, For it is beste for oure bote/In bayle for to bowe. And Judas, for oure prophite/We praye þe be prest. Ju. ?itt hadde I noght a peny/To purvey for my prowe. Pil. Þou schalte haue delyueraunce/Be-lyue at þi list, So þat þou schall haue liking/Oure lordschipp to loue. And therfore, Judas, mende þou thy mone, And take þer þi siluere all same. Ju. ?a nowe is my grete greffe ouere-gone. i Mil. Be lyght þan! Ju. ?is, latte me allone! For tytte schall þat taynte be tone, And þerto jocounde and joly I am. 21. Pil. Judas, to holde þi behest/Be hende for oure happe, And of vs helpe and vpholde/We hete þe to haue. Ju. I schall be-kenne ?ou his corse/In care for to clappe. An. And more comforte in þis case/We coveyte not to craue. i Mil. Fro we may reche þat rekeles/His ribbis schall we rappe, And make þat roy, or we rest,/For rennyng to raffe. Pil. Nay, sirs, all if ?e scourge hym/?e schende no?t his schappe, For if þe sotte be sakles/Vs sittis hym to saue. Wherfore when ?e go schall to gete hym, Vn-to his body brew ?e no bale. ii Mil. Our liste is fro lepyng to lette hym, But in youre sight sownde schall we sette hym. Pil. Do flitte nowe forthe till ?e fette hym, With solace all same to youre sale. [Exeunt Judas and soldiers.</field>
+   </doc>
+</add>

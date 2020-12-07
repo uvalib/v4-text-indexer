@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Clarendon Press</field>
+      <field name="author_facet">Clarendon Press</field>
+      <field name="author_sort_facet">clarendon press</field>
+      <field name="author_text">Clarendon Press</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.1092.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text">1885</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459721</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Coriours ; XXIII. The Transfiguration</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">The Coriours ; XXIII. The Transfiguration</field>
+      <field name="title_facet">coriours</field>
+      <field name="title_sort_facet">coriours</field>
+      <field name="title_text">The Coriours ; XXIII. The Transfiguration</field>
+      <field name="year_display">1885</field>
+      <field name="year_facet">1885</field>
+      <field name="year_multisort_i">1885</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459721&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459721&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Coriours ; XXIII. The Transfiguration&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;coriours&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1885&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1885&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Coriours&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;XXIII. The Transfiguration&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Oxford&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Clarendon Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1885&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873556-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv11092&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Coriours&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;XXIII. The Transfiguration&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 26 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries and editorial matter including introduction and glossary omitted.&lt;lb/&gt;The following plays have been taken from this source:&lt;lb/&gt;Source texts incomplete&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: The coriours.</field>
+      <field name="desc_meta_file_display">Genre: English mystery and miracle plays.</field>
+      <field name="desc_meta_file_display">Date first published: 1475 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1352–1376 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">XXIII. THE CORIOURS. The Transfiguration. Square brackets represent sections of text unclear or absent in the original and supplied by the current editor</field>
+      <field name="fulltext">[PERSONS OF THE PLAY. Deus Pater. Jesus. Petrus. Jacobus. Johannes. Moyses. Helyas.]</field>
+      <field name="fulltext">[Scene, first on the way to the mountain, then the mountain itself.] 1. Jesus. PETIR, myne awne discipill dere, And James and John, my cosyns two, Takis hartely hede, for ?e schall here þat I wille telle vnto nomoo. And als ?e schall see sightis seere, Whilke none schall see bot ?e alsoo, Therfore comes forth, with me in fere, For to ?one mountayne will I goo. Ther schall ?e see a sight Whilk ?e haue ?erned lange. Petrus. My lorde, we are full light And glad with þe to gange. 2. Jesus. Longe haue ?e coveyte for to kenne My fadir, for I sette hym be-fore, And wele ?e wote whilke tyme and when In Galyle gangand we were. ‘Shewe vs thy ffadir,’ þus saide ?e then, ‘Þat suffice vs with-outen more;’ I saide to ?ou and to all men, ‘Who seis me, seis my fadyr þore.’ Such wordis to ?ou I spakke, In trewthe to make ?ou bolde, ?e cowde noght vndyr-take The tales þat I ?ou tolde. 3. Anodir tyme, for to encresse ?oure trouthe, and worldly you to wys, I saide, quem dicunt homines esse filium hominis? I askid ?ow wham þe pepill chase To be mannys sone, with-outen mys? ?e aunswered and saide, ‘sum moyses,’ And sum saide þan, ‘Hely it is.’ And sum saide, ‘John Baptist;’ Þan more I enquered you ?itt, I askid ?iff ?e ought wiste Who I was, by youre witte. 4. You aunswered, Petir, for thy prowe, And saide þat I was Crist, God sonne; Bot of thy selffe þat had noght þowe, My Fadir hadde þat grace be-gonne. Þerfore bese bolde and biddis now To tyme ?e haue my Fadir sonne. Jacobus. Lord, to thy byddyng will we bowe Full buxumly, as we are bonne. Johannes. Lorde, we will wirke thy will All way with trewe entent, We love God lowde and stille, þat vs þis layne has lente. 5. Petrus. Full glad and blithe awe vs to be, And thanke oure maistir, mekill of mayne, Þat sais, we schall þe sightis see, The whiche non othir schall see certayne. Jacob. He talde vs of his Fadir free, Of þat fare wolde we be full fayne. Joh. All þat he hyghte vs holde will hee, Therfore we will no forther frayne, But as he ffouchesaffe So sall we vndirstande. [Enter Moses and Elias; Jesus, between them, is transfigured, a bright light shining.] Beholde! her we haue nowe in hast Som new tythandys! 6. Helyas. Lord God! I loue þe lastandly, And highly, botht with harte and hande, Þat me, thy poure prophett Hely, Haue steuened me in þis stede to stande. In Paradise wonnand am I, Ay sen I lefte þis erthely lande; I come Cristis name to clarifie, And god his Fadir me has ordand, And for to bere witnesse In worde to man and wyffe, Þat þis his owne sone is And lord of lastand liff. 7. Moyses. Lord god! þat all welthis wele, With wille and witte we wirschippe þe, Þat vn-to me, Moyses, wolde tell Þis grete poynte of thy pryuyte, And hendly hente me oute of hell, Þis solempne syght for I schuld see, Whan thy dere darlynges þat þore dwell Hase noght thy grace in swilk degree. Oure fforme-ffadyrs full fayne Wolde se this solempne sight, Þat in þis place þus pleyne Is mustered thurgh þie myght. 8. Petrus. Brethir, what euere ?one brightnes be? Swilk burdis be-forne was neuere sene, It marres my myght, I may not see, So selcouth thyng was neuere sene. Jacob. What it will worthe, þat wote no?t wee, How wayke I waxe, ?e will not wene, Are was þer one, now is ther thre, We thynke oure maistir is be-twene. Joh. That oure maistir is thare Þat may we trewly trowe, He was full fayre be-ffore, But neuere als he is nowe. 9. Petrus. His clothyng is white as snowe, His face schynes as þe sonne, To speke with hym I haue grete awe, Swilk ffaire be-fore was neuere fune. Jacob. Þe tothir two fayne wolde I knawe, And witte what werke þam hedir has wonne. Joh. I rede we aske þam all on rowe, And grope þam how þis game is begonne. Petrus. [To Elias and Moses.] My bredir, if þat ?e be come To make clere Cristis name, Telles here till vs thre, For we seke to þe same. 10. Elias. Itt is Goddis will þat we ?ou wys Of his werkis, as is worthy. I haue my place in Paradise, Ennok my brodyr me by. Als messenger withouten mys Am I called to this company, To witnesse þat goddis sone is þis, Euyn with hym mette and all myghty. To dede we wer noght dight, But quyk schall we come, With Antecrist for to fyght, Beffore þe day of dome. 11. Moyses. Frendis, if þat ?e ffrayne my name, Moyses þan may ?e rede by rawe, Two thousand ?ere aftir Adam Þan gaffe God vn-to me his lawe. And sythen in helle has bene oure hame, Allas! Adam's kynne þis schall ?e knawe, Vn-to crist come, þis is þe same, Þat vs schall fro þat dongeoun drawe. He schall brynge þam to blys, Þat nowe in bale are bonne, This myrthe we may not mys, For this same is Goddis sonne. 12. Jesus. My dere discipill, drede ?ou no?t, I am ?oure souerayne certenly, This wondir werke þat here is wrought Is of my Fadir al-myghty. Þire both are hydir brought, Þe tone Moyses, þe todir Ely, And for youre sake þus are þei sought To saie ?ou, his sone am I. So schall bothe heuen &amp; helle Be demers of þis dede, And ?e in erth schall tell My name wher itt is nede. 13. Petrus. A! loued be þou euere, my lord Jesus, Þat all þis solempne sight has sent, Þat ffouchest saffe to schew þe þus, So þat þi myghtis may be kende. Here is full faire dwellyng for vs, A lykand place in for to lende, A! lord, late vs no forther trus, For we will make with herte and hende A taburnakill vn-to þe Be-lyue, and þou will bide, One schall to Moyses be, And to Ely the thirde. 14. Jacob. ?a! wittirly, þat were wele done, But vs awe noght swilk case to craue; Þam thare but saie and haue it sone, Such seruice and he fouchesaffe. He hetis his men both morne and none Þare herber high in heuen to haue, Therfore is beste we bide hys bone; Who othir reedis, rudely þei raue. Joh. Such sonde as he will sende May mende all oure mischeue, And where hym lykis to lende, We will lende, with his leue. Hic descendunt nubes, Pater in nube. 15. Pater. ?e ffebill of faithe! folke affraied, Beis no?t aferde for vs in feere, I am ?oure God þat gudly grayth Both erthe and eyre wt clowdes clere. Þis is my sone, as ?e haue saide, As he has schewed by sygnes sere; Of all his werkis I am wele paied, Therfore till hym takis hede and here. Where he is, þare am I, He is myne and I am his, Who trowis þis stedfastly Shall byde in endles blisse. 16. Jesus. Petir, pees be vnto þe! And to ?ou also, James and John! Rise vppe and tellis me what ?e see, And beis no more so wille of wone. [The marvel vanishes. Petrus. A! lorde, what may þis mervayle be. Whedir is þis glorious gleme al gone? We saugh here pleynly persones thre, And nowe is oure lorde lefte allone. Þis meruayle movis my mynde, And makis my flessh affrayed. Jacob. Þis brightnes made me blynde, I bode neuere swilke a brayde. 17. Joh. Lorde god! oure maker almyghty! Þis mater euermore be ment, We saw two bodis stande hym by, And saide his fadir had þame sent. Petrus. There come a clowde of þe skye, Lyght als þe lemys on þame lent, And now fares all as fantasye, For wote no?t [we] how þai are wente. Jacob. Þat clowde cloumsed vs clene, Þat come schynand so clere, Such syght was never sene, To seke all sydis seere. 18. Joh. Nay, nay, þat noys noyed vs more, Þat here was herde so hydously. Jesus. Frendis, be noght afferde afore, I schall ?ou saye encheson why. My ffadir wiste how þat ?e were In ?oure faith fayland, and for-thy He come to witnesse ay where, And saide þat his sone am I. And also in þis stede To witnesse þe same, A quyk man and a dede Come to make clere my name. 19. Petrus. A! lord, why latest þou vs no?t see Thy ffadirs face in his fayrenes? Jesus. Petir, þou askis over grete degree, That grace may no?t be graunted þe, I gesse. In his godhed so high is he As all ?oure prophetis names expresse, Þat langar of lyffe schall he noght be Þat seys his godhede as it is. Here haue ?e sene in sight Poyntes of his priuite, Als mekill als erthely wighte May suffre in erthe to see. 20. And therfore wende we nowe agayne To oure meyne, and mende þer chere. Jacob. Oure felaws ful faste wil us frayne, How we haue faren, al in feere. Jesus. Þis visioun lely loke ?e layne, Vn-to no leffand lede itt lere, Tille tyme mannys sone haue suffered payne, And resen fro dede, kens it þan clere. For all þat trowis þat thyng Of my ffadir and me, Thay schall haue his blessing, And myne; so motte it be.</field>
+   </doc>
+</add>

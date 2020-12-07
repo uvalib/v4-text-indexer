@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Verlag von Gebr. Henninger</field>
+      <field name="author_facet">Verlag von Gebr. Henninger</field>
+      <field name="author_sort_facet">verlag von gebr henninger</field>
+      <field name="author_text">Verlag von Gebr. Henninger</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.2090.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1881</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464497</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Clerk who would see The Virgin</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">The Clerk who would see The Virgin</field>
+      <field name="title_facet">clerk who would see the virgin</field>
+      <field name="title_sort_facet">clerk who would see the virgin</field>
+      <field name="title_text">The Clerk who would see The Virgin</field>
+      <field name="year_display">1881</field>
+      <field name="year_facet">1881</field>
+      <field name="year_multisort_i">1881</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464497&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464497&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Clerk who would see The Virgin&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;clerk who would see the virgin&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1881&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1881&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Clerk who would see The Virgin&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Heilbronn&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Verlag von Gebr. Henninger&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1881&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp2558&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;cxxxviii, 536 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Clerk who would see The Virgin&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 25 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only "The Clerk who would see The Virgin" included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Middle English poetry.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Square brackets denote editorial insertions or emendations.</field>
+      <field name="fulltext">[The Clerk who would see The Virgin.] Lordyngys curtase &amp; hen(d)e, Lystyns how þis tale schall ende T(hat) I wyll ?ow seyne! And if ?e wyll with gode wyll here, Gret gode ?e may þer-in lere, In hert iff ?e (it) leyne. I schall tell wyffe &amp; mane How owre lady helpe cane That to hyre clepe at nede; Thare schall no-man sykerly Do nou?ht fore owre dere lady Bot he schall haue his mede. Thys schall I preue thorow a fkyll. Herkyns, if it be ?oure wyll Thys gest forto here, A feyre merakyll of a kny?ht, And of hys lady feyre &amp; bry?ht, That was hym leffe &amp; dere. A kny?ht wonyd here-besyde, That had I-no?he of gret pride Vnto hys lyffys ende. A lady he had to hys wyffe, That he louyd as hys lyffe, Was come of nobulle kynde. Syche a grace(!) god theme gafe, That þei my?ht no chyld haue Off all a VII ?ere. Therefore þe kny?ht &amp; hys lady Both þei were full sory And changyd oft þer chere. Neuer-þe-les þe kny?ht &amp; hys wyffe Both þei were of gowd lyffe. To god þei made a bone: That he schuld þem some chyld sende. Jhesu Cryst, þat is so hend, God grantyd þem well sone. So longe to-geþer þei gane praye, That he sent them childer tweye Off þer awne blode. The knyght &amp; hys lady wer full blythe And thankyd god many a sythe Off hys sonde gode. Thus þe knyght &amp; hys wyfe Lyued mery in clene lyffe With Joy &amp; grete solas, Tyll sche was with þe thyrd chylde; Welle oft þei thankyd Mary myld That sente þem þat grace. Than þei wer both blyth &amp; glad, Iche to oþer grete Joy made, Both erly &amp; late. The deuell þer-of had envy And went aboute as a spy There trew lufe to abate. Thus dyde þe fende, þe fowle wyght: He was about dey &amp; ny?ht In bale to brynge theme bothe. Bot he myght neuer be þe more In all þe tyme þer-before, Ons to make them wrothe. Sych a maner had þe knyght In serteyne vsage, euery ny?ht Thorow þe longe ?ere In-to hys chapell forto wend, Before owre lady gode &amp; hend To make hys prayere. Before oure lady suete &amp; dere There he made hys prayere With full gode wyll. Hys lady neuer ondername When he ?ede ne when he came, Bot ley &amp; slepyd wyll stylle. The fend of helle fondyd fast Iff þat he my?ht wordys cast Forto wrothe þem a-twyne. And fore hys wycked intysment Well ny?e þei had both be schente: Herkyns, I schall ?ow seyne. Vpon a dey, as ?e may here, The kny?ht &amp; his lady dere Sate in solas, And þer feyre chylder twey Wente afore theme forto pley In þat Iche place. The thyrd was in hyre wome I-wys. The knyght þerof hade Joy &amp; blysse. And hys lady þat stownd “Leff syre, seyd sche, Louyst þou any-thinge beter þan me, That owhere may be fonde?” “Sertys, dame, he seyd, nay, In no-thinge, me neuyne may, Ine haue so grete lykynge,— Bot of a woman þat I wote I loue wele more, god it wote, Than any erthly thynge.” “?e, ?e, þan seyd sche, Louyst þou an oþer better þan me?” And thought a lythere gyne And wend þat hyre lord thane Had louyd some oþer womane In þe maner of synne. Nay, be god! it was not so— It was an oþer, worth þe two, That he louyd in lede: It was owre lady þat he mente— And els þei had both be schente At þer most nede. The deuyll of hell wyst wele þis That hyre herte wrethyd is, And thou?ht it schulde be more; To helle he wente with-outen feyle, At þe fendys to take co?nseylle What hym best do were. Thorow co?nsyll of þe fendys felle The most schrewe þat wer in helle Went with-outen feylle, To a wych in þe to?ne he wente, That was out of þe ry?ht entente, And told hyre hys co?nsell. “Sey, woman, þan seyd he, Wyll þou wynne gold &amp; fe? Hast þou þer-to nede, Inow?e I schall þe gyfe of tho, That þou of myne erande go And do als I þe rede. To a castyll I wyll þe send, To þe lady gode &amp; hende, Go þou now forth rathe! Sche is a party of my kyne, Wherefore I wolde with some gynne Werne hyre of hyre skathe. Sche is led with grete vnryght: Hyre lord aryseth euery nyght And fro hyre goth full stylle, To an oþer woman wendys he, That he louys more than suche thre, And pleys with hyre hys fylle. All cold he commys a?en hyre to. Go to hyre &amp; sey hyre so! No word þou schalt lye. The next ny?ht þat schall come He schall do þat he is wone: Loke þat sche aspye! Sey hyre þat sche schew hym nou?ht— So myght sche sone to deth be brou?t; Byd hyre lye full styll! Iff þou do as I þe rede, Thow schalt haue rych mede, Of rede gold thy fylle.” “?is, sche seyde, well glad am I Forto go to my lady; I schall be þer full rathe. Sche hath do me full mykyll gode; I ame full Joyfull in my mode To werne hyre of hyre skathe.” Thorow þe deuyllus intyfmente Te þe castell sche is wente, And falewy?h þe lady þere. “Leffe madam, seyd sche, I wolde speke a word with ?ow, Iff it ?oure wyll were. Comly lady gente &amp; fre, I wold þe tell a priuyte, Iff þou me not bewrye. Thow schall leue onne my lare; Thynge þat thow ne wyst are, Herkyns now, I schall þe sey. Thy lord, þat thow louys so myche, He betrays þe sykerlych And doyht þe vylony: He gose fro þe Iche ny?ht ons To a womane in hys wonys. Luke þat thow aspye! The nex(t) nyght þat schall come He schall do as he is wone, By hyre forto lye. Bot at þou few hym nou?ht: So myght þou sone to deth be bro?ht; Styll þat thow lye!” The lady spake wordys no mo: “Womane, sche seyd, if it be so, Thow schall haue þi mede. Crystys cursse on þer hedys thane, The wych &amp; hyre lorys-mane, Fore þat ilke dede!” The fyrst ny?ht þat after came The knyght wente to bede anone, And hys lady dere. Styll sche ley as sche slepe, Fore þat sch(e) wolde take kepe The soth how it were. Hyre lorde wend sche hade slepe tho, And ros vp &amp; gane to go, Als he was bowne; Into his chapell he gane wende, To pray to owre lady hende, That bare godys sone. When the lady wyst þo That hyre lord was fro hyre go, Sche seyd alas þat whyle: “Now I wote þat it is, The wydew seyd me I-wys My lord had do me gyle. He louys an oþer better thane me. Alas, alas! þan seyd sche, Myne herte is full of care. The werke þat he wyrkys now It schall not fall fore hys prow, It schall hym rew full sore!” Thus sche gane alone speke, And thou?t how (sche) my?ht it wreke. To schend hyre-selue þat tyde, Sche drew a knyfe, soth to seyne, And slew hyre feyre chylder tweyne That ley be hyre syde. When sche had þis werke wro?ht, Sche seyd alas! &amp; hyre bethou?ht, “Myne herte is full of sorow! Wyte my lorde what I haue done, He wyll me scle ry?ht sone, That no-mane schall me borow. Ney, þat schall not be so, Wers I schall my-selue do, What-euer þerof fall.” With a knyffe, was kene &amp; scherpe, She smote hyre-selue to þe herte— That was werst of all! Now was þis a rewfull syght In þat chamber þat same ny?ht, The mane þat my?ht beholde: The lady &amp; hyre chylder twey, In hyre wombe þe thyrd, I sey, All þei were wele colde. The fend of hell was glad off þis, Fore he wend wele I-wys Off theme he schuld not feyle. Bot ?e schall here in a whyle How þat he was begyle And left all hys traueyle. Fore þe kny?ht, as ?e may here, Ley welle fast in hys prayere With full gode wylle. When hys prayers were a(l) done, To hys chamber he went sone Hym-selue a-lone wele stylle. To þe bede þe knyght gane go: He fonde hys wyfe, hys chylder two, Ded þei ley there; The bede was spred with þer blode. The kny?ht fore sorow wex ne wode And wonderyd on þat fare. “Lady, mersy! seyd þe kny?ht, Who has ben here þis nyght And done þis rewfull dede? Lady, helpe, I ame forelorne, Bot ?e, þat I haue bene beforne, Helpe me at þis nede. Thys womane hath hyre-selue schente Thorow þe fendys entysmente— Lord, how may þis be? Iff I be takyne in þis lede, I schall be hangyd fore þis dede. Wheþer may I fle? Thys castell is so stronge with-alle: I ne mey owte at þe walle Nou-where a-boute Tyll to-morne, þat it be dey. Bot I may thane skape awey, Off my deth I doute.” Thus he wepyd &amp; made wo. To owre lady he clepyd tho— In herte hade he no gamme: As he was gyltles of þat dede, He prayd here helpe hym in þat nede And scheld hym fro schame. To þe chapell he went in haste And prayd oure lady swyth faste Send hym of hyre grace. What fore sorow &amp; fore wepe, Sone he fell fast on sclepe In þat same plas. Owre lady foregate hym no-thinge, Ne hyre sone, heuen kynge, To helpe at þat nede.— There schall no-man sykerly Do nou?ht fore owre dere lady, Bot he schall haue his mede.— Herkyns how þe fendys felle, How þat they wente oute of hell. So lothe þei were to tyne: A thousand wente on a raw, Fore þei wend in a throw The fawle haue to pyne. Some were ragyd &amp; longe-tayled, Scharpe clawyde &amp; longe nayled, The fendys euery-Ichon, Some had hornes grel &amp; longe, Oute of þer mouth þe fyre spronge— With-outene lake wer none. Than þis was a grysly syght, Who-so hade sene þem þat ny?ht Come rakynge on a raw. Lystyns now &amp; herkyns gamme, How all þer Joy was turned to schame In a lytell throw, Thorow þe my?ht of meyd Mary, That sche come do?ne frome heuyne hy A?ene þe fendys felle. Sche seyd: “fendys, fle awey! Fore here ?e haue tyned ?oure pray: The saule schall with me duelle.” “Ney, fore-soth, seyde Sathanas, Hyte hath hyre happyd a foule cas, Thou feylest of þi arte: Sche slew hyre-selue with ny?ht &amp; onde And hyre chylder with hyre honde. Of them(!) þou hast no parte.” The quene of heuen stude full styll And sofyrd þem to sey þer wyll; There-of sche gane smyle: “He þat ly?ht in my seruys, It schall be at hys asyse: He schall not tyne hys whyle.” The fendys cryed as þei wer wode: “Go we hens with body &amp; blode! No lenger wyll we duelle.” Fowre thousand fendys &amp; one Wend to take hyre &amp; gone With-oute lettynge to helle. “Late be, fendys, ?oure feleny! Wene ?e fore-to haue mastry At ?oure awne wyll? Fyrst we schall speke wordys mo, That schall ?ow lyke non of tho Bot make ?oure hertys gryll. I congour þe, fend, þat thou me sey— That þou ne lete fore loue ne aye!— How camme þis sorow in place? And in what maner it fyrst begane, Where that it were thorow fend or womane? Tell me, or þou passe!” “Fore-soth, lady, seyd he, It come thorow a wych &amp; me— I may it not foresake; Boldly I haue it wro?ht. Therefore þei schall to hell be brou?t, There pays forto make.” “Ney, þer me thinke þou doyst wronge, When ?e hyre chermyd to ?oure hond That lyued in pese &amp; gry?ht. Take ?e, sche seyd, þat ?e haue wrou?t, And leue þat my sone hath bou?ht And delyth no-more þem wyth! Nay, I ?en-sey, sothly. Whyll sche dyd þis foly, Hyre lord was my seruaunte; And thorow hyre lordys besekynge They schall haue lyfe &amp; gode endynge Thorow my sones grante.” The fendys lowd þei gane crye And seyd: “late be þat, Mary! Hens I rede þou fle! Sche dyd it thorow a mys-chans, With-out schryft &amp; repenta(n)s: Oure sche schall be.” Than ansuerd þe quene Mary: “Late be þis noys &amp; þis cry! It helpe ?ou ry?ht nou?ht. Hyre lord &amp; sche be of a blode, And thorow his werkys trew &amp; gode To lyfe þei schall be brou?ht, And ches þan at þer fre wyll, After þat they thinke skyll, To whome þei wyll þem holde: With my sone forto duell Or with ?ou, fendys of hell, That makys ?ou so bolde.” When þe angellus begane to se The bodys schuld on lyue be Thorow oure ladys saw, Euery angell a deuyll hente And thyrst þem, þat there rybbys bente Fore tene of þer plaw. The fendys saw þat they hade lorne: Euery fend had oþer torne With a mody chere. Neuer þei stynte ne blane To þei to þe wych came, And sette hyre house on fyre. The fyre was blo as brymstone; They brake þe wychys bake-bone: Oneth on lyffe hyre lete. Hyre ney?bors þer be-syde Dorste no lenger abyde, Bot fled awey full sore.</field>
+   </doc>
+</add>

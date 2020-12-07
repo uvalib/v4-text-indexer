@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Cumberland, Richard, 1732-1811</field>
+      <field name="author_facet">Cumberland, Richard, 1732-1811</field>
+      <field name="author_sort_facet">cumberland richard 1732 1811</field>
+      <field name="author_text">Cumberland, Richard, 1732-1811</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1800's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V2.0958.xml</field>
+      <field name="date_indexed_facet">201909240355</field>
+      <field name="date_text">1807</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:460460</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Shakespear in the Shades</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 19th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 19th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Shakespear in the Shades</field>
+      <field name="title_facet">shakespear in the shades</field>
+      <field name="title_sort_facet">shakespear in the shades</field>
+      <field name="title_text">Shakespear in the Shades</field>
+      <field name="year_display">1807</field>
+      <field name="year_facet">1807</field>
+      <field name="year_multisort_i">1807</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:460460&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:460460&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Cumberland, Richard, 1732-1811&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;cumberland richard 1732 1811&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Shakespear in the Shades&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;shakespear in the shades&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1807&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1807&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Cumberland, Richard&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1732&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1811&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Shakespear in the Shades&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for Lackington, Allen, &amp;amp; Co. [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1807&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3872444-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv20958&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Shakespear in the Shades&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 17 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries, introductory and editorial matter omitted&lt;lb/&gt;The following play has been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Shakespear in the shades.</field>
+      <field name="desc_meta_file_display">Genre: Interlude.</field>
+      <field name="desc_meta_file_display">Date first published: 1806.</field>
+      <field name="desc_meta_file_display">Date first performed: Unknown.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">[Shakespear in the Shades.]</field>
+      <field name="fulltext">The scene is laid in Elysium, where the poet is discovered and opens the drama with the following address— [Shakespear.] “Most fair and equal hearers, know, that whilst this soul inhabited its fleshly tabernacle, I was called Shakespear; a greater name and more exalted honours have dignified its dissolution. Blest with a liberal portion of the divine spirit, as a tribute due to the bounty of the Gods, I left behind me an immortal monument of my fame. Think not that I boast; the actions of departed beings may not be censured by any mortal wit, nor are accountable to any earthly tribunal. Let it suffice that in the grave— When we have shuffled off this mortal coyle— “All envy and detraction, all pride and vain-glory are no more; still a grateful remembrance of humanity and a tender regard for our posterity on earth follow us to this happy seat; and it is in this regard I deign once more to salute you with my favoured presence, and am content to be again an actor for your sakes. I have been attentive to your sufferings at my mournful scenes; guardian of that virtue, which I left in distress, I come now, the instrument of Providence, to compose your sorrows, and restore to it the proportioned reward. Those bleeding characters, those martyred worthies, whom I have sent untimely to the shades, shall now at length and in your sight be crowned with their beloved retribution, and the justice, which as their poet I with-held from them, as the arbiter and disposer of their fate, I will award to them; but for the villain and the adulterer— The perjured and the simular man of virtue— “the proud, the ambitious, and the murderer I shall— Leave such to heaven, And to those thorns, that in their bosoms lodge To prick and sting them.— “But soft! I see one coming, that often hath beguiled you of your tears—the fair Ophelia—” The several parties now make their respective appeals, and Shakespear finally summons them all before him by his agent Ariel, for whose introduction he prepares the audience by the following soliloquy— “Now comes the period of my high commission: “All have been heard, and all shall be restor'd, “All errors blotted out and all obstructions, “Mortality entails, shall be remov'd, “And from the mental eye the film withdrawn, “Which in its corporal union had obscur'd “And clouded the pure virtue of its sight. “But to these purposes I must employ “My ready spirit Ariel, some time minister “To Prospero, and the obsequious slave “Of his enchantments, from whose place preferr'd “He here attends to do me services, “And qualify these beings for Elysium— “Hoa! Ariel, approach, my dainty spirit! (Ariel enters.) All hail, great master, grave Sir, hail! I come To answer thy best pleasure; be it to fly, To swim, to dive into the fire, to ride On the curled clouds—to thy strong bidding task Ariel and all his qualities— Shakespear. “Know then, spirit, “Into this grove six shades consign'd to bliss “I've separately remov'd, of each sex three; “Unheard of one another and unseen “There they abide, yet each to each endear'd “By ties of strong affection: not the same “Their several objects, though the effects alike, “But husband, father, lover make the change. “Now though the body's perish'd, yet are they “Fresh from their sins and bleeding with their wrongs; “Therefore all sense of injury remove, “Heal up their wounded faculties anew, “And pluck affliction's arrow from their hearts; “Refine their passions, for gross sensual love “Let it become a pure and faultless friendship, “Raise and confirm their joys, let them exchange “Their fleeting pleasures for immortal peace: “This done, with speed conduct them each to other “So chang'd, and set the happy choir before me.” I have the whole of this puerile production, written in a schoolboy's hand, which by some chance has escaped the general wreck, in which I have lost some records, that I should now be glad to resort to. I am not quite sure that I act fairly by my readers when I give any part of it a place in these memoirs, yet as an instance of the impression, which my mother's lectures had made upon my youthful fancy, and perhaps as a sample of composition indicative of more thought and contrivance, than are commonly to be found in boys at so very early an age, I shall proceed to transcribe the concluding part of the scene, in which Romeo has his audience, and can truly affirm that the copy is faithful without the alteration or addition of a single word— Romeo. “—Oh thou, the great disposer of my fate, “Judge of my actions, patron of my cause, “Tear not asunder such united hearts, “But give me up to love and to my Juliet. Shakespear. “Unthinking youth, thou dost forget thyself; “Rash inconsiderate boy, must I again “Remind thee of thy fate? What! know'st thou not “The man, whose desperate hand foredoes himself, “Is doom'd to wander on the Stygian shore “A restless shade, forlorn and comfortless, “For a whole age? Nor shall he hope to sooth “The callous ear of Charon, till he win “His passion by repentance and submission “At this my fixt tribunal, else be sure “The wretch shall hourly pace the lazy wharf “To view the beating of the Stygian wave, “And waste his irksome leisure. Romeo. Gracious powers, Is this my doom, my torment—? Heaven is here Where Juliet lives, and each unworthy thing Lives here in heaven and may look on her, But Romeo may not: more validity, More honourable state, more worship lives In carrion flies than Romeo; they may seize On the white wonder of my love's dear hand, And steal immortal blessings from her lips, But Romeo may not; “He is doom'd to bear “An age's pain and sigh in banishment, “To drag a restless being on the shore “Of gloomy Styx, and weep into the flood, “Till, with his tears made full, the briny stream” Shall kiss the most exalted shores of all. Shakespear. “Now then dost thou repent thy follies past? Romeo. “Oh, ask me if I feel my torments present, “Then judge if I repent my follies past. “Had I but powers to tell you what I feel, “A tongue to speak my heart's unfeign'd contrition, “Then might I lay the bleeding part before you; “But 'twill not be—something I yet would say “To extenuate my crime; I fain would plead “The merit of my love—but I have done— “However hard my sentence, I submit. “My faithless tongue turns traitor to my heart, “And will not utter what it fondly prompts; “A rising gust of passion drowns my voice, “And I'm most dumb when I've most need to sue. (Kneels.) Shakespear. “Arise, young Sir! before my mercy-seat “None kneel in vain; repentance never lost “The cause she pleaded. Mercy is the proof, “The test that marks a character divine; “Were ye like merciful to one another, “The earth would be a heaven and men the gods. “Withdraw awhile; I see thy heart is full; “Grief at a crime committed merits more “Than exultation for a duty done. (Romeo withdraws.) Shakespear remains and speaks— “What rage is this, O man, that thou should'st dare “To turn unnatural butcher on thyself, “And thy presumptuous violent hand uplift “Against that fabrick which the Gods have rais'd? “Insolent wretch, did that presumptuous hand “Temper thy wond'rous frame? Did that bold spirit “Inspire the quicken'd clay with living breath? “Do not deceive thyself. Have the kind Gods “Lent their own goodly image to thy use “For thee to break at pleasure?— “What are thy merits? Where is thy dominion? “If thou aspir'st to rule, rule thy desires. “Thou poorly turn'st upon thy helpless body, “And hast no heart to check thy growing sins: “Thou gain'st a mighty victory o'er thy life, “But art enslaved to thy basest passions, “And bowest to the anarchy within thee. “Oh! have a care “Lest at thy great account thou should'st be found “A thriftless steward of thy master's substance. “'Tis his to take away, or sink at will, “Thou but the tenant to a greater lord, “Nor maker, nor the monarch of thyself.”</field>
+   </doc>
+</add>

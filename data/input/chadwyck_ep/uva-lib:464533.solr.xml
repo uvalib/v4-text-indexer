@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">The Clarendon Press</field>
+      <field name="author_facet">The Clarendon Press</field>
+      <field name="author_sort_facet">the clarendon press</field>
+      <field name="author_text">The Clarendon Press</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1890's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.2149.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">1897</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464533</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Cuckoo and the Nightingale</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">The Cuckoo and the Nightingale</field>
+      <field name="title_facet">cuckoo and the nightingale</field>
+      <field name="title_sort_facet">cuckoo and the nightingale</field>
+      <field name="title_text">The Cuckoo and the Nightingale</field>
+      <field name="year_display">1897</field>
+      <field name="year_facet">1897</field>
+      <field name="year_multisort_i">1897</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464533&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464533&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Cuckoo and the Nightingale&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;cuckoo and the nightingale&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1897&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1897&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Cuckoo and the Nightingale&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Oxford&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;The Clarendon Press&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1897&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp2559&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;7 v.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Cuckoo and the Nightingale&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 22 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only "The Cuckoo and the Nightingale" included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Middle English poetry.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">XVIII. THE CUCKOO AND THE NIGHTINGALE; OR THE BOOK OF CUPID, GOD OF LOVE.Square brackets denote editorial insertions or emendations. The god of love, a! benedicite! How mighty and how greet a lord is he! For he can make of lowe hertes hye, And of hye lowe, and lyke for to dye, And harde hertes he can maken free. And he can make, within a litel stounde Of seke folk ful hole, fresshe and sounde, And of [the] hole, he can make seke; And he can binden and unbinden eke What he wol have bounden or unbounde. To telle his might my wit may not suffyse; For he may do al that he wol devyse. For he can make of wyse folk ful nyce, And [eke] in lyther folk distroyen vyce; And proude hertes he can make agryse. Shortly, al that ever he wol he may; Ageines him ther dar no wight sey nay. For he can gladde and greve whom him lyketh; And, who that he wol, he laugheth or he syketh; And most his might he sheweth ever in May. For every trewe gentil herte free That with him is, or thinketh for to be, Ageines May now shal have som steringe Other to joye, or elles to morninge, In no sesoun so greet, as thinketh me. For whan they mowe here the briddes singe, And see the floures and the leves springe, That bringeth into hertes rémembraunce A maner ese, medled with grevaunce, And lusty thoughtes fulle of greet longinge. And of that longing cometh hevinesse, And therof groweth ofte greet seknesse, And al for lak of that that they desyre; And thus in May ben hertes sette on fyre, So that they brennen forth in greet distresse. I speke this of feling, trewely; For, althogh I be old and unlusty, Yet have I felt of that seknesse, in May, Bothe hoot and cold, an acces every day, How sore, y-wis, ther wot no wight but I. I am so shaken with the fevers whyte, Of al this May yet slepte I but a lyte; And also it naught lyketh unto me, That any herte shulde slepy be In whom that Love his fyry dart wol smyte. But as I lay this other night wakinge, I thoghte how lovers had a tokeninge, And among hem it was a comune tale, That it were good to here the nightingale Rather than the lewde cukkow singe. And then I thoghte, anon as it was day, I wolde go som whider to assay If that I might a nightingalë here; For yet had I non herd of al this yere, And hit was tho the thridde night of May. And than, anon as I the day espyde, No lenger wolde I in my bedde abyde, But unto a wode, that was faste by, I wente forth alone, boldely, And held my way doun by a broke-syde, Til I com to a launde of whyte and grene; So fair oon had I never in[ne] been; The ground was grene, y-poudred with daisye, The floures and the gras y-lyke hye, Al grene and whyte; was nothing elles sene. Ther sat I doun among the faire floures; And saw the briddes trippe out of her boures Ther-as they had hem rested al the night. They were so joyful of the dayes light That they begonne of May to don hir houres! They coude that servyce al by rote; Ther was many a lovely straunge note; Some songe loudë, as they hadde pleyned, And some in other maner vois y-feyned, And some al out, with al the fulle throte. They proyned hem, and made[n] hem right gay, And daunseden, and lepten on the spray, And evermore two and two in-fere; Right so as they had chosen hem to-yere In Feverere, on seint Valentynes day. And eke the river, that I sat upon, It made suche a noise, as it ron, Accordaunt with the briddes armonye, Me thoughte, it was the best[e] melodye That mighte been y-herd of any mon. And for delyt ther-of, I wot never how, I fel in suche a slomber and a swow, Not al a-slepe, ne fully wakinge; And in that swow me thoughte I herde singe That sory brid, the lew[e]de cukkow. And that was on a tree right fast[e] by; But who was than evel apayd but I? ‘Now god,’ quod I, ‘that dyëd on the crois Yeve sorow on thee, and on thy lewde vois! For litel joye have I now of thy cry.’ And as I with the cukkow thus gan chyde, I herde, in the nexte bush besyde, A Nightingalë so lustily singe That with her clere vois she made ringe Through-out al the grene wode wyde. ‘A! goode Nightingale!’ quod I thenne, ‘A litel hast thou been to longe henne; For here hath been the lew[e]de Cukkow, And songen songes rather than hast thou; I pray to god that evel fyr him brenne!’ But now I wol you telle a wonder thing: As longë as I lay in that swowning, Me thoughte, I wiste what the briddes ment, And what they seyde, and what was her entent, And of her speche I hadde good knowing. And than herde I the Nightingale say, ‘Now, gode Cukkow! go som-where away, And let us that can singen dwellen here; For every wight escheweth thee to here, Thy songes be so elenge, in good fay!’ ‘What?’ quod he, ‘what may thee eylen now? It thinketh me, I singe as wel as thou, For my song is bothe trewe and playn; Al-though I can not crakel so in vayn As thou dost in thy throte, I wot never how. And every wight may understande me; But, Nightingale, so may they not do thee; For thou hast many a nyce queinte cry. I have herd thee seyn, “ocy! ocy!” How mighte I knowe what that shulde be?’ ‘A fole!’ quod she, ‘wost thou not what it is? Whan that I say “ocy! ocy!” y-wis, Than mene I that I wolde, wonder fayn, That alle they were shamfully y-slayn That menen aught ayeines love amis. And also I wolde alle tho were dede That thenke not in love hir lyf to lede; For who that wol the god of love not serve, I dar wel say, is worthy for to sterve; And for that skil “ocy! ocy!” I grede.’ ‘Ey!’ quod the Cukkow, ‘this is a queint lawe, That every wight shal love or be to-drawe! But I forsake al suchë companye. For myn entent is neither for to dye, Ne, whyl I live, in loves yok to drawe. For lovers ben the folk that been on-lyve That most disesë han, and most unthryve, And, most enduren sorow, wo, and care; And, at the laste, failen of welfare; What nedeth hit ayeines trouth to stryve?’ ‘What?’ quod she, ‘thou art out of thy minde! How might thou in thy cherles herte finde To speke of loves servaunts in this wyse? For in this worlde is noon so good servyse To every wight that gentil is of kinde. For ther-of, trewly, cometh al goodnesse, Al honóur, and [eke] al gentilnesse, Worship, esë, and al hertes lust, Parfit joye, and ful assured trust, Jolitee, plesauncë, and freshnesse, Lowliheed, and trewe companye, Seemliheed, largesse, and curtesye, Drede of shame for to doon amis; For he that trewly Loves servaunt is Were lother to be shamed than to dye. And that this is sooth, al that I seye, In that beleve I wol bothe live and deye, And Cukkow, so rede I thou do, y-wis.’ ‘Ye, than,’ quod he, ‘god let me never have blis If ever I to that counseyl obeye! Nightingale, thou spekest wonder fayre, But, for al that, the sooth is the contrayre; For loving is, in yonge folk, but rage, And in olde folk hit is a greet dotage; Who most hit useth, most he shal apeyre. For therof comth disese and hevinesse, Sorowe and care, and mony a greet seknesse, Dispyt, debat, [and] anger, and envye, Repreef and shame, untrust and jelousye, Pryde and mischeef, povértee, and woodnesse. What! Loving is an office of dispayr, And oo thing is ther-in that is not fayr; For who that geteth of love a litel blis, But-if he be alway therwith, y-wis, He may ful sone of age have his heyr. And, Nightingale, therfor hold thee ny; For, leve me wel, for al thy queynte cry, If thou be fer or longe fro thy make, Thou shalt be as other that been forsake, And than[ne] thou shalt hoten as do I!’ ‘Fy!’ quod she, ‘on thy namë and on thee! The god of love ne let thee never y-thee! For thou art wors a thousand-fold than wood. For many on is ful worthy and ful good, That had be naught, ne hadde love y-be! For Love his servaunts ever-more amendeth, And from al evel taches hem defendeth, And maketh hem to brenne right as fyr In trouthë and in worshipful desyr, And, whom him liketh, joye y-nough hem sendeth.’ ‘Thou Nightingale,’ he seyde, ‘hold thee stille; For Love hath no resoun but his wille; For ofte sithe untrewe folk he eseth, And trewe folk so bitterly displeseth That, for defaute of grace, he let hem spille. With such a lorde wol I never be; For he is blind alwey, and may not see; And whom he hit he not, or whom he fayleth; And in his court ful selden trouthe avayleth; Só dyvérs and so wilfúl is he.’ Than took I of the Nightingale kepe, She caste a sigh out of her herte depe, And seyde, ‘Alas! that ever I was bore! I can, for tene, say not oon word more;’ And right with that she brast out for to wepe. ‘Alas!’ quod she, ‘my herte wol to-breke To heren thus this false brid to speke Of love, and of his worshipful servyse; Now, god of love, thou help me in som wyse That I may on this Cukkow been awreke!’ Me thoughte than, that I sterte up anon, And to the broke I ran, and gat a stoon, And at the Cukkow hertely I caste; And he, for drede, fley away ful faste; And glad was I when that he was a-goon. And evermore the Cukkow, as he fley, He seyde, ‘Farewel! farewel, papinjay!’ As though he hadde scorned, thoughte me; But ay I hunted him fro tree to tree Til he was fer al out of sighte awey. And thanne com the Nightingale to me, And seyde, ‘Frend, forsothe I thanke thee That thou hast lyked me thus to rescowe; And oon avow to Love I wol avowe, That al this May I wol thy singer be.’ I thanked her, and was right wel apayed; ‘Ye,’ quod she, ‘and be thou not amayed, Though thou have herd the Cukkow er than me. For, if I live, it shal amended be The nexte May, if I be not affrayed. And oon thing I wol rede thee also; Ne leve thou not the Cukkow, loves fo; For al that he hath seyd is strong lesinge.’ ‘Nay,’ quod I, ‘thérto shal no thing me bringe Fro love; and yet he doth me mochel wo.’ ‘Ye, use thou,’ quod she, ‘this medicyne; Every day this May, or that thou dyne, Go loke upon the fresshe dayësyë. And though thou be for wo in poynt to dye, That shal ful gretly lissen thee of thy pyne. And loke alwey that thou be good and trewe, And I wol singe oon of my songes newe, For love of thee, as loude as I may crye;’ And than[ne] she began this song ful hye— ‘I shrewe al hem that been of love untrewe!’ And whan she hadde songe hit to the ende, ‘Nów farewel,’ quod she, ‘for I mot wende; And god of love, that can right wel and may, As mochel joye sende thee this day As ever yet he any lover sende!’ Thus took the Nightingale her leve of me. I pray to god, he alway with her be, And joye of love he sende her evermore; And shilde us fro the Cukkow and his lore; For ther is noon so fals a brid as he. Forth she fley, the gentil Nightingale, To al the briddes that were in that dale, And gat hem alle into a place in-fere, And hem besoughte that they woldë here Her disese; and thus began her tale:— ‘Ye witen wel, it is not fro yow hid How the Cukkow and I faste have chid Ever sithen it was dayes light; I pray yow alle, that ye do me right Of that foule, false, unkinde brid.’ Than spak oo brid for alle, by oon assent, ‘This mater asketh good avysement; For we ben fewe briddes here in-fere. And sooth it is, the Cukkow is not here; And therefor we wol have a parlement. And therat shal the Egle be our lord, And other peres that ben of record, And the Cukkow shal be after sent. And ther shal be yeven the jugement, Or elles we shal make som accord. And this shal be, withouten any nay, The morow of seynt Valentynes day, Under a maple that is fayr and grene, Before the chambre-window of the quene At Wodestok, upon the grene lay.’ She thanked hem, and than her leve took, And fley into an hawthorn by the brook, And ther she sat, and song upon that tree, ‘Terme of [my] lyf, Love hath with-holde me,’ So loude, that I with that song awook. Explicit Clanvowe.</field>
+   </doc>
+</add>

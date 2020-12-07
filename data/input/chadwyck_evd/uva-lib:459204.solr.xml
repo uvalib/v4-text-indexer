@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Ginn and Company</field>
+      <field name="author_facet">Ginn and Company</field>
+      <field name="author_sort_facet">ginn and company</field>
+      <field name="author_text">Ginn and Company</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_evd/uvaGenText/tei/chevd_V1.0483.xml</field>
+      <field name="date_indexed_facet">201909240354</field>
+      <field name="date_text"/>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Verse Drama</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Verse Drama</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:459204</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Caiphas' Speech</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English drama -- 20th century</field>
+      <field name="subject_facet">Verse drama, English</field>
+      <field name="subject_text">English drama -- 20th century</field>
+      <field name="subject_text">Verse drama, English</field>
+      <field name="title_display">Caiphas' Speech</field>
+      <field name="title_facet">caiphas speech</field>
+      <field name="title_sort_facet">caiphas speech</field>
+      <field name="title_text">Caiphas' Speech</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:459204&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:459204&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Caiphas' Speech&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;caiphas speech&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Caiphas' Speech&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Boston, London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Ginn and Company&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3873535-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chv10483&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English drama -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;Verse drama, English&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Caiphas' Speech&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1995&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1995 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 16 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Medieval verse drama.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only verse drama included.&lt;lb/&gt;The following play has been taken from this source:&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Title: Caiphas' speech.</field>
+      <field name="desc_meta_file_display">Genre: Spectacles and minstrelsy to 1485.</field>
+      <field name="desc_meta_file_display">Date first published: 1300 ?</field>
+      <field name="desc_meta_file_display">Date first performed: 1300–1325 ?&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Square brackets represent additions by the current editor&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglVerseDrama"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">CAYPHAS</field>
+      <field name="fulltext">[CAYPHAS] Alle hay·le and wel y·-met Alle ?ee schulleþ beo þe bet Nou icham y·-come Blysful and bly·þe ?ee mowe boe Such a prelat her y·-soe I-tolled to þis trome ?e boeþ wel wery· aboute y·-go So icham my· sulf al so Ich by·sschop Cay·face Ich moste her sone sy·nge Þe prophecy·e of heuene ky·nge Þat why·le ich sey·de by· grace Þy· stondeþ a stounde and bloweþ breþ And ?if icham as ?ee soeþ Ichulle bere me bolde And sy·nge ?ou sone a lytel song Ha schal boe schort and noþy·ng long Þat raþer ichadd y·-lode Ich was bysschop of þe lawe Þt ?er þt crist for ?ou was slawe ?e mowe boe glade þerfore Hit com to soþe þt ich þo sey·de Betere hit were þt o man dey·de Þan al uolk were y·-lore expedit et c[etera]. Ichot ?e mowe nou?t longe dwelle Þy· are ?e go ichow wol telle of crist ane litel tale And of ?our palm ?e bereþ an honde Ich schal habbe leue ichonder stonde of grete men &amp; smale A welsooþ sawe soþlich ys seyd Ech god game y·s god y·-pley·d Louelych &amp; ly·?t y·s leue Þe Denes leue and alle manne To rede and sy·nge ar ich go hanne Ich by·dde þt ?ou ne greue O Decane reuerende In adiutorium meum intend[e] Ad informandum hic astantes Michi scitis fauorante Si placet bone domine Iube benedicere Wolcome boe ?ee þat stondeþ aboute Þat habbeþ y·-siwed þis grete route Sone ychulle ?ou sy·nge ?ou alle today· ic mot y·-mete Ichabbe leue of þe grete Wy·sdom for to wry·nge A by·sschop ich was in cristes ty·me Þo gy·wy·s vawe wolde do by· me What ic ham euere radde [Iu]das to ous Ihesus solde Þo annas and ich panes tolde Our by·?ete was badde pontifex anni illius qui consilium dederat iudeis. Whar fore ich &amp; annas To fonge Ihesus of Iudas Vor þry·tty panes to pay·e We were wel faste to helle y·-wronge Vor hym þt for ?ou was y·-stonge In rode a gode friday·e tamen expedit vnum hominem mori &amp;c. Þat laty·n þat ic lascht out noury·?t To ?oure Ihesus hit was y·-dy·?t &amp; is þus moche to telle Hit is betere þat o man dey·e Þan al folk euere boe in eye In þe py·ne of helle Þe prophecie þt ich sey·de þar Ich hit seyde þo as a star Ich nuste what ich mende Ich wende falslyche jangli þo Of me þat wy·t naddych no bote as Ihesu sende. Man at fullo?t as chabbe y·-rad Þy· saule y·s godes hous y·-mad &amp; tar y·s wassche al clene Ac after fullou?t þoru? fulþe of sy·nne Sone is mad wel hory· wyþ inne Al day· hit is y·-sene Man þou hast þroe wel grete fon Þat fondeþ euere hou mo don To foule godes hous Þat is þi flechs wyþ lechery·e Þe world wy·þ coueytise &amp; enuye Þerto hi buþ wel vous Þe þry·dde fo is þe deuel of helle Þat fondeþ in þi saule dwelle And holde cry·st þar oute Wy·þ prude and wrethe he wole com y·n Þi of hym and hys engy·n ?ee scholde habbe doute Laste your soule boe fuld a?ee Wy·þ þoes þroe foon sy·ker ?e boe ?ee mote boe wel clybbe To floe ham and þe sunnes seuene Wy·lneþ schry·ft ?y·f ?e wol heuene Good ly·f ?e mote lybb[e] Wy·þ sorwþe of herte &amp; schry·ft of mouþe Doþ deedbote þis ty·me nouþ ?yf ?e wolle god awyn[ne] &amp; lokeþ hys hous boe wel clene Þat non hore þary·n boe sene ?y·[f] he schal come þar ynne &amp; hwanne ?e habbeþ ouercome þanne voend Þanne y·-meteþ cry·st ?our froend Wyþ palm &amp; bowes grene Þat y·s a tokne þat alle &amp; some Habbeþ þe deueles al ouercome Ham to sorwe and toene To ierusalem as to day· Ihesus rood hy·s ry·?te way· Vpane slowe asse Vale þar were þt on hy·m ly·fde Þt louede hy·m &amp; faste hym sywede More men &amp; lasse Chy·ldren of hebrey·s hy·m y·-mette Mekly·che wy·þ song hy· hy·m grette &amp; knooled to har kynge Wy·þ hare cloþes hy· spradd y·s way· In gret worschepe of hy·m to day· &amp; blessede hym sy·ngy·nge Hy· bere bowes of oly·f troe &amp; floures þe vay·riste hy my·?te y·-soe Wy· mury· song &amp; game Anon as hy· my·?te hy·m y·-soe Hy· sey·de blessed mot ha boe Þat comeþ in godes name benedictus qui venit in nomine domini etc'. Cry·st com as moeklych as a lom To habbe for ?ou deþes dom To deþe a wolde hy·m pulte ?y·f he ne dey·de ne blod ne bledde Euere y·n helle ?e hadde ba wedde ffor Adames gulte Nou ?ee þt bereþ today· ?our palm Wel au?te ?e queme such a qualm To crist ?our herte al ?yue As dude þe chy·ldren of þolde lawe ?yf ?e hy·m louede ?e scholde wel vawe boe by· ty·me schry·ue Lewede þt bereþ palm an honde Þat nuteþ what palm y·s tonderstonde Anon ichulle ?ou telle Hit is a tokne þt alle &amp; some Þt buþ y·-schryue habbeþ ouercome Alle þe deueles of helle ?y·f eny· habbeþ braunches y·-bro?t &amp; buþ vnschry·ue har bost ny·s no?t A?ee þe fend to fy?te Hy· makeþ ham holy· as y·-were Vort hy boe schry·ue hy· schulleþ boe skere Of loem of heuene ly·?te Ich moste sy·nge &amp; ba go Schewe me þe bok þt ic haddydo Þe song schal wel an hey·? Ich may no?t sy·nge hy·m al bi rote Vorto tele eche note Hy· boeþ y·-nome wel ney·? Cantat expedit. Ich warny· alle schrewen vnschry·ue To sy·mon Cumpay·ngnoun ic habbe y·-?yue power of disciply·ne He wol boe redy· ase ?e ich rede þar come non to me Anaunter last ha whyne Nou gawe hom hit is forday·s Lengere ne ty·d ?ou here no pays Þe belle wol sone ry·nge Doþ so þt ich cunne ?ou þonkes Wy·þ bordoun hauteyn menamonkes lat me hure ?ou sy·nge.</field>
+   </doc>
+</add>

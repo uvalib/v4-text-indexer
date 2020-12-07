@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Arthur Waley</field>
+      <field name="author_facet">Arthur Waley</field>
+      <field name="author_sort_facet">arthur waley</field>
+      <field name="author_text">Arthur Waley</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1920's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/modern_english/uvaGenText/tei/WalTsun.xml</field>
+      <field name="date_indexed_facet">201909240357</field>
+      <field name="date_text">1922</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:476456</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">Tsunemasa</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="title_display">Tsunemasa</field>
+      <field name="title_facet">tsunemasa</field>
+      <field name="title_sort_facet">tsunemasa</field>
+      <field name="title_text">Tsunemasa</field>
+      <field name="year_display">1922</field>
+      <field name="year_facet">1922</field>
+      <field name="year_multisort_i">1922</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:476456&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;public&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:476456&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Arthur Waley&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;arthur waley&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Tsunemasa&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;tsunemasa&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1922&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1922&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="contributor" form="corpname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Arthur Waley&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Tsunemasa&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="edition"&gt;1st Edition&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Alfred A. Knopf&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1922&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="callNo"&gt;Print copy consulted: UVa Library call number PL 782 .E5W3 1922&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;rj&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;pp. 51-56&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Tsunemasa&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Charlottesville, Virginia&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;University of Virginia Library&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1997&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1997 by the Rector and Visitors of the University of Virginia&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Publicly accessible&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 17 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Footnotes in the print source have been moved to the end of the</field>
+      <field name="desc_meta_file_display">electronic document and numbered consecutively. For descriptive</field>
+      <field name="desc_meta_file_display">purposes, words or phrases preceding footnote markers in print source</field>
+      <field name="desc_meta_file_display">have been added to notes at the end of the electronic document.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">TSUNEMASA By SEAMI PERSONS The Priest of Gy?kei. The Ghost of Taira No Tsunemasa. Chorus. Gy?kei I am Gyo?kei, priest of the imperial temple Ninnaji. You must know that there was a certain prince of the House of Taira named Tsunemasa, Lord of Tajima, who since his boyhood has enjoyed beyond all precedent the favour of our master the Emperor. But now he has been killed at the Battle of the Western Seas. It was to this Tsunemasa in his lifetime that the Emperor had given the lute called Green Hill. And now my master bids me take it and dedicate it to Buddha, performing a liturgy of flutes and strings for the salvation of Tsunemasa's soul. And that was my purpose in gathering these musicians together. Truly it is said that strangers who shelter under the same tree or draw water from the same pool will be friends in another life. How much the more must intercourse of many years, kindness and favour so deep. . . [1] Surely they will be heard, The prayers that all night long With due performance of rites I have reverently repeated in this Palace For the salvation of Tsunemasa And for the awakening of his soul. Chorus And, more than all, we dedicate The lute Green Hill for this dead man; While pipe and flute are joined to sounds of prayer. For night and day the Gate of Law Stands open and the Universal Road Rejects no wayfarer. Tsunemasa speaking off the stage. "The wind blowing through withered trees: rain from a cloudless sky. The moon shining on level sands: frost on a summer's night." [2] Frost lying. . . but I, because I could not lie at rest, Am come back to the World for a while, Like a shadow that steals over the grass. I am like dews that in the morning Still cling to the grasses. Oh pitiful the longing That has beset me! Gyo?kei How strange! Within the flame of our candle that is burning low because the night is far spent, suddenly I seemed to see a man's shadow dimly appearing. Who can be here? Tsunemasa his shadow disappearing. I am the ghost of Tsunemasa. The sound of your prayers has brought me in visible shape before you. Gyo?kei "I am the ghost of Tsunemasa," he said, but when I looked to where the voice had sounded nothing was there, neither substance nor shadow! Tsunemasa Only a voice, Gyo?kei A dim voice whispers where the shadow of a man Visibly lay, but when I looked Tsunemasa It had vanished — Gyo?kei This flickering form. . . Tsunemasa Like haze over the fields. Chorus Only as a tricking magic, A bodiless vision, Can he hover in the world of his lifetime, Swift-changing Tsunemasa. By this name we call him, yet of the body That men named so, what is left but longing? What but the longing to look again, through the wall of death, On one he loved? "Sooner shall the waters in its garden cease to flow Than I grow weary of living in the Palace of my Lord." [3] Like a dream he has come, Like a morning dream. Gyo?kei How strange! When the form of Tsunemasa had vanished, his voice lingered and spoke to me! Am I dreaming or waking? I cannot tell. But this I know, — that by the power of my incantations I have had converse with the dead. Oh! marvellous potency of the Law! Tsunemasa It was long ago that I came to the Palace. I was but a boy then, but all the world knew me; for I was marked with the love of our Lord, with the favour of an Emperor. And, among many gifts, he gave to me once while I was in the World this lute which you have dedicated. My fingers were ever on its strings. Chorus Plucking them even as now This music plucks at your heart; The sound of the plectrum, then as now Divine music fulfilling The vows of Sarasvati. [4] But this Tsunemasa, Was he not from the days of his childhood pre-eminent In faith, wisdom, benevolence, Honour and courtesy; yet for his pleasure Ever of birds and flowers, Of wind and moonlight making Ballads and songs to join their harmony To pipes and lutes? So springs and autumns passed he. But in a World that is as dew, As dew on the grasses, as foam upon the waters, What flower lasteth? Gyo?kei For the dead man's sake we play upon this lute Green Hill that he loved when he was in the World. We follow the lute-music with a concord of many instruments. Music. Tsunemasa And while they played the dead man stole up behind them. Though he could not be seen by the light of the candle, they felt him pluck the lute-strings. . . . Gyo?kei It is midnight. He is playing Yabanraku, the dance of midnight-revel. And now that we have shaken sleep from our eyes. . . Tsunemasa The sky is clear, yet there is a sound as of sudden rain. . . . Gyo?kei Rain beating carelessly on trees and grasses. What season's music [5] ought we to play? Tsunemasa No. It is not rain. Look! At the cloud's fringe Chorus The moon undimmed Hangs over the pine-woods of Narabi [6] Hills. It was the wind you heard; The wind blowing through the pine-leaves Pattered, like the falling of winter rain. O wonderful hour! "The big strings crashed and sobbed Like the falling of winter rain. And the little strings whispered secretly together. The first and second string Were like a wind sweeping through pine-woods, Murmuring disjointedly. The third and fourth string Were like the voice of a caged stork Crying for its little ones at night In low, dejected notes." [7] The night must not cease. The cock shall not crow And put an end to his wandering. [8] Tsunemasa "One note of the phœnix-flute [9] Chorus Shakes the autumn clouds from the mountain-side." [10] The phœnix and his mate swoop down Charmed by its music, beat their wings And dance in rapture, perched upon the swaying boughs Of kiri and bamboo. Dance. Tsunemasa Oh terrible anguish! For a little while I was back in the World and my heart set on its music, on revels of midnight. But now the hate is rising in me. . . . [11] Gyo?kei The shadow that we saw before is still visible. Can it be Tsunemasa? Tsunemasa Oh! I am ashamed; I must not let them see me. Put out your candle. Chorus "Let us turn away from the candle and watch together The midnight moon." Lo, he who holds the moon, The god Indra, in battle appeareth Warring upon demons. Fire leaps from their swords, The sparks of their own anger fall upon them like rain. To wound another he draws his sword, But it is from his own flesh That the red waves flow; Like flames they cover him. "Oh, I am ashamed of the woes that consume me. No man must see me. I will put out the candle!" he said; For a foolish man is like a summer moth that flies into the flame. [12] The wind that blew out the candle Carried him away. In the darkness his ghost has vanished. The shadow of his ghost has vanished.</field>
+      <field name="fulltext">Footnotes [1: the intercourse of many years] The relation between Tsunemasa and the Emperor is meant. [2: "The wind blowing. . . on a summer's night."] I.e. the wind sounds like rain; the sands appear to be covered with frost. A couplet from a poem by Po Chü-i. [3: "Sooner shall the waters. . . in the Palace of my Lord."] Part of the poem which Tsunemasa gave to the Emperor before he went to battle. [4: Sarasvati] Goddess of Music, who vowed that she would lead all souls to salvation by the music of her lute. [5: What season's music. . .] Different tunes were appropriate to different seasons. [6: Narabi Hills] A range of hills to the south of the Ninnaji. The name means the "Row of Hills." [7: "The big strings. . . low, dejected notes."] Quotation from Po Chü-i's "Lute Girl's Song"; for paraphrase see Giles' Chinese Literature, p. 166. [8: The cock shall not crow / And put an end to his wandering.] The ghost must return at dawn. [9: the phoenix-flute] The she?ng. [10: "One note. . . from the mountain-side."] Quotation from Chinese poem in Ro?yei Shu. [11: For a little while I was back in the World. . . But now the hate is rising in me] He had died in battle and was therefore condemned to perpetual war with the demons of Hell. [12: like a summer moth that flies into the flame] "The wise man is like the autumn deer crying in the mountains; the fool is like the moth which flies into the candle" (Gempei Seisuiki, chap. viii.).</field>
+   </doc>
+</add>

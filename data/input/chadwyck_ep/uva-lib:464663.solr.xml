@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Max Niemeyer</field>
+      <field name="author_facet">Max Niemeyer</field>
+      <field name="author_sort_facet">max niemeyer</field>
+      <field name="author_text">Max Niemeyer</field>
+      <field name="composition_era_facet">19th Century</field>
+      <field name="composition_era_facet">1880's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_1.2328.xml</field>
+      <field name="date_indexed_facet">201909240351</field>
+      <field name="date_text">1889</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464663</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">Liedersammlungen des XVI. Jahrhunderts, besonders aus der Zeit Heinrich's VIII</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- 19th century</field>
+      <field name="subject_text">English poetry -- 19th century</field>
+      <field name="title_display">Liedersammlungen des XVI. Jahrhunderts, besonders aus der Zeit Heinrich's VIII</field>
+      <field name="title_facet">liedersammlungen des xvi jahrhunderts besonders aus der zeit heinrichs viii</field>
+      <field name="title_sort_facet">liedersammlungen des xvi jahrhunderts besonders aus der zeit heinrichs viii</field>
+      <field name="title_text">Liedersammlungen des XVI. Jahrhunderts, besonders aus der Zeit Heinrich's VIII</field>
+      <field name="year_display">1889</field>
+      <field name="year_facet">1889</field>
+      <field name="year_multisort_i">1889</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464663&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464663&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent/&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;Liedersammlungen des XVI. Jahrhunderts, besonders aus der Zeit Heinrich's VIII&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;liedersammlungen des xvi jahrhunderts, besonders aus der zeit heinrichs viii&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1889&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1889&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Liedersammlungen des XVI. Jahrhunderts, besonders aus der Zeit Heinrich's VIII&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Halle&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Max Niemeyer&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1889&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp2506&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;viii, 632 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- 19th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;19th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;Liedersammlungen des XVI. Jahrhunderts, besonders aus der Zeit Heinrich's VIII&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 28 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only unique items not reproduced elsewhere in The English Poetry Full-text Database included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Middle English lyrics and ballads.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Square brackets denote editorial insertions or emendations. Some paragraphs in this text are signified by markers. The paragraphs have been captured; but the markers ignored. Poems have been selectively extracted from the source text, and thus poem numbers are not sequential. [Songs from British Museum Add. Ms. 31922.] [This other day I hard a may.] This other day I hard a may. ryght peteusly c?playne. She sayd allway w?owt de nay. her hart was full of payne. Sche said alas w?owt trespas. her dere hart was vntrew. In eu??y place I wot he hace. ffor sake me for a new. Seth he vntrew hath chosen a new. and thynk?? w? her to rest. And will not rew and so I trew: wher fore my hart will brest. And now I may. In no man?? away. optayne that I do sewe. So eu?? &amp; ay w?owt denay. myne owne swet hart a dew. A dew derlyng a dew swettyng. A dew all my welfare. Adew all thyng to god p??teynyng: cryst kepe yow for me care Adew full swete. Adew right mete. to be a ladys here w??? terys wete And yes replete. she said adew my dere. Adew farewell. Adew labell. A dew bothe frend and foo. I can not tell wher I shall dwell. my hart it greuyth me so. She had nott said but at abrayde. her dere hart was full nere. And saide goode mayde be not dysmayd. my loue my derl?g dere. In armys he hent that lady gent. In uoydyng care &amp; mone Th[at] day thay spent to ther in tent. In wyldernes a lone. [Grene growith y? holy so doth y? Iue.] Grene growith y? holy so doth y? Iue. thow wynt?? blastys blow neu?? so hye grene growth the holy. Grene growth y? holy so doth the iuye. thow wynter blast?? blow neu?? so hye. grene grouth the holy. Grene grouth y? holy so doth the Iue. thow wynter blastys blow neu?? so hye. grene grouth the holy. As the holy grouth grene. and neu?? chaungeth hew So I am euer hath bene vnto my lady trew grene growth &amp;c. A[s] the holy grouth grene: with Iue all alone when flowerys, can not be sene and grene wode leuys be gone vt supra. Now vnto my lady p??myse to her I make ffrome all other only to her I me be take vt supra. Adew myne owne lady. Adew my specyall. Who hath my hart trewly he suere &amp; eu?? shall vt supra. [Blow y? horne hunt?? &amp; blow y? horne on hye]The attribution of this poem is questionable. Blow y? horne hunt?? &amp; blow y? horne on hye ther ys a do in yond?? wode in faith she woll not dy. now blow y? horne hunt?? &amp; blow y? horne Joly hunt??. Sore this dere strykyn ys. &amp; yet she bled no whytt. she lay so fayre I cowde nott mys. lord I was glad of it. As I stod vnder a bank: the dere shoffe on the mede. I stroke her so that downe she sanke. but yet she was not dede. There she gothe se ye nott.[?] how she gothe ouer the playne.[?] And yf ye lust to haue a shott. I warrant her bargayne. He to go and I to go: but he ran fast a fore. I bad hym shott and strik the do: for I myght shott no mere To the couert bothe thay went. for I fownd wher she lay An arrow in her hanch she hent. for faynte she myght not bray. I was wery of the game. I went to tauern to drynk. now the construccyon of the same: what do yow meane or thynk. Here I leue and make an end. how of this hunts lore. I thynk his bow ys well vn bent: hys bolt may fle no more. W. Cornysh. [Yow and I and amyas]The attribution of this poem is questionable. Yow and I and amyas Amyas and yow and I to the grene wode must we go Alas yow and I my lyff and amyas. The knyght knokett at the castell gate The lady m??uelyd who was ther at y? &amp; I &amp; amyas vt sup??. To call the porter he wold not blyn The lady said he shuld not com in y? &amp; I &amp; amyas vt sup??. The portres was a lady bryght Strangenes that lady hyght y? &amp; I &amp; amyas vt sup??. She asked hym what was his name he said[:] desyre yo? man[,] madame y? &amp; I &amp; amyas vt sup??. She said[:] desyre what do ye here[?] he said[:] madame as yo? p??soner[!] y? &amp; I &amp; amyas vt sup??. He was cownselled to breffe a byll And shew my lady hys oune wyll y? &amp; I &amp; amyas vt sup??. Kyndnes[,] said she[,] wold yt bere. And pyte[,] said she[,] wold be ther. y? &amp; I &amp; amyas vt sup??. Thus how thay dyd we can nott say we left them there &amp; went ower way y? &amp; I &amp; amyas vt sup??. Cornysh. [Whill lyue or breth is in my brest]The attribution of this poem is questionable. Whill lyue or breth is in my brest my sou??ayne lord I shall loue best My sou??ayne lorde I shal loue best. My sou??ayne lorde I shal loue best. My sou??ayne lorde for my poure sake: VI courfys at the ryng dyd make. Of which IIII tymes he dyd it take: Wherfor my hart I hym bequest. And of all other for to loue best: my sou??ayne lord. My sou??ayne lorde of pusant pure: as the chefteyne of a waryowere. w? spere and swerd at the barryoure: as hardy w? the hardyest. he p??uith hym selfe that I sey best: My sou??ayne lorde. My sou??ayne lorde in eu??y thyng: a boue all other as a kyng. In that he doth no c?paryng: but of a trewth he worthyest is. to haue the prayse of all the best: my sou??ayne lorde. My sou??ayne lorde when that I mete: his cherfull conte?ance doth replete. My hart w? Joe that I be hete: next god but he and eu?? prest w? hart and body to loue best: my sou??ayne lorde. So many v??tuse geuyn of grace: y?? is none one lyue y? hace. Beholde his fauo? and his face: his p??sonage most godlyest. A vengeauce on them y? loueth nott best: my sou??ayne lorde. The sou??ayne lorde y? is of all: my sou??ayne lorde saue [,] p??ncipall[!] he hath my hart &amp; eu?? shall: of god I ask for hym request: off all gode fort?es to send hym best: my sou??ayne lorde. W. Cornyshe. [I am a joly foster I am a joly foster] I am a joly foster I am a joly foster and haue ben many a day[,] &amp; foster will I be styll for shote ryght well I may for shot ryght well I may. Wher for shuld I hang vp my bow vpon the green wod bough[?] I cane bend &amp; draw a bow and shot well enough. I am a joly foster. Wher for shuld I hang vp myne arrow[e] vpon y? gren wode lynde[?] I haue strengh to mak it fle &amp; kyll bothe hart &amp; hynd. I am &amp;c. Wher for shuld I hang vp my horne vpon y? gren wod tre[?] I can blow y? deth of a dere as well as any y? eu?? I see. I am &amp;c. Wherfor shuld I tye vp my hownd vnto y? green wod spray I can luge and make a sute as well as any in may[!] I am &amp;c. [Why soo vnkende Alas] Why soo vnkende Alas why soo vnkende to me Syne the tyme I knew yow fyrst yo? were my Joy and my trust Why soo vnkende Alas why so vnkende to me Soo to be kende to me Erly &amp; late I am ryght fayne your love &amp; favo? to attayne Why soo vnkende &amp;c. ys ther no grace ne remedy but euer to morne eternally Alas why soo vnkende &amp;c. Off my po? s??uys ye may be sure As long as lyff dothe last &amp; dure why soo vnkende &amp;c. Hope dothe to me consolac?n Else sholde I ren in dy[s]p??c?n why soo vnkende &amp;c. ye haue my hart ye haue my love Gode sende me yours that syttyth above why soo vnkende &amp;c. [Kytt hathe lost hur key hur key] Kytt hathe lost hur key hur key goode kytte hath lost hur key she ys soo sory for the cause she wotts nott what to say she ys soo sory for the cause she wott not what to say to say goode kytt good kytt she ys soo sory for the cause she wot not to say to say good kytt. Kytt she wept I axyde why soo that she made All thys mone she sayde Alas I am soo woo my key ys lost and gone Kytt has lost hur key vt sup??. Kyt she wept &amp; cryede one hye and fore hur key dyd axe she be heyght to seynt sythe a key and offryde to hym a key of wexe Kyt hathe lost hur key &amp;c. Kyt why dyd ye losse your key for sothe ye were to blame now eu??y man to yow wyll say Kyt losse key ys your name Kyt hathe lost hur keye &amp;c. &amp; kyt she wept &amp; cryed Alas Hur key she cowde not fynde In fayth I trow yn bour she was w??? sum that were not kende Kyt hath lost hur key &amp;c. Now fare well Kytt I can no more I wot not what to say but I shall p??y to gode there fore that yow may fynde yo? key Kyt hath lost hur key. [Thys ender ny?th] Thys ender ny?th I saw a sy?th a ster as bry?th as day And eu?? among A maydyn song[:] by by baby lullay Thys vyrgyn clere wythowtyn pere vnto hur son gane sing[:] my son my lorde my fathere dere why lyest thow in hay[?] me thenke be ryght thow kyng &amp; knyght shulde lye in ryche aray[!] yet none the lesse I wyll not cess to syng by by lullay[!] Thys babe full bayne aunsweryd agayne[,] &amp; thus me thought he sayde[:] I am a kyng above all thyng yn hay yff I be layde[!] for ye shall see that kynges thre shall c? on twelfe day[.] for thys behest geffe me [thy] brest &amp; sing by baby lullay[!] My son I say wythowttyn nay thow art my derlyng dere I shall the kepe whyle thow dost slepe &amp; make the goode chere. And all thy whylle I wyll fulfill thou wotyst hyt well yn fay[.] yet more then thys I wyll the kys and syng by baby lullay[.] My moder swete when I haue slepe[,] then take me vp at last vppon yo? kne thatt [y]e sett me and handell me full soft &amp; yn yo? arme lap me ryght / warme &amp; kepe me myght &amp; day and yff I wepe and can nott slepe syng by by baby lullay[.] My son my lorde my father dere syth all ys at thy wyll[,] I p??y the son graunte me a bone yff hyt be ryght &amp; skylle[:] that chylde or man may eu?? come be mercy on thys day[,] to blys them bryng &amp; I shall syng by by baby lullay &amp; I shall syng by by baby lullay[.] My mother shene of heuyn qu?ne yo? askyng shall I spede[,] so that the myrth dysplease me nott yn [wordys] / nor in dede[,] syng what ye wyll so that ye fullfyll my ten c?maundements ay[,] ay yow for to please let them nott sesse to syng baby lullay. [My lytell fole] My lytell fole ys gon to play sche wyll tary no long?? w? me he how frisca Joly vnd?? y? grene wood tre he how frisca Joly &amp;c. [Fragments from Christmasse Carolles by Wynkyn de Worde.] (Douce Fragments 94?.) A caroll of huntynge. As I came by a grene forest syde I met with a forster y?? badde me abyde W??? hey go bet / hey go bet / hey go howe Underneth a tre I dyde me set And with a grete hert anone I met I badde let slyppe / and sayd hey go bet With hey go bet / hey go bet howe I had not stande there but a whyle For the mountenaunce of a myle There came a grete herte without gyle There he gothe / there he gothe. &amp;c. We shall haue sporte and game ynowe. Talbot my ho?de with a mery taste All about the grene wode he gan cast I toke my horne and blewe him a blast with tro / ro / ro / ro: tro / ro / ro / ro. With hey go bet / hey go bet. &amp;c. There he gothe / there he goth. &amp;c. We shall haue sporte and game ynowe. Finis. A caroll bringyng in the bores heed. Caput apri differo Reddens laudens domino The bores heed in hande bring I with garlans gay and rosemary I pray yow all synge merely Qui estis in conuiuio. The bores heed I vnderstande Is the [c]hefe seruyce in this lande Loke where euer it be fande. Seruite cum cantico. Be gladde lordes bothe more and lasse For this hath ordeyned ouer stewarde To chere you all this christmasse The bores heed with mustarde. Finis. Christmas Carolles newely Inprinted. (Douce Fragments 94). A caroll of the byrth of Chryst. Only this section of the verses has been extracted, since it is now recognised as a separate poem. The rest has been omitted here. Farewell aduent &amp; haue good daye Chrystmas is come, nowe go thy way Get the hence what doest thou here Thou hast no loue of no beggere Thou makest vs fast with euyll chere With farewell aduent. Thou takest on y? more th? doth y? lent The[n] dwellest so long that y?? art shent. Finis. In the honour of Christes byrth Syng we al with ioye and myrthe. IN this tyme of Chrystmas Bytwyxte an oxe and an asse A mayden delyuered was Of Christ her dere son dere The husband of Mary [Sa?t] Joseph stoode her by And saide he was ready To serue her if nede were. Whan she her deare sonne se She set him on her kne And song hydder to me. Cum basse thy moder deare. On her lap she him layde And with her pappe he playde And euer sang the mayde Come basse thy mother dere. With lyppes collyng His mouth ofte she dyd kysse And sayd sweete hert myne I pray you make good chere. To this chylde let vs pray That borne was on this day Of Mary the mylde may To graunt vs all good chere. Finis. Bassus. [Joly felowe ioly] Joly felowe ioly ioly felowe ioly yf thou haue but lytyll mony spend it not ? foly but sp?d yt on A prety w?che &amp; she shal help the at A p?che hey ioly felow io / ly ioly hey ioly felow ioly. hey Joly A prety w?che may be plesur in dalyance she may endure yf she be trym proper &amp; pure Joly felow ioly ioly felow ioly ioly vt supra. Lytyll mony doth gret com / fort spende [it] on the mynyon sort delytyng in honest dysport Joly felow Joly vt supra. Finis.</field>
+   </doc>
+</add>

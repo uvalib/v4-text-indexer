@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Lindsay, Vachel, 1879-1931</field>
+      <field name="author_facet">Lindsay, Vachel, 1879-1931</field>
+      <field name="author_sort_facet">lindsay vachel 1879 1931</field>
+      <field name="author_text">Lindsay, Vachel, 1879-1931</field>
+      <field name="composition_era_facet">20th Century</field>
+      <field name="composition_era_facet">1920's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ap/uvaGenText/tei/chap_AM1037.xml</field>
+      <field name="date_indexed_facet">201909240350</field>
+      <field name="date_text">1920</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey American Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey American Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:440462</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The golden whales of California and other rhymes in the American language</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">American poetry -- 20th century</field>
+      <field name="subject_text">American poetry -- 20th century</field>
+      <field name="title_display">The golden whales of California and other rhymes in the American language</field>
+      <field name="title_facet">golden whales of california and other rhymes in the american language</field>
+      <field name="title_sort_facet">golden whales of california and other rhymes in the american language</field>
+      <field name="title_text">The golden whales of California and other rhymes in the American language</field>
+      <field name="year_display">1920</field>
+      <field name="year_facet">1920</field>
+      <field name="year_multisort_i">1920</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:440462&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:440462&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Lindsay, Vachel, 1879-1931&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;lindsay vachel 1879 1931&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The golden whales of California and other rhymes in the American language&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;golden whales of california and other rhymes in the american language&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;1920&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1920&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Lindsay, Vachel&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1879&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1931&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The golden whales of California and other rhymes in the American language&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;New York&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;The Macmillan Company&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1920&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3865317-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;cham1037&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;American poetry -- 20th century&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;20th century&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The golden whales of California and other rhymes in the American language&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Alexandria, VA&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Inc.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 28 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted ; verse reproduced elsewhere in American</field>
+      <field name="desc_meta_file_display">Poetry omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-AmPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">RAMESES II Would that the brave Rameses, King of Time Were throned in your souls, to raise for you Vast immemorial dreams dark Egypt knew, Filling these barren days with Mystery, With Life and Death, and Immortality, The Devouring Ages, the all-consuming Sun: God keep us brooding on eternal things, God make us wizard-kings. MOSES Yet let us raise that Egypt-nurtured prince, Son of a Hebrew, with the dauntless scorn And hate for bleating gods Egyptian-born, Showing with signs to stubborn Mizraim “God is one God, the God of Abraham,” He who in the beginning made the Sun. God send us Moses from his hidden grave, God make us meek and brave. A MEDITATION ON THE SUN I Come, let us think upon the great that came Our spiritual solar-kings, whose fame Is quenchless in the lands of mental light, High planets in the vast historic game: Youths from the sky, they came in splendid flight. We hold to them as to our day and night, And by them measure out our moments here, Our greatness, littleness, and wrong and right. For like the sun, we carry yesteryears Within our wallets: all the ancient fears And scorns and triumphs woven in our cloaks, Our tall plumes bought with some lost race's tears. Oh sun, I wish that all the nations bright You ever looked upon were in my sight, That I had stood up in your royal car With your eye-rays to search out field and height: To see young David, leading forth his sheep, The Christ Child on the Hill of Nazareth sleep, To watch proud Dante climb the stranger's stairs, To see the ocean round Columbus leap. And beauty absolute man's heart has known In those old hills where the Greek blood was sown, They named you young Apollo in that day And served you well, and loved your chariot-throne. Would I had looked on Venice in her prime. And long had watched the prayerful Gothic time When Notre Dame arose, a mystery there In wicked good old Paris and its grime! II Oh light, light, light! Oh Sun your light is good. You stir the sap of garden, field and wood, Of men and ages. And your deeds are fair, And by this light, is God's love understood. So let us think upon Creation's days And Great Jehovah Moses came to praise:— The God the Hebrews said excelled the sun, To whom all psalms are due, who made the ways The sun shall follow till he burns no more Till he is cold and clinkered to the core. Praise God, and not the sun too much, my soul, The God behind the sun we must adore. III Oh Sun, that yet will my spring thoughts astound, How often this lone mendicant you found Stripped in your presence of all earthly things. A happy dervish whirling round and round. You were his tree of incense and his feast, You were his wagon and his harnessed beast, His singing brother, yet his tyrant hard, With whip and spur and shout that never ceased. He thought of Freedom that rides round with you Healing the nations with a crystal dew, The comrade of your car, with Science there, Making the ways of men forever new. Would we might lift a mighty battle-cry. Nations and mendicants, and shake your sky: Would that you caught us singing as one man That song I sang when begging days began Hearing it in every beam on high: “Man's spirit-darkness shall forever die.” DANTE Would we were lean and grim, and shaken with hate Like Dante, fugitive, o'er-wrought with cares, And climbing bitterly the stranger's stairs, Yet Love, Love, Love, divining: finding still Beyond dark Hell the penitential hill, And blessed Beatrice beyond the grave. Jehovah lead us through the wilderness: God make our wandering brave. THE APPLE BLOSSOM SNOW BLUES A “blues” is a song in the mood of Milton's Il Penseroso, or a paragraph from Burton's Anatomy of Melancholy. This present production is the chronicle of the secret soul of a vaudeville man, as he dances in the limelight with his haughty lady. Let the reader take special pains to make his own tune for this production, to a very delicate drum beat. “Your Dandelion beauty, Your Cherry-blossom beauty, Your Apple-blossom beauty, I will dance as I can, O You rag time lady, O You jazz dancing lady, O You blues-singing lady,” Thinks the blues-singing man. “Your Grace and slightness, And your fragrant whiteness, Make me see the bending Of an apple-blossom bough. You Are a fairy, Yet a jump-jazz dancer, And your heart Is a robin, Singing, making merry With the apple-flowers now.” See him kneel and canter And smirk and banter, And essay her heart While the gourd horns blow. For he is her lover And Her dancing partner, In the blues he made Called “The Apple Blossom Snow.” She does her duty No more Than her duty, Yet the packed house cheers To the gallery rim. Her young scorn fires them, Its pep inspires them, They watch her lover And envy him. He does not fathom What her heart has in keeping Till that last circus leaping Takes all by surprise. Then he catches her softly, Saves her gently, And a mood for his soul Lights her pansy eyes. Then She steps rare measures. Her eyes are treasures. Brave truth shines out From her young-witch glance. From the velvety shade, Ah, the thoughts of the maid. Relenting glory, Unveiled by chance. Though soon thereafter She hides in laughter, And flouts all his loving, He will dance as he can, As he can, Like a man, With his jazz dancing wonder, With his pansy blossom wonder, With his apple blossom wonder, With his rag time lady, The Grand finale of jazz music, like the fall of a pile of dishes in the kitchen. Rag Time Man. THE CONSCIENTIOUS DEACON A song to be syncopated as you please Black cats, grey cats, green cats miau— Chasing the deacon who stole the cow. He runs and tumbles, he tumbles and runs. He sees big white men with dogs and guns. He falls down flat. He turns to stare— No cats, no dogs, and no men there. But black shadows, grey shadows, green shadows come. The wind says, “Miau!” and the rain says, “Hum!” He goes straight home. He dreams all night. He howls. He puts his wife in a fright. Black devils, grey devils, green devils shine— Yes, by Sambo, And the fire looks fine! Cat devils, dog devils, cow devils grin— Yes, by Sambo, And the fire rolls in. And so, next day, to avoid the worst— He takes that cow Where he found her first. DAVY JONES' DOOR-BELL A Chant for Boys with Manly Voices. Every line sung one step deeper than the line preceding. Any sky-bird sings, “Ring, ring!” Any church-chime calls, “Dong ding!” Any cannon says, “Boom bang!” Any whirlwind says, “Whing whang!” The bell-buoy hums and roars, “Ding dong!” And way down deep, Where fishes throng, By Davy Jones' big deep-sea door, Shaking the ocean's flowery floor, His door-bell booms “Dong dong, Dong dong,” Deep, deep down, “Clang boom, Boom dong, Boom dong, Boom dong!” THE SCIENTIFIC ASPIRATION Would that the dry hot wind called Science came, Forerunner of a higher mystic day, Though vile machine-made commerce clear the way— Though nature losing shame should lose her veil, And ghosts of buried angel-warriors wail The fall of Heaven, and the relentless Sun Smile on, as Abraham's God forever dies— Lord, give us Darwin's eyes! ANOTHER WORD ON THE SCIENTIFIC ASPIRATION “There's machinery in the butterfly. There's a mainspring to the bee. There's hydraulics to a daisy And contraptions to a tree. “If we could see the birdie That makes the chirping sound With psycho-analytic eyes, And x ray, scientific eyes, We could see the wheels go round.” And I hope all men Who think like this Will soon lie Underground. COLD SUNBEAMS The Question: “Tell me, where do fairy queens Find their bridal veils?” The Answer: “If you were now a fairy queen Then I, your faithless page and bold Would win the realm by winning you. Your veil would be transparent gold White magic spiders wove for you At cold grey dawn, from sunbeams cold While robins sang amid the dew.” THE FIRE-LADDIE, LOVE The door has a bolt. The window a grate. O friend we are trapped In the factory, Fate. The flames pierce the ceiling. The brands heap the floor. But listen, dear heart: A song at the door! The forcing of bolts, The hewing of oak! A sword breaks the lock With one cleaving stroke. Naked and fair Unscathed and wild Behold he comes swiftly, An elfin-eyed child. The fire-laddie, Love, Is our hero this night, As he walks on the embers His plumes are cloud white. He sings of the lightning And snow of desire, His step parts the veil Of the factory fire. Oh his chubby child hands, Oh his long curls agleam, From out their soft tossing Comes thunder and dream. Our fire-laddie, Love, At the last moment here, To bear us away To a road without fear, To the dark, to the wind, To the mist, to the dawn, Where the lilac blooms nod By the rain renewed lawn. To a land of deep knowledge Our tired feet are led, While the stars of new morning Still glint overhead. Sweet Love walks between us With silences long. His step is the music. The day is the song. THE FEVER CALLED WAR Love and Kindness, Two sad shadows Over the old nations, Bigger than the world, Mists above a grave! Says Love, the shadow To Kindness the shadow:— “I weep for the children No miracle will save. All the little children Are down with the fever, Thousands upon thousands, Blind and deaf and mad. Their fathers are all dead, And the same raging fever Is burning up the children, The babes that once were glad.” STANZAS IN JUST THE RIGHT TONE FOR THE SPIRITED GENTLEMEN WHO WOULD CONQUER MEXICO Alexander Would I might waken in you Alexander, Murdering the nations wickedly, Flooding his time with blood remorselessly, Sowing new Empires, where the Athenian light, Knowledge and music, slay the Asian night, And men behold Apollo in the sun. God make us splendid, though by grievous wrong. God make us fierce and strong. Mohammed Would that on horses swifter than desire We rode behind Mohammed 'round the zones With swords unceasing, sowing fields of bones, Till New America, ancient Mizraim, Cry: “Allah is the God of Abraham.” God make our host relentless as the sun, Each soul your spear, your banner and your slave, God help us to be brave. Napoleon Would that the cold adventurous Corsican Woke with new hope of glory, strong from sleep, Instructed how to conquer and to keep More justly, having dreamed awhile, yea crowned With shining flowers, God-given; while the sound Of singing continents, following the sun, Calls freeborn men to guard Napoleon's throne Who makes the eternal hopes of man his own. THE MODEST JAZZ-BIRD The Jazz-bird sings a barnyard song— A cock-a-doodle bray, A jingle-bells, a boiler works, A he-man's roundelay. The eagle said, “My noisy son, I send you out to fight!” So the youngster spread his sunflower wings And roared with all his might. His headlight eyes went flashing From Oregon to Maine; And the land was dark with airships In the darting Jazz-bird's train. Crossing the howling ocean, His bell-mouth shook the sky; And the Yankees in the trenches Gave back the hue and cry. And Europe had not heard the like— And Germany went down! The fowl of steel with clashing claws Tore off the Kaiser's crown. JUSTINIAN (The Tory Reply) Nay, let us have the marble peace of Rome, Recorded in the Code Justinian, Till Pagan Justice shelters man from man. Fanatics snarl like mongrel dogs; the code Will build each custom like a Roman Road, Direct as daylight, clear-eyed as the sun. God grant all crazy world-disturbers cease. God give us honest peace. THE SPACIOUS DAYS OF ROOSEVELT These were the spacious days of Roosevelt. Would that among you chiefs like him arose To win the wrath of our united foes, To chain King Mammon in the donjon-keep, To rouse our godly citizens that sleep Till as one soul, we shout up to the sun The battle-yell of freedom and the right— “Lord, let good men unite.” Nay, I would have you lonely and despised. Statesmen whom only statesmen understand, Artists whom only artists can command, Sages whom all but sages scorn, whose fame Dies down in lies, in synonyms for shame With the best populace beneath the sun. God give us tasks that martyrs can revere, Still too much hated to be whispered here. Would we might drink, with knowledge high and kind The hemlock cup of Socrates the king, Knowing right well we know not anything, With full life done, bowing before the law, Binding young thinkers' hearts with loyal awe, And fealty fixed as the ever-enduring sun— God let us live, seeking the highest light, God help us die aright. Nay, I would have you grand, and still forgotten, Hid like the stars at noon, as he who set The Egyptian magic of man's alphabet; Or that far Coptic, first to dream in pain That dauntless souls cannot by death be slain— Conquering for all men then, the fearful grave. God keep us hid, yet vaster far than death. God help us to be brave. A HOT TIME IN THE OLD TOWN Guns salute, and crows and pigeons fly, Bronzed, Homeric bards go striding by, Shouting “Glory” amid the cannonade:— It is the cross-roads Resurrection Parade. Actors, craftsmen, builders, join the throng, Painters, sculptors, florists tramp along, Farm-boys prance, in tinsel, tin and jade:— It is the cross-roads Love and Laughter Crusade. The sun is blazing big as all the sky, The mustard-plant with the sunflower climbing high, With the Indian corn in fiery plumes arrayed:— It is the cross-roads Love and Beauty Crusade. Free and proud and mellow jamboree, Roar and foam upon the prairie sea, Tom turkeys sing the sun a serenade:— It is the cross-roads Resurrection Parade. Our sweethearts dance, with wands as white as milk, With veils of gold and robes of silver silk, Their caps in velvet pansy-patterns made:— It is the cross-roads Resurrection Parade. Wandering 'round the shrines we understand, Waving oak-boughs cheap and close at hand, And field-flowers fair, for which no man has paid:— It is the cross-roads Love and Beauty Crusade. Hieroglyphic marchers here we bring. Rich inscriptions strut and talk and sing. A scroll to read, a picture-word brigade:— It is the cross-roads Love and Laughter Crusade. Swans for symbols deck the banners rare, Mighty acorn-signs command the air, For hearts of oak, by flying beauty swayed:— It is the cross-roads Resurrection Parade. The flags are big, like rainbows flashing 'round, They spread like sails, and lift us from the ground, Star-born ships, that have come in masquerade:— It is the cross-roads Resurrection Parade.</field>
+   </doc>
+</add>

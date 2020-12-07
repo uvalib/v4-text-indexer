@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Hopkins, Lemuel, 1750-1801</field>
+      <field name="author_facet">Hopkins, Lemuel, 1750-1801</field>
+      <field name="author_sort_facet">hopkins lemuel 1750 1801</field>
+      <field name="author_text">Hopkins, Lemuel, 1750-1801</field>
+      <field name="composition_era_facet">18th Century</field>
+      <field name="composition_era_facet">1790's</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ap/uvaGenText/tei/chap_AM2001.xml</field>
+      <field name="date_indexed_facet">201909240350</field>
+      <field name="date_text">[1793]</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey American Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey American Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:440766</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">[Poems by Hopkins in] American poems, selected and original</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">American poetry -- 1783-1850</field>
+      <field name="subject_text">American poetry -- 1783-1850</field>
+      <field name="title_display">[Poems by Hopkins in] American poems, selected and original</field>
+      <field name="title_facet">poems by hopkins in american poems selected and original</field>
+      <field name="title_sort_facet">poems by hopkins in american poems selected and original</field>
+      <field name="title_text">[Poems by Hopkins in] American poems, selected and original</field>
+      <field name="year_display">[1793]</field>
+      <field name="year_facet">1793</field>
+      <field name="year_multisort_i">1793</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:440766&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:440766&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Hopkins, Lemuel, 1750-1801&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;hopkins lemuel 1750 1801&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;[Poems by Hopkins in] American poems, selected and original&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;poems by hopkins in american poems, selected and original&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;[1793]&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1793&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Hopkins, Lemuel&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1750&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1801&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;[Poems by Hopkins in] American poems, selected and original&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Litchfield&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed by Collier and Buel&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;[1793]&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"&gt;3866381-1001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;cham2001&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;American poetry -- 1783-1850&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1783&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1850&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;[Poems by Hopkins in] American poems, selected and original&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Alexandria, VA&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Inc.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1996&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1996 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 13 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Only poems by Hopkins included.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-AmPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">EPITAPH On a Patient killed by a Cancer Quack. By Dr. Lemuel Hopkins. Here lies a fool nat on his back, The victim of a Cancer Quack; Who lost his money and his life, By plaister, caustic, and by knife. The case was this—a pimple rose, South-east a little of his nose; Which daily reden'd and grew bigger, As too much drinking gave it vigour: A score of gossips soon ensure Full three score diff'rent modes of cure; But yet the full-fed pimple still Defied all petticoated skill; When fortune led him to peruse A hand-bill in the weekly news; Sign'd by six fools of diff'rent sorts, All cur'd of cancers made of warts; Who recommend, with due submission, This cancer-monger as magician; Fear wing'd his flight to find the quack, And prove his cancer-curing knack; But on his way he found another,— A second advertising brother: But as much like him as an owl Is unlike every handsome fowl; Whose fame had rais'd as broad a fog, And of the two the greater hog: Who us'd a still more magic plaister, That sweat forsooth, and cur'd the faster. This doctor view'd, with moony eyes And scowl'd up face, the pimple's size; Then christen'd it in solemn answer, And cried, “This pimple's name is CANCER.” “But courage, friend, I see you're pale, “My sweating plaisters never fail; “I've sweated hundreds out with ease, “With roots as long as maple trees; “And never fail'd in all my trials— “Behold these samples here in vials! “Preserv'd to shew my wond'rous merits, “Just as my liver is—in spirits. “For twenty joes the cure is done—” The bargain struck, the plaister on, Which gnaw'd the cancer at its leisure, And pain'd his face above all measure. But still the pimple spread the faster, And swell'd, like toad that meets disaster. Thus foil'd, the doctor gravely swore, It was a right rose-cancer sore; Then stuck his probe beneath the beard, And shew'd them where the leaves appear'd; And rais'd the patient's drooping spirits, By praising up the plaister's merits.— Quoth he, “The roots now scarcely stick— “I'll fetch her out like crab or tick; “And make it rendezvous, next trial, “With six more plagues, in my old vial.” Then purg'd him pale with jalap drastic, And next applies th'infernal caustic. But yet, this semblance bright of hell Serv'd but to make the patient yell; And, gnawing on with fiery pace, Devour'd one broadside of his face— ‘Courage, 'tis done,’ the doctor cried, And quick th'incision knife applied: That with three cuts made such a hole, Out flew the patient's tortur'd soul! Go, readers, gentle, eke and simple, If you have wart, or corn, or pimple; To quack infallible apply; Here's room enough for you to lie. His skill triumphant still prevails, For Death's a cure that never fails. THE HYPOCRITE's HOPE. BY THE SAME. Blest is the man, who from the womb, To saintship him betakes, And when too soon his child shall come, A long confession makes. When next in Broad Church-alley, he Shall take his former place, Relates his past iniquity, And consequential grace. Declares how long by Satan vex'd, From truth he did depart, And tells the time, and tells the text, That smote his flinty heart. He stands in half-way-cov'nant sure; Full five long years or more, One foot in church's pale secure, The other out of door. Then riper grown in gifts and grace, With ev'ry rite complies, And deeper lengthens down his face, And higher rolls his eyes. He tones like Pharisee sublime, Two lengthy prayers a day, The same that he from early prime, Had heard his father say. Each Sunday perch'd on bench of pew, To passing priest he bows, Then loudly 'mid the quav'ring crew, Attunes his vocal nose. With awful look then rises slow, And pray'rful visage sour, More fit to fright the apostate foe, Then seek a pard'ning power. Then nodding hears the sermon next, From priest haranguing loud; And doubles down each quoted text, From Genesis to Jude. And when the priest holds forth address, To old ones born anew, With holy pride and wrinkled face, He rises in his pew. Good works he careth nought about, But faith alone will seek, While Sunday's pieties blot out The knaveries of the week. He makes the poor his daily pray'r, Yet drives them from his board: And though to his own good he swear, Thro' habit breaks his word. This man advancing fresh and fair, Shall all his race complete; And wave at last his hoary hair, Arrived in Deacon's seat. There shall he all church honours have, By joyous brethren given— Till priest in fun'ral sermon grave, Shall send him straight to heaven. ON GENERAL ETHAN ALLEN. BY THE SAME. Lo Allen 'scaped from British jails, His tushes broke by biting nails. Appears in hyperborean skies, To tell the world the bible lies. See him on green hills north afar Glow like a self-enkindled star, Prepar'd (with mob-collecting club Black from the forge of Belzebub, And grim with metaphysic scowl, With quill just pluck'd from wing of owl) As rage or reason rise or sink To shed his blood, or shed his ink. Behold inspired from Vermont dens, The seer of Antichrist descends, To feed new mobs with Hell-born manna In Gentile lands of Susquehanna; And teach the Pennsylvania quaker High blasphemies against his maker. Behold him move ye staunch divines! His tall head bustling through the pines; All front he seems like wall of brass, And brays tremendous as an ass; One hand is clench'd to batter noses, While t'other scrawls 'gainst Paul and Moses.</field>
+   </doc>
+</add>

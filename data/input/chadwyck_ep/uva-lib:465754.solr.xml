@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Gould, Robert</field>
+      <field name="author_facet">Gould, Robert</field>
+      <field name="author_sort_facet">gould robert</field>
+      <field name="author_text">Gould, Robert</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.1975.xml</field>
+      <field name="date_indexed_facet">201909240352</field>
+      <field name="date_text">[1687]</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:465754</field>
+      <field name="language_facet">English</field>
+      <field name="main_title_display">The Laureat ; [by Robert Gould</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">The Laureat ; [by Robert Gould</field>
+      <field name="title_facet">laureat</field>
+      <field name="title_sort_facet">laureat</field>
+      <field name="title_text">The Laureat ; [by Robert Gould</field>
+      <field name="year_display">[1687]</field>
+      <field name="year_facet">1687</field>
+      <field name="year_multisort_i">1687</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:465754&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:465754&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Gould, Robert&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;gould robert&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Laureat ; [by Robert Gould&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;laureat&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;[1687]&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1687&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Gould, Robert&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Laureat&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;[by Robert Gould]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;[London?]&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;[1687]&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp1531&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;4 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Laureat&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;[by Robert Gould]&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 12 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">The Laureat Jack Squabbs History in a little drawn, Down to his Evening, from his early dawn. Appear, thou mighty Bard, to open view; Which yet we must confess you need not do: The labour to expose thee we may save, Thou stand'st upon thy own Records, a Knave; Condemn'd to Live in thy Apostate Rhimes, The Curse of Ours, and Scoff of Future Times. Still tacking round with every turn of State, Reverse to Shaftsbury! thy Cursed Fate Is always at a change to come to late: To keep his Plots from Coxcombs was his Care; His Villany was mask'd, and Thine is bare: Wise Men alone cou'd guess at his Design, And cou'd but guess, the Thred was spun so fine; But every purblind Fool may see through thine. Had Dick still kept the Regal Diadem, Thou hadst been Poet Laureat to him, And, long e're now, in Lofty Verse proclaim'd His high Extraction, among Princes fam'd; Diffus'd his Glorious Deed from Pole to Pole, Where Winds can carry, and where Waves can rowl. Nay, had our Charles, by Heavens severe Decree, Been found, and Murther'd in the Royal Tree, Even thou hadst prais'd the Fact; his Father Slain, Thou call'st but gently breathing of a Vein: Impious, and Villanous! to bless the blow That laid at once three Lofty Nations low, And gave the Royal Cause a Fatal Overthrow. What after this cou'd we expect from thee? What cou'd we hope for, but just what we see? Scandal to all Religions, New and Old; Scandal to thine, where Pardon's bought and sold, And Mortgag'd Happiness Redeem'd for Gold: Tell me, for 'tis a Truth you must allow, Whoever chang'd more in one Moon, than thou? Ev'n thy own Zimri was more stedfast known; He had but one Religion, or had none: What Sect of Christians is't thou hast not known, And, at one time or other, made thy own? A Bristled Baptist bred; and then thy strain Immaculate, was free from sinful stain. No Songs in those blest times thou didst produce To brand, and sham good manners out of use: The Ladies then had not one Bawdy Bob, Nor thou the Courtly Name of Poet Squab. Next, thy dull Muse, an Independant Jade, On Sacred Tyranny five Stanza's made; Prais'd Noll, who ev'n to both extreams did run, To kill the Father, and dethrone the Son. When Charles came in, thou didst a Convert grow, More by thy Interest, than thy Nature so. Under his Liv'ning Beams thy Laurels spread; He first did place that wreath about thy Head; Kindly reliev'd thy wants, and gave thee Bread. Here 'twas thou made'st the Bells of Fancy chime, And choak'd the Town with suffocating Rhime. Till Heroes, form'd by thy Creating Pen, Were grown as Cheap, and Dull, as other men. Flush'd with Success, full Gallery, and Pit, Thou bravest all Mankind with want of Wit. Nay, in short time, wer't grown so proud a Ninny, As scarce t'allow that Ben himself had any. But when the men of Sense thy Error saw, They Check'd thy Muse, and kept the Termagant in awe. To Satyr next thy Talent was Addrest, Fell foul on all, thy Friends among the rest: Those who the oft'nest did thy wants supply, Abus'd, Traduc'd, without a Reason why. Nay, ev'n thy Royal Patron was not spar'd, But an obscene, a Santring wretch declar'd. Thy Loyal Libel we can still produce, Beyond Example, and beyond Excuse. O strange return, to a forgiving King, But the warm'd Viper wears the greatest Sting. Thy Pension lost, and justly without doubt, When Servants snarl, we ought to kick 'em out; They that disdain their Benefactors Bread, No longer ought by Bounty to be fed. That lost, the Visor chang'd, you turn about, And strait a True Blue Protestant crept out; The Fryar now was writ: and some will say They smell a Male-content through all the Play. The Papist too was damn'd, unfit for Trust, Call'd Treacherous, Shameless, Profligate, Unjust, And Kingly Power thought Arbitrary Lust. This lasted till thou didst thy Pension gain, And that chang'd both thy Morals, and thy strain. If to write Contradictions, Nonsense be, Who has more Nonsense in their works than thee? We'll mention but thy Lay-mans Faith, and Hind, Who'd think both these (such Clashing do we find) Cou'd be the product of one single mind: Here, thou wou'dst Charitable fain appear, Find'st fault that Athanasius was severe; Thy Pity strait to Cruelty is rais'd, And ev'n the Pious Inquisition prais'd, And recommended to the present Reign: “O happy Countries, Italy and Spain! Have we not cause, in thy own words, to say, Let none believe what varies every day, That never was, nor will be at a stay. Once, Heathens might be sav'd, you did allow; But not, it seems, we greater Heathens now: The Loyal Church, that buoys the Kingly Line, Damn'd with a breath, but 'tis such breath as thine: What Credit to thy party can it be, T'have gain'd so lewd a Profligate as thee? Stray'd from our fold, makes us but laugh, not weep; We have but lost what was disgrace to keep: By them Mistrusted, and to us a scorn; For it is weakness, at the best, to Turn. True, hadst thou left us in the former Reign, T'had prov'd, it was not wholly done for Gain; Now, the Meridian Sun is not so plain. Gold is thy God, for a substantial summ, Thou to the Turk, wou'dst run away from Rome, And Sing his Holy Expedition against Christendom. But, to conclude, blush with a lasting Red, (If thou'rt not mov'd with what's already said) To see thy Boars, Bears, Buzards, Wolves and Owls, And all thy other Beasts, and other Fowls, Routed by two poor Mice: (Unequal fight) But easie 'tis to Conquer in the Right. See there a Youth (a shame to thy gray hairs) Make a meer Dunce of all thy threescore years. What in that Tedious Poem hast thou done, But cramm'd all Æsops Fables into one. But why do I the precious minutes spend On him, that wou'd much rather hang, than mend. No, Wretch, continue still just as thou art, Thou'rt now in this last Scene, that Crowns thy Part; To purchase Favour, veer with every Gale, And, against Interest, never cease to rail; Tho thou'rt the only proof how Interest can prevail. FINIS.</field>
+   </doc>
+</add>

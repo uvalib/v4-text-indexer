@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="author_display">Whitehall, Robert, 1625-1685</field>
+      <field name="author_facet">Whitehall, Robert, 1625-1685</field>
+      <field name="author_sort_facet">whitehall robert 1625 1685</field>
+      <field name="author_text">Whitehall, Robert, 1625-1685</field>
+      <field name="composition_era_facet">17th Century</field>
+      <field name="content_model_facet">text</field>
+      <field name="content_type_facet">TEI</field>
+      <field name="datafile_name_display">/FedoraRepo/text/chadwyck_ep/uvaGenText/tei/chep_2.0270.xml</field>
+      <field name="date_indexed_facet">201909240353</field>
+      <field name="date_text">[1661]</field>
+      <field name="digital_collection_facet">UVa Text Collection</field>
+      <field name="digital_collection_text">UVa Text Collection</field>
+      <field name="digital_collection_facet">Chadwyck-Healey English Poetry</field>
+      <field name="digital_collection_text">Chadwyck-Healey English Poetry</field>
+      <field name="format_facet">Document</field>
+      <field name="format_facet">Online</field>
+      <field name="id">uva-lib:464850</field>
+      <field name="language_facet">English</field>
+      <field name="language_facet">Latin</field>
+      <field name="main_title_display">The Coronation ; A Poem. By Ro: Whitehall</field>
+      <field name="repository_address_display">http://fedora-prod01.lib.virginia.edu:8080/fedora/get</field>
+      <field name="shadowed_location_facet">VISIBLE</field>
+      <field name="source_facet">Digital Library</field>
+      <field name="subject_facet">English poetry -- Early modern, 1500-1700</field>
+      <field name="subject_text">English poetry -- Early modern, 1500-1700</field>
+      <field name="title_display">The Coronation ; A Poem. By Ro: Whitehall</field>
+      <field name="title_facet">coronation</field>
+      <field name="title_sort_facet">coronation</field>
+      <field name="title_text">The Coronation ; A Poem. By Ro: Whitehall</field>
+      <field name="year_display">[1661]</field>
+      <field name="year_facet">1661</field>
+      <field name="year_multisort_i">1661</field>
+      <field name="admin_meta_file_display">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</field>
+      <field name="admin_meta_file_display">&lt;!DOCTYPE adminmeta</field>
+      <field name="admin_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/admin/adminmeta.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminmeta&gt;</field>
+      <field name="admin_meta_file_display">&lt;pid&gt;uva-lib:464850&lt;/pid&gt;</field>
+      <field name="admin_meta_file_display">&lt;adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;access&gt;viva&lt;/access&gt;</field>
+      <field name="admin_meta_file_display">&lt;/policy&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminrights&gt;</field>
+      <field name="admin_meta_file_display">&lt;technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;text&gt;</field>
+      <field name="admin_meta_file_display">&lt;character encoding="UTF-8"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="admin_meta_file_display">&lt;markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;encoding label="xml" version="1.0"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;base label="TEI.2" type="DTD" version="P4" href="http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd"&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.dtd" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;localmodification label="TEI.extensions.ent" href="http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent"/&gt;</field>
+      <field name="admin_meta_file_display">&lt;/base&gt;</field>
+      <field name="admin_meta_file_display">&lt;/markup&gt;</field>
+      <field name="admin_meta_file_display">&lt;/text&gt;</field>
+      <field name="admin_meta_file_display">&lt;/technical&gt;</field>
+      <field name="admin_meta_file_display">&lt;/adminmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;?xml version="1.0" encoding="US-ASCII"?&gt;</field>
+      <field name="desc_meta_file_display">&lt;!DOCTYPE descmeta</field>
+      <field name="desc_meta_file_display">SYSTEM "http://text.lib.virginia.edu/dtd/descmeta/descmeta.dtd"&gt;</field>
+      <field name="desc_meta_file_display">&lt;descmeta&gt;</field>
+      <field name="desc_meta_file_display">&lt;pid&gt;uva-lib:464850&lt;/pid&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"&gt;</field>
+      <field name="desc_meta_file_display">&lt;form scheme="uva-form"&gt;monograph&lt;/form&gt;</field>
+      <field name="desc_meta_file_display">&lt;/mediatype&gt;</field>
+      <field name="desc_meta_file_display">&lt;presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayAgent&gt;Whitehall, Robert, 1625-1685&lt;/displayAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortAgent&gt;whitehall robert 1625 1685&lt;/sortAgent&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayTitle&gt;The Coronation ; A Poem. By Ro: Whitehall&lt;/displayTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortTitle&gt;coronation&lt;/sortTitle&gt;</field>
+      <field name="desc_meta_file_display">&lt;displayDate&gt;[1661]&lt;/displayDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;sortDate&gt;1661&lt;/sortDate&gt;</field>
+      <field name="desc_meta_file_display">&lt;/presentation&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="creator" form="persname" role="author"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Whitehall, Robert&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;time&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1625&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1685&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Coronation&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Poem. By Ro: Whitehall&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;London&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Printed for John Playford [etc.]&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="publication"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;[1661]&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Virgo ID"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;identifier type="UVa Title Control Number"&gt;chp4276&lt;/identifier&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;eng&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;language&gt;</field>
+      <field name="desc_meta_file_display">&lt;authority scheme="http://www.loca.gov/standards/iso639-2/"&gt;ISO 639-2&lt;/authority&gt;lat&lt;/language&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;6 p.&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;subject scheme="LCSH"&gt;English poetry -- Early modern, 1500-1700&lt;/subject&gt;</field>
+      <field name="desc_meta_file_display">&lt;covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;timeinterval&gt;Early modern, 1500-1700&lt;/timeinterval&gt;</field>
+      <field name="desc_meta_file_display">&lt;/covtime&gt;</field>
+      <field name="desc_meta_file_display">&lt;surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;mediatype type="text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;mimetype&gt;text/xml&lt;/mimetype&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="main"&gt;The Coronation&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;title type="sub"&gt;A Poem. By Ro: Whitehall&lt;/title&gt;</field>
+      <field name="desc_meta_file_display">&lt;place&gt;</field>
+      <field name="desc_meta_file_display">&lt;geogname&gt;Cambridge, England&lt;/geogname&gt;</field>
+      <field name="desc_meta_file_display">&lt;/place&gt;</field>
+      <field name="desc_meta_file_display">&lt;agent type="provider" form="corpname" role="publisher"&gt;</field>
+      <field name="desc_meta_file_display">&lt;name&gt;Chadwyck-Healey Ltd.&lt;/name&gt;</field>
+      <field name="desc_meta_file_display">&lt;/agent&gt;</field>
+      <field name="desc_meta_file_display">&lt;time type="creation"&gt;</field>
+      <field name="desc_meta_file_display">&lt;date&gt;1994&lt;/date&gt;</field>
+      <field name="desc_meta_file_display">&lt;/time&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="copyright"&gt;Copyright©1994 Chadwyck-Healey Inc.&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;rights type="access"&gt;Accessible to VIVA community only&lt;/rights&gt;</field>
+      <field name="desc_meta_file_display">&lt;physdesc type="extent"&gt;ca. 17 kilobytes&lt;/physdesc&gt;</field>
+      <field name="desc_meta_file_display">&lt;description type="note"&gt;Preliminaries omitted.&lt;/description&gt;</field>
+      <field name="desc_meta_file_display">&lt;/surrogate&gt;</field>
+      <field name="desc_meta_file_display">&lt;relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="UVA-LIB-Text"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;set code="CH-EnglPoetry"/&gt;</field>
+      <field name="desc_meta_file_display">&lt;/relationships&gt;</field>
+      <field name="desc_meta_file_display">&lt;/descmeta&gt;</field>
+      <field name="fulltext">Divisum Imperium cum Jove Cæsar habet. The Coronation. Give me an Eagles quill that dropt at Noon, While she was gazing on the mounted Sun; That I may write Great Charles his Name, &amp; tell The rescued Royalist that things go Well. Hallowed be the Altar, let the smoke Ascend, dismisse the heifer from her yoke. Prepare ten Hecatombs, and let them all, Be Crown'd, and march in triumph from the staul; For 'tis decreed, nor shall the joys we share, Fall short of Cæsar's Amphitheater. Once more we are our selves again, and know To whom to pay th' Allegiance that we owe; We know what Kingdome mean's, but Common wealth Impos'd upon us, and got in by Stealth. We know what Crowns and Scepters mean, but States Came from the Netherlands, and boggie flatts. The good old way ha's an ingenious Face, Since when the Country-man lost half his Grace: He understands not Mushrome titles, he Was born under a King, and so will die. Let's take a view how we have liv'd of late, Since Morall honesty went out of date: Or did we live at all? hardly in troth, Esquire and Knights had but from hand to mouth: Collectors had the rest, yet all were bent And wisht, and pray'd still for this settlement: Without which Law had not it's proper course, Was put to shifts, run in an unknown sourse. Two words ha's mended all, now out of Prison, (Alas, they snffer'd too long Ostracisme.) Kingdom and Realm, both which have Hid their head, And seem'd to Duck a while, yet were not dead: The many headed-beast hath learn'd of late, To put a difference 'twixt Realme and State; And rather pay their Prince Corn, Oyle and Wines, Then to a Corporall, or his assignes. Scripture will warrant Kings, and for that cause, Our Bible was expiring with our Laws: Which Year by Year grew lesse, that the Lay-Priest, At last could Grasp and Clinch it in his Fist. Squeezing the Non-conforming Texts no less, Then when they underwent the Printing-presse. If we reflect on Men and Manners both, Amongst us lately, who'd not take his Oath, 'Twas time, the giddy World were kept in awe, Sentenc'd, forthwith to Bedlam and fresh straw? When 'twas a Crime to go to Church, and scarce Allowable ones Prayers to reherse In Consecrated ground, but you might hint, Or hold forth i'th' Church with a Chimny in't. When Cunningly, and of their own accord, Men Stole into their Graves, without a word: When Plunging rais'd Men Higher, and the Funt Was Superstitious counted, (out upon't.) When mad Fanatick spirits took their swinge, Meerly, because, the Law was off o'th' hinge: Things spawn'd in March, when nature is most proud, And brings forth Creatures, Blind, and Lame, &amp; Bowd; Things, that if Aristole were with us, Would mend his book de Animalibus. As for example; —see a Fellow come, With Wax enough about his gouty Thumb; To make a nodous tumour mend its pace, Or Carbuncle spit venome in your Face: See, and admire, this Fellow laying down His Awl and Stirrup, is no longer clowne; But sit's upon the Bench, and winks and nods, As gravely, as if sent us by the Gods. Or see a learned Farriar, who i'th' morn, Was at his lawfull call, his Drench and Horn: His beaten Ginger, and his Diapente, Now Leader of a gang, of about Twenty. And these of Nineteen minds, yet all combine Against the Common foe, Church discipline: 'Tis Tyranny cry's One, unwarrantable, A Second, and a Third Abominable; A Fourth, what holy Writ can for it plead? Why Saucebox, where it doth, thou can'st not read; Or if ten thousand Texts were urg'd, you'l say, The Spirit meant them quite another way. Obstinate ignorance! 'tis such a curse That patient Iob himself ne're knew a worse. This Farriar is a Iustice too; O yes, His Conscience troubled him, till he was this; And struts in his wide Hall, and scorns his Fellows, Whom he has left behind to blow the Bellows; Expecting when the Bride-groom, and his Bride Shall by his Worship shackled be and ty'd; These he together links (with's Hat on's head) Using this form of Words, Kiss and to Bed. Now must her lip take Custome, and Excise From him in Velvet clad, to him in Frize: But above all nothing so much a Martyr As that poor Ell and half, her Wedding Garter: The Saturnalian Riots were not such, No such lascivious glance, or wanton touch: Venus would blush, nay it would Pan incense To be a Guest to so much Impudence: Pallas defend me, and thy off-spring all, When Vulcan's made a Priest Canonical; A Priest! why set aside his other faults The Old Law put's him by, for Vulcan halts; What! no distinction made? no difference Betwixt his Sea-coal, and their Frankinsence? Is it all one to hammer out a Text, And to Enucleate the same perplext? Yes, yes, the rout eryes, and again yes, yes Our Farriar has a gift, and can do this; He has a call too, well; no difference though? No, no, the rout cries, and again, No, No. Thus an impetuous torrent, right or wrong Sweep's down the bank, and hurries all along; Till Neptune rouz'd at last begins to wag, And puts the wind that caus'd it in a bag; The Sea's not so unruly, doth not roare Or foam as doth the Rout that humane Bore. With indignation then the Valiant Monk Took this same Hydra Elephant by th' trunck, And made him yawn; still holding by the Nose The late triumphant huge Rinoceroes. Appear now Charls the Great, and let the Sun Dance to behold his Rivals game thus wonne; Exhibiting more minutes to each day, And adding to his height a richer Ray: Break out from your Eclipse, St. George is charme Enough to guard your innocence from harm. Ascend Dread Soveraign, Sir, your Fathers Throne Maugre the spight of Fate, 'tis now your own; Not by domestick force or forraign powers, But by sollicitous entreaties yours; And all the sons of Earth relenting, say They cannot live without You here, one day. So the parch't Earth the Sun-beam disallowes Till over-flown with moisture, and with sloughs An innundation comes, upon which fright She that but gap'd before, now cryes outright, Courting that Sun, with tears, which she of late For his indulgent warmth began to hate. FATHER of Us, and of our Countrey, You Make out our simile, and illustrate too: Great Joves concerne, and chiefest care, who took, Your Sacred Self into his Sacra Jovi quercus. Sacred Oak: What to our Ancestors did food afford To us prov'd better then a Iona's Gourd; The Fame of which makes Ganimede look down And wish himself (this day) Lord Mayor of London, who as the Coronation is Cup-bearer to the King. Sir Richard Brown. But that the Gods, in Senate sitting, feare He would no more return, but tarry here; Who celebrating this great Festival And Iubile, still for more Nectar call. Eying the Male-contented Lad, lest he Should steal the health down hither privately; While this new setled Isle and neighbour Lands Unanimously shout, and clap their hands: While VVhitehall sounds by Tamisis rehearst, Long live the mighty Heir to Charls the first. FINIS.</field>
+   </doc>
+</add>
