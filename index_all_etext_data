@@ -1,0 +1,57 @@
+#!/bin/bash
+
+SCRIPTDIR=$( (cd -P $(dirname $0) && pwd) )
+corename=etext
+BASEDIR=$SCRIPTDIR/common
+
+# load the shared bash functions log, vlog and Verbose
+. $SCRIPTDIR/outputfuncs.bash
+
+verbose=
+force=
+test=
+aws=0
+chunk=
+index=staging:production
+while getopts :vfc:tai: opt
+ do
+      case $opt in
+          v) verbose=-v;;
+          t) test=-t;;
+          f) force=-f;;
+          a) aws=1;;
+          c) chunk=-c $OPTARG;;
+          i) index=$OPTARG
+      esac
+done
+shift $((OPTIND-1))
+
+if [ "$force" == "-f" ] ; then
+    Verbose "Forcing index rebuild with -f flag"
+fi
+
+
+Verbose " "
+Verbose "Starting update of Virgo4 index for etext items "`/bin/date "+%Y-%m-%d_%H:%M"`
+
+for line in `cat $SCRIPTDIR/cores_to_process`
+do
+    year=`date "+%Y"`
+    solrname=`echo $line| cut -d '|' -f1`
+    transform=`echo $line| cut -d '|' -f2`
+    s3bucket=`echo $line| cut -d '|' -f3 | sed -e "s/2020/$year/"`
+    #currently unused
+    s3deletebucket=`echo $line| cut -d '|' -f4 | sed -e "s/2020/$year/"`
+    #currently unused
+    solrurl=`echo $line | cut -d '|' -f5`
+
+    if [[ "$index" =~ $solrname ]] ; then 
+        $SCRIPTDIR/transformrecordsv3tov4 ${verbose} ${test} ${force} -x ${transform}
+
+        $SCRIPTDIR/buildindexlist ${verbose} ${test} ${force} -i ${solrname} -x ${transform} 
+
+        $SCRIPTDIR/indexrecordsinlist_v4 ${verbose} ${test} ${force} ${aws} ${chunk} -i ${solrname} -u ${s3bucket}
+    fi
+done
+
+Verbose "Finished update of Virgo4 index for EText items "`/bin/date "+%Y-%m-%d_%H:%M"`

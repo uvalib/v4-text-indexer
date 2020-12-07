@@ -4,3 +4,8 @@ index
 .project
 .settings
 indexed_solr_docs_prod
+bin
+data/transformed*/*
+data/indexed*/*
+data/chunks/
+data/to-be-indexed-list-*

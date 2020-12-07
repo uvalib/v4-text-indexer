@@ -1,0 +1,98 @@
+#!/bin/bash
+
+set -o nounset
+set -o errexit
+
+SCRIPTDIR=$( (cd -P $(dirname $0) && pwd) )
+corename=etext
+DATADIR=$SCRIPTDIR/data
+
+# load the shared bash functions log, vlog and Verbose
+. $SCRIPTDIR/outputfuncs.bash
+
+function newest () {
+    find $1 -maxdepth 1 -name "*.xml"  -printf '%T+ %p\n' | sort -r | head -1 | cut -d ' ' -f 2
+}
+
+function oldest () {
+    find $1 -maxdepth 1 -name "*.xml"  -printf '%T+ %p\n' | sort | head -1 | cut -d ' ' -f 2
+}
+
+verbose=
+force=
+transform=
+index=staging
+while getopts :vfx:i: opt
+do
+    case $opt in
+        v) verbose=-v;;
+        f) force=-f;;
+        i) index=$OPTARG;;
+        x) transform=$OPTARG;;
+    esac
+done
+shift $((OPTIND-1))
+
+#set file to be empty
+cat /dev/null > $DATADIR/to-be-indexed-list-${index}.txt
+
+Verbose "Building List of docs that need to be re-indexed"
+prev_subdir=
+uptodate=0
+totaldirs=0
+for dir in `find $DATADIR/transformed_${transform}/ -mindepth 1 -maxdepth 1 -type d  -not -empty -print | sort`
+do 
+    subdir=`basename $dir`
+    process=0
+    if [ ! -e $DATADIR/indexed_${index}/$subdir ]
+    then
+        Verbose "Creating Directory: $subdir"
+        mkdir -p $DATADIR/indexed_${index}/$subdir
+        process=1
+    fi
+    newest_src=`newest $dir`
+    oldest_dest=`oldest $DATADIR/indexed_${index}/$subdir`
+    if [[ "$force" == "-f" || "$process" == "1" || "$newest_src" -nt "$oldest_dest" || "$SCRIPTDIR/all_ids_from_solr.txt" -nt "$oldest_dest" ]]
+    then
+        num_yes=0
+        num_no=0
+
+        for file in `find $dir -name "*.xml" -print | sort`
+        do
+            froot=`basename $file`
+            solrid=`echo $froot | sed -e 's/\.solr\.xml//'`            
+            inlist=`egrep -l "^$solrid"'$' $SCRIPTDIR/all_ids_from_solr.txt | wc -l `
+            result=0
+            destfile="$DATADIR/indexed_${index}/$subdir/$froot"
+            if [[ "$inlist" == "1" && -e $destfile && $file -nt $destfile ]]
+            then
+                cmp -s $file $destfile || result=$?
+            else
+                if [[ ! -e $destfile || "$force" == "-f" ]]
+                then
+                   result=1
+                fi
+            fi
+            if [[ "$inlist" == "1" && "$result" != "0" ]]
+            then
+           #     Verbose "Adding file to to-be-indexed list: $subdir  $froot"
+                echo $file >> $DATADIR/to-be-indexed-list-${index}.txt
+                num_yes=$(($num_yes + 1))
+            else
+                num_no=$(($num_no + 1))
+            fi
+        done
+        if [[ "$num_yes" -gt "0" ]]; then
+            Verbose "For directory $subdir : added $num_yes out of $((num_yes + $num_no)) to to-be-indexed-list-${index}.txt"
+        else
+            let "uptodate = $uptodate + 1"
+        fi
+    else
+        #Verbose "For directory $subdir : indexed directory all newer than transformed directory - None need indexing"
+        let "uptodate = $uptodate + 1"
+    fi
+    let "totaldirs = $totaldirs + 1"    
+done
+
+Verbose "Out of $totaldirs directories, $uptodate contained no files needing indexing for $index index"
+

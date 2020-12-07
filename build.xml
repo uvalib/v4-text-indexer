@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project basedir="." default="build" name="ReadCNHIData">
+    <property environment="env"/>
+    <property name="debuglevel" value="source,lines,vars"/>
+    <property name="target" value="1.6"/>
+    <property name="source" value="1.6"/>
+    <path id="textindexer.classpath">
+        <pathelement location="lib/**"/>
+    </path>
+    <target name="init">
+        <mkdir dir="bin"/>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="src">
+                <exclude name="**/*.launch"/>
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="clean">
+        <delete dir="bin"/>
+    </target>
+    
+    <target depends="clean" name="cleanall"/>
+    <target depends="compile,jar" name="build"/>
+
+    <target depends="init" name="compile">
+        <echo message="${ant.project.name}: ${ant.file}"/>
+        <javac debug="true" debuglevel="${debuglevel}" destdir="bin" includeantruntime="false" source="${source}" target="${target}">
+            <src path="src"/>
+            <classpath refid="textindexer.classpath"/>
+        </javac>
+    </target>
+    
+    <target description="build jar" name="jar" depends="compile">
+        <jar destfile="text_indexer.jar">
+            <manifest>
+                <attribute name="Main-Class" value="edu.virginia.lib.v4.indexing.LegacyIndexer"/>
+                <!-- <attribute name="Version" value="${version}"/> -->
+                <attribute name="Built-Date" value="${TODAY}"/>
+            </manifest>
+            <fileset dir="bin" includes="**/*.class" />
+            <fileset dir="bin" includes="**/*.xsl" />
+        </jar>
+        <echo message="jar built" />
+        <property name="jar.already.run" value="true" />
+    </target>
+    
+    <target name="test">
+        <java classname="org.solrmarc.mixin.ReadCNHIData" failonerror="true" fork="yes">
+            <arg line="data/CNHI_data.txt data/CNHI_solr_add.xml"/>
+            <classpath refid="ReadCNHIData.classpath"/>
+        </java>
+    </target>
+</project>

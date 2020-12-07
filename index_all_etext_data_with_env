@@ -1,0 +1,26 @@
+#!/bin/bash
+
+SCRIPTDIR=$( (cd -P $(dirname $0) && pwd) )
+corename=etext
+
+# load the shared bash functions log, vlog and Verbose
+. $SCRIPTDIR/outputfuncs.bash
+`
+if [ "$AWS_ACCESS_KEY_ID" == "" ] ; then
+    Echo "environment variable AWS_ACCESS_KEY_ID must be defined"
+    exit 1
+fi
+if [ "$AWS_SECRET_ACCESS_KEY" == "" ] ; then
+    Echo "environment variable AWS_SECRET_ACCESS_KEY must be defined"
+    exit 1
+fi
+#if [ "$AWS_DEFAULT_REGION" == "" ] ; then
+#    Echo "environment variable AWS_DEFAULT_REGION must be defined"
+#   exit 1
+#fi
+if [ "$AWS_REGION" == "" ] ; then
+    Echo "environment variable AWS_REGION must be defined"
+    exit 1
+fi
+
+$SCRIPTDIR/index_all_etext_data -a $*

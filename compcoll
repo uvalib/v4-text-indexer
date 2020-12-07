@@ -1,0 +1,25 @@
+#!/bin/bash
+
+#echo '$1='"$1"
+#echo '$2='"$2"
+
+query=$1
+query=`echo $query | sed -e 's/ /+/g' -e 's/"//g'`
+
+out=$2
+
+curl -s "http://virgo4-solr-staging-replica-0-private.internal.lib.virginia.edu:8080/solr/test_core/select?fl=id&q=digital_collection_f:%22${query}%22&rows=20000&wt=xml&indent=true"  | egrep '"id"' | sed -e 's/^[^>]*>//' -e 's/<.*$//' | sort >  ~/records/v4_old_dl_${out}.ids
+
+curl -s "http://libsvr40.lib.virginia.edu:8983/solr/old_dl/select?q=digital_collection_facet%3A%22${query}%22&rows=20000&fl=id&wt=xml&indent=true" | egrep '"id"' | sed -e 's/^[^>]*>//' -e 's/<.*$//' | sort > ~/records/v3_old_dl_${out}.ids
+
+cmp -s ~/records/v4_old_dl_${out}.ids ~/records/v3_old_dl_${out}.ids
+if [[ $? != 0 ]] ; then 
+    echo "query $query different"
+    wc -l ~/records/v4_old_dl_${out}.ids ~/records/v3_old_dl_${out}.ids
+    ls -al ~/records/v4_old_dl_${out}.ids ~/records/v3_old_dl_${out}.ids
+    diff ~/records/v4_old_dl_${out}.ids ~/records/v3_old_dl_${out}.ids
+else
+    echo "query $query identical"
+fi
+
+

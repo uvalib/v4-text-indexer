@@ -1,0 +1,71 @@
+#!/bin/bash
+
+set -o nounset
+set -o errexit
+
+SCRIPTDIR=$( (cd -P $(dirname $0) && pwd) )
+corename=etext
+DATADIR=$SCRIPTDIR/data
+JAVA=/lib_content23/java_1.8.0/jdk1.8.0/bin/java
+
+# load the shared bash functions log, vlog and Verbose
+. $SCRIPTDIR/outputfuncs.bash
+
+function newest () {
+    find $1 -maxdepth 1 -name "*.xml"  -printf '%T+ %p\n' | sort -r | head -1 | cut -d ' ' -f 2
+}
+
+function oldest () {
+    find $1 -maxdepth 1 -name "*.xml"  -printf '%T+ %p\n' | sort | head -1 | cut -d ' ' -f 2
+}
+
+verbose=
+test=
+force=
+transform=
+while getopts :vtfx: opt
+do
+    case $opt in
+        v) verbose=-v;;
+        f) force=-f;;
+        t) test=-t;;
+        x) transform=$OPTARG;;
+    esac
+done
+shift $((OPTIND-1))
+
+if [[ "$#" != "0" ]] ; then 
+    pattern="$1"
+else
+    pattern=".*"
+fi
+uptodate=0
+totaldirs=0
+Verbose "Checking whether solr-add files need to be transformed"
+for dir in `find $DATADIR/input/ -mindepth 1 -maxdepth 1 -type d  -not -empty -print | sort | grep "$pattern"`
+do 
+    subdir=`basename $dir`
+    process=0
+    if [ ! -e $DATADIR/transformed_${transform}/$subdir ]
+    then
+        Verbose "Creating Directory: $subdir"
+        mkdir -p $DATADIR/transformed_${transform}/$subdir
+        process=1
+    fi
+    newest_src=`newest $dir`
+    oldest_dest=`oldest $DATADIR/transformed_${transform}/$subdir`
+    if [[ "$force" == "-f" || "$process" == "1" || "$newest_src" -nt "$oldest_dest" || "$SCRIPTDIR/$transform" -nt "$oldest_dest" ]]
+    then
+        num_xmls=`find $DATADIR/input/$subdir -name "*.xml" -print | wc -l`
+        Verbose "Transforming subdirectory of $num_xmls files $subdir"
+        Verbose $JAVA  -jar lib/Saxon-HE-9.9.1-6.jar  -o:$DATADIR/transformed_${transform}/$subdir $dir $SCRIPTDIR/$transform
+        $JAVA  -jar lib/Saxon-HE-9.9.1-6.jar  -o:$DATADIR/transformed_${transform}/$subdir $dir $SCRIPTDIR/$transform
+    else
+        #Verbose "Directory $subdir is up to date"
+        let "uptodate = $uptodate + 1"
+    fi
+    let "totaldirs = $totaldirs + 1"
+done
+
+Verbose "Out of $totaldirs directories, $uptodate were already transformed"
+    

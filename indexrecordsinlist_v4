@@ -1,0 +1,139 @@
+#!/bin/bash
+
+set -o nounset
+set -o errexit
+
+SCRIPTDIR=$( (cd -P $(dirname $0) && pwd) )
+corename=etext
+DATADIR=$SCRIPTDIR/data
+E_BADARGS=65
+
+# load the shared bash functions log, vlog and Verbose
+. $SCRIPTDIR/outputfuncs.bash
+
+function middle () { 
+    sed -n "$(($1 + 1)),$(($1 + $2))p; $(($1 + $2 + 1))q" "${*:3}"; 
+} 
+
+function doonexit() { 
+    if [ "$cleanexit" == "" ] 
+    then
+        Verbose "Process Interrupted : Cleaning up before exiting"
+    fi
+
+    #rm $DATADIR/to-be-indexed-list-${index}.txt
+}
+
+needcommit=0
+cleanexit=
+verbose=
+force=
+index=staging
+test=
+chunk=100
+sample=
+aws=0
+s3url=
+year=`date "+%Y"`
+while getopts :vsftan:i:u: opt
+do
+    case $opt in
+        v) verbose=-v;;
+        f) force=-f;;
+        t) test=-t;;
+        a) aws=1;;
+        s) sample=-s;;
+        n) chunk=$OPTARG;;
+        i) index=$OPTARG;;
+        u) s3url=$OPTARG;;
+    esac
+done
+shift $((OPTIND-1))
+
+if [ "$force" == "-f" ] ; then
+    Verbose "Forcing index rebuild with -f flag"
+fi
+
+if [[ "$index" != "staging" && "$index" != "production" ]]; then
+    Echo '-i arg value MUST be "staging" or "production"'
+    exit $E_BADARGS
+fi
+
+if [[ "$s3url" == "" ]] ; then
+    s3url="s3://virgo4-ingest-${index}-inbound/doc-update/default/${year}"
+fi
+
+if [[ ${aws} == "1" ]] ; then 
+    if [ "$AWS_ACCESS_KEY_ID" == "" ] ; then
+        Echo "environment variable AWS_ACCESS_KEY_ID must be defined"
+        exit 1
+    fi
+    if [ "$AWS_SECRET_ACCESS_KEY" == "" ] ; then
+        Echo "environment variable AWS_SECRET_ACCESS_KEY must be defined"
+        exit 1
+    fi
+    #if [ "$AWS_DEFAULT_REGION" == "" ] ; then
+    #    Echo "environment variable AWS_DEFAULT_REGION must be defined"
+    #   exit 1
+    #fi
+    if [ "$AWS_REGION" == "" ] ; then
+        Echo "environment variable AWS_REGION must be defined"
+        exit 1
+    fi
+fi
+
+num=0
+step=$chunk
+
+listlen=`wc -l < $DATADIR/to-be-indexed-list-${index}.txt`
+Verbose "    List to be indexed contains $listlen items"
+Verbose "    Indexing to $index index   $step records at a time"
+
+if [[ "$sample" == "-s" ]] ; then
+    mv $DATADIR/to-be-indexed-list-${index}.txt $DATADIR/to-be-indexed-list-all-${index}.txt
+    shuf -n 1000 $DATADIR/to-be-indexed-list-all-${index}.txt > $DATADIR/to-be-indexed-list-${index}.txt
+    listlen=`wc -l < $DATADIR/to-be-indexed-list-${index}.txt`
+    Verbose "    TestMode : Randomized list to be indexed contains $listlen items"
+fi
+
+while [ "$num" -lt "$listlen" ]
+do
+    top=$(($num + $step -1 ))
+    if [ "$top" -gt "$listlen" ] ; then top=$listlen ; fi
+
+    Verbose "    Posting records  $num to $top"
+
+    needcommit=1
+    
+    #set -o pipefail
+
+    middle $num $step $DATADIR/to-be-indexed-list-${index}.txt | 
+        xargs -n $step  sed -e '${q}' -e '3,${\#^<[/]\?add>\|^<?xml#d}' > $DATADIR/chunks/solr_records_to_send_to_index_${num}.xml
+ 
+    if [[ "$test" == "-t" ]]; then
+        Echo $AWS s3 cp $DATADIR/chunks/solr_records_to_send_to_index_${num}.xml $s3url/etext_solr_records_${num}.xml
+    else
+        $AWS s3 cp $DATADIR/chunks/solr_records_to_send_to_index_${num}.xml $s3url/etext_solr_records_${num}.xml 2> /dev/null
+    fi 
+
+    #set +o pipefail
+
+    Verbose "    Copying records  $num to $top to indexed_solr_records directory"
+
+    for file in `middle $num $step $DATADIR/to-be-indexed-list-${index}.txt`
+    do
+        dir=`dirname $file`
+        subdir=`basename $dir`
+        if [[ "$test" != "-t" ]] ; then
+            cp $file $DATADIR/indexed_${index}/$subdir
+        fi
+    done
+    let num=$(($num + $step))
+done       
+
+cleanexit="optimize"
+
+doonexit  
+
+Verbose "    Done updating core $corename of index $index"
+    
