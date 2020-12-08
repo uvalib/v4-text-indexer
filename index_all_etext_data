@@ -10,7 +10,7 @@ BASEDIR=$SCRIPTDIR/common
 verbose=
 force=
 test=
-aws=0
+awsparm=
 chunk=
 index=staging:production
 while getopts :vfc:tai: opt
@@ -19,7 +19,7 @@ while getopts :vfc:tai: opt
           v) verbose=-v;;
           t) test=-t;;
           f) force=-f;;
-          a) aws=1;;
+          a) awsparm=-a;;
           c) chunk=-c $OPTARG;;
           i) index=$OPTARG
       esac
