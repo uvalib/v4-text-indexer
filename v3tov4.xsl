@@ -18,6 +18,10 @@
         <map v3="subject_text" v4="subject_tsearchf_stored"/>
         <map v3="subject_facet" v4="subject_tsearchf_stored"/>
         <map v3="title_display" v4="title_tsearch_stored"/>
+        <map v3="linked_title_display" v4="title_alternate_tsearch_stored"/>
+        <map v3="main_title_display" v4="full_title_tsearchf_stored"/>
+        <map v3="vern_title_display" v4="title_vern_tsearch_stored"/>
+        <map v3="note_display" v4="note_a"/>
         <map v3="title_sort_facet" v4="title_ssort_stored"/>
         <!-- <map v3="fulltext" v4="fulltext_large_multi"/> -->
     </xsl:variable>

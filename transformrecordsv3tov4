@@ -58,7 +58,7 @@ do
     then
         num_xmls=`find $DATADIR/input/$subdir -name "*.xml" -print | wc -l`
         Verbose "Transforming subdirectory of $num_xmls files $subdir"
-        Verbose $JAVA  -jar lib/Saxon-HE-9.9.1-6.jar  -o:$DATADIR/transformed_${transform}/$subdir $dir $SCRIPTDIR/$transform
+        Verbose "$JAVA  -jar lib/Saxon-HE-9.9.1-6.jar  -o:$DATADIR/transformed_${transform}/$subdir $dir $SCRIPTDIR/$transform"
         $JAVA  -jar lib/Saxon-HE-9.9.1-6.jar  -o:$DATADIR/transformed_${transform}/$subdir $dir $SCRIPTDIR/$transform
     else
         #Verbose "Directory $subdir is up to date"

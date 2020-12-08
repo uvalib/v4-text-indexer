@@ -5,7 +5,7 @@ corename=etext
 
 # load the shared bash functions log, vlog and Verbose
 . $SCRIPTDIR/outputfuncs.bash
-`
+
 if [ "$AWS_ACCESS_KEY_ID" == "" ] ; then
     Echo "environment variable AWS_ACCESS_KEY_ID must be defined"
     exit 1
