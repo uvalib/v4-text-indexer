@@ -23,7 +23,7 @@
         <map v3="vern_title_display" v4="title_vern_tsearch_stored"/>
         <map v3="note_display" v4="note_a"/>
         <map v3="title_sort_facet" v4="title_ssort_stored"/>
-        <!-- <map v3="fulltext" v4="fulltext_large_multi"/> -->
+        <map v3="fulltext" v4="fulltext_large_highlight"/> 
     </xsl:variable>
     
     <xsl:output method="xml" indent="yes" omit-xml-declaration="yes"/>
@@ -56,9 +56,9 @@
     <xsl:template match="field[@name = 'admin_meta_file_display']">
         <!-- delete the admin_meta_file_display field -->
     </xsl:template>
-    <xsl:template match="field[@name = 'fulltext']">
-        <!-- delete the fulltext field -->
-    </xsl:template>
+    <!-- <xsl:template match="field[@name = 'fulltext']">
+        <!- - delete the fulltext field - ->
+    </xsl:template> -->
     <xsl:template match="field[@name = 'year_multisort_i']">
         <field name="published_date">
             <xsl:value-of select="concat(text(), '-01-01T00:00:00Z')"/>
